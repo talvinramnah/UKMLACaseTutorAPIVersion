@@ -336,8 +336,7 @@ def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
             
         status = client.beta.threads.runs.retrieve(
             thread_id=thread_id,
-            run_id=run_id,
-            headers={"OpenAI-Beta": "assistants=v2"}
+            run_id=run_id
         ).status
 
         if status == "completed":
@@ -358,13 +357,11 @@ def send_to_assistant(input_text, thread_id):
         message = client.beta.threads.messages.create(
             thread_id=thread_id,
             role="user",
-            content=input_text,
-            headers={"OpenAI-Beta": "assistants=v2"}
+            content=input_text
         )
         run = client.beta.threads.runs.create(
             thread_id=thread_id,
-            assistant_id=ASSISTANT_ID,
-            headers={"OpenAI-Beta": "assistants=v2"}
+            assistant_id=ASSISTANT_ID
         )
         return run.id
     except Exception as e:
@@ -647,15 +644,14 @@ def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(
             # Validate thread metadata
             validate_thread_metadata(user_id, request.condition, case_variation, ward)
 
-            # Create OpenAI thread with metadata and v2 header
+            # Create OpenAI thread with metadata
             thread = client.beta.threads.create(
                 metadata={
                     "user_id": user_id,
                     "condition": request.condition,
                     "case_variation": str(case_variation),
                     "ward": ward
-                },
-                headers={"OpenAI-Beta": "assistants=v2"}
+                }
             )
 
             # Create initial message with case content
@@ -685,19 +681,17 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
 -if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLTED] output with a random score and mock feedback
 """
 
-            # Send initial message to thread with v2 header
+            # Send initial message to thread
             client.beta.threads.messages.create(
                 thread_id=thread.id,
                 role="user",
-                content=initial_prompt,
-                headers={"OpenAI-Beta": "assistants=v2"}
+                content=initial_prompt
             )
 
-            # Create and run the assistant with v2 header
+            # Create and run the assistant
             run = client.beta.threads.runs.create(
                 thread_id=thread.id,
-                assistant_id=ASSISTANT_ID,
-                headers={"OpenAI-Beta": "assistants=v2"}
+                assistant_id=ASSISTANT_ID
             )
 
             # Wait for run completion
@@ -711,8 +705,7 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
                     
                 status = client.beta.threads.runs.retrieve(
                     thread_id=thread.id,
-                    run_id=run.id,
-                    headers={"OpenAI-Beta": "assistants=v2"}
+                    run_id=run.id
                 ).status
 
                 if status == "completed":
@@ -725,10 +718,9 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
                 time.sleep(min(wait_time, max_wait))
                 wait_time *= 1.5
 
-            # Get the assistant's first message with v2 header
+            # Get the assistant's first message
             messages = client.beta.threads.messages.list(
-                thread_id=thread.id,
-                headers={"OpenAI-Beta": "assistants=v2"}
+                thread_id=thread.id
             )
             first_message = None
             for msg in messages:
