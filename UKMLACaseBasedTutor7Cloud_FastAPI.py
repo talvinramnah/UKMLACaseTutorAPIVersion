@@ -108,6 +108,17 @@ def get_openai_client():
                 api_key=OPENAI_API_KEY,
                 default_headers={"OpenAI-Beta": "assistants=v2"}
             )
+            # Test the client to ensure it works
+            try:
+                assistant = get_openai_client._client.beta.assistants.retrieve(assistant_id=ASSISTANT_ID)
+                if not assistant:
+                    raise ValueError(f"Assistant with ID {ASSISTANT_ID} not found")
+            except Exception as e:
+                print(f"\n=== Assistant Retrieval Error ===")
+                print(f"Error type: {type(e).__name__}")
+                print(f"Error message: {str(e)}")
+                print("===============================")
+                raise ValueError(f"Failed to retrieve assistant: {str(e)}")
         except Exception as e:
             print(f"\n=== OpenAI Client Error ===")
             print(f"Error type: {type(e).__name__}")
@@ -578,53 +589,53 @@ def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Opti
 @app.post("/start_case")
 def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
     """Start a new case for the authenticated user. Returns thread_id, first_message, and case_variation."""
-    # 1. Validate token and extract user_id
-    if not authorization or not authorization.startswith("Bearer "):
-        return JSONResponse(status_code=401, content={"error": "Missing or invalid Authorization header."})
-    if not x_refresh_token:
-        return JSONResponse(status_code=401, content={"error": "Missing refresh token header."})
-        
-    token = authorization.split(" ", 1)[1]
     try:
-        # Set the session with both tokens
+        # Validate session and get user
+        if not authorization or not authorization.startswith("Bearer "):
+            return JSONResponse(status_code=401, content={"error": "Missing or invalid Authorization header."})
+        if not x_refresh_token:
+            return JSONResponse(status_code=401, content={"error": "Missing refresh token header."})
+            
+        token = authorization.split(" ", 1)[1]
         supabase.auth.set_session(token, x_refresh_token)
-        
-        # Verify the session is valid by getting the user
         user = supabase.auth.get_user()
         if not user:
-            return JSONResponse(
-                status_code=401,
-                content={"error": "Invalid session"}
-            )
+            return JSONResponse(status_code=401, content={"error": "Invalid session"})
             
-        # Get user ID from the authenticated user
         user_id = user.user.id
         if not user_id:
             return JSONResponse(status_code=401, content={"error": "Invalid token: no user_id."})
 
-        # 2. Find the requested case file
+        # Validate case files directory
+        validate_case_files_dir()
+
+        # Find the requested case file
         case_file = get_case_file(request.condition)
         if not case_file:
             return JSONResponse(status_code=404, content={"error": f"Case '{request.condition}' not found."})
 
         try:
-            # Get OpenAI client
+            # Get OpenAI client with v2 header
             client = get_openai_client()
             
-            # 3. Read the case content
+            # Read the case content
             with open(case_file, "r") as f:
                 case_content = f.read().strip()
 
-            # 4. Get next case variation
+            # Get next case variation
             case_variation = get_next_case_variation(request.condition, user_id)
+            ward = get_ward_for_condition(request.condition)
+            
+            # Validate thread metadata
+            validate_thread_metadata(user_id, request.condition, case_variation, ward)
 
-            # 5. Create OpenAI thread with metadata
+            # Create OpenAI thread with metadata
             thread = client.beta.threads.create(
                 metadata={
                     "user_id": user_id,
                     "condition": request.condition,
                     "case_variation": str(case_variation),
-                    "ward": get_ward_for_condition(request.condition)
+                    "ward": ward
                 }
             )
 
@@ -768,41 +779,7 @@ async def continue_case(request: ContinueCaseRequest, authorization: Optional[st
             latest_message = messages.data[0].content[0].text.value
             
             # Check for case completion
-            is_completed = "[CASE COMPLETED]" in latest_message
-            feedback = None
-            score = None
-            
-            if is_completed:
-                try:
-                    # Extract JSON after the completion marker
-                    completion_index = latest_message.find("[CASE COMPLETED]")
-                    json_text = latest_message[completion_index:].strip()
-                    json_text = json_text.replace("[CASE COMPLETED]", "").strip()
-                    feedback_json = json.loads(json_text)
-                    
-                    score = int(feedback_json["score"])
-                    feedback = feedback_json["feedback"]
-                    
-                    # Validate score
-                    if not 1 <= score <= 10:
-                        raise ValueError("Score must be between 1 and 10")
-                    
-                    # Validate feedback
-                    if not feedback or not isinstance(feedback, str):
-                        raise ValueError("Feedback must be a non-empty string")
-                        
-                except json.JSONDecodeError as e:
-                    logging.error(f"Failed to parse completion JSON: {str(e)}")
-                    return JSONResponse(
-                        status_code=500,
-                        content={"error": "Invalid completion format"}
-                    )
-                except ValueError as e:
-                    logging.error(f"Invalid feedback data: {str(e)}")
-                    return JSONResponse(
-                        status_code=500,
-                        content={"error": str(e)}
-                    )
+            is_completed, score, feedback = parse_case_completion(latest_message)
             
             return {
                 "assistant_reply": latest_message,
@@ -1070,3 +1047,56 @@ def get_progress():
         )
 
 # --- (Other FastAPI endpoints and backend logic will go here) ---
+
+# Validate case files directory
+def validate_case_files_dir():
+    if not CASE_FILES_DIR.exists():
+        print(f"Creating cases directory: {CASE_FILES_DIR}")
+        CASE_FILES_DIR.mkdir(parents=True, exist_ok=True)
+    if not CASE_FILES_DIR.is_dir():
+        raise ValueError(f"Cases path is not a directory: {CASE_FILES_DIR}")
+    return True
+
+# Validate thread metadata
+def validate_thread_metadata(user_id: str, condition: str, case_variation: int, ward: str):
+    if not all([user_id, condition, case_variation, ward]):
+        raise ValueError("Missing required metadata fields")
+    if not isinstance(case_variation, int) or case_variation < 1:
+        raise ValueError("Invalid case variation number")
+    return True
+
+# Parse case completion with robust error handling
+def parse_case_completion(message: str):
+    try:
+        completion_index = message.find("[CASE COMPLETED]")
+        if completion_index == -1:
+            return None, None, None
+            
+        json_text = message[completion_index:].strip()
+        json_text = json_text.replace("[CASE COMPLETED]", "").strip()
+        
+        try:
+            feedback_json = json.loads(json_text)
+        except json.JSONDecodeError as e:
+            print(f"\n=== JSON Parse Error ===")
+            print(f"Error type: {type(e).__name__}")
+            print(f"Error message: {str(e)}")
+            print(f"JSON text: {json_text}")
+            print("=======================")
+            raise ValueError("Invalid completion format: JSON parse error")
+            
+        score = feedback_json.get("score")
+        feedback = feedback_json.get("feedback")
+        
+        if not isinstance(score, (int, float)) or not 1 <= score <= 10:
+            raise ValueError("Score must be a number between 1 and 10")
+        if not isinstance(feedback, str) or not feedback.strip():
+            raise ValueError("Feedback must be a non-empty string")
+            
+        return True, score, feedback
+    except Exception as e:
+        print(f"\n=== Case Completion Parse Error ===")
+        print(f"Error type: {type(e).__name__}")
+        print(f"Error message: {str(e)}")
+        print("===================================")
+        return False, None, None
