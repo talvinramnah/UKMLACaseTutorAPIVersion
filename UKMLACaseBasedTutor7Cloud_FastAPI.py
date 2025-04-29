@@ -23,6 +23,7 @@ from dotenv import load_dotenv
 import uuid
 from jose import jwt
 import logging
+from fastapi.middleware.cors import CORSMiddleware
 
 # --- CONFIG ---
 load_dotenv()
@@ -63,6 +64,15 @@ app = FastAPI(
     title="UKMLA Case Tutor API",
     description="API for the UKMLA Case-Based Tutor system",
     version="1.0.0"
+)
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
 )
 
 # Initialize Supabase client with error handling
@@ -289,7 +299,8 @@ def login(request: LoginRequest):
             result.session.refresh_token
         )
         
-        return {
+        # Ensure we return a valid JSON response
+        response_data = {
             "access_token": result.session.access_token,
             "refresh_token": result.session.refresh_token,
             "user": {
@@ -297,6 +308,11 @@ def login(request: LoginRequest):
                 "email": result.user.email
             }
         }
+        
+        return JSONResponse(
+            status_code=200,
+            content=response_data
+        )
     except Exception as e:
         print(f"Login error: {str(e)}")  # Add logging
         return JSONResponse(
@@ -374,14 +390,29 @@ class ContinueCaseRequest(BaseModel):
 @app.get("/wards")
 def get_wards(authorization: Optional[str] = Header(None)):
     """Return a list of all cases in data/cases as a flat structure under a generic ward."""
-    cases_dir = CASE_FILES_DIR
-    wards = {"All": []}
-    if not cases_dir.exists() or not cases_dir.is_dir():
-        return JSONResponse(status_code=500, content={"error": "Cases directory not found."})
-    for case_file in cases_dir.glob("*.txt"):
-        case_name = case_file.stem.replace("_", " ").title()
-        wards["All"].append(case_name)
-    return {"wards": wards}
+    try:
+        cases_dir = CASE_FILES_DIR
+        if not cases_dir.exists() or not cases_dir.is_dir():
+            return JSONResponse(
+                status_code=500,
+                content={"error": "Cases directory not found."}
+            )
+            
+        wards = {"All": []}
+        for case_file in cases_dir.glob("*.txt"):
+            case_name = case_file.stem.replace("_", " ").title()
+            wards["All"].append(case_name)
+            
+        return JSONResponse(
+            status_code=200,
+            content={"wards": wards}
+        )
+    except Exception as e:
+        print(f"Wards error: {str(e)}")  # Add logging
+        return JSONResponse(
+            status_code=500,
+            content={"error": str(e)}
+        )
 
 @app.post("/start_case")
 def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(None)):
