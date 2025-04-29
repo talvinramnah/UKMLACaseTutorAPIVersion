@@ -115,7 +115,8 @@ def get_openai_client():
             try:
                 # First verify the assistant exists
                 assistant = get_openai_client._client.beta.assistants.retrieve(
-                    assistant_id=ASSISTANT_ID
+                    assistant_id=ASSISTANT_ID,
+                    headers={"OpenAI-Beta": "assistants=v2"}
                 )
                 if not assistant:
                     raise ValueError(f"Assistant with ID {ASSISTANT_ID} not found")
