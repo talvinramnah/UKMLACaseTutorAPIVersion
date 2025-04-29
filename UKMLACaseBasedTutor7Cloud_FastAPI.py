@@ -108,6 +108,9 @@ except Exception as e:
 @app.middleware("http")
 async def validate_session(request: Request, call_next):
     print(f"\n=== Session Validation for {request.url.path} ===")
+    print("All request headers:")
+    for header, value in request.headers.items():
+        print(f"{header}: {value}")
     
     # Skip session validation for public endpoints
     if request.url.path in ["/", "/login", "/signup", "/refresh"]:
@@ -119,7 +122,9 @@ async def validate_session(request: Request, call_next):
     refresh_token = request.headers.get("X-Refresh-Token") or request.headers.get("x-refresh-token")
     
     print(f"Auth header present: {bool(auth_header)}")
+    print(f"Auth header value: {auth_header}")
     print(f"Refresh token present: {bool(refresh_token)}")
+    print(f"Refresh token value: {refresh_token}")
     
     if not auth_header or not refresh_token:
         print("Missing token or refresh token")
@@ -141,6 +146,7 @@ async def validate_session(request: Request, call_next):
             print("Session set successfully")
         except Exception as e:
             print(f"Failed to set session with current tokens: {str(e)}")
+            print(f"Error type: {type(e).__name__}")
             # If setting session fails, try to refresh the token
             try:
                 print("Attempting to refresh session...")
@@ -165,6 +171,7 @@ async def validate_session(request: Request, call_next):
                     )
             except Exception as refresh_error:
                 print(f"Failed to refresh session: {str(refresh_error)}")
+                print(f"Refresh error type: {type(refresh_error).__name__}")
                 return JSONResponse(
                     status_code=401,
                     content={"error": "Session validation failed"}
@@ -177,6 +184,7 @@ async def validate_session(request: Request, call_next):
     except Exception as e:
         print(f"Session validation error: {str(e)}")
         print(f"Error type: {type(e).__name__}")
+        print(f"Error traceback: {traceback.format_exc()}")
         return JSONResponse(
             status_code=401,
             content={"error": f"Session validation failed: {str(e)}"}
