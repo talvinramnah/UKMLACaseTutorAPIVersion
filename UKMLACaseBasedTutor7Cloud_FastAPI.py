@@ -467,10 +467,35 @@ class ContinueCaseRequest(BaseModel):
     refresh_token: Optional[str] = None
 
 @app.get("/wards")
-def get_wards():
+def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
     """Return a list of all cases in data/cases as a flat structure under a generic ward."""
     try:
-        # The session is already set by the middleware
+        # Validate session
+        if not authorization or not authorization.startswith("Bearer "):
+            return JSONResponse(
+                status_code=401,
+                content={"error": "Missing or invalid Authorization header"}
+            )
+        if not x_refresh_token:
+            return JSONResponse(
+                status_code=401,
+                content={"error": "Missing refresh token header"}
+            )
+            
+        # Set the session with both tokens
+        token = authorization.split(" ", 1)[1]
+        supabase.auth.set_session(token, x_refresh_token)
+        
+        # Verify the session is valid by getting the user
+        user = supabase.auth.get_user()
+        if not user:
+            return JSONResponse(
+                status_code=401,
+                content={"error": "Invalid session"}
+            )
+        print(f"User authenticated for /wards: {user.user.email}")
+            
+        # Get cases from directory
         cases_dir = CASE_FILES_DIR
         if not cases_dir.exists() or not cases_dir.is_dir():
             return JSONResponse(
