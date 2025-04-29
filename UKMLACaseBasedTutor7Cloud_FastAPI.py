@@ -107,15 +107,15 @@ def get_openai_client():
             
             # Initialize client with v2 header
             get_openai_client._client = openai.OpenAI(
-                api_key=OPENAI_API_KEY
+                api_key=OPENAI_API_KEY,
+                default_headers={"OpenAI-Beta": "assistants=v2"}
             )
             
             # Test the client to ensure it works
             try:
-                # First verify the assistant exists with v2 header
+                # First verify the assistant exists
                 assistant = get_openai_client._client.beta.assistants.retrieve(
-                    assistant_id=ASSISTANT_ID,
-                    headers={"OpenAI-Beta": "assistants=v2"}
+                    assistant_id=ASSISTANT_ID
                 )
                 if not assistant:
                     raise ValueError(f"Assistant with ID {ASSISTANT_ID} not found")
@@ -644,15 +644,14 @@ def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(
             # Validate thread metadata
             validate_thread_metadata(user_id, request.condition, case_variation, ward)
 
-            # Create OpenAI thread with metadata and v2 header
+            # Create OpenAI thread with metadata
             thread = client.beta.threads.create(
                 metadata={
                     "user_id": user_id,
                     "condition": request.condition,
                     "case_variation": str(case_variation),
                     "ward": ward
-                },
-                headers={"OpenAI-Beta": "assistants=v2"}
+                }
             )
 
             # 6. Create initial message with case content
