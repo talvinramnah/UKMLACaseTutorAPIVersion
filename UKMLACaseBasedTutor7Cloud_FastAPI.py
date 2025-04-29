@@ -91,36 +91,35 @@ except Exception as e:
     raise ValueError(f"Failed to initialize Supabase client: {str(e)}")
 
 # Initialize OpenAI client with error handling
+def get_openai_client():
+    if not hasattr(get_openai_client, '_client'):
+        try:
+            api_key = os.environ.get("OPENAI_API_KEY")
+            if not api_key:
+                raise ValueError("OPENAI_API_KEY environment variable is not set")
+            get_openai_client._client = openai.OpenAI(api_key=api_key)
+        except Exception as e:
+            print(f"\n=== OpenAI Client Error ===")
+            print(f"Error type: {type(e).__name__}")
+            print(f"Error message: {str(e)}")
+            print("===========================")
+            raise ValueError(f"Failed to initialize OpenAI client: {str(e)}")
+    return get_openai_client._client
+
+# Remove the immediate client initialization
 try:
-    print("\n=== OpenAI Client Initialization ===")
-    print("Attempting to initialize OpenAI client...")
-    
-    # Get API key from environment
+    print("\n=== OpenAI Configuration ===")
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         raise ValueError("OPENAI_API_KEY environment variable is not set")
-    
-    # Create OpenAI client with the API key
-    client = openai.OpenAI(api_key=api_key)
-    
-    # Verify the client is working by making a test call
-    try:
-        client.models.list()  # This will fail if the API key is invalid
-        print("OpenAI client initialized successfully")
-        print("===================================")
-    except Exception as e:
-        print(f"\n=== OpenAI API Test Error ===")
-        print(f"Error type: {type(e).__name__}")
-        print(f"Error message: {str(e)}")
-        print("===================================")
-        raise ValueError(f"OpenAI API key validation failed: {str(e)}")
-        
+    print("OpenAI API key is set")
+    print("===========================")
 except Exception as e:
-    print(f"\n=== OpenAI Initialization Error ===")
+    print(f"\n=== OpenAI Configuration Error ===")
     print(f"Error type: {type(e).__name__}")
     print(f"Error message: {str(e)}")
-    print("===================================")
-    raise ValueError(f"Failed to initialize OpenAI client: {str(e)}")
+    print("=================================")
+    raise ValueError(f"Failed to configure OpenAI: {str(e)}")
 
 # Add session validation middleware
 @app.middleware("http")
@@ -316,18 +315,21 @@ def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
 
 @rate_limit(1)
 def send_to_assistant(input_text, thread_id):
-    client.beta.threads.messages.create(
-        thread_id=thread_id,
-        role="user",
-        content=input_text
-    )
-    
-    run = client.beta.threads.runs.create(
-        thread_id=thread_id,
-        assistant_id=ASSISTANT_ID
-    )
-    
-    return run.id
+    client = get_openai_client()  # Get the client only when needed
+    try:
+        message = client.beta.threads.messages.create(
+            thread_id=thread_id,
+            role="user",
+            content=input_text
+        )
+        run = client.beta.threads.runs.create(
+            thread_id=thread_id,
+            assistant_id=ASSISTANT_ID
+        )
+        return run.id
+    except Exception as e:
+        print(f"Error in send_to_assistant: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 # --- AUTHENTICATION ENDPOINTS ---
 
