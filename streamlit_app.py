@@ -211,12 +211,12 @@ def get_wards():
 def start_case(condition: str):
     """Start a new case with the selected condition."""
     try:
-        response = requests.post(
-            f"{BACKEND_URL}/start_case",
-            headers={"Authorization": f"Bearer {st.session_state.access_token}"},
+        response = make_authenticated_request(
+            "post",
+            "/start_case",
             json={"condition": condition}
         )
-        if response.status_code == 200:
+        if response and response.status_code == 200:
             data = response.json()
             st.session_state.thread_id = data["thread_id"]
             st.session_state.case_started = True
