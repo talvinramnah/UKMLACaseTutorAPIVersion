@@ -94,12 +94,27 @@ except Exception as e:
 try:
     print("\n=== OpenAI Client Initialization ===")
     print("Attempting to initialize OpenAI client...")
+    
+    # Get API key from environment
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY environment variable is not set")
+    
     # Create OpenAI client with the API key
-    client = openai.OpenAI(api_key=openai.api_key)
+    client = openai.OpenAI(api_key=api_key)
+    
     # Verify the client is working by making a test call
-    client.models.list()  # This will fail if the API key is invalid
-    print("OpenAI client initialized successfully")
-    print("===================================")
+    try:
+        client.models.list()  # This will fail if the API key is invalid
+        print("OpenAI client initialized successfully")
+        print("===================================")
+    except Exception as e:
+        print(f"\n=== OpenAI API Test Error ===")
+        print(f"Error type: {type(e).__name__}")
+        print(f"Error message: {str(e)}")
+        print("===================================")
+        raise ValueError(f"OpenAI API key validation failed: {str(e)}")
+        
 except Exception as e:
     print(f"\n=== OpenAI Initialization Error ===")
     print(f"Error type: {type(e).__name__}")
