@@ -267,7 +267,7 @@ def read_root():
     return JSONResponse(content={"message": "Welcome to the UKMLA Case Tutor FastAPI backend!"})
 
 # Case file directory - using relative path for cloud deployment
-CASE_FILES_DIR = Path(__file__).parent / "data" / "cases"
+CASE_FILES_DIR = Path(__file__).parent.parent / "data"
 
 # --- HELPER FUNCTIONS ---
 def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
@@ -500,6 +500,8 @@ def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Opti
         print(f"Looking for cases in directory: {cases_dir}")
         print(f"Directory exists: {cases_dir.exists()}")
         print(f"Directory is directory: {cases_dir.is_dir()}")
+        print(f"Current working directory: {os.getcwd()}")
+        print(f"Directory contents: {list(cases_dir.parent.glob('*'))}")
         
         if not cases_dir.exists():
             print(f"Creating cases directory: {cases_dir}")
@@ -543,13 +545,27 @@ def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Opti
         )
 
 @app.post("/start_case")
-def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(None)):
+def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
     """Start a new case for the authenticated user. Returns thread_id, first_message, and case_variation."""
     # 1. Validate token and extract user_id
     if not authorization or not authorization.startswith("Bearer "):
         return JSONResponse(status_code=401, content={"error": "Missing or invalid Authorization header."})
+    if not x_refresh_token:
+        return JSONResponse(status_code=401, content={"error": "Missing refresh token header."})
+        
     token = authorization.split(" ", 1)[1]
     try:
+        # Set the session with both tokens
+        supabase.auth.set_session(token, x_refresh_token)
+        
+        # Verify the session is valid by getting the user
+        user = supabase.auth.get_user()
+        if not user:
+            return JSONResponse(
+                status_code=401,
+                content={"error": "Invalid session"}
+            )
+            
         payload = jwt.decode(token, options={"verify_signature": False})
         user_id = payload.get("sub")
         if not user_id:
