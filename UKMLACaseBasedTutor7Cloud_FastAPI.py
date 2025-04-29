@@ -104,27 +104,47 @@ def get_openai_client():
         try:
             if not OPENAI_API_KEY:
                 raise ValueError("OPENAI_API_KEY environment variable is not set")
+            
+            # Initialize client with v2 header
             get_openai_client._client = openai.OpenAI(
                 api_key=OPENAI_API_KEY,
                 default_headers={"OpenAI-Beta": "assistants=v2"}
             )
+            
+            # Verify the header is set correctly
+            if not get_openai_client._client._default_headers.get("OpenAI-Beta") == "assistants=v2":
+                raise ValueError("Failed to set OpenAI-Beta header")
+            
             # Test the client to ensure it works
             try:
-                assistant = get_openai_client._client.beta.assistants.retrieve(assistant_id=ASSISTANT_ID)
+                # First verify the assistant exists
+                assistant = get_openai_client._client.beta.assistants.retrieve(
+                    assistant_id=ASSISTANT_ID,
+                    headers={"OpenAI-Beta": "assistants=v2"}  # Explicitly set header for this call
+                )
                 if not assistant:
                     raise ValueError(f"Assistant with ID {ASSISTANT_ID} not found")
+                
+                # Log successful initialization
+                print("\n=== OpenAI Client Initialized Successfully ===")
+                print(f"Assistant ID: {ASSISTANT_ID}")
+                print(f"Assistant Name: {assistant.name}")
+                print("===========================================")
+                
             except Exception as e:
                 print(f"\n=== Assistant Retrieval Error ===")
                 print(f"Error type: {type(e).__name__}")
                 print(f"Error message: {str(e)}")
                 print("===============================")
                 raise ValueError(f"Failed to retrieve assistant: {str(e)}")
+                
         except Exception as e:
             print(f"\n=== OpenAI Client Error ===")
             print(f"Error type: {type(e).__name__}")
             print(f"Error message: {str(e)}")
             print("===========================")
             raise ValueError(f"Failed to initialize OpenAI client: {str(e)}")
+            
     return get_openai_client._client
 
 # Remove the immediate client initialization
@@ -629,14 +649,15 @@ def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(
             # Validate thread metadata
             validate_thread_metadata(user_id, request.condition, case_variation, ward)
 
-            # Create OpenAI thread with metadata
+            # Create OpenAI thread with metadata and v2 header
             thread = client.beta.threads.create(
                 metadata={
                     "user_id": user_id,
                     "condition": request.condition,
                     "case_variation": str(case_variation),
                     "ward": ward
-                }
+                },
+                headers={"OpenAI-Beta": "assistants=v2"}  # Explicitly set header
             )
 
             # 6. Create initial message with case content
