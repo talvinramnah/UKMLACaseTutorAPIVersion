@@ -134,10 +134,41 @@ async def validate_session(request: Request, call_next):
         print(f"Token length: {len(token)}")
         print(f"Refresh token length: {len(refresh_token)}")
         
-        # Set the session for RLS
-        print("Setting Supabase session...")
-        supabase.auth.set_session(token, refresh_token)
-        print("Session set successfully")
+        try:
+            # First try to set the session with the current tokens
+            print("Setting Supabase session...")
+            supabase.auth.set_session(token, refresh_token)
+            print("Session set successfully")
+        except Exception as e:
+            print(f"Failed to set session with current tokens: {str(e)}")
+            # If setting session fails, try to refresh the token
+            try:
+                print("Attempting to refresh session...")
+                result = supabase.auth.refresh_session(refresh_token)
+                if result.session:
+                    print("Session refreshed successfully")
+                    # Update the session with new tokens
+                    supabase.auth.set_session(
+                        result.session.access_token,
+                        result.session.refresh_token
+                    )
+                    # Update the response headers with new tokens
+                    response = await call_next(request)
+                    response.headers["X-New-Access-Token"] = result.session.access_token
+                    response.headers["X-New-Refresh-Token"] = result.session.refresh_token
+                    return response
+                else:
+                    print("No session returned from refresh")
+                    return JSONResponse(
+                        status_code=401,
+                        content={"error": "Failed to refresh session"}
+                    )
+            except Exception as refresh_error:
+                print(f"Failed to refresh session: {str(refresh_error)}")
+                return JSONResponse(
+                    status_code=401,
+                    content={"error": "Session validation failed"}
+                )
         
         # Continue with the request
         response = await call_next(request)
@@ -759,34 +790,34 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
                 badge_awarded = None
                 try:
                     # Count successful cases in this ward (score >= 7)
-                    perf_result = supabase.table("performance") \
-                        .select("score") \
-                        .eq("user_id", user_id) \
-                        .eq("ward", ward) \
-                        .gte("score", 7) \
-                        .execute()
+        perf_result = supabase.table("performance") \
+            .select("score") \
+            .eq("user_id", user_id) \
+            .eq("ward", ward) \
+            .gte("score", 7) \
+            .execute()
                     
-                    success_count = len(perf_result.data) if perf_result.data else 0
+        success_count = len(perf_result.data) if perf_result.data else 0
 
                     # Check if badge already exists
-                    badge_result = supabase.table("badges") \
-                        .select("id") \
-                        .eq("user_id", user_id) \
-                        .eq("ward", ward) \
-                        .execute()
+        badge_result = supabase.table("badges") \
+            .select("id") \
+            .eq("user_id", user_id) \
+            .eq("ward", ward) \
+            .execute()
                     
-                    has_badge = bool(badge_result.data)
+        has_badge = bool(badge_result.data)
 
                     # Grant badge if eligible and not already granted
-                    if success_count >= 5 and not has_badge:
-                        badge_name = f"{ward} Badge"
-                        supabase.table("badges").insert({
-                            "user_id": user_id,
-                            "ward": ward,
-                            "badge_name": badge_name
-                        }).execute()
+        if success_count >= 5 and not has_badge:
+            badge_name = f"{ward} Badge"
+            supabase.table("badges").insert({
+                "user_id": user_id,
+                "ward": ward,
+                "badge_name": badge_name
+            }).execute()
                         badge_awarded = badge_name
-                except Exception as e:
+    except Exception as e:
                     logging.error(f"Error checking badge eligibility: {str(e)}")
                     # Don't fail the whole operation if badge check fails
                     badge_awarded = None
@@ -796,13 +827,13 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
                     "badge_awarded": badge_awarded
                 }
                 
-            except Exception as e:
+                                except Exception as e:
                 if attempt == max_retries - 1:
                     logging.error(f"Failed to save performance after {max_retries} attempts: {str(e)}")
                     raise
-                time.sleep(1)  # Wait before retry
+                                    time.sleep(1)  # Wait before retry
 
-    except Exception as e:
+        except Exception as e:
         logging.error(f"Error in save_performance: {str(e)}")
         logging.error(traceback.format_exc())
         return JSONResponse(
