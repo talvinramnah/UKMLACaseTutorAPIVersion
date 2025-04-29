@@ -116,7 +116,7 @@ async def validate_session(request: Request, call_next):
         
     # Get tokens from headers
     auth_header = request.headers.get("Authorization")
-    refresh_token = request.headers.get("X-Refresh-Token")
+    refresh_token = request.headers.get("X-Refresh-Token") or request.headers.get("x-refresh-token")
     
     print(f"Auth header present: {bool(auth_header)}")
     print(f"Refresh token present: {bool(refresh_token)}")
@@ -448,9 +448,25 @@ class ContinueCaseRequest(BaseModel):
     refresh_token: Optional[str] = None
 
 @app.get("/wards")
-def get_wards(authorization: Optional[str] = Header(None)):
+def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
     """Return a list of all cases in data/cases as a flat structure under a generic ward."""
+    # Validate tokens
+    if not authorization or not authorization.startswith("Bearer "):
+        return JSONResponse(
+            status_code=401,
+            content={"error": "Missing or invalid Authorization header"}
+        )
+    if not x_refresh_token:
+        return JSONResponse(
+            status_code=401,
+            content={"error": "Missing refresh token header"}
+        )
+        
     try:
+        # Set the session for RLS
+        token = authorization.split(" ", 1)[1]
+        supabase.auth.set_session(token, x_refresh_token)
+        
         cases_dir = CASE_FILES_DIR
         if not cases_dir.exists() or not cases_dir.is_dir():
             return JSONResponse(
