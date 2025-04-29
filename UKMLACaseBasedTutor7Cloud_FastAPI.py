@@ -104,7 +104,10 @@ def get_openai_client():
         try:
             if not OPENAI_API_KEY:
                 raise ValueError("OPENAI_API_KEY environment variable is not set")
-            get_openai_client._client = openai.OpenAI(api_key=OPENAI_API_KEY)
+            get_openai_client._client = openai.OpenAI(
+                api_key=OPENAI_API_KEY,
+                default_headers={"OpenAI-Beta": "assistants=v2"}
+            )
         except Exception as e:
             print(f"\n=== OpenAI Client Error ===")
             print(f"Error type: {type(e).__name__}")
