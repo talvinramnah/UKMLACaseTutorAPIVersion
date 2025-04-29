@@ -497,16 +497,37 @@ def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Opti
             
         # Get cases from directory
         cases_dir = CASE_FILES_DIR
-        if not cases_dir.exists() or not cases_dir.is_dir():
+        print(f"Looking for cases in directory: {cases_dir}")
+        print(f"Directory exists: {cases_dir.exists()}")
+        print(f"Directory is directory: {cases_dir.is_dir()}")
+        
+        if not cases_dir.exists():
+            print(f"Creating cases directory: {cases_dir}")
+            cases_dir.mkdir(parents=True, exist_ok=True)
+            
+        if not cases_dir.is_dir():
+            print(f"Cases path is not a directory: {cases_dir}")
             return JSONResponse(
                 status_code=500,
-                content={"error": "Cases directory not found."}
+                content={"error": "Cases path is not a directory"}
+            )
+            
+        # List all .txt files in the directory
+        case_files = list(cases_dir.glob("*.txt"))
+        print(f"Found {len(case_files)} case files")
+        
+        if not case_files:
+            print("No case files found")
+            return JSONResponse(
+                status_code=200,
+                content={"wards": {"All": []}}
             )
             
         wards = {"All": []}
-        for case_file in cases_dir.glob("*.txt"):
+        for case_file in case_files:
             case_name = case_file.stem.replace("_", " ").title()
             wards["All"].append(case_name)
+            print(f"Added case: {case_name}")
             
         return JSONResponse(
             status_code=200,
@@ -514,9 +535,11 @@ def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Opti
         )
     except Exception as e:
         print(f"Wards error: {str(e)}")
+        print(f"Error type: {type(e).__name__}")
+        print(f"Error traceback: {traceback.format_exc()}")
         return JSONResponse(
             status_code=500,
-            content={"error": str(e)}
+            content={"error": f"Failed to get wards: {str(e)}"}
         )
 
 @app.post("/start_case")
