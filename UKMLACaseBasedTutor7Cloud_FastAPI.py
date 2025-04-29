@@ -94,7 +94,10 @@ except Exception as e:
 try:
     print("\n=== OpenAI Client Initialization ===")
     print("Attempting to initialize OpenAI client...")
+    # Create OpenAI client with the API key
     client = openai.OpenAI(api_key=openai.api_key)
+    # Verify the client is working by making a test call
+    client.models.list()  # This will fail if the API key is invalid
     print("OpenAI client initialized successfully")
     print("===================================")
 except Exception as e:
