@@ -289,6 +289,7 @@ CASE_FILES_DIR = Path(__file__).parent / "data"
 # --- HELPER FUNCTIONS ---
 def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
     """Wait for run completion with exponential backoff."""
+    client = get_openai_client()
     start_time = time.time()
     wait_time = 0.5
     max_wait = 2.0  # Maximum wait between checks
@@ -597,6 +598,9 @@ def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(
             return JSONResponse(status_code=404, content={"error": f"Case '{request.condition}' not found."})
 
         try:
+            # Get OpenAI client
+            client = get_openai_client()
+            
             # 3. Read the case content
             with open(case_file, "r") as f:
                 case_content = f.read().strip()
