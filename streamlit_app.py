@@ -130,8 +130,8 @@ def check_token_expiry():
 # --- API HELPERS ---
 def make_authenticated_request(method, endpoint, **kwargs):
     """Make an authenticated request to the backend API."""
-    if not check_token_expiry():
-        st.error("Session expired. Please log in again.")
+    if not st.session_state.get("access_token") or not st.session_state.get("refresh_token"):
+        st.error("No authentication tokens found. Please log in again.")
         logout_user()
         st.rerun()
 
@@ -147,12 +147,50 @@ def make_authenticated_request(method, endpoint, **kwargs):
 
     try:
         response = getattr(requests, method)(f"{BACKEND_URL}{endpoint}", **kwargs)
+        
+        # Check for new tokens in response headers
+        new_access_token = response.headers.get("X-New-Access-Token")
+        new_refresh_token = response.headers.get("X-New-Refresh-Token")
+        
+        if new_access_token and new_refresh_token:
+            # Update session state with new tokens
+            st.session_state.access_token = new_access_token
+            st.session_state.refresh_token = new_refresh_token
+            logger.debug("Updated tokens from response headers")
+        
         if response.status_code == 401:
-            st.error("Session expired. Please log in again.")
-            logout_user()
-            st.rerun()
+            # Try to refresh the token
+            try:
+                refresh_response = requests.post(
+                    f"{BACKEND_URL}/refresh",
+                    json={"refresh_token": st.session_state.refresh_token}
+                )
+                if refresh_response.status_code == 200:
+                    data = refresh_response.json()
+                    st.session_state.access_token = data["access_token"]
+                    st.session_state.refresh_token = data["refresh_token"]
+                    logger.debug("Successfully refreshed tokens")
+                    # Retry the original request with new tokens
+                    headers = {
+                        "Authorization": f"Bearer {st.session_state.access_token}",
+                        "X-Refresh-Token": st.session_state.refresh_token
+                    }
+                    kwargs["headers"] = headers
+                    response = getattr(requests, method)(f"{BACKEND_URL}{endpoint}", **kwargs)
+                else:
+                    logger.error("Failed to refresh token")
+                    st.error("Session expired. Please log in again.")
+                    logout_user()
+                    st.rerun()
+            except Exception as e:
+                logger.error(f"Token refresh failed: {str(e)}")
+                st.error("Session expired. Please log in again.")
+                logout_user()
+                st.rerun()
+                
         return response
     except Exception as e:
+        logger.error(f"API request failed: {str(e)}")
         st.error(f"API request failed: {str(e)}")
         return None
 
