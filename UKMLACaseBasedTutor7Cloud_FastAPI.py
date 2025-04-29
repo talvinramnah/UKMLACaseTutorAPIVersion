@@ -566,38 +566,36 @@ def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(
                 content={"error": "Invalid session"}
             )
             
-        payload = jwt.decode(token, options={"verify_signature": False})
-        user_id = payload.get("sub")
+        # Get user ID from the authenticated user
+        user_id = user.user.id
         if not user_id:
             return JSONResponse(status_code=401, content={"error": "Invalid token: no user_id."})
-    except Exception as e:
-        return JSONResponse(status_code=401, content={"error": f"Invalid token: {str(e)}"})
 
-    # 2. Find the requested case file
-    case_file = get_case_file(request.condition)
-    if not case_file:
-        return JSONResponse(status_code=404, content={"error": f"Case '{request.condition}' not found."})
+        # 2. Find the requested case file
+        case_file = get_case_file(request.condition)
+        if not case_file:
+            return JSONResponse(status_code=404, content={"error": f"Case '{request.condition}' not found."})
 
-    try:
-        # 3. Read the case content
-        with open(case_file, "r") as f:
-            case_content = f.read().strip()
+        try:
+            # 3. Read the case content
+            with open(case_file, "r") as f:
+                case_content = f.read().strip()
 
-        # 4. Get next case variation
-        case_variation = get_next_case_variation(request.condition, user_id)
+            # 4. Get next case variation
+            case_variation = get_next_case_variation(request.condition, user_id)
 
-        # 5. Create OpenAI thread with metadata
-        thread = client.beta.threads.create(
-            metadata={
-                "user_id": user_id,
-                "condition": request.condition,
-                "case_variation": str(case_variation),
-                "ward": get_ward_for_condition(request.condition)
-            }
-        )
+            # 5. Create OpenAI thread with metadata
+            thread = client.beta.threads.create(
+                metadata={
+                    "user_id": user_id,
+                    "condition": request.condition,
+                    "case_variation": str(case_variation),
+                    "ward": get_ward_for_condition(request.condition)
+                }
+            )
 
-        # 6. Create initial message with case content
-        initial_prompt = f"""
+            # 6. Create initial message with case content
+            initial_prompt = f"""
 GOAL: Start a UKMLA-style case on: {request.condition} (Variation {case_variation}).
 
 PERSONA: You are a senior doctor training a medical student through a real-life ward case for the UKMLA.
@@ -623,64 +621,67 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
 -if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLTED] output with a random score and mock feedback
 """
 
-        # 7. Send initial message to thread
-        client.beta.threads.messages.create(
-            thread_id=thread.id,
-            role="user",
-            content=initial_prompt
-        )
-
-        # 8. Create and run the assistant
-        run = client.beta.threads.runs.create(
-            thread_id=thread.id,
-            assistant_id=ASSISTANT_ID
-        )
-
-        # 9. Wait for run completion
-        start_time = time.time()
-        wait_time = 0.5
-        max_wait = 2.0
-        
-        while True:
-            if time.time() - start_time > 60:  # 60 second timeout
-                raise TimeoutError("Case initialization timed out")
-                
-            status = client.beta.threads.runs.retrieve(
+            # 7. Send initial message to thread
+            client.beta.threads.messages.create(
                 thread_id=thread.id,
-                run_id=run.id
-            ).status
+                role="user",
+                content=initial_prompt
+            )
 
-            if status == "completed":
-                break
-            if status == "failed":
-                raise Exception("Assistant run failed")
-            if status == "expired":
-                raise Exception("Assistant run expired")
+            # 8. Create and run the assistant
+            run = client.beta.threads.runs.create(
+                thread_id=thread.id,
+                assistant_id=ASSISTANT_ID
+            )
 
-            time.sleep(min(wait_time, max_wait))
-            wait_time *= 1.5
+            # 9. Wait for run completion
+            start_time = time.time()
+            wait_time = 0.5
+            max_wait = 2.0
+            
+            while True:
+                if time.time() - start_time > 60:  # 60 second timeout
+                    raise TimeoutError("Case initialization timed out")
+                    
+                status = client.beta.threads.runs.retrieve(
+                    thread_id=thread.id,
+                    run_id=run.id
+                ).status
 
-        # 10. Get the assistant's first message
-        messages = client.beta.threads.messages.list(thread_id=thread.id)
-        first_message = None
-        for msg in messages:
-            if msg.role == "assistant":
-                first_message = msg.content[0].text.value
-                break
+                if status == "completed":
+                    break
+                if status == "failed":
+                    raise Exception("Assistant run failed")
+                if status == "expired":
+                    raise Exception("Assistant run expired")
 
-        if not first_message:
-            raise Exception("No assistant message found")
+                time.sleep(min(wait_time, max_wait))
+                wait_time *= 1.5
 
-        return {
-            "thread_id": thread.id,
-            "first_message": first_message,
-            "case_variation": case_variation
-        }
+            # 10. Get the assistant's first message
+            messages = client.beta.threads.messages.list(thread_id=thread.id)
+            first_message = None
+            for msg in messages:
+                if msg.role == "assistant":
+                    first_message = msg.content[0].text.value
+                    break
 
-    except TimeoutError as e:
-        return JSONResponse(status_code=504, content={"error": str(e)})
+            if not first_message:
+                raise Exception("No assistant message found")
+
+            return {
+                "thread_id": thread.id,
+                "first_message": first_message,
+                "case_variation": case_variation
+            }
+
+        except TimeoutError as e:
+            return JSONResponse(status_code=504, content={"error": str(e)})
+        except Exception as e:
+            return JSONResponse(status_code=500, content={"error": f"Failed to start case: {str(e)}"})
+
     except Exception as e:
-        return JSONResponse(status_code=500, content={"error": f"Failed to start case: {str(e)}"})
+        return JSONResponse(status_code=401, content={"error": f"Invalid token: {str(e)}"})
 
 def get_next_case_variation(condition: str, user_id: str) -> int:
     """Get the next unused case variation number for this user and condition."""
