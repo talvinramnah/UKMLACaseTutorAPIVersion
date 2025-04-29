@@ -27,14 +27,22 @@ from fastapi.middleware.cors import CORSMiddleware
 
 # --- CONFIG ---
 load_dotenv()
-openai.api_key = os.environ.get("OPENAI_API_KEY", "")
+# Get the API key directly without any default value
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+if not OPENAI_API_KEY:
+    raise ValueError("OPENAI_API_KEY environment variable is not set")
+
+# Remove the global setting of openai.api_key
+# openai.api_key = os.environ.get("OPENAI_API_KEY", "")
+
 ASSISTANT_ID = os.environ.get("OPENAI_ASSISTANT_ID", "")
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "").strip().strip('"\'')  # Strip both whitespace and quotes
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "").strip().strip('"\'')  # Strip both whitespace and quotes
 
 # Debug logging for environment variables
 print("=== Environment Variables Debug ===")
-print(f"OPENAI_API_KEY length: {len(openai.api_key)}")
+print(f"OPENAI_API_KEY: {OPENAI_API_KEY[:7]}...")  # Only print first few characters
+print(f"OPENAI_API_KEY length: {len(OPENAI_API_KEY)}")
 print(f"ASSISTANT_ID: {ASSISTANT_ID}")
 print(f"SUPABASE_URL: '{SUPABASE_URL}'")  # Added quotes to see any hidden characters
 print(f"SUPABASE_URL length: {len(SUPABASE_URL)}")
@@ -46,7 +54,7 @@ if not SUPABASE_URL:
     raise ValueError("SUPABASE_URL environment variable is not set")
 if not SUPABASE_KEY:
     raise ValueError("SUPABASE_KEY environment variable is not set")
-if not openai.api_key:
+if not OPENAI_API_KEY:
     raise ValueError("OPENAI_API_KEY environment variable is not set")
 if not ASSISTANT_ID:
     raise ValueError("OPENAI_ASSISTANT_ID environment variable is not set")
@@ -94,10 +102,9 @@ except Exception as e:
 def get_openai_client():
     if not hasattr(get_openai_client, '_client'):
         try:
-            api_key = os.environ.get("OPENAI_API_KEY")
-            if not api_key:
+            if not OPENAI_API_KEY:
                 raise ValueError("OPENAI_API_KEY environment variable is not set")
-            get_openai_client._client = openai.OpenAI(api_key=api_key)
+            get_openai_client._client = openai.OpenAI(api_key=OPENAI_API_KEY)
         except Exception as e:
             print(f"\n=== OpenAI Client Error ===")
             print(f"Error type: {type(e).__name__}")
