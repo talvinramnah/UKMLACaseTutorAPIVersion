@@ -144,6 +144,21 @@ async def validate_session(request: Request, call_next):
             print("Setting Supabase session...")
             supabase.auth.set_session(token, refresh_token)
             print("Session set successfully")
+            
+            # Verify the session is valid by getting the user
+            user = supabase.auth.get_user()
+            if not user:
+                print("Failed to get user from session")
+                return JSONResponse(
+                    status_code=401,
+                    content={"error": "Invalid session"}
+                )
+            print(f"User authenticated: {user.user.email}")
+            
+            # Continue with the request
+            response = await call_next(request)
+            return response
+            
         except Exception as e:
             print(f"Failed to set session with current tokens: {str(e)}")
             print(f"Error type: {type(e).__name__}")
@@ -176,10 +191,6 @@ async def validate_session(request: Request, call_next):
                     status_code=401,
                     content={"error": "Session validation failed"}
                 )
-        
-        # Continue with the request
-        response = await call_next(request)
-        return response
         
     except Exception as e:
         print(f"Session validation error: {str(e)}")
