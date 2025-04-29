@@ -336,7 +336,8 @@ def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
             
         status = client.beta.threads.runs.retrieve(
             thread_id=thread_id,
-            run_id=run_id
+            run_id=run_id,
+            headers={"OpenAI-Beta": "assistants=v2"}
         ).status
 
         if status == "completed":
@@ -357,11 +358,13 @@ def send_to_assistant(input_text, thread_id):
         message = client.beta.threads.messages.create(
             thread_id=thread_id,
             role="user",
-            content=input_text
+            content=input_text,
+            headers={"OpenAI-Beta": "assistants=v2"}
         )
         run = client.beta.threads.runs.create(
             thread_id=thread_id,
-            assistant_id=ASSISTANT_ID
+            assistant_id=ASSISTANT_ID,
+            headers={"OpenAI-Beta": "assistants=v2"}
         )
         return run.id
     except Exception as e:
@@ -630,7 +633,7 @@ def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(
             return JSONResponse(status_code=404, content={"error": f"Case '{request.condition}' not found."})
 
         try:
-            # Get OpenAI client
+            # Get OpenAI client with v2 header
             client = get_openai_client()
             
             # Read the case content
@@ -644,17 +647,18 @@ def start_case(request: StartCaseRequest, authorization: Optional[str] = Header(
             # Validate thread metadata
             validate_thread_metadata(user_id, request.condition, case_variation, ward)
 
-            # Create OpenAI thread with metadata
+            # Create OpenAI thread with metadata and v2 header
             thread = client.beta.threads.create(
                 metadata={
                     "user_id": user_id,
                     "condition": request.condition,
                     "case_variation": str(case_variation),
                     "ward": ward
-                }
+                },
+                headers={"OpenAI-Beta": "assistants=v2"}
             )
 
-            # 6. Create initial message with case content
+            # Create initial message with case content
             initial_prompt = f"""
 GOAL: Start a UKMLA-style case on: {request.condition} (Variation {case_variation}).
 
@@ -681,20 +685,22 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
 -if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLTED] output with a random score and mock feedback
 """
 
-            # 7. Send initial message to thread
+            # Send initial message to thread with v2 header
             client.beta.threads.messages.create(
                 thread_id=thread.id,
                 role="user",
-                content=initial_prompt
+                content=initial_prompt,
+                headers={"OpenAI-Beta": "assistants=v2"}
             )
 
-            # 8. Create and run the assistant
+            # Create and run the assistant with v2 header
             run = client.beta.threads.runs.create(
                 thread_id=thread.id,
-                assistant_id=ASSISTANT_ID
+                assistant_id=ASSISTANT_ID,
+                headers={"OpenAI-Beta": "assistants=v2"}
             )
 
-            # 9. Wait for run completion
+            # Wait for run completion
             start_time = time.time()
             wait_time = 0.5
             max_wait = 2.0
@@ -705,7 +711,8 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
                     
                 status = client.beta.threads.runs.retrieve(
                     thread_id=thread.id,
-                    run_id=run.id
+                    run_id=run.id,
+                    headers={"OpenAI-Beta": "assistants=v2"}
                 ).status
 
                 if status == "completed":
@@ -718,8 +725,11 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
                 time.sleep(min(wait_time, max_wait))
                 wait_time *= 1.5
 
-            # 10. Get the assistant's first message
-            messages = client.beta.threads.messages.list(thread_id=thread.id)
+            # Get the assistant's first message with v2 header
+            messages = client.beta.threads.messages.list(
+                thread_id=thread.id,
+                headers={"OpenAI-Beta": "assistants=v2"}
+            )
             first_message = None
             for msg in messages:
                 if msg.role == "assistant":
