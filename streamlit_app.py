@@ -198,11 +198,8 @@ def make_authenticated_request(method, endpoint, **kwargs):
 def get_wards():
     """Fetch available wards and cases."""
     try:
-        response = requests.get(
-            f"{BACKEND_URL}/wards",
-            headers={"Authorization": f"Bearer {st.session_state.access_token}"}
-        )
-        if response.status_code == 200:
+        response = make_authenticated_request("get", "/wards")
+        if response and response.status_code == 200:
             return response.json()
         else:
             st.error(f"Failed to fetch wards: {response.json().get('error', 'Unknown error')}")
