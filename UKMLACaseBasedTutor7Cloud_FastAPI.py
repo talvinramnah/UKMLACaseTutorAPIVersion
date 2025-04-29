@@ -467,25 +467,10 @@ class ContinueCaseRequest(BaseModel):
     refresh_token: Optional[str] = None
 
 @app.get("/wards")
-def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
+def get_wards():
     """Return a list of all cases in data/cases as a flat structure under a generic ward."""
-    # Validate tokens
-    if not authorization or not authorization.startswith("Bearer "):
-        return JSONResponse(
-            status_code=401,
-            content={"error": "Missing or invalid Authorization header"}
-        )
-    if not x_refresh_token:
-        return JSONResponse(
-            status_code=401,
-            content={"error": "Missing refresh token header"}
-        )
-        
     try:
-        # Set the session for RLS
-        token = authorization.split(" ", 1)[1]
-        supabase.auth.set_session(token, x_refresh_token)
-        
+        # The session is already set by the middleware
         cases_dir = CASE_FILES_DIR
         if not cases_dir.exists() or not cases_dir.is_dir():
             return JSONResponse(
@@ -503,7 +488,7 @@ def get_wards(authorization: Optional[str] = Header(None), x_refresh_token: Opti
             content={"wards": wards}
         )
     except Exception as e:
-        print(f"Wards error: {str(e)}")  # Add logging
+        print(f"Wards error: {str(e)}")
         return JSONResponse(
             status_code=500,
             content={"error": str(e)}
@@ -905,25 +890,21 @@ def get_badges(authorization: Optional[str] = Header(None), x_refresh_token: Opt
 # --- USER PROGRESS ENDPOINT (OPTIONAL) ---
 
 @app.get("/progress")
-def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
+def get_progress():
     """Get the user's progress: completed cases, scores, badges, and statistics."""
-    # 1. Validate token and extract user_id
-    if not authorization or not authorization.startswith("Bearer "):
-        return JSONResponse(status_code=401, content={"error": "Missing or invalid Authorization header."})
-    if not x_refresh_token:
-        return JSONResponse(status_code=401, content={"error": "Missing refresh token header."})
-    token = authorization.split(" ", 1)[1]
-    supabase.auth.set_session(token, x_refresh_token)  # Set session for RLS
     try:
-        payload = jwt.decode(token, options={"verify_signature": False})
-        user_id = payload.get("sub")
-        if not user_id:
-            return JSONResponse(status_code=401, content={"error": "Invalid token: no user_id."})
-    except Exception as e:
-        return JSONResponse(status_code=401, content={"error": f"Invalid token: {str(e)}"})
-
-    try:
-        # 2. Get completed cases and scores
+        # The session is already set by the middleware
+        # Get user from the session
+        user = supabase.auth.get_user()
+        if not user:
+            return JSONResponse(
+                status_code=401,
+                content={"error": "User not authenticated"}
+            )
+            
+        user_id = user.user.id
+        
+        # Get completed cases and scores
         perf_result = supabase.table("performance") \
             .select("condition, score, feedback, ward, created_at") \
             .eq("user_id", user_id) \
@@ -932,14 +913,14 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
         
         completed_cases = perf_result.data if perf_result.data else []
         
-        # 3. Calculate statistics
+        # Calculate statistics
         total_cases = len(completed_cases)
         total_score = sum(case["score"] for case in completed_cases)
         avg_score = total_score / total_cases if total_cases > 0 else 0
         successful_cases = len([case for case in completed_cases if case["score"] >= 7])
         success_rate = (successful_cases / total_cases * 100) if total_cases > 0 else 0
         
-        # 4. Get badges
+        # Get badges
         badges_result = supabase.table("badges") \
             .select("ward, badge_name, earned_at") \
             .eq("user_id", user_id) \
@@ -947,7 +928,7 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
         
         badges = badges_result.data if badges_result.data else []
         
-        # 5. Get ward-specific statistics
+        # Get ward-specific statistics
         ward_stats = {}
         for case in completed_cases:
             ward = case["ward"]
@@ -983,6 +964,10 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
         }
         
     except Exception as e:
-        return JSONResponse(status_code=500, content={"error": f"Failed to fetch progress: {str(e)}"})
+        print(f"Progress error: {str(e)}")
+        return JSONResponse(
+            status_code=500,
+            content={"error": f"Failed to fetch progress: {str(e)}"}
+        )
 
 # --- (Other FastAPI endpoints and backend logic will go here) ---
