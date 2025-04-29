@@ -790,34 +790,34 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
                 badge_awarded = None
                 try:
                     # Count successful cases in this ward (score >= 7)
-        perf_result = supabase.table("performance") \
-            .select("score") \
-            .eq("user_id", user_id) \
-            .eq("ward", ward) \
-            .gte("score", 7) \
-            .execute()
+                    perf_result = supabase.table("performance") \
+                        .select("score") \
+                        .eq("user_id", user_id) \
+                        .eq("ward", ward) \
+                        .gte("score", 7) \
+                        .execute()
                     
-        success_count = len(perf_result.data) if perf_result.data else 0
+                    success_count = len(perf_result.data) if perf_result.data else 0
 
                     # Check if badge already exists
-        badge_result = supabase.table("badges") \
-            .select("id") \
-            .eq("user_id", user_id) \
-            .eq("ward", ward) \
-            .execute()
+                    badge_result = supabase.table("badges") \
+                        .select("id") \
+                        .eq("user_id", user_id) \
+                        .eq("ward", ward) \
+                        .execute()
                     
-        has_badge = bool(badge_result.data)
+                    has_badge = bool(badge_result.data)
 
                     # Grant badge if eligible and not already granted
-        if success_count >= 5 and not has_badge:
-            badge_name = f"{ward} Badge"
-            supabase.table("badges").insert({
-                "user_id": user_id,
-                "ward": ward,
-                "badge_name": badge_name
-            }).execute()
+                    if success_count >= 5 and not has_badge:
+                        badge_name = f"{ward} Badge"
+                        supabase.table("badges").insert({
+                            "user_id": user_id,
+                            "ward": ward,
+                            "badge_name": badge_name
+                        }).execute()
                         badge_awarded = badge_name
-    except Exception as e:
+                except Exception as e:
                     logging.error(f"Error checking badge eligibility: {str(e)}")
                     # Don't fail the whole operation if badge check fails
                     badge_awarded = None
@@ -827,13 +827,13 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
                     "badge_awarded": badge_awarded
                 }
                 
-                                except Exception as e:
+            except Exception as e:
                 if attempt == max_retries - 1:
                     logging.error(f"Failed to save performance after {max_retries} attempts: {str(e)}")
                     raise
-                                    time.sleep(1)  # Wait before retry
+                time.sleep(1)  # Wait before retry
 
-        except Exception as e:
+    except Exception as e:
         logging.error(f"Error in save_performance: {str(e)}")
         logging.error(traceback.format_exc())
         return JSONResponse(
