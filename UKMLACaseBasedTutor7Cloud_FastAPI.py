@@ -203,7 +203,7 @@ def read_root():
     return JSONResponse(content={"message": "Welcome to the UKMLA Case Tutor FastAPI backend!"})
 
 # Case file directory - using relative path for cloud deployment
-CASE_FILES_DIR = Path(__file__).parent / "data" / "cases"
+CASE_FILES_DIR = Path(__file__).parent / "data"
 
 # --- HELPER FUNCTIONS ---
 def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
