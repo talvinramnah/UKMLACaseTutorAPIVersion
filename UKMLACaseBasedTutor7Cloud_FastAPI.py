@@ -105,11 +105,20 @@ def get_openai_client():
             if not OPENAI_API_KEY:
                 raise ValueError("OPENAI_API_KEY environment variable is not set")
             
-            # Initialize client with v2 header
+            # Initialize client with v2 header and explicit API version
             get_openai_client._client = openai.OpenAI(
                 api_key=OPENAI_API_KEY,
-                default_headers={"OpenAI-Beta": "assistants=v2"}
+                default_headers={
+                    "OpenAI-Beta": "assistants=v2",
+                    "Content-Type": "application/json"
+                }
             )
+            
+            # Log client configuration
+            print("\n=== OpenAI Client Configuration ===")
+            print(f"API Version: {openai.__version__}")
+            print(f"Default Headers: {get_openai_client._client._client.default_headers}")
+            print("=================================")
             
             # Test the client to ensure it works
             try:
