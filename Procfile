@@ -1,0 +1,1 @@
+web: gunicorn -w 4 -k uvicorn.workers.UvicornWorker UKMLACaseBasedTutor7Cloud_FastAPI:app 
