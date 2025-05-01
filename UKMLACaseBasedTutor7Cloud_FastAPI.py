@@ -456,6 +456,10 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
             
         ward = get_ward_for_condition(request.condition)
         
+        # Get next case variation
+        case_variation = get_next_case_variation(user_id, request.condition)
+        logger.info(f"Using case variation {case_variation} for user {user_id}")
+        
         # Read case content
         try:
             with open(case_file, "r") as f:
@@ -472,7 +476,8 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
                     "user_id": user_id,
                     "condition": request.condition,
                     "ward": ward,
-                    "start_time": datetime.now(timezone.utc).isoformat()
+                    "start_time": datetime.now(timezone.utc).isoformat(),
+                    "case_variation": str(case_variation)
                 }
             )
             logger.info(f"Created thread {thread.id} for user {user_id}")
@@ -486,9 +491,8 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
             client.beta.threads.messages.create(
                 thread_id=thread.id,
                 role="user",
-                content=f"""GOAL: Start a UKMLA-style case on: {case_content} (Variation {case_variation}).
-
-PERSONA: You are a senior doctor training a medical student through a real-life ward case for the UKMLA.
+                content=f"""
+GOAL: Start a UKMLA-style case on: {request.condition} (Variation {case_variation}).
 
 CASE CONTENT:
 {case_content}
@@ -498,7 +502,7 @@ INSTRUCTIONS:
 - Do not skip straight to diagnosis or treatment. Walk through it step-by-step.
 - Ask what investigations they'd like, then provide results.
 - Nudge the student if they struggle. After 2 failed tries, reveal the answer.
-- Encourage and use emojis + bold to engage.
+- Use bold for emphasis and to enhance engagement.
 - After asking the final question and receiving the answer, output exactly:
 
 [CASE COMPLETED]
@@ -508,7 +512,7 @@ INSTRUCTIONS:
 }}
 
 The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new lines.
--if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLTED] output with a random score and mock feedback"""
+"""
             )
             logger.info(f"Sent initial case prompt to thread {thread.id}")
         except Exception as e:
@@ -557,9 +561,6 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
             error_msg = f"Error retrieving messages: {str(e)}"
             logger.error(error_msg)
             raise HTTPException(status_code=500, detail=error_msg)
-            
-        # Get next case variation
-        case_variation = get_next_case_variation(user_id, request.condition)
         
         return {
             "thread_id": thread.id,
