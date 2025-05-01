@@ -486,7 +486,29 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
             client.beta.threads.messages.create(
                 thread_id=thread.id,
                 role="user",
-                content=f"Please start the case: {case_content}"
+                content=f"""GOAL: Start a UKMLA-style case on: {case_content} (Variation {case_variation}).
+
+PERSONA: You are a senior doctor training a medical student through a real-life ward case for the UKMLA.
+
+CASE CONTENT:
+{case_content}
+
+INSTRUCTIONS:
+- Present one case based on the case content provided above.
+- Do not skip straight to diagnosis or treatment. Walk through it step-by-step.
+- Ask what investigations they'd like, then provide results.
+- Nudge the student if they struggle. After 2 failed tries, reveal the answer.
+- Encourage and use emojis + bold to engage.
+- After asking the final question and receiving the answer, output exactly:
+
+[CASE COMPLETED]
+{{
+    "feedback": "Brief feedback on overall performance",
+    "score": number from 1-10
+}}
+
+The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new lines.
+-if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLTED] output with a random score and mock feedback"""
             )
             logger.info(f"Sent initial case prompt to thread {thread.id}")
         except Exception as e:
