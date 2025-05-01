@@ -512,6 +512,7 @@ INSTRUCTIONS:
 }}
 
 The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new lines.
+-if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLTED] output with a random score and mock feedback
 """
             )
             logger.info(f"Sent initial case prompt to thread {thread.id}")
