@@ -508,7 +508,7 @@ The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new
         
         return {
             "thread_id": thread.id,
-            "message": first_message,
+            "first_message": first_message,
             "case_variation": case_variation
         }
         
