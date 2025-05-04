@@ -456,6 +456,7 @@ INSTRUCTIONS:
 }}
 
 The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new lines.
+If the user enters 'speedrun' simulate the case to completion and output a mock score and feedback as described above
 """
             )
             logger.info(f"Sent initial case prompt to thread {thread.id}")
