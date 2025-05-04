@@ -640,7 +640,7 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
                 
         return {
             "assistant_reply": latest_message,
-            "is_completed": is_completed,
+            "case_completed": is_completed,
             "feedback": feedback,
             "score": score
         }
