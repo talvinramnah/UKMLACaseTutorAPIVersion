@@ -374,6 +374,28 @@ def get_wards(authorization: Optional[str] = Header(None)):
     logger.info(f"Returning wards structure: {wards}")
     return {"wards": wards}
 
+def get_next_case_variation(condition: str, user_id: str) -> int:
+    """Get the next unused case variation number for this user and condition."""
+    try:
+        # Query completed cases for this user and condition
+        result = supabase.table("performance").select("case_variation").eq("user_id", user_id).eq("condition", condition).execute()
+        
+        if not result.data:
+            return 1  # First case
+            
+        # Get all used variations
+        used_variations = set(record.get('case_variation', 0) for record in result.data)
+        
+        # Find the next unused variation number
+        variation = 1
+        while variation in used_variations:
+            variation += 1
+            
+        return variation
+    except Exception as e:
+        # If there's an error, default to variation 1
+        return 1
+        
 @app.post("/start_case")
 async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
     """Start a new case with the OpenAI Assistant."""
@@ -529,27 +551,6 @@ if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output wit
         "case_variation": case_variation
         }
 
-def get_next_case_variation(condition: str, user_id: str) -> int:
-    """Get the next unused case variation number for this user and condition."""
-    try:
-        # Query completed cases for this user and condition
-        result = supabase.table("performance").select("case_variation").eq("user_id", user_id).eq("condition", condition).execute()
-        
-        if not result.data:
-            return 1  # First case
-            
-        # Get all used variations
-        used_variations = set(record.get('case_variation', 0) for record in result.data)
-        
-        # Find the next unused variation number
-        variation = 1
-        while variation in used_variations:
-            variation += 1
-            
-        return variation
-    except Exception as e:
-        # If there's an error, default to variation 1
-        return 1
 
 @app.post("/continue_case")
 async def continue_case(request: ContinueCaseRequest, authorization: str = Header(...)):
