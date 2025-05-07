@@ -406,58 +406,43 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
                 status_code=status.HTTP_401_UNAUTHORIZED,
                 detail="Invalid authorization header"
             )
-            
+        
         token = authorization.split(" ")[1]
         decoded_token = verify_token(token)
         user_id = decoded_token["sub"]
-        
+
         logger.info(f"Starting case for user {user_id} with condition {request.condition}")
-        
+
         # Get case file and ward
         case_file = get_case_file(request.condition)
         if not case_file:
-            error_msg = f"Case '{request.condition}' not found."
-            logger.error(error_msg)
-            raise HTTPException(status_code=404, detail=error_msg)
-            
+            raise HTTPException(status_code=404, detail=f"Case '{request.condition}' not found.")
+        
         ward = get_ward_for_condition(request.condition)
-        
-        # Get next case variation
+
+        # Determine case variation
         case_variation = get_next_case_variation(user_id, request.condition)
-        logger.info(f"Using case variation {case_variation} for user {user_id}")
-        
+
         # Read case content
-        try:
-            with open(case_file, "r") as f:
-                case_content = f.read()
-        except Exception as e:
-            error_msg = f"Error reading case file: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
-            
-        # Create thread with metadata
-        try:
-            thread = client.beta.threads.create(
-                metadata={
-                    "user_id": user_id,
-                    "condition": request.condition,
-                    "ward": ward,
-                    "start_time": datetime.now(timezone.utc).isoformat(),
-                    "case_variation": str(case_variation)
-                }
-            )
-            logger.info(f"Created thread {thread.id} for user {user_id}")
-        except Exception as e:
-            error_msg = f"Error creating thread: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
-            
+        with open(case_file, "r") as f:
+            case_content = f.read()
+
+        # Create thread
+        thread = client.beta.threads.create(
+            metadata={
+                "user_id": user_id,
+                "condition": request.condition,
+                "ward": ward,
+                "start_time": datetime.now(timezone.utc).isoformat(),
+                "case_variation": str(case_variation)
+            }
+        )
+
         # Send initial case prompt
-        try:
-            client.beta.threads.messages.create(
-                thread_id=thread.id,
-                role="user",
-                content=f"""
+        client.beta.threads.messages.create(
+            thread_id=thread.id,
+            role="user",
+            content=f"""
 GOAL: Start a UKMLA-style case on: {request.condition} (Variation {case_variation}).
 
 CASE CONTENT:
@@ -478,78 +463,50 @@ INSTRUCTIONS:
 }}
 
 The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new lines.
-if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output with a random score and mock feedback
+If the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output with a random score and mock feedback
 """
-            )
-            logger.info(f"Sent initial case prompt to thread {thread.id}")
-        except Exception as e:
-            error_msg = f"Error sending initial message: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
-            
-        # Create and wait for run
-        try:
-            run = client.beta.threads.runs.create(
-                thread_id=thread.id,
-                assistant_id=ASSISTANT_ID
-            )
-            
-            # Wait for run completion with exponential backoff
-            max_retries = 5
-            retry_delay = 1
-            for attempt in range(max_retries):
-                run = client.beta.threads.runs.retrieve(
-                    thread_id=thread.id,
-                    run_id=run.id
-                )
-                if run.status == "completed":
-                    break
-                elif run.status == "failed":
-                    error_msg = f"Run failed: {run.last_error}"
-                    logger.error(error_msg)
-                    raise HTTPException(status_code=500, detail=error_msg)
-                time.sleep(retry_delay * (2 ** attempt))
-            else:
-                error_msg = "Run timed out"
-                logger.error(error_msg)
-                raise HTTPException(status_code=504, detail=error_msg)
-                
-        except Exception as e:
-            error_msg = f"Error creating/retrieving run: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
-            
+        )
+
+        # Run assistant
+        run = client.beta.threads.runs.create(
+            thread_id=thread.id,
+            assistant_id=ASSISTANT_ID
+        )
+
+        # Wait for assistant to complete
+        max_retries = 5
+        for attempt in range(max_retries):
+            run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
+            if run.status == "completed":
+                break
+            elif run.status == "failed":
+                raise HTTPException(status_code=500, detail=f"Run failed: {run.last_error}")
+            time.sleep(2 ** attempt)
+        else:
+            raise HTTPException(status_code=504, detail="Run timed out")
+
         # Get assistant's first message
-        try:
-            messages = client.beta.threads.messages.list(thread_id=thread.id)
-        
-            assistant_msg = next(
-                (m for m in messages.data if m.role == "assistant"), None
-            )
-            
-            if not assistant_msg:
-                raise ValueError("No assistant message found.")
-        
-            first_text_block = next(
-                (c for c in assistant_msg.content if c.type == "text"), None
-            )
-            
-            if not first_text_block:
-                raise ValueError("No text content found in assistant message.")
-        
-            first_message = first_text_block.text.value
-            logger.info(f"✅ Retrieved assistant message: {first_message[:60]}...")
-        
-        except Exception as e:
-            error_msg = f"Error retrieving messages: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
+        messages = client.beta.threads.messages.list(thread_id=thread.id)
+        assistant_msg = next((m for m in messages.data if m.role == "assistant"), None)
+        if not assistant_msg:
+            raise HTTPException(status_code=500, detail="No assistant message found")
+
+        first_text_block = next((c for c in assistant_msg.content if c.type == "text"), None)
+        if not first_text_block:
+            raise HTTPException(status_code=500, detail="No text block found in assistant message")
+
+        first_message = first_text_block.text.value
+        logger.info(f"✅ Retrieved assistant message: {first_message[:60]}...")
 
         return {
-        "thread_id": thread.id,
-        "first_message": first_message,
-        "case_variation": case_variation
+            "thread_id": thread.id,
+            "first_message": first_message,
+            "case_variation": case_variation
         }
+
+    except Exception as e:
+        logger.error(f"❌ start_case failed: {str(e)}", exc_info=True)
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @app.post("/continue_case")
