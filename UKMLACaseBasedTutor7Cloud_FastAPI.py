@@ -500,25 +500,28 @@ if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output wit
         # Get assistant's first message
         try:
             messages = client.beta.threads.messages.list(thread_id=thread.id)
-            first_message = messages.data[0].content[0].text.value
-            logger.info(f"Retrieved first message from thread {thread.id}")
+        
+            assistant_msg = next(
+                (m for m in messages.data if m.role == "assistant"), None
+            )
+            
+            if not assistant_msg:
+                raise ValueError("No assistant message found.")
+        
+            first_text_block = next(
+                (c for c in assistant_msg.content if c.type == "text"), None
+            )
+            
+            if not first_text_block:
+                raise ValueError("No text content found in assistant message.")
+        
+            first_message = first_text_block.text.value
+            logger.info(f"✅ Retrieved assistant message: {first_message[:60]}...")
+        
         except Exception as e:
             error_msg = f"Error retrieving messages: {str(e)}"
             logger.error(error_msg)
             raise HTTPException(status_code=500, detail=error_msg)
-        
-        return {
-            "thread_id": thread.id,
-            "first_message": first_message,
-            "case_variation": case_variation
-        }
-        
-    except HTTPException:
-        raise
-    except Exception as e:
-        error_msg = f"Unexpected error: {str(e)}"
-        logger.error(f"{error_msg}\n{traceback.format_exc()}")
-        raise HTTPException(status_code=500, detail=error_msg)
 
 def get_next_case_variation(condition: str, user_id: str) -> int:
     """Get the next unused case variation number for this user and condition."""
