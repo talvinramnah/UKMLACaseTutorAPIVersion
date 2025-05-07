@@ -523,6 +523,12 @@ if the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output wit
             logger.error(error_msg)
             raise HTTPException(status_code=500, detail=error_msg)
 
+        return {
+        "thread_id": thread.id,
+        "first_message": first_message,
+        "case_variation": case_variation
+        }
+
 def get_next_case_variation(condition: str, user_id: str) -> int:
     """Get the next unused case variation number for this user and condition."""
     try:
