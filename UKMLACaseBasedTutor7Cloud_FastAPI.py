@@ -17,7 +17,7 @@ from utils import (
 )
 from fastapi import FastAPI, Header, HTTPException, Request, status, Depends
 from fastapi.responses import JSONResponse
-from pydantic import BaseModel
+from pydantic import BaseModel, EmailStr, Field, validator
 from typing import Optional, Dict, Any
 from dotenv import load_dotenv
 import uuid
@@ -25,6 +25,13 @@ import jwt
 import logging
 import sys
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.trustedhost import TrustedHostMiddleware
+from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
+import html
+import re
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -99,75 +106,72 @@ app = FastAPI(
     openapi_url="/openapi.json"
 )
 
-# Add CORS middleware
+# Add security middleware
+app.add_middleware(
+    TrustedHostMiddleware, 
+    allowed_hosts=["*"]  # In production, replace with your domain
+)
+
+# Add security headers middleware
+@app.middleware("http")
+async def add_security_headers(request: Request, call_next):
+    response = await call_next(request)
+    response.headers["X-Content-Type-Options"] = "nosniff"
+    response.headers["X-Frame-Options"] = "DENY"
+    response.headers["Strict-Transport-Security"] = "max-age=31536000; includeSubDomains"
+    response.headers["Content-Security-Policy"] = "default-src 'self'"
+    return response
+
+# Update CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, replace with specific origins
+    allow_origins=[
+        "https://ukmla-case-tutor.framer.app",  # Production frontend
+        "http://localhost:3000",                # Local development
+    ],
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST"],
+    allow_headers=["Authorization", "Content-Type", "X-Refresh-Token"],
 )
+
+# Initialize rate limiter
+limiter = Limiter(key_func=get_remote_address)
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 # --- JWT Helper Functions ---
 def verify_token(token: str) -> Dict[str, Any]:
-    """Verify a JWT token and return its payload.
-    
-    This function tries multiple verification methods in order:
-    1. JWT_SECRET if available
-    2. SUPABASE_KEY
-    3. No verification (for testing)
-    """
+    """Verify a JWT token and return its payload."""
     try:
-        # Log which methods we're going to try
-        verification_methods = []
-        if JWT_SECRET:
-            verification_methods.append("JWT_SECRET")
-        verification_methods.append("SUPABASE_KEY")
-        verification_methods.append("NO_VERIFICATION")
-        logger.info(f"Attempting token verification with methods: {', '.join(verification_methods)}")
-        
-        # Try JWT_SECRET if available
-        if JWT_SECRET:
-            try:
-                logger.debug("Trying to verify with JWT_SECRET")
-                decoded_token = jwt.decode(token, JWT_SECRET, algorithms=[JWT_ALGORITHM])
-                logger.info("Successfully verified token with JWT_SECRET")
-                return decoded_token
-            except Exception as e:
-                logger.warning(f"JWT_SECRET verification failed: {str(e)}")
-                # Continue to next method
-        
-        # Try SUPABASE_KEY
-        try:
-            logger.debug("Trying to verify with SUPABASE_KEY")
-            decoded_token = jwt.decode(token, SUPABASE_KEY, algorithms=["HS256"])
-            logger.info("Successfully verified token with SUPABASE_KEY")
-            return decoded_token
-        except Exception as e:
-            logger.warning(f"SUPABASE_KEY verification failed: {str(e)}")
-            # Continue to next method
-        
-        # Try without verification (for testing)
-        try:
-            logger.debug("Trying to decode without verification")
-            decoded_token = jwt.decode(token, options={"verify_signature": False})
-            logger.info("Successfully decoded token without verification")
-            return decoded_token
-        except Exception as e:
-            logger.error(f"Token decoding without verification failed: {str(e)}")
-            raise
+        # Only use JWT_SECRET for verification
+        if not JWT_SECRET:
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="JWT_SECRET not configured"
+            )
             
-    except jwt.ExpiredSignatureError:
-        logger.error("Token has expired")
-        raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Token has expired"
-        )
+        try:
+            decoded_token = jwt.decode(token, JWT_SECRET, algorithms=[JWT_ALGORITHM])
+            logger.info("Successfully verified token")
+            return decoded_token
+        except jwt.ExpiredSignatureError:
+            logger.error("Token has expired")
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Token has expired"
+            )
+        except Exception as e:
+            logger.error(f"Token verification failed: {str(e)}")
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid authentication credentials"
+            )
+            
     except Exception as e:
-        logger.error(f"Invalid token: {str(e)}")
+        logger.error(f"Unexpected error in token verification: {str(e)}")
         raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Invalid authentication credentials"
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="Internal server error"
         )
 
 def extract_user_id(token: str) -> str:
@@ -242,36 +246,55 @@ def send_to_assistant(input_text, thread_id):
 # --- AUTHENTICATION ENDPOINTS ---
 
 class SignupRequest(BaseModel):
-    email: str
-    password: str
+    email: EmailStr
+    password: str = Field(..., min_length=8, max_length=100)
+    
+    @validator('password')
+    def password_strength(cls, v):
+        if not any(c.isupper() for c in v):
+            raise ValueError('Password must contain at least one uppercase letter')
+        if not any(c.islower() for c in v):
+            raise ValueError('Password must contain at least one lowercase letter')
+        if not any(c.isdigit() for c in v):
+            raise ValueError('Password must contain at least one number')
+        return v
 
 class LoginRequest(BaseModel):
-    email: str
-    password: str
+    email: EmailStr
+    password: str = Field(..., min_length=8)
 
 class RefreshRequest(BaseModel):
-    refresh_token: str
+    refresh_token: str = Field(..., min_length=1)
 
 class LogoutRequest(BaseModel):
-    token: str
+    token: str = Field(..., min_length=1)
 
 @app.post("/signup", response_model=dict)
-def signup(request: SignupRequest):
+@limiter.limit("3/minute")
+async def signup(request: SignupRequest, request: Request):
     """Register a new user account."""
     try:
-        result = supabase.auth.sign_up({"email": request.email, "password": request.password})
+        result = supabase.auth.sign_up({
+            "email": request.email,
+            "password": request.password
+        })
         if result.user:
             return {"success": True, "message": "Account created. Please verify your email."}
         else:
             return JSONResponse(status_code=400, content={"error": result})
     except Exception as e:
+        logger.error(f"Signup failed: {str(e)}")
         return JSONResponse(status_code=400, content={"error": str(e)})
 
 @app.post("/login", response_model=dict)
-def login(request: LoginRequest):
+@limiter.limit("5/minute")
+async def login(request: LoginRequest, request: Request):
     """Authenticate user and return token/session."""
     try:
-        result = supabase.auth.sign_in_with_password({"email": request.email, "password": request.password})
+        result = supabase.auth.sign_in_with_password({
+            "email": request.email,
+            "password": request.password
+        })
         if result.session:
             return {
                 "access_token": result.session.access_token,
@@ -284,6 +307,7 @@ def login(request: LoginRequest):
         else:
             return JSONResponse(status_code=401, content={"error": "Invalid email or password."})
     except Exception as e:
+        logger.error(f"Login failed: {str(e)}")
         return JSONResponse(status_code=401, content={"error": str(e)})
 
 @app.post("/refresh", response_model=dict)
@@ -338,11 +362,18 @@ async def logout(request: LogoutRequest):
 # --- CASE MANAGEMENT ENDPOINTS ---
 
 class StartCaseRequest(BaseModel):
-    condition: str
+    condition: str = Field(..., min_length=1, max_length=100)
+    
+    @validator('condition')
+    def validate_condition(cls, v):
+        # Add any specific condition validation rules
+        if not v.replace(" ", "").isalnum():
+            raise ValueError('Condition must contain only letters, numbers, and spaces')
+        return v
 
 class ContinueCaseRequest(BaseModel):
-    thread_id: str
-    user_input: str
+    thread_id: str = Field(..., min_length=1)
+    user_input: str = Field(..., min_length=1, max_length=1000)
     token: Optional[str] = None
     refresh_token: Optional[str] = None
 
@@ -508,11 +539,23 @@ If the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output wit
         logger.error(f"❌ start_case failed: {str(e)}", exc_info=True)
         raise HTTPException(status_code=500, detail=str(e))
 
+def sanitize_input(text: str) -> str:
+    """Sanitize user input to prevent XSS and injection attacks."""
+    # Remove HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+    # Escape HTML special characters
+    text = html.escape(text)
+    # Remove any remaining potentially dangerous characters
+    text = re.sub(r'[^\w\s\-.,!?]', '', text)
+    return text.strip()
 
 @app.post("/continue_case")
 async def continue_case(request: ContinueCaseRequest, authorization: str = Header(...)):
     """Continue an existing case with the OpenAI Assistant."""
     try:
+        # Sanitize user input
+        sanitized_input = sanitize_input(request.user_input)
+        
         # Validate token and get user ID
         if not authorization or not authorization.startswith("Bearer "):
             raise HTTPException(
@@ -531,7 +574,7 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
             client.beta.threads.messages.create(
                 thread_id=request.thread_id,
                 role="user",
-                content=request.user_input
+                content=sanitized_input
             )
             logger.info(f"Sent user message to thread {request.thread_id}")
         except Exception as e:
@@ -622,9 +665,9 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
 # --- PERFORMANCE & GAMIFICATION ENDPOINTS ---
 
 class SavePerformanceRequest(BaseModel):
-    thread_id: str
-    score: int
-    feedback: str
+    thread_id: str = Field(..., min_length=1)
+    score: int = Field(..., ge=1, le=10)
+    feedback: str = Field(..., min_length=1, max_length=1000)
     token: Optional[str] = None
     refresh_token: Optional[str] = None
 
