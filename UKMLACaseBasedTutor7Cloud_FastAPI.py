@@ -271,12 +271,12 @@ class LogoutRequest(BaseModel):
 
 @app.post("/signup", response_model=dict)
 @limiter.limit("3/minute")
-async def signup(request: SignupRequest, request: Request):
+async def signup(signup_data: SignupRequest, request: Request):
     """Register a new user account."""
     try:
         result = supabase.auth.sign_up({
-            "email": request.email,
-            "password": request.password
+            "email": signup_data.email,
+            "password": signup_data.password
         })
         if result.user:
             return {"success": True, "message": "Account created. Please verify your email."}
@@ -288,12 +288,12 @@ async def signup(request: SignupRequest, request: Request):
 
 @app.post("/login", response_model=dict)
 @limiter.limit("5/minute")
-async def login(request: LoginRequest, request: Request):
+async def login(login_data: LoginRequest, request: Request):
     """Authenticate user and return token/session."""
     try:
         result = supabase.auth.sign_in_with_password({
-            "email": request.email,
-            "password": request.password
+            "email": login_data.email,
+            "password": login_data.password
         })
         if result.session:
             return {
