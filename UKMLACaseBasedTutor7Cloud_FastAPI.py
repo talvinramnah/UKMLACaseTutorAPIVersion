@@ -15,10 +15,10 @@ from utils import (
     set_user_state,
     get_user_session_id
 )
-from fastapi import FastAPI, Header, HTTPException, Request, status, Depends
+from fastapi import FastAPI, Header, HTTPException, Request, status, Depends, Response
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, EmailStr, Field, validator
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, Callable
 from dotenv import load_dotenv
 import uuid
 import jwt
@@ -32,6 +32,7 @@ from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 import html
 import re
+from fastapi.routing import APIRoute
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -96,7 +97,26 @@ except Exception as e:
     logger.error(f"Failed to initialize Supabase client: {str(e)}")
     raise
 
-# Initialize FastAPI app with CORS middleware
+class CORSRoute(APIRoute):
+    def get_route_handler(self) -> Callable:
+        original_route_handler = super().get_route_handler()
+
+        async def custom_route_handler(request: Request) -> Response:
+            if request.method == "OPTIONS":
+                return Response(
+                    status_code=200,
+                    headers={
+                        "Access-Control-Allow-Origin": request.headers.get("origin", "*"),
+                        "Access-Control-Allow-Methods": "*",
+                        "Access-Control-Allow-Headers": "*",
+                        "Access-Control-Allow-Credentials": "true",
+                    },
+                )
+            return await original_route_handler(request)
+
+        return custom_route_handler
+
+# Initialize FastAPI app with custom route class
 app = FastAPI(
     title="UKMLA Case-Based Tutor API",
     description="API for the UKMLA Case-Based Tutor application",
@@ -105,6 +125,7 @@ app = FastAPI(
     redoc_url="/redoc",
     openapi_url="/openapi.json"
 )
+app.router.route_class = CORSRoute
 
 # Add security middleware
 app.add_middleware(
@@ -112,29 +133,27 @@ app.add_middleware(
     allowed_hosts=["*"]  # In production, replace with your domain
 )
 
-# Add security headers middleware
-@app.middleware("http")
-async def add_security_headers(request: Request, call_next):
-    response = await call_next(request)
-    response.headers["X-Content-Type-Options"] = "nosniff"
-    response.headers["X-Frame-Options"] = "DENY"
-    response.headers["Strict-Transport-Security"] = "max-age=31536000; includeSubDomains"
-    response.headers["Content-Security-Policy"] = "default-src 'self'"
-    return response
-
-# Update CORS middleware
+# Update CORS middleware configuration
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://ukmla-case-tutor.framer.app",  # Production frontend
         "http://localhost:3000",                # Local development
-        "https://ukmla-case-tutor.framer.website",  # Add this if you're using framer.website
-        "https://ukmla-case-tutor.framer.app",      # Add this if needed
+        "https://ukmla-case-tutor.framer.website",  # Framer website
     ],
     allow_credentials=True,
-    allow_methods=["GET", "POST", "OPTIONS"],  # Added OPTIONS
-    allow_headers=["*"],  # Allow all headers
-    expose_headers=["*"],  # Expose all headers
+    allow_methods=["*"],  # Allow all methods including OPTIONS
+    allow_headers=[
+        "Content-Type",
+        "Authorization", 
+        "Accept",
+        "X-Refresh-Token",
+        "Access-Control-Allow-Headers",
+        "Access-Control-Allow-Origin",
+        "Access-Control-Allow-Methods",
+        "Access-Control-Allow-Credentials"
+    ],
+    expose_headers=["*"],
     max_age=3600,  # Cache preflight requests for 1 hour
 )
 
