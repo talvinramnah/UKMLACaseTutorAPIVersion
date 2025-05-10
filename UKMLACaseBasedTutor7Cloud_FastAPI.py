@@ -928,6 +928,10 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
         
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": f"Failed to fetch progress: {str(e)}"})
+        
+@app.get("/")
+def read_root():
+    return {"status": "UKMLA API is running ✅"}
 
 # --- (Other FastAPI endpoints and backend logic will go here) ---
 
