@@ -644,7 +644,6 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
                 score = feedback_json.get("score")
                 logger.info(f"Extracted feedback: {feedback}, score: {score}")
                 # Save performance data
-                save_performance_data(user_id, request.thread_id, score, feedback)
                 logger.info(f"Saved performance data for user {user_id}")
             except Exception as e:
                 error_msg = f"Error processing completion data: {str(e)}"
