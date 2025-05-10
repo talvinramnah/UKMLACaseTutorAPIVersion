@@ -97,25 +97,6 @@ except Exception as e:
     logger.error(f"Failed to initialize Supabase client: {str(e)}")
     raise
 
-class CORSRoute(APIRoute):
-    def get_route_handler(self) -> Callable:
-        original_route_handler = super().get_route_handler()
-
-        async def custom_route_handler(request: Request) -> Response:
-            if request.method == "OPTIONS":
-                return Response(
-                    status_code=200,
-                    headers={
-                        "Access-Control-Allow-Origin": request.headers.get("origin", "*"),
-                        "Access-Control-Allow-Methods": "*",
-                        "Access-Control-Allow-Headers": "*",
-                        "Access-Control-Allow-Credentials": "true",
-                    },
-                )
-            return await original_route_handler(request)
-
-        return custom_route_handler
-
 # Initialize FastAPI app with custom route class
 app = FastAPI(
     title="UKMLA Case-Based Tutor API",
@@ -125,7 +106,6 @@ app = FastAPI(
     redoc_url="/redoc",
     openapi_url="/openapi.json"
 )
-app.router.route_class = CORSRoute
 
 # Add security middleware
 app.add_middleware(
