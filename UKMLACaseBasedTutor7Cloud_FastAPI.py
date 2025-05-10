@@ -675,132 +675,84 @@ class SavePerformanceRequest(BaseModel):
     refresh_token: Optional[str] = None
 
 @app.post("/save_performance")
-async def save_performance(request: SavePerformanceRequest, authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
+async def save_performance(
+    request: SavePerformanceRequest,
+    authorization: Optional[str] = Header(None),
+    x_refresh_token: Optional[str] = Header(None),
+):
     """Save the user's performance after case completion. Returns success and badge info."""
     # Get tokens from either request body or headers
-    token = request.token if request.token else (authorization.split(" ", 1)[1] if authorization and authorization.startswith("Bearer ") else None)
-    refresh_token = request.refresh_token if request.refresh_token else x_refresh_token
+    token = request.token or (
+        authorization.split(" ", 1)[1] if authorization and authorization.startswith("Bearer ") else None
+    )
+    refresh_token = request.refresh_token or x_refresh_token
 
-    logger.info(f"/save_performance called with: thread_id={request.thread_id}, score={request.score}, feedback={request.feedback}")
-    logger.info(f"Headers: Authorization={authorization}, X-Refresh-Token={x_refresh_token}")
-    logger.info(f"Token used: {token}, Refresh token used: {refresh_token}")
+    logger.info(f"📩 /save_performance called with score={request.score}, feedback={request.feedback}")
+    logger.info(f"📦 Headers: Authorization={authorization}, X-Refresh-Token={x_refresh_token}")
 
     if not token or not refresh_token:
-        logger.error("Missing token or refresh token")
+        logger.error("❌ Missing token or refresh token")
         return JSONResponse(status_code=401, content={"error": "Missing token or refresh token"})
 
     try:
-        # Set the session with both tokens for RLS
+        # Set session for Supabase RLS
         supabase.auth.set_session(token, refresh_token)
-        logger.info("Supabase session set successfully")
-        
-        # Get user ID from token
+        logger.info("✅ Supabase session set successfully")
+
         user_id = extract_user_id(token)
-        logger.info(f"Extracted user_id: {user_id}")
         if not user_id:
-            logger.error("Invalid token: no user_id")
+            logger.error("❌ Invalid token: no user_id")
             return JSONResponse(status_code=401, content={"error": "Invalid token: no user_id"})
 
-        # Get thread metadata to get condition and ward
+        # Get thread metadata
         thread = client.beta.threads.retrieve(thread_id=request.thread_id)
         metadata = thread.metadata
         condition = metadata.get("condition")
         case_variation = metadata.get("case_variation")
         ward = metadata.get("ward")
-        logger.info(f"Thread metadata: condition={condition}, case_variation={case_variation}, ward={ward}")
 
         if not all([condition, case_variation, ward]):
-            logger.error("Missing required metadata in thread")
-            return JSONResponse(
-                status_code=400,
-                content={"error": "Missing required metadata in thread"}
-            )
+            logger.error("❌ Missing required metadata in thread")
+            return JSONResponse(status_code=400, content={"error": "Missing required metadata in thread"})
 
-        # Validate score and feedback
-        if not 1 <= request.score <= 10:
-            logger.error(f"Invalid score: {request.score}")
-            return JSONResponse(
-                status_code=400,
-                content={"error": "Score must be between 1 and 10"}
-            )
-        if not request.feedback:
-            logger.error("Feedback is required but missing")
-            return JSONResponse(
-                status_code=400,
-                content={"error": "Feedback is required"}
-            )
+        # Prepare performance data
+        performance_data = {
+            "user_id": user_id,
+            "condition": condition,
+            "case_variation": case_variation,
+            "score": request.score,
+            "feedback": request.feedback,
+            "created_at": datetime.now(timezone.utc).isoformat(),
+            "ward": ward,
+        }
 
-        # Retry logic for Supabase operations
-        max_retries = 3
-        for attempt in range(max_retries):
-            try:
-                # Save performance data
-                performance_data = {
-                    "user_id": user_id,
-                    "condition": condition,
-                    "case_variation": case_variation,
-                    "score": request.score,
-                    "feedback": request.feedback,
-                    "created_at": datetime.now(timezone.utc).isoformat(),
-                    "ward": ward
-                }
-                logger.info(f"Attempting to insert performance_data: {performance_data}")
-                result = supabase.table("performance").insert(performance_data).execute()
-                logger.info(f"Supabase insert result: {result}")
-                if not result.data:
-                    logger.error("Failed to save performance data: No data returned from insert")
-                    raise Exception("Failed to save performance data")
-                
-                # Check for badge eligibility
-                badge_awarded = None
-                try:
-                    # Count successful cases in this ward (score >= 7)
-                    perf_result = supabase.table("performance") \
-                        .select("score") \
-                        .eq("user_id", user_id) \
-                        .eq("ward", ward) \
-                        .gte("score", 7) \
-                        .execute()
-                    success_count = len(perf_result.data) if perf_result.data else 0
-                    logger.info(f"Success count for badge eligibility: {success_count}")
-                    # Check if badge already exists
-                    badge_result = supabase.table("badges") \
-                        .select("id") \
-                        .eq("user_id", user_id) \
-                        .eq("ward", ward) \
-                        .execute()
-                    has_badge = bool(badge_result.data)
-                    logger.info(f"Badge already exists: {has_badge}")
-                    # Grant badge if eligible and not already granted
-                    if success_count >= 5 and not has_badge:
-                        badge_name = f"{ward} Badge"
-                        supabase.table("badges").insert({
-                            "user_id": user_id,
-                            "ward": ward,
-                            "badge_name": badge_name
-                        }).execute()
-                        badge_awarded = badge_name
-                        logger.info(f"Badge awarded: {badge_awarded}")
-                except Exception as e:
-                    logger.error(f"Error checking badge eligibility: {str(e)}")
-                    badge_awarded = None
-                return {
-                    "success": True,
-                    "badge_awarded": badge_awarded
-                }
-            except Exception as e:
-                logger.error(f"Error in Supabase insert attempt {attempt+1}: {str(e)}")
-                if attempt == max_retries - 1:
-                    raise
-                time.sleep(1)  # Wait before retry
-                continue
+        logger.info(f"📤 Inserting performance_data: {performance_data}")
+
+        # Attempt insert
+        result = supabase.table("performance").insert(performance_data).execute()
+
+        # Log Supabase response
+        logger.info(f"🧾 Supabase insert response: {result}")
+        logger.info(f"Status: {getattr(result, 'status_code', 'N/A')}")
+        logger.info(f"Error: {getattr(result, 'error', 'None')}")
+
+        if not result.data:
+            logger.error("❌ Insert failed: No data returned from Supabase.")
+            return JSONResponse(status_code=500, content={"error": "Supabase insert returned no data."})
+
+        logger.info(f"✅ Successfully saved performance for user {user_id}")
+
+        return {
+            "success": True,
+            "message": "Performance saved",
+            "inserted": result.data,
+        }
+
     except Exception as e:
-        logger.error(f"Error in save_performance: {str(e)}")
+        logger.error(f"🔥 Exception during save_performance: {str(e)}")
         logger.error(traceback.format_exc())
-        return JSONResponse(
-            status_code=500,
-            content={"error": f"Failed to save performance: {str(e)}"}
-        )
+        return JSONResponse(status_code=500, content={"error": f"Failed to save performance: {str(e)}"})
+
 
 @app.get("/badges")
 def get_badges(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
