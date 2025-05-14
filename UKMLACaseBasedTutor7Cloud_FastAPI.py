@@ -968,7 +968,6 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
         raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
 
     token = authorization.split(" ", 1)[1]
-    supabase.auth.set_session(token, "")  # <-- This is critical for RLS
 
     try:
         user_id = extract_user_id(token)
@@ -979,15 +978,22 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
     except Exception:
         raise HTTPException(status_code=401, detail="Invalid token.")
 
-    # 2. Check if already onboarded
-    try:
-        result = supabase.table("user_metadata").select("user_id").eq("user_id", user_id).execute()
-        if result.data and len(result.data) > 0:
-            raise HTTPException(status_code=409, detail="User already onboarded.")
-    except Exception as e:
-        if isinstance(e, HTTPException):
-            raise
-        raise HTTPException(status_code=500, detail=f"Failed to check onboarding: {str(e)}")
+    # 2. Check if already onboarded (using Supabase REST API)
+    SUPABASE_URL = os.environ["SUPABASE_URL"]
+    SUPABASE_KEY = os.environ["SUPABASE_KEY"]
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "apikey": SUPABASE_KEY,
+        "Content-Type": "application/json"
+    }
+    check_resp = requests.get(
+        f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}",
+        headers=headers
+    )
+    if check_resp.status_code == 200 and check_resp.json():
+        raise HTTPException(status_code=409, detail="User already onboarded.")
+    elif check_resp.status_code not in (200, 206):
+        raise HTTPException(status_code=check_resp.status_code, detail=check_resp.text)
 
     # 3. Generate anon username
     max_retries = 5
@@ -996,30 +1002,32 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
         base_username = generate_username(1)[0]
         suffix = str(random.randint(100, 999))
         candidate = f"med{base_username.lower()}{suffix}"
-        check = supabase.table("user_metadata").select("anon_username").eq("anon_username", candidate).execute()
-        if not check.data:
+        check = requests.get(
+            f"{SUPABASE_URL}/rest/v1/user_metadata?anon_username=eq.{candidate}",
+            headers=headers
+        )
+        if check.status_code == 200 and not check.json():
             anon_username = candidate
             break
     if not anon_username:
         raise HTTPException(status_code=500, detail="Failed to generate unique anonymous username.")
 
-    # 4. Insert record
-    try:
-        insert_data = {
-            "user_id": user_id,
-            "name": request.name,
-            "med_school": request.med_school,
-            "year_group": request.year_group,
-            "anon_username": anon_username
-        }
-
-        result = supabase.table("user_metadata").insert(insert_data).execute()
-        if not result.data:
-            raise Exception("No data returned from insert.")
-        return {"anon_username": anon_username}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to insert onboarding data: {str(e)}")
-
+    # 4. Insert record (using Supabase REST API)
+    insert_data = {
+        "user_id": user_id,
+        "name": request.name,
+        "med_school": request.med_school,
+        "year_group": request.year_group,
+        "anon_username": anon_username
+    }
+    resp = requests.post(
+        f"{SUPABASE_URL}/rest/v1/user_metadata",
+        headers=headers,
+        json=insert_data
+    )
+    if resp.status_code not in (200, 201):
+        raise HTTPException(status_code=resp.status_code, detail=resp.text)
+    return {"anon_username": anon_username}
 
 @app.get("/user_metadata/me", response_model=dict)
 async def get_user_metadata_me(authorization: str = Header(...)):
@@ -1030,30 +1038,29 @@ async def get_user_metadata_me(authorization: str = Header(...)):
         raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
 
     token = authorization.split(" ", 1)[1]
-    supabase.auth.set_session(token, "")  # ✅ Required for RLS to work
 
     try:
         user_id = extract_user_id(token)
     except Exception:
         raise HTTPException(status_code=401, detail="Invalid token.")
 
-    try:
-        # No need to pass custom headers if supabase.auth.set_session is used
-        response = (
-            supabase
-            .table("user_metadata")
-            .select("name, med_school, year_group, anon_username")
-            .eq("user_id", user_id)
-            .single()
-            .execute()
-        )
+    SUPABASE_URL = os.environ["SUPABASE_URL"]
+    SUPABASE_KEY = os.environ["SUPABASE_KEY"]
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "apikey": SUPABASE_KEY,
+        "Accept": "application/vnd.pgrst.object+json"
+    }
 
-        if hasattr(response, "error") and response.error:
-            raise HTTPException(status_code=500, detail=f"Supabase error: {response.error.message}")
-        if not response.data:
-            raise HTTPException(status_code=404, detail="User metadata not found.")
-        return response.data
-    except HTTPException:
-        raise
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to fetch user metadata: {str(e)}")
+    resp = requests.get(
+        f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}&select=name,med_school,year_group,anon_username",
+        headers=headers
+    )
+
+    if resp.status_code == 200:
+        return resp.json()
+    elif resp.status_code == 406:
+        # No record found for this user
+        raise HTTPException(status_code=404, detail="User metadata not found.")
+    else:
+        raise HTTPException(status_code=resp.status_code, detail=resp.text)
