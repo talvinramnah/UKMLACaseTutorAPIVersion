@@ -1027,24 +1027,22 @@ async def get_user_metadata_me(authorization: str = Header(...)):
         raise HTTPException(status_code=401, detail="Invalid token.")
 
     try:
-        # Required header for `.single()` to succeed
-        headers = {
-            "Authorization": f"Bearer {token}",
-            "Accept": "application/vnd.pgrst.object+json"
-        }
+        supabase.auth.set_session(token, "")  # 👈 Ensures auth.uid() can resolve in RLS
+        response = supabase.table("user_metadata") \
+            .select("name, med_school, year_group, anon_username") \
+            .eq("user_id", user_id) \
+            .single() \
+            .execute(headers={
+                "Authorization": f"Bearer {token}",
+                "Accept": "application/vnd.pgrst.object+json"  # 👈 MUST include for .single()
+            })
 
-        result = (
-            supabase
-            .table("user_metadata")
-            .select("name, med_school, year_group, anon_username")
-            .eq("user_id", user_id)
-            .single()
-            .execute(headers=headers)
-        )
-
-        if not result.data:
+        if response.error:
+            raise HTTPException(status_code=500, detail=f"Supabase error: {response.error.message}")
+        if not response.data:
             raise HTTPException(status_code=404, detail="User metadata not found.")
-        return result.data
+        return response.data
+
     except HTTPException:
         raise
     except Exception as e:
