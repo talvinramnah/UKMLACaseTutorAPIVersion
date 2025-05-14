@@ -1038,6 +1038,7 @@ async def get_user_metadata_me(authorization: str = Header(...)):
             .table("user_metadata")
             .select("name, med_school, year_group, anon_username")
             .eq("user_id", user_id)
+            .single()
             .execute(headers=headers)
         )
 
