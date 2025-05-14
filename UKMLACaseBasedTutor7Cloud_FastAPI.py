@@ -998,6 +998,9 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
         raise HTTPException(status_code=500, detail="Failed to generate unique anonymous username.")
     # 4. Insert new record
     try:
+        # ✅ Set Supabase session so RLS can access auth.uid()
+        supabase.auth.set_session(token, "")
+    
         insert_data = {
             "user_id": user_id,
             "name": request.name,
@@ -1005,12 +1008,12 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
             "year_group": request.year_group,
             "anon_username": anon_username
         }
+    
         result = supabase.table("user_metadata").insert(insert_data).execute()
         if not result.data:
             raise Exception("No data returned from insert.")
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to insert onboarding data: {str(e)}")
-    return {"anon_username": anon_username}
 
 @app.get("/user_metadata/me", response_model=dict)
 async def get_user_metadata_me(authorization: str = Header(...)):
