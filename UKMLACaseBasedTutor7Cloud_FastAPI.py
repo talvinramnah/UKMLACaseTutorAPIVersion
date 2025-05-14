@@ -968,12 +968,14 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
         raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
 
     token = authorization.split(" ", 1)[1]
-
-    # ✅ Set Supabase session so RLS works for SELECT and INSERT
-    supabase.auth.set_session(token, "")
+    supabase.auth.set_session(token, "")  # <-- This is critical for RLS
 
     try:
         user_id = extract_user_id(token)
+        import jwt
+        payload = jwt.decode(token, options={"verify_signature": False})
+        logger.info(f"Extracted user_id: {user_id}")
+        logger.info(f"JWT sub: {payload.get('sub')}")
     except Exception:
         raise HTTPException(status_code=401, detail="Invalid token.")
 
@@ -1036,20 +1038,20 @@ async def get_user_metadata_me(authorization: str = Header(...)):
         raise HTTPException(status_code=401, detail="Invalid token.")
 
     try:
+        # No need to pass custom headers if supabase.auth.set_session is used
         response = (
             supabase
             .table("user_metadata")
             .select("name, med_school, year_group, anon_username")
             .eq("user_id", user_id)
             .single()
-            .execute(headers={
-                "Authorization": f"Bearer {token}",
-                "Accept": "application/vnd.pgrst.object+json"
-            })
+            .execute()
         )
 
-        if response.error:
+        if hasattr(response, "error") and response.error:
             raise HTTPException(status_code=500, detail=f"Supabase error: {response.error.message}")
+        if not response.data:
+            raise HTTPException(status_code=404, detail="User metadata not found.")
         return response.data
     except HTTPException:
         raise
