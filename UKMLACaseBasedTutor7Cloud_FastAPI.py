@@ -589,9 +589,8 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
                 detail="Invalid authorization header"
             )
         
-        token = authorization.split(" ")[1]
-        decoded_token = verify_token(token)
-        user_id = decoded_token["sub"]
+        token = authorization.split(" ", 1)[1]
+        user_id = extract_user_id(token)
         
         logger.info(f"Continuing case for user {user_id} in thread {request.thread_id}")
         
