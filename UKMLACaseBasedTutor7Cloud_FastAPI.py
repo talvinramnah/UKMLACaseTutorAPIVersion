@@ -466,8 +466,7 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
             )
         
         token = authorization.split(" ")[1]
-        decoded_token = verify_token(token)
-        user_id = decoded_token["sub"]
+        user_id = extract_user_id(token)
 
         logger.info(f"Starting case for user {user_id} with condition {request.condition}")
 
