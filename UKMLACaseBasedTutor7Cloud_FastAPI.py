@@ -1021,13 +1021,28 @@ async def get_user_metadata_me(authorization: str = Header(...)):
     """
     if not authorization or not authorization.startswith("Bearer "):
         raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
+
     token = authorization.split(" ", 1)[1]
     try:
         user_id = extract_user_id(token)
     except Exception:
         raise HTTPException(status_code=401, detail="Invalid token.")
+
     try:
-        result = supabase.table("user_metadata").select("name, med_school, year_group, anon_username").eq("user_id", user_id).single().execute()
+        # Required header for `.single()` to succeed
+        headers = {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.pgrst.object+json"
+        }
+
+        result = (
+            supabase
+            .table("user_metadata")
+            .select("name, med_school, year_group, anon_username")
+            .eq("user_id", user_id)
+            .execute(headers=headers)
+        )
+
         if not result.data:
             raise HTTPException(status_code=404, detail="User metadata not found.")
         return result.data
