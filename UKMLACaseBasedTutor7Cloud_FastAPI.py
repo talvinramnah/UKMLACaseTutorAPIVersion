@@ -142,7 +142,8 @@ app.add_middleware(
     allow_origins=[
         "https://ukmla-case-tutor.framer.app",  # Production frontend
         "http://localhost:3000",                # Local development
-        "https://ukmla-case-tutor.framer.website",  # Framer website
+        "https://ukmla-case-tutor.framer.website",
+        "https://streamlined-style-184093.framer.app"# Framer website
     ],
     allow_credentials=True,
     allow_methods=["*"],  # Allow all methods including OPTIONS
