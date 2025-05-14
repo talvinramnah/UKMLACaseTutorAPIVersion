@@ -1024,6 +1024,7 @@ async def get_user_metadata_me(authorization: str = Header(...)):
         raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
 
     token = authorization.split(" ", 1)[1]
+    supabase.auth.set_session(token, "")  # ✅ Required for RLS
     try:
         user_id = extract_user_id(token)
     except Exception:
