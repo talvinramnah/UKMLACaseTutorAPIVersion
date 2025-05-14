@@ -36,6 +36,7 @@ from fastapi.routing import APIRoute
 import random
 import random_username
 from random_username.generate import generate_username
+import requests
 
 # --- Logging Configuration ---
 logging.basicConfig(
