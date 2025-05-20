@@ -474,20 +474,24 @@ async def stream_assistant_response(thread_id: str, run_id: str) -> AsyncGenerat
                 if assistant_msg:
                     first_text_block = next((c for c in assistant_msg.content if c.type == "text"), None)
                     if first_text_block:
-                        yield f"data: {json.dumps({'content': first_text_block.text.value})}\n\n"
+                        response_data = json.dumps({'content': first_text_block.text.value})
+                        yield f"data: {response_data}\n\n"
                 break
             elif run.status == "failed":
-                yield f"data: {json.dumps({'error': f'Run failed: {run.last_error}'})}\n\n"
+                error_data = json.dumps({'error': f'Run failed: {run.last_error}'})
+                yield f"data: {error_data}\n\n"
                 break
             elif run.status == "expired":
-                yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
+                error_data = json.dumps({'error': 'Run expired'})
+                yield f"data: {error_data}\n\n"
                 break
                 
             await asyncio.sleep(0.5)
             
     except Exception as e:
         logger.error(f"Error in stream_assistant_response: {str(e)}")
-        yield f"data: {json.dumps({'error': str(e)})}\n\n"
+        error_data = json.dumps({'error': str(e)})
+        yield f"data: {error_data}\n\n"
 
 @app.post("/start_case")
 async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
@@ -806,25 +810,29 @@ async def stream_continue_case_response(thread_id: str, run_id: str) -> AsyncGen
                     except Exception as e:
                         logger.error(f"Error processing completion data: {str(e)}")
                 
-                yield f"data: {json.dumps({
+                response_data = json.dumps({
                     'content': latest_message,
                     'is_completed': is_completed,
                     'feedback': feedback,
                     'score': score
-                })}\n\n"
+                })
+                yield f"data: {response_data}\n\n"
                 break
             elif run.status == "failed":
-                yield f"data: {json.dumps({'error': f'Run failed: {run.last_error}'})}\n\n"
+                error_data = json.dumps({'error': f'Run failed: {run.last_error}'})
+                yield f"data: {error_data}\n\n"
                 break
             elif run.status == "expired":
-                yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
+                error_data = json.dumps({'error': 'Run expired'})
+                yield f"data: {error_data}\n\n"
                 break
                 
             await asyncio.sleep(0.5)
             
     except Exception as e:
         logger.error(f"Error in stream_continue_case_response: {str(e)}")
-        yield f"data: {json.dumps({'error': str(e)})}\n\n"
+        error_data = json.dumps({'error': str(e)})
+        yield f"data: {error_data}\n\n"
 
 @app.post("/continue_case")
 async def continue_case(request: ContinueCaseRequest, authorization: str = Header(...)):
