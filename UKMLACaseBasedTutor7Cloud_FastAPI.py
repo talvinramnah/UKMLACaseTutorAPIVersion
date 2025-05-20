@@ -777,12 +777,14 @@ You've just worked through the recognition, investigation, and management of car
             stream_assistant_response(thread.id, run.id),
             media_type="text/event-stream",
             headers={
+                "X-Thread-Id": thread.id,
                 "Cache-Control": "no-cache",
                 "Connection": "keep-alive",
                 "X-Accel-Buffering": "no",
                 "Content-Type": "text/event-stream"
             }
         )
+
 
     except Exception as e:
         logger.error(f"❌ start_case failed: {str(e)}", exc_info=True)
