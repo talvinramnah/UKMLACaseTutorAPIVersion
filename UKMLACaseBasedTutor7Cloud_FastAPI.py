@@ -16,9 +16,9 @@ from utils import (
     get_user_session_id
 )
 from fastapi import FastAPI, Header, HTTPException, Request, status, Depends, Response
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from pydantic import BaseModel, EmailStr, Field, validator
-from typing import Optional, Dict, Any, Callable
+from typing import Optional, Dict, Any, Callable, AsyncGenerator
 from dotenv import load_dotenv
 import uuid
 import jwt
@@ -37,6 +37,8 @@ import random
 import random_username
 from random_username.generate import generate_username
 import requests
+import asyncio
+from sse_starlette.sse import EventSourceResponse
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -87,7 +89,9 @@ except Exception as e:
 try:
     client = openai.OpenAI(
         api_key=openai.api_key,
-        default_headers={"OpenAI-Beta": "assistants=v2"}
+        default_headers={"OpenAI-Beta": "assistants=v2"},
+        timeout=30.0,  # Add timeout
+        max_retries=3  # Add retries
     )
     logger.info("OpenAI client initialized successfully with Assistants v2")
 except Exception as e:
@@ -455,9 +459,39 @@ def get_next_case_variation(condition: str, user_id: str) -> int:
         # If there's an error, default to variation 1
         return 1
         
+async def stream_assistant_response(thread_id: str, run_id: str) -> AsyncGenerator[str, None]:
+    """Stream assistant responses using SSE."""
+    try:
+        while True:
+            run = client.beta.threads.runs.retrieve(
+                thread_id=thread_id,
+                run_id=run_id
+            )
+            
+            if run.status == "completed":
+                messages = client.beta.threads.messages.list(thread_id=thread_id)
+                assistant_msg = next((m for m in messages.data if m.role == "assistant"), None)
+                if assistant_msg:
+                    first_text_block = next((c for c in assistant_msg.content if c.type == "text"), None)
+                    if first_text_block:
+                        yield f"data: {json.dumps({'content': first_text_block.text.value})}\n\n"
+                break
+            elif run.status == "failed":
+                yield f"data: {json.dumps({'error': f'Run failed: {run.last_error}'})}\n\n"
+                break
+            elif run.status == "expired":
+                yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
+                break
+                
+            await asyncio.sleep(0.5)
+            
+    except Exception as e:
+        logger.error(f"Error in stream_assistant_response: {str(e)}")
+        yield f"data: {json.dumps({'error': str(e)})}\n\n"
+
 @app.post("/start_case")
 async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
-    """Start a new case with the OpenAI Assistant."""
+    """Start a new case with the OpenAI Assistant using streaming."""
     try:
         # Validate token and get user ID
         if not authorization or not authorization.startswith("Bearer "):
@@ -555,11 +589,11 @@ You: Exactly ✅ — CPAP (Continuous Positive Airway Pressure) can support vent
 🧑‍⚕️ CPAP is started. The patient stabilises over the next hour. However, you are now called to review another patient: a 75-year-old woman with a history of ischaemic cardiomyopathy. She presents with acute breathlessness. BP is 78/55 mmHg, HR 120, and she is clammy and confused.
 
 Question 4:
-Given this patient’s hypotension, which typical acute heart failure treatments should be used with caution or avoided initially?
+Given this patient's hypotension, which typical acute heart failure treatments should be used with caution or avoided initially?
 
 Student: diuretics and nitrates
 
-You: 🧑‍⚕️ You suspect cardiogenic shock. Echocardiogram shows severely reduced left ventricular function. There’s no tamponade or massive valve lesion.
+You: 🧑‍⚕️ You suspect cardiogenic shock. Echocardiogram shows severely reduced left ventricular function. There's no tamponade or massive valve lesion.
 
 Question 5:
 What medication could be considered to improve cardiac output in this scenario?
@@ -579,8 +613,8 @@ You: You're thinking ahead — good! ✅ Mechanical circulatory support like IAB
 
 The next step is to add a vasopressor such as norepinephrine, especially if there's ongoing hypotension and end-organ hypoperfusion despite inotropes.
 
-Now let’s wrap up:
-You’ve managed two contrasting presentations of acute heart failure — one with preserved blood pressure and pulmonary oedema, the other with cardiogenic shock.
+Now let's wrap up:
+You've managed two contrasting presentations of acute heart failure — one with preserved blood pressure and pulmonary oedema, the other with cardiogenic shock.
 
 Key takeaways:
 IV loop diuretics = mainstay for congestion
@@ -619,7 +653,7 @@ Student: rheumatic fever
 You: ✅ Spot on — rheumatic fever is overwhelmingly the most common cause.
 
 Next question:
-She’s in atrial fibrillation. What important long-term medication should you consider prescribing to reduce stroke risk?
+She's in atrial fibrillation. What important long-term medication should you consider prescribing to reduce stroke risk?
 
 Student: doac/warfarin
 
@@ -628,18 +662,18 @@ You: 🟡 Almost — you're right that anticoagulation is needed, but:
 In moderate to severe mitral stenosis, warfarin is still the recommended anticoagulant — not DOACs, which are not yet widely accepted in this context.
 
 Next question:
-She’s symptomatic. What would be the first-line interventional procedure for a suitable valve (i.e. non-calcified, mobile leaflets, no LA thrombus)?
+She's symptomatic. What would be the first-line interventional procedure for a suitable valve (i.e. non-calcified, mobile leaflets, no LA thrombus)?
 
 Student: baloon valvotomy
 
 You: ✅ Correct — percutaneous mitral balloon valvotomy is first-line in suitable symptomatic patients.
 
 Next question:
-What echocardiographic mitral valve area defines “severe” or “tight” mitral stenosis?
+What echocardiographic mitral valve area defines "severe" or "tight" mitral stenosis?
 
 Student: <1cm
 
-You: 🟡 Close — let’s tighten that up a bit.
+You: 🟡 Close — let's tighten that up a bit.
 
 The specific signs of left atrial enlargement on chest X-ray include:
 
@@ -651,13 +685,13 @@ Elevation of the left main bronchus
 
 All of these point toward a dilated left atrium.
 
-✅ Well done — you’ve worked through a full case of mitral stenosis, from presentation to management!
+✅ Well done — you've worked through a full case of mitral stenosis, from presentation to management!
 
 Would you like to go through another case?
 ---------------
 EXAMPLE 3: Cardiac tamponade
 
-You: Let’s work through a case to help you learn cardiac tamponade clearly and practically.
+You: Let's work through a case to help you learn cardiac tamponade clearly and practically.
 
 A 58-year-old man is rushed into the emergency department following a stab wound to the chest. He is hypotensive (BP 84/60 mmHg), tachycardic, and appears very breathless. On exam, his JVP is markedly elevated and heart sounds are distant.
 
@@ -667,7 +701,7 @@ What classic triad are you thinking of, and what diagnosis does this suggest?
 Student: beck 
 cardiac tamponade
 
-You: Correct! You're thinking of Beck’s triad — hypotension, raised JVP, and muffled heart sounds — which is classic for cardiac tamponade.
+You: Correct! You're thinking of Beck's triad — hypotension, raised JVP, and muffled heart sounds — which is classic for cardiac tamponade.
 
 Next part of the case:
 His ECG shows a sinus tachycardia with alternating QRS amplitudes beat to beat.
@@ -677,7 +711,7 @@ What is this ECG finding called, and why does it occur in tamponade?
 
 Student: occurs due to swinging motion of heart. called ecg alternans
 
-You: Perfect — it’s called electrical alternans, and it occurs due to the swinging motion of the heart within a fluid-filled pericardial sac.
+You: Perfect — it's called electrical alternans, and it occurs due to the swinging motion of the heart within a fluid-filled pericardial sac.
 
 Next:
 You examine his neck veins and notice no Y descent on the JVP waveform.
@@ -693,7 +727,7 @@ But to be precise:
 In tamponade, the Y descent is absent because the right ventricle can't fill properly — the high pericardial pressure restricts diastolic filling, so there's no rapid fall in venous pressure.
 
 Next step:
-This man is in shock. Fluids haven’t helped.
+This man is in shock. Fluids haven't helped.
 
 Question 4:
 What is the definitive management for cardiac tamponade?
@@ -711,46 +745,24 @@ You: Spot on — pericardial calcification on CXR suggests constrictive pericard
 
 ✅ Case complete!
 You've just worked through the recognition, investigation, and management of cardiac tamponade, and contrasted it with constrictive pericarditis.
-
 """
         )
 
-        # Run assistant
+        # Create run
         run = client.beta.threads.runs.create(
             thread_id=thread.id,
             assistant_id=ASSISTANT_ID
         )
 
-        # Wait for assistant to complete
-        max_retries = 5
-        for attempt in range(max_retries):
-            run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
-            if run.status == "completed":
-                break
-            elif run.status == "failed":
-                raise HTTPException(status_code=500, detail=f"Run failed: {run.last_error}")
-            time.sleep(2 ** attempt)
-        else:
-            raise HTTPException(status_code=504, detail="Run timed out")
-
-        # Get assistant's first message
-        messages = client.beta.threads.messages.list(thread_id=thread.id)
-        assistant_msg = next((m for m in messages.data if m.role == "assistant"), None)
-        if not assistant_msg:
-            raise HTTPException(status_code=500, detail="No assistant message found")
-
-        first_text_block = next((c for c in assistant_msg.content if c.type == "text"), None)
-        if not first_text_block:
-            raise HTTPException(status_code=500, detail="No text block found in assistant message")
-
-        first_message = first_text_block.text.value
-        logger.info(f"✅ Retrieved assistant message: {first_message[:60]}...")
-
-        return {
-            "thread_id": thread.id,
-            "first_message": first_message,
-            "case_variation": case_variation
-        }
+        # Return streaming response
+        return EventSourceResponse(
+            stream_assistant_response(thread.id, run.id),
+            headers={
+                "Cache-Control": "no-cache",
+                "Connection": "keep-alive",
+                "X-Accel-Buffering": "no"
+            }
+        )
 
     except Exception as e:
         logger.error(f"❌ start_case failed: {str(e)}", exc_info=True)
@@ -766,9 +778,57 @@ def sanitize_input(text: str) -> str:
     text = re.sub(r'[^\w\s\-.,!?]', '', text)
     return text.strip()
 
+async def stream_continue_case_response(thread_id: str, run_id: str) -> AsyncGenerator[str, None]:
+    """Stream assistant responses for continue_case using SSE."""
+    try:
+        while True:
+            run = client.beta.threads.runs.retrieve(
+                thread_id=thread_id,
+                run_id=run_id
+            )
+            
+            if run.status == "completed":
+                messages = client.beta.threads.messages.list(thread_id=thread_id)
+                latest_message = messages.data[0].content[0].text.value
+                
+                # Check for case completion
+                is_completed = "CASE COMPLETED" in latest_message
+                feedback = None
+                score = None
+                
+                if is_completed:
+                    try:
+                        completion_index = latest_message.find("[CASE COMPLETED]")
+                        json_text = latest_message[completion_index + len("[CASE COMPLETED]"):].strip()
+                        feedback_json = json.loads(json_text)
+                        feedback = feedback_json.get("feedback")
+                        score = feedback_json.get("score")
+                    except Exception as e:
+                        logger.error(f"Error processing completion data: {str(e)}")
+                
+                yield f"data: {json.dumps({
+                    'content': latest_message,
+                    'is_completed': is_completed,
+                    'feedback': feedback,
+                    'score': score
+                })}\n\n"
+                break
+            elif run.status == "failed":
+                yield f"data: {json.dumps({'error': f'Run failed: {run.last_error}'})}\n\n"
+                break
+            elif run.status == "expired":
+                yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
+                break
+                
+            await asyncio.sleep(0.5)
+            
+    except Exception as e:
+        logger.error(f"Error in stream_continue_case_response: {str(e)}")
+        yield f"data: {json.dumps({'error': str(e)})}\n\n"
+
 @app.post("/continue_case")
 async def continue_case(request: ContinueCaseRequest, authorization: str = Header(...)):
-    """Continue an existing case with the OpenAI Assistant."""
+    """Continue an existing case with the OpenAI Assistant using streaming."""
     try:
         # Sanitize user input
         sanitized_input = sanitize_input(request.user_input)
@@ -798,79 +858,28 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
             logger.error(error_msg)
             raise HTTPException(status_code=500, detail=error_msg)
             
-        # Create and wait for run
+        # Create run
         try:
             run = client.beta.threads.runs.create(
                 thread_id=request.thread_id,
                 assistant_id=ASSISTANT_ID
             )
             
-            # Wait for run completion with exponential backoff
-            max_retries = 5
-            retry_delay = 1
-            for attempt in range(max_retries):
-                run = client.beta.threads.runs.retrieve(
-                    thread_id=request.thread_id,
-                    run_id=run.id
-                )
-                if run.status == "completed":
-                    break
-                elif run.status == "failed":
-                    error_msg = f"Run failed: {run.last_error}"
-                    logger.error(error_msg)
-                    raise HTTPException(status_code=500, detail=error_msg)
-                time.sleep(retry_delay * (2 ** attempt))
-            else:
-                error_msg = "Run timed out"
-                logger.error(error_msg)
-                raise HTTPException(status_code=504, detail=error_msg)
+            # Return streaming response
+            return EventSourceResponse(
+                stream_continue_case_response(request.thread_id, run.id),
+                headers={
+                    "Cache-Control": "no-cache",
+                    "Connection": "keep-alive",
+                    "X-Accel-Buffering": "no"
+                }
+            )
                 
         except Exception as e:
             error_msg = f"Error creating/retrieving run: {str(e)}"
             logger.error(error_msg)
             raise HTTPException(status_code=500, detail=error_msg)
             
-        # Get assistant's response
-        try:
-            messages = client.beta.threads.messages.list(thread_id=request.thread_id)
-            latest_message = messages.data[0].content[0].text.value
-            logger.info(f"Retrieved assistant response from thread {request.thread_id}")
-            logger.info(f"Assistant response: {latest_message}")
-        except Exception as e:
-            error_msg = f"Error retrieving messages: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
-        
-        # Check for case completion
-        is_completed = "CASE COMPLETED" in latest_message
-        logger.info(f"is_completed: {is_completed}")
-        feedback = None
-        score = None
-        
-        if is_completed:
-            try:
-                completion_index = latest_message.find("[CASE COMPLETED]")
-                json_text = latest_message[completion_index + len("[CASE COMPLETED]"):].strip()
-                feedback_json = json.loads(json_text)
-                feedback = feedback_json.get("feedback")
-                score = feedback_json.get("score")
-                logger.info(f"Extracted feedback: {feedback}, score: {score}")
-                # Save performance data
-                save_performance_data(user_id, request.thread_id, score, feedback)
-                logger.info(f"Saved performance data for user {user_id}")
-            except Exception as e:
-                error_msg = f"Error processing completion data: {str(e)}"
-                logger.error(error_msg)
-                # Don't raise here, just log the error
-        
-        logger.info(f"Returning: assistant_reply={latest_message}, is_completed={is_completed}, feedback={feedback}, score={score}")
-        return {
-            "assistant_reply": latest_message,
-            "case_completed": is_completed,
-            "feedback": feedback,
-            "score": score
-        }
-        
     except HTTPException:
         raise
     except Exception as e:
