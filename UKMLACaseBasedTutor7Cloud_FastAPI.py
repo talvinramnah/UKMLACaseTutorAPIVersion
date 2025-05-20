@@ -437,28 +437,43 @@ def get_wards(authorization: Optional[str] = Header(None)):
     logger.info(f"Returning wards structure: {wards}")
     return {"wards": wards}
 
-def get_next_case_variation(condition: str, user_id: str) -> int:
-    """Get the next unused case variation number for this user and condition."""
+def get_next_case_variation(user_id: str, condition: str) -> int:
+    """
+    Get the next unused case variation number for this user and condition.
+    Args:
+        user_id (str): The user's unique identifier (UUID).
+        condition (str): The case/condition name.
+    Returns:
+        int: The next unused variation number (starting from 1).
+    """
     try:
         # Query completed cases for this user and condition
-        result = supabase.table("performance").select("case_variation").eq("user_id", user_id).eq("condition", condition).execute()
-        
+        result = supabase.table("performance") \
+            .select("case_variation") \
+            .eq("user_id", user_id) \
+            .eq("condition", condition) \
+            .execute()
         if not result.data:
             return 1  # First case
-            
-        # Get all used variations
-        used_variations = set(record.get('case_variation', 0) for record in result.data)
-        
+
+        # Get all used variations (ensure int conversion and skip None)
+        used_variations = set(
+            int(record.get('case_variation', 0))
+            for record in result.data
+            if record.get('case_variation') is not None
+        )
+
         # Find the next unused variation number
         variation = 1
         while variation in used_variations:
             variation += 1
-            
+
         return variation
     except Exception as e:
+        logger.error(f"Error in get_next_case_variation for user_id={user_id}, condition={condition}: {str(e)}")
         # If there's an error, default to variation 1
         return 1
-        
+    
 async def stream_assistant_response(thread_id: str, run_id: str) -> AsyncGenerator[str, None]:
     """Stream assistant responses using SSE."""
     try:
