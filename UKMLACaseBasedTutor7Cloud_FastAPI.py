@@ -38,7 +38,6 @@ import random_username
 from random_username.generate import generate_username
 import requests
 import asyncio
-from sse_starlette.sse import EventSourceResponse
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -473,7 +472,7 @@ def get_next_case_variation(user_id: str, condition: str) -> int:
         logger.error(f"Error in get_next_case_variation for user_id={user_id}, condition={condition}: {str(e)}")
         # If there's an error, default to variation 1
         return 1
-    
+
 async def stream_assistant_response(thread_id: str, run_id: str) -> AsyncGenerator[str, None]:
     """Stream assistant responses using SSE."""
     try:
@@ -774,12 +773,14 @@ You've just worked through the recognition, investigation, and management of car
         )
 
         # Return streaming response
-        return EventSourceResponse(
+        return StreamingResponse(
             stream_assistant_response(thread.id, run.id),
+            media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
                 "Connection": "keep-alive",
-                "X-Accel-Buffering": "no"
+                "X-Accel-Buffering": "no",
+                "Content-Type": "text/event-stream"
             }
         )
 
@@ -889,12 +890,14 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
             )
             
             # Return streaming response
-            return EventSourceResponse(
+            return StreamingResponse(
                 stream_continue_case_response(request.thread_id, run.id),
+                media_type="text/event-stream",
                 headers={
                     "Cache-Control": "no-cache",
                     "Connection": "keep-alive",
-                    "X-Accel-Buffering": "no"
+                    "X-Accel-Buffering": "no",
+                    "Content-Type": "text/event-stream"
                 }
             )
                 
