@@ -14,3 +14,5 @@ slowapi==0.1.8
 email-validator==2.1.0.post1
 requests==2.31.0
 random-username 
+sse-starlette==1.8.2 
+slowapi==0.1.8 
