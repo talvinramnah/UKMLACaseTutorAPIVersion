@@ -918,7 +918,8 @@ You've just worked through the recognition, investigation, and management of car
                 "Cache-Control": "no-cache",
                 "Connection": "keep-alive",
                 "X-Accel-Buffering": "no",
-                "Content-Type": "text/event-stream"
+                "Content-Type": "text/event-stream",
+                "X-Thread-Id": thread.id  # Add thread ID for frontend
             }
         )
 
