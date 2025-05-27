@@ -38,6 +38,8 @@ import random_username
 from random_username.generate import generate_username
 import requests
 import asyncio
+import hashlib
+import httpx
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -89,20 +91,172 @@ try:
     client = openai.OpenAI(
         api_key=openai.api_key,
         default_headers={"OpenAI-Beta": "assistants=v2"},
-        timeout=30.0,  # Add timeout
-        max_retries=3  # Add retries
+        timeout=15.0,  # Reduced from 30.0 for faster failures
+        max_retries=2  # Reduced from 3 for faster responses
     )
-    logger.info("OpenAI client initialized successfully with Assistants v2")
+    logger.info("OpenAI client initialized successfully with Assistants v2 (optimized timeouts)")
 except Exception as e:
     logger.error(f"Failed to initialize OpenAI client: {str(e)}")
     raise
 
+# --- CONNECTION POOLING FOR SUPABASE ---
+def create_optimized_supabase_client():
+    """Create Supabase client with connection pooling for better performance"""
+    # Create HTTP session with connection pooling
+    session = httpx.Client(
+        limits=httpx.Limits(
+            max_keepalive_connections=20,  # Keep 20 connections alive
+            max_connections=50,            # Maximum 50 total connections
+            keepalive_expiry=30           # Keep connections alive for 30 seconds
+        ),
+        timeout=httpx.Timeout(10.0)       # 10 second timeout for requests
+    )
+    
+    # Create Supabase client with optimized session
+    return create_client(
+        SUPABASE_URL, 
+        SUPABASE_KEY,
+        options={"session": session}
+    )
+
+# Singleton pattern for Supabase client
+_supabase_client = None
+
+def get_supabase_client():
+    """Get singleton Supabase client with connection pooling"""
+    global _supabase_client
+    if _supabase_client is None:
+        _supabase_client = create_optimized_supabase_client()
+        logger.info("Supabase client initialized with connection pooling")
+    return _supabase_client
+
 try:
-    supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
-    logger.info("Supabase client initialized successfully")
+    supabase = get_supabase_client()
+    logger.info("Supabase client initialized successfully with connection pooling")
 except Exception as e:
     logger.error(f"Failed to initialize Supabase client: {str(e)}")
     raise
+
+# --- RESPONSE CACHING SYSTEM ---
+import hashlib
+from typing import Optional as OptionalType
+
+# In-memory cache for responses (use Redis in production for scaling)
+RESPONSE_CACHE = {}
+CACHE_MAX_SIZE = 100  # Limit cache size to prevent memory issues
+CACHE_TTL = 3600  # Cache for 1 hour (in seconds)
+
+def generate_cache_key(condition: str, case_content_hash: str, user_variation: int = None) -> str:
+    """Generate a unique cache key for case starts"""
+    key_components = [condition, case_content_hash]
+    if user_variation is not None:
+        key_components.append(str(user_variation))
+    
+    key_string = "_".join(key_components)
+    return hashlib.md5(key_string.encode()).hexdigest()
+
+def get_cached_response(cache_key: str) -> OptionalType[Dict[str, Any]]:
+    """Retrieve cached response if it exists and hasn't expired"""
+    if cache_key not in RESPONSE_CACHE:
+        return None
+    
+    cached_item = RESPONSE_CACHE[cache_key]
+    current_time = time.time()
+    
+    # Check if cache has expired
+    if current_time - cached_item["timestamp"] > CACHE_TTL:
+        del RESPONSE_CACHE[cache_key]
+        logger.info(f"Cache expired for key: {cache_key[:8]}...")
+        return None
+    
+    logger.info(f"Cache hit for key: {cache_key[:8]}...")
+    return cached_item["response"]
+
+def set_cached_response(cache_key: str, response: Dict[str, Any]) -> None:
+    """Cache a response with timestamp"""
+    # Implement simple LRU by removing oldest entries if cache is full
+    if len(RESPONSE_CACHE) >= CACHE_MAX_SIZE:
+        # Remove the oldest entry
+        oldest_key = min(RESPONSE_CACHE.keys(), 
+                        key=lambda k: RESPONSE_CACHE[k]["timestamp"])
+        del RESPONSE_CACHE[oldest_key]
+        logger.info(f"Cache full, removed oldest entry: {oldest_key[:8]}...")
+    
+    RESPONSE_CACHE[cache_key] = {
+        "response": response,
+        "timestamp": time.time()
+    }
+    logger.info(f"Cached response for key: {cache_key[:8]}...")
+
+def hash_content(content: str) -> str:
+    """Generate hash for content to use in cache keys"""
+    return hashlib.md5(content.encode()).hexdigest()
+
+# --- END CACHING SYSTEM ---
+
+# --- FILE I/O CACHING SYSTEM ---
+FILE_CACHE = {}
+FILE_CACHE_MAX_SIZE = 50  # Cache up to 50 files
+FILE_CACHE_TTL = 1800     # Cache files for 30 minutes
+
+def get_cached_file_content(file_path: Path) -> OptionalType[str]:
+    """Get cached file content if available and not expired"""
+    cache_key = str(file_path)
+    
+    if cache_key not in FILE_CACHE:
+        return None
+    
+    cached_item = FILE_CACHE[cache_key]
+    current_time = time.time()
+    
+    # Check if cache has expired
+    if current_time - cached_item["timestamp"] > FILE_CACHE_TTL:
+        del FILE_CACHE[cache_key]
+        logger.info(f"File cache expired for: {file_path.name}")
+        return None
+    
+    logger.info(f"File cache hit for: {file_path.name}")
+    return cached_item["content"]
+
+def set_cached_file_content(file_path: Path, content: str) -> None:
+    """Cache file content with timestamp"""
+    # Implement simple LRU by removing oldest entries if cache is full
+    if len(FILE_CACHE) >= FILE_CACHE_MAX_SIZE:
+        # Remove the oldest entry
+        oldest_key = min(FILE_CACHE.keys(), 
+                        key=lambda k: FILE_CACHE[k]["timestamp"])
+        del FILE_CACHE[oldest_key]
+        logger.info(f"File cache full, removed oldest entry")
+    
+    cache_key = str(file_path)
+    FILE_CACHE[cache_key] = {
+        "content": content,
+        "timestamp": time.time()
+    }
+    logger.info(f"Cached file content for: {file_path.name}")
+
+def read_case_file_cached(file_path: Path) -> str:
+    """Read case file with caching to avoid repeated disk I/O"""
+    # Check cache first
+    cached_content = get_cached_file_content(file_path)
+    if cached_content is not None:
+        return cached_content
+    
+    # Read from disk if not cached
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Cache the content
+        set_cached_file_content(file_path, content)
+        logger.info(f"Read and cached file: {file_path.name}")
+        return content
+    
+    except Exception as e:
+        logger.error(f"Error reading file {file_path}: {str(e)}")
+        raise
+
+# --- END FILE CACHING SYSTEM ---
 
 class CORSRoute(APIRoute):
     def get_route_handler(self) -> Callable:
@@ -234,10 +388,10 @@ else:
 
 # --- HELPER FUNCTIONS ---
 def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
-    """Wait for run completion with exponential backoff."""
+    """Wait for run completion with optimized exponential backoff."""
     start_time = time.time()
-    wait_time = 0.5
-    max_wait = 2.0  # Maximum wait between checks
+    wait_time = 0.1  # Start with 100ms for faster initial responses
+    max_wait = 1.0   # Reduced max wait from 2.0s to 1.0s
     
     while True:
         if time.time() - start_time > timeout:
@@ -255,9 +409,9 @@ def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
         if status == "expired":
             raise Exception("Assistant run expired")
             
-        # Exponential backoff
+        # Optimized exponential backoff: faster initial checks, capped at 1s
         time.sleep(min(wait_time, max_wait))
-        wait_time *= 1.5
+        wait_time = min(wait_time * 1.5, max_wait)  # Ensure we don't exceed max_wait
 
 @rate_limit(1)
 def send_to_assistant(input_text, thread_id):
@@ -533,9 +687,8 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
         # Determine case variation
         case_variation = get_next_case_variation(user_id, request.condition)
 
-        # Read case content
-        with open(case_file, "r") as f:
-            case_content = f.read()
+        # Read case content using cached file reading
+        case_content = read_case_file_cached(case_file)
 
         # Create thread
         thread = client.beta.threads.create(
@@ -777,14 +930,12 @@ You've just worked through the recognition, investigation, and management of car
             stream_assistant_response(thread.id, run.id),
             media_type="text/event-stream",
             headers={
-                "X-Thread-Id": thread.id,
                 "Cache-Control": "no-cache",
                 "Connection": "keep-alive",
                 "X-Accel-Buffering": "no",
                 "Content-Type": "text/event-stream"
             }
         )
-
 
     except Exception as e:
         logger.error(f"❌ start_case failed: {str(e)}", exc_info=True)
