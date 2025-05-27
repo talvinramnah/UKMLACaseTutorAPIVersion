@@ -612,86 +612,15 @@ def get_next_case_variation(user_id: str, condition: str) -> int:
         # If there's an error, default to variation 1
         return 1
 
-async def stream_assistant_response(thread_id: str, run_id: str) -> AsyncGenerator[str, None]:
-    """Stream assistant responses using SSE."""
+async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int) -> AsyncGenerator[str, None]:
+    """Stream assistant responses using OpenAI's native streaming API."""
     try:
-        while True:
-            run = client.beta.threads.runs.retrieve(
-                thread_id=thread_id,
-                run_id=run_id
-            )
-            
-            if run.status == "completed":
-                messages = client.beta.threads.messages.list(thread_id=thread_id)
-                assistant_msg = next((m for m in messages.data if m.role == "assistant"), None)
-                if assistant_msg:
-                    first_text_block = next((c for c in assistant_msg.content if c.type == "text"), None)
-                    if first_text_block:
-                        response_data = json.dumps({'content': first_text_block.text.value})
-                        yield f"data: {response_data}\n\n"
-                break
-            elif run.status == "failed":
-                error_data = json.dumps({'error': f'Run failed: {run.last_error}'})
-                yield f"data: {error_data}\n\n"
-                break
-            elif run.status == "expired":
-                error_data = json.dumps({'error': 'Run expired'})
-                yield f"data: {error_data}\n\n"
-                break
-                
-            await asyncio.sleep(0.5)
-            
-    except Exception as e:
-        logger.error(f"Error in stream_assistant_response: {str(e)}")
-        error_data = json.dumps({'error': str(e)})
-        yield f"data: {error_data}\n\n"
-
-@app.post("/start_case")
-async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
-    """Start a new case with the OpenAI Assistant using streaming."""
-    try:
-        # Validate token and get user ID
-        if not authorization or not authorization.startswith("Bearer "):
-            raise HTTPException(
-                status_code=status.HTTP_401_UNAUTHORIZED,
-                detail="Invalid authorization header"
-            )
-        
-        token = authorization.split(" ")[1]
-        user_id = extract_user_id(token)
-
-        logger.info(f"Starting case for user {user_id} with condition {request.condition}")
-
-        # Get case file and ward
-        case_file = get_case_file(request.condition)
-        if not case_file:
-            raise HTTPException(status_code=404, detail=f"Case '{request.condition}' not found.")
-        
-        ward = get_ward_for_condition(request.condition)
-
-        # Determine case variation
-        case_variation = get_next_case_variation(user_id, request.condition)
-
-        # Read case content using cached file reading
-        case_content = read_case_file_cached(case_file)
-
-        # Create thread
-        thread = client.beta.threads.create(
-            metadata={
-                "user_id": user_id,
-                "condition": request.condition,
-                "ward": ward,
-                "start_time": datetime.now(timezone.utc).isoformat(),
-                "case_variation": str(case_variation)
-            }
-        )
-
-        # Send initial case prompt
+        # Send initial case prompt (preserving exact original content)
         client.beta.threads.messages.create(
-            thread_id=thread.id,
+            thread_id=thread_id,
             role="user",
             content=f"""
-GOAL: You are an expert Medical professional with decades of teaching experience. Your goal is to provide UK medicine students with realistic patient cases. Start a UKMLA-style case on: {request.condition} (Variation {case_variation}).
+GOAL: You are an expert Medical professional with decades of teaching experience. Your goal is to provide UK medicine students with realistic patient cases. Start a UKMLA-style case on: {condition} (Variation {case_variation}).
 
 CASE CONTENT:
 {case_content}
@@ -903,16 +832,87 @@ You: Spot on — pericardial calcification on CXR suggests constrictive pericard
 You've just worked through the recognition, investigation, and management of cardiac tamponade, and contrasted it with constrictive pericarditis.
 """
         )
-
-        # Create run
-        run = client.beta.threads.runs.create(
-            thread_id=thread.id,
+        
+        # Create streaming run using OpenAI's native streaming
+        with client.beta.threads.runs.stream(
+            thread_id=thread_id,
             assistant_id=ASSISTANT_ID
+        ) as stream:
+            for event in stream:
+                # Handle text delta events (real-time chunks)
+                if event.event == 'thread.message.delta':
+                    if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
+                        for content_block in event.data.delta.content:
+                            if content_block.type == 'text' and hasattr(content_block.text, 'value'):
+                                chunk = content_block.text.value
+                                if chunk:  # Only yield non-empty chunks
+                                    yield f"data: {json.dumps({'content': chunk})}\n\n"
+                
+                # Handle run completion
+                elif event.event == 'thread.run.completed':
+                    yield f"data: {json.dumps({'status': 'completed'})}\n\n"
+                    break
+                
+                # Handle run failure
+                elif event.event == 'thread.run.failed':
+                    error_msg = 'Run failed'
+                    if hasattr(event.data, 'last_error') and event.data.last_error:
+                        error_msg = f'Run failed: {event.data.last_error}'
+                    yield f"data: {json.dumps({'error': error_msg})}\n\n"
+                    break
+                
+                # Handle run expiration
+                elif event.event == 'thread.run.expired':
+                    yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
+                    break
+                    
+    except Exception as e:
+        logger.error(f"Error in stream_assistant_response_real: {str(e)}")
+        yield f"data: {json.dumps({'error': str(e)})}\n\n"
+
+@app.post("/start_case")
+async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
+    """Start a new case with the OpenAI Assistant using streaming."""
+    try:
+        # Validate token and get user ID
+        if not authorization or not authorization.startswith("Bearer "):
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid authorization header"
+            )
+        
+        token = authorization.split(" ")[1]
+        user_id = extract_user_id(token)
+
+        logger.info(f"Starting case for user {user_id} with condition {request.condition}")
+
+        # Get case file and ward
+        case_file = get_case_file(request.condition)
+        if not case_file:
+            raise HTTPException(status_code=404, detail=f"Case '{request.condition}' not found.")
+        
+        ward = get_ward_for_condition(request.condition)
+
+        # Determine case variation
+        case_variation = get_next_case_variation(user_id, request.condition)
+
+        # Read case content using cached file reading
+        case_content = read_case_file_cached(case_file)
+
+        # Create thread
+        thread = client.beta.threads.create(
+            metadata={
+                "user_id": user_id,
+                "condition": request.condition,
+                "ward": ward,
+                "start_time": datetime.now(timezone.utc).isoformat(),
+                "case_variation": str(case_variation)
+            }
         )
 
-        # Return streaming response
+        # Return streaming response with real streaming
         return StreamingResponse(
-            stream_assistant_response(thread.id, run.id),
+            stream_assistant_response_real(thread.id, request.condition, case_content, case_variation),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
@@ -937,56 +937,95 @@ def sanitize_input(text: str) -> str:
     text = re.sub(r'[^\w\s\-.,!?]', '', text)
     return text.strip()
 
-async def stream_continue_case_response(thread_id: str, run_id: str) -> AsyncGenerator[str, None]:
-    """Stream assistant responses for continue_case using SSE."""
+async def stream_continue_case_response_real(thread_id: str, user_input: str) -> AsyncGenerator[str, None]:
+    """Stream assistant responses for continue_case using real OpenAI streaming."""
     try:
-        while True:
-            run = client.beta.threads.runs.retrieve(
-                thread_id=thread_id,
-                run_id=run_id
-            )
-            
-            if run.status == "completed":
-                messages = client.beta.threads.messages.list(thread_id=thread_id)
-                latest_message = messages.data[0].content[0].text.value
+        # Send user message to thread
+        client.beta.threads.messages.create(
+            thread_id=thread_id,
+            role="user",
+            content=user_input
+        )
+        
+        # Create streaming run
+        with client.beta.threads.runs.stream(
+            thread_id=thread_id,
+            assistant_id=ASSISTANT_ID
+        ) as stream:
+            for event in stream:
+                # Handle text delta events (real-time chunks)
+                if event.event == 'thread.message.delta':
+                    if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
+                        for content in event.data.delta.content:
+                            if hasattr(content, 'text') and hasattr(content.text, 'value'):
+                                chunk_data = json.dumps({
+                                    'content': content.text.value,
+                                    'is_completed': False,
+                                    'feedback': None,
+                                    'score': None
+                                })
+                                yield f"data: {chunk_data}\n\n"
                 
-                # Check for case completion
-                is_completed = "CASE COMPLETED" in latest_message
-                feedback = None
-                score = None
+                # Handle run completion
+                elif event.event == 'thread.run.completed':
+                    # Get the final message
+                    messages = client.beta.threads.messages.list(thread_id=thread_id)
+                    latest_message = messages.data[0].content[0].text.value
+                    
+                    # Check for case completion
+                    is_completed = "CASE COMPLETED" in latest_message
+                    feedback = None
+                    score = None
+                    
+                    if is_completed:
+                        try:
+                            completion_index = latest_message.find("[CASE COMPLETED]")
+                            json_text = latest_message[completion_index + len("[CASE COMPLETED]"):].strip()
+                            feedback_json = json.loads(json_text)
+                            feedback = feedback_json.get("feedback")
+                            score = feedback_json.get("score")
+                        except Exception as e:
+                            logger.error(f"Error processing completion data: {str(e)}")
+                    
+                    final_data = json.dumps({
+                        'content': '',  # Empty since we already sent chunks
+                        'is_completed': is_completed,
+                        'feedback': feedback,
+                        'score': score
+                    })
+                    yield f"data: {final_data}\n\n"
+                    break
                 
-                if is_completed:
-                    try:
-                        completion_index = latest_message.find("[CASE COMPLETED]")
-                        json_text = latest_message[completion_index + len("[CASE COMPLETED]"):].strip()
-                        feedback_json = json.loads(json_text)
-                        feedback = feedback_json.get("feedback")
-                        score = feedback_json.get("score")
-                    except Exception as e:
-                        logger.error(f"Error processing completion data: {str(e)}")
+                # Handle run failure
+                elif event.event == 'thread.run.failed':
+                    error_data = json.dumps({
+                        'error': f'Run failed: {event.data.last_error}',
+                        'is_completed': False,
+                        'feedback': None,
+                        'score': None
+                    })
+                    yield f"data: {error_data}\n\n"
+                    break
                 
-                response_data = json.dumps({
-                    'content': latest_message,
-                    'is_completed': is_completed,
-                    'feedback': feedback,
-                    'score': score
-                })
-                yield f"data: {response_data}\n\n"
-                break
-            elif run.status == "failed":
-                error_data = json.dumps({'error': f'Run failed: {run.last_error}'})
-                yield f"data: {error_data}\n\n"
-                break
-            elif run.status == "expired":
-                error_data = json.dumps({'error': 'Run expired'})
-                yield f"data: {error_data}\n\n"
-                break
-                
-            await asyncio.sleep(0.5)
-            
+                # Handle run expiration
+                elif event.event == 'thread.run.expired':
+                    error_data = json.dumps({
+                        'error': 'Run expired',
+                        'is_completed': False,
+                        'feedback': None,
+                        'score': None
+                    })
+                    yield f"data: {error_data}\n\n"
+                    break
+                    
     except Exception as e:
-        logger.error(f"Error in stream_continue_case_response: {str(e)}")
-        error_data = json.dumps({'error': str(e)})
+        logger.error(f"Error in stream_continue_case_response_real: {str(e)}")
+        error_data = json.dumps({
+            'error': str(e),
+            'is_completed': False,
+            'feedback': None,
+            'score': None
+        })
         yield f"data: {error_data}\n\n"
 
 @app.post("/continue_case")
@@ -1008,43 +1047,18 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
         
         logger.info(f"Continuing case for user {user_id} in thread {request.thread_id}")
         
-        # Send user message
-        try:
-            client.beta.threads.messages.create(
-                thread_id=request.thread_id,
-                role="user",
-                content=sanitized_input
-            )
-            logger.info(f"Sent user message to thread {request.thread_id}")
-        except Exception as e:
-            error_msg = f"Error sending user message: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
-            
-        # Create run
-        try:
-            run = client.beta.threads.runs.create(
-                thread_id=request.thread_id,
-                assistant_id=ASSISTANT_ID
-            )
-            
-            # Return streaming response
-            return StreamingResponse(
-                stream_continue_case_response(request.thread_id, run.id),
-                media_type="text/event-stream",
-                headers={
-                    "Cache-Control": "no-cache",
-                    "Connection": "keep-alive",
-                    "X-Accel-Buffering": "no",
-                    "Content-Type": "text/event-stream"
-                }
-            )
+        # Return streaming response
+        return StreamingResponse(
+            stream_continue_case_response_real(request.thread_id, sanitized_input),
+            media_type="text/event-stream",
+            headers={
+                "Cache-Control": "no-cache",
+                "Connection": "keep-alive",
+                "X-Accel-Buffering": "no",
+                "Content-Type": "text/event-stream"
+            }
+        )
                 
-        except Exception as e:
-            error_msg = f"Error creating/retrieving run: {str(e)}"
-            logger.error(error_msg)
-            raise HTTPException(status_code=500, detail=error_msg)
-            
     except HTTPException:
         raise
     except Exception as e:
