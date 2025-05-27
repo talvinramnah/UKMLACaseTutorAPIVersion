@@ -39,7 +39,6 @@ from random_username.generate import generate_username
 import requests
 import asyncio
 import hashlib
-import httpx
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -101,38 +100,24 @@ except Exception as e:
 
 # --- CONNECTION POOLING FOR SUPABASE ---
 def create_optimized_supabase_client():
-    """Create Supabase client with connection pooling for better performance"""
-    # Create HTTP session with connection pooling
-    session = httpx.Client(
-        limits=httpx.Limits(
-            max_keepalive_connections=20,  # Keep 20 connections alive
-            max_connections=50,            # Maximum 50 total connections
-            keepalive_expiry=30           # Keep connections alive for 30 seconds
-        ),
-        timeout=httpx.Timeout(10.0)       # 10 second timeout for requests
-    )
-    
-    # Create Supabase client with optimized session
-    return create_client(
-        SUPABASE_URL, 
-        SUPABASE_KEY,
-        options={"session": session}
-    )
+    """Create Supabase client with optimized settings"""
+    # Simple client creation without custom session for compatibility
+    return create_client(SUPABASE_URL, SUPABASE_KEY)
 
 # Singleton pattern for Supabase client
 _supabase_client = None
 
 def get_supabase_client():
-    """Get singleton Supabase client with connection pooling"""
+    """Get singleton Supabase client"""
     global _supabase_client
     if _supabase_client is None:
         _supabase_client = create_optimized_supabase_client()
-        logger.info("Supabase client initialized with connection pooling")
+        logger.info("Supabase client initialized successfully")
     return _supabase_client
 
 try:
     supabase = get_supabase_client()
-    logger.info("Supabase client initialized successfully with connection pooling")
+    logger.info("Supabase client initialized successfully")
 except Exception as e:
     logger.error(f"Failed to initialize Supabase client: {str(e)}")
     raise
