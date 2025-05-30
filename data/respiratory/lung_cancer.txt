@@ -1,0 +1,425 @@
+Lung cancer
+Lung cancer
+Lung
+cancer
+, predominantly
+non-small cell lung cancer
+(NSCLC) and
+small cell lung cancer
+(SCLC), is a leading cause of mortality in the UK. Pathogenesis involves inhalation of carcinogens causing genetic mutations in bronchial epithelium. Risk factors include smoking, asbestos exposure, radon gas and family history. Clinical features range from
+cough
+,
+haemoptysis
+,
+dyspnoea
+to systemic symptoms like
+weight loss
+.
+Diagnostic approach incorporates imaging studies such as chest radiographs and CT scans, followed by histological confirmation through bronchoscopy or CT-guided biopsy. Staging utilises the TNM system for NSCLC and limited/extensive staging for SCLC.
+Treatment modalities vary based on stage and histology; surgery, chemotherapy, radiotherapy or targeted therapies may be employed. Despite advancements in therapeutics, prognosis remains poor with a five-year survival rate under 15% due to late-stage presentation.
+Last updated: 12
+th
+May 2025
+Epidemiology
+Incidence: 77.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Lung
+cancer
+1
+Tuberculosis
+0.12
+Mesothelioma
+0.04
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Smoking
+increases risk of lung ca by a factor of 10
+Other factors
+asbestos - increases risk of lung ca by a factor of 5
+arsenic
+radon
+nickel
+chromate
+aromatic hydrocarbon
+cryptogenic fibrosing alveolitis
+Factors that are NOT related
+coal dust
+Smoking and asbestos are synergistic, i.e. a smoker with asbestos exposure has a 10 * 5 = 50 times increased risk
+Improve
+Pathophysiology
+Lung
+cancer
+, a leading cause of mortality globally, is characterised by uncontrolled cell growth in the lung tissue. This entry outlines the pathogenesis of lung cancer, aiming to enhance understanding and facilitate more effective diagnosis and treatment.
+Cellular transformation
+The initial step in the pathogenesis of lung cancer involves cellular transformation. Normal bronchial epithelial cells undergo genetic alterations due to various carcinogens leading to DNA damage. This results in mutations of oncogenes and tumour suppressor genes such as
+TP53
+and
+KRAS
+.
+Proliferation of abnormal cells
+Following genetic alteration, these transformed cells evade apoptosis or programmed cell death, leading to uncontrolled proliferation. The accumulation of these abnormal cells results in dysplasia and subsequently carcinoma
+in situ
+.
+Dysplasia:
+In this phase, there are architectural distortions with cytological atypia within the bronchial epithelium but without invasion beyond the basement membrane.
+Carcinoma in situ:
+Characterised by full-thickness replacement of the bronchial epithelium with malignant cells but no invasion beyond the basement membrane.
+Invasion into surrounding tissues
+The next phase involves local invasion. The malignant cells acquire the ability to degrade extracellular matrix proteins via proteolytic enzymes such as matrix metalloproteinases (MMPs). This enables them to invade beyond the basement membrane into adjacent tissues.
+Vascular invasion and metastasis
+The final stage encompasses vascular invasion and metastasis. Malignant cells intravasate into blood vessels or lymphatics, survive in circulation, and eventually extravasate at distant sites. This process is facilitated by angiogenesis, the formation of new blood vessels from pre-existing ones, driven by vascular endothelial growth factor (VEGF).
+Immune evasion
+Throughout these stages, the cancer cells employ various strategies to evade immune surveillance. These include downregulation of major histocompatibility complex (MHC) molecules and production of immunosuppressive cytokines.
+Improve
+Classification
+Lung cancers may be classified according to histological subtypes. The main distinction is between small cell and non-small cell lung
+cancer
+. Non small cell lung cancer is the most common variant and accounts for 80% of all lung cancers.
+Non small cell lung cancer
+These share common features of prognosis and management. They comprise the following tumours:
+Squamous cell carcinoma (25% cases)
+Adenocarcinoma (40% cases)
+Large cell carcinoma (10% cases)
+Paraneoplastic features and early disease dissemination are less likely than with small cell lung carcinoma. Adenocarcinoma is the most common lung cancer type encountered in never smokers.
+Small cell lung carcinoma
+Small cell lung carcinomas are comprised of cells with a neuro endocrine differentiation. The neuroendocrine hormones may be released from these cells with a wide range of paraneoplastic associations. These tumours are strongly associated with smoking and will typically arise in the larger airways. They disseminate early in the course of the disease and although they are usually chemosensitive this seldom results in long lasting remissions.
+Improve
+Clinical features
+Lung
+cancer
+can manifest through a variety of clinical features. These symptoms may be directly related to the primary tumour, regional spread, distant metastasis, or paraneoplastic syndromes.
+Primary Tumour-Related Symptoms:
+Cough
+: Often persistent and progressively worsening, it can be either dry or productive.
+Haemoptysis
+: Coughing up blood or blood-streaked sputum can be an alarming symptom for patients.
+Dyspnoea
+: Shortness of breath can occur due to bronchial obstruction or pleural involvement.
+Chest pain
+: Often described as dull and persistent, but can be sharp and pleuritic in nature if there's pleural involvement.
+Wheezing or stridor
+: Due to airway obstruction by the tumour.
+Recurrent chest infections
+: Resulting from obstructed or partially obstructed airways.
+Anorexia
+and
+weight loss
+Symptoms of Regional Spread:
+Hoarseness
+: Due to recurrent laryngeal nerve involvement.
+Dysphagia
+: Resulting from oesophageal compression or involvement.
+Superior vena cava (SVC) obstruction
+: Presents with facial swelling, distended neck veins, and upper limb oedema.
+Pancoast tumour
+: A type of lung cancer located at the apex of the lung leading to shoulder pain and Horner's syndrome (ptosis, miosis, anhidrosis).
+Distant Metastasis-Related Symptoms:
+Bone pain
+: Especially in the spine, pelvis, and long bones.
+Neurological symptoms
+: From brain metastases, such as headaches, seizures, or focal neurological deficits.
+Abdominal pain or jaundice
+: Due to liver metastases.
+Adrenal insufficiency
+: If there's adrenal metastasis.
+Paraneoplastic Syndromes: These are indirect systemic symptoms caused by biologically active substances produced by the tumour or by an immune response against the tumour.
+Hypercalcaemia
+: Often due to production of parathyroid hormone-related peptide (PTHrP).
+Cushing's syndrome
+: Due to ectopic adrenocorticotropic hormone (ACTH) production.
+SIADH (Syndrome of Inappropriate Antidiuretic Hormone secretion)
+: Leading to
+hyponatraemia
+.
+Lambert-Eaton myasthenic syndrome (LEMS)
+: A neuromuscular disorder caused by antibodies directed against voltage-gated calcium channels in the presynaptic nerve terminals.
+Clubbing
+: A finger deformity seen in certain chronic diseases, including lung cancer.
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for lung cancer suggest the following:
+Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for lung cancer if they:
+have chest X-ray findings that suggest lung cancer or
+are aged 40 and over with unexplained
+haemoptysis
+.
+Offer an urgent chest X-ray (to be performed within 2 weeks) to assess for lung cancer in people aged 40 and over if they have 2 or more of the following unexplained symptoms, or if they have ever smoked and have 1 or more of the following unexplained symptoms:
+cough
+fatigue
+shortness of breath
+chest pain
+weight loss
+appetite loss
+Consider an urgent chest X-ray (to be performed within 2 weeks) to assess for lung cancer in people aged 40 and over with any of the following:
+persistent or recurrent chest infection
+finger
+clubbing
+supraclavicular lymphadenopathy or persistent cervical lymphadenopathy
+chest signs consistent with lung cancer
+thrombocytosis
+.
+Improve
+Investigations
+The initial investigation of a patient suspected to have lung
+cancer
+begins with a chest radiograph (CXR). This non-invasive imaging technique is readily accessible and provides valuable information about the presence of mass lesions, consolidation or pleural effusion that may suggest lung cancer. However, it has limitations in detecting small nodules or mediastinal abnormalities.
+If the CXR results are abnormal or there is high clinical suspicion despite a normal CXR, a computed tomography (CT) scan of the thorax should be performed. The CT scan offers detailed cross-sectional images of the lungs and can detect smaller nodules (<1cm), hilar/mediastinal lymphadenopathy and distant metastases not visible on CXR. It also enables assessment of local invasion into surrounding structures.
+Further Investigations
+Positron Emission Tomography-Computed Tomography (PET-CT)
+: PET-CT is an important tool for staging lung cancer. It combines the anatomical detail provided by CT with functional imaging from PET, allowing for detection of metabolically active malignant cells. This can help identify distant metastases and differentiate between benign and malignant pulmonary nodules.
+Endobronchial Ultrasound-guided Transbronchial Needle Aspiration (EBUS-TBNA)
+: EBUS-TBNA allows for sampling of mediastinal lymph nodes under real-time ultrasound guidance, aiding in staging and diagnosis. It has higher sensitivity than conventional bronchoscopy for detecting mediastinal lymph node metastases.
+Tissue Biopsy
+: A definitive diagnosis requires histological confirmation from tissue biopsy samples obtained through various methods such as CT-guided percutaneous needle biopsy, bronchoscopy, EBUS-TBNA or video-assisted thoracoscopic surgery (VATS). The choice of biopsy technique depends on the location and accessibility of the lesion, patient's performance status and comorbidities. The tissue sample allows for histopathological classification of lung cancer and molecular profiling, which guides treatment decisions.
+Molecular Testing
+For patients diagnosed with non-small cell lung cancer (NSCLC), molecular testing should be performed to identify actionable mutations such as Epidermal Growth Factor Receptor (EGFR) mutations, Anaplastic Lymphoma Kinase (ALK) rearrangements and ROS1 rearrangements. These genetic alterations have targeted therapies available, thus influencing management plans.
+Pulmonary Function Tests (PFTs)
+PFTs are essential in evaluating a patient's
+respiratory
+function prior to potential surgical intervention. They assess the severity of any underlying lung disease and predict postoperative lung function. A forced expiratory volume in 1 second (FEV1) >2L or >80% predicted is generally considered safe for lobectomy.
+Improve
+Differential diagnosis
+The differential diagnosis of lung
+cancer
+is a critical process, as many conditions can mimic its clinical presentation. This entry will focus on three key differential diagnoses:
+Tuberculosis
+(TB), Pneumonia, and Chronic Obstructive Pulmonary Disease (COPD).
+Tuberculosis:
+Like lung cancer, TB can present with persistent
+cough
+,
+haemoptysis
+,
+weight loss
+and
+fatigue
+. However, TB often has additional systemic symptoms such as night sweats and fever which are typically absent in lung cancer.
+In terms of radiological findings, both conditions can result in cavitation. However, the apical and posterior segments of the upper lobes or the superior segment of the lower lobe are more commonly involved in TB.
+Furthermore,
+Mycobacterium tuberculosis
+infection is confirmed by positive sputum smear microscopy or culture which is not applicable to lung cancer diagnosis.
+Pneumonia:
+Pneumonia also presents with cough and
+dyspnoea
+but differs from lung cancer by its acute onset and presence of infective symptoms like fever and pleuritic
+chest pain
+.
+Radiologically, pneumonia shows consolidation which may be confused with a mass lesion. However, air bronchograms are commonly seen in pneumonia but not in lung tumours.
+Microbiological tests can identify causative organisms for pneumonia; this is not a feature of lung cancer diagnostic workup.
+Chronic Obstructive Pulmonary Disease (COPD):
+COPD shares risk factors with lung cancer such as smoking history and occupational exposures. Both conditions present with chronic cough and dyspnoea; however, COPD patients often have a history of exacerbations and relief with bronchodilators.
+In lung cancer, weight loss is common while in COPD, the patient may present with cachexia in advanced stages. Haemoptysis is more suggestive of malignancy than COPD.
+Pulmonary function tests can help distinguish COPD from lung cancer; typically showing a reduced FEV1/FVC ratio in COPD, which does not occur in lung cancer unless there is concomitant obstructive disease.
+Improve
+Staging
+The TNM (Tumour, Node, Metastasis) classification is used to stage lung
+cancer
+, guiding treatment and prognosis. This system classifies cancer based on tumour size and extent, lymph node involvement, and metastasis.
+1. TNM Classification
+T (Tumour):
+Assesses primary tumour size and local invasion.
+TX:
+Tumour cannot be assessed.
+T0:
+No evidence of tumour.
+Tis:
+Carcinoma in situ.
+T1:
+Tumour ≤3 cm.
+T2:
+Tumour 3-5 cm or with local extension.
+T3:
+Tumour 5-7 cm, or invading nearby structures.
+T4:
+Tumour >7 cm or major local invasion.
+N (Nodes):
+Involvement of lymph nodes.
+N0:
+No lymph node metastasis.
+N1:
+Ipsilateral hilar/peribronchial nodes.
+N2:
+Ipsilateral mediastinal nodes.
+N3:
+Contralateral/supraclavicular nodes.
+M (Metastasis):
+Presence of distant metastasis.
+M0:
+No distant metastasis.
+M1a:
+Separate tumour in the contralateral lung.
+M1b:
+Single extrathoracic metastasis.
+M1c:
+Multiple extrathoracic metastases.
+2. Lung Cancer Stages
+Stage I:
+Localised tumour without nodal or metastatic spread.
+Stage II:
+Regional lymph node involvement or larger size, no metastasis.
+Stage III:
+Extensive local spread with or without node involvement.
+Stage IV:
+Presence of distant metastasis.
+3. Clinical vs. Pathological Staging
+Clinical staging (cTNM) is based on imaging and biopsies, guiding initial treatment. Pathological staging (pTNM) follows surgical resection, providing definitive staging.
+4. Management Implications
+Early-stage cancers (I-II) may be treated with surgery or radiotherapy, while Stage III often requires multimodal treatment. Advanced disease (IV) is managed palliatively, focusing on systemic therapies.
+5. Prognosis
+Staging correlates with prognosis, as survival rates decrease with advanced stages.
+6. Staging Investigations
+Investigations include CT, PET-CT, MRI, EBUS, and biopsy to confirm diagnosis and inform treatment.
+Improve
+Management
+Of those diagnosed with lung
+cancer
+, approximately 75% will be found to have stage III/IV disease at presentation, which has huge implications on the management options available to these patients.
+Lung cancer is histologically subdivided as follows:
+Non-small cell carcinoma (NSCLC):
+accounts for 85% of all lung cancers and can be further subdivided into squamous cell carcinoma, adenocarcinoma, and large cell carcinoma
+Small cell carcinoma (SCLC):
+accounts for 15% of all lung cancers. SCLC is typically more aggressive and carries a worse prognosis
+The histological subtype is clinically important as the approach to management differs between NSCLC and SCLC. Treatment is also dependant upon the disease stage and patient fitness.
+General management principles
+Multi-disciplinary team (MDT):
+All patients with suspected or confirmed lung cancer should be discussed at an MDT to formulate an effective treatment plan
+Smoking Cessation:
+For both subtypes of lung cancer, smoking cessation should be encouraged and supported. Patients should be informed that by stopping smoking they are increasing their chances of successful treatment and survival. To help patients stop smoking offer nicotine replacement therapy and refer to smoking cessation services
+NSCLC Management
+Surgical resection:
+Lobectomy (with hilar and mediastinal lymph node resection/sampling) is first-line treatment for those with stage I or II cancer who are medically fit for surgery. This surgery is done with curative intent.
+Radiotherapy:
+Is first-line for those with stage I-III disease who are not suitable for surgery.
+This treatment is given with curative intent.
+Chemotherapy:
+Is offered to those with stage III or IV disease to improve survival and quality of life.
+First line regimes use a combination of:
+Third-generation chemotherapy agent: e.g. docetaxel, paclitaxel or gemcitabine
+Platinum agent: e.g. carboplatin or cisplatin
+Combination therapy:
+Adjuvant chemotherapy should be offered to patients who have undergone a
+complete resection
+Adjuvant radiotherapy is offered to patients who have had a
+incomplete resection
+of their tumour
+All patients with stage I-III disease who are not suitable for surgery should be considered for chemoradiotherapy
+SCLC Management
+Surgery is only considered in very early stage I and II disease due to its limited success. The majority of SCLC patients are treated with chemotherapy in combination with radiotherapy:
+Limited-stage SCLC:
+Limited-stage disease is defined as SCLC without distant metastasis (T1-4, N0-3, M0).
+First line treatment involves:
+4-6 cycles of Cisplatin-based combination chemotherapy
+Concurrent or adjunct thoracic radiotherapy is only considered if there has been a good response to chemotherapy
+Extensive-stage SCLC:
+Extensive-stage disease is defined as SCLC with distant metastasis (T1-4, N0-3, M1).
+First line treatment involves:
+Platinum-based combination therapy where the patient is reassessed for a response after each cycle (up to a maximum of 6 cycles)
+Concurrent or adjunct thoracic radiotherapy can be considered if there has been a good response to chemotherapy at both the primary and metastatic sites.
+Relapse after initial treatment:
+For all stages of SCLC second-line therapy can be considered in those who have relapsed. This includes:
+Further chemotherapy (maximum 6 cycles)
+Palliative radiotherapy to control local symptoms
+Improve
+Complications
+Lung
+cancer
+, particularly in advanced stages, can lead to a range of complications. These complications can be life-threatening and significantly impact the patient's quality of life.
+Respiratory
+Complications
+Pneumonia and lung abscess:
+Tumours can obstruct the airways leading to infections such as pneumonia and abscess formation. Patients may present with fever,
+cough
+producing purulent sputum, and pleuritic
+chest pain
+.
+Atelectasis:
+This is a complete or partial collapse of a lung or lobe of a lung. It is often caused by blockage of the air passages (bronchus or bronchioles) by a tumour.
+Dyspnoea
+:
+Shortness of breath can occur due to tumour growth obstructing airways, pleural effusion, anaemia or metastases to other organs.
+Pleural effusion:
+This occurs when fluid accumulates in the pleural space often due to lymphatic obstruction by tumour cells. It may cause dyspnoea and chest discomfort.
+Circulatory Complications
+Pulmonary embolism:
+Lung cancer patients are at increased risk for thromboembolic events including deep vein thrombosis (DVT) and pulmonary embolism (PE). Symptoms include sudden onset dyspnoea, chest pain, tachycardia and hypoxia.
+Superior vena cava syndrome:
+This condition occurs when there is obstruction of blood flow through the superior vena cava (SVC), usually due to compression by a tumour mass or mediastinal lymphadenopathy. Symptoms include facial swelling, dyspnoea, and distended neck veins.
+Metastatic Complications
+Brain metastases:
+Lung cancer, especially small cell lung cancer, frequently metastasises to the brain. This may lead to neurological symptoms such as headaches, seizures, or neurologic deficits.
+Bone metastases:
+These can cause pain, pathological fractures, hypercalcaemia and spinal cord compression.
+Liver metastases:
+Liver involvement can result in hepatomegaly and jaundice.
+Paraneoplastic Syndromes
+Syndrome of inappropriate antidiuretic hormone secretion (SIADH):
+Commonly associated with small cell lung cancer. It leads to
+hyponatraemia
+and its related symptoms.
+Cushing's syndrome:
+Due to ectopic production of Adrenocorticotropic hormone (ACTH) by the tumour cells causing hypercortisolism.
+Hypertrophic pulmonary osteoarthropathy (HPOA):
+Characterised by
+clubbing
+of fingers and toes and painful joints.
+Improve
+Prognosis
+The following table illustrates the 5-year survival rates for NSCLC and SCLC according to the
+cancer
+stage:
+Stage
+NSCLC Survival Rate
+SCLC Survival Rate
+Stage IA
+60-70%
+See below
+Stage IB
+45-55%
+See below
+Stage IIA
+40-50%
+See below
+Stage IIB
+30-40%
+See below
+Stage IIIA
+20-30%
+10-15%
+Stage IIIB
+10-15%
+5-10%
+Stage IV
+<5%
+1-3%
+Note: The survival rates for early-stage SCLC (stages I and II) are not included in this table due to its rarity. Early-stage SCLC has a 5-year survival rate of approximately 30-40%.
+Several factors may affect lung cancer prognosis, including:
+Age: Older patients generally have a poorer prognosis.
+Overall health: Comorbidities and poor general health can negatively impact survival rates.
+Tumour size and location: Larger tumours and those located near vital structures may have a worse prognosis.
+Molecular markers: The presence of certain molecular markers, such as EGFR mutations or ALK rearrangements, can impact treatment options and survival rates.
+Improve
+References
+NICE - 2011 Lung cancer guidelines
+NICE - 2015 Lung cancer referral guidelines
+NICE - 2011 Lung cancer: diagnosis and management
+Radiopaedia - Lung cancer review
+Mayo Clinic - Paraneoplastic Syndromes: An Approach to Diagnosis and Treatment
+Royal College of Physicians - 2012 PET/CT in oncology review
+SIGN - 2014 Lung cancer management guidelines
+Cancer
+Lung cancer

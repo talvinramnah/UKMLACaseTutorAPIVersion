@@ -1,0 +1,181 @@
+Multiple system atrophy
+Multiple system atrophy
+Multiple system atrophy (MSA) is a fatal neurodegenerative disorder of unknown aetiology defined chiefly by autonomic dysfunction and parkinsonism. No treatment currently exists, and mean time from disease onset to death is 4.5-9.8 years. As in
+Parkinson's disease
+(PD), alpha-synuclein inclusions are characteristic; however, unlike PD these are principally found within oligodendrocytes. Ongoing research into its causes and treatment are ongoing, hindered by the rarity of the disease which affects an estimated 3-5 people out of every 100,000.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.60 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.2:1
+Condition
+Relative
+incidence
+Lewy body dementia
+100.00
+Parkinson's disease
+21.67
+Normal pressure hydrocephalus
+10.00
+Multiple system atrophy
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+The characteristic neuropathological feature of MSA is glial cytoplasmic inclusions (GCIs) of alpha-synuclein. This has traditionally differentiated it from
+Parkinson's disease
+, where inclusions are typically in dopaminergic neuronal cell bodies.
+Neuronal alpha-synuclein inclusions are also found in MSA however, and have recently been demonstrated in varying regions of the brain including limbic cortex, entorhinal cortex, basal forebrain, hypothalamus, and the roof nuclei of the fourth ventricle. This was irrespective of the MSA subtype.
+Neuronal loss and axonal degeneration involving multiple regions of the nervous system is also observed in MSA.
+Neuronal dysfunction secondary to the aberrant deposits of alpha-synuclein are hypothesised to cause the observed symptoms in MSA. The origin of these deposits remains unknown.
+Improve
+Classification
+A recent consensus statement proposed the following three groups:
+Definite MSA
+A neuropathological diagnosis and therefore only possible post-mortem.
+It ''requires the neuropathologic findings of widespread and abundant CNS
+alpha-synuclein-positive glial cytoplasmic inclusions (Papp-Lantos inclusions) in association with neurodegenerative changes in striatonigral or olivopontocerebellar structures.''
+Two further clinical categories are defined as probable MSA and possible MSA. These are both are characterised as 'a sporadic, progressive, adult (>30 y)-onset disease' plus varying additional features
+Probable MSA
+Autonomic failure involving
+urinary incontinence
+,
+erectile dysfunction
+in males or orthostatic hypotension
+AND Parkinsonism that is poorly responsive to levodopa
+OR a cerebellar syndrome e.g. limb
+ataxia
+, cerebellar dysarthria
+Possible MSA describes patients suggestive of MSA but who do not have autonomic failure. Divided into two further subtypes.
+MSA with predominant Parkinsonism (MSA-P), where the following features may be prevalent:
+Babinski sign, hyperreflexia
+Stridor
+Rapidly progressive Parkinsonism
+Poor response to levodopa
+Postural instability and dysphagia within 3 years of motor onset, gait ataxia.
+MSA with predominant cerebellar ataxia (MSA-C), including the following features:
+Babinski sign, hyperreflexia
+Stridor
+Parkinsonism with suggestive imaging (hypometabolism on FDG-PET in putamen)
+Improve
+Clinical features
+Onset of MSA is typically between 30 and 75 years of age.
+Autonomic failure is integral to the diagnosis of MSA.
+Symptoms classically include genitourinary dysfunction (
+urinary incontinence
+,
+erectile dysfunction
+in males), orthostatic hypotension and constipation.
+Early urinary incontinence and erectile dysfunction is characteristic
+In a series of 71 male patients with MSA, 91% had urinary incontinence and all had ED at presentation.
+Up to 94% of patients with MSA develop parkinsonism at some stage (
+bradykinesia
+with
+rigidity
+, tremor, or postural instability).
+Over half are wheelchair-dependent within 5 years of symptom onset, a rapid progression not typical for idiopathic
+Parkinson's disease
+(PD).
+Resting pill-rolling tremor typical of PD is not typically seen in MSA.
+More severe postural abnormalities seen in MSA versus PD, such as severe anterior flexion of neck (antecollis) and spine (camptocormia).
+Up to 88% of patients with MSA experience REM sleep disorder
+This is higher than in Parkinson's disease, where the disorder has been reported in 40-50% of cases.
+Patients with REM sleep disorder suffer involuntary movements or vocalisation during REM sleep that can result in injury.
+This results from alpha-synuclein deposits in the pontomedullary brainstem nuclei required to maintain muscle atonia during sleep.
+In one study, 54% of patients with MSA reported onset of REM sleep disorder symptoms before their motor symptoms
+Red flags supporting a diagnosis that is not MSA include:
+Age of onset over 75 years
+Family history of Parkinson's disease
+Dementia
+White matter lesions typical of multiple sclerosis on imaging
+Neuropathy.
+Improve
+Investigations
+MSA is a clinical diagnosis. The key differential diagnosis is
+Parkinson's disease
+, as many of the presenting features may be similar. Investigation for PD are therefore of value as a first line - particularly as there are no other definitive tests for MSA.
+Blood tests
+FBC, U&E, CRP, LFTs - screen for infection or metabolic abnormalities
+HIV, syphilis serology- infectious causes of cerebellar and cognitive symptoms
+Copper studies - Wilson's disease may present with parkinsonism
+Imaging
+MRI brain may show putaminal, pontine, and middle cerebellar peduncle (MCP) atrophy in MSA.
+Brain stem PET scan with [18F]fluorodeoxyglucose may show hypometabolism in MSA.
+MR diffusion-weighted imaging (DWI) may have a role differentiating MSA-P from PD.
+Neuropsychiatric tests
+Dementia is not a feature of MSA and should be excluded.
+Genetic testing
+May be helpful to rule out other differentials e.g. spinocerebellar
+ataxia
+.
+Levodopa trial
+PD typically responds well to levodopa trial, whereas parkinsonian symptoms in MSA may not.
+Improve
+Differential diagnosis
+Diagnosis of MSA is challenging as it has significant cross-over with several other neurological disorders. A neuropathological autopsy series of 203 patients diagnosed in life with MSA found that 21% had alternative brain pathology (e.g. Lewy body disease, progressive supra-nuclear palsy, cerebral vascular accident).
+The key differential is idiopathic
+Parkinson's disease
+(PD) which shares parkinsonism and autonomic dysfunction as principal presenting features. Parkinsonism in PD is typically more responsive to levodopa than in MSA.
+Further features that have been identified as red flags for MSA in clinically equivocal presentations include:
+Early instability, with recurrent falls within 3 years of onset
+Rapid progression, wheelchair dependent within 10 years of onset
+Contractures of the hands and feet
+Bulbar dysfunction, including severe dysphonia, dysarthria and/or dysphagia
+Emotional incontinence including inappropriate crying and/or laughing
+Other important differentials include:
+Progressive supra-nuclear palsy (
+PSP
+)
+Less autonomic dysfunction
+Characterised by vertical supra-nuclear gaze palsy and postural instability
+Ultimately differentiation is only possible at neuropathology
+Drug-induced parkinsonism
+By clinical history, and symptoms should cease on cessation of offending drug
+Normal pressure hydrocephalus
+Typically elderly patients presenting with confusion,
+ataxia
+and
+urinary incontinence
+.
+Differentiated on brain imaging from neurodegenerative disease
+Multiple sclerosis
+MRI imaging demonstrating pathognomonic plaques differentiates from MSA
+Genetic conditions causing ataxia
+E.g. Spino-cerebellar ataxia, X-associated tremor/ataxia syndrome (FXTAS), Friedeich's ataxia
+Late onset genetic ataxias tend to progress slower than MSA
+Cerebrovascular disease
+Stroke causing cerebellar or motor deficits.
+Differentiated by clinical history, imaging and risk factors
+Improve
+Management
+There are no current neuroprotective or disease-modifying treatments available.
+Several drug approaches have been trialled including riluzole, rasagiline, minocycline, rifampicin and stem cell therapy, but none have yet been able to demonstrate a beneficial effect on the course of MSA.
+Unlike in PD, deep brain simulation is not recommended as a therapeutic strategy for MSA.
+A new European project (SYMPATH) is currently assessing a vaccine targeting alpha-synuclein (AFFITOPE) in MSA and PD in humans
+Practically, therefore, focus is on management of symptoms.
+Parkinsonism
+Likely levodopa unresponsive. Other treatment strategies used in
+Parkinson's disease
+(e.g. monoamine oxidase inhibitors) not shown to have any benefit.
+Physiotherapy and occupational therapy can help with home alterations (e.g. rails) and walking/balance aids.
+Orthostatic hypotension
+Midodrine can improve erect blood pressure thus help prevent falls.
+Urinary dysfunction
+Anti-diuretic hormone analogues (e.g. desmopressin) can be used for incontinence.
+Long-term urinary catheterisation to avoid retention.
+Multi-disciplinary input is required to help manage the physical and phycological effects of this condition: GP, physiotherapy, psychology and psychiatry,
+neurology
+.
+Improve
+Neurology
+Multiple system atrophy

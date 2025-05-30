@@ -1,0 +1,145 @@
+Leptospirosis
+Leptospirosis
+Leptospira interrogans
+is the causative organism of Leptospirosis, a zoonotic disease with global distribution. Human infection occurs through direct contact with urine of infected animals or indirectly via contaminated water or soil. The disease presents as a biphasic illness: an initial acute phase characterised by fever, myalgia, and headache; followed by an immune phase with potential complications such as Weil's disease and Pulmonary Haemorrhagic Syndrome.
+The diagnosis is confirmed serologically using Microscopic Agglutination Test (MAT) or molecularly using Polymerase Chain Reaction (PCR). However, these tests have limitations in sensitivity and specificity. Thus, clinical suspicion based on epidemiological exposure and symptomatology remains paramount in the diagnostic approach.
+Treatment involves antibiotics like doxycycline or penicillin during the acute phase to prevent severe disease progression. Supportive care including fluid resuscitation and renal support may be required in complicated cases.
+Last updated: 25
+th
+July 2024
+Aetiology
+Leptospirosis is a zoonotic infection caused by pathogenic spirochetes belonging to the genus
+Leptospira
+. The disease is primarily transmitted through direct or indirect contact with the urine of infected animals. Several risk factors and underlying causes contribute to the incidence and spread of leptospirosis.
+Occupational exposure:
+Individuals working in occupations that involve close contact with animals or environments contaminated by animal urine are at increased risk. These include farmers, veterinarians, abattoir workers, sewer workers, and military personnel.
+Recreational activities:
+Participation in water-based recreational activities such as swimming, kayaking, and rafting in freshwater bodies can lead to exposure. Contaminated water sources serve as reservoirs for
+Leptospira
+.
+Environmental conditions:
+Tropical and subtropical regions with high rainfall and humidity provide favourable conditions for the survival of
+Leptospira
+. Flooding can facilitate the spread of bacteria from soil into water sources.
+Poor sanitation:
+Inadequate waste disposal systems and poor sanitation practices increase the likelihood of environmental contamination with infected animal urine. This is particularly pertinent in urban slums and rural areas with limited access to clean water.
+Anatomical reservoirs:
+Various wild and domestic animals act as reservoirs for
+Leptospira
+, including rodents, cattle, pigs, dogs, and wildlife. Rodents are considered the most significant reservoir due to their ubiquitous presence and high shedding rates in urine.
+Socioeconomic factors:
+Lower socioeconomic status often correlates with increased exposure risks due to inadequate housing conditions, lack of protective measures during occupational tasks, and limited access to healthcare services.
+Cultural practices:
+Certain cultural practices may inadvertently increase exposure risk. For example, rice farming involving barefoot wading in paddies exposes individuals to contaminated water.
+Epidemiological patterns:
+Outbreaks tend to occur following heavy rainfall or flooding events that promote bacterial dissemination. Seasonal variations also play a role; incidence peaks during rainy seasons in endemic regions.
+The interplay between these risk factors underscores the multifactorial nature of leptospirosis transmission dynamics. Understanding these elements is essential for effective prevention strategies tailored to specific at-risk populations.
+Improve
+Clinical features
+A stereotypical presentation of leptospirosis begins with an abrupt onset of high fever, chills, myalgia (particularly in the calf muscles), and headache. These symptoms are often accompanied by conjunctival suffusion, which is a hallmark feature. The initial phase typically lasts for about 4-7 days and may be followed by a brief afebrile period before the second immune phase sets in.
+In detail, the presenting features can include:
+Fever:
+Often high and spiking, it can be accompanied by rigors.
+Myalgia:
+Severe muscle pain is common, particularly affecting the calves and lumbar region.
+Headache:
+Intense and throbbing in nature.
+Conjunctival suffusion:
+Redness of the conjunctiva without exudate is characteristic.
+Nausea and vomiting:
+Gastrointestinal symptoms are frequently observed.
+Anicteric leptospirosis:
+This milder form does not involve jaundice but includes all other systemic symptoms.
+The more severe form of leptospirosis, known as Weil's disease, presents additional features such as:
+Icterus (jaundice):
+Yellowing of the skin and sclera due to hepatic involvement.
+Renal impairment:
+Manifesting as oliguria or even acute renal failure; elevated serum creatinine levels are indicative.
+Liver dysfunction:
+Elevated liver enzymes (AST, ALT) along with hyperbilirubinaemia.
+Anaemia and thrombocytopenia:
+Reduced haemoglobin levels and platelet count are common haematological findings.
+Pulmonary manifestations may also occur in severe cases, including:
+Cough with haemoptysis:
+Pulmonary haemorrhage can lead to coughing up blood-stained sputum.
+Atypical pneumonia-like presentation:
+X-ray findings may show diffuse alveolar infiltrates or ARDS (acute respiratory distress syndrome).
+Meningeal signs might be present during the immune phase, indicating aseptic meningitis. Neurological manifestations can range from mild confusion to more severe encephalitis-like symptoms. Cardiovascular involvement may present as myocarditis or arrhythmias. Additionally, there may be dermatological manifestations such as a transient rash or petechiae. Finally, hepatomegaly and splenomegaly could also be detected on physical examination in some patients.
+Improve
+Investigations
+The investigation of suspected Leptospirosis should be guided by the patient's clinical presentation and exposure history. The diagnosis is primarily based on laboratory testing, as the clinical features are often non-specific and overlap with other febrile illnesses.
+First-line Investigations
+Serology:
+The most commonly used diagnostic method in the UK is serological testing, specifically microscopic agglutination test (MAT). MAT detects antibodies against
+Leptospira
+species and can provide serogroup information. However, it has limitations: it may not become positive until 7-10 days after onset of illness, cross-reactions can occur with other spirochetes, and it requires live leptospires which are biohazardous.
+Blood cultures:
+Blood cultures for
+Leptospira
+should be taken during the first week of illness while patients are still bacteremic. Cultures require a special medium (EMJH or Fletcher medium) and must be incubated for up to 13 weeks due to slow growth of the organism.
+Further Investigations
+If initial tests are negative but suspicion remains high, or if more detailed information about the infecting strain is needed (e.g., for epidemiological purposes), further investigations may be considered.
+Polymerase chain reaction (PCR):
+PCR can detect
+Leptospira
+DNA in blood, urine or CSF. It is most useful within the first week of illness before antibody response develops. PCR also allows identification of specific
+Leptospira
+species.
+IgM ELISA:
+Enzyme-linked immunosorbent assay (ELISA) for IgM antibodies against
+Leptospira
+can be positive as early as 3-5 days after onset of symptoms. However, it lacks specificity and may cross-react with other infections.
+Immunohistochemistry:
+This can detect
+Leptospira
+in tissue samples (e.g., kidney, liver) but is mainly used post-mortem or for research purposes.
+In the UK, diagnostic testing for Leptospirosis is available at the Rare and Imported Pathogens Laboratory (RIPL) at Public Health England. It is important to communicate with the laboratory about the suspected diagnosis due to specific culture requirements.
+Note on Clinical Diagnosis
+In resource-limited settings where laboratory testing may not be readily available, a clinical diagnosis of Leptospirosis may be made based on symptomatology and exposure history. However, this approach has inherent limitations due to the non-specific nature of symptoms and potential overlap with other tropical infections.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of leptospirosis, three primary conditions to contemplate include dengue fever, influenza and hepatitis A. These diseases share similar clinical presentations with leptospirosis but differ in certain key aspects.
+Dengue Fever
+Dengue fever, caused by the
+Dengue virus
+, presents with high-grade fever, severe headache, retro-orbital pain, myalgia and arthralgia which are also common symptoms in leptospirosis. However, dengue is distinguished by:
+The presence of a rash that typically appears between the second and fifth day of illness. This rash is maculopapular or morbilliform which may be itchy.
+Haemorrhagic manifestations such as petechiae, ecchymosis or purpura are more commonly associated with dengue fever than leptospirosis.
+A decrease in platelet count (thrombocytopenia) and elevation of hematocrit are distinctive laboratory findings in dengue fever.
+Influenza
+Influenza, caused by the
+Influenza virus
+, bears resemblances to leptospirosis through symptoms like sudden onset high-grade fever, malaise and myalgia. However, distinguishing features for influenza include:
+Respiratory symptoms such as cough and sore throat are more prominent in influenza compared to leptospirosis.
+Unlike leptospirosis which can cause multi-organ involvement leading to renal failure or hepatic dysfunction, complications related to influenza are predominantly respiratory such as pneumonia.
+Rapid antigen detection test (RADT) can help differentiate influenza from leptospirosis given its quick turnaround time.
+Hepatitis A
+Hepatitis A, caused by the
+Hepatitis A virus
+, shares similarities with leptospirosis in terms of jaundice and hepatomegaly. However, the key distinguishing features include:
+Unlike leptospirosis, hepatitis A does not usually present with renal involvement or pulmonary haemorrhage.
+The liver function tests (LFTs) in hepatitis A typically show a higher elevation in alanine transaminase (ALT) and aspartate transaminase (AST), compared to leptospirosis where ALT and AST levels are moderately elevated.
+A positive IgM anti-HAV confirms the diagnosis of Hepatitis A, differentiating it from leptospirosis.
+Improve
+Management
+Management of leptospirosis involves both supportive care and antimicrobial therapy. The approach should be tailored to the severity of the disease, ranging from mild (anicteric) to severe (icteric or Weil's disease).
+Supportive Care:
+Fluid management is essential in managing dehydration caused by fever, sweating, vomiting and diarrhoea. Intravenous fluids may be necessary in severe cases.
+Pain relief with non-steroidal anti-inflammatory drugs (NSAIDs) can help manage myalgia and headaches.
+In patients presenting with acute kidney injury or liver failure, consider referral for specialist input for potential renal replacement therapy or liver support.
+Antimicrobial Therapy:
+In the early phase (<1 week), administer antibiotics such as doxycycline or penicillin G intravenously. This can shorten the duration of symptoms and reduce shedding of
+Leptospira
+.
+In later stages (>1 week), antibiotic treatment remains beneficial but may not influence the course of organ damage already initiated.
+Steroid Use:
+The use of corticosteroids remains controversial. There is no clear evidence supporting their routine use in leptospirosis. However, they may be considered in cases with severe pulmonary haemorrhage syndrome.
+Vaccination:
+No human vaccine is available for leptospirosis in the UK. Vaccination is generally reserved for at-risk animals.
+Infection Control:
+Standard infection control precautions should be adhered to due to potential transmission via urine. This includes appropriate handling and disposal of patient waste.
+Improve
+References
+Quarterly Journal of Medicine - Leptospirosis review
+Infectious diseases
+Leptospirosis

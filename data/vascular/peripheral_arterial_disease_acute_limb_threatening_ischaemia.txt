@@ -1,0 +1,179 @@
+Peripheral arterial disease: acute limb-threatening ischaemia
+Peripheral arterial disease: acute limb-threatening ischaemia
+Peripheral arterial disease
+(PAD) is a common condition that affects millions of people worldwide. Acute limb-threatening ischaemia (ALI) is a severe manifestation of PAD that requires urgent medical attention. ALI is characterized by sudden onset of pain, pallor, pulselessness, and paralysis in the affected limb. The diagnosis of ALI is based on clinical examination and imaging studies such as angiography or duplex ultrasound. The management of ALI involves immediate restoration of blood flow to the affected limb through revascularization procedures such as thrombolysis, angioplasty, or surgical bypass. Anticoagulation therapy and pain management are also important components of the treatment plan.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Peripheral arterial disease
+(PAD) is a common circulatory problem characterised by narrowed arteries reducing blood flow to the limbs. Acute limb-threatening ischaemia, a severe form of PAD, has various risk factors and underlying causes that contribute to its aetiology.
+Risk Factors:
+Age:
+The risk of developing acute limb-threatening ischaemia increases with age, particularly in individuals over 50 years old.
+Smoking:
+Tobacco use significantly escalates the likelihood of this condition due to its detrimental effects on blood vessels.
+Diabetes:
+Chronic hyperglycaemia can lead to endothelial dysfunction and accelerated atherosclerosis, increasing the risk of acute limb-threatening ischaemia.
+Hypertension:
+Elevated blood pressure can cause damage to arterial walls, promoting atheroma formation and consequent narrowing of the arteries.
+Dyslipidaemia:
+Abnormal lipid levels contribute to plaque buildup within the arterial walls leading to stenosis or occlusion.
+Familial history:
+Genetic predisposition plays a role in susceptibility to this condition. Individuals with a family history of PAD are at increased risk.
+Underlying Causes:
+Atherosclerosis
+: This is the primary cause of acute limb-threatening ischaemia. Atherosclerosis involves accumulation of fatty deposits on arterial walls which narrows or blocks blood flow.
+Arterial Embolism
+: An embolus originating from another part of the body can lodge in peripheral arteries causing sudden occlusion and resultant ischaemia.
+Buerger's disease
+: This rare disorder, also known as thromboangiitis obliterans, causes inflammation and clots in blood vessels of hands and feet.
+Raynaud's disease
+: This condition causes smaller arteries that supply blood to the skin to narrow, especially in response to cold or stress. While not a direct cause, it may exacerbate existing PAD symptoms.
+Improve
+Pathophysiology
+Peripheral arterial disease
+(PAD), specifically acute limb-threatening ischaemia, represents a severe manifestation of systemic atherosclerosis. The pathogenesis of this condition is multifaceted and complex, involving several key processes.
+Atherosclerotic plaque development
+The initial stage in the development of PAD involves the formation of an atherosclerotic plaque within the arterial wall. This process begins with endothelial injury, leading to an inflammatory response characterised by monocyte and lymphocyte infiltration. Monocytes differentiate into macrophages, which engulf low-density lipoproteins (LDL), transforming into foam cells. These foam cells accumulate within the intima of the artery, forming fatty streaks - the precursor to mature atherosclerotic plaques.
+Plaque progression and instability
+Over time, these fatty streaks progress into fibro-fatty plaques through smooth muscle cell migration and proliferation. Simultaneously, extracellular matrix proteins are synthesised, contributing to plaque growth and stability. However, ongoing inflammation can lead to necrosis and calcification within the plaque core, rendering it unstable.
+Critical stenosis or occlusion
+The progressive narrowing of the arterial lumen due to enlarging plaques results in critical stenosis or complete occlusion. This significantly reduces blood flow distally leading to tissue hypoxia. In addition, unstable plaques may rupture causing thrombus formation that further exacerbates luminal obstruction.
+Acute limb-threatening ischaemia
+This reduction in blood flow manifests as acute limb-threatening ischaemia when it falls below a level sufficient for metabolic demands of peripheral tissues. Clinical symptoms include pain at rest and non-healing ulcers or gangrene (collectively known as critical limb ischaemia), or acute limb ischaemia, characterised by the sudden onset of severe pain, pallor, pulselessness, paralysis and paraesthesia.
+Reperfusion injury
+If blood flow is restored, either spontaneously or therapeutically, reperfusion injury may ensue. This occurs due to the release of reactive oxygen species and inflammatory mediators from ischaemic tissues upon reoxygenation. The resultant endothelial dysfunction and microvascular permeability can lead to further tissue damage.
+In summary, PAD represents a complex interplay between atherosclerotic plaque development and progression, critical stenosis or occlusion leading to tissue hypoxia, and potential reperfusion injury following restoration of blood flow.
+Improve
+Clinical features
+A stereotypical presentation of acute limb-threatening ischaemia, a severe form of
+peripheral arterial disease
+, often manifests as the sudden onset of pain in the affected extremity. This may be accompanied by pallor, pulselessness, paraesthesia and paralysis - the classic five P's of acute limb ischaemia.
+Clinical features
+Pain:
+This is typically severe and sudden in onset. It may be localised to the area deprived of blood supply or diffuse across the entire limb. The pain is often described as a deep-seated ache or burning sensation.
+Pallor:
+The skin over the affected area may appear pale due to reduced blood flow. In darker-skinned individuals, this may present as dusky or mottled skin.
+Pulselessness:
+Absence or reduction of pulses distal to the occlusion can be identified on physical examination. This finding might not always be apparent if collateral circulation has been established.
+Paraesthesia:
+Patients often report numbness or tingling sensations in the affected limb. This symptom reflects nerve ischemia and precedes muscle weakness or paralysis.
+Paralysis:
+Motor function impairment ranging from mild weakness to complete paralysis can occur if muscle tissue becomes ischaemic. Paralysis indicates advanced disease and requires immediate intervention.
+Beyond these classical signs, additional features might include
+Rutherford's
+clinical categorisation for acute limb ischaemia which includes viable (I), threatened (II) and irreversibly damaged limbs (III). Category II further subdivides into marginally (IIA) and immediately threatened (IIB).
+Viable (I):
+These patients may have no symptoms or exhibit non-specific symptoms such as mild claudication or rest pain. Physical examination reveals diminished pulses but no sensory or motor loss.
+Threatened (II):
+These cases present with more severe symptoms. In marginally threatened (IIA), there is sensory impairment but not yet complete sensory loss, while in immediately threatened (IIB), there is more extensive sensory loss and mild to moderate muscle weakness.
+Irreversibly damaged (III):
+This stage involves profound sensory and motor loss indicating irreversible damage. The affected limb may be cool to touch, and the skin may show signs of necrosis or gangrene.
+In addition to these presenting features, it's important to consider that acute limb-threatening ischaemia can be a complication of other conditions such as embolism, thrombosis, trauma, vasculitis or dissection. Therefore, a thorough history taking and physical examination are essential for accurate diagnosis.
+Improve
+Investigations
+Investigation of
+peripheral arterial disease
+(PAD): acute limb-threatening ischaemia (ALTI) requires a structured and systematic approach. It's important to note that clinical presentation, history and physical examination are often sufficient for diagnosis, but further investigations may be necessary to confirm the diagnosis and plan treatment.
+First-line Investigations:
+Ankle-brachial index (ABI):
+This non-invasive test compares blood pressure in the ankle with blood pressure in the arm. An ABI less than 0.9 is considered abnormal and indicative of PAD.
+Doppler ultrasound:
+This imaging technique is used to evaluate blood flow through vessels and identify blockages or narrowing. It can also provide information about severity of stenosis or occlusion.
+If the results from these initial tests are inconclusive or if more detailed information about the vascular anatomy is required for surgical planning, further diagnostic tests may be warranted.
+Further Investigations:
+Magnetic resonance angiography (MRA):
+MRA provides a detailed view of blood vessels without using ionising radiation. It's particularly useful when considering revascularisation procedures.
+Computed tomography angiography (CTA):
+CTA can provide high-resolution images of the vascular system, including smaller arteries that might not be clearly visualised with other methods. However, it does expose patients to ionising radiation and iodinated contrast agents which carry risks of allergy and nephrotoxicity.
+Catheter-based angiography:
+While invasive, this gold-standard method offers real-time imaging of blood vessels and allows for therapeutic intervention during the same procedure if needed. However, its use should be limited due to associated risks such as bleeding or damage to the vessel.
+It is important to remember that these further investigations should be reserved for cases where they will directly influence management or when first-line investigations are inconclusive. The choice between MRA, CTA and catheter-based angiography depends on local resources, patient characteristics and the specific clinical scenario.
+In addition to these vascular imaging techniques, laboratory tests may be useful in assessing overall health status and evaluating for conditions that may contribute to PAD. These could include full blood count, renal function tests, lipid profile, glucose level and coagulation profile.
+Improve
+Differential diagnosis
+The key differential diagnoses for acute limb-threatening ischaemia include deep vein thrombosis (DVT), compartment syndrome and cellulitis. The clinical presentation varies among these conditions, aiding in their differentiation.
+Deep Vein Thrombosis (DVT)
+DVT primarily affects the venous system rather than the arterial system as in
+peripheral arterial disease
+.
+Typically presents with a swollen, painful leg but without the extreme pallor and coldness seen in acute limb-threatening ischaemia.
+Pulses are usually palpable in DVT, contrasting with the absent or decreased pulses often observed in acute limb-threatening ischaemia.
+A notable difference lies in the speed of onset - DVT generally develops over days to weeks, whilst acute limb-threatening ischaemia can occur within hours.
+Compartment Syndrome
+Compartment syndrome arises from increased pressure within a muscle compartment that compromises circulation and function of tissues within that space.
+The hallmark '5 Ps' -- pain, pallor, paraesthesia, paralysis and pulselessness -- may be present in both conditions; however, pain out of proportion to physical findings and pain on passive stretch are more indicative of compartment syndrome.
+In contrast to the sudden onset of symptoms in acute limb-threatening ischaemia, compartment syndrome typically develops gradually following injury or surgery.
+Cellulitis
+Cellulitis is an infection of the skin and subcutaneous tissues caused by bacteria such as
+Streptococcus
+or
+Staphylococcus
+.
+Unlike acute limb-threatening ischaemia, cellulitis generally presents with localised erythema, warmth and tenderness but without significant changes in peripheral pulses.
+The presence of systemic symptoms like fever and malaise can help distinguish cellulitis from acute limb-threatening ischaemia.
+Improve
+Management
+Acute limb-threatening ischaemia, a severe manifestation of
+peripheral arterial disease
+, demands urgent intervention to restore blood flow and prevent irreversible tissue damage or limb loss. Management involves rapid diagnosis, prompt revascularisation, appropriate antibiotics if infection is present, pain management and long-term risk factor modification.
+Diagnosis
+Clinical assessment: History taking should include claudication symptoms, rest pain or tissue loss. Physical examination should include palpation of pulses, skin colour and temperature changes.
+Diagnostic imaging: Duplex ultrasound is first-line. CT angiography or MR angiography may be required for further anatomical detail.
+Initial management
+Intravenous heparin: To prevent propagation of thrombus.
+Analgesia: Opioids may be necessary due to severity of pain.
+Revascularisation
+: Immediate revascularisation remains the cornerstone treatment.
+Surgical options: Bypass grafting or thromboembolectomy based on the location and extent of occlusion.
+Endovascular options: Catheter-directed thrombolysis, percutaneous transluminal angioplasty (PTA) with or without stenting.
+Infection control
+: If there's evidence of infection (e.g., wet gangrene), empiric broad-spectrum antibiotics should be initiated promptly while awaiting culture results.
+Pain management
+: Adequate analgesia must be provided; nerve blocks can be considered in refractory cases.
+Long-term management
+: Involves secondary prevention strategies to reduce cardiovascular risk.
+Risk factor modification: Smoking cessation, blood pressure control, lipid-lowering therapy and glycaemic control in diabetics.
+Antiplatelet therapy: Lifelong aspirin or clopidogrel to prevent thrombus formation.
+Improve
+Complications
+Acute limb-threatening ischaemia (ALTI), a severe manifestation of
+peripheral arterial disease
+, can result in several significant complications. These include:
+Gangrene:
+The persistent lack of blood flow can lead to tissue necrosis, resulting in dry or wet gangrene. Dry gangrene presents as blackened, dry skin that eventually sloughs off. Wet gangrene is characterised by infection and pus production.
+Infection:
+Impaired immunity due to reduced blood supply increases the risk of bacterial infections.
+Clostridium perfringens
+and
+Staphylococcus aureus
+are commonly implicated organisms.
+Rhabdomyolysis:
+Prolonged ischaemia can cause muscle breakdown, leading to rhabdomyolysis. This condition may precipitate acute kidney injury due to myoglobinuria.
+Compartment syndrome:
+Ischaemic damage can cause swelling within the muscular compartments, increasing intra-compartmental pressure. This may further compromise blood flow and exacerbate tissue damage.
+Limb loss:
+If left untreated or if revascularisation fails, ALTI can necessitate amputation of the affected limb.
+The management of these complications often requires multidisciplinary input including
+vascular surgery
+, infectious disease specialists and nephrology teams. Early identification and prompt intervention are key to improving patient outcomes.
+Improve
+References
+RCEM Learning - Acute limb ischaemia
+Peripheral arterial disease
+Peripheral arterial disease: acute limb-threatening ischaemia

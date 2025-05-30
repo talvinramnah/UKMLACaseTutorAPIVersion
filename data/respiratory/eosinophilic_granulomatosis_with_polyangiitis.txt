@@ -1,0 +1,142 @@
+Eosinophilic granulomatosis with polyangiitis
+Eosinophilic granulomatosis with polyangiitis
+Eosinophilic
+granulomatosis with polyangiitis
+(EGPA), formerly known as Churg-Strauss Syndrome, is a rare small-to-medium vessel vasculitis distinguished by asthma,
+eosinophilia
+, and multi-organ involvement. The pathogenesis generally evolves through three stages: a prodromal allergic phase with asthma, an eosinophilic phase causing tissue infiltration, and a vasculitic phase causing endothelial damage. Although the exact aetiology remains elusive, genetic predispositions, environmental triggers, and immunological factors contribute. ANCA-positivity is seen in a subset but is not universal. Diagnosis often involves a combination of clinical features, blood tests showing eosinophilia and possibly ANCA antibodies, and often tissue biopsy. Management is largely immunosuppressive, including corticosteroids and agents like cyclophosphamide or rituximab for severe forms.
+Last updated: 28
+th
+August 2023
+Epidemiology
+Incidence: 0.20 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Granulomatosis with polyangiitis
+5.00
+Eosinophilic granulomatosis with polyangiitis
+1
+Goodpasture's syndrome
+0.50
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The precise aetiology remains poorly understood, but several contributing factors are considered.
+Genetic Factors:
+Certain HLA alleles have been associated with EGPA, suggesting a genetic predisposition.
+Environmental Triggers:
+Allergens, occupational exposures, and certain drugs (e.g., leukotriene receptor antagonists) have been implicated as triggers for EGPA, although evidence is inconclusive.
+Immunological Factors:
+High levels of immunoglobulin E (IgE) and
+eosinophilia
+suggest an atypical allergic response. Autoantibodies like
+anti-neutrophil cytoplasmic antibodies
+(ANCA) are present in a subset of patients but are not universal.
+Infections:
+Viral and bacterial infections have been considered as possible triggering factors, but clear associations are yet to be established.
+Improve
+Pathophysiology
+The pathogenesis of EGPA is marked by a complex interplay of immune dysregulation, eosinophilic inflammation, and vascular damage, generally progressing through three phases:
+Prodromal (Allergic) Phase:
+Patients frequently experience atopic symptoms including asthma and allergic rhinitis. This phase is often indistinguishable from common allergic disorders.
+Eosinophilic Phase:
+Accumulation of eosinophils in various tissues, particularly the lungs and digestive tract, results in eosinophilic pneumonia or gastroenteritis. Eosinophils release toxic granules that cause tissue damage and inflammation.
+Vasculitic Phase:
+The final phase involves necrotizing vasculitis affecting small-to-medium-sized vessels. This can manifest as purpura, neuropathy, and life-threatening organ damage, such as renal or cardiac involvement.
+Cellular and Molecular Mechanisms
+Eosinophil Activation:
+In EGPA, eosinophils are activated and recruited to various tissues by cytokines such as IL-5 and eotaxin.
+Endothelial Injury:
+Activated eosinophils adhere to the endothelium, inducing vascular inflammation and injury, either directly through the release of toxic substances or indirectly via cytokine and chemokine release.
+Autoantibody Production:
+In ANCA-positive patients, autoantibodies can contribute to vessel inflammation by activating neutrophils, which in turn damage the endothelial cells.
+Complement Activation:
+Although not fully understood, the complement system may also be implicated in tissue damage, particularly in ANCA-negative forms of the disease.
+Improve
+Clinical features
+EGPA typically presents as a triphasic illness, though not all patients progress through all phases or in a sequential manner.
+Typical Presentation
+A patient with longstanding asthma (often adult-onset and difficult to control) develops systemic symptoms including fatigue, weight loss, and fever, followed by manifestations of vasculitis affecting multiple organ systems.
+These systemic features may develop gradually over months or present acutely.
+The mean age at diagnosis is 40-50 years, with no clear gender predominance.
+Phase-specific Manifestations
+Prodromal (Allergic) Phase
+Adult-onset asthma is present in >95% of patients, typically preceding vasculitic manifestations by several years.
+Often refractory to conventional treatment
+May worsen before vasculitic symptoms emerge
+Allergic rhinitis, recurrent sinusitis, and nasal polyps are common.
+Chronic rhinosinusitis occurs in 70-80% of patients
+Eosinophilic Phase
+Peripheral blood
+eosinophilia
+(>1.5 × 10^9/L or >10% of total white cell count)
+Pulmonary infiltrates (non-fixed) on chest imaging
+Gastrointestinal symptoms due to eosinophilic gastroenteritis
+Abdominal pain, diarrhoea, and occasionally gastrointestinal bleeding
+Constitutional symptoms become prominent
+Fever, malaise, weight loss, myalgia, and arthralgia
+Vasculitic Phase
+Neurological involvement occurs in 60-70% of patients
+Mononeuritis multiplex is characteristic, presenting with asymmetric, stepwise sensory and motor deficits
+Cranial neuropathies and central nervous system involvement are less common
+Cutaneous manifestations (30-50%)
+Palpable purpura, particularly on lower extremities
+Subcutaneous nodules, livedo reticularis, or urticaria
+Cardiac involvement (15-60%) carries the worst prognosis
+Myocarditis, pericarditis, coronary vasculitis leading to myocardial infarction
+Heart failure, arrhythmias, or sudden cardiac death
+Renal involvement (25%)
+Typically milder than in other ANCA-associated vasculitides
+Focal segmental glomerulonephritis, rarely progressing to end-stage renal disease
+Clinical Phenotypes
+ANCA-positive EGPA
+(30-40% of cases, predominantly MPO-ANCA)
+More likely to have vasculitic manifestations including glomerulonephritis, mononeuritis multiplex, and purpura
+Less prominent tissue eosinophilia
+ANCA-negative EGPA
+Predominant cardiac involvement
+More frequent tissue eosinophilia
+Greater risk of myocarditis and cardiomyopathy
+NICE Clinical Knowledge Summary (2023) notes that the clinical presentation of EGPA can be highly variable, and a high index of suspicion should be maintained in patients with asthma who develop systemic symptoms or evidence of multi-organ involvement.
+Improve
+Differential diagnosis
+The differential diagnosis of Eosinophilic
+Granulomatosis with Polyangiitis
+(EGPA) includes other vasculitides and eosinophilic disorders that share overlapping features. Three key conditions to consider are:
+Granulomatosis with Polyangiitis (GPA)
+Like EGPA, GPA is an ANCA-associated vasculitis, but typically presents with upper and lower
+respiratory
+tract involvement and glomerulonephritis
+Unlike EGPA, GPA patients rarely have asthma or significant
+eosinophilia
+GPA is more commonly associated with PR3-ANCA (c-ANCA) rather than MPO-ANCA (p-ANCA) seen in EGPA
+Granulomatous inflammation in GPA tends to affect the upper respiratory tract with destructive lesions, whereas EGPA has a predilection for lung parenchyma
+Comparison of granulomatosis with polyangiitis and Churg-Strauss syndrome
+Hypereosinophilic Syndrome (HES)
+Both conditions feature marked eosinophilia and multi-organ involvement
+HES lacks the vasculitic component central to EGPA
+Patients with HES do not typically have a history of asthma preceding eosinophilia
+HES is ANCA-negative and lacks granulomatous inflammation on histology
+Cardiac involvement is more common and often more severe in HES than in EGPA
+Eosinophilic Asthma with Systemic Manifestations
+Can be difficult to distinguish from early-phase EGPA
+Both conditions feature asthma and eosinophilia
+Lacks definitive vasculitic features such as mononeuritis multiplex, palpable purpura, or glomerulonephritis
+Systemic symptoms are generally milder and respond well to standard asthma therapies
+NICE guidelines
+recommend considering EGPA when patients with severe eosinophilic asthma develop extrapulmonary manifestations
+The presence of the clinical triad of asthma, eosinophilia, and vasculitis strongly supports a diagnosis of EGPA over these alternatives, particularly when preceded by a prodromal allergic phase.
+Improve
+ANCA associated vasculitis
+Eosinophilic granulomatosis with polyangiitis

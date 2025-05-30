@@ -1,0 +1,135 @@
+Chancroid
+Chancroid
+Chancroid is a sexually transmitted bacterial infection of the genital skin or mucous membranes caused by
+Haemophilus ducreyi
+.
+It is highly contagious yet curable and not a common infection in the UK. It is characterized by the presence of painful ulcers and
+inguinal lymphadenopathy
+. It is still occasionally known by its old names of 'soft sore' or 'soft chancre'.
+Last updated: 30
+th
+August 2023
+Epidemiology
+Incidence: 0.05 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Genital herpes
+6000.00
+Syphilis
+200.00
+Chancroid
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Chancroid, a sexually transmitted infection (STI), is primarily caused by the Gram-negative bacterium
+Haemophilus ducreyi
+. This condition is characterised by painful genital ulcers and inflammatory
+inguinal lymphadenopathy
+.
+Risk Factors
+Geographical location:
+Chancroid is most prevalent in developing countries, particularly those in Africa and Asia. It is less common in developed regions such as Europe and North America.
+Socioeconomic status:
+Individuals of lower socioeconomic status are at a heightened risk due to factors such as limited access to healthcare services and poor living conditions which can facilitate the spread of STIs.
+Sexual behaviour:
+Engaging in unprotected sex, having multiple sexual partners, or involvement in commercial sex work increases the likelihood of contracting chancroid.
+Coinfection with other STIs:
+Coinfection with human immunodeficiency virus (HIV) has been associated with increased susceptibility to
+H. ducreyi
+.
+Underlying Causes
+The primary causative agent of chancroid is
+H. ducreyi
+, which is transmitted through sexual contact. The bacteria penetrate the epithelial surfaces through micro-abrasions incurred during intercourse, leading to ulcer formation.
+Bacterial virulence factors:
+Various virulence factors contribute to the pathogenicity of
+H. ducreyi
+. These include cytolethal distending toxin (CDT) that induces host cell apoptosis, lipooligosaccharides that trigger inflammatory responses, and several proteins involved in bacterial adhesion and evasion of host immune responses.
+Lack of protective immunity:
+The immune response to
+H. ducreyi
+is typically insufficient to prevent reinfection, suggesting that protective immunity does not develop following exposure.
+Improve
+Pathophysiology
+It is caused by
+Haemophilus ducreyi
+, a gram-negative facultative anaerobic bacillus.
+It is transmitted through:
+Sexual transmission by skin-to-skin contact with an open sore.
+Non-sexual transmission when pus-like fluid from the ulcer is moved to other parts of the body such as the eye and skin or to another person.
+The organism has an incubation period of 1 day to 2 weeks and it enters the skin through disrupted mucosa or skin of the external genitalia and colonises subcutaneous tissues, then produces toxins that damages the tissue which results in an ulcer formation.
+The disease typically begins as a small inflammatory papule at the site of inoculation; within days, the papule may erode to form an extremely painful deep ulcerations.
+Improve
+Clinical features
+Most people with chancroid begin to notice symptoms between 3 and 10 days after contracting the infection. The lesion begins as erythematous tender papules that become pustular and later erode to form an extremely painful and deep ulcer with soft ragged, undermined margins. Ulcers vary in size and often coalesce. Deeper erosion occasionally leads to marked tissue destruction.
+About 50% of the patients will also have associated
+inguinal lymphadenopathy
+which is painful. Other rare symptoms include dysuria and dyspareunia.
+Location of chancroid lesions:
+Males
+In men, the most common site of the chancroid infection is the foreskin, but it may also occur less commonly on the shaft, the glans, or the meatus of the penis.
+Females
+In women, labia majora is commonly involved in chancroid, but they may also occur on the labia minora, the thighs, the perineum, or the cervix.
+Improve
+Investigations
+Chancroid is usually a clinical diagnosis. There are no laboratory tests currently available for the immediate diagnosis of chancroid.
+The main investigative techniques are:
+Culture and sensitivity
+PCR (most sensitive)
+Microscopy
+Serology
+A definitive diagnosis of chancroid requires the identification of
+Haemophilus ducreyi
+on special culture media. For many years in vitro culture was the 'gold standard' for evaluating chancroid. However, the advent of more sensitive DNA amplification techniques such as polymerase chain reaction (PCR) shows higher sensitivity.
+Microscopy is also useful if there is a high load of organisms present that show the characteristic gram-negative bacillus which exhibits an unusual tendency to auto-agglutinate. Microscopically, various morphological forms have been described such as 'schools of fish,' 'railroad tracks,' and 'fingerprints'. However, this method has only limited value because of low sensitivity (5% to 63%) and specificity (51% to 99%).
+The serologic diagnosis of chancroid has been useful in a number of epidemiological studies, using enzyme-linked immunoassays. However, for the individual patient, the method lacks sensitivity, specificity and cannot distinguish between remote and recent infection.
+Serologic testing for
+syphilis
+and HIV and cultures for herpes should be done to exclude other causes of genital ulcers.
+Improve
+Differential diagnosis
+Herpes Simplex Virus (HSV) Infection
+Genital herpes
+, caused by HSV-1 or HSV-2, is a common STI that presents with painful genital ulcers similar to chancroid.
+Comparison
+Ulcer Characteristics: HSV ulcers are usually multiple, small, and have a well-defined border with a surrounding erythematous halo. Chancroid ulcers are often single, larger, have ragged edges, and a necrotic base.
+Lymphadenopathy: Bilateral, tender lymphadenopathy is common in HSV, whereas chancroid often presents with unilateral, suppurative lymphadenopathy.
+Systemic Symptoms: Fever and malaise are more common with HSV.
+Diagnosis: HSV can be diagnosed using PCR or culture from ulcer swabs.
+Chancroid is diagnosed by isolating H. ducreyi from ulcer exudate or aspirate, but this is often challenging due to low sensitivity of culture methods.
+Syphilis
+Primary syphilis is caused by Treponema pallidum and presents with a painless genital ulcer called a chancre.
+Comparison
+Ulcer Characteristics: The chancre of syphilis is usually solitary, round or oval, with a clean, indurated base and well-defined borders. In contrast, chancroid ulcers are painful, with irregular, undermined borders and a necrotic base.
+Lymphadenopathy: Syphilis may present with bilateral, non-tender, rubbery lymphadenopathy. In contrast, chancroid presents with painful, suppurative, unilateral lymphadenopathy.
+Systemic Symptoms: Less common in primary syphilis compared to chancroid.
+Diagnosis: Syphilis is diagnosed by serologic tests (e.g., VDRL, RPR, specific treponemal tests). Dark-field microscopy can also be used to identify T. pallidum in ulcer exudate. As with HSV, chancroid is diagnosed by isolating H. ducreyi from ulcer exudate or aspirate.
+Other Differential Diagnoses
+Lymphogranuloma Venereum (LGV): Caused by Chlamydia trachomatis serovars L1-L3, presents with a transient, painless ulcer followed by painful, suppurative,
+inguinal lymphadenopathy
+.
+Granuloma Inguinale (Donovanosis): Caused by Klebsiella granulomatis, presents with painless, beefy-red, granulomatous ulcers that bleed easily.
+Traumatic Ulcers: Due to physical injury or irritation, usually solitary and associated with a history of trauma.
+Improve
+Management
+Successful treatment for chancroid cures the infection, resolves the clinical symptoms, and prevents transmission to others.
+The recent WHO recommendation is either:
+A single oral dose (500 mg) of ciprofloxacin, a single IM dose (250 mg) of ceftriaxone or an oral (500 mg) of erythromycin three times a day for seven days.
+While the United Kingdom's Clinical Effectiveness Group recommends either:
+A single IM dose (250 mg) of ceftriaxone, a single IM dose (1gram) of azithromycin or an oral (500 mg) of erythromycin four times a day for seven days.
+Sexual partners of a patient who has chancroid should be examined and treated for chancroid if they have had sexual contact with the patient during 10 days preceding the onset of symptoms in the patient. This is done even if the partners do not have any symptoms.
+Improve
+Infectious diseases
+Chancroid

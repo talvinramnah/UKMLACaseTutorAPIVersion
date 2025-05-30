@@ -1,0 +1,250 @@
+Ascending cholangitis
+Ascending cholangitis
+Ascending cholangitis refers to infection of the biliary ducts most commonly seen in those >50 years old and caused by obstruction, which requires immediate diagnosis and treatment.
+Approximately, 50-75% of patients present with
+fever
+,
+jaundice
+and
+right upper quadrant pain
+(
+Charcot's triad
+) Â± septic shock and mental
+confusion
+(
+Reynold's pentad
+).
+Common causes of ascending cholangitis include choledocholithiasis (gallstones) and strictures of the biliary tree.
+Prompt intervention is required with antibiotics and drainage of the biliary tree, as ascending cholangitis can be life-threatening and result in sepsis, end-organ failure and death.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 50.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Biliary colic
+20.00
+Acute cholecystitis
+2.80
+Ascending cholangitis
+1
+Acute pancreatitis
+0.80
+Cholangiocarcinoma
+0.03
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Ascending cholangitis is caused by a bacterial infection in a patient who has biliary obstruction. The organisms usually ascend from the duodenum with haematogenous spread from the portal vein a rarer cause.
+E. coli
+is the most common organism implicated.
+The aetiological factors contributing to this condition include:
+Biliary Obstruction: This is the most common predisposing factor, and can be due to:
+Gallstones: They are the primary cause in many patients.
+Benign biliary strictures: From chronic pancreatitis or post-operative changes.
+Malignant obstructions: Such as
+cholangiocarcinoma
+or pancreatic carcinoma.
+Parasitic infections: For instance, liver flukes such as
+Clonorchis sinensis
+or
+Opisthorchis viverrini
+.
+Biliary stents or drainage procedures: These can introduce bacteria or result in stasis (e.g.  endoscopic retrograde cholangiopancreatography)
+Improve
+Pathophysiology
+Ascending cholangitis, also known as acute cholangitis, is an infection of the biliary tract that typically occurs due to bacterial invasion. The pathophysiology involves a combination of biliary obstruction and subsequent infection.
+Initially, there is an obstruction within the bile ducts. This can be caused by choledocholithiasis (bile duct stones), benign or malignant strictures, or other obstructive lesions. The obstruction leads to stasis of bile, which normally has antimicrobial properties due to its detergent effect on bacterial cell walls and its immunoglobulin content.
+The stasis of bile creates an environment conducive to bacterial growth. Bacteria from the duodenum ascend through the sphincter of Oddi into the common bile duct. Common pathogens include
+Escherichia coli
+,
+Klebsiella species
+, and
+Enterococcus species
+. The presence of bacteria in the bile leads to inflammation and infection within the biliary tree.
+The increased pressure within the obstructed ducts causes translocation of bacteria and toxins into the bloodstream. This results in bacteraemia and systemic inflammatory response syndrome (SIRS). Clinically, this manifests as
+fever
+, chills, rigors,
+jaundice
+, and
+right upper quadrant pain
+—collectively known as Charcot’s triad. In severe cases,
+hypotension
+and mental status changes may occur (Reynolds' pentad), indicating sepsis.
+The immune response to infection includes activation of neutrophils and macrophages within the liver and biliary system. These cells release cytokines such as tumour necrosis factor-alpha (TNF-α) and interleukins (IL-1β, IL-6), which further propagate inflammation but also contribute to systemic symptoms such as fever.
+Histologically, ascending cholangitis is characterised by infiltration of neutrophils into the periductal tissues. There may be evidence of abscess formation in severe cases. Chronic or recurrent episodes can lead to fibrosis and stricture formation within the bile ducts.
+In summary, ascending cholangitis results from a combination of biliary obstruction leading to stasis of bile followed by bacterial infection ascending from the duodenum. The ensuing inflammatory response contributes both to local tissue damage within the biliary tree and systemic manifestations associated with sepsis.
+Improve
+Clinical features
+Ascending Cholangitis, also known as acute cholangitis, is a life-threatening infection of the biliary tract, typically resulting from biliary obstruction and stasis which facilitate bacterial ascent from the duodenum into the bile ducts. The clinical presentation of ascending cholangitis can vary from mild symptoms to severe sepsis; however, the classical diagnostic triad (Charcot's Triad) and the associated pentad are fundamental to identifying this condition.
+Charcot's Triad:
+This triad includes
+jaundice
+,
+fever
+with or without rigours, and right upper quadrant (RUQ) abdominal pain.
+Jaundice:
+This is due to obstruction of the bile ducts leading to an increase in serum bilirubin levels. It typically presents as yellowing of the skin, sclera, and mucous membranes.
+Fever and Rigours:
+Systemic symptoms such as fever with or without rigours (chills) indicate the presence of systemic infection (bacteraemia). Patients may also present with malaise, anorexia, and other non-specific systemic symptoms.
+RUQ Abdominal Pain:
+Patients often report abdominal pain located in the right upper quadrant or epigastrium. The pain can be constant, cramping or colicky in nature and may radiate to the right shoulder or back.
+Reynolds' Pentad:
+In severe cases or advanced disease, Charcot's triad may be accompanied by
+hypotension
+and mental
+confusion
+, forming Reynolds' Pentad. The presence of this pentad suggests acute cholangitis with an increased risk of septic shock, indicating a medical emergency.
+Additional Clinical Features:
+Depending upon the severity and duration of the condition, patients may also exhibit signs of dehydration, sepsis or septic shock such as
+tachycardia
+, hypotension, tachypnoea and altered mental status. Abdominal examination can reveal tenderness in the RUQ with or without a palpable gallbladder.
+Improve
+Investigations
+The diagnosis of ascending cholangitis primarily involves laboratory investigations and imaging to confirm the presence of biliary obstruction and infection. The goal is to identify the cause and severity of the obstruction, as well as to assess for any complications.
+Laboratory Tests
+Blood Tests:
+Full Blood Count (FBC): Leukocytosis is common; haemoglobin levels can indicate anaemia.
+Liver Function Tests (LFTs): Elevated bilirubin, alkaline phosphatase (ALP), and gamma-glutamyl transferase (GGT) are indicative of cholestasis. Transaminases may be elevated.
+C-Reactive Protein (CRP): Elevated in response to inflammation.
+Blood Cultures: Positive in approximately 20-30% of cases, important for guiding antibiotic therapy.
+Serology:
+Tests for viral hepatitides, if viral aetiology is suspected.
+Imaging Studies
+Ultrasound (US):
+First-line imaging modality to assess for biliary dilation and potential causes such as stones or strictures.
+May identify gallbladder wall thickening or pericholecystic fluid, suggestive of
+cholecystitis
+.
+Computed Tomography (CT):
+Useful in complicated cases or where ultrasound is inconclusive.
+Provides detailed information on biliary and pancreatic anatomy, and can assess for local complications such as abscesses.
+Magnetic Resonance Cholangiopancreatography (MRCP):
+Non-invasive alternative to ERCP that provides detailed images of the biliary and pancreatic ducts.
+Indicated to delineate anatomy before potential interventions.
+Endoscopic Retrograde Cholangiopancreatography (ERCP):
+Diagnostic and therapeutic tool used for identifying and managing biliary obstruction.
+Allows for direct visualization, biopsy, and intervention such as stent placement or stone removal.
+Improve
+Differential diagnosis
+The differential diagnoses of ascending cholangitis are predominantly of surgical origin. However, it is important not to disregard medical pathology in a patient with an acute abdomen.
+Biliary Colic
+Acute Cholecystitis
+Ascending Cholangitis
+RUQ Pain
+RUQ Pain
+RUQ Pain
+Fever
+Fever
+Jaundice
+Differential diagnoses of ascending cholangitis include:
+Acute cholecystitis
+Both display RUQ pain and fever
+A positive
+Murphy's sign
+is predominantly seen in acute cholecystitis and diffuse RUQ pain in cholangitis
+Transabdominal ultrasound
+will show gallbladder wall thickening in acute cholecystitis
+Acute pancreatitis
+Pain is often more severe than cholangitis
+Amylase
+and
+lipase
+are elevated with pancreatitis
+Peptic ulcer disease
+LFTs are typically normal, but
+deranged
+with cholangitis
+Symptoms tend to improve with food Â± antacids
+Acute pyelonephritis
+Urinalysis will demonstrate nitrites ++
+Other differential diagnoses to consider include:
+Right lower lobe pneumonia
+Pulmonary embolism
+HELLP syndrome of pre-eclampsia
+Improve
+Management
+Patients with ascending cholangitis should be managed in hospital as this considered an emergency condition and
+fluid resuscitation
+to initially stabilise the patient will be required, followed by prompt
+drainage of the biliary tree
+.
+The following management has been adapted from NICE guidelines and BMJ best practice, with initial treatment including:
+Intravenous antibiotics
+Broad-spectrum antibiotic
+therapy initially until antibiotic treatment can be guided with blood cultures
+Majority of cases are
+gram-negative
+, but
+gram-positive
+anaerobes may also be present
+Piperacillin / tazobactam (or gentamicin + metronidazole in penicillin-allergic patients) with the aim to convert to oral antibiotics once biliary drainage has been achieved
+Intravenous hydration
+Fluid status and resuscitation
+Maintenance fluids Â± bolus of 0.9% sodium chloride
+Correct electrolyte imbalances + coagulation abnormalities
+Fresh frozen plasma
+may be required for clotting abnormalities, especially in septic patients
+Analgesia
+Using the WHO Analgesic Pain Ladder
+Initiate the
+Sepsis 6
+protocol if suspected within 1 hour
+Biliary decompression
+is ultimately required to treat ascending cholangitis either non-operatively or through surgery:
+Non-operative management
+ERCP
+Â± sphincterotomy
+Insertion of
+biliary stent
+to allow drainage of bile
+Percutaneous trans-hepatic cholangiography
+(PTC) for those with stricture / malignancy or previous Roux-en-Y gastric bypass
+Nasobiliary drain
+Surgical management
+Non-operative procedures are preferred due to the increased risks of surgery (
+bleeding, infection, abscess formation
+)
+Cholecystectomy
+Â± common bile duct exploration
+Choledochotomy
+with T-tube placement
+Improve
+Complications
+Complications of ascending cholangitis include:
+Pyogenic hepatic or biliary abscess
+Formation of an abscess will require antibiotics or
+ultrasound guided drainage
+They are more common in patients with
+primary sclerosing cholangitis
+Acute kidney injury
+Acute pancreatitis
+Due to obstruction of the pancreatic duct or Ampulla of Vater due to a
+distal common bile duct stone
+Recurrent pyogenic cholangitis (
+Asiatic cholangitis
+)
+Chronic infection of bacterial cholangitis with primary hepatolithiasis
+Exclusive to those living in South-East Asia, due to the presence of
+calcium bilirubinate stones
+attributed to high incidence of
+E. Coli
+infection.
+Inadequate biliary drainage
+Symptoms will recur or worsen
+Requires further investigation of the biliary tree
+Improve
+UKMLA condition
+Ascending cholangitis

@@ -1,0 +1,274 @@
+Central venous thrombosis
+Central venous thrombosis
+Cerebral venous thrombosis (CVT) is a neurological emergency requiring urgent neuroimaging and intervention. It is a rare cause of cerebral infarction resulting from thromboembolic occlusion of cerebral veins and sinuses.
+CVT is responsible for 0.5-3% of
+stroke
+cases, and typically affects younger individuals when compared to arterial strokes (median age of CVT onset is 37 years) . It is uncommon, typically affecting 3 people per million annually. It is 3 times more common in females, likely as a result of increased risk of thromboembolisms in pregnancy and with oral contraceptive use.
+The incidence of CVT has increased in recent years, this is likely due to improvements in modern imaging techniques such as MRI and CT, which have improved diagnosis.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.85 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Stroke
+270.59
+Brain tumours
+22.35
+Bacterial meningitis
+9.41
+Subarachnoid haemorrhage
+9.41
+Subdural haemorrhage
+3.53
+Idiopathic intracranial hypertension
+2.35
+Central venous thrombosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Cerebral venous thrombosis (CVT) is caused by partial or total occlusion of the cerebral veins and sinuses by a thrombus.
+In 85% of patients with a confirmed CVT, at least one risk factor for thrombus development can be identified:
+Prothrombotic condition:
+Most common risk factor seen in over 40% of CVT cases
+Genetic thrombophilias
+including antiphospholipid syndrome; antithrombin III deficiency; protein C deficiency; protein S deficiency; Factor V Leiden mutation and Hyperhomocysteinemia
+Acquired thrombophilias
+such as pregnancy and the puerperium, oral contraceptive pill use and malignancy
+Infection:
+most commonly
+Staphylococcus aureus
+spread from infections of the sinuses. May also be caused by meningitis or a subdural empyema
+Trauma & Surgery:
+most commonly trauma to the head or neurosurgical procedures but can also include jugular venous cannulation and lumbar punctures
+Chronic inflammatory diseases:
+including systemic lupus erythematosus; Behcet disease; granulomatosis with polyangiitis; sarcoidosis and inflammatory bowel disease
+The use of corticosteroids also increases the risk of venous thrombosis, and they are commonly used in chronic inflammatory conditions
+Haematological disorders:
+such as paroxysmal nocturnal haemoglobinuria; thrombotic thrombocytopenic purpura, sickle cell disease and polycythemia
+Improve
+Pathophysiology
+The venous drainage of the central nervous system does not follow the arterial supply. Instead, the brains venous blood enters numerous superficial and deep cerebral veins, which drain into the dural venous sinuses. These eleven sinuses eventually drain into the internal jugular vein and allow venous blood to return to the heart.
+Primary mechanism of injury:
+If a cerebral vein or sinus becomes partially or totally occluded by a venous thrombus, deoxygenated blood will begin to pool within the brain parenchyma. This causes an increase in cerebral venous pressure which has 3 effects:
+Increased intravascular pressure and reduced capillary  pressure which results in decreased cerebral perfusion. This causes ischaemic parenchymal injury and cytotoxic oedema (movement of fluid into the intracellular space)
+Disruption of the blood-brain barrier resulting in vasogenic oedema (leakage of blood plasma into the interstitial space)
+Cerebral vein and capillary rupture causing parenchymal haemorrhage
+Secondary mechanism of injury:
+Obstruction of the superior sagittal, jugular or lateral venous sinuses causes decreased cerebrospinal fluid reabsorption. This will ultimately result in raised intracranial pressure, and worsening of the venous hypertension, ischaemia and oedema.
+In most cases of cerebral venous thrombosis (CVT), both the cerebral veins and the sinuses are involved. It is rare to have an isolated cerebral vein or cerebral sinus thrombosis without collateral effects on the other structure.
+Resulting effects:
+As a result of cerebral ischaemia, oedema, haemorrhage and raised intracranial pressure caused by the two mechanisms described above, patients with intracranial venous thrombosis typically experience a combination of:
+Headache
+Seizures
+Focal neurological deficits
+Changes in their mental state
+Symptoms will vary depending upon the site and extent of thrombosis.
+Improve
+Classification
+Anatomical classification:
+Cerebral venous thrombosis (CVT) is an umbrella term which covers a large number of clinical syndromes caused by thrombosis within the brains venous system. Most commonly, a patient will receive a diagnosis of a specific thrombosis syndrome than the umbrella term CVT, as this is more specific to their symptoms:
+Sagittal sinus thrombosis:
+Most common site of thrombosis (60% of cases)
+Most commonly presents with bilateral motor deficits and
+seizures
+Transverse sinus thrombosis:
+Second most common site of thrombosis
+Typically presents with isolated
+headache
+and
+papilloedema
+(isolated raised Intracranial pressure)
+Cavernous sinus thrombosis:
+This sinus is most likely to be effected by septic CVT, with infection spreading from nearby sinuses, nose and middle ear
+Most commonly presents with orbital pain, chemosis, proptosis and CN III, IV, V & VI nerve palsies
+Straight sinus thrombosis:
+Typically presents with severe symptoms with altered mental state, bilateral motor deficits and reduced GCS
+Cerebral vein thrombosis:
+Can occur alone, but often occurs alongside sinus thrombosis
+Usually presents with motor and sensory deficits, with or without seizures
+Jugular vein thrombosis:
+Patients present with neck pain, pulsating tinnitus and cranial nerve palsies
+Aetiological classification:
+CVT has been traditionally classified into two categories depending upon its aetiology:
+Aseptic CVT:
+an embolism arising from a non-infective cause, often due to underlying hypercoagulable state but has a variety of causes. This is the most common type of CVT
+Most frequently affects the
+superior sagittal sinus
+, but may also affect the deep or superficial cerebral veins and other venous sinuses
+Septic CVT:
+an embolism arising from a primary source of infection, most commonly sinusitis, osteomyelitis, otitis media or rarely septicaemia. This is an uncommon cause of CVT overall
+Most commonly affects the
+cavernous sinus
+as a result of facial or orbital infection. This will present with classical symptoms of proptosis, chemosis and painful ophthalmoplegia
+Rarely may affect the
+lateral sinus
+if infection spreads from the middle ear or mastoid bone. This classically presents with headaches, fever, otalgia and vertigo
+Septic CVT used to be more frequent than it is today, this is most likely due to the rise in antibiotic use, and better diagnosis of infectious diseases preventing complications such as this.
+Improve
+Clinical features
+Cerebral venous thrombosis (CVT) can present in a variety of different ways depending upon the site and number of occluded cerebral veins and sinuses, and the extent of brain parenchymal injury and cerebral oedema/haemorrhage which occurred as a result.
+Onset of symptoms may be acute, subacute or chronic, and symptoms/signs can be grouped into 4 major CVT syndromes, of which patients may experience more than one type:
+Isolated intracranial hypertension (90%):
+Headache
+is the most frequent symptom experienced by CVT patients. It is typically subacute in onset and can be generalised or focal, and is often worse with positional or postural changes
+Papilloedema
+and visual disturbances are also commonly seen in this syndrome
+Focal neurological abnormalities (45%):
+May include motor weakness (e.g. hemiparesis), fluent aphasia; and sensory/visual field defects
+Seizures
+(35%):
+Focal and generalised seizures may occur, as may status epilepticus.
+Encephalopathy:
+Typically seen in severe cases of CVT or with straight sinus thrombosis. Causes reduced GCS, cognitive dysfunction and delirium/
+confusion
+Less commonly patients may present with
+subarachnoid haemorrhage
+(thunderclap headache) and multiple cranial nerve palsies.
+Patients whose CVT causes cerebral oedema, parenchymal infarction and haemorrhagic infarction are more likely to have severe symptoms such as reduced GCS, seizures, aphasia and focal neurological signs.
+Presentation of an isolated vein or sinus thrombosis:
+Symptoms and signs will differ depending upon the location of the thrombus. Below shows the likely clinical picture in patients with isolated thrombosis of specific areas of the cerebral venous drainage system:
+Sinuses:
+Cavernous sinus thrombosis:
+Orbital pain, chemosis, proptosis and CN III, IV, V & VI nerve palsies
+Sagittal sinus thrombosis:
+Bilateral motor deficits and seizures
+Transverse sinus thrombosis:
+Isolated headache and papilloedema
+Straight sinus thrombosis:
+General severe symptoms with altered mental state, bilateral motor deficits and reduced GCS
+Cerebral veins:
+Cerebral vein thrombosis:
+Motor and sensory deficits with seizures
+Jugular vein thrombosis:
+Neck pain, pulsating tinnitus and cranial nerve palsies
+Improve
+Investigations
+All patients presenting under the age of 50 with one or more of the following features should be urgently investigated for cerebral venous thrombosis (CVT):
+New
+headache
+or new headache features in patients with a previous headache disorder
+Isolated intracranial hypertension
+Focal neurological deficits
+Seizures
+Encephalopathy
+Neuroimaging:
+In all patients with suspected CVT, urgent neuroimaging is the first line diagnostic tool. MRI with venography is the preferred imaging modality, but if this is not available cranial CT or CT venography can also be used.
+MRI (T2 weighted) in combination with MR venography is the most sensitive neuroimaging method for diagnosis of CVT. In T2 weighted sequences the thrombus will be seen as a hypo-intense area within the occluded vein or sinus. In addition MR venography will demonstrate an absence of flow in the cerebral venous system, supporting the diagnosis of CVT.
+A cranial CT is typically performed if MRI is not available. It has a specificity of only 70% and is very non-specific in detecting CVT, meaning it is most useful to rule out other differentials such as arterial
+stroke
+and space-occupying lesions.
+Other investigations:
+A variety of other investigations may be used to support a diagnosis of CVT, or to exclude other differentials:
+An elevated
+D-dimer
+supports a diagnosis of CVT alongside neuroimaging findings. A negative D-dimer cannot exclude CVT if patients have suggestive symptoms
+A
+lumbar puncture
+is useful in patients with isolated intracranial hypertension to exclude meningitis. It is not useful in the diagnosis of CVT as findings are very non-specific
+A
+thrombophilia screen
+should be undertaken as hypercoagulable states are the most common risk factor for thrombus development in CVT.
+Improve
+Differential diagnosis
+As the clinical presentation of cerebral venous thrombosis (CVT) can be very non-specific, it may be mistaken for various other pathologies, most commonly an arterial
+stroke
+.
+Possible differential diagnosis for CVT:
+The differential diagnosis of CVT will differ depending upon the clinical presentation, which can be varied.
+CVT syndrome
+Typical symptoms
+Differential diagnosis
+Intracranial hypertension
+Headache
+,
+papilloedema
+and visual disturbances
+Idiopathic intracranial hypertension
+Meningitis
+Space occupying lesion (tumour/abscess)
+If thunderclap headache consider
+subarachnoid haemorrhage
+Focal neurological abnormalities &
+seizures
+Motor and sensory deficits and seizures
+Subdural haematoma
+Ischaemic stroke
+Meningitis
+Space occupying lesion (tumour/abscess)
+Head injury
+Epilepsy
+Encephalopathy
+Altered mental state and reduced GCS
+Meningoencephalitis
+Autoimmune encephalitis
+Acute disseminated encephalomyelitis
+Space occupying lesion (tumour/abscess)
+Head injury
+Systemic lupus erythematosus
+Improve
+Management
+Treatment for cerebral venous thrombosis (CVT) should be commenced as soon as the diagnosis has been confirmed, and involves 3 key elements:
+Acute antithrombotic therapy
+Acute symptom management
+Long term management
+Acute antithrombotic therapy:
+The immediate goal in treating CVT is to recanalize the venous/sinus occlusion and to identify and treat the underlying pro-thrombotic state to prevent further venous thromboembolisms. This is achieved through anticoagulation with a low molecular weight heparin or unfractionated heparin in the majority of cases.
+The majority of patients will recover with just anticoagulation, but a small number of patients who have large and extensive CVT disease, or who do not improve with anticoagulation, go on to receive fibrinolysis. This poses a much greater risk of intracranial haemorrhage than anticoagulation, so this must be discussed with the patient and their family.
+Patients who still deteriorate despite optimal anticoagulation may require surgical thrombectomy, although this is rare. Certain patients who have severe disease resulting in brain herniation or large haematomas may need decompressive surgery, but again this is rare.
+Acute symptom management:
+During the acute phase of CVT, patients may have a variety of differing and dangerous symptoms which must be swiftly managed to avoid further complications:
+Raised intracranial pressure:
+due to the high risk of herniation and subsequent patient death, raised intracranial pressure must be treated urgently. Patients should have the bed elevated, have osmotic therapy (mannitol or hypertonic saline) administered and be hyperventilated in an intensive care setting
+Brain herniation may need emergency decompressive surgery
+Seizures
+:
+anticonvulsants can be used both to treat seizures, and also as prophylaxis against seizures in patients deemed at high risk on neuroimaging review (large areas of cerebral oedema or infarction)
+infection/inflammation:
+antibiotic treatment for infection and glucocorticoid therapy for those with inflammatory disorders is often used
+Long-term management:
+All patients with confirmed CVT require long-term anticoagulation with warfarin with an INR target of 2.5. This is for 3-6 months in provoked CVT and 6-12 months in those with an unprovoked CVT.
+Women who previously were taking the oral contraceptive pill will need advice regarding non-oestrogen methods of contraception such as the progesterone-only pill. Women who developed an CVT whilst pregnant will need prophylactic anticoagulation during future pregnancies.
+Patients may require rehabilitation due to residual deficits.
+Improve
+Complications
+If detected and treated early, cerebral venous thrombosis (CVT) is associated with good outcomes. Often patients develop complications of CVT, some as severe as lifelong disability and death, due to delays in treatment and missed diagnosis.
+Complications of CVT can be divided into two categories depending upon their time of onset:
+Acute complications:
+Seizures
+Hydrocephalus
+Pulmonary embolism
+Coma
+Death
+Chronic complications:
+Residual epilepsy
+Psychiatric disease (mostly depression)
+Visual impairment
+Residual neurological deficits
+Improve
+Prognosis
+Cerebral venous thrombosis (CVT) has a favourable prognosis, particularly is detected and treated early.
+During the acute phase (first 30-days) there is a 5% mortality rate amongst patients. Death occurs as a result us:
+Transtentorial herniation from large venous haemorrhage (most common cause)
+Diffuse cerebral oedema
+Status epilepticus
+Pulmonary embolism.
+Patients presenting with a reduced GCS and altered mental state have a poorer prognosis, whereas early diagnosis with MRI and anticoagulant therapy gives a more favourable prognosis.
+Of those patients who recover, 10% have permanent neurological deficits after 12-months. These typically include motor and sensory deficits, residual epilepsy, visual field defects and depression.
+The risk of recurrence of CVT is low, at around 3%. Patients who have previously been treated for CVT are at increased risk of venous thromboembolism such as pulmonary embolism. This risk is highest during the first 12 months after diagnosis.
+Improve
+Neurology
+Central venous thrombosis

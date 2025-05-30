@@ -1,0 +1,56 @@
+Familial Mediterranean Fever
+Familial Mediterranean Fever
+Familial Mediterranean
+Fever
+(FMF) is an autosomal recessive disorder that primarily affects individuals of Mediterranean origin. It is characterized by recurrent episodes of fever,
+abdominal pain
+, and
+pleuritic chest pain
+. The disease is caused by mutations in the MEFV gene, which encodes for the protein pyrin. Pyrin is involved in the regulation of inflammation and its dysfunction leads to the activation of the innate immune system and subsequent inflammatory response.
+The diagnosis of FMF is based on clinical criteria and genetic testing. Treatment involves the use of colchicine, which reduces the frequency and severity of attacks and prevents the development of amyloidosis. However, some patients may be resistant to colchicine or experience side effects, and alternative therapies such as biologic agents may be considered.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.50 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 1.5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Fever
+:
+Patients with FMF typically present with recurrent episodes of fever that last for 12-72 hours. The fever is usually high-grade, reaching temperatures of 38-40Â°C. These febrile episodes often occur spontaneously but can be triggered by stress, menstruation, or physical exertion.
+Abdominal pain
+:
+Acute abdominal pain is a common feature during FMF attacks due to peritonitis. The pain may be localized or diffuse and can mimic acute appendicitis or other surgical emergencies. In some cases, patients may exhibit signs of rebound tenderness, guarding, or rigidity on physical examination.
+Chest pain:
+Pleuritic chest pain
+occurs in approximately one-third of FMF patients due to pleurisy or pericarditis. The pain is typically sharp and exacerbated by deep breathing or coughing.
+Arthritis and
+arthralgia
+:
+Joint involvement is common during FMF attacks and can manifest as monoarticular or oligoarticular arthritis involving large joints such as knees, ankles, and hips. Arthralgia without overt inflammation may also occur between febrile episodes.
+Erysipelas-like erythema: A transient
+rash
+resembling erysipelas may appear during FMF attacks in up to 30% of cases. The rash is typically erythematous, non-pruritic, and localized to the lower extremities.
+Myalgia:
+Muscle pain and tenderness can be present during FMF attacks, particularly affecting the proximal muscles of the limbs.
+Scrotal swelling:
+In males, attacks of orchitis or epididymitis may occur, presenting as unilateral scrotal swelling and tenderness.
+Amyloidosis:
+Long-term complications of untreated or poorly managed FMF include renal amyloidosis, which can lead to proteinuria, nephrotic syndrome, and end-stage renal disease if not addressed promptly.
+The diagnosis of Familial Mediterranean Fever is based on clinical suspicion and supported by genetic testing for MEFV gene mutations. A positive family history and response to colchicine therapy further support the diagnosis.
+Improve
+References
+DermNet NZ - Erysieloid
+Rheumatology
+Familial Mediterranean Fever

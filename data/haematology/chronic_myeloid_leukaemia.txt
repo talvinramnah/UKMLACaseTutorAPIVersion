@@ -1,0 +1,197 @@
+Chronic myeloid leukaemia
+Chronic myeloid leukaemia
+Chronic myeloid
+leukaemia
+(CML) is a myeloproliferative disorder affecting the regulation of pluripotent stem cells within the bone marrow. It is seen mainly in patients over the age of 60 years, although can be seen in patients of any age. Patients are typically described as having three identifiable phases of the disease: the chronic, accelerated and blastic phases, although in some cases patients may not progress through these phases in a step-wise fashion. The underlying aetiology of the disease remains unknown, however, genetically it is characterised by the presence of a mutation known as the Philadelphia chromosome, which results in the fusion protein BCR-ABL and dysregulated tyrosine kinase activity. It represents up to 15% of adult leukaemias and treatment has been revolutionised in the last 20 years by the advent of tyrosine kinase inhibitors such as Imatinib and similar tyrosine kinase inhibitors.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.2:1
+Condition
+Relative
+incidence
+Myelodysplastic syndrome
+3.00
+Polycythaemia vera
+2.00
+Chronic myeloid
+leukaemia
+1
+Myelofibrosis
+0.40
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of CML is multifactorial, involving genetic, environmental, and lifestyle factors. In this entry, we will delve into the major factors contributing to the development of CML.
+The BCR-ABL fusion gene
+The hallmark genetic abnormality in CML is the presence of the BCR-ABL fusion gene, which results from a reciprocal translocation between chromosomes 9 and 22, known as the Philadelphia (Ph) chromosome. This translocation fuses the breakpoint cluster region (BCR) gene on chromosome 22 with the ABL1 proto-oncogene on chromosome 9, leading to the formation of a constitutively active BCR-ABL tyrosine kinase. The BCR-ABL fusion protein drives uncontrolled cell growth and proliferation, leading to CML.
+Genetic susceptibility
+While the presence of the BCR-ABL fusion gene is necessary for CML development, not all individuals with the Ph chromosome develop the disease. This suggests that additional genetic factors may contribute to CML susceptibility. Genome-wide association studies (GWAS) have identified several genetic variants linked to an increased risk of CML, such as single nucleotide polymorphisms (SNPs) in genes like IKZF1, ETV6, and MECOM.
+Environmental factors
+Exposure to ionizing radiation is a well-established risk factor for CML. Studies have shown a dose-response relationship between ionizing radiation exposure and the risk of developing CML. Exposure to radiation can come from various sources, including medical treatments (e.g., radiotherapy), occupational exposure, and nuclear accidents (e.g., Chernobyl).
+Lifestyle factors
+Some lifestyle factors have been associated with an increased risk of CML. These include smoking, obesity, and alcohol consumption. However, these associations are relatively weak compared to the genetic and environmental factors. Further research is needed to elucidate the mechanisms by which these lifestyle factors may contribute to CML development.
+Improve
+Pathophysiology
+- Genetically, up to 90% on cases of CML can be attributed to a characteristic reciprocal translocation between the long arms of chromosomes 9 and 22, in shorthand t(9;22).
+This is known as the Philadelphia chromosome or Philadelphia translocation. This genetic mutation results in a fusion of two genes, BCR (from chromosome 22) and ABL1 (from chromosome 9), which results in an oncoprotein, a tyrosine kinase signalling protein that cannot be 'turned off', leading dysregulated cell signalling.
+Genetic testing for this fusion is considered to be diagnostic of CML, although there are other genetic mutations which can lead to the CML phenotype.
+Improve
+Clinical features
+The vast majority of patients (up to 90%) present in the 'chronic' phase of the disease and may present with constitutional symptoms or can be asymptomatic. As the disease progresses, patients demonstrate progressive signs and symptoms:
+Fatigue/
+lethargy
+.
+Night sweats
+.
+Weight loss
+.
+Splenomegaly
+causing bloating, early satiety, increased abdominal girth, nausea, vomiting. These features may exacerbate weight loss. CML is one of the four common causes of 'massive' splenomegaly, meaning the spleen is greater than 20cm at its largest dimension.
+In some patients, splenic infarction may occur, causing severe pain in the left upper quadrant.
+Symptoms and signs of
+anaemia
+Dizziness, shortness of breath, palpitations, pre-syncope and syncope in severe cases.
+Pallor, koilonychia, tachycardia, relative hypotension, signs of high output heart failure such as a gallop rhythm and peripheral oedema.
+Generalised lymphadenopathy
+Conditions secondary to hyperviscosity e.g. presentation with signs of a cerebrovascular event, priapism, ophthalmic complications secondary to retinal vein occlusion.
+In addition, blood abnormalities may be noted on routine blood tests, so-called incidental findings, with around 40% of cases identified prior to the patient developing any significant symptoms.
+Improve
+Investigations
+In the first instance, a good clinical history is invaluable. The insidious nature of CML presenting symptoms can lead to the need for direct questioning to ensure that all symptoms are recognised. All patients should be referred via two-week wait pathways, however, given the risk of associated
+anaemia
+or symptoms of increased blood viscosity, patients may need a more urgent referral to secondary care for further assessment.
+Clinical examination can elicit signs of the underlying pathology and guide further investigations. Basic observations should be completed with a view to assessing whether there is any degree of underlying organ dysfunction e.g. tachycardia which again may prompt referral to secondary care sooner rather than later.
+Baseline blood tests:
+Full blood count:
+Leucocytosis
+, typically 20-60 * 10
+9
+/L
+The differential may demonstrate increased cell numbers from the myeloid lineage of leucocytes.
+Thrombocytosis
+or thrombocytopenia may occur.
+Anaemia is a common finding, often normochromic and normocytic, but depending on haematinics, other abnormalities e.g. microcytic, hypochromic anaemia of iron deficiency may also be found.
+A blood film shows
+In the chronic phase, leucocytosis and a leucoerythroblastic (meaning that there are immature red and white blood cells found in the peripheral blood).
+In the accelerated phase, over 15% of the blood film is occupied by blast cells, promyelocytes and basophils are also seen in high levels and these patients usually have marked thrombocytopaenia.
+In the blastic phase, > 20% of the blood film is occupied by blastic cells.
+Lactate dehydrogenase levels may be raised.
+A process referred to as the leukocyte alkaline phosphatase test has historically played an integral part in the diagnostic, however, has now been largely superseded by cytogenetic analysis. Alkaline phosphatase is present in the cytoplasm of white blood cells and decreases in activity with the ageing of the cells. In CML, where cells fail to undergo apoptosis, a low or absent level of alkaline phosphatase is observed, in contrast with the normally active enzyme. This can be demonstrated experimentally with the application of naphthyl AS-B1 phosphate and diazonium salt.
+Bone marrow aspirate:
+Typically described as hypercellular and shows increased proportions of myeloid cells (neutrophils, eosinophils and basophils) and myeloid progenitor cells.
+Megakaryocytes may also be seen.
+Some fibrosis can often be seen when a reticulin stain is added.
+Cytogenetics:
+The characteristically cytogenetic analysis demonstrates the Philadelphia translocation, present in over 90% of CML patients.
+Other genetic abnormalities associated with a small minority of CML cases include:
+A double Ph1-positive chromosome
+Trisomy 8, 9, 19, or 21
+Improve
+Differential diagnosis
+Differentials include other primary
+myeloproliferative disorders
+, which may also be described as myeloproliferative neoplasms (according to the 2008 World Health Organization classification scheme).
+The presence of the Philadelphia chromosome is considered diagnostic of CML as opposed to other differentials, but prior to cytogenetics, the following differentials may be considered.
+Leukemoid reaction
+Leucocytosis
+caused by infection or another inflammatory process.
+Chronic Myelomonocytic Leukemia
+Persistent monocytosis observed over a period greater than three months. Can be differentiated from CML as it is a pronounced isolated monocytosis as opposed to raised levels of a range of myeloid cells.
+Patients are Philadelphia chromosome-negative.
+Myelodysplastic Syndrome
+One or more cytopaenias may feature, and any single or combination of haematopoietic myeloid stem cells may be affected, as a result of mutations within the cell lineage. These mutations may be characterised using fluorescent in situ hybridization (FISH). Commonly found mutations include:
+5q-
+Monosomy 7
+Trisomy 8
+Typically a diagnosis of exclusion, when all other causes of cytopaenias have been excluded, but the patient shows a range of abnormal cell morphologies, increased number of blasts in the marrow and genetic abnormality.
+Polycythaemia Rubra Vera (PRV)
+Characterised by dysregulated red cell production, leading to a pathologically raised red cell count which may result in end-organ damage secondary to the associated increased blood viscosity. This is in contrast to CML patients in whom the leucocytosis is the most prominent feature, although leucocytosis may also result in increased blood viscosity.
+The WHO Criteria sets out values of haemoglobin >185mg/dL in men and >165mg/dL in women, or hematocrit >49% in men and >48% in women.
+The typical mutation seen in PRV is a JAK2 617V F mutation or the mutation of JAK2 exon 12, very rarely PRV patients may also demonstrate the presence of the Philadelphia chromosome.
+Myelofibrosis
+A disorder of hematopoietic stem cells.
+It is rare in comparison with CML.
+Full blood count demonstrates leucopaenia and
+anaemia
+.
+Peripheral blood film demonstrates multiple forms of immature red cells and, unlike CML often shows teardrop cells.
+Bone marrow aspirate is usually dry and a bone marrow biopsy is often needed to demonstrate marked fibrosis, as opposed to cases of CML which shows limited fibrosis at the most.
+Improve
+Staging
+The WHO 2008 Criteria proposes three phases of disease progression:
+The Chronic Phase:
+Patients are largely asymptomatic.
+<10% blasts in peripheral blood and/or bone marrow aspirate.
+The Accelerated Phase
+10-19% blastic leucocytes in peripheral blood and/or bone marrow.
+≥30% of peripheral blood myeloblasts and promyelocytes (combined)
+≥20% basophils in peripheral blood.
+Platelet count persistently < 100, which is considered to be unrelated to therapy.
+Persistent
+thrombocytosis
+(> 1000) that does not improve in response to medical therapy.
+Rising
+leucocytosis
+and
+splenomegaly
+refractory to medical therapy.
+Acquisition of genetic mutations supplementary to the Philadelphia mutation.
+Patients may report increasing symptom burden associated with progressive
+anaemia
+, splenomegaly or syndromes secondary to increased blood viscosity. They may develop increasing constitutional symptoms such as fevers and may report easy bruising or spontaneous bleeding when suffering from thrombocytopaenia.
+It is estimated that around 60% of patients progress from the chronic phase into the accelerated phase after a period of years (without treatment).
+The Blastic Phase (blast crisis):
+≥ 20% blastic leucocytes in peripheral blood and/or bone marrow.
+Evidence of extramedullary blast production.
+Clusters of blasts may be seen on bone marrow aspirate analysis.
+Patients may progress over the course of months from the accelerated phase into the blastic phase, but may also progress directly from chronic phase disease.
+Patients are very unwell with severe constitutional symptoms and may develop complications such as gastrointestinal bleeding and infections due to immunocompromise and extramedullary blastic clusters.
+The blastic phase is described as an aggressive acute
+leukaemia
+and is generally fatal.
+Improve
+Management
+Broadly speaking, there are three goals of treatment:
+Haematologic remission defined as a normal full blood cell count and physical examination (no evidence of underlying organomegaly).
+Cytogenetic remission defined as seeing 0% Philadelphia chromosome-positive (Ph+) cells on chromosomal analysis.
+Molecular remission defined as negative polymerase chain reaction result for the mutational BCR/ABL mRNA.
+Historically, the main therapies for CML were hydroxyurea and busulfan, with interferon-alpha as an additional therapy as needed. These therapies may still be used in the context of tyrosine kinase inhibitor intolerance or on occasion for isolated symptom treatment in chronic-phase disease.
+However, imatinib, a tyrosine kinase inhibitor, described as a 'magic bullet' was first introduced to the treatment of CML in 2001 and subsequently, tyrosine kinases inhibitors have become the mainstay of CML treatment. Research now suggests that chronic phase patients maintained on long term imatinib may even have a near-normal life expectancy. It is commenced as a first-line monotherapy with patient monitoring thereafter to assess for any adverse effects or disease progression.
+Patients commenced on imatinib during the accelerated phase of the disease are more likely to progress or not respond to therapy and those patients who are commenced on imatinib during the chronic phase and progress despite this to the accelerated or blastic phase are considered to have a poor prognosis.
+Nilotinib, a second-generation tyrosine kinase inhibitor, may be considered in patients with either chronic phase or accelerated phase CML in the event of a failure with/intolerance of Imatinib.
+Some chronic phase patients may be assessed for haematopoietic stem cell transplantation, which may be considered, especially in younger patients. However, the benefits of transplantation must be carefully weighed against the associated high rates of morbidity and mortality.
+Patients with blastic phase disease should be commenced on a tyrosine kinase inhibitor (or switched from their current inhibitor) with induction chemotherapy prior to stem cell transplant, however, even with optimal management, progression to the blastic phase of the disease carries a particularly poor prognosis.
+Improve
+Complications
+Complications of CML overlap significantly with the presenting symptoms of patients.
+Patients may develop anaemias secondary to dysfunctional haematopoiesis and may benefit from symptomatically governed transfusion to modulate these cytopaenias.
+Patients may be at an increased risk of infections as a result of bone marrow failure causing decreased humoral immunity and should be advised to be mindful of developing infections with a low threshold for seeking medical advice should hey develop any concerning symptoms.
+Patients may develop thrombocytopaenia either as a primary pathology caused by disease or secondary to treatments. This may lead to a range of bleeding complications, from easy bruising to catastrophic gastrointestinal causing bleeding. Again this should be managed supportively.
+Conversely, patients may also develop hyperviscosity with an associated increased risk of blood clot formation, leading to retinal vein occlusion or other strokes. Splenic infarctions may also occur either as a result of increased blood viscosity or independent of it.
+The treatment of the disease can also have notable side effects, with Imatinib causing a range of side effects from tolerable gastrointestinal upset to irreversible kidney injury, thus patients should be carefully monitored on therapy and should be considered for a switch to an alternative treatment where there is a significant intolerance noted.
+Improve
+Prognosis
+Prognosis predictions are highly dependent upon the response to treatment. Overall, the National
+Cancer
+Institute currently estimates a 70% 5-year survival rate for patients with CML.
+A positive and prolonged response to Imatinib chemotherapy is associated with a near-normal life expectancy in many cases.
+In those patients without an enduring Imatinib response in whom the therapy was commenced during the chronic phase of the disease, the prognosis may be described as fair, with a survival rate of 70% at three-year follow-up.
+However, in those patients commenced on therapy during the accelerated disease phase, the rate of survival at 3 years dropped to 30% and in those commenced on therapy during the blastic phase, the rate of 3-year survival was still lower, at 7%.
+In those patients receiving a stem cell transplant, the prognosis appears largely dependent on a range of factors patient age, donor matching, cytomegalovirus and institutional expertise, with mortality rates of up to 50% in some cases.
+Improve
+References
+Clinical Knowledge Summaries - Haematological cancers - recognition and referral
+Cancer
+Chronic myeloid leukaemia

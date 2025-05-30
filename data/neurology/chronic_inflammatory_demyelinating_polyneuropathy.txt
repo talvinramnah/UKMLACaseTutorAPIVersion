@@ -1,0 +1,120 @@
+Chronic inflammatory demyelinating polyneuropathy
+Chronic inflammatory demyelinating polyneuropathy
+Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) is a progressive polyneuropathy with an estimated prevalence of 2.81 per 100,000. The typical clinical features involve distal and proximal weakness with sensory deficits developing over at least 8 weeks, but pure motor and pure sensory variants also exist. The underlying cause is not fully understood, but involves a deranged immune response causing peripheral nerve myelin damage and CIDP is thus classed as an autoimmune disorder. Although the majority of patients with CIDP experience a partial or total response to one or a combination of available treatments, some patients' symptoms do not resolve.
+Last updated: 9
+th
+May 2024
+Epidemiology
+Incidence: 1.60 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Guillain-Barre syndrome
+1.25
+Chronic inflammatory demyelinating polyneuropathy
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+A proposed auto-antigen that activates inflammatory T cells is thought to originate CIDP, although no direct causal factors have been identified.
+The condition is between 1.5 and 4 times more common in men than in women.
+The incidence of CIDP increases with increasing age.
+The prevalence rate is 2.81 per 100,000, and no geographical variance in prevalence or incidence of CIDP has been found.
+Improve
+Pathophysiology
+The proposal that CIDP is an autoimmune condition is supported by the clinical response to drugs that target the immune system.
+Although not yet fully defined, it is thought that it results from cell-mediated and humoural mechanisms. Inflammatory CD4 and CD8 T cells and autoantibodies to myelin proteins are thought to be key mediators of the attack on peripheral nerve tissue.
+A key step is the breakdown of the blood-nerve barrier allowing attack on the endoneurium.
+The resulting inflammatory lesions affecting peripheral myelin in combination with proposed auto-antibody binding to nodes of Ranvier cause the electrophysiological deficits observed and the clinical symptoms.
+Improve
+Clinical features
+No definitive clinical criteria have been described, and diagnosis is based on the constellation of typical clinical signs and electrophysiological test results. Furthermore, the variance in clinical pattern makes diagnosis difficult: 50% of patients present with typical CIDP (motor and sensory symptoms), whilst 5-35% have sensory-predominant CIDP, and 7-10% present with motor-dominant CIDP.
+The European Federation of Neurological Societies describe typical CIDP as a
+'chronically progressive, step-wise, or recurrent symmetrical proximal and distal weakness and sensory dysfunction of all extremities, developing over at least 2 months (cranial nerves may be affected), and absent or reduced tendon reflexes in all extremities.'
+This is accompanied by supportive electrodiagnostic criteria for typical CIDP which include:
+More than 50% prolongation of motor distal latency above upper limit of normal (ULN) in 2 nerves
+More than 30% reduction of motor conduction velocity below the lower limit of normal (LLN) in 2 nerves
+Clinical features of atypical CIDP include:
+Predominantly distal weakness; distal acquired demyelinating symmetrical neuropathy
+Pure motor or sensory presentations
+Asymmetrical presentation (Lewis-Sumner syndrome)
+Focal presentation (e.g., involvement of the brachial or lumbosacral plexus or 1 or more upper-extremity or lower-extremity peripheral nerves).
+Improve
+Investigations
+The European Federation of Neurological Societies recommends the following primary tests to diagnose CIDP:
+Sensory and motor nerve conduction studies, performed bilaterally
+Electrodiagnostic test results form a key part of diagnostic criteria
+Lumbar puncture, including cytology and protein analysis
+Elevated CSF protein with leukocyte count <10/mm3 supports the diagnosis of CIDP
+MR imaging
+Gadolinium enhancement and/or hypertrophy of the cauda equina, lumbosacral or cervical nerve roots, or the brachial or lumbosacral plexuses supports CIDP diagnosis.
+Nerve biopsy
+Evidence of demyelination and/or remyelination by electron microscopy of nerve biopsy supports CIDP diagnosis
+Recommended adjuvant tests to rule out differential diagnoses:
+Serum and urine paraprotein detection by immunofixation
+Blood tests:
+Full blood count
+U&Es
+Fasting blood glucose
+Liver function tests
+Antinuclear factor
+HIV test
+Thyroid function tests
+Borrelia burgdorferi
+(Lyme disease) serology
+Diphtheria toxin testing
+Investigation of possible hereditary neuropathy cause:
+Examination of parents and siblings
+Appropriate gene testing (especially PMP22 duplication and connexin 32 mutations)
+Improve
+Differential diagnosis
+There are many causes of peripheral neuropathy including complications of common conditions, as well as rare diseases.
+Guillain-Barre Syndrome
+Typical onset is less that 4 weeks, often with clinical history of infection prior to onset of symptoms.
+More common cranial nerve involvement and respiratory failure than CIDP.
+Diabetic distal symmetric polyneuropathy (DSPN)
+Patients with diabetes can develop distal polyneuropathy similar to CIDP. Features include early pain and dysaesthesia owing to small-fibre involvement, and sensory loss greater than motor loss.
+Although the clinical features are very similar, the electrophysiological deficits seen in DSPN are less severe than those in CIDP and this allows for reliable differentiation of the two conditions.
+Thyroid disease
+Hyper- and hypothyroidism may present with distal weakness and sensory loss, but should improve with normalisation thyroid status. Thyroid test and clinical examination for diagnosis.
+Neuropathy associated with infections
+Lyme disease, HIV, hepatitis, diphtheria may have neuropathy as part of their presenting features. Serology to rule these out.
+Drug-induced neuropathy
+Many drugs can cause peripheral neuropathy. A thorough clinical history and timeline of recent medications will help in discerning if any are responsible for the presenting symptoms.
+Some implicated drugs include statins, amiodarone, chemotherapy drugs, isoniazide, metronidazole, immunomodulating drugs and nucleoside reverse transcriptase inhibitors (NRTIs)
+Monoclonal gammopathy of undetermined significance (MGUS)
+A pre-malignant haematological disorder which clinically mimics CIDP, but high levels of monoclonal proteins differentiate the condition.
+POEMS syndrome (Polyneuropathy, Organomegaly, Endocrinology, Monoclonal gammopathy and Skin changes)
+A rare paraneoplastic disorder presenting with a range of systemic symptoms with polyneuropathy.
+Major differentiating features from CIDP include presence of sclerotic lesions on CT and high levels of serum vascular endothelial growth factor (VEGF).
+Improve
+Management
+Guidelines suggest that patients with confirmed CIDP whose symptoms are mild or do not interfere with activities of daily living may be observed without treatment initially.
+In those requiring treatment:
+Corticosteroids
+60mg OD oral prednisolone for 6 weeks recommended as first line
+Plasma exchange
+Effective for quick relief of symptoms, but requires combining with other treatments to demonstrate longer term benefits.
+Intravenous immunoglobulin (IVIG)
+A Cochrane systematic review concluded that IVIG improves symptoms for at least 2-6 weeks compared with placebo, with one trial demonstrating benefits up to 48 weeks.
+Analgesia for neuropathic pain
+Some patients may require analgesia e.g. gabapentin, pregabalin for neuropathic pain if this contributes a significant part of their symptoms.
+Improve
+Prognosis
+Prognosis varies greatly, and there are no currently available biomarkers or other tests to aid in prognostication.
+Approximately 15% of patients with CIDP fail to respond to any of the current available treatments.
+However, most patients see partial or complete resolution of symptoms with single or combination therapy which may need to be continued for a period of months or years.
+A 5-year follow up of 38 cases of CIDP found that 25% of patients were in remission and 61% had partial remission.
+Improve
+Neurology
+Chronic inflammatory demyelinating polyneuropathy

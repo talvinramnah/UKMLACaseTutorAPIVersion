@@ -1,0 +1,145 @@
+Raynaud's disease
+Raynaud's disease
+Raynaud's disease, also known as Raynaud's syndrome, is a relatively common, idiopathic peripheral vascular disorder characterized by episodic vasospasm of the small arteries and arterioles, particularly in the fingers and toes. The disease causes the affected extremities to turn pale, blue, and then red in response to cold temperatures or emotional stress. The prevalence of Raynaud's disease varies between 3% and 20% in the general population, with a higher prevalence in colder climates. The disease predominantly affects women, particularly those between the ages of 15 and 40.
+Last updated: 27
+th
+March 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 2:1
+Condition
+Relative
+incidence
+Raynaud's disease
+1
+Thromboangiitis obliterans (Buerger's disease)
+0.10
+Systemic sclerosis
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Raynaud's disease, a vasospastic disorder primarily affecting the fingers and toes, is characterised by episodic digital pallor, cyanosis, and erythema. The aetiology of this condition is multifactorial with both primary and secondary forms identified.
+Primary Raynaud's Disease
+The primary form, also known as Raynaud's disease or idiopathic Raynaud’s phenomenon, lacks an underlying systemic cause. It typically manifests at a young age (15-30 years) and predominantly affects females. The exact aetiology remains unclear; however, it is believed to involve an exaggerated vascular response to cold or stress.
+Genetic predisposition plays a significant role in the development of primary Raynaud's disease. Family history of the condition increases individual susceptibility.
+Hormonal factors may contribute to the female predominance observed in primary Raynaud's disease. Oestrogen may enhance vascular reactivity to stimuli such as cold or emotional stress.
+Secondary Raynaud's Disease
+The secondary form, known as Raynaud’s phenomenon, is associated with an underlying systemic disease or condition. This form tends to occur later in life (typically after 40 years).
+Connective tissue diseases are the most common causes of secondary Raynaud’s phenomenon. These include
+systemic sclerosis
+(scleroderma), systemic lupus erythematosus (SLE), rheumatoid arthritis, and Sjögren’s syndrome.
+Certain medications can precipitate secondary Raynaud’s phenomenon. These include beta-blockers, ergot alkaloids, certain chemotherapeutic agents like cisplatin and vinblastine, and over-the-counter cold medications containing pseudoephedrine.
+Occupational exposures to certain mechanical vibrations (e.g., using jackhammers) or chemicals (e.g., vinyl chloride) can lead to secondary
+Raynaud's phenomenon
+. This is often referred to as occupational or industrial Raynaud's disease.
+Certain haematologic disorders such as cryoglobulinaemia and paraproteinaemia are also associated with secondary Raynaud’s phenomenon.
+Improve
+Pathophysiology
+Raynaud's disease
+, also known as
+Raynaud's phenomenon
+, is a vasospastic disorder characterised by episodic digital ischaemia, typically in response to cold exposure or emotional stress. The pathophysiology of this condition involves an exaggerated vascular response to these triggers.
+The initial phase of the response is
+vasoconstriction
+. This primarily affects the small arteries and arterioles of the fingers and toes. The mechanism underlying this abnormal vasoconstriction is not entirely understood but appears to involve increased sympathetic nervous system activity and enhanced sensitivity of the vascular smooth muscle to catecholamines.
+This vasoconstriction leads to a
+decrease in blood flow
+to the affected areas. As a result, the skin becomes pale (or white) and feels cool to touch - a phase often referred to as 'pallor'. Patients may also experience numbness or paraesthesia due to reduced oxygen supply.
+If the episode continues, deoxygenated blood can accumulate in the area causing it to turn blue, a stage known as
+cyanosis
+.
+Upon rewarming or cessation of the trigger, there is sudden
+reactive hyperaemia
+, where blood rushes back into the area causing it to turn red ('rubor'). This stage can be associated with throbbing pain and swelling due to rapid reperfusion.
+The repeated episodes of vasoconstriction and subsequent reperfusion can lead to long-term damage within the microvasculature. Over time, this may result in thickening of vessel walls (
+intimal proliferation
+) and narrowing of vessel lumens (
+luminal stenosis
+). These changes further exacerbate perfusion deficits during future episodes.
+It is also suggested that there may be an
+immunological component
+to the disease. Some patients with Raynaud's have elevated levels of certain antibodies (e.g., antinuclear antibodies, anticentromere antibodies), particularly those with secondary Raynaud's associated with connective tissue diseases. However, the exact role of these immune responses in the pathogenesis of Raynaud's remains unclear.
+The clinical manifestations of Raynaud’s disease primarily result from these underlying mechanisms. The characteristic 'white-blue-red' sequence reflects the phases of vasoconstriction, cyanosis and reactive hyperaemia respectively. Chronic changes in the microvasculature can lead to persistent digital ischaemia and complications such as digital ulceration or gangrene.
+Improve
+Clinical features
+Patients with Raynaud's disease typically present with a triphasic colour change of the affected extremities, which includes:
+Pallor (white): This phase results from the initial vasoconstriction of arterioles, leading to reduced blood flow.
+Cyanosis (blue): As the oxygen supply in the tissues diminishes, a bluish discolouration occurs.
+Hyperemia (red): During the recovery phase, vasodilation leads to increased blood flow, causing a reddish hue.
+These colour changes are often accompanied by symptoms such as numbness, cold sensation, tingling, and pain in the affected areas. Episodes can last from minutes to hours and typically resolve upon rewarming or cessation of the triggering factor.
+Improve
+Investigations
+It is essential to differentiate between primary and secondary Raynaud's to guide treatment and management.
+Diagnostic workup for secondary Raynaud's may include:
+Full blood count (CBC)
+Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)
+Antinuclear antibody (ANA) test
+Rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) antibodies
+Cold-stimulus test
+Nailfold capillaroscopy
+Imaging studies, such as Doppler ultrasonography, to evaluate for occlusive arterial disease.
+Improve
+Differential diagnosis
+Three conditions that may present similarly to Raynaud's disease are systemic lupus erythematosus (SLE),
+scleroderma
+and Buerger's disease. Recognising the subtle differences in clinical presentation is key to accurate diagnosis.
+Systemic Lupus Erythematosus (SLE)
+SLE is a chronic autoimmune condition that can affect multiple organ systems. It often presents with a characteristic malar rash, arthralgia and fatigue alongside Raynaud's-like symptoms.
+The digital colour changes in SLE-associated Raynaud’s phenomenon are similar to those seen in primary Raynaud's disease. However, they are typically accompanied by other systemic manifestations not seen in primary Raynaud's disease.
+Furthermore, laboratory investigations frequently reveal positive antinuclear antibodies (ANA) and anti-double stranded DNA antibodies (anti-dsDNA), which are not commonly associated with primary Raynaud’s disease.
+Scleroderma
+Scleroderma is an autoimmune connective tissue disorder characterised by skin thickening and fibrosis of various organs. It often presents with tight, shiny skin over the fingers, hands, face or feet, along with Raynaud’s phenomenon.
+In contrast to primary Raynaud's disease, scleroderma-associated Raynaud’s phenomenon often progresses more rapidly and can be complicated by digital ulcers or gangrene due to severe vasospasm and tissue ischemia.
+Laboratory tests may show positive ANA and anti-centromere or anti-Scl-70 antibodies which are usually absent in primary Raynaud’s disease.
+Buerger's Disease
+Buerger's disease, or thromboangiitis obliterans, is a non-atherosclerotic, segmental inflammatory vasculitis that primarily affects small and medium-sized arteries and veins. It typically presents with claudication, ischemic ulcers or gangrene in addition to Raynaud’s phenomenon.
+It differs from primary Raynaud's disease by its strong association with tobacco use and the presence of distal extremity ischemia signs such as diminished pulses, claudication or critical limb ischemia.
+The diagnosis is often confirmed by angiography showing segmental occlusive lesions in the distal arteries. This feature is not present in primary Raynaud's disease.
+Improve
+Management
+Treatment for Raynaud's disease aims to reduce the frequency and severity of vasospastic episodes, prevent complications, and address underlying causes in cases of secondary Raynaud's.
+Non-pharmacological interventions:
+Patient education: Inform patients about the importance of avoiding triggers, such as cold exposure and emotional stress.
+Temperature regulation: Encourage patients to wear gloves, socks, and appropriate clothing to maintain warmth in cold environments.
+Smoking cessation: Smoking can exacerbate symptoms by causing vasoconstriction.
+Stress management: Teach patients stress reduction techniques, such as deep breathing exercises, meditation, and progressive muscle relaxation.
+Pharmacological interventions:
+Calcium channel blockers: First-line agents, such as nifedipine or amlodipine, help reduce vasospasm by promoting vasodilation.
+Alpha-blockers: Prazosin and doxazosin may be considered for patients who do not respond to calcium channel blockers.
+Vasodilators: Sildenafil, tadalafil, and prostaglandin analogs (e.g., iloprost) can be used in severe or refractory cases.
+In cases of secondary Raynaud's, it is crucial to manage the underlying condition, which may involve immunosuppressive therapies, anti-inflammatory agents, or disease-modifying antirheumatic drugs (DMARDs).
+Surgical interventions:
+Sympathectomy: In severe or refractory cases, a surgical sympathectomy may be performed to interrupt the sympathetic nerve supply to the affected extremity, promoting vasodilation and reducing vasospastic episodes. This approach should be reserved for cases that do not respond to conservative measures and pharmacological therapy.
+Revascularization procedures: In cases of secondary Raynaud's with arterial occlusive disease, surgical or endovascular revascularization may be required to restore blood flow to the affected extremity.
+Improve
+Complications
+Patients with Raynaud's disease should be monitored for symptom progression and development of complications, such as digital ulcers, gangrene, and critical ischemia. Regular follow-up visits are essential to evaluate the effectiveness of treatment and adjust the management plan as needed.
+Improve
+Prognosis
+The prognosis of Raynaud's disease is generally favourable, as the condition is not life-threatening. However, it can significantly impact on a patient's quality of life due to discomfort and functional impairment.
+Primary Raynaud's
+Patients with primary Raynaud's (Raynaud's disease) typically have a benign course. The disease tends to remain stable or improve over time, although symptoms may persist for years.
+Critical digital ischaemia is rare in primary Raynaud's, and gangrene or autoamputation virtually never occurs.
+Secondary Raynaud's
+In secondary Raynaud’s (Raynaud’s phenomenon), associated with connective tissue diseases such as
+systemic sclerosis
+, the prognosis is more variable and depends largely on the severity of the underlying disorder.
+Digital ulcers are common in systemic sclerosis-associated Raynaud’s phenomenon and can lead to serious complications including infection and gangrene. In severe cases, digital sympathectomy or amputation may be necessary.
+Treatment response
+Both pharmacological and non-pharmacological interventions can reduce the frequency and severity of episodes, but no cure exists for this condition.
+Vasodilator therapy can help manage symptoms but does not alter long-term outcomes. Calcium channel blockers are considered first-line therapy for most patients with Raynaud’s phenomenon.
+Improve
+References
+Arthritis Research Council (ARC) - ARC Raynaud's Patient Info
+Rheumatology
+Raynaud's disease

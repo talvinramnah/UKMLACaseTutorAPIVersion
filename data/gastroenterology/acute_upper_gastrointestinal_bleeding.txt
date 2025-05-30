@@ -1,0 +1,57 @@
+Acute upper gastrointestinal bleeding
+Acute upper gastrointestinal bleeding
+NICE published guidelines in 2012 on the management of acute upper gastrointestinal bleeding which is most commonly due to either peptic ulcer disease or oesophageal varices. Some of the key points are detailed below.
+Last updated: 1
+st
+January 2025
+Referral criteria
+Risk assessment
+use the Blatchford score at first assessment, and
+the full Rockall score after endoscopy
+Blatchford score
+Admission risk marker
+Score
+Urea (mmol/l)
+6Â·5 - 8 = 2
+8 - 10 = 3
+10 - 25 = 4
+> 25 = 6
+Haemoglobin  (g/l)
+Men
+12 - 13 = 1
+10 - 12 = 3
+< 10 = 6
+Women
+10 - 12 = 1
+< 10 = 6
+Systolic blood pressure (mmHg)
+100 - 109 = 1
+90 - 99 = 2
+< 90 = 3
+Other markers
+Pulse >=100/min = 1
+Presentation with melaena = 1
+Presentation with syncope = 2
+Hepatic disease = 2
+Cardiac failure = 2
+Patients with a Blatchford score of 0 may be considered for early discharge.
+Improve
+Management
+Resuscitation
+ABC, wide-bore intravenous access * 2
+platelet transfusion if actively bleeding platelet count of less than 50 x 10*9/litre
+fresh frozen plasma to patients who have either a fibrinogen level of less than 1 g/litre, or a prothrombin time (international normalised ratio) or activated partial thromboplastin time greater than 1.5 times normal
+prothrombin complex concentrate to patients who are taking warfarin and actively bleeding
+Endoscopy
+should be offered immediately after resuscitation in patients with a severe bleed
+all patients should have endoscopy within 24 hours
+Management of non-variceal bleeding
+NICE do not recommend the use of proton pump inhibitors (PPIs) before endoscopy to patients with suspected non-variceal upper gastrointestinal bleeding although PPIs should be given to patients with non-variceal upper gastrointestinal bleeding and stigmata of recent haemorrhage shown at endoscopy
+if further bleeding then options include repeat endoscopy, interventional radiology and surgery
+Management of variceal bleeding
+terlipressin and prophylactic antibiotics should be given to patients at presentation (i.e. before endoscopy)
+band ligation should be used for oesophageal varices and injections of N-butyl-2-cyanoacrylate for patients with gastric varices
+transjugular intrahepatic portosystemic shunts (TIPS) should be offered if bleeding from varices is not controlled with the above measures
+Improve
+Gastroenterology
+Acute upper gastrointestinal bleeding

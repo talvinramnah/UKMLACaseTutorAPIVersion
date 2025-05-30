@@ -1,0 +1,102 @@
+Corneal foreign body
+Corneal foreign body
+Corneal foreign body is a common ocular presentation that requires prompt diagnosis and management to prevent complications. It occurs when a foreign object, such as metal, wood, or glass, becomes embedded in the cornea. Patients typically present with symptoms of pain, tearing, redness, and
+photophobia
+. A thorough history and physical examination, including slit-lamp biomicroscopy, are essential for identifying the location, size, and depth of the foreign body. Treatment options include removal of the foreign body using a sterile needle or forceps, topical antibiotics, and pain management.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 170.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+A corneal foreign body (CFB) typically presents with a characteristic constellation of symptoms and signs that reflect the corneal injury and the body's inflammatory response.
+Typical Presentation
+Acute onset of unilateral
+ocular pain
+that is often described as a sharp, gritty, or foreign body sensation
+Pain is typically exacerbated by blinking and eye movements
+Excessive lacrimation (tearing) as a protective reflex
+Photophobia
+(light sensitivity) due to ciliary muscle spasm
+Conjunctival injection (redness), particularly in the area adjacent to the foreign body
+Blurred vision if the foreign body is located in the visual axis or if there is significant associated corneal oedema
+Examination Findings
+Visual acuity may be reduced, particularly if the foreign body is centrally located
+Visible foreign material on the corneal surface, which may be metallic, organic, or inorganic
+Metallic foreign bodies often leave a characteristic rust ring that appears as a brownish discolouration surrounding the embedded particle
+Organic materials (wood, plant matter) may be more difficult to visualise and can cause more significant inflammatory reactions
+Corneal epithelial defect at the site of the foreign body
+Can be highlighted with fluorescein staining, appearing as a bright green area under cobalt blue light
+The size and depth of the defect correlate with the severity of symptoms
+Conjunctival injection (redness), typically localised to the area of injury
+Eyelid oedema and periorbital erythema may be present in more severe cases
+Anterior chamber reaction (cells and flare) may be observed in cases with deeper corneal involvement
+Associated Features
+Secondary blepharospasm due to pain and photophobia
+Increased tear production and mucoid discharge
+Corneal oedema surrounding the foreign body
+Subtarsal foreign bodies may cause linear vertical corneal abrasions with each blink
+History of recent outdoor activity, industrial work, or high-velocity projectiles (grinding, hammering, drilling) is often present
+NICE CKS guidance
+notes that a history of high-velocity injuries should raise suspicion for potential intraocular penetration
+Patients may report feeling something enter the eye, followed by persistent discomfort
+The clinical presentation may vary depending on the size, location, composition, and duration of the foreign body. Central corneal foreign bodies typically cause more significant visual symptoms, while peripheral foreign bodies may be better tolerated but still cause discomfort.
+Improve
+Referral criteria
+Indications for referral to
+ophthalmology
+Suspected penetrating eye injury due to high-velocity injuries (e.g. drilling, lawn moving or hammering) or sharp objects (e.g. as glass, knives, pencils or thorns)
+Significant orbital or peri-ocular trauma has occurred.
+A chemical injury has occurred (irrigate for 20-30 mins before referring)
+Foreign bodies composed of organic material (such as seeds, soil) should be referred to ophthalmology as these are associated with a higher risk of infection and complications
+Foreign bodies in or near the centre of the cornea
+Any red flags e.g. severe pain; irregular, dilated or non-reactive pupils; significant reduction in visual acuity.
+Improve
+Management
+A detailed ocular examination using slit-lamp biomicroscopy to confirm the presence and location of the corneal foreign body (CFB), assess corneal integrity and evaluate for any concurrent injuries like hyphema or lens dislocation.
+Anaesthesia
+Topical anaesthesia should be administered prior to removal attempts. Commonly used agents include proparacaine hydrochloride 0.5% or tetracaine hydrochloride 1%, instilled into the affected eye every 3-5 minutes until adequate anaesthesia is achieved.
+Foreign Body Removal Techniques
+Irrigation:
+For superficially embedded CFBs without significant adhesion to the cornea, copious irrigation with sterile saline solution may dislodge the foreign body.
+Cotton-tipped applicator: A moistened cotton-tipped applicator can be used to gently roll over the CFB for its removal in cases where it is loosely adherent.
+Needle technique:
+Utilise a 25-gauge or 27-gauge needle mounted on a syringe under direct visualization using slit-lamp magnification for more embedded CFBs. Approach tangentially while stabilizing the hand against the patient's forehead, and carefully lift the foreign body out of the cornea.
+Jewellers' forceps:
+In cases where the foreign body is protruding from the corneal surface, fine-tipped jewellers' forceps can be used to grasp and remove it under direct visualization.
+Buratto technique (Alger brush):
+For CFBs associated with a rust ring or residual iron deposits, a battery-powered corneal burr (Alger brush) may be employed to polish the corneal surface after removal of the foreign body.
+Post-removal Management
+Antibiotic prophylaxis:
+Topical antibiotic drops such as chloramphenicol 0.5% or ofloxacin 0.3% should be prescribed four times daily for 5-7 days to prevent secondary bacterial infection.
+Cycloplegia:
+In case of significant ciliary spasm or iritis, a cycloplegic agent like cyclopentolate hydrochloride 1% can be prescribed two to three times daily until resolution.
+Analgesia:
+Oral paracetamol or nonsteroidal anti-inflammatory drugs (NSAIDs) may be advised for pain relief if required.
+Tetanus prophylaxis:
+Ensure that the patient's tetanus immunization status is up-to-date and administer a booster dose if necessary, based on current guidelines.
+Follow-up
+Schedule a follow-up appointment within 24-48 hours post-procedure to assess healing progress, evaluate visual acuity, and monitor for complications such as persistent epithelial defects or infectious keratitis. Instruct patients to report any worsening symptoms immediately.
+Referral Criteria
+Consider referral to an ophthalmologist in cases where:
+The CFB cannot be safely removed in primary care.
+There are complications such as full-thickness corneal penetration, intraocular foreign body, or significant corneal scarring.
+The patient has a history of previous ocular surgeries or conditions that may warrant specialist management.
+There is no improvement or worsening of symptoms despite appropriate treatment.
+Improve
+References
+Clinical Knowledge Summaries - Corneal foreign body
+Ophthalmology
+Corneal foreign body

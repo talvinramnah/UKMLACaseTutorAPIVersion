@@ -1,0 +1,270 @@
+Endometriosis
+Endometriosis
+Endometriosis is a chronic inflammatory disease characterised by the growth of ectopic endometrial-like tissue outside of the uterus. These lesions most commonly occur on the ovaries, fallopian tubes and broad ligaments.
+Endometriosis affects an estimated 10% of women in the UK, mainly of reproductive age, and is the second most common gynaecological condition after
+fibroids
+. While it remains unknown exactly why these ectopic endometriotic lesions appear, it is known that the lesions grow in response to oestrogen release much like normal endometrial tissue. As a result of the oestrogen-dependent nature of these lesions, signs and symptoms are often associated with menstruation.
+Common symptoms include chronic
+pelvic pain
+, painful periods and subfertility. Management is based upon the severity of these symptoms with treatment options encompassing pharmacological treatments (analgesia and hormonal) and surgery (to remove endometriotic lesions).
+Last updated: 2
+nd
+May 2023
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Condition
+Relative
+incidence
+Uterine fibroids
+2.00
+Endometriosis
+1
+Pelvic inflammatory disease
+0.30
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact cause of endometriosis remains unclear, with multiple theories proposed to explain its development. Some of the most widely accepted hypotheses include:
+Retrograde menstruation:
+This theory posits that endometrial cells are transported from the uterus to the peritoneal cavity during menstruation via retrograde flow through the fallopian tubes. While retrograde menstruation is observed in most menstruating women, only a subset develops endometriosis, suggesting that other factors contribute to disease development.
+Coelomic metaplasia:
+This hypothesis suggests that peritoneal mesothelial cells undergo metaplastic transformation into endometrial tissue in response to local stimuli, such as inflammation or hormonal factors.
+Lymphatic and vascular dissemination:
+It is proposed that endometrial cells may migrate through the lymphatic and vascular systems to distant sites, contributing to the development of endometriosis in extra-pelvic locations.
+Genetic predisposition:
+Several studies have shown a higher incidence of endometriosis among first-degree relatives, suggesting a genetic component to disease susceptibility. Genome-wide association studies (GWAS) have identified multiple genetic loci associated with endometriosis risk.
+Environmental factors:
+Exposure to environmental toxins, such as dioxins, has been implicated in the development of endometriosis. These toxins may interfere with the immune system, hormone regulation, or cellular adhesion, promoting the establishment and growth of ectopic endometrial tissue.
+Improve
+Pathophysiology
+The pathophysiology of endometriosis is complex and involves several interconnected mechanisms, including:
+Inflammation:
+Ectopic endometrial tissue induces a local inflammatory response, characterized by the recruitment of immune cells, such as macrophages, and the production of pro-inflammatory cytokines, prostaglandins, and growth factors. This inflammatory milieu promotes endometriotic lesion growth, angiogenesis, and the development of fibrosis and adhesions.
+Hormonal dysregulation:
+Endometriotic lesions produce oestrogen via local aromatase activity, creating a self-sustaining hormonal environment that promotes lesion growth and maintenance. Additionally, progesterone resistance is observed in endometriotic tissue, leading to impaired regulation of inflammation and cell proliferation.
+Altered cellular adhesion and invasion:
+Endometriotic cells exhibit increased adhesion and invasive properties, enabling them to establish and grow within the ectopic site. This is mediated by alterations in the expression of adhesion molecules, such as integrins, and increased production of matrix metalloproteinases (MMPs).
+Angiogenesis:
+The growth and maintenance of endometriotic lesions depend on the formation of new blood vessels. Angiogenic factors, such as vascular endothelial growth factor (VEGF), are upregulated in endometriotic tissue and contribute to lesion vascularization.
+Pain:
+The exact mechanisms underlying endometriosis-associated pain are not fully understood but likely involve a combination of local inflammation, nerve infiltration, and central sensitization. Additionally, prostaglandins produced by ectopic endometrial tissue contribute to
+dysmenorrhoea
+and
+pelvic pain
+by inducing uterine contractions and sensitizing peripheral nociceptors.
+Endometriotic lesions function much like normal endometrial tissue, responding to oestrogen release in the proliferative stage of the menstrual cycle by growing and being shed during menstruation. Due to their dependence on oestrogen to grow, endometrial lesions mainly affect women of reproductive age and are rarely found in childhood or after menopause, when oestrogen from the menstrual cycle is no longer present.
+The symptoms of chronic pelvic pain and period pain likely come from these endometriotic lesions growing and shedding. This shedding causes pelvic irritation, particularly in the perineum/ bottom of the perineal cavity where the blood collects. Lesions in contact with the bowel, bladder or ureters lead to bowel and
+urinary symptoms
+which are precipitated by the same process.
+Subfertility and infertility are key concerns with endometriosis. The pathophysiology is not fully understood however current theories suggest that endometriotic lesions cause subfertility via:
+The release of cytokines causing acute and chronic inflammation in the fallopian tubes and ovaries, as a result these tissues become scarred and fibrosed, rendering them unable to function
+The formation of adhesions and fibrosis due to lesions between the uterus, ovaries, fallopian tubes and surrounding structures leading to a distortion of the pelvic anatomy
+Ovulatory dysfunction. This is thought to occur due to the formation of endometriomas, chronic inflammation or the surgical removal of deep-rooted endometriomas, which has been linked to the destruction of primordial follicles and scarring of the ovaries
+Improve
+Clinical features
+Endometriosis is thought to affect an estimated 10% of women of reproductive age (15-49 yrs old) in the UK. These women can present with a range of different features.
+The 2017 National Institute for Health and Care Excellence (NICE) guidelines and 2014 European Society of Human Reproduction and Embryology (ESHRE) guidelines state that the clinical features associated with endometriosis include:
+Chronic
+pelvic pain
+lasting more than 6 months
+Cyclical pelvic symptoms
+i.e. symptoms that may only present or worsen during menstruation, including
+Cyclical pelvic/period pain (
+dysmenorrhoea
+) - typically beginning 1-2 days before menstruation. This is one of the most common symptoms
+Cyclical GI symptoms - painful defecation/ bowel movements
+Cyclical
+urinary symptoms
+- pain passing urine (dysuria), blood in the urine (haematuria)
+Depending on the severity of the disease these symptoms may or may not be present during the rest of the menstrual cycle
+Dyspareunia
+(deep pain during or after sexual intercourse)
+Subfertility
+in up to 30-50% of women
+It is important to consider a diagnosis of endometriosis in women presenting with at least one of the above signs or symptoms and to take full history to elicit the severity and scope of these symptoms.
+Following a detailed history, it is important to perform a pelvic and/or abdominal examination to look for any physical signs of endometriosis. The key positive findings are detailed below:
+Pelvic examination
+Potential positive findings:
+Painful examination (from insertion of equipment)
+Tenderness in the posterior vaginal fornix
+Reduced organ mobility
+Large cysts/ endometriomas felt in adnexa
+Abdominal examination (indicated either as an additional examination or if pelvic examination is refused)
+Potential positive findings:
+Large cysts/ endometriomas may be felt on palpation
+As many patients may not have obvious physical signs, further imaging is often required based on a suggestive history and examination.
+It is also prudent to note that some patients with mild symptoms may not choose to present at all, and may later be diagnosed with endometriosis based on incidental findings on scans and during surgery.
+Improve
+Referral criteria
+Refer to gynaecology if:
+Initial management in primary care (analgesia and hormonal treatments) is not effective, not tolerated or is contraindicated
+Pelvic signs of endometriosis are present i.e. on examination or USS
+Persistent severe symptoms suggestive of endometriosis
+If fertility is a priority for a patient who is not responding to pain management. These patients should be managed in a multidisciplinary team
+Refer women to a specialist endometriosis service (endometriosis centre) if:
+They have suspected or confirmed deep endometriosis involving the bowel, bladder or ureter. This type of endometriosis is much more difficult to treat
+Refer to a paediatric and adolescent gynaecology service, gynaecology service or specialist endometriosis service (endometriosis centre), depending on local service provision:
+Young women (aged 17 and under) with suspected or confirmed endometriosis
+Monitoring
+Consider gynaecological outpatient follow-up for women with confirmed endometriosis, particularly women who choose not to have surgery, and if they have:
+Deep endometriosis involving the bowel, bladder or ureter or
+1 or more endometrioma that is larger than 3 cm
+Improve
+Investigations
+Endometriosis is a condition that is difficult to diagnose definitively without invasive methods (laparoscopic surgery) to visualise the lesions. In practice there is a hierarchy of investigation from history and examination to transvaginal USS/MRI to diagnostic laparoscopy.
+For the majority of patients who experience mild/moderate symptoms (predominantly managed in primary care) surgery is not indicated, for these patients diagnosis can be made on strong clinical suspicion from the history or evidence from the imaging.
+The small proportion of patients who show extensive disease or severe symptoms based upon their USS and history/examination will then progress to surgery. Laparoscopic surgery is the gold standard investigation for endometriosis, which confirms it's presence without a doubt, for these patients it acts as diagnosis and treatment for severe disease.
+In this section, we will focus on the investigations for endometriosis set out by the 2017 NICE guidelines and the key findings that are compatible with a positive diagnosis, these are shown below:
+History and examination
+Take a full history and perform a pelvic and/or abdominal examination to elicit symptoms
+(see 'Clinical features' section).
+Imaging modalities
+Transvaginal ultrasound
+First line imaging investigation
+Used to investigate suspected endometriosis through identification of:
+Endometriomas (endometrial cysts on the ovary), superficial peritoneal lesions, and deep endometrial lesions involving the bowel, bladder or ureters
+The limitation of transvaginal USS is that it is best used for identifying deep endometrial lesions (usually only present in about 1/5 of women with endometriosis) and large endometriomas. Therefore the majority of women with more superficial lesions (which are much more difficult to visualise) often receive a negative test result
+Abdominal ultrasound
+Used if transvaginal ultrasound is refused
+Pelvic MRI
+Not used as primary investigation but may be considered to assess the extent of deep endometriosis involving the bowel, bladder or ureters
+Do not exclude endometriosis if the abdominal or pelvic examination, ultrasound or MRI are normal. If symptoms continue or there is sufficient clinical suspicion, consider referral for further investigation.
+Diagnostic laparoscopy
+Definitive gold standard for diagnosis and treatment
+Involves systematic inspection of the pelvis and biopsy of any suspected endometriotic lesions (to confirm diagnosis of endometriosis and/or exclude malignancy)
+Surgical removal of these lesions acts as treatment leading to the reduction of symptoms and improving fertility
+Findings include: a fixed retroverted uterus, endometrial cysts and chocolate cysts (endometriomas), adhesions, thickening behind uterus, peritoneal deposits on the ovary, pelvic ligaments, bowel etc
+If a full laparoscopy is performed and is normal, this excludes endometriosis and an alternative diagnosis and management should be offered
+Additional tests:
+Serum CA125
+This is not used to diagnose endometriosis. A raised serum CA125 (> 35 IU/ml or more) may be consistent with having endometriosis however endometriosis can still occur despite a normal serum CA125
+Delayed diagnosis is a significant problem for women with endometriosis. Delays of up to 4 to 10 years can occur between first reporting symptoms and confirmation of the diagnosis as many women perceive symptoms to be part of their normal menstrual cycle.
+Improve
+Differential diagnosis
+The key features of endometriosis are symptoms of
+dysmenorrhoea
+,
+pelvic pain
+and subfertility and pelvic findings include the presence of superficial lesions, deep lesions and endometriomas. There are several conditions which can present similarly and are important to exclude during diagnosis.
+The most common differentials are detailed below, with key differentials including description of their positive (+) traits shared with endometriosis and their negative (-) traits that distinguish them from endometriosis:
+For patients with dysmenorrhoea (most common symptom of endometriosis):
+Primary dysmenorrhoea - recurrent painful periods:
+(+) pelvic pain (-) nil pelvic findings on examination or imaging
+Secondary dysmenorrhoea - recurrent painful periods due to secondary reproductive disorders:
+Adenomyosis (presence of endometrial tissue within the myometrium of the uterus):
+(+) pelvic pain (-) USS/MRI detect endometrial tissue in myometrium only, nil pelvic findings outside of uterus, presence of enlarged boggy uterus
+Pelvic inflammatory disease
+(PID):
+(+) pelvic pain, pelvic/fallopian tube inflammation on USS, adhesions (-) fever, abnormal cervical discharge, positive chlamydia/ gonorrhoea swab
+Cervical stenosis
+Fibroids
+Ovarian cyst:
+(+) pelvic pain, cyst on USS (-) simple follicular cyst not chocolate cyst/ endometrioma, unlikely to cause adhesions or other deposits in pelvic cavity
+Endometrial polyps
+For patients with chronic pelvic pain:
+Ovarian cyst
+Polycystic ovarian syndrome (PCOS):
+(+) pelvic pain, subfertility (-) irregular & less frequent periods, multiple cysts on USS, presence of simple follicular cysts rather than chocolate cysts/ endometriomas, nil other pelvic findings
+PID
+Fibroids
+Adenomyosis
+Adhesions secondary to other abdominal/pelvic surgery
+Irritable bowel syndrome (IBS)
+Inflammatory bowel disease (IBD)
+Interstitial cystitis:
+(+) suprapubic pain,
+urinary symptoms
+(-) negative findings on imaging, positive urine dipstick
+For patients with subfertility:
+PCOS
+Fibroids
+Adhesions secondary to other abdominal/pelvic surgery
+Ovarian/ Colon cancer
+Whilst not the most common differential, ovarian cancer and colon cancer are important to exclude after evidence is found of growths and adhesions in the pelvis. Patients with these cancers will also present with discomfort in the pelvis and non-specific symptoms of bloating and altered urinary frequency, advanced cancer can also present with pain during sex or even affect periods. One of the key differences between cancer and endometriosis is the age of presentation, ovarian and colon cancer tend to present most commonly in menopausal/post-menopausal women, and thus endometriosis is significantly less likely in these patients. It is however important to remember that ovarian and colon cancer can still occur in younger women and so it is essential to investigate these lesions thoroughly when found.
+Improve
+Staging
+The ASRM classification system, formerly known as the revised American Fertility Society (rAFS) system, is the most widely accepted staging system for endometriosis. It is primarily based on the extent and location of endometriotic lesions, adhesions, and ovarian endometriomas. The system assigns points for various disease manifestations, which are then totalled to categorize the patient into one of four stages:
+Stage I:
+Minimal disease is characterized by isolated implants and no significant adhesions.
+Stage II:
+Mild endometriosis consists of superficial implants that are less than 5 cm in aggregate and are scattered on the peritoneum and ovaries. No significant adhesions are present.
+Stage III:
+Moderate disease exhibits multiple implants, both superficial and deeply invasive. Peritubal and periovarian adhesions may be evident.
+Stage IV:
+Severe disease is characterized by multiple superficial and deep implants, including large ovarian endometriomas. Filmy and dense adhesions are usually present.
+While the ASRM classification system is widely used, it has several limitations:
+Lack of correlation with symptoms:
+The ASRM stage does not consistently correlate with the severity of symptoms, such as pain or infertility. Patients with minimal disease may experience severe pain, while those with advanced disease may be asymptomatic.
+Incomplete assessment:
+The system does not account for certain disease manifestations, such as bowel or bladder involvement, extrapelvic endometriosis, or adenomyosis. Additionally, it does not consider the histological subtype or hormonal activity of endometriotic lesions.
+Intraoperative assessment:
+The ASRM staging requires surgical visualization, which may not always be feasible or appropriate, particularly in patients with mild symptoms or those seeking conservative management.
+Improve
+Management
+In this section, we will discuss the different forms of management for endometriosis, when to refer, who to monitor and what extra support can be offered. This section is based upon 2017 NICE guidelines, NICE and BNF treatment summaries for endometriosis.
+The management of endometriosis can be divided into pharmacological (analgesic and hormonal treatment) and surgical treatments. Analgesia aims to relieve symptoms of
+pelvic pain
+, hormonal treatment suppresses oestrogen release to reduce symptoms (utilising the oestrogen-dependent nature of the endometriotic lesions), and surgical treatment aims to remove or destroy lesions and improve fertility. Surgery is the only potentially curative management of the options listed.
+Treatment is offered to those with suspected, confirmed or recurrent endometriosis. The choice of treatment depends on severity of symptoms and the patient's choices around contraception and fertility.
+Analgesia
+Used to relieve symptoms of
+dysmenorrhoea
+, chronic pelvic pain, dysuria, painful bowel movements
+A short trial (3 months) of paracetamol or an NSAID alone or in combination should be considered for first-line management of endometriosis-related pain
+If pain relief is inadequate, consider hormonal treatments or referral to secondary care for further assessment
+Hormonal treatment
+Aims to reduce pain by suppressing ovarian function and oestrogen release, reducing the heaviness of periods and thus limiting growth and activity of the lesions. This also acts as a contraceptive, which should be discussed with the patient beforehand
+A combined oral contraceptive (oestrogen + progesterone) or a progestogen only contraceptive (pill, implant, IUS, etc.) should be offered
+If this fails or is not acceptable to the patient consider referral to secondary care for further assessment
+Other hormonal treatments are available outside of the NICE guidelines (at the discretion of specialist providers). These include GnRH agonists and antagonists and androgenic agents. GnRH agonists can be used for a short period to halt the menstrual cycle which can be used to relieve symptoms. This can be an option for women who have failed other hormonal treatment and do not wish to have surgery
+Laparoscopic surgery
+This is the gold standard treatment that can be used to manage symptoms and is the only form of treatment that may improve fertility
+Involves systematic inspection of pelvis for lesions (diagnostic laparoscopy), with gynaecological surgeons subsequently removing these lesions in order to improve symptoms. Techniques used include excision and ablation
+Patients with extensive deep endometriosis involving the bowel, bladder or ureter may require additional pre and post-surgical treatment. This includes:
+Pelvic MRI, to map lesions before surgery
+GnRH agonists, for 3-6 months before surgery to shrink lesions
+Simple hormonal treatment after deep surgery to prolong the beneficial outcomes and manage symptoms
+Hysterectomy
+Abdominal hysterectomy with or without bilateral salpingo-oophorectomy is considered to be the most effective and last-line treatment available for treating the symptoms of endometriosis, however it is important to recognise that this is a significant operation with long-lasting effects
+Hysterectomy may be indicated in patients with chronic debilitating symptoms or adenomyosis where all other treatments have been unsuccessful and the patient does not want to retain fertility
+Workup for this treatment must include specific discussion of effects on fertility, possibility of early menopause, the (minor) potential for recurrence of lesions and the impact on future health
+Support
+Endometriosis is a long-term condition which can have complex psychological, sexual, social and physical effects. It is important to recognise the need for long-term support and to assess individuals needs and desires particularly in relation to fertility, pain management and the impact on daily activities. Provide information for patients and offer referral to local support groups and charities.
+Improve
+Complications
+Endometriosis is a chronic condition which can result in a number of complications over a patient's lifetime. Patients with moderate to severe endometriosis are more likely to experience complications. Physicians should be aware of the following complications which have been organised into the groups below:
+Complications which arise from the presence of the endometriotic lesions alone. These include:
+Infertility, as explained in the 'Pathophysiology' section
+Adhesions, due to the 'sticky' nature of endometriotic lesions, leading to inflammation and obstruction of fallopian, GI, and ureteric tracts
+Endometrioma/ chocolate cyst rupture, leading to acute pain and peritoneal signs
+Complications which may arise as damage secondary to laparoscopic removal of the endometriotic lesions, these include:
+Infection
+Bleeding
+Perforation
+Chronic and acute pain
+Failure to remove all lesions
+Recurrence of lesions after they have been removed
+Further damage to fertility, due to damage of the reproductive organs during surgery or secondary complications such as adhesions
+Complications which can arise during pregnancy, these include:
+Early miscarriage
+Endometrioma/ chocolate cyst rupture
+Improve
+Prognosis
+Patients with endometriosis can present with a wide spectrum of symptoms. While most will present with mild symptoms that respond readily to management in primary care, a minority experience debilitating symptoms on a daily basis.
+While the exact pattern of disease is relatively unknown, it does appear that many women experience a stable or regressive pattern of symptoms throughout their fertile years with only a minority of women experiencing severe or progressive symptoms. The most severely affected patients obtain limited relief from surgery and live with the psychological and surgical complications of their disease for the rest of their lives. This is in stark contrast to the majority of women, who are able to control their symptoms in primary care, allowing them to live a normal life. Despite this, it is important to note that statistically 30-50% of women with endometriosis will experience some form of subfertility or infertility and so various options for fertility treatment should be offered.
+Regardless of the severity of symptoms, the majority of sufferers will experience remission of their symptoms after the menopause. This is due to the reduction in baseline oestrogen levels in the body after menopause and the end of the menstrual cycle. In a minority of women with severe disease, adhesions and anatomical distortions of the pelvic cavity may remain after the menopause and may continue to cause symptoms.
+Improve
+References
+NICE - 2017 Endometriosis: diagnosis and management
+Clinical Knowledge Summaries - Endometriosis guidelines
+UKMLA condition
+Endometriosis

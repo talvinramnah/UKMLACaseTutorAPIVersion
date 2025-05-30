@@ -1,0 +1,113 @@
+Beta-thalassaemia trait
+Beta-thalassaemia trait
+Beta-thalassemia trait, which is also sometimes referred to as beta-thalassemia minor, means a patient is a carrier of beta-thalassemia but does not have the disease itself. This is an inherited blood disorder, present from birth, affecting the formation of haemoglobin.
+Compared to beta-thalassemia, the symptoms are much milder and have significantly fewer complications.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Beta-thalassaemia trait
+1
+Sickle-cell anaemia
+0.50
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Beta-thalassemia trait is inherited genetically. In order for a patient to have beta-thalassemia trait, at least one parent must be have beta-thalassemia or beta-thalassemia trait themselves. Inheritance of thalassemia is equal for men and women. Globally, thalassemia is the most common recessive disease, with approximately 1-5% of the world's population a carrier for a thalassemia mutation.
+Certain ethnic backgrounds are at greater risk:
+Mediterranean, including Italy, Greece, Cyprus, Turkey
+South Asia, including India, Bangladesh, Pakistan
+Middle East
+China and Southeast Asia
+Improve
+Pathophysiology
+Beta-thalassemia is a form of inherited haemoglobinopathy caused by mutations in the
+HBB
+gene on chromosome 11. This mutation can be due to either deletion or non-deletion.
+The inheritance of beta-thalassemia is autosomal recessive.
+This means that affected patients will either have homozygous or heterozygous expression of the mutated gene:
+Heterozygous (one affected gene): beta-thalassaemia trait
+Homozygous (two affected genes): beta-thalassemia intermedia or major
+Haemoglobin is made up of two alpha-proteins and two beta-proteins. Beta-thalassemia trait is caused by a genetic mutation in the beta-protein. Patients with beta-thalassemia trait have both normal haemoglobin A and the abnormal beta-thalassemia haemoglobin. Due to inadequate production of structurally normal beta globin, there are excess alpha globin chains.
+This resultant imbalance in the haemoglobin proteins causes in anaemia (due to a greater rate of haemolysis), slower rate of erythropoiesis, and less haemoglobin made.
+Improve
+Clinical features
+Unlike patients with beta-thalassemia major, patients with beta-thalassemia trait usually do not have any symptoms or signs on examination.
+Patient with beta-thalassemia trait will have microcytic and hypochromic anaemia, which can become symptomatic, manifesting as fatigue and dyspnoea, affecting quality of life. Combined with the dilutional anaemia traditionally seen antenatally, this can be particularly apparent in pregnancy,  when many cases of beta-thalassemia trait are discovered on screening.
+During pregnancy and labour, patients with beta-thalassemia trait have:
+25% increased rate of anaemia
+250% increased rate of requiring blood transfusions
+There are no other associated health complications. Beta-thalassemia trait does not progress to beta-thalassemia major.
+Improve
+Investigations
+Blood tests for beta-thalassemia trait are most commonly initiated via the NHS Sickle Cell and Thalassemia (SCT) Screening Programme.  Within this programme, screening for beta-thalassemia major and beta-thalassemia trait is routinely offered to:
+Pregnant women, as part of antenatal screening
+Expectant fathers, when antenatal testing screen shows the mother has beta-thalassemia trait
+The tests for antenatal screening are dependent on whether the trust in which the patient is booked is high or low risk. A trust is 'high risk' if 2% or more of antenatal booking bloods screen positive, whereas in a 'low risk' trust, <1% of the booking bloods screen positive.
+In high risk trusts, all women who have accepted screening are tested for haemoglobin variants and thalassemia.
+In low risk trusts, screening for thalassemia is based on the FBC. A Family Origin Questionnaire (FOQ) is also used to determine the need for partner testing.
+Patients can also request testing for beta-thalassemia trait outside of antenatal screening. This can be requested through their GP surgery or some SCT centres allow patients to self-refer directly. This is available for both male and female patients and may be useful for patients who have a family history of thalassemia or who already know their partner has thalassemia.
+In beta-thalassemia trait, FBC will show a
+microcytic anaemia
+, with:
+Normal to moderately low Hb
+Low MCH, usually 19-23 pg
+Low MCV, usually 60-70 fL
+Haemoglobin electrophoresis with hemoglobin F and A2 quantitation is used to make a diagnosis of beta-thalassemia trait. Levels of haemoglobin alpha 2 gene (HbA2) are higher in beta-thalassemia carriers, at 3.6-7%, whereas in an unaffected patient, HbA2 levels are between 2.2-3.2%.
+Improve
+Differential diagnosis
+Beta-thalassemia trait can present with some similarity with other haematological conditions causing anaemia.
+Possible differential diagnoses:
+Iron deficiency anaemia :
+Similarities
+:
+microcytic anaemia
+(low Hb, low Hct)
+Differences
+: acquired condition, due to lack of iron. No structural abnormality. Normal levels of HbA2
+Beta-thalassemia major :
+Similarities
+: same genetic mutation on HBB gene on chromosome 11
+Differences
+: homozygous for mutation. More likely to be symptomatic, requiring medical intervention. Shortened life expectancy
+Sickle cell disease
+:
+Similarities
+: autosomal recessive haemoglobinopathy that presents as anaemia. Both are tested for in pregnancy. If patient who is carrier for beta thalassemia or sickle cell has a child with a partner who is another haemoglobinopathy carrier, can cause hereditary complications.
+Differences
+: Sickle cell disease is caused by abnormal haemoglobin S formation. Sickle cell disease has significant complications including painful sickle cell crises and thromboembolism. Anaemia in sickle cell disease tends to be far more severe. Sickle cell disease is tested as part of neonatal heel prick. Different aetiology as sickle cell disease is now more common in patients from African and Caribbean backgrounds.
+Improve
+Management
+The majority of patients with beta-thalassemia trait do not require any treatment, and there are no specific treatment guidelines for beta-thalassemia trait.
+If there are concerns about symptomatic anaemia, ferritin levels should be checked to assess whether iron supplementation is required or safe.
+If ferritin levels are low, start iron supplementation
+If ferritin levels are normal, patients should be advised not to take iron supplements due to the risk of iron overload and the lack of therapeutic benefit
+The government-run Sickle Cell and Thalassemia (SCT) Screening Programme recommends genetic counselling and paternal/partner screening in patients with beta-thalassemia trait.
+As well, RCOG Green-top Guidelines recommend that if the male partner of a patient with thalassemia is a carrier of any haemoglobinopathy (including having beta-thalassemia trait itself) that could adversely interact with the female partner's genotype, genetic counselling should be offered.
+Improve
+Complications
+Mild anaemia may be a complication of beta-thalassemia trait.
+Commence iron supplementation if there is evidence of iron deficiency,
+If there is no iron deficiency, do not start iron supplements, as otherwise there is a risk of iron overload.
+It is important to reassure patients that beta-thalassemia trait will not progress to beta-thalassemia.
+Although referral for genetic counselling is recommended to consider risk of any offspring having thalassemia, beta-thalassemia trait does not affect a patient's ability to conceive.
+Improve
+References
+Patient.info - Thalassaemia review
+Rare Disease Video Library - NORD - Beta-thalassaemia
+Haematology
+Beta-thalassaemia trait

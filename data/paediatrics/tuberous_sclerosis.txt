@@ -1,0 +1,16 @@
+Tuberous sclerosis
+Tuberous sclerosis
+Tuberous sclerosis complex (TSC) is a rare, multisystem, genetic disorder characterised by the growth of numerous benign tumours in different body parts. It's an autosomal dominant condition caused by mutations in the
+TSC1
+or
+TSC2
+genes which encode for hamartin and tuberin respectively. These proteins form a complex that suppresses mTOR signalling pathway, regulating cell growth and proliferation.
+Clinical manifestations are diverse and can involve multiple systems including the skin, brain, kidneys, lungs, heart and eyes. Neurological features include epilepsy, intellectual disability and autism. Cutaneous features encompass facial angiofibromas, shagreen patches and ungual fibromas. Renal angiomyolipomas are common while pulmonary lymphangioleiomyomatosis predominantly affects women.
+Diagnosis is based on clinical criteria or genetic testing. Management involves multidisciplinary care to address various system involvements with pharmacotherapy focusing on mTOR inhibitors like everolimus.
+Last updated: 1
+st
+January 2025
+References
+Patient.info - Tuberous sclerosis review
+Paediatric neurology
+Tuberous sclerosis

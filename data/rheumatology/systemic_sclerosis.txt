@@ -1,0 +1,194 @@
+Systemic sclerosis
+Systemic sclerosis
+Systemic sclerosis (SSc), also known as scleroderma, is a chronic, autoimmune connective tissue disease characterized by fibrosis of the skin and internal organs, vasculopathy, and immune system dysregulation. The exact aetiology of SSc is unknown, but genetic, environmental, and immunological factors are thought to play a role in its pathogenesis. SSc is classified into two main subtypes: limited cutaneous systemic sclerosis (lcSSc) and diffuse cutaneous systemic sclerosis (dcSSc), which differ in the extent of skin involvement and the pattern of internal organ involvement.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in females 4:1
+Condition
+Relative
+incidence
+Raynaud's disease
+50.00
+Systemic lupus erythematosus
+2.50
+Systemic sclerosis
+1
+Mixed connective tissue disease
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+The pathophysiology of SSc is complex and involves three main processes:
+Vascular dysfunction: Endothelial cell injury and activation lead to vascular dysfunction, resulting in vasospasm, intimal proliferation, and obliteration of the vascular lumen. This process contributes to the development of
+Raynaud's phenomenon
+, digital ulcers, and pulmonary arterial hypertension.
+Immune dysregulation: Abnormal activation of the innate and adaptive immune systems, including T cells, B cells, and antigen-presenting cells, results in the production of autoantibodies and pro-inflammatory cytokines, which contribute to tissue damage and fibrosis.
+Fibrosis: Activation of fibroblasts and their differentiation into myofibroblasts lead to excessive deposition of extracellular matrix components, including collagen, in the skin and internal organs, causing tissue fibrosis and organ dysfunction.
+Improve
+Classification
+Systemic sclerosis (SSc) is typically divided into two main categories:
+limited cutaneous systemic sclerosis (lcSSc)
+and
+diffuse cutaneous systemic sclerosis (dcSSc)
+. These classifications are primarily based on the extent and distribution of skin involvement.
+Limited cutaneous systemic sclerosis (lcSSc):
+In lcSSc, skin thickening is confined to areas distal to the elbows and knees. It can also involve the face. This form of SSc often presents with
+Raynaud's phenomenon
+years before other symptoms appear. Internal organ involvement, when it occurs, tends to be less severe than in dcSSc. The risk of developing pulmonary arterial hypertension is significant in this group.
+associated with anti-centromere antibodies
+a subtype of limited systemic sclerosis is CREST syndrome:
+Calcinosis
+Raynaud's phenomenon
+oEsophageal dysmotility
+Sclerodactyly
+Telangiectasia
+Diffuse cutaneous systemic sclerosis (dcSSc):
+This variant is characterised by skin thickening that extends proximal to the elbows and knees. It can affect a large area of the body and progress rapidly. Internal organ involvement tends to be more severe, with a higher risk of renal crisis, interstitial lung disease, and cardiac involvement. The onset of Raynaud's phenomenon and other symptoms usually occur simultaneously or within a short timeframe.
+associated with anti scl-70 antibodies
+In addition to these primary categories, some patients may present with characteristics that do not fit neatly into either category; these cases are often referred to as having
+overlap syndrome
+.
+A further classification system divides SSc into five subsets: diffuse cutaneous, limited cutaneous, sine scleroderma, overlap syndrome, and undifferentiated connective tissue disease. This scheme takes into account both clinical features and autoantibody profiles.
+The
+Medsger Disease Severity Scale
+, which assesses nine organ systems individually on a scale of 0 (no involvement) to 4 (end-stage disease), is also commonly used in clinical practice to assess disease severity and monitor progression.
+Improve
+Clinical features
+The clinical manifestations of SSc are diverse and can involve multiple organ systems. Common features include:
+Skin:
+Thickening, tightening, and hardening of the skin, which typically starts in the fingers and progresses proximally.
+Raynaud's phenomenon
+:
+Vasospasm-induced color changes (pallor, cyanosis, and erythema) in the fingers and toes in response to cold or stress.
+Gastrointestinal involvement:
+Dysphagia, gastroesophageal reflux, and motility disorders affecting the esophagus, stomach, and intestines.
+Pulmonary involvement:
+Interstitial lung disease (ILD) and pulmonary arterial hypertension (PAH) are common complications, which can cause shortness of breath, cough, and chest pain.
+Renal involvement:
+Scleroderma renal crisis, characterized by rapidly progressive renal failure and malignant hypertension, is a life-threatening complication of SSc.
+Musculoskeletal involvement:
+Joint pain, stiffness, and contractures due to fibrosis of the joint capsules and tendons.
+Improve
+Investigations
+Autoantibodies:
+The presence of specific autoantibodies, such as anti-topoisomerase I (anti-Scl-70), anticentromere, and anti-RNA polymerase III, can support the diagnosis of SSc and provide information about disease subtype and prognosis.
+anti-scl-70 antibodies associated with diffuse cutaneous systemic sclerosis
+anti-centromere antibodies associated with limited cutaneous systemic sclerosis
+Nailfold capillaroscopy:
+Abnormal capillary patterns, including dilatation, avascular areas, and neoangiogenesis, are suggestive of SSc.
+Imaging studies:
+High-resolution computed tomography (HRCT) can help detect interstitial lung disease, while echocardiography can be used to screen for pulmonary arterial hypertension.
+Skin biopsy:
+Although not routinely performed, a skin biopsy showing dermal fibrosis and collagen deposition can provide histopathological evidence of SSc.
+Improve
+Differential diagnosis
+A number of the signs and symptoms of systemic sclerosis are common with other connective tissue disorders, including
+mixed connective tissue disease
+and undifferentiated connective tissue disease. Similarities and differences are shown in the tables below:
+Clinical features
+Systemic sclerosis
+Mixed connective tissue disease
+Undifferentiated connective tissue disease
+Arthritis
++
++
++
+Telangiectasia
++
++
+-
+Oesophageal dysmotility
++
++
+-
+Pulmonary hypertension
++
++
+-
+Raynaud's phenomenon
++
+-
++
+Sclerodactyly
++
++
+-
+Renal disease
++++
++
+-
+Lupus-like rashes
+-
++
++
+Autoantibodies
+ANA
+, Anti-centromere, Anti-topoisomerase 1
+ANA, Anti-RNP antibody
+ANA
+Improve
+Management
+Treatment of SSc focuses on managing symptoms, preventing complications, and addressing organ involvement. Management strategies include:
+Vasodilator therapy: Calcium channel blockers, phosphodiesterase-5 inhibitors, and prostacyclin analogues can help manage
+Raynaud's phenomenon
+and digital ulcers, as well as pulmonary arterial hypertension.
+Immunosuppressive therapy: Corticosteroids, methotrexate, mycophenolate mofetil, and cyclophosphamide can be used to reduce inflammation and slow the progression of fibrosis, particularly in cases of interstitial lung disease and rapidly progressive skin involvement.
+Gastrointestinal management: Proton pump inhibitors and prokinetic agents can help manage gastroesophageal reflux and motility disorders, while dietary modifications may be necessary for malabsorption or constipation.
+Renal management: Prompt treatment with angiotensin-converting enzyme inhibitors (ACEIs) is crucial in the management of scleroderma renal crisis.
+Physical therapy and occupational therapy: These interventions can help maintain joint mobility, improve muscle strength, and address functional limitations.
+Psychological support: Providing counselling and support for patients with SSc is essential, as the disease can have a significant impact on mental health and quality of life.
+There is no cure for SSc, and management requires a multidisciplinary approach involving rheumatologists, dermatologists, pulmonologists, nephrologists, and other specialists to address the complex and diverse manifestations of the disease.
+Improve
+Prognosis
+The prognosis of SSc is variable, influenced by the subtype of disease, organ involvement, and other individual patient factors. Understanding the determinants of prognosis can guide clinical management and patient counselling.
+Disease Subtype and Prognosis
+Limited cutaneous SSc (lcSSc):
+Formerly known as CREST syndrome (Calcinosis,
+Raynaud's phenomenon
+, Oesophageal dysmotility, Sclerodactyly, and
+Telangiectasia
+), patients with lcSSc generally have a more favourable prognosis compared to those with diffuse cutaneous SSc. However, they remain at risk for pulmonary arterial hypertension (PAH), a significant cause of mortality.
+Diffuse cutaneous SSc (dcSSc):
+Associated with rapid skin thickening and greater risk of internal organ involvement, especially interstitial lung disease (ILD) and renal crisis. The prognosis is generally less favourable in this subtype, particularly if diagnosed at a younger age or with rapid skin progression.
+Organ Involvement and Mortality
+Pulmonary Disease:
+ILD and PAH are the leading causes of death in SSc. Early detection and intervention can improve outcomes.
+Interstitial Lung Disease (ILD):
+Often occurs in dcSSc. Progressive fibrosis can lead to respiratory failure.
+Pulmonary Arterial Hypertension (PAH):
+More common in lcSSc. It carries a high mortality risk, especially if not detected and treated early.
+Scleroderma Renal Crisis:
+Characterised by sudden-onset hypertension and renal impairment. It's a medical emergency and is associated with significant morbidity and mortality, though outcomes have improved with the use of ACE inhibitors.
+Cardiac involvement:
+Myocardial fibrosis, arrhythmias, and heart failure can be seen and are associated with an increased risk of death.
+Gastrointestinal involvement:
+Oesophageal dysmotility, gastroparesis, and intestinal pseudo-obstruction can cause significant morbidity but rarely directly cause mortality.
+Laboratory Predictors of Prognosis
+Antibodies:
+Anti-Scl-70 (anti-topoisomerase I) is associated with ILD, while anti-centromere antibodies are associated with PAH. The presence of RNA polymerase III antibodies increases the risk of scleroderma renal crisis.
+Other Determinants of Prognosis
+Age at diagnosis:
+Early age at diagnosis, particularly in dcSSc, is associated with a more aggressive disease course.
+Rate of skin involvement:
+Rapid skin thickening in dcSSc is a poor prognostic factor.
+Gender:
+Males with SSc, though less frequently affected, often have a worse prognosis than females.
+Survival Rates
+Historically, the survival rate for SSc was significantly reduced compared to the general population. However, advancements in early diagnosis, monitoring, and treatment have improved outcomes. Recent data suggests 10-year survival rates of over 70%, though this varies based on the factors mentioned above.
+Improve
+References
+DermNet NZ - Systemic sclerosis
+Rheumatology
+Systemic sclerosis

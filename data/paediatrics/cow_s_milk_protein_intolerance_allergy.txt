@@ -1,0 +1,148 @@
+Cow's milk protein intolerance/allergy
+Cow's milk protein intolerance/allergy
+Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all children and typically presents in the first 3 months of life in formula-fed infants, although rarely it is seen in exclusively breastfed infants.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 33.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Infantile
+colic
+5.45
+Cow's milk protein intolerance/allergy
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Classification
+Types of Cow’s Milk Protein Allergy/Intolerance
+Cow’s milk protein allergy/intolerance (CMPI/CMPA) is classified according to the underlying immune mechanism and clinical presentation.
+The two principal categories are:
+IgE-mediated CMPA:
+Immediate hypersensitivity reactions, typically occurring within minutes to two hours of exposure. These are mediated by immunoglobulin E antibodies directed against cow's milk proteins.
+Non-IgE-mediated CMPA:
+Delayed hypersensitivity reactions, usually manifesting several hours to days after ingestion. These involve cell-mediated immune responses without detectable IgE antibodies.
+Mixed-type CMPA:
+Some patients exhibit features of both IgE- and non-IgE-mediated mechanisms.
+Clinical Classification
+The clinical spectrum can be further subdivided based on symptom onset and organ systems involved:
+Acute-onset (immediate) reactions
+: Characterised by urticaria, angioedema,
+vomiting
+, or anaphylaxis soon after ingestion; typical of IgE-mediated disease.
+Delayed-onset (non-immediate) reactions
+: Manifest predominantly with gastrointestinal symptoms such as
+diarrhoea
+,
+constipation
+, or proctocolitis, often seen in non-IgE mediated cases.
+Mixed presentations
+: May include both rapid cutaneous/respiratory symptoms and delayed gastrointestinal symptoms.
+NICE Guideline Classification
+According to
+NICE Clinical Knowledge Summaries (CKS): Food allergy in children
+, classification into IgE- versus non-IgE-mediated forms is essential as it guides investigation and management pathways.
+The distinction between IgE- and non-IgE-mediated allergy is the most clinically relevant classification for primary care.
+Non-allergic cow's milk intolerance (e.g. due to lactase deficiency) should not be classified under CMPA.
+Improve
+Clinical features
+In a stereotypical presentation of cow's milk protein intolerance, the patient is usually an infant presenting with symptoms such as persistent
+diarrhoea
+,
+vomiting
+, failure to thrive and abdominal discomfort. These symptoms often develop within the first few weeks or months of life, typically following the introduction of cow's milk into their diet.
+Gastrointestinal features
+Diarrhoea:
+This can be chronic and may contain blood or mucus. It is often associated with perianal redness.
+Vomiting:
+This is typically regurgitation but can occasionally be projectile in nature.
+Abdominal pain:
+Infants may show signs of discomfort such as crying and drawing up their legs. Older children may verbalise this symptom.
+Faltering growth or failure to thrive:
+Due to malabsorption and loss of nutrients or decreased intake due to aversion to feeding.
+Constipation
+:
+This can also be a feature, though less common than diarrhoea.
+Dermatological features
+Eczema:
+Particularly atopic eczema which may not respond well to standard treatments.
+Rash
+:
+Urticarial rash can occur which presents as transient wheals that are intensely itchy.
+Respiratory features
+Asthma-like symptoms:
+Such as wheezing and coughing. These symptoms might not respond well to typical asthma treatment if they are caused by cow's milk protein intolerance.
+In addition to these more typical presenting features, cow's milk protein intolerance can also be associated with a number of other symptoms and conditions including iron deficiency anaemia due to gastrointestinal blood loss, behavioural changes like irritability in infants, and sleep disturbance. It is also important to note that the severity and combination of these symptoms can vary greatly from patient to patient.
+While immediate IgE-mediated reactions (urticaria, angioedema, vomiting, wheezing) within 2 hours of ingestion are easier to recognise, non-IgE mediated reactions such as those involving the gastrointestinal tract may have a delayed onset up to 48 hours after ingestion making them more difficult to identify. Furthermore, some patients may experience mixed IgE and non-IgE mediated responses.
+Lastly, it should be noted that cow's milk protein intolerance/allergy can sometimes present alongside other food allergies or intolerances. So if a patient presents with signs of cow's milk protein intolerance/allergy it might be prudent to consider whether they could also have other concurrent food allergies or intolerances.
+Improve
+Investigations
+The investigation of suspected cow's milk protein intolerance/allergy (CMA) is a methodical process. As the diagnosis of CMA is primarily clinical, based on symptoms and their resolution upon elimination of cow’s milk protein from the diet, investigations are used to support the clinical diagnosis and exclude other conditions.
+First-line Investigations
+Dietary Elimination and Reintroduction:
+The cornerstone of CMA diagnosis is the elimination of cow's milk protein from the diet for 2-6 weeks, followed by a monitored reintroduction. If symptoms resolve during elimination and recur upon reintroduction, a diagnosis of CMA can be made.
+Skin Prick Test (SPT):
+SPTs are useful for identifying IgE-mediated CMA. A positive result indicates sensitisation but does not confirm allergy. Therefore, it should be interpreted in conjunction with clinical history.
+Specific IgE testing:
+This blood test measures levels of specific IgE antibodies to cow's milk proteins. A higher level suggests greater likelihood of true allergy, however, like SPTs, it does not confirm allergy and must be interpreted in context.
+Further Investigations
+If first-line investigations do not provide a clear answer or if non-IgE mediated CMA is suspected, further investigations may be warranted.
+Dietary Elimination with Amino Acid-Based Formula (AAF):
+In cases where symptoms persist despite strict dietary elimination with extensively hydrolysed formula (eHF), an AAF trial may be necessary to confirm diagnosis.
+Faecal Calprotectin:
+This stool test can help identify gastrointestinal inflammation associated with non-IgE mediated CMA. Elevated levels suggest inflammation but are not specific to CMA.
+Endoscopy with Biopsies:
+In complex cases where diagnosis remains uncertain, endoscopic evaluation with biopsies may be considered. Histological findings can support a diagnosis of CMA, but are not diagnostic on their own.
+In all cases, the choice of investigations should be guided by the individual patient's history and presentation. It is essential to remember that no single test can definitively diagnose CMA and results must always be interpreted in light of clinical context.
+Improve
+Differential diagnosis
+When considering a diagnosis of cow's milk protein intolerance/allergy (CMPI), it is essential to consider other conditions that may present with similar symptoms. The three most likely alternative diagnoses are lactose intolerance, gastroesophageal reflux disease (GERD), and eosinophilic oesophagitis.
+Lactose Intolerance
+Unlike CMPI, lactose intolerance results from the body's inability to break down lactose due to a deficiency in the enzyme lactase. This condition typically presents later in life, whereas CMPI often manifests during infancy.
+Clinical presentation differs as well. Lactose intolerance primarily leads to gastrointestinal symptoms such as
+diarrhoea
+, bloating, and flatulence following consumption of lactose-containing products. These symptoms can be absent or less prominent in patients with CMPI.
+Furthermore, skin manifestations and respiratory symptoms commonly seen in CMPI are generally absent in lactose intolerance.
+Gastroesophageal Reflux Disease (GERD)
+GERD is characterised by the retrograde flow of gastric contents into the oesophagus causing inflammation and discomfort. It is common in infants and can mimic several symptoms of CMPI such as regurgitation and feeding difficulties.
+However, GERD does not typically cause systemic signs like atopic dermatitis or wheezing which are frequently seen in CMPI.
+In addition, response to dietary changes differentiates these two conditions; while GERD responds well to acid suppression therapy, this has no impact on the symptomatology of CMPI.
+Eosinophilic Oesophagitis
+Eosinophilic oesophagitis is a chronic immune condition characterised by eosinophilic infiltration of the oesophageal mucosa. It shares several clinical features with CMPI, including feeding difficulties and failure to thrive in infants.
+However, it typically presents with more severe symptoms such as dysphagia or food impaction which are rarely seen in CMPI.
+Diagnosis requires endoscopic evaluation and biopsy demonstrating eosinophilic infiltration, unlike CMPI where diagnosis is primarily clinical and through elimination diets.
+Improve
+Management
+If the symptoms are severe (e.g. failure to thrive) refer to a paediatrician.
+Management if formula-fed
+extensive hydrolysed formula (eHF) milk is the first-line replacement formula for infants with mild-moderate symptoms
+amino acid-based formula (AAF) in infants with severe CMPA or if no response to eHF
+around 10% of infants are also intolerant to soya milk
+Management if breast-fed
+continue breastfeeding
+eliminate cow's milk protein from maternal diet. Consider prescribing calcium supplements for breastfeeding mothers whose babies have, or are suspected to have, CMPI, to prevent deficiency whilst they exclude dairy from their diet
+use eHF milk when breastfeeding stops, until 12 months of age and at least for 6 months
+Improve
+Prognosis
+CMPI usually resolves in most children
+in children with IgE mediated intolerance around 55% will be milk tolerant by the age of 5 years
+in children with non-IgE mediated intolerance most children will be milk tolerant by the age of 3 years
+a challenge is often performed in the hospital setting as anaphylaxis can occur.
+Improve
+References
+Clinical Knowledge Summaries - Cows' milk protein allergy in children
+NHS Choices - Types of infant formula
+Paediatric gastroenterology
+Cow's milk protein intolerance/allergy

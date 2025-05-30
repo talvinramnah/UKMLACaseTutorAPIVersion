@@ -1,0 +1,94 @@
+Lofgren's syndrome
+Lofgren's syndrome
+Lofgren's syndrome, a distinct clinical presentation of
+sarcoidosis
+, is characterized by a triad of acute arthritis, erythema nodosum, and bilateral hilar lymphadenopathy. This acute, self-limited form of sarcoidosis predominantly affects young adults and exhibits a higher prevalence among females and individuals of Scandinavian or Irish descent. It typically carries an excellent prognosis.
+Last updated: 25
+th
+July 2024
+Aetiology
+Lofgren's syndrome is a distinct clinical presentation of acute
+sarcoidosis
+characterised by the triad of erythema nodosum, bilateral hilar lymphadenopathy, and polyarthritis. The aetiology involves a combination of genetic predisposition and environmental factors.
+Risk factors:
+Genetic predisposition:
+Certain human leukocyte antigen (HLA) alleles have been associated with an increased risk of developing Lofgren's syndrome. Notably, HLA-DRB1*03 has been strongly linked to the condition.
+Ethnicity:
+There is a higher prevalence among individuals of Scandinavian descent, indicating potential ethnic susceptibility.
+Age and gender:
+Lofgren's syndrome commonly presents in individuals aged between 20 and 40 years. Females are more frequently affected than males.
+Underlying causes:
+Environmental triggers:
+Exposure to certain environmental antigens may play a role in the development of Lofgren's syndrome. These antigens might include microbial agents such as
+Mycobacterium tuberculosis
+,
+Propionibacterium acnes
+, or other unidentified pathogens.
+Immune response:
+An exaggerated immune response to these environmental triggers can lead to granuloma formation, which is characteristic of sarcoidosis and its acute form, Lofgren's syndrome.
+Improve
+Clinical features
+Acute Arthritis:
+Patients with Lofgren's syndrome typically present with asymmetric polyarticular arthritis involving the ankles, knees, wrists, and elbows. The onset is sudden and accompanied by pain, swelling, warmth, and limited range of motion in the affected joints. In some cases, tenosynovitis or dactylitis may also be observed. The arthritis tends to resolve spontaneously within weeks to months without causing residual joint deformity or damage.
+Erythema Nodosum:
+A common cutaneous manifestation of Lofgren's syndrome is erythema nodosum - an inflammatory condition characterized by tender subcutaneous nodules that are usually distributed symmetrically on the anterior aspect of the lower extremities. These nodules appear as erythematous or violaceous raised lesions ranging from 1 to 5 cm in diameter and can be accompanied by fever and malaise. Histologically, erythema nodosum presents as septal panniculitis with infiltration of neutrophils and lymphocytes.
+Bilateral Hilar Lymphadenopathy:
+Chest radiographs in patients with Lofgren's syndrome often reveal bilateral hilar lymphadenopathy (BHL) without pulmonary infiltrates. BHL manifests as symmetrical enlargement of mediastinal lymph nodes situated near the bronchopulmonary hilum on both sides. Occasionally, paratracheal or right paracardiac lymphadenopathy may also be present. While BHL is a characteristic feature of Lofgren's syndrome, it is not pathognomonic, as it can be observed in other conditions such as tuberculosis or malignancy.
+Additional Clinical Features:
+Apart from the classic triad, patients with Lofgren's syndrome may exhibit other clinical manifestations including fever, fatigue, and weight loss. Constitutional symptoms are generally mild to moderate in severity and resolve spontaneously along with the arthritis and erythema nodosum. In rare instances, ocular involvement in the form of anterior uveitis or conjunctivitis may occur.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of Lofgren's syndrome, three common alternatives often emerge:
+Sarcoidosis
+without Lofgren's syndrome, Tuberculosis (TB), and Rheumatoid Arthritis (RA).
+Sarcoidosis without Lofgren's Syndrome
+The clinical presentation of sarcoidosis can be highly variable and non-specific. Unlike Lofgren's syndrome, which presents acutely with fever, bilateral hilar lymphadenopathy, erythema nodosum and/or arthritis, sarcoidosis without Lofgren's syndrome might manifest over a more extended period and may involve other organ systems.
+Pulmonary symptoms such as dry cough or dyspnoea are more common in sarcoidosis without Lofgren's syndrome. Ocular involvement is also frequently seen including uveitis or retinal vasculitis.
+Hypercalcaemia is a feature that is more commonly associated with sarcoidosis than with Lofgren's syndrome due to increased production of 1,25-dihydroxyvitamin D by activated macrophages.
+Tuberculosis
+TB can also present with hilar lymphadenopathy similar to Lofgren's syndrome. However, TB typically exhibits constitutional symptoms such as weight loss, night sweats and anorexia which are not characteristic features of Lofgren's syndrome.
+Miliary tuberculosis may mimic disseminated sarcoidosis but usually has a more rapid progression.
+The presence of caseating granulomas on histology strongly suggests TB over sarcoidosis. The identification of
+Mycobacterium tuberculosis
+using acid-fast staining or culture provides definitive evidence for TB.
+Rheumatoid Arthritis
+RA might be considered due to the arthritic component of Lofgren's syndrome. However, RA typically presents with a symmetrical polyarthritis affecting the small joints of the hands and feet, whereas arthritis in Lofgren's syndrome is usually asymmetrical and affects larger joints such as ankles.
+RA is a chronic condition with progressive joint damage, unlike the self-limiting arthritis seen in Lofgren's syndrome.
+Rheumatoid factor or anti-citrullinated protein antibody are often positive in RA but not in Lofgren's syndrome.
+Improve
+Management
+The management of Lofgren's syndrome involves specific therapeutic interventions aimed at alleviating symptoms and controlling inflammation.
+Non-steroidal anti-inflammatory drugs (NSAIDs):
+First-line treatment to manage arthralgia and arthritis. Commonly used NSAIDs include ibuprofen and naproxen.
+Corticosteroids:
+Considered for patients with severe symptoms unresponsive to NSAIDs. Prednisolone is typically prescribed, but dose tapering should be carefully managed to avoid relapse.
+Colchicine:
+May be used as an adjunct therapy in cases where NSAIDs are insufficient or contraindicated. It helps reduce inflammation and control joint pain.
+Avoidance of Immune Suppressants:
+Immunosuppressive agents like methotrexate or azathioprine are generally not indicated due to the self-limiting nature of Lofgren's syndrome.
+Improve
+Complications
+Complications of Lofgren's syndrome, although infrequent, can be significant and include both pulmonary and extrapulmonary manifestations. These complications are often a result of granulomatous inflammation, which is characteristic of the disease.
+Pulmonary Complications
+Pulmonary fibrosis:
+Progressive fibrotic lung disease can occur in a subset of patients, leading to restrictive lung disease and impaired gas exchange. This may necessitate supplemental oxygen therapy or even lung transplantation in severe cases.
+Airway obstruction:
+Granulomas may cause bronchial stenosis or obstruction, leading to symptoms such as cough and dyspnoea. Bronchoscopic intervention may be required in some instances.
+Respiratory infections:
+Patients with Lofgren's syndrome are at an increased risk of respiratory tract infections due to immune dysfunction. These infections can range from mild upper respiratory tract infections to severe pneumonia caused by organisms such as
+Mycobacterium tuberculosis
+.
+Extrapulmonary Complications
+Erythema nodosum:
+This painful inflammatory condition affecting subcutaneous fat tissue typically presents as red nodules on the shins. Although usually self-limiting, it can cause significant discomfort.
+Lymphadenopathy:
+Enlarged lymph nodes are common in Lofgren's syndrome and can occur anywhere in the body. While usually benign, they may occasionally require biopsy to exclude malignancy.
+Ocular involvement:
+Uveitis and conjunctivitis are common ocular complications that can lead to visual impairment if not promptly treated.
+Rheumatic manifestations:
+Arthritis and arthralgia are frequent, often affecting the ankles. These symptoms can be debilitating and may require pharmacological management.
+Neurological complications:
+Neurosarcoidosis is a rare but serious complication of Lofgren's syndrome. It can present with a wide range of neurological manifestations, including cranial nerve palsies, seizures, and cognitive impairment.
+Improve
+Sarcoidosis
+Lofgren's syndrome

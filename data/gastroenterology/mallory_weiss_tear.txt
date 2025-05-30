@@ -1,0 +1,160 @@
+Mallory-Weiss tear
+Mallory-Weiss tear
+Mallory-Weiss tear (MWT), also known as Mallory-Weiss syndrome (MWS), is characterised by a tear or laceration in the distal oesophagus and proximal stomach, which are usually associated with forceful reaching. The incidence of Mallory-Weiss tear among patients presenting with upper gastrointestinal bleeding ranges from 3 to 15%. The patient presents with
+haematemesis
+, which is usually self-limiting, ceasing spontaneously in 80% to 90% of patients.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 8.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Gastro-oesophageal reflux disease
+625.00
+Mallory-Weiss tear
+1
+Perforated peptic ulcer
+0.88
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The pathogenesis of Mallory-Weiss tear is not completely understood. It has been proposed that mucosal lacerations develop secondary to a sudden increase in oesophageal intraluminal pressure which results in tearing of the underlying submucous venous or arterial plexus.
+Predisposing conditions
+Alcoholism
+40% to 80% of the patients diagnosed with MWT have a history of heavy alcohol use.
+Hiatal hernia
+Present in 40% to 100% of people with MWT, retching increases the potential for mucosal laceration by creating a higher pressure gradient, in these patients. However, in >40% of patients, an identifiable risk factor is not found
+Other risk factors include bulimia nervosa, hyperemesis gravidarum, and gastroesophageal reflux disease (
+GERD
+)
+Precipitating factors
+Severe
+vomiting
+Coughing
+Blunt abdominal trauma
+Strained defecation
+Oesophageal instrumentation
+Improve
+Clinical features
+Patients with Mallory-Weiss tear mostly present with acute onset of gastrointestinal bleeding with
+Haematemesis
+(85%)
+consists of a small and self-limited episode, which varies from flecks or streaks of blood mixed with gastric contents and/or mucus, blackish or 'coffee ground', to bright-red bloody emesis after a bout of retching,
+vomiting
+, coughing, straining.
+Other less common symptoms include
+Postural/orthostatic hypotension
+Light-headedness/dizziness due to a sudden drop in blood pressure caused by bleeding.
+Melaena
+Usually associated with upper gastrointestinal bleeding proximal to the ligament of Treitz.
+Dysphagia
+Haematochezia
+Abdominal pain
+Signs of anaemia
+Rare in acute Mallory Weiss tear. Low haemoglobin at presentation may be indicative of co-existing comorbidities. Signs of anaemia include pallor, tachycardia, dyspnoea, and fatigue.
+There are no specific physical signs to Mallory-Weiss tear, and the signs are similar to any other hemorrhagic conditions or shock.
+Improve
+Investigations
+Mallory-Weiss syndrome should be suspected in patients with upper gastrointestinal bleeding and a history of
+vomiting
+or retching.
+Initial laboratory investigation
+FBC, including haematocrit to assess the severity of the initial bleeding episode and to monitor patients.
+Usually normal in an acute setting; however, anaemia may range from mild to severe in rare cases
+Coagulation studies and platelet counts to detect coagulopathies and thrombocytopenias (routine platelet count, prothrombin time, and activated partial thromboplastin time).
+Typically normal
+Liver function test to rule out liver disease
+Typically normal, except in a patient with underlying or co-existing liver disease
+Renal function, urea, creatinine, and electrolyte levels (to guide intravenous fluid therapy).
+Urea may be high in a patient with ongoing bleeding
+Cross-matching/ blood grouping and antibody screen (potential blood transfusion)
+Other tests to consider
+ECG, troponin, creatinine kinase (should be considered in patients with a history of CAD, symptoms of cardiac ischaemia, massive bleeding, or multiple comorbidities)
+Diagnosis of aetiology:
+Upper endoscopy:
+It should be performed in all patients after stabilisation. It is the test of choice for diagnosis and treatment and should be done within 24 hours.
+Finding include single and longitudinal tear that typically appears as a red longitudinal break in the mucosa.
+Improve
+Differential diagnosis
+The differential diagnosis of Mallory-Weiss tear primarily includes Boerhaave syndrome, gastroesophageal reflux disease (
+GERD
+), and peptic ulcer disease. These conditions present with similar symptoms such as hematemesis and epigastric pain, but there are distinct differences in their clinical presentations.
+Boerhaave Syndrome
+Also known as spontaneous oesophageal rupture or effort rupture, Boerhaave syndrome is characterised by a full-thickness tear of the oesophagus. This typically occurs following forceful
+vomiting
+or retching, similar to Mallory-Weiss tear.
+In contrast to Mallory-Weiss tear which involves only a mucosal tear, Boerhaave syndrome involves all layers of the oesophageal wall. Therefore, it presents with more severe symptoms including sudden severe chest pain often radiating to the back (mediastinitis due to leakage of gastric contents into the mediastinum).
+Patients may also exhibit signs of sepsis due to bacterial contamination from the gastrointestinal tract entering the mediastinum and pleural space.
+Gastroesophageal Reflux Disease (GERD)
+GERD is chronic condition involving reflux of stomach acid into the oesophagus leading to inflammation. It shares similar risk factors with Mallory-Weiss tear such as alcohol consumption and hiatal hernia.
+Unlike Mallory-Weiss tears which are acute events often associated with retching or vomiting, GERD presents with chronic symptoms including heartburn, regurgitation, and dysphagia. Hematemesis is less common in GERD unless there's significant oesophagitis or a complication like Barrett's oesophagus has occurred.
+Peptic Ulcer Disease
+Peptic ulcer disease refers to ulcers in the stomach or proximal duodenum, often caused by
+H. pylori
+infection or NSAID use.
+Patients with peptic ulcer disease may present with epigastric pain similar to Mallory-Weiss tear. However, unless there's a complication like perforation or bleeding, they usually do not have hematemesis. The pain in peptic ulcer disease is typically described as burning and is relieved by food or antacids.
+Improve
+Management
+Since Mallory-Weiss tear is mostly self-limited and recurrence is uncommon, the initial management is focussed on stabilising the general condition of the patient, and a conservative approach would be appropriate in most of the patients.
+Immediate resuscitation of patients with active bleeding should be started at the time of admission. We assess hemodynamic stability by checking the airway, breathing, and circulation (ABC protocol).
+Establishment of a good central or peripheral intravenous (IV) access (usually 2 lines) along with fluid replacement.
+Packed RBCs infusion is indicated if the Hb <8 gm/dl or if the patient presents with signs of shock or severe bleeding.
+Nasogastric decompression using NG tube could be performed, especially in patients with ongoing bleeding or those suspected of having concomitant upper gastrointestinal (GI) bleeding sources.
+Electrolyte imbalance, if present, should be corrected appropriately.
+Coagulation factors need to be optimised before proceeding with endoscopy.
+Most patients managed conservatively are typically hospitalised until hemostasis is achieved and symptoms are resolved.
+Pharmacological treatment
+Anti-secretory therapy: PPIs or H2 antagonists are first-line therapy, given to all patients who are waiting for endoscopy and have clinically significant upper gastrointestinal bleeding. It promotes hemostasis by neutralising gastric acid and stabilising blood clots
+Anti-emetics: considered in a patient with
+nausea
+and
+vomiting
+, which may be a cause or an aggravating factor in patients with MWT.
+Somatostatin and its long-acting synthetic analogue octreotide: not routinely recommended for patients with non-variceal upper GI bleeding; however, they may be considered as an adjunct treatment to PPIs and endoscopy until more definitive diagnostic tests and therapeutic procedures are implemented
+Once the patient is stabilised, several risk assessment and scoring systems (like Glasgow-Blatchford bleeding score and clinical Rockall score) for active bleeding should be used to stratify patients as low or high risk. Patients are classified according to who should have an endoscopic evaluation, who may be discharged with minimal risk of complications, and who should be admitted to hospital for further observation.
+Endoscopic treatment:
+oesophagogastroscopy is the investigation of choice in all cases of upper GI bleeding. It is indicated after medical treatment is given in case of actively bleeding (spurting or oozing haemorrhage) MWT. Different modalities of treatment include the following:
+Endoscopic band ligation (with or without epinephrine injection)
+Haemoclip placement is an effective method to control actively bleeding lesions.
+Thermocoagulation therapy
+Surgery
+Surgery, which in practice is very rarely warranted in patients with MWT, It is usually reserved for situations where endoscopic haemostasis of bleeding has failed or transmural oesophageal perforation has occurred
+Patients without risk factors for rebleeding, evidence of severe upper gastrointestinal bleeding, or endoscopic stigmata of recent bleeding can be discharged from the hospital on oral antisecretory therapy.
+Improve
+Complications
+It may be related to the degree of blood loss or following treatment.
+Severity of bleeding
+Hypovolemic shock
+Usually related to acuity and severity of bleeding; rare if early stabilised and treated promptly
+Re-bleeding
+Occurs within the first 24 hours and most often in patients with risk factors
+Myocardial ischaemia or infarction
+Usually related to the acuity, severity of bleeding, and associated CAD.
+Following treatment or investigations
+Oesophageal perforation
+May present as rapidly developing mediastinitis and sepsis.
+Vasopressin infusion-related abdominal pain
+Abdominal pain lasting 10 to 15 minutes after vasopressor use
+Improve
+Prognosis
+For most patients without any associated disease, the prognosis is generally excellent. The tear heals rapidly, usually within 48-72 hours. Bleeding is self-limited and will have stopped by the time of endoscopy.
+The mortality rate is approximately 5% and depends upon patient age and the presence of coexisting medical conditions.
+Risk of re-bleeding occurs in about 8% to 15% of patients.
+It usually occurs within the first 24 hours and most often in patients with high-risk factors like old age,
+haematemesis
+and/or hematochezia at presentation, alcoholism and other comorbid illness (anaemia, chronic liver disease, coronary artery disease, chronic obstructive pulmonary disease).
+Improve
+Gastroenterology
+Mallory-Weiss tear

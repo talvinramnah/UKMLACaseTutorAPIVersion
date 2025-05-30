@@ -1,0 +1,163 @@
+Sickle-cell anaemia
+Sickle-cell anaemia
+Sickle-cell anaemia is an
+autosomal recessive
+condition that results for synthesis of an abnormal haemoglobin chain termed HbS. It is more common in people of African descent as the heterozygous condition offers some protection against malaria. Around 10% of UK Afro-Caribbean's are carriers of HbS (i.e. heterozygous). Such people are only symptomatic if severely hypoxic.
+Last updated: 30
+th
+November 2023
+Epidemiology
+Incidence: 0.50 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Beta-thalassaemia trait
+2.00
+Sickle-cell anaemia
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Sickle-cell anaemia is a monogenic disorder caused by a mutation in the
+HBB
+gene, which encodes the beta-globin subunit of haemoglobin. This mutation results in the production of an abnormal form of haemoglobin known as haemoglobin S (HbS) rather than normal haemoglobin A (HbA).
+Genetic Factors:
+The inheritance pattern for sickle cell anaemia is autosomal recessive. Both parents must be carriers of the mutated gene for a child to be affected. Individuals with only one copy of the mutated gene are carriers and typically do not manifest symptoms but can pass on the trait to their offspring.
+Ethnicity and Geographical Distribution:
+Sickle cell anaemia predominantly affects individuals of African, Mediterranean, Middle Eastern, and Indian descent. The prevalence is highest in sub-Saharan Africa due to selective advantage conferred against malaria.
+Malaria Endemicity:
+There is a significant correlation between malaria endemicity and the frequency of the HBB mutation. This is attributed to heterozygote advantage where individuals with sickle cell trait (Heterozygous HbAS) have increased resistance to
+Plasmodium falciparum
+, reducing mortality from malaria.
+In addition to these primary risk factors, several secondary factors can influence disease severity and progression.
+Coinheritance of Other
+Haemoglobinopathies
+:
+Coinheritance of other abnormal haemoglobin genes such as beta-thalassaemia or HbC can modify disease phenotype.
+Nutritional Status:
+Malnutrition may exacerbate the severity of symptoms and complications associated with sickle cell anaemia.
+Environmental Factors:
+Exposure to environmental triggers such as extreme temperatures, high altitude, or dehydration can provoke sickling crises.
+Improve
+Pathophysiology
+Pathophysiology
+polar amino acid glutamate is substituted by non-polar valine in each of the two beta chains (codon 6). This decreases the water solubility of deoxy-Hb
+in the deoxygenated state the HbS molecules polymerise and cause RBCs to sickle
+HbAS patients sickle at p02 2.5 - 4 kPa, HbSS patients at p02 5 - 6 kPa
+sickle cells are fragile and haemolyse; they block small blood vessels and cause infarction
+Improve
+Clinical features
+Clinical Features of sickle-cell anaemia may be divided up into acute events and chronic complications.
+Acute Events
+Vaso-occlusive crisis: The primary clinical feature of sickle-cell anaemia is painful vaso-occlusive crisis, which occurs due to obstruction of blood flow by sickled erythrocytes. This can lead to tissue ischemia and infarction, resulting in severe pain in the affected area. Commonly involved sites include bones (long bones and vertebrae), chest, abdomen, and joints.
+Acute chest syndrome:
+A life-threatening complication, acute chest syndrome presents with fever, chest pain, cough, dyspnoea, and hypoxia. It may result from vaso-occlusion in pulmonary vasculature or infection leading to pneumonia.
+Splenic sequestration crisis:
+The rapid pooling of blood in the spleen leads to splenomegaly, hypovolemic shock, and potentially death if not promptly treated. This event is more common in paediatric patients.
+Aplastic crisis:
+Parvovirus B19 infection may precipitate transient red cell aplasia causing severe anaemia as it temporarily halts erythropoiesis.
+Haemolytic crisis:
+Accelerated destruction of both normal and sickled erythrocytes can lead to jaundice and worsening anaemia.
+Priapism:
+Obstruction of venous outflow from the corpora cavernosa by sickled cells may cause persistent penile erection accompanied by pain.
+Chronic Complications
+Anaemia:
+Chronic
+haemolytic anaemia
+is a constant feature in sickle-cell patients, characterized by pallor, fatigue, and exertional dyspnoea. The severity varies depending on the degree of haemolysis and erythropoietic activity.
+Infections:
+Functional asplenia due to recurrent splenic infarctions increases susceptibility to encapsulated bacterial infections, such as
+Streptococcus pneumoniae
+and
+Haemophilus influenzae
+.
+Leg ulcers:
+Chronic venous insufficiency resulting from vaso-occlusion can lead to non-healing leg ulcers, predominantly around the medial malleoli.
+Ocular complications:
+Retinal vessel occlusions may cause proliferative retinopathy, vitreous haemorrhage or retinal detachment leading to vision loss.
+Skeletal complications:
+Chronic bone infarcts can result in avascular necrosis of the femoral and humeral heads. Additionally, marrow hyperplasia may cause osteopenia and pathologic fractures.
+Renal complications:
+Repeated renal medullary ischemia predisposes patients to papillary necrosis and renal tubular dysfunction. This can manifest as nocturia, polyuria, proteinuria or even chronic kidney disease.
+Cardiopulmonary complications:
+Chronic anaemia leads to compensatory mechanisms that increase cardiac output. Over time this results in pulmonary hypertension and eventually right-sided heart failure (cor pulmonale).
+Neurological complications:
+Cerebral vasculopathy caused by occlusion of cerebral vessels may lead to ischemic or hemorrhagic strokes. Silent cerebral infarcts are also common findings on neuroimaging studies.
+Growth retardation and delayed puberty:
+Children with sickle-cell anaemia often exhibit growth retardation due to chronic hypoxia and undernutrition related to increased metabolic demands from their condition.
+Improve
+Investigations
+The investigation of suspected Sickle-cell anaemia, a haemoglobinopathy, involves a series of tests that are primarily laboratory-based. The aim is to confirm the diagnosis and understand the severity of the disease.
+First-line investigations:
+Full Blood Count (FBC):
+This is an essential initial investigation. The FBC may show normocytic or microcytic anaemia, reticulocytosis indicative of increased red cell production and sometimes features of hyposplenism such as Howell-Jolly bodies.
+Blood film:
+A peripheral blood smear can provide valuable insights. Sickled cells and other abnormal red cell shapes such as target cells and poikilocytes may be seen in patients with Sickle-cell anaemia.
+Further investigations:
+If the first-line investigations suggest Sickle-cell anaemia, further confirmatory tests are required.
+Hemoglobin Electrophoresis:
+This is the gold standard for diagnosing Sickle-cell anaemia. It separates the different types of haemoglobin based on their electrical charge. In patients with Sickle-cell anaemia, there will be a predominance of HbS and a decrease or absence of HbA.
+Sickling Test:
+This test identifies sickle haemoglobin (HbS) but does not differentiate between sickle cell trait (AS) and sickle cell disease (SS). It's therefore less specific than hemoglobin electrophoresis but can be useful in resource-limited settings.
+Molecular Genetic Testing:
+DNA analysis can identify the beta-globin gene mutation responsible for Sickle-cell anaemia. This test is particularly useful for prenatal diagnosis or when electrophoresis results are unclear.
+Improve
+Management
+Management of Sickle-cell anaemia involves a multi-faceted approach, with the focus on prevention of complications, treatment of acute crises and long-term management strategies. The National Institute for Health and Care Excellence (NICE) guidelines provide a comprehensive framework.
+Prevention of Complications
+Prophylactic penicillin: Initiate from diagnosis in infancy until at least 5 years old to prevent pneumococcal infections.
+Vaccinations: Ensure up-to-date immunisation status, including pneumococcal, Haemophilus influenzae type b (Hib), meningococcal and hepatitis B vaccines.
+Folic acid supplementation: Prescribe to compensate for increased haemolysis.
+Treatment of Acute Crises
+Pain management: Use a stepwise approach, starting with paracetamol or NSAIDs and escalating to opioids if necessary. Consider adjuvant therapy such as nerve blocks or transcutaneous electrical nerve stimulation (TENS).
+Oxygen delivery systems: Administer oxygen if the patient is hypoxic.
+Hydration: Provide intravenous fluids to counteract dehydration but avoid fluid overload which can exacerbate acute chest syndrome.
+Long-Term Management Strategies
+Regular transfusions: Consider in patients with recurrent severe vaso-occlusive crises or stroke risk.
+Hydroxyurea therapy: This myelosuppressive agent increases foetal haemoglobin production and can reduce the frequency of painful crises and acute chest syndrome episodes. Monitor for cytopenias.
+Stem cell transplantation: This is a potential cure but carries significant risks and is usually reserved for severe disease.
+Improve
+Complications
+Vaso-occlusive crises
+are the most common complications of sickle-cell anaemia. These painful episodes occur when sickled red blood cells obstruct capillaries and restrict blood flow to an organ, resulting in ischaemia, pain, and organ damage. The frequency and severity of these crises vary greatly among patients.
+Acute chest syndrome
+is a severe complication often precipitated by vaso-occlusion in the pulmonary vasculature. It manifests as fever, chest pain, cough, dyspnoea, or hypoxia. This condition can lead to respiratory failure if not promptly treated.
+Aplastic crisis
+typically follows infection with human parvovirus B19, leading to a temporary cessation of erythropoiesis. Patients present with rapid onset anaemia, pallor and reticulocytopenia.
+Splenic sequestration crisis
+: This is an acute, potentially life-threatening complication characterised by rapid pooling of blood in the spleen. Prompt recognition and treatment are essential for survival.
+Infections
+: Patients with sickle-cell anaemia have functional asplenia which makes them more susceptible to infections with encapsulated organisms such as
+Streptococcus pneumoniae
+,
+Haemophilus influenzae
+, and
+Salmonella spp.
+Priapism
+: Prolonged erections caused by sluggish circulation through the penis can lead to impotence if not promptly managed.
+Osteonecrosis
+: This primarily affects the femoral head due to lack of blood supply leading to bone death and subsequent joint dysfunction.
+Stroke
+: Both haemorrhagic and ischaemic strokes can occur in sickle-cell disease due to the prothrombotic state and vascular injury.
+Chronic kidney disease
+: Hyposthenuria, haematuria, and progressive renal insufficiency are common renal manifestations of sickle-cell anaemia.
+Pulmonary hypertension
+: This is a late complication that often leads to right heart failure, known as cor pulmonale.
+Leg ulcers
+: These are often chronic and difficult to heal. They typically occur around the ankles and are more common in males than females.
+Retinopathy
+: Proliferative sickle retinopathy can lead to vitreous haemorrhage or retinal detachment, causing visual impairment.
+Management of these complications often involves pain control, hydration, antibiotics for infection prophylaxis or treatment, blood transfusions for severe anaemia, hydroxyurea therapy to increase fetal hemoglobin production thus reducing the number of sickled cells, and in some cases bone marrow transplantation.
+Improve
+Genetic disorders and birth defects
+Sickle-cell anaemia

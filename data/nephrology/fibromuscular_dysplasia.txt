@@ -1,0 +1,152 @@
+Fibromuscular dysplasia
+Fibromuscular dysplasia
+Fibromuscular dysplasia (FMD) is an idiopathic non-atherosclerotic, non-inflammatory disorder of arteries encompassing two subtypes, focal and non-focal FMD. Lesions can affect any arterial system in the body and cause stenosis, aneurysm, dissection or arterial tortuosity in the affected vessels. Two large international registries of FMD show that by far the most commonly affected sites are the renal and cervical arteries. Its exact prevalence is unknown, however, and the pathophysiological and genetic factors involved remain unclear. Regular screening for vascular complications is key to long term management.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in females 10:1
+Condition
+Relative
+incidence
+Renal artery stenosis
+(secondary to atherosclerosis)
+10.00
+Temporal arteritis
+2.00
+Fibromuscular dysplasia
+1
+Phaeochromocytoma
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The strongest risk factor across all types of FMD is female sex, as 80-90% of cases are women. Men developing FMD tend to have more aneurysms and dissections.
+Case-control studies also identify smoking as a strong risk factor, associated with odds ratio of 2.5-4.5 for FMD.
+Other potential causal factors that have been hypothesised from experimental studies include:
+Repeated stretching of the renal artery (e.g. secondary to trauma, abnormal anatomy)
+An abnormal balance between oestrogen and progesterone, following smooth muscle biopsy tissue from case-control studies
+Elevated secretion of transforming growth factor (TGF)- β1 and TGF-β2 from dermal fibroblast cells
+Deranged distributions of cholesterol esters and the pro-inflammatory lipid mediator lysophosphatidylcholine (lysoPC)
+Improve
+Pathophysiology
+FMD was originally classified in terms of the layer of arterial musculature affected: intimal, medial, and peri-adventitial fibroplasia. However, most recent consensus guidelines advocate image-based classification into either 'string-of-beads' non-focal FMD (alternating stenosis and dilatation, or focal variant of FMD (single area of stenosis).
+The underlying causative mechanisms of FMD remain unclear.
+One possible recently hypothesised genetic link is with the gene PHACTR1, a mutation of which confers odds ratio of 1.4 for FMD.
+This gene is associated with dermal fibroblasts involved in the developing vasculature of zebrafish
+Furthermore, this genetic locus is associated with regulation of endothelin-1 expression, which is implicated in vascular tone and arterial remodelling
+Further basic studies and clinical trials aim to better understand FMD
+Improve
+Clinical features
+FMD can remain clinically silent, and 3-6% of patients may be only diagnosed following incidental findings on imaging.
+Signs of symptomatic FMD differ depending on the site.
+The most common two presentations are renal artery FMD and cerebrovascular (carotid/vertebral artery) FMD.
+In two large FMD registries, renal disease was found in 66-90%, and cerebrovascular disease in 58-80% of patients with FMD.
+Multi-vessel disease (lesions in more than one arterial system of the body) were found in 30-55% of patients.
+Key features of renal artery FMD:
+Hypertension
+(74%), resistant to medical management.
+Abdominal bruit in the absence of atherosclerotic risk factors
+Unilateral small kidney on imaging, with no urological cause
+Features in symptomatic cervical artery FMD:
+Severe or chronic migraines (70%)
+Pulsatile tinnitus (22%)
+Cervical bruit
+Unilateral head/neck pain
+Focal neurology suggesting cervical artery dissection (ipsilateral ptosis, miosis)
+Other, less common symptoms:
+Abdominal (non-renal) FMD, e.g. in coeliac axis, splenic arteries, can cause postprandial flank pain
+Lower limb FMD can present with limb claudication, cramping or ischaemia
+Upper limb FMD is rare but can cause Raynaud's phenomena or upper limb paraesthesia
+Improve
+Investigations
+The gold standard to diagnose FMD is catheter-based angiography. Blood tests can aid in ruling out other diagnoses.
+Blood tests
+Lipid profile
+Hyperlipidaemia modifiable risk factor for atherosclerosis, not typically present in FMD
+ESR and auto-antibody screen
+Arteriopathies such as
+giant cell arteritis
+, Takayasu's arteritis have elevated ESR and/or presence of serum auto-antibodies
+Imaging
+Imaging is used for diagnosis of FMD, as focal and non-focal subtypes can be identified with angiography and so histological diagnosis is no longer used.
+CT-angiography (CTA)
+The first-line imaging in suspected FMD, local to the suspected site e.g. renal artery. MR-angiography second line if CT is contraindicated.
+In addition to diagnosis, intra-cranial CT- or MR-angiography is recommended at least once (regardless of disease site) to screen for intracranial aneurysm.
+Catheter-based angiography
+If CTA is negative and significant clinical suspicion remains, catheter-based angiography is the gold standard diagnostic technique
+Catheter-based angiography is also used in CTA -confirmed FMD where it can offer further clinically valuable information. For example, CTA in multi-focal renal artery FMD cannot provide trans-lesion pressure gradients which can have an impact on treatment.
+Improve
+Differential diagnosis
+The most important differentials in symptomatic FMD to exclude are the acute vascular complications related to the artery involved - e.g. carotid artery dissection, renal artery dissection, or renal infarction secondary to critical stenosis. These are differentiated on imaging.
+Other differentials:
+Atherosclerotic arteriopathy
+In patients presenting with
+hypertension
+, risk factors including diabetes and hyperlipidaemia should be screened for
+Patients with advanced arterial atherosclerosis are at high risk of thrombotic events such as myocardial infarction and stroke
+Imaging in atherosclerotic disease will likely show pathognomonic arterial plaques
+Approximately 20% of patients with FMD have concomitant atherosclerotic disease
+Arteritis
+Giant cell arteritis
+(GCA) may present with headaches and neurological signs (similar to cervical FMD)
+Fever and systemic malaise present in GCA, with a raised ESR
+Pheochromocytoma
+An important differential for malignant hypertension resistant to medical therapy, i.e. the presentation of renal artery FMD
+24-hour urinary catecholamines and metanephrines elevated to differentiate from FMD
+Williams syndrome
+Genetic disorder with characteristic facial features (pointed chin, broad forehead) and developmental delay
+Commonly develop arterial stenosis (renal, pulmonary, aortic)
+Associated cardiac defects and genetic testing differentiate from arterial stenosis caused by FMD
+Improve
+Management
+Patients in whom FMD is identified will need multi-disciplinary care; screening, monitoring and intervention for any complication requires specialised tertiary care, whereas risk modification and medical management can be done in primary care.
+Symptomatic FMD most commonly presents as treatment-resistant
+hypertension
+, and patients will therefore usually be referred from GP or ED to a tertiary centre that has a hypertension service. FMD is identified on imaging, at which point vascular surgery, neurosurgery, and renal teams will likely become involved, depending on the site of the lesions.
+There is therefore multi-disciplinary input guiding the medical and surgical management of these patients:
+Anti-platelet therapy
+It is recommended that all patients with FMD be prescribed regular oral anti-platelet therapy to aid prevention of thromboembolic complications
+Management of hypertension
+ACE-inhibitors or angiotensin-receptor blockers recommended as first line in renovascular hypertension
+Beta-blockers may be protective following coronary artery dissection if it occurs
+Surgical management of critical stenosis
+Common sites of stenosis amenable to surgical stenting include the renal, cervical and iliac arteries
+Follow up
+Recommended at least annually by specialised team, and more often depending on severity of disease
+Important to assess ongoing symptoms and control of hypertension
+Patients with renovascular FMD should have U&E and urine albumin measured
+Regular primary care input is also important:
+Smoking cessation
+Smoking is the only probably modifiable risk factor that has been identified, and it is, therefore, crucial to encourage patients to stop
+Stop smoking programmes are often managed through the GP, who also can follow-up with the patient and help with the process
+Patient education
+Patients with FMD should be well acquainted with the possible symptoms of the serious complications that can occur, and know when to seek medical attention
+E.g. warning signs for stroke, abdominal aortic dissection
+Medicines compliance
+Improve
+Complications
+Complications of FMD are principally arterial dissection or aneurysm of affected sites. It seems that although patients with FDM are overwhelmingly female (80-90%), dissection and aneurysm are more commonly observed in male patients with FMD.
+Spontaneous coronary artery dissection (SCAD)
+Presenting as acute myocardial infarction, whereby dissection causes a false lumen which compresses on the true arterial lumen
+SCAD represents 10% of arterial dissections experienced by patients with FMD
+Renal infarction
+May be secondary to renal artery dissection or occlusion from FMD
+Renal artery dissection was the presenting symptom in 3.1% of patients with FMD in a US registry of the condition
+Anti-coagulation and revascularisation mainstay of treatment
+Cervical artery dissection (CeAD)
+Causing acute stroke, and managed with artery stenting or mechanical thrombolysis
+CeAD occurred in 35.6% of patients in one study of 146 patients with FMD
+Improve
+Nephrology
+Fibromuscular dysplasia

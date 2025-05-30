@@ -1,0 +1,294 @@
+Acute pancreatitis
+Acute pancreatitis
+Acute pancreatitis is inflammation of the pancreas causing extra-ductal release of pancreatic enzymes. There are many causes of acute pancreatitis but in the United Kingdom the most common are obstructive gallstone disease and alcohol excess. Acute pancreatitis can be life threatening and result in multiple organ dysfunction and should be treated as a medical emergency. Although the immediate management is supportive with medical treatments, there are numerous complications that can arise from the condition that may require surgical management and so it is usually managed under the care of the general surgical team.
+Last updated: 23
+rd
+March 2023
+Epidemiology
+Incidence: 40.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Acute cholecystitis
+3.50
+Ascending cholangitis
+1.25
+Acute pancreatitis
+1
+Small bowel obstruction
+0.50
+Perforated peptic ulcer
+0.18
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The vast majority of cases in the UK are caused by gallstones and alcohol
+Popular mnemonic is
+GET SMASHED
+G
+allstones
+E
+thanol
+T
+rauma
+S
+teroids
+M
+umps (other viruses include Coxsackie B)
+A
+utoimmune (e.g. polyarteritis nodosa),
+A
+scaris infection
+S
+corpion venom
+H
+ypertriglyceridaemia,
+H
+yperchylomicronaemia,
+H
+ypercalcaemia,
+H
+ypothermia
+E
+RCP
+D
+rugs (azathioprine, mesalazine*, didanosine, bendroflumethiazide, furosemide, pentamidine, steroids, sodium valproate)
+Improve
+Pathophysiology
+A triggering event results in an inflammatory response within the pancreatic parenchyma which results in stasis of pancreatic exocrine secretions within the ductal system. Pancreatic enzymes are subsequently released outside of the ductal system and there is activation of lipase and peptidases outside of the gastrointestinal tract. This results in local tissue damage and a worsening inflammatory response. The local pancreatic injury and systemic release of enzymes have specific metabolic and systemic physiological complications.
+Acute local complications
+Extra-ductal release of protease enzymes results in soft tissue and vascular damage causing retroperitoneal haemorrhage.
+The retroperitoneal inflammation results in a reactive ascites.
+In severe pancreatitis there is a risk of portal venous thrombosis.
+Late local complications
+Protease activity within the pancreatic tissue can cause areas of necrosis to develop.
+Necrosis can become secondarily infected and requires surgical or radiological drainage.
+Fluid secretion from inflamed and necrotic tissues can become encapsulated within the lesser sac of the peritoneum and form a pancreatic pseudocyst.
+These usually resolve without treatment but may require drainage due to mass effects.
+Systemic complications
+Release of inflammatory cytokines causes a systemic inflammatory response with systemic vasodilation resulting in cardiovascular shock.
+There can be an inflammatory reaction in the lungs resulting in interstitial oedema and poor oxygen transfer (acute respiratory distress syndrome).
+Reactive inflammation of the pleura can result in a pleural effusion occurring in 10-20% of patients.
+Severe pancreatitis can result in a systemic inflammatory response that results in disseminated intravascular coagulation (DIC).
+Metabolic complications
+Hyperglycaemia due to local damage to islet cells resulting in failure of glucose homeostasis which may persist long-term if pancreatic damage is severe enough.
+Systematic release of lipase causes fat store lysis and release of free fatty acids. These subsequently sequestrate calcium in the blood resulting in acute hypocalcaemia.
+Loss of exocrine pancreatic tissue results in an acute failure to digest food and malabsorption can develop.
+Improve
+Clinical features
+Features in history
+Abdominal pain
+Classically epigastric radiating through to the back but in reality this is only present in about 50% of cases.
+Usually sudden onset and severe, reaching a peak within hours and persisting for days.
+The pain can be present anywhere in the abdomen and acute pancreatitis should be a differential diagnosis in any case of acute abdominal pain.
+Nausea
+and
+vomiting
+Very commonly associated with the pain and due to gastric distension and gastroparesis.
+Jaundice
+In cases due to gallstone obstruction of the ducts there can be marked obstructive jaundice.
+Other causes
+There may be a history of significant or recent alcohol use. Acute pancreatitis can be caused both by acute alcohol consumption and chronic alcohol misuse.
+Weight loss may indicate a pancreatic or biliary tumour as the cause.
+Certain drugs such as steroids can precipitate acute pancreatitis and there may be history of recent use e.g. treatment of an exacerbation of COPD.
+There may be a recent history of trauma (either abdominal or systemic) within the preceding days or recent major surgery (on any part of the body).
+Approximately 1-2% of patients undergoing endoscopic retrograde cholangiopancreatography (ERCP) may suffer acute pancreatitis after the procedure.
+There may be history of recent infection with
+mumps
+.
+Features on examination
+Systemic
+There are usually features of acute cardiovascular compromise and the patient may be severely shocked.
+Tachypnoea is almost universal and may be accompanied by tachycardia and hypotension.
+Initially temperature is normal or low but the patient may develop a persistent
+fever
+as the inflammatory response progresses.
+Abdominal
+There may be significant tenderness in the epigastrium with local guarding.
+Distension due to ascites and loss of bowel sounds due to acute ileus are common.
+Widespread tenderness and rigidity are rare and would suggest an abdominal perforation instead.
+Grey-Turner's sign (bruising of the flanks) and Cullen's sign (peri-umbilical bruising) are rarely present (less than 10% of cases) and are due to bleeding in the fascial planes from release of protease enzymes.
+Respiratory
+Acute respiratory compromise is common and due to multiple causes but often oxygen saturations are low and supplemental oxygen is required.
+There may be crepitations present on examination and this may progress to severe acute respiratory distress syndrome (ARDS).
+Up to 20% of patients may develop a reactive inflammatory pleural effusion.
+Improve
+Investigations
+The diagnostic test for any patient with suspected acute pancreatitis is measurement of serum pancreatic enzymes. The most used is serum amylase although some centres have access to serum lipase testing which has a higher sensitivity and specificity than amylase. You should be aware that many other diseases can cause a raised serum amylase.
+Alternative causes of raised serum amylase
+Upper gastrointestinal perforation
+Mesenteric or bowel ischaemia
+Renal failure
+Retroperitoneal haematoma
+Intra-abdominal ectopic pregnancy
+Inflammation or obstruction of the salivary glands
+If the serum or lipase levels are inconclusive and there is a high suspicion of acute pancreatitis, the most sensitive test is CT imaging of the abdomen with contrast. CT gives additional information about possible complications such as pancreatic necrosis or pseudocyst formation which may require treatment.
+Following diagnosis investigations should be performed for two reasons; severity prognostication and ascertaining the cause of the acute pancreatitis. Severity is usually calculated using one of two severity scores (Ranson and Glasgow) which are based on clinical and laboratory criteria and scored at 48-hours from onset of symptoms.
+Severity
+C-reactive protein (CRP) levels correlate with the severity of an attack and a CRP > 150 mg/L at 48-hours from onset indicate a severe attack.
+Serum glucose levels may rise significantly due to islet cell dysfunction and damage and a level > 10 mmol/L is part of both severity scores.
+Full blood count
+Can indicate the severity of the inflammatory response with a white blood cell count > 16 x10
+9
+/L used in both severity scores.
+A low haemoglobin indicates a poor prognosis and should be treated but is not part of either score.
+Renal function tests
+May indicate an acute kidney injury and significant electrolyte disturbances which need treatment with intravenous fluids.
+A raised or rising urea is a part of both scores.
+Liver function tests
+Raised AST and ALT levels are part of both scoring systems and severe pancreatitis can result in liver failure.
+A low albumin level < 32 g/L is a part of the Glasgow score.
+Calcium levels may be low due to sequestration by free fatty acids released by lipase acting on body fat stores. This process is known as saponification and a corrected serum calcium < 2.0 mmol/L is part of both scores.
+LDH levels indicate systemic cellular stress and raised levels are part of both scores.
+Arterial blood gases
+A low PaO
+2
+< 8 kPa indicates respiratory failure (type 1) due to the inflammatory response and is part of both scores.
+The FiO
+2
+:SpO
+2
+ratio can indicate that ARDS is developing if there is a significant drop in oxygen delivery.
+There may be a metabolic acidosis due to the significant inflammatory response and cardiovascular shock and a base deficit > 4 mmol/L is part of the Ranson score.
+Imaging
+A chest x-ray can be useful as it may show asymptomatic pleural effusions and pulmonary infiltrates and predict need for a higher level of care.
+The appearances of the pancreas on CT imaging can also be used for the Balthazar severity score.
+Cause
+Liver function tests should be performed as they may indicate a raised bilirubin (suggesting gallstones as the cause) or an isolated raised gamma-GT (suggesting alcohol use as the cause).
+Imaging
+Ultrasound can demonstrate a dilated common bile duct due to gallstones.
+CT imaging with contrast (see above) can indicate complications but can also be used to look for a pancreatic tumour as a cause.
+Improve
+Differential diagnosis
+Acute pancreatitis can mimic any cause of severe abdominal pain as well as certain thoracic conditions.
+Abdominal conditions
+Perforated duodenal ulcer
+This presents in a very similar way with shock,
+epigastric pain
+and can cause a small to moderate rise in serum amylase. The key differentiating factors and the difference in examination findings and the lesser degree of amylase elevation.
+Acute hepatitis
+Although there are features of upper abdominal pain and possibly shock, the main findings would be acute jaundice and deranged liver enzymes including raised transaminase (ALT/AST) levels.
+Biliary tract pathology
+There can be signs of shock due to sepsis and upper abdominal pain with a small or moderate
+raised amylase
+if biliary obstruction is present. An abdominal ultrasound to look for evidence of ductal obstruction is helpful in these cases to ensure cases of
+ascending cholangitis
+are appropriately treated.
+Bowel obstruction or ischaemia
+The resulting inflammation within the mesenteric system can cause release of local inflammatory mediators. These can cause a reactive pancreatic irritation and the result is a mildly raised amylase in all cases of bowel pathology (including appendicitis). The key differentiating factors would be the examination findings and the lesser degree of amylase elevation.
+Obstructed or strangulated hernias
+These can produce a similar picture to bowel ischaemia or obstruction, especially when involving the small bowel.
+Renal tract disease
+The inflammatory response produced if there is a pyelonephritis or ureteric obstruction can also produce a similar response in the pancreas but the amylase would only be minimally elevated.
+Gynaecological pathology
+An ectopic pregnancy should be the primary differential in any case of abdominal pain in early pregnancy. In young women of child-bearing age where there is a suspicion of pregnancy a urine or serum beta-HCG test can be used to help diagnose ectopic pregnancy if suspected. This and any other inflammatory process affecting the mesentery (e.g. ovarian torsion or metastatic ovarian cancer) can cause a mild rise in amylase but not to the degree expected for pancreatitis.
+Non-abdominal conditions
+Inferior myocardial infarction
+ECG changes and a rise in serum troponin would be diagnostic.
+Basal pneumonia
+A chest x-ray would demonstrate a focal change with only a mild rise in amylase if at all.
+Pericarditis
+There may be evidence of ECG changes and pericardial thickening on an echocardiogram and serum amylase will be normal or only slightly raised.
+Improve
+Management
+The immediate management involves resuscitation of the patient with a systematic ABCDE assessment and correction of any life threatening derangements in physiology. Patients with acute pancreatitis can present in a profound state of shock with respiratory compromise and develop multi-organ failure in a short space of time.
+Treatment of the main phase is entirely supportive with treatment aimed at preventing deterioration and managing symptoms. While a mild attack of acute pancreatitis (defined by either scoring system) can be managed on the ward, a severe attack should be discussed with critical care and ideally be managed in a high-dependency environment. The cause of the attack should also be ascertained as in the case of gallstone pancreatitis an urgent endoscopic retrograde cholangiopancreatography (ERCP) is indicated to remove the blocked stone and this can produce a marked improvement in severity of the attack. After the acute attack has settled an early planned cholecystectomy should be planned with follow up imaging to ensure no gallstones remain within the biliary tract which could precipitate a repeat episode.
+General management
+Analgesia which may be in the form of a patient-controlled intravenous morphine pump.
+Regular anti-emetics, ideally intravenously.
+Consider a nasogastric tube on free drainage if
+vomiting
+is a problem.
+Begin nutrition as early as possible, ideally enterally if only a mild attack.
+Aggressive fluid resuscitation is necessary and patients may require up to 10L of fluids in the first 24-hours titrated to their vital signs.
+Frequent blood glucose monitoring with a variable-rate insulin infusion being started if there is persistent hyperglycaemia.
+Guidance by NICE in 2018 states that antibiotics are
+not
+indicated prophylactically in acute pancreatitis.
+Severe attacks
+Blood pressure
+Invasive monitoring to assist managing fluid resuscitation.
+Consideration of the use of vasopressors if required.
+Respiratory
+Supplemental oxygen with frequent monitoring of PaO
+2
+.
+Early use of non-invasive ventilatory support if required as may develop acute respiratory distress syndrome (ARDS).
+After the acute phase, there are a number of complications which can develop around the pancreas which may require surgical treatment. A low index of suspicion and repeat amylase/lipase and CT imaging are helpful in diagnosing these complications.
+Indications for Follow-up Imaging
+Moderately severe or severe pancreatitis, signs of sepsis, or clinical deterioration 72 hours post-presentation
+Contrast-enhanced CT scan to assess pancreatic or extrapancreatic necrosis and local complications
+Transfer to centres of expertise if persistent organ failure and extensive local complications
+Late complications
+Pancreatic necrosis:
+Most necrotic collections are sterile and do not require any treatment although frequent monitoring to look for signs of infection should be performed.
+Surgical or radiological drainage or aspiration is indicated if there is any suspicion of infection and drains placed with intravenous antibiotic therapy commenced as soon as possible.
+Pseudocyst formation:
+Surgery is not indicated unless there are significant pressure symptoms as they are likely to resolve over time.
+Drainage can be performed endoscopically or surgically and a drain into the stomach lumen is usually used to prevent recurrence.
+Ascites:
+Widespread enzyme-rich ascites can occur with release of pancreatic enzymes into the peritoneal space.
+Multiple large bore ascitic drains should be placed and left in until no further fluid is produced.
+Retroperitoneal haemorrhage:
+Bleeding can be life-threatening and due to soft-tissue damage by protease enzymes or direct damage to a large vessel causing a pseudoaneurysm formation.
+CT angiography can be used to identify the source of bleeding and radiological embolisation has widely become the treatment of choice for these bleeds.
+Improve
+Complications
+Local complications
+Peripancreatic fluid collections
+Occur in 25% cases
+Located in or near the pancreas and lack a wall of granulation or fibrous tissue
+May resolve or develop into pseudocysts or abscesses
+Since most resolve aspiration and drainage is best avoided as it may precipitate infection
+Pseudocysts
+In acute pancreatitis result from organisation of peripancreatic fluid collection. They may or may not communicate with the ductal system.
+The collection is walled by fibrous or granulation tissue and typically occurs 4 weeks or more after an attack of acute pancreatitis
+Most are retrogastric
+75% are associated with persistent mild elevation of amylase
+Investigation is with CT, ERCP and MRI or endoscopic USS
+Symptomatic cases may be observed for 12 weeks as up to 50% resolve
+Treatment is either with endoscopic or surgical cystogastrostomy or aspiration
+Pancreatic necrosis
+Pancreatic necrosis may involve both the pancreatic parenchyma and surrounding fat
+Complications are directly linked to extent of parenchymal necrosis and extent of necrosis overall
+Early necrosectomy is associated with a high mortality rate (and should be avoided unless compelling indications for surgery exist)
+Sterile necrosis should be managed conservatively (at least initially)
+Some centres will perform fine-needle aspiration sampling of necrotic tissue if infection is suspected. False negatives may occur and the extent of sepsis and organ dysfunction may be a better guide to surgery
+Pancreatic abscess
+Intraabdominal collection of pus associated with pancreas but in the absence of necrosis
+Typically occur as a result of infected pseudocyst
+Transgastric drainage is one method of treatment, endoscopic drainage is an alternative
+Haemorrhage
+Infected necrosis may involve vascular structures with resultant haemorrhage that may occur de novo or as a result of surgical necrosectomy.
+When retroperitoneal haemorrhage occurs Grey Turner's sign may be identified
+Systemic complications
+Acute respiratory distress syndrome
+associated with a high-mortality rate of around 20%
+Improve
+Prognosis
+Acute attacks
+Acute pancreatitis still carries an overall mortality of around 10-15%.
+Severe attacks where pancreatic necrosis and subsequent infection develop have a mortality of up to 50% and death is mostly due to the systemic complications.
+Long-term morbidity and recurrence
+Following severe attacks patients can develop insulin-dependent diabetes and long-term malabsorption.
+Mild attacks however are likely to resolve without any complications.
+If the cause of the attack is found and treated then it is unlikely to occur again.
+In cases where the underlying cause is not found there is a higher chance of a repeat episode of acute pancreatitis.
+This is usually more severe than the first attack so it is important to try and identify a cause if possible and treat it.
+Improve
+References
+NICE - 2018 Pancreatitis guidelines
+Journal of Clinical and Diagnostic Research - APACHE II scoring system for Acute Pancreatitis
+British Society of Gastroenterology - Acute pancreatitis: recent advances through randomised trials
+UKMLA condition
+Acute pancreatitis

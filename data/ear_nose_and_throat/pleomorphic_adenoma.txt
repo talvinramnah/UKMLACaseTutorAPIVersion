@@ -1,0 +1,140 @@
+Pleomorphic adenoma
+Pleomorphic adenoma
+Pleomorphic adenomas are the most common salivary gland tumour. They most commonly occur in the parotid gland. Within the parotid gland, 80% of neoplasms are benign, and of these, 80% are pleomorphic adenomas.
+As pleomorphic adenomas are benign neoplasms, they do not metastasise or invade local structures. Therefore, unlike their malignant counterparts, pleomorphic adenomas do not invade the facial nerve and so facial palsy is not part of their clinical presentation.
+Pleomorphic adenomas carry a significant risk of undergoing malignant transformation.
+Last updated: 13
+th
+September 2023
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in females 2:1
+Condition
+Relative
+incidence
+Salivary gland stones
+2.00
+Pleomorphic adenoma
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of pleomorphic adenomas remains largely unknown.
+Radiation exposure has been implicated in both benign and malignant salivary gland tumours
+Some studies suggest an association with simian virus (SV40).
+Some studies report female dominance (2:1)
+Smoking has
+no
+significant association with pleomorphic adenomas.
+Contrast this with Warthin's tumours where there is a strong association with smoking
+Improve
+Pathophysiology
+Owing to their name, pleomorphic adenomas demonstrate varied histological appearances:
+Microscopically, different cell types are surrounded by mucoid, myxoid or cartilaginous extracellular matrix
+Pleomorphic adenomas contain both cells derived from epithelium (polygonal shaped) and myoepithelium (spindle-shaped) and often contain different cell types within the same tumour
+This is why these tumours are sometimes referred to as benign mixed tumours
+It is within these different cell types that lie the potential for
+malignant transformation
+The tumour is contained within a nodular pseudo-capsule. This pseudo-capsule is an important consideration when it comes to removing the tumour; if any nodules remain, recurrence is likely.
+Improve
+Clinical features
+A typical presentation of a pleomorphic adenoma involves a slow-growing, painless, and firm mass located within the parotid gland, palpable in the pre-auricular region. The lesion often moves freely upon examination and does not cause any overlying skin changes. It is the most common benign tumour of the salivary glands, with the parotid gland being its primary site.
+Detailed Clinical Features:
+Location:
+Primary Site: Over 80% of pleomorphic adenomas arise in the parotid gland.
+Secondary Sites: The remaining cases can be found in the submandibular gland or minor salivary glands, often in the palate.
+Size and Consistency:
+Size: Can vary, but typically measures between 2 to 6 cm.
+Consistency: Often described as rubbery or firm.
+Rate of Growth:
+Typically slow-growing, with some lesions present for years before seeking medical evaluation.
+Overlying Skin:
+Unaffected in most cases, retaining its normal colour and texture.
+No tethering or ulceration.
+Pain and Discomfort:
+Generally painless.
+However, if rapid expansion occurs due to cystic degeneration or haemorrhage within the tumour, it might cause discomfort or pain.
+Facial Nerve Function:
+Intact in almost all presentations, as pleomorphic adenoma rarely invades the facial nerve.
+Facial nerve weakness or paralysis suggests malignant change or an alternative diagnosis.
+Other Salivary Gland Symptoms:
+Xerostomia (dry mouth), altered salivation, or other salivary gland dysfunction are uncommon unless the tumour becomes particularly large or if there are post-surgical complications.
+Additional Features in Non-Parotid Sites:
+When occurring in the submandibular gland, it presents as a mass in the upper neck.
+In minor salivary glands, particularly in the palate, it appears as a submucosal swelling.
+Physical Examination:
+Upon palpation, the mass is typically smooth and mobile. Its non-adherent nature to overlying skin or deep structures is a classic feature. However, in long-standing cases, it can become adherent due to fibrous tissue development. Assessing the facial nerve function is crucial during the examination to rule out malignancy or other pathology.
+Improve
+Investigations
+Pleomorphic adenomas are investigated as salivary gland tumours. Although there are no NICE guidelines on the investigation of salivary gland tumours a recent review from up to date on salivary gland tumours recommends the following investigations:
+Ultrasound guided fine needle aspiration / core needle biopsy
+This provides a tissue diagnosis prior to definitive treatment as well as
+Ultrasound scan may also provide high resolution imaging which is cost effective
+Further imaging may be required for surgical planning to assess local invasion:
+CT scan
+MRI scan
+Improve
+Differential diagnosis
+Pleomorphic adenoma is the most common reason for a persistent unexplained lump in the parotid. It is also the most common benign tumour, however, over 40 different subtypes of neoplasms are implicated in salivary gland tumours.
+The following conditions may also present as head and neck lumps, and are possible differential diagnoses for pleomorphic adenomas and other salivary gland tumours:
+Regional lymphadenopathy
+Infection / inflammatory / malignant origin
+Most head/neck lumps are lymph nodes
+May be shorter time period < 3 weeks
+Benign tumours
+Slow growing, non-tender lumps- Similar presentation- Require histology to differentiate
+Malignant tumours/head and neck tumour metastases
+Suspicious features: rapid growth, pain, skin tethering, skin ulceration, cervical lymphadenopathy, facial palsy
+Salivary gland stones
+Solid painful mass +/- dry mouth
+Salivary cysts
+May occur after previous trauma, stones or infection
+Branchial cysts
+Typically a younger patient < 20 years old
+May present with infection or abscess formation
+Sjogren syndrome
+Associated with dry eyes and connective tissue diseases
+Sarcoidosis
+Multi-system disease- lung, joint, skin involvement etc.
+Can present bilaterally
+Mumps
+Fever, pain, tenderness, may be bilateral, vaccination history
+Rarer causes
+Chronic sclerosing sialadenitis / lymphoepithelial cysts / facial nerve schwannoma
+Improve
+Management
+There are no NICE guidelines directly addressing salivary gland tumours. NICE clinical knowledge summaries state that:
+An urgent referral (within 2 weeks) should be made for persistent unexplained lumps in the parotid or submandibular glands.
+The mainstay of treatment is surgical. Pleomorphic adenomas are removed due to their risk of malignant transformation and to allow for a definitive tissue diagnosis to be made.
+Surgical options include:
+Superficial parotidectomy
+Superficial lobe of parotid is removed
+Extracapsular dissection
+Less tissue is removed- this carries a lower risk of complications
+Consideration of other management modalities such as radiotherapy should be discussed at MDT if invasive malignancy suspected but this is generally not indicated.
+Improve
+Complications
+The main complication of pleomorphic adenomas is
+malignant transformation
+. This risk is 1.5% in the first 5 years but increases significantly to 9.5% after 15 years. Surgery is therefore indicated in the majority of patients to reduce the risk of 'carcinoma ex pleomorphic adenoma'. Rapid enlargement of the tumour with or without other suspicious features should prompt the clinician to consider malignant transformation.
+Other complications are rare. The complications tend to stem from the surgery to remove pleomorphic adenomas. As well as the usual surgical complications of pain, bleeding and infection, specific complications of parotid surgery include:
+Facial nerve injury
+This is the most important complication due to the parotid gland's intimate relationship with CN VII
+This may cause symptoms such as dribbling from the angle of the mouth or corneal drying depending on the branches affected.
+Frey's syndrome
+This causes 'gustatory sweating' i.e. facial sweating in response to salivary gland stimuli
+Salivary fistula
+Nerve injuries may also occur in submandibular gland surgery leading to tongue wasting or tongue numbness due to injuries of the lingual or hypoglossal nerves.
+Pleomorphic adenomas, even though benign, carry a significant risk of recurrence. This is because the tumour is not contained within a 'true capsule'. The tumour has the ability to grow beyond the capsule. If any tumour cells are left behind during surgery (so-called spillage or seeding), the tumour cells have the potential to grow, causing a recurrence. To reduce this risk, at least 5mm resection margins are required during extra-capsular dissection. This must be followed up by a pathologist's report to confirm tumour-free resection margins.
+Improve
+Ear, nose and throat
+Pleomorphic adenoma

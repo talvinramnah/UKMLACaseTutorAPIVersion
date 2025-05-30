@@ -1,0 +1,203 @@
+Chronic kidney disease
+Chronic kidney disease
+Chronic kidney disease (CKD) is a progressive condition that affects millions of people worldwide, and its prevalence is increasing due to the rise in risk factors such as diabetes and
+hypertension
+. CKD is classified into five stages based on the level of kidney function, with stage 1 being the mildest and stage 5 being the most severe. Patients with CKD are at increased risk of developing complications such as cardiovascular disease, anaemia, and bone disease. Management of CKD involves controlling underlying risk factors, such as blood pressure and blood sugar levels, and addressing complications as they arise. In advanced stages of CKD, patients may require renal replacement therapy, such as dialysis or kidney transplantation. Regular monitoring and management of CKD are essential to prevent or delay the progression of the disease and improve patient outcomes.
+Last updated: 18
+th
+December 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Common causes of chronic kidney disease
+diabetic nephropathy
+chronic glomerulonephritis
+chronic pyelonephritis
+hypertension
+adult polycystic kidney disease
+Improve
+Clinical features
+Chronic Kidney Disease (CKD) is a long-standing condition that leads to a gradual loss of kidney function over time. The symptoms of CKD often go unnoticed until the disease has significantly progressed because the kidneys can compensate for their diminished function in the early stages.
+Early Clinical Manifestations
+In the early stages of CKD, symptoms are often non-specific, mild, or absent. When present, they can include:
+Fatigue:
+This is due to the build-up of toxins that the kidneys are unable to filter out, as well as anaemia, a common feature in CKD resulting from reduced erythropoietin production by the kidneys.
+Polyuria
+or Nocturia:
+Changes in urine output can occur. Some individuals may experience increased frequency of urination, particularly at night.
+Hypertension
+:
+High blood pressure can be both a cause and an early consequence of CKD due to dysregulation of fluid volume and the renin-angiotensin system.
+Puffiness or Swelling:
+This is typically around the eyes or in the ankles and legs due to fluid retention.
+Later Clinical Manifestations
+As CKD progresses to more severe stages, including end-stage renal disease, the symptoms become more apparent and disruptive:
+Decreased Urine Output:
+Oliguria or anuria may occur in the advanced stages of CKD.
+Fluid Overload Symptoms:
+These can include shortness of breath due to pulmonary oedema, peripheral oedema, and hypertension.
+Uraemic Symptoms:
+As toxin levels rise, symptoms such as
+nausea
+,
+vomiting
+,
+anorexia
+, metallic taste in the mouth, hiccups, and
+pruritus
+can develop.
+Neurological Symptoms:
+These can range from difficulty concentrating and fatigue to more severe manifestations such as seizures and coma in the setting of uraemic encephalopathy.
+Cardiovascular Symptoms:
+Patients may experience chest pain or shortness of breath due to CKD-related cardiovascular disease, including coronary artery disease and pericarditis.
+Anaemia Symptoms:
+Fatigue, pallor, and dyspnoea on exertion can occur due to anaemia.
+Bone and Mineral Disease:
+CKD can disrupt calcium and phosphate balance, leading to bone pain, fractures, and other symptoms of renal osteodystrophy.
+Metabolic Acidosis Symptoms:
+Patients may present with symptoms of metabolic acidosis, such as rapid breathing, confusion, and
+lethargy
+.
+Improve
+Investigations
+Proteinuria
+Proteinuria is an important marker of chronic kidney disease, especially for diabetic nephropathy. NICE recommend using the albumin:creatinine ratio (ACR) in preference to the protein:creatinine ratio (PCR) when identifying patients with proteinuria as it has greater sensitivity. For quantification and monitoring of proteinuria, PCR can be used as an alternative, although ACR is recommended in diabetics. Urine reagent strips are not recommended unless they express the result as an ACR
+Approximate equivalent values
+ACR (mg/mmol)
+PCR (mg/mmol)
+Urinary protein excretion (g/24 h)
+30
+50
+0.5
+70
+100
+1
+Collecting an ACR sample
+by collecting a 'spot' sample it avoids the need to collect urine over a 24 hour period in order to detect or quantify proteinuria
+should be a first-pass morning urine specimen
+if the initial ACR is between 3 mg/mmol and 70 mg/mmol, this should be confirmed by a subsequent early morning sample. If the initial ACR is 70 mg/mmol or more, a repeat sample need not be tested.
+Interpreting the ACR results
+the NICE guidelines state 'regard a confirmed ACR of 3 mg/mmol or more as clinically important proteinuria'
+NICE recommendations for referral to a nephrologist:
+a urinary albumin:creatinine ratio (ACR) of 70 mg/mmol or more, unless known to be caused by diabetes and already appropriately treated
+a urinary ACR of 30 mg/mmol or more, together with persistent haematuria (two out of three dipstick tests show 1+ or more of blood) after exclusion of a urinary tract infection
+consider referral to a nephrologist for people with an ACR between 3-29 mg/mmol who have persistent haematuria and other risk factors such as a declining eGFR, or cardiovascular disease
+Frequency of monitoring eGFR (number of times per year by eGFR and ACR categories) for people with or at risk of CKD
+eGFR categories (mL/min/1.73 m2)
+ACR categories (mg/mmol)
+A1 (< 3) Normal to mildly increased
+A2 (3-30) Moderately increased
+A3 (> 30) Severely increased
+G1 >=90 Normal and high
+=< 1
+1
+>= 1
+G2 60-89 Mild reduction related to normal range for a young adult
+=< 1
+1
+>= 1
+G3a 45-59 Mild to moderate reduction
+1
+1
+2
+G3b 30-44 Moderate to severe reduction
+=< 2
+2
+>= 2
+G4 15-29 Severe reduction
+2
+2
+3
+G5 <15 Kidney failure
+4
+>=4
+>=4
+Improve
+Diagnosis
+Serum creatinine may not provide an accurate estimate of renal function due to differences in muscle. For this reason formulas were develop to help estimate the glomerular filtration rate (estimated GFR or eGFR). The most commonly used formula is the Modification of Diet in Renal Disease (MDRD) equation, which uses the following variables:
+serum creatinine
+age
+gender
+ethnicity
+Factors which may affect the result
+pregnancy
+muscle mass (e.g. amputees, body-builders)
+eating red meat 12 hours prior to the sample being taken
+CKD may be classified according to GFR:
+CKD stage
+GFR range
+1
+Greater than 90 ml/min, with some sign of kidney damage on other tests (if all the kidney tests* are normal, there is no CKD)
+2
+60-90 ml/min with some sign of kidney damage (if kidney tests* are normal, there is no CKD)
+3a
+45-59 ml/min, a moderate reduction in kidney function
+3b
+30-44 ml/min, a moderate reduction in kidney function
+4
+15-29 ml/min, a severe reduction in kidney function
+5
+Less than 15 ml/min, established kidney failure - dialysis or a kidney transplant may be needed
+*i.e. normal U&Es and no proteinuria
+Improve
+Complications
+Anaemia
+Patients with chronic kidney disease (CKD) may develop anaemia due to a variety of factors, the most significant of which is reduced erythropoietin levels. This is usually a normochromic normocytic anaemia and becomes apparent when the GFR is less than 35 ml/min (other causes of anaemia should be considered if the GFR is > 60 ml/min). Anaemia in CKD predisposes to the development of left ventricular hypertrophy - associated with a three fold increase in mortality in renal patients
+Causes of anaemia in renal failure
+reduced erythropoietin levels - the most significant factor
+reduced erythropoiesis due to toxic effects of uraemia on bone marrow
+reduced absorption of iron
+anorexia
+/
+nausea
+due to uraemia
+reduced red cell survival (especially in haemodialysis)
+blood loss due to capillary fragility and poor platelet function
+stress ulceration leading to chronic blood loss
+Management
+the 2011 NICE guidelines suggest a target haemoglobin of 10 - 12 g/dl
+determination and optimisation of iron status should be carried out prior to the administration of erythropoiesis-stimulating agents (ESA). Many patients, especially those on haemodialysis, will require IV iron
+ESAs such as erythropoietin and darbepoetin should be used in those 'who are likely to benefit in terms of quality of life and physical function'
+Mineral bone disease
+The aim is to reduce phosphate and parathyroid hormone levels.
+Overview
+reduced dietary intake of phosphate is the first-line management
+phosphate binders
+vitamin D: alfacalcidol, calcitriol
+parathyroidectomy may be needed in some cases
+Phosphate binders
+aluminium-based binders are less commonly used now
+calcium-based binders
+problems include hypercalcemia and vascular calcification
+sevelamer
+a non-calcium based binder that is now increasingly used
+binds to dietary phosphate and prevents its absorption
+also appears to have other beneficial effects including reducing uric acid levels and improving the lipid profiles of patients with chronic kidney disease
+Hypertension
+The majority of patients with chronic kidney disease (CKD) will require more than two drugs to treat hypertension. ACE inhibitors are first-line and are particularly helpful in proteinuric renal disease (e.g. diabetic nephropathy). As these drugs tend to reduce filtration pressure a small fall in glomerular filtration pressure (GFR) and rise in creatinine can be expected. NICE suggest that a decrease in eGFR of up to 25% or a rise in creatinine of up to 30% is acceptable, although any rise should prompt careful monitoring and exclusion of other causes (e.g. NSAIDs). A rise greater than this may indicate underlying renovascular disease.
+Furosemide is useful as an anti-hypertensive in patients with CKD, particularly when the GFR falls to below 45 ml/min. It has the added benefit of lowering serum potassium. High doses are usually required. If the patient becomes at risk of dehydration (e.g. Gastroenteritis) then consideration should be given to temporarily stopping the drug
+Improve
+References
+NICE - 2014 Chronic kidney disease guidelines
+NICE - 2021 Chronic kidney disease: assessment and management guidelines
+NICE - 2014 Chronic kidney disease guidelines
+NICE - 2021 Chronic kidney disease: managing anaemia
+MDCalc - Creatinine Clearance (Cockcroft-Gault Equation)
+The Renal Association - CKD anaemia guidelines
+NKF K/DOQI - Use of diuretics in CKD
+KDIGO Clinical Practice Guideline - Management of Blood Pressure in Chronic Kidney Disease
+KDIGO - 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Diseaseâ€“Mineral and Bone Disorder (CKD-MBD)
+Nephrology
+Chronic kidney disease

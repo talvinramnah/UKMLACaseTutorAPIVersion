@@ -1,0 +1,276 @@
+Acute exacerbation of COPD
+Acute exacerbation of COPD
+An acute exacerbation of
+chronic obstructive pulmonary disease
+(COPD) is an event of acute deterioration in a patient's baseline clinical status that often necessitates a change in medication. Patients typically present with a worsening of their day-to-day
+respiratory
+symptoms, most commonly increasing
+dyspnoea
+,
+sputum
+volume and sputum purulence.
+Exacerbations accelerate the physiological and functional decline of patients with COPD and constitute a large proportion of emergency hospital admissions in the UK.
+Last updated: 1
+st
+February 2024
+Epidemiology
+Incidence: 1500.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.1:1
+Condition
+Relative
+incidence
+Acute exacerbation of
+COPD
+1
+Acute exacerbation of asthma
+0.67
+Pneumonia
+0.33
+Acute heart failure
+0.13
+Pulmonary embolism
+0.05
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute exacerbations of
+chronic obstructive pulmonary disease
+(AECOPD) are typically precipitated by a number of identifiable risk factors and underlying causes. These can be broadly categorised into infectious and non-infectious aetiologies.
+Infectious Aetiologies
+Bacterial infections:
+A significant proportion of AECOPD cases are attributable to bacterial pathogens. Key organisms include
+Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis,
+and atypical bacteria such as
+Mycoplasma pneumoniae
+and
+Chlamydophila pneumoniae
+.
+Viral infections:
+Respiratory
+viruses also play a substantial role in the aetiology of AECOPD. Common viral pathogens include rhinovirus, influenza virus, parainfluenza virus, coronavirus, respiratory syncytial virus (RSV), and human metapneumovirus.
+Non-Infectious Aetiologies
+Air pollution:
+Exposure to indoor and outdoor air pollutants has been associated with an increased risk of AECOPD. These pollutants include tobacco smoke, biomass fuel combustion products, industrial emissions, vehicle exhaust fumes, and dust particles.
+Allergens:
+Sensitisation to common allergens such as pollen or pet dander can trigger an exacerbation in susceptible individuals.
+Pulmonary embolism
+:
+Although less common than the other causes listed, pulmonary embolism can present as an acute exacerbation of COPD in some instances.
+Medication non-compliance:
+Failure to adhere to prescribed COPD management regimens can precipitate an acute exacerbation. This includes both pharmacological treatments such as bronchodilators and corticosteroids, as well as non-pharmacological interventions like pulmonary rehabilitation and smoking cessation.
+In addition to these risk factors, several host factors have been identified that may increase the susceptibility of individuals with COPD to acute exacerbations. These include severe underlying disease, frequent prior exacerbations, comorbid conditions (e.g., heart failure or diabetes), and poor nutritional status.
+Improve
+Pathophysiology
+In
+COPD
+, the airways are obstructed due to inflammation and have high compliance due to emphysematous destruction. These pathophysiological mechanisms limit airflow during expiration, leading to gas trapping and lung hyperinflation. Pulmonary vasculature can also be subjected to emphysematous changes, causing pulmonary hypertension and right ventricular dysfunction.
+During an exacerbation, the following processes happen:
+Increased inflammation, mucosal oedema and bronchospasm further limit expiratory flow
+Gas trapping worsens, increasing ventilation-perfusion mismatch
+The resulting hypoxia and hypercapnia trigger the neural drive to increase ventilation
+Respiratory
+muscles
+fatigue
+, leading to a 'neuromechanical decoupling' that reduces the ventilatory drive
+Existing cardiac dysfunction worsens due to increasing pulmonary vascular resistance
+Improve
+Clinical features
+The clinical presentation of exacerbations of
+COPD
+range in severity from mild exacerbations that can be successfully managed in the community with increased short-acting bronchodilators to severe exacerbations that present with
+respiratory
+failure requiring ventilatory support. Thus, the key aim of the clinical assessment is to identify the patients who are at risk of deterioration and need to be managed in hospital.
+All patients present with some form of deterioration in their respiratory status, however this needs to be characterised in terms of its variation from the patient's baseline symptoms and the time course of its development. The modified Anthonisen criteria suggest that a diagnosis of an exacerbation of COPD can be made if there are at least 2 of the major symptoms or at least one major and one minor symptom:
+Major symptoms -
+dyspnoea
+, increased
+sputum
+volume, increased sputum purulence
+Minor symptoms -
+cough
+,
+wheeze
+, nasal discharge, sore throat, pyrexia
+Signs of an acute exacerbation of COPD on physical examination include:
+Increased respiratory effort -
+tachypnoea
+, nasal flaring, use of accessory muscles, paradoxical chest wall movement
+Tachycardia
+- this could be due to anxiety, hypoxia and/or increased respiratory effort
+Worsening airway obstruction heard on auscultation:
+Reduced breath sounds
+Prolongation of the expiratory phase with wheezing
+Crackles which could indicate an infective component
+In addition, the following signs are good indicators of the patient's respiratory status:
+Indicators of hypoxia and/or hypercapnia:
+New or worsening central cyanosis
+Asterixis
+Altered mentation e.g. confusion, drowsiness
+Reduced respiratory effort such as shallow breaths indicate that the patient is tiring and is at risk of progression to respiratory failure
+Hypotension could be an early of sign of haemodynamic instability indicating impending respiratory arrest
+The measurement of airflow obstruction using Peak Expiratory Flow (PEF) or Forced Expiratory Volume in 1 second (FEV1) is not useful during the diagnostic process, unlike in
+acute exacerbation of asthma
+where the PEF is key in determining the severity of the presentation.
+The NICE guidelines on COPD recommend that the clinical assessment of patients with a suspected exacerbation is focussed on identifying the following features that could indicate that a patient is at risk of adverse outcomes and so should be managed in hospital:
+Rapid onset of symptoms and/or severe breathlessness
+Poor baseline functional status:
+Poor level of activity or confined to bed
+Unable to cope at home
+Receiving long-term
+oxygen therapy
+(LTOT)
+Presence of comorbidities:
+Cardiac disease
+Insulin-dependent diabetes mellitus
+Findings on physical examination that indicate hypoxia and hypercapnia:
+SpO2 < 90% on pulse oximetry
+Presence of cyanosis
+Worsening peripheral oedema (which could indicate worsening renal hypoxia)
+Acute confusion
+and/or impaired level of consciousness
+Improve
+Investigations
+The investigation of acute exacerbation of
+chronic obstructive pulmonary disease
+(AECOPD) follows a systematic approach, starting with first-line investigations and progressing to more specific tests as required. The aim is to confirm the diagnosis, assess severity, identify triggers or contributing factors and guide appropriate treatment.
+First-Line Investigations
+Pulse oximetry:
+This is an essential tool for assessing oxygen saturation levels in patients suspected of AECOPD. Low oxygen levels may indicate severe exacerbation.
+Chest X-ray:
+It helps exclude other causes of symptoms such as
+pneumonia
+or pneumothorax. However, it's not typically diagnostic for an AECOPD episode.
+Blood gases:
+Arterial blood gas (ABG) analysis can be performed if the patient is hypoxic on pulse oximetry or has clinical signs suggesting severe exacerbation. It provides information about the patient's oxygenation, carbon dioxide levels and acid-base status.
+Full Blood Count (FBC):
+This can help identify infection or anaemia which could contribute to the exacerbation.
+Further Investigations
+If initial tests are inconclusive or if there are features that suggest an alternative diagnosis, additional investigations may be warranted.
+Sputum
+culture:
+If purulent sputum is present, sending a sample for microbiological analysis can identify potential pathogens including bacteria such as
+Pseudomonas aeruginosa
+,
+Haemophilus influenzae
+, and
+Streptococcus pneumoniae
+.
+Spirometry:
+Although not generally used in the acute setting due to practical limitations, spirometry can be useful in the post-exacerbation phase to assess the patient's lung function and guide long-term management.
+CT scan:
+This is not routinely used in AECOPD but may be considered if there is suspicion of other pathologies such as lung cancer or bronchiectasis.
+It should be noted that while these investigations are important, the diagnosis of an acute exacerbation of COPD is primarily a clinical one, based on a history of worsening
+respiratory
+symptoms. Investigations are used to support this diagnosis, look for triggers and guide treatment rather than to diagnose the condition itself.
+Guidelines
+The British Thoracic Society (BTS) guidelines for the management of COPD recommend these investigations for suspected AECOPD. These guidelines also emphasise that clinical assessment remains paramount in managing patients with suspected AECOPD.
+Note:
+Always consider local antimicrobial resistance patterns when interpreting sputum culture results.
+Improve
+Differential diagnosis
+Cardiac and
+respiratory
+causes of acute breathlessness should be considered when assessing a patient with a suspected exacerbation of
+COPD
+.
+Pneumonia
+Similarity - clinical presentation of
+dyspnoea
+and
+cough
+productive of purulent
+sputum
+. This can be difficult to distinguish from exacerbations of bacterial origin.
+Difference - clinical and radiological findings of lung consolidation (bronchial breathing, increased vocal resonance and opacification seen on chest X-ray)
+Pulmonary embolism
+This is an important diagnosis to exclude as COPD is a risk factor for thromboembolism especially during exacerbations
+Differentiating embolism from exacerbation - dyspnoea and hypoxia predominate cough and sputum production. Signs of lower limb venous thromboembolism such as calf swelling may be present
+Pulmonary oedema
+This could be either due to a myocardial infarction or a presentation of acute-on-chronic heart failure
+Differentiating features - sputum may be frothy rather than purulent, with characteristic X-ray changes of alveolar and interstitial oedema
+Improve
+Management
+The management of an acute exacerbation of
+COPD
+can be divided into 4 components.
+1. Provision of
+respiratory
+support
+The British Thoracic Society (BTS) recommends that prior to the availability of ABG results, all patients should be provided with supplemental oxygen titrated to achieve target saturations of 88-92%. Supplemental oxygen can be provided via either:
+A 24% Venturi mask at 2-3 L/min
+A 28% Venturi mask at 4 L/min
+Nasal cannulae at 1-2 L/min
+ABG measurements should be taken upon arrival in hospital and repeated after 30-60 minutes. If the pCO2 and pH values of the ABG measurement are normal, the target oxygen saturation can be adjusted to 94-98%. However, a target of 88-92% should be maintained if the patient has:
+A history of previous Type 2 respiratory failure requiring
+non-invasive ventilation
+(NIV) or intermittent positive pressure ventilation
+Oxygen saturation below 94% when clinically stable
+Long-standing hypercapnia - raised pCO2 but with a pH of ≥ 7.35 and/or a bicarbonate level of > 28 mmol/mol
+Patients with persistent hypercapnia and respiratory acidosis despite optimal medical management need to be started on NIV. The aim of NIV is to reverse the acidosis by providing pressure support for the airways during inspiration and expiration, leading to an overall improvement in gaseous exchange. BTS recommends that NIV is indicated if the following features are present 60 minutes after optimal supplemental oxygen and bronchodilation have been given:
+Acidosis - pH < 7.35
+Hypercapnia - pCO2 > 6.5
+Respiratory rate > 23
+Improvement in pH and reduction of the respiratory rate within the first 4 hours are key indicators of NIV success, otherwise, escalation to invasive mechanical ventilation (IMV) should be considered, especially if the following features are present:
+Imminent respiratory arrest
+Severe respiratory distress
+Failure of NIV - persistent acidosis (pH < 7.25) and
+tachypnoea
+(RR > 35)
+Persistent or worsening acidosis (pH < 7.15)
+Depressed consciousness (GCS < 8)
+Escalation to IMV may be deemed inappropriate after considering the patient's clinical status and wishes. In such cases, if NIV is adding to the patient's discomfort it should be discontinued and palliative care measures started.
+2. Pharmacological management
+Bronchodilation
+Short-acting beta2 agonists (SABA) and/or short-acting muscarinic antagonists (SAMA) should be used initially. These can be delivered via an inhaler or nebuliser driven by air
+Patients' long-acting beta2 agonists (LABA), long-acting muscarinic antagonists (LAMA) and/or inhaled corticosteroids (ICS) inhalers should be continued
+NICE recommends that IV theophylline may be used if the response is inadequate and levels should be checked 24 hours after commencing treatment
+Corticosteroids
+NICE recommends a 5-day course of oral prednisolone
+Antibiotics:
+GOLD recommends that antibiotic therapy is given to patients who have all 3 of the major symptoms or have 2 major symptoms with increasing
+sputum
+purulence being one of them or require mechanical ventilation (invasive and non-invasive)
+NICE suggests that the following factors be taken into account when prescribing an antibiotic - severity of symptoms, previous exacerbations and hospital admission history, previous culture results and risk of resistance
+Choice of antibiotic - penicillin e.g. amoxicillin, macrolides e.g. clarithromycin and tetracyclines e.g. doxycycline are most commonly prescribed due to their effectiveness against
+Haemophilus influenzae
+and
+Streptococcus pneumoniae
+3. Optimising the patient for discharge
+NICE recommends that the following steps are taken prior to discharge:
+Measurement of spirometry
+Optimisation of maintenance bronchodilator therapy
+Satisfactory pulse oximetry and ABGs in patients who have had respiratory failure
+Confirmation that the patient has returned to their functional baseline
+Arrangement for follow-up and home care e.g. nurse visits
+4. Prevention of exacerbations
+The following interventions have been shown to be effective in reducing the frequency of exacerbations. While some are fundamentals of COPD care, GOLD suggests that they should be reinforced and others incorporated into patients' long-term management where appropriate:
+Smoking cessation
+Influenza and pneumococcal vaccination
+Pulmonary rehabilitation
+Broadly defined as an integrated programme consisting of supervised exercise training, smoking cessation, nutritional counselling and educating patients about self-management of their disease
+A 6-8 week programme started within 2 weeks of discharge from hospital after an exacerbation has been shown to reduce readmission
+Vitamin D supplementation
+Supplementation in severe deficiency (< 10ng/ml) reduces exacerbation frequency by 50% due to Vitamin D's immune-modulating effects
+Augmentation of long-acting bronchodilation with anti-inflammatory therapy
+Inhaled corticosteroids - particularly effective with blood eosinophil counts of ≥ 100 cells/µL
+Roflumilast (phosphodiesterase-4 inhibitor) - can be used as an alternative to inhaled corticosteroids if blood eosinophil counts < 100 cells/µL or added on to the medication of patients already on a combination of LABA, LAMA and ICS if they have been hospitalised for an exacerbation in the past year
+Long-term macrolide
+Azithromycin has been shown to be effective especially among non-smokers but is associated with an increased risk of bacterial resistance
+Mucoregulators
+Can be used as regular therapy in patients not receiving ICS
+N-acetylcysteine and carbocysteine are common examples
+Improve
+References
+NICE - 2018 COPD guidelines
+Clinical Knowledge Summaries - Acute exacerbation of COPD guidelines
+Respiratory
+Acute exacerbation of COPD

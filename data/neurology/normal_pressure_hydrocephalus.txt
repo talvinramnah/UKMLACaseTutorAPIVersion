@@ -1,0 +1,160 @@
+Normal pressure hydrocephalus
+Normal pressure hydrocephalus
+Normal pressure hydrocephalus (NPH) is a neurological disorder characterised by a triad of symptoms: gait disturbance,
+cognitive impairment
+and
+urinary incontinence
+. This condition results from an accumulation of cerebrospinal fluid in the brain's ventricles causing them to enlarge. However, unlike other types of hydrocephalus, this occurs without an increase in intracranial pressure. The pathophysiology of NPH is not fully understood but it's often associated with conditions that inhibit CSF absorption such as subarachnoid haemorrhage or meningitis. Diagnosis can be challenging due to its insidious onset and similarity to other neurodegenerative disorders. It typically involves clinical assessment alongside imaging studies, particularly MRI scans demonstrating ventricular enlargement disproportionate to cortical atrophy. Management generally involves shunting procedures to drain excess CSF, which can significantly improve symptoms if performed appropriately.
+Last updated: 3
+rd
+July 2023
+Epidemiology
+Incidence: 6.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Normal pressure hydrocephalus
+1
+Multiple system atrophy
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Normal pressure hydrocephalus (NPH) is a complex neurological disorder, with the aetiology often multifactorial and not entirely understood. However, several risk factors and underlying causes have been identified, which can be broadly categorised into idiopathic and secondary causes.
+Idiopathic Normal Pressure Hydrocephalus
+The term 'idiopathic' refers to conditions with unknown or unclear aetiology. Idiopathic NPH makes up approximately 50-70% of all NPH cases. While the exact cause remains elusive, it's thought that age-related changes in cerebrospinal fluid (CSF) dynamics may play a significant role.
+Secondary Normal Pressure Hydrocephalus
+This form of NPH arises as a consequence of known pathological processes or events. Notable risk factors include:
+Subarachnoid haemorrhage:
+This event can lead to fibrosis of the arachnoid granulations where CSF is absorbed, resulting in impaired CSF turnover.
+Meningitis:
+Inflammatory processes associated with meningitis, particularly those caused by
+Pneumococcus
+, can cause similar fibrotic changes and subsequent CSF flow obstruction.
+Traumatic brain injury:
+TBI can disrupt CSF circulation through direct tissue damage or secondary inflammation.
+Intracranial tumours:
+Certain tumours may obstruct CSF pathways directly or induce hydrocephalus through increased production of CSF.
+Ventricular shunting or lumbar puncture:
+These procedures can occasionally lead to over-drainage of CSF and consequent development of NPH.
+In addition to these specific factors, general risk factors for NPH include advanced age and vascular comorbidities such as hypertension and diabetes mellitus. These conditions may contribute to altered CSF dynamics or increased brain vulnerability to changes in CSF pressure.
+Improve
+Pathophysiology
+Normal pressure hydrocephalus (NPH)
+is a neurological disorder characterised by the triad of gait disturbance,
+cognitive impairment
+, and
+urinary incontinence
+, associated with dilatation of ventricular system without an apparent increase in intracranial pressure.
+The pathophysiology of NPH involves the following steps:
+Ventricular dilation:
+The condition begins with an imbalance between production and absorption of cerebrospinal fluid (CSF), leading to progressive ventricular dilation. This can be due to decreased CSF absorption at the arachnoid granulations or increased CSF production.
+Periventricular stress:
+Ventricular enlargement exerts mechanical stress on surrounding periventricular white matter tracts. This leads to stretching and compression of these fibres, particularly affecting frontal white matter tracts including the corticospinal tract and fronto-striatal circuits.
+Disruption of blood-brain barrier:
+The mechanical stress also disrupts the blood-brain barrier integrity within the periventricular regions. This results in transudation of serum proteins into extracellular spaces, inducing localised inflammation.
+Inflammatory response:
+The inflammatory response further exacerbates white matter damage, leading to gliosis and demyelination. Furthermore, chronic inflammation may impair glymphatic clearance of interstitial solutes including amyloid-beta peptides, potentially contributing to cognitive decline seen in NPH patients.
+Cerebral perfusion changes:
+Ventricular dilation and subsequent brain parenchyma compression can lead to alterations in cerebral perfusion. Reduced cerebral blood flow and impaired autoregulation have been observed in NPH patients which may contribute to symptomatology.
+The above pathophysiological changes correlate with the clinical manifestations of NPH:
+Gait disturbance:
+Damage to motor pathways, specifically corticospinal tracts, results in gait impairment. This is often the earliest symptom and is characterised by a broad-based magnetic gait.
+Cognitive impairment:
+Disruption of fronto-striatal circuits contributes to cognitive deficits seen in NPH. These typically include difficulties with attention, executive function and psychomotor speed.
+Urinary incontinence:
+Dysfunction of frontal lobes and periventricular white matter tracts involved in continence control can lead to urinary symptoms. Urinary urgency or incontinence usually appears later in the disease course.
+The pathophysiology of NPH is complex and not fully understood, but it is clear that ventricular dilation and subsequent mechanical stress on surrounding structures play key roles. This can lead to a cascade of events including blood-brain barrier disruption, inflammatory response, white matter damage, and altered cerebral perfusion which are thought to be responsible for the characteristic clinical features of NPH.
+Improve
+Clinical features
+Normal Pressure Hydrocephalus (NPH) is characterised by the triad of symptoms including gait disturbance,
+cognitive impairment
+, and
+urinary incontinence
+. Whilst these classic features provide a foundation for clinical recognition, variations and additional symptoms can be present, confounding the diagnostic process.
+Gait Disturbance:
+The most common and often the earliest symptom of NPH is gait disturbance. Patients typically exhibit an unsteady, wide-based gait often described as 'magnetic,' where the feet appear to be stuck to the floor. It primarily affects the initiation of gait (start hesitation), with patients demonstrating difficulty in beginning to walk and in turning. As the condition progresses, gait may transition to short, shuffling steps, with decreased stride length and increased stride width. Falls become frequent, often without a clear precipitant.
+Cognitive Impairment:
+Cognitive changes in NPH often progress insidiously, initially presenting as subtle deficits in attention, concentration, and executive functions. Patients may exhibit symptoms of bradyphrenia (slowness of thought), memory difficulties, and difficulties with problem-solving tasks. Progression of the disease may lead to global cognitive impairments resembling dementia, with apathy and reduced spontaneous activity.
+Urinary Incontinence:
+Urinary incontinence in NPH is often characterised by urgency and frequency, with progression to incontinence usually occurring later in the disease process. However, it is essential to rule out other causes of urinary incontinence, particularly in the elderly, such as urinary tract infection, benign prostatic hyperplasia in men, and stress incontinence in women.
+Additional Symptoms:
+Other, less common symptoms can include headaches, which are usually worse in the morning, and changes in personality or behaviour. Some patients may present with brief episodes of altered consciousness or experience sudden drops in blood pressure upon standing (orthostatic hypotension).
+Neurological Examination
+On physical examination, signs of NPH can be subtle and are often overlooked. The neurological examination may show impaired upward gaze, commonly referred to as 'sunset eyes' and increased muscle tone (hypertonia) leading to a 'rubbery' resistance to passive movement of the limbs. Deep tendon reflexes can be normal or brisk. However, pathological reflexes, such as the Babinski sign, are usually absent.
+Improve
+Investigations
+Imaging
+hydrocephalus with an enlarged fourth ventricle
+in addition to the ventriculomegaly there is typically an absence of substantial sulcal atrophy
+Improve
+Differential diagnosis
+The differential diagnosis of normal pressure hydrocephalus (NPH) can often be challenging due to the overlap in clinical presentations with other neurological conditions. Three primary alternative diagnoses that should be considered include Alzheimer's disease, Parkinson's disease, and vascular dementia.
+Alzheimer's Disease
+Unlike NPH where gait disturbance is typically the earliest symptom, cognitive decline is usually the initial manifestation in Alzheimer's disease. The
+cognitive impairment
+in Alzheimer's tends to be more global, affecting memory, language, visuospatial skills and executive functions.
+The motor symptoms seen in NPH such as gait apraxia are less common in early stages of Alzheimer's disease. However, extrapyramidal signs may develop as Alzheimer’s progresses.
+Neuroimaging in Alzheimer's patients commonly shows cortical atrophy and hippocampal volume loss which are not characteristic features of NPH.
+Parkinson's Disease
+In contrast to NPH, where
+urinary incontinence
+usually develops later after gait disturbance and cognitive decline, autonomic dysfunction including bladder problems can occur early in Parkinson’s disease.
+Parkinson’s patients typically present with rest tremor, bradykinesia and rigidity which are not typical for NPH. Moreover, Parkinsonian gait is characterised by shuffling steps and reduced arm swing rather than the broad-based magnetic gait seen in NPH.
+DatScan imaging can help differentiate between these two conditions as it will show dopaminergic deficit in Parkinson’s disease but remains normal in NPH.
+Vascular Dementia
+The onset of vascular dementia is often stepwise or fluctuating compared to a more insidious onset seen in NPH. Moreover, vascular risk factors and history of cerebrovascular accidents can point towards this diagnosis.
+While both conditions can present with gait disturbances, vascular dementia is more likely to be associated with focal neurological signs such as hemiparesis or visual field defects.
+The neuroimaging in vascular dementia shows evidence of cerebrovascular disease including lacunar infarcts and white matter changes, which are not seen in NPH. However, both conditions may show ventricular enlargement.
+Improve
+Management
+The management of Normal Pressure Hydrocephalus (NPH) primarily involves the identification of suitable candidates for intervention, followed by shunt surgery. Careful postoperative follow-up is essential to monitor and manage potential complications. Non-surgical options are limited but may include lifestyle modifications and physiotherapy.
+Identification of Suitable Candidates for Intervention
+Patients with NPH typically present with a triad of
+cognitive impairment
+, gait disturbance, and
+urinary incontinence
+. A high index of suspicion is required as these symptoms can be easily attributed to age-related changes or other neurological conditions.
+Cranial imaging (MRI or CT scan) can help identify ventriculomegaly without significant cerebral atrophy.
+Invasive testing such as lumbar puncture or continuous lumbar drainage may be used to confirm diagnosis and predict response to shunting.
+Shunt Surgery
+Ventriculoperitoneal shunting is the most common surgical intervention, with adjustable valve systems preferred due to their ability to regulate cerebrospinal fluid flow based on individual patient needs.
+Lumboperitoneal shunts may also be considered in certain cases where ventricular access is difficult.
+Postoperative Follow-Up
+Regular monitoring post-surgery is important to detect complications such as infection, overdrainage, underdrainage, and mechanical shunt failure.
+Adjustments to the shunt system may be needed based on clinical presentation and imaging findings.
+Non-Surgical Management
+While shunting is the primary treatment modality, non-surgical options may include lifestyle modifications such as avoiding medications that can exacerbate symptoms (e.g., sedatives, anticholinergics).
+Physiotherapy may be beneficial in managing gait disturbances.
+Improve
+Complications
+Normal pressure hydrocephalus (NPH) can lead to a range of complications, which primarily result from the progressive nature of this condition and its effects on cerebral structures. The most likely complications include:
+Cognitive impairment
+:
+NPH often leads to cognitive dysfunction, with patients exhibiting symptoms akin to dementia. This includes memory loss, difficulty in problem-solving, and decline in executive functions.
+Gait disturbances:
+One of the hallmark signs of NPH is ataxia or
+abnormal gait
+. Patients may experience shuffling steps, balance issues, and falls due to impaired mobility.
+Incontinence:
+Urinary urgency or incontinence is a common complication in NPH due to increased intracranial pressure affecting the neural pathways controlling bladder function.
+Besides these primary complications, several secondary complications can arise from the management strategies employed for NPH.
+Ventriculo-peritoneal shunt complications:
+These include infection, obstruction, over-drainage leading to subdural haemorrhages and shunt malfunction. Regular follow-up and monitoring are necessary to mitigate these risks.
+Surgical complications:
+Any surgical intervention carries inherent risks such as anaesthetic reactions, bleeding, infection or damage to surrounding structures during surgery.
+Improve
+References
+YouTube - Typical NPH Gait
+Neurology
+Normal pressure hydrocephalus

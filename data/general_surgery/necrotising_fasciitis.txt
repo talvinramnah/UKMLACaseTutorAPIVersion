@@ -1,0 +1,169 @@
+Necrotising fasciitis
+Necrotising fasciitis
+Necrotising fasciitis
+(NF) is a severe and rapidly progressive soft tissue infection that causes necrosis of the
+subcutaneous tissues
+and
+fascia
+, sometimes also affecting the muscle. It is a serious infection that needs rapid management and it has a high mortality rate of around 32%. It most commonly occurs in patients with significant co-morbidities, particularly
+diabetes mellitus
+, and most commonly occurs following trauma, typically external injuries or surgical wounds. NF can develop in the limbs, the perineum, and genitals (also known as Fournier's gangrene) or in the abdominal wall. Due to the severe, rapidly progressive and life-threatening nature of NF, it requires rapid management with
+surgical debridement
+and antibiotics.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Cellulitis
+1500.00
+Necrotising fasciitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+NF is commonly associated with other comorbidities, the most common being
+diabetes mellitus
+, with up to 60% of patients presenting with NF having diabetes mellitus. However, the presence of diabetes mellitus has not been proven to be associated with higher mortality.
+Chronic kidney disease
+, in contrast, is recognized to be associated with higher mortality in patients with NF. Other commonly associated comorbidities include:
+Cirrhosis
+Chronic heart failure
+Obesity
+Alcohol abuse
+Systemic lupus erythematosus
+Immunodeficiency e.g. due to HIV, chemotherapy regimes etc.
+Improve
+Pathophysiology
+As previously stated, the large majority of cases of NF are related to some form of
+trauma
+, either an external injury or a surgical wound. This allows microorganisms to penetrate into the deep tissues and propagate. NF can be
+categorised
+depending on the causative microorganism:
+Type I -
+Polymicrobial
+. Usually caused by multiple anaerobic species, particularly affecting those with multiple comorbidities. This accounts for 70-90% of cases of NF and usually is found on the trunk or perineum
+Type II - Monomicrobial, caused by
+Streptococcus pyogenes
+. This type more commonly occurs in younger patients and affects the limbs rather than the trunk.
+Type III - Monomicrobial, caused by the
+Clostridium
+species most commonly but also by
+Vibrios
+species. Most frequently found in intravenous drug users.
+Type IV - Fungal NF, mainly
+Candida
+species. Mainly found in immunocompromised patients, and is particularly aggressive and extensive.
+During the early stages of the infection, the superficial layers of the skin are unaffected and the infection spreads via the
+subcutaneous tissue and fascia
+. Development of NF occurs due to:
+High virulence of the organism
+Impaired host defence mechanisms
+Bacteria produce enzymes that result in necrosis of the fascia and fat, and bacteria also cause thrombosis in the vessels leading to
+ischaemia
+which further promotes necrosis. This ischaemia originally produces intense pain for the patient but, as the disease progresses, can result in hypoesthesia/anaesthesia.
+Improve
+Clinical features
+Early clinical signs of NF can be difficult to distinguish from other soft tissue infections such as
+cellulitis
+and erysipelas.
+Early clinical features
+include:
+Swelling (80%)
+Pain (79%)
+Erythema (70%)
+Induration
+NF is
+characterised
+by pain that is severe and exaggerated compared to what would normally be suspected from a soft tissue infection. As the disease progresses, this pain may subside due to the destruction of nerve endings, and in some cases goes completely. Patients also commonly present with:
+Rapid progression of the lesion
+Blistering and bullae formation
+Bullae contain serous fluid early on but may become haemorrhagic in later disease
+Failure to respond to broad-spectrum antibiotics
+Grey, dusky skin indicating necrosis
+Skin crepitus
+Air under the skin that causes a crackling feel when touched
+Diarrhoea and vomiting
+Systemic features including
+tachycardia
+,
+fever
+, hypotension and tachypnoea
+Signs of sepsis and organ dysfunction including altered mental status
+Improve
+Investigations
+When diagnosing NF, it is important to have a
+high index of suspicion
+. NF is a very serious infection that can rapidly lead to loss of limb or life if not quickly treated. Factors such as an
+obvious wound
+or entry point for bacteria,
+significant comorbidities
+including diabetes mellitus, peripheral vascular disease and chronic liver disease, and certain lifestyle factors such as
+intravenous drug use
+should raise the clinical index of suspicion that a soft tissue infection is necrotic. However, it is important to remember that not all cases of NF occur following trauma or due to an identifiable cause; a minority of cases of NF are
+idiopathic
+.
+The
+Laboratory Risk Indicator for Necrotising Fasciitis
+(LRINEC) is a scoring system based on six different serum values that is designed to try and increase early identification of cases of NF. A score of â≤5 suggests a low risk (<50%) for NF, a score of 6-7 suggests an intermediate risk and a score of ≥8 suggests a high risk (>75%). The scoring system is as follows:
+Hb (g/dL)
+>13.5 - 0
+11-13.5 - 1
+<11 - 2
+White cell count (x10^9/L)
+<15 - 0
+15-25 - 1
+>25 - 2
+Sodium (mmol/L) <135 - 2
+Creatinine (µmol/L) >141 - 2
+Glucose >10 - 1
+C-reactive protein >150 - 4
+Other investigations can be performed to aid diagnosis, including:
+Wound culture, to improve antibiotic sensitivity
+Plain x-rays, which can demonstrate subcutaneous gas, a specific finding for NF.
+CT and MRI imaging, which can be used to show asymmetrical fascial thickening with fluid collection and gas tracking along the fascial planes. These findings have a high sensitivity for detecting necrotising fasciitis (80% for CT, 100% for MRI).
+Incisional biopsy with a frozen-section evaluation showing signs of necrosis, microorganisms, polymorphonuclear infiltration.
+Improve
+Differential diagnosis
+The main differentials for NF are superficial skin infections, including
+cellulitis
+and
+erysipelas
+. Similarly to NF these infections typically arise as a result of trauma that disrupts the skin's barrier defences. Similarly to early stage NF the affected skin is often erythematous, warm, swollen and tender. However, unlike NF they will not progress to produce bullae formation, necrosis of the skin and are less likely to be severe infections resulting in sepsis. Some
+investigations
+can be useful to help differentiate between these superficial skin infections and NF including:
+Ultrasound/MRI, allowing visualisation of the deeper tissues and subcutaneous fluid levels.
+Blood tests to look for worsening infection including full blood count, erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP).
+Wound culture to assess for causative organism, although this is rarely helpful due to the florid presence of bacteria on the skin.
+Pyoderma gangrenosum
+is another possible differential diagnosis. It is a rare autoimmune ulcerative skin condition that similarly may present with areas of necrosis and bullae formation. In the majority of patients it is associated with other autoimmune disease and it will usually progress within days compared to the hours in which NF progresses. It is important to differentiate between the two as pyoderma gangrenosum is treated non-surgically.
+Improve
+Management
+NF requires input from the whole multidisciplinary team across both surgical and medical specialties within a secondary care facility. The mainstay of treatment for NF is
+surgical debridement
+of the affected area. Debridement including fasciotomy may be life-saving and must be performed as early a possible. Patients will then require close monitoring and may require further debridement depending on tissue viability. Debridement will typically extend until healthy tissue is found. These operations will be performed by specialists and post-operative care will typically take place within the intensive care unit.
+Antibiotic management
+has little value alone in the treatment of NF but is useful in combination with surgical debridement. Antibiotic therapy is dependent on the organisms suspected to be causing the infection. However, the majority of cases will require broad coverage of anaerobic and gram-negative bacteria. Precise antibiotics used may vary from health board to health board, but a typical regime may be as follows:
+IV Flucloxacillin
+IV Benzylpenicillin
+IV Metronidazole
+IV Clindamycin
+IV Gentamicin
+Improve
+References
+DermNet NZ - Necrotising fasciitis
+General surgery
+Necrotising fasciitis

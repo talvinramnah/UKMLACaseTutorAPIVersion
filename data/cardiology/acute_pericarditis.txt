@@ -1,0 +1,203 @@
+Acute pericarditis
+Acute pericarditis
+Acute pericarditis is a condition referring to inflammation of the pericardial sac, lasting for less than 4-6 weeks. It is the most common type of
+pericardial disease
+and is estimated to be responsible for 5% of presentations in the emergency department. There are a large number of possible causes but the majority of patients will either have idiopathic pericarditis or inflammation secondary to viral infection. The classical features are pleuritic, retrosternal chest pain, a pericardial friction rub and widespread ST-elevations on ECG.  Management is typically with NSAIDs and colchicine and symptoms resolve in most patients over 1-2 weeks.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Musculoskeletal chest pain
+10.00
+Acute coronary syndrome
+2.00
+Acute pericarditis
+1
+Pulmonary embolism
+0.70
+Myocarditis
+0.20
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+It is important to consider any inciting events of acute pericarditis in order to target management. Many times, however, a cause is not identified; neither is it mandatory to investigate for a cause where there is low clinical suspicion for an identifiable cause.
+Possible underlying causes
+viral infections (Coxsackie)
+tuberculosis
+uraemia
+post-
+myocardial infarction
+early (1-3 days): fibrinous pericarditis
+late (weeks to months): autoimmune pericarditis (Dressler's syndrome)
+radiotherapy
+connective tissue disease
+systemic lupus erythematosus
+rheumatoid arthritis
+hypothyroidism
+malignancy
+lung cancer
+breast cancer
+trauma
+Improve
+Pathophysiology
+Acute pericarditis, an inflammation of the pericardium, is characterised by a complex pathogenesis that involves several stages. The initial insult to the pericardium can be attributed to various etiologies such as viral infection, post-
+myocardial infarction
+syndrome or systemic inflammatory diseases.
+Inflammatory Response
+The triggering event leads to an acute inflammatory response in the pericardium. This involves the release of pro-inflammatory cytokines like interleukin-1 (IL-1), interleukin-6 (IL-6) and tumour necrosis factor-alpha (TNF-alpha). These cytokines play a key role in inducing inflammation and recruiting immune cells to the site of injury.
+Vascular Changes
+Subsequently, increased vascular permeability occurs due to the action of vasoactive substances like histamine and bradykinin. This results in exudation of plasma proteins and fluid into the pericardial space, leading to effusion and potentially cardiac tamponade if unchecked.
+Fibrin Deposition
+The extravasated plasma proteins include fibrinogen which gets converted into fibrin in the presence of thrombin. Fibrin deposition then leads to formation of fibrinous or serofibrinous pericarditis.
+If bacterial pathogens such as
+Streptococcus pneumoniae
+or
+Staphylococcus aureus
+are involved, they may cause purulent or suppurative pericarditis characterised by pus in the pericardial space.
+Fibrosis and Adhesions
+Persistent inflammation may lead to fibrosis and adhesion formation. This can result in constrictive pericarditis, characterised by a thickened, fibrotic pericardium that restricts diastolic filling of the heart.
+Cellular Changes
+On a cellular level, there is an infiltration of neutrophils during the early stages, followed by lymphocytes and macrophages. Neutrophils are typically seen in bacterial infections or myocardial infarction while lymphocytic infiltrate is more common in viral or idiopathic cases.
+In summary, the pathogenesis of acute pericarditis encompasses an interplay of inflammatory processes, vascular changes, fibrin deposition and potential fibrosis. The specific characteristics may vary depending on the underlying etiology.
+Improve
+Clinical features
+Acute pericarditis usually has a nonspecific presentation. The vast majority of patients will present with chest pain of fairly sudden onset. A pericardial friction rub may also be auscultated in some patients. Other clinical features are largely dependent on aetiology.
+Major clinical features of acute pericarditis include:
+Retrosternal chest pain
+(85-90%)
+Usually sharp and pleuritic in nature
+Improved by sitting up and leaning forward
+Radiation to the trapezius ridge is considered to be specific for pericarditis
+Pericardial friction rub
+(â≤33%)
+Superficial, scratchy or squeaky quality on auscultation, best heard using the diaphragm of the stethoscope
+Usually best heard at the left lower sternal border
+Can be differentiated from pleural rub by asking patient to hold their breath
+Highly specific for pericarditis but has a low sensitivity
+Patients may exhibit other clinical features that suggest an infectious aetiology:
+Low-grade
+fever
+Prodromal myalgia and malaise
+Improve
+Investigations
+Initial investigations may aid the diagnosis of acute pericarditis and provide important prognostic information.
+According to the European Society of
+Cardiology
+(ESC) guidelines published in 2015, investigations that should be ordered in all suspected cases of acute pericarditis are as follows.
+Bedside tests:
+Electrocardiography (ECG)
+Classical ECG changes are seen in 60% of patients
+Widespread concave ST-elevations with PR-segment depression
+PR-segment depression is 85% specific for acute pericarditis, but not sensitive
+T-wave changes may last for weeks after resolution of symptoms but are of no clinical significance
+Bloods:
+C-reactive protein, ESR, FBC
+Elevated inflammatory markers have a 90% sensitivity and may support the diagnosis of acute pericarditis
+Can also be used to monitor progress
+Serum troponins
+Elevation suggests myocardial involvement ('myopericarditis') and indicates a poorer prognosis
+Urea
+Elevation suggests uraemic aetiology of the pericarditis
+Imaging:
+Echocardiography
+Mild pericardial effusion seen in 60% of patients
+While visualising a pericardial effusion supports the diagnosis of pericarditis, absence of pericardial effusion does not exclude it
+Chest X-ray
+Often normal unless there is a large pericardial effusion or lung pathology that can be visualised, such as lung malignancy
+New or unexplained cardiomegaly may also suggest acute pericarditis
+Further imaging techniques - CT and MRI - can be considered in unclear diagnostic cases to better visualise pericardial inflammation. MRI may also be used to confirm myocardial involvement.
+Pericardiocentesis is only indicated where there is suspicion of a bacterial or neoplastic aetiology. It may also be done as a therapeutic intervention for a large pericardial effusion.
+Other investigations can be considered if a specific cause is suspected, but are not routine. These include:
+Blood cultures
+if
+fever
+>38ÂºC, signs of sepsis or concomitant bacterial infection elsewhere
+HIV serology
+Interferon-gamma release assay
+or
+tuberculin skin test
+Viral studies typically do not yield high results and are therefore not routinely obtained.
+Improve
+Differential diagnosis
+When considering a differential diagnosis for acute pericarditis, three common conditions often present with similar symptoms:
+myocardial infarction
+(MI),
+pulmonary embolism
+(PE), and pleurisy.
+Myocardial Infarction
+A major differential to consider is MI. Both conditions can present with chest pain; however, the nature of the pain differs. In acute pericarditis, the pain is typically sharp and pleuritic in nature, often relieved by sitting up and leaning forward. In contrast, MI presents with a crushing or pressure-like chest pain that radiates to the arm or jaw and does not change with position.
+The ECG changes in acute pericarditis are also distinct from those seen in MI. Acute pericarditis typically shows diffuse ST elevation and PR depression, while an MI will show localised ST elevation or depression along with T wave inversion correlating to specific coronary artery territories.
+Troponin levels may be elevated in both conditions but are usually significantly higher in MI due to extensive myocardial damage.
+Pulmonary Embolism
+PE is another important differential diagnosis for acute pericarditis as both can present with chest pain and
+dyspnoea
+. The pain associated with PE is typically sharp and pleuritic, similar to acute pericarditis.
+However, unlike acute pericarditis, PE often presents with risk factors such as recent surgery, prolonged immobilisation or hypercoagulable states. Additionally, patients may exhibit signs of deep vein thrombosis (DVT) such as unilateral leg swelling or tenderness.
+In terms of investigations, D-dimer levels are generally elevated in PE but normal in acute pericarditis. Pulmonary angiography or computed tomography pulmonary angiogram (CTPA) can confirm the diagnosis of PE.
+Pleurisy
+Pleurisy, an inflammation of the pleura, is also a differential for acute pericarditis. Both conditions present with sharp,
+pleuritic chest pain
+that improves with leaning forward. However, the pain in pleurisy is often localised and may be associated with other respiratory symptoms such as cough or haemoptysis.
+On examination, there may be reduced chest expansion on the affected side and auscultation may reveal a pleural rub.
+Investigations such as chest X-ray or CT thorax can help differentiate between these conditions. Pleurisy will show evidence of underlying lung disease or pleural effusion, while these findings are typically absent in acute pericarditis.
+Improve
+Management
+Management
+the majority of patients can be managed as outpatients
+patients who have high-risk features such as
+fever
+> 38Â°C or elevated troponin should be managed as an inpatient
+treat any underlying cause
+most patients however will have pericarditis secondary to viral infection, meaning no specific treatment is indicated
+strenuous physical activity should be avoided until symptom resolution and normalisation of inflammatory markers
+a combination of NSAIDs and colchicine is now generally used for first-line for patients with acute idiopathic or viral pericarditis
+until symptom resolution and normalisation of inflammatory markers (usually 1-2 weeks) followed by tapering of dose recommended over
+Improve
+Complications
+Acute pericarditis, an inflammation of the pericardium, can lead to several complications if not managed properly. These complications can be categorised into immediate and long-term.
+Immediate Complications
+Cardiac tamponade:
+This is a life-threatening condition that occurs when excessive fluid accumulates in the pericardial sac, leading to decreased cardiac output. Symptoms include hypotension, tachycardia and pulsus paradoxus. Emergency pericardiocentesis may be needed to relieve the pressure.
+Pericardial effusion:
+Fluid accumulation within the pericardial space can occur rapidly or slowly over time. Large effusions can cause
+dyspnoea
+and chest discomfort. Echocardiography is essential for diagnosis.
+Long-term Complications
+Constrictive pericarditis:
+Chronic inflammation leads to thickening and calcification of the pericardium, impairing diastolic filling of the heart chambers. Patients may present with signs of right-sided heart failure including peripheral oedema, ascites and hepatomegaly. More common in patients with TB or purulent pericarditis or immune-mediated and neoplastic aetiologies
+Recurrent pericarditis:
+In some patients, episodes of acute pericarditis recur after initial resolution. The exact cause is unknown but it's thought to be due to autoimmunity or viral persistence. The recurrence rate increased to 50% in patients not treated with colchicine
+Improve
+Prognosis
+The prognosis of patients with acute pericarditis is generally good. There are several predictors of poor prognosis, however. Patients with any of these risk factors will require admission and a search of aetiology.
+Major predictive factors:
+Fever
+>38ÂºC
+Subacute onset (over days)
+Large pericardial effusion
+Diastolic echo-free space >20 mm
+Lack of response to NSAIDs after at least 1 week of therapy
+Minor predictive factors:
+Myopericarditis
+Immunosuppression
+Trauma
+Oral anticoagulation therapy
+Improve
+References
+Life in the fast lane - Pericarditis review
+Cardiology
+Acute pericarditis

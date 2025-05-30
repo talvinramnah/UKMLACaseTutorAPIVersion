@@ -1,0 +1,327 @@
+Type 2 diabetes mellitus
+Type 2 diabetes mellitus
+Type 2
+Diabetes Mellitus
+(T2DM) is a chronic metabolic disorder characterized by
+insulin
+resistance and impaired insulin secretion, leading to hyperglycemia. The aetiology of T2DM is multifactorial, involving genetic and environmental factors such as obesity, a sedentary lifestyle, and poor diet. Age, ethnicity, and other factors like smoking and sleep disorders also contribute to the risk. T2DM pathogenesis is marked by progressive pancreatic β-cell dysfunction and insulin resistance in target tissues, resulting from increased free fatty acids, pro-inflammatory cytokines, ectopic fat deposition, and oxidative stress. T2DM is associated with microvascular complications (diabetic retinopathy, nephropathy, and neuropathy) and macrovascular complications (coronary artery disease, cerebrovascular disease, and peripheral artery disease), along with other complications like diabetic foot, infections, and hyperglycemic emergencies. Management involves blood glucose control, risk factor modification, and prevention of complications through regular screening and appropriate interventions. Healthcare professionals must be proactive in screening, prevention, and management to minimize morbidity and mortality associated with T2DM.
+Last updated: 4
+th
+June 2024
+Epidemiology
+Incidence: 233.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Type 2
+diabetes mellitus
+1
+Type 1 diabetes mellitus
+0.02
+Diabetes insipidus
+0.004
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Genetic factors
+There is a strong genetic predisposition to T2DM, with several genes implicated in its development. Genome-wide association studies (GWAS) have identified more than 100 susceptibility loci associated with T2DM. These loci are involved in various biological pathways, including
+insulin
+secretion, insulin action, and glucose metabolism. However, the precise mechanisms through which these genes influence the risk of T2DM remain largely unknown.
+Environmental factors
+Environmental factors play a significant role in the development of T2DM, with lifestyle choices such as diet, physical activity, and body weight being key contributors.
+Obesity
+: Obesity, particularly visceral adiposity, is a major risk factor for T2DM. Excess adipose tissue leads to increased release of pro-inflammatory cytokines and free fatty acids, which contribute to insulin resistance.
+Physical inactivity
+: A sedentary lifestyle increases the risk of T2DM by promoting obesity, impairing glucose uptake in skeletal muscle, and reducing insulin sensitivity.
+Diet
+: High caloric intake, particularly from refined carbohydrates and saturated fats, has been associated with an increased risk of T2DM. Diets rich in fibre, whole grains, and unsaturated fats have been shown to reduce the risk of T2DM by improving insulin sensitivity and glucose metabolism.
+Age and ethnicity
+: The risk of T2DM increases with age, particularly after the age of 45. Some ethnic groups, such as African Americans, Hispanics, Asians, and Native Americans, have a higher prevalence of T2DM compared to non-Hispanic whites, indicating a possible genetic predisposition combined with environmental factors.
+Other factors
+: Additional risk factors for T2DM include smoking, sleep disorders, and a history of gestational
+diabetes
+or polycystic ovary syndrome (PCOS).
+Improve
+Pathophysiology
+Type 2
+diabetes mellitus
+(T2DM) is characterised by
+insulin
+resistance and β-cell dysfunction. The pathogenesis involves a complex interplay between genetic predisposition, environmental factors, and lifestyle choices, resulting in chronic hyperglycaemia.
+The initial phase of T2DM pathogenesis is characterised by insulin resistance. Insulin resistance refers to the diminished ability of cells in the liver, muscle tissue, and adipose tissue to respond to the action of insulin. This leads to an increased demand for insulin production by pancreatic β-cells.
+In response to this increased demand, β-cells proliferate and increase insulin output. This compensatory phase is marked by hyperinsulinaemia but normoglycaemia as blood glucose levels are maintained within normal limits.
+However, over time and with persistent exposure to high levels of glucose and lipids (glucolipotoxicity), β-cell function begins to deteriorate. There is also evidence suggesting that chronic inflammation plays a role in this process.
+Glucolipotoxicity: Chronic exposure to high levels of glucose and lipids can lead to β-cell dysfunction through various mechanisms such as oxidative stress, endoplasmic reticulum stress, mitochondrial dysfunction, and deposition of amyloid in the islets of Langerhans.
+Inflammation: Pro-inflammatory cytokines such as interleukin-1β (IL-1β), tumour necrosis factor α (TNFα), and interleukin-6 (IL-6) have been implicated in promoting β-cell apoptosis and contributing to insulin resistance.
+The deterioration in β-cell function coupled with continued insulin resistance leads to a relative deficiency in the amount of functional insulin that can be produced. This results in a failure to maintain normoglycaemia, leading to the onset of hyperglycaemia and the clinical manifestation of T2DM.
+Once hyperglycaemia is established, it further exacerbates insulin resistance and β-cell dysfunction through glucotoxicity, creating a vicious cycle that perpetuates the pathophysiological process.
+The impaired insulin secretion and action also lead to increased hepatic glucose production, decreased glycogen synthesis, and impaired glucose uptake by peripheral tissues. These metabolic abnormalities contribute to postprandial hyperglycaemia and fasting hyperglycaemia, two key features of T2DM.
+Improve
+Clinical features
+Most typically, T2DM is a silent disease and tends to be diagnosed on screening or routine investigations, rather than as a result of symptoms. However, a proportion of patients will present with a subacute onset of several months or even years of symptoms, and a very small proportion may have an acute presentation.
+Asymptomatic disease
+These patients tend to be asymptomatic, with T2DM identified on routine screening
+Approximately 70% of patients diagnosed with T2DM will be asymptomatic on diagnosis
+Hyperglycaemia
+Fasting plasma glucose > 6.9mmol/L
+Random plasma glucose > 11.1mmol/L
+HbA1c > 48mmol/L (>6.5%)
+2-hour post-75g glucose load >11.1mmol/L
+Glycosuria
+Subacute presentation
+Polyuria
+(33%)
+Due to osmotic diuresis that results when blood glucose levels exceed the renal threshold (glycosuria)
+Fatigue
+(25%)
+Blurred vision (20%)
+Polydipsia
+(20%)
+Due to resulting loss of fluid and electrolytes and osmotic diuresis
+Weight loss
+Due to fluid depletion and accelerated breakdown of fat and muscle secondary to
+insulin
+deficiency
+Nocturia
+Pruritis vulvae or balanitis (
+Candida
+infection occurs secondary to glycosuria)
+Acute presentation
+Polyuria
+Polydipsia
+Very rarely, patients may present with a
+hyperosmolar hyperglycaemic state
+(HHS)
+Marked hyperglycaemia
+Severe dehydration
+Without ketoacidosis
+Complications as presenting feature
+A proportion of patients may present with complications of the condition as their presenting complaint (see below)
+Approximately 25% of patients with T2DM will already have microvascular complications at time of diagnosis
+Improve
+Diagnosis
+The diagnosis of type 2
+diabetes mellitus
+can be made by either a plasma glucose or a HbA1c sample. Diagnostic criteria vary according to whether the patient is symptomatic (
+polyuria
+,
+polydipsia
+etc) or not.
+If the patient is symptomatic: #link12
+fasting glucose greater than or equal to 7.0 mmol/l
+random glucose greater than or equal to 11.1 mmol/l (or after 75g oral glucose tolerance test)
+If the patient is asymptomatic the above criteria apply but must be demonstrated on two separate occasions.
+When HbA1c is used for the diagnosis of diabetes:
+a HbA1c of greater than or equal to 48 mmol/mol (6.5%) is diagnostic of diabetes mellitus
+a HbAlc value of less than 48 mmol/mol (6.5%) does not exclude diabetes (i.e. it is not as sensitive as fasting samples for detecting diabetes)
+in patients without symptoms, the test must be repeated to confirm the diagnosis
+it should be remembered that misleading HbA1c results can be caused by increased red cell turnover (see below)
+Conditions where HbA1c may not be used for diagnosis: #link11
+haemoglobinopathies
+haemolytic anaemia
+untreated iron deficiency anaemia
+suspected gestational diabetes
+children
+HIV
+chronic kidney disease
+people taking medication that may cause hyperglycaemia (for example corticosteroids)
+Diagram showing the spectrum of diabetes diagnosis
+Impaired fasting glucose and impaired glucose tolerance
+A fasting glucose greater than or equal to 6.1 but less than 7.0 mmol/l implies impaired fasting glucose (IFG)
+Impaired glucose tolerance (IGT) is defined as fasting plasma glucose less than 7.0 mmol/l and OGTT 2-hour value  greater than or equal to 7.8 mmol/l but less than 11.1 mmol/l
+Diabetes UK suggests:
+'People with IFG should then be offered an oral glucose tolerance test to rule out a diagnosis of diabetes. A result below 11.1 mmol/l but above 7.8 mmol/l indicates that the person doesn't have diabetes but does have IGT.'
+Improve
+Differential diagnosis
+Maturity-Onset Diabetes of the Young (MODY) is a monogenic form of diabetes that is often misdiagnosed as Type 2
+Diabetes Mellitus
+(T2DM). Identifying MODY is crucial because its management differs significantly from T2DM. This article aims to provide guidance for UK doctors on how to differentiate MODY from T2DM in patients presenting with diabetes.
+Understanding MODY
+MODY is characterised by an autosomal dominant inheritance pattern and typically presents before the age of 25. It results from mutations in one of several genes that play a role in beta-cell function. The most common genes involved are HNF1A, HNF4A, and GCK.
+Clinical Features Suggestive of MODY
+Several clinical features can suggest MODY over T2DM:
+Age of Onset:
+Diabetes onset before 25 years of age.
+Family History:
+A strong family history of diabetes spanning three generations.
+Phenotype:
+Patients often lack the typical features of T2DM, such as obesity and metabolic syndrome.
+C-peptide Levels:
+Persistently normal or elevated C-peptide levels, indicating preserved beta-cell function.
+Antibody Testing:
+Absence of diabetes-related autoantibodies (e.g., GAD, IA2).
+Investigative Approach
+To exclude MODY in patients suspected of having T2DM, a structured investigative approach is essential.
+Detailed Medical and Family History
+Obtain a thorough family history of diabetes, noting the age of onset in affected relatives.
+Look for autosomal dominant inheritance patterns.
+Physical Examination and Phenotyping
+Assess for physical features typically associated with T2DM, such as obesity and signs of
+insulin
+resistance (e.g., acanthosis nigricans).
+Note the absence of these features which might indicate MODY.
+Laboratory Investigations
+HbA1c and Fasting Glucose:
+Confirm diagnosis of diabetes.
+C-peptide Levels:
+Measure to assess endogenous insulin production. Normal or elevated levels suggest MODY.
+Autoantibody Testing:
+Screen for GAD, IA2, and ZnT8 autoantibodies. The absence of these supports a MODY diagnosis.
+Genetic Testing
+If clinical suspicion for MODY remains high after initial assessments, refer the patient for genetic testing.
+Genetic testing should include sequencing of the common MODY genes (HNF1A, HNF4A, and GCK).
+Consider panel testing if initial genetic tests are negative, as MODY can result from mutations in other less common genes.
+Improve
+Management
+NICE updated its guidance on the management of type 2
+diabetes mellitus
+(T2DM) in 2022. This update reflected the advances in drug therapy and improved evidence regarding newer therapies such as
+SGLT-2 inhibitors
+.
+It's worthwhile thinking of the average patient who is taking
+metformin
+for T2DM, you can titrate up metformin and encourage lifestyle changes to aim for a HbA1c of 48 mmol/mol (6.5%), but should only add a second drug if the HbA1c rises to 58 mmol/mol (7.5%)
+Dietary advice
+encourage high fibre, low glycaemic index sources of carbohydrates
+include low-fat dairy products and oily fish
+control the intake of foods containing saturated fats and trans fatty acids
+limited substitution of sucrose-containing foods for other carbohydrates is allowable, but care should be taken to avoid excess energy intake
+discourage the use of foods marketed specifically at people with diabetes
+initial target weight loss in an overweight person is 5-10%
+HbA1c targets
+This is an area which has changed in 2015
+individual targets should be agreed with patients to encourage motivation
+HbA1c should be checked every 3-6 months until stable, then 6 monthly
+NICE encourage us to consider relaxing targets on
+'a case-by-case basis, with particular consideration for people who are older or frail, for adults with type 2 diabetes'
+in 2015 the guidelines changed so HbA1c targets are now dependent on treatment:
+Lifestyle or single-drug treatment
+Management of T2DM
+HbA1c target
+Lifestyle
+48 mmol/mol (6.5%)
+Lifestyle + metformin
+48 mmol/mol (6.5%)
+Includes any drug which may cause hypoglycaemia (e.g. lifestyle +
+sulfonylurea
+)
+53 mmol/mol (7.0%)
+Practical examples
+a patient is newly diagnosed with HbA1c and wants to try lifestyle treatment first. You agree on a target of 48 mmol/mol (6.5%)
+you review a patient 6 months after starting metformin. His HbA1c is 51 mmol/mol (6.8%). You increase his metformin from 500mg bd to 500mg tds and reinforce lifestyle factors
+Patient already on treatment
+Management of T2DM
+HbA1c target
+Already on one drug, but HbA1c has risen to 58 mmol/mol (7.5%)
+53 mmol/mol (7.0%)
+Initial drug therapy
+Simplified initial management of type 2 diabetes mellitus
+Metformin remains the first-line drug of choice in type 2 diabetes mellitus.
+metformin should be titrated up slowly to minimise the possibility of gastrointestinal upset
+if standard-release metformin is not tolerated then modified-release metformin should be trialled
+SGLT-2 inhibitors
+should also be given in addition to metformin if any of the following apply:
+the patient has a high risk of developing cardiovascular disease (CVD, e.g. QRISK ≥ 10%)
+the patient has established CVD
+the patient has chronic heart failure
+metformin should be established and titrated up before introducing the SGLT-2 inhibitor
+SGLT-2 inhibitors should also be started at any point if a patient develops CVD (e.g. is diagnosed with ischaemic heart disease), a QRISK ≥ 10% or chronic heart failure
+If metformin is contraindicated
+if the patient has a risk of CVD, established CVD or chronic heart failure:
+SGLT-2 monotherapy
+if the patient doesn't have a risk of CVD, established CVD or chronic heart failure:
+DPP-4 inhibitor or pioglitazone or a sulfonylurea
+SGLT-2 may be used if certain NICE criteria are met
+Further drug therapy if HbA1c targets are not met
+Simplified further management of type 2 diabetes mellitus if HbA1c targets are not met
+If the HbA1c has risen to 58 mmol/mol (7.5%) then further treatment is indicated. Given the large number of drug therapy options, medication choices depend on individual clinical circumstances (comorbidities, contraindications, weight) and patient preference.
+Second-line therapy
+Dual therapy - add one of the following:
+metformin + DPP-4 inhibitor
+metformin + pioglitazone
+metformin + sulfonylurea
+metformin + SGLT-2 inhibitor (if NICE criteria met)
+Third-line therapy
+If a patient does not achieve control on dual therapy then the following options are possible:
+metformin + DPP-4 inhibitor + sulfonylurea
+metformin  + pioglitazone + sulfonylurea
+metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met
+insulin
+-based treatment
+Further therapy
+If triple therapy is not effective or tolerated consider switching one of the drugs for a GLP-1 mimetic:
+BMI ≥ 35 kg/mÂ² and specific psychological or other medical problems associated with obesity or
+BMI < 35 kg/mÂ² and for whom insulin therapy would have significant occupational implications or weight loss would benefit other significant obesity-related comorbidities
+only continue if there is a reduction of at least 11 mmol/mol [1.0%] in HbA1c and a weight loss of at least 3% of initial body weight in 6 months
+GLP-1 mimetics
+should only be added to insulin under specialist care
+Starting insulin
+metformin should be continued. In terms of other drugs NICE advice:
+'Review the continued need for other blood glucose-lowering therapies'
+NICE recommend starting with human NPH insulin (isophane, intermediate-acting) taken at bed-time or twice daily according to need
+Practical examples
+you review an established type 2 diabetic on maximum dose metformin. Her HbA1c is 55 mmol/mol (7.2%). You do not add another drug as she has not reached the threshold of 58 mmol/mol (7.5%)
+a type 2 diabetic is found to have an HbA1c of 62 mmol/mol (7.8%) at annual review. They are currently on maximum dose metformin. You elect to add a sulfonylurea
+Risk factor modification
+Hypertension
+blood pressure targets are the same as for patients without type 2 diabetes
+(see table below)
+ACE inhibitors or angiotensin II receptor blockers (ARB) are first-line
+an ARB is preferred if the patient has a black African or African-Caribbean family origin
+Clinic BP
+ABPM / HBPM
+Age < 80 years
+140/90 mmHg
+135/85 mmHg
+Age > 80 years
+150/90 mmHg
+145/85 mmHg
+Antiplatelets
+should not be offered unless a patient has existing cardiovascular disease
+Lipids
+following the 2014 NICE lipid modification guidelines only patients with a 10-year cardiovascular risk > 10% (using QRISK2) should be offered a statin. The first-line statin of choice is atorvastatin 20mg on
+Graphic showing choice of statin.
+Improve
+Complications
+The complications of type 2
+diabetes
+are generally divided into microvascular or macrovascular complications, depending on the size of the blood vessels affected. These complications occur secondary to years of
+insulin
+-resistance, low-grade inflammation and hastened atherogenesis as a result of poor glucose control.
+Microvascular Complications
+Microvascular complications result from damage to the small blood vessels due to chronic hyperglycemia and include diabetic retinopathy, nephropathy, and neuropathy.
+Diabetic Retinopathy
+: Diabetic retinopathy is a leading cause of vision loss and blindness in adults. It is characterized by damage to the retinal vasculature, leading to microaneurysms, haemorrhages, and neovascularization. Early detection and intervention, such as blood glucose control, blood pressure management, and timely laser therapy or anti-VEGF injections, are crucial to prevent vision loss.
+Diabetic Nephropathy
+: Diabetic nephropathy is a common cause of chronic kidney disease and end-stage renal disease. It is characterized by albuminuria, declining glomerular filtration rate (GFR), and eventually, renal failure. Management strategies include blood glucose and blood pressure control, use of angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs), and appropriate dietary modifications.
+Diabetic Neuropathy
+: Diabetic neuropathy encompasses a range of nerve disorders, including peripheral neuropathy, autonomic neuropathy, and focal neuropathies. Peripheral neuropathy, the most common form, presents with pain, numbness, and tingling in the extremities, increasing the risk of foot ulcers and amputations. Autonomic neuropathy affects the autonomic nervous system, leading to gastrointestinal, cardiovascular, and genitourinary dysfunction. Focal neuropathies involve damage to specific nerves, resulting in localized weakness or pain. Management of diabetic neuropathy includes tight glycemic control, pain management, and appropriate foot care to prevent complications.
+Macrovascular Complications
+Macrovascular complications involve large blood vessels and contribute to cardiovascular diseases such as coronary artery disease (CAD), cerebrovascular disease, and peripheral artery disease (PAD).
+Coronary Artery Disease
+: T2DM significantly increases the risk of CAD, myocardial infarction, and heart failure. The management of CAD in T2DM patients includes risk factor modification, such as blood glucose, lipid, and blood pressure control, as well as the use of antiplatelet therapy and, if needed, revascularization procedures.
+Cerebrovascular Disease
+: Patients with T2DM have an increased risk of stroke and transient ischemic attacks (TIAs) due to atherosclerosis and thromboembolic events. Stroke prevention strategies include blood glucose, lipid, and blood pressure control, antiplatelet therapy, and lifestyle modifications such as smoking cessation, exercise, and weight management.
+Peripheral Artery Disease
+: T2DM patients are at a higher risk of developing PAD, which can lead to intermittent claudication, critical limb ischemia, and amputations. Management of PAD includes risk factor modification, exercise therapy, revascularization procedures when indicated, and diligent foot care to prevent ulcers and infections.
+Other Complications
+Diabetic Foot: Diabetic foot complications arise from a combination of neuropathy, PAD, and impaired wound healing. They can result in foot ulcers, infections, and ultimately, amputations. Proper foot care, early detection and treatment of ulcers, and multidisciplinary care are crucial to preventing severe outcomes.
+Infections: T2DM patients are more susceptible to infections due to immune dysfunction, impaired wound healing, and increased colonization of pathogens. Common infections include urinary tract infections, skin and soft tissue infections, and respiratory infections. Prompt diagnosis and treatment with appropriate antimicrobial therapy are essential.
+Hyperglycemic Emergencies: Diabetic ketoacidosis (DKA) is rare in T2DM but may occur in cases of severe insulin deficiency. Hyperosmolar hyperglycemic state (HHS) is more common in T2DM patients and is characterized by severe hyperglycemia, hyperosmolarity, and dehydration. Both conditions require prompt recognition and management with fluid resuscitation, insulin therapy, and electrolyte replacement.
+Improve
+References
+NICE - 2022 Type 2 diabetes guidelines
+Clinical Knowledge Summaries - Type 2 diabetes mellitus: diagnosis
+Diabetes UK - New diagnostic criteria for diabetes
+Diabetes mellitus
+Type 2 diabetes mellitus

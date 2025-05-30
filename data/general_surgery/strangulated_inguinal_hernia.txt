@@ -1,0 +1,111 @@
+Strangulated inguinal hernia
+Strangulated inguinal hernia
+An inguinal hernia is the protrusion of viscera or abdominal contents through the superficial inguinal ring. This viscera is normally made up of some small bowel, but not always. Inguinal hernias can either enter this ring directly through the deep inguinal ring or indirectly through the posterior wall of the inguinal canal.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors:
+Elderly age: Increased incidence due to weakening of the abdominal wall muscles.
+Male sex: Higher prevalence in males, particularly those with a history of heavy lifting or strenuous physical activity.
+Chronic cough: Conditions such as chronic obstructive pulmonary disease (COPD) can increase intra-abdominal pressure, predisposing to hernia formation and subsequent strangulation.
+Constipation: Chronic straining during defecation elevates intra-abdominal pressure, increasing the risk for hernia and its complications.
+Obesity: Excess body weight contributes to increased intra-abdominal pressure and weakens the abdominal wall.
+Previous hernia repair: Recurrence of inguinal hernias is common, especially if prior repairs were performed using tension techniques rather than mesh reinforcement.
+Ascites: The presence of excess peritoneal fluid can elevate intra-abdominal pressure, facilitating herniation and potential strangulation.
+Underlying causes:
+Anatomical defects: Congenital weakness in the inguinal canal structures or acquired defects due to surgical procedures can predispose individuals to hernia formation and subsequent strangulation.
+Increased intra-abdominal pressure: Factors such as chronic coughing, constipation, heavy lifting, and obesity contribute to elevated intra-abdominal pressures that facilitate the protrusion of abdominal contents through the inguinal canal.
+Tissue degeneration: Age-related degeneration of connective tissues compromises the integrity of the abdominal wall, making it more susceptible to herniation and potential strangulation when subjected to increased pressures.
+Improve
+Pathophysiology
+Strangulated inguinal hernia
+is a severe condition, characterised by the constriction of an inguinal hernia with subsequent compromise of blood supply to the herniated tissue. This leads to ischaemia and possible necrosis if not promptly managed.
+The pathophysiology of strangulated inguinal hernia unfolds in a series of interconnected steps:
+Herniation:
+The initial event is the protrusion of abdominal contents through a weakened area in the lower abdominal wall, typically at the inguinal canal. This is often facilitated by increased intra-abdominal pressure due to factors such as coughing, straining or heavy lifting.
+Incarceration:
+Over time, the herniated tissue may become incarcerated within the canal. Incarceration refers to a state where the herniated tissue cannot be reduced back into the abdominal cavity either spontaneously or manually.
+Strangulation:
+If left untreated, an incarcerated hernia can progress to strangulation. Strangulation occurs when there's a significant reduction or complete cessation of blood flow to the incarcerated tissue due to compression on its vascular supply. This results from ongoing swelling and edema within the tightly confined space of the inguinal canal.
+Ischaemia and Necrosis:
+As a consequence of strangulation, ischaemia ensues leading to cellular hypoxia and accumulation of metabolic waste products. If not relieved promptly, this progresses to irreversible cell injury and necrosis.
+The clinical manifestations associated with strangulated inguinal hernias are largely influenced by these pathological changes:
+The
+pain
+experienced by patients is primarily due to stretching and tension on peritoneal surfaces and the hernia sac, as well as ischaemia of the incarcerated tissue.
+Nausea and vomiting
+may occur due to bowel obstruction if part of the intestine is involved in the herniation. The obstructed segment may distend with gas and fluid, causing a mechanical barrier for the passage of intestinal contents.
+The
+appearance
+of the hernia changes over time. Initially, it may be soft and easily reducible. As incarceration sets in, it becomes firm and irreducible. With strangulation, it can become erythematous, edematous and tender on examination.
+Fever
+and systemic symptoms such as tachycardia might develop if necrosis has occurred leading to bacterial translocation across the compromised intestinal wall and subsequent peritonitis or sepsis.
+Improve
+Clinical features
+Hernias should be reducible, meaning that the herniated tissue can be pushed back into place in the abdomen through the defect using a hand. If a hernia cannot be reduced it is referred to as an incarcerated hernia, these hernias are at risk of strangulation.
+Indications that a hernia is at risk of strangulation include:
+Episodes of pain in a hernia that was previously asymptomatic
+Irreducible hernias
+Symptoms of strangulated hernias include:
+Pain
+Fever
+Increase in the size of a hernia or erythema of the overlying skin
+Peritonitic features such as guarding and localised tenderness
+Bowel obstruction e.g. distension, nausea, vomiting
+Bowel ischemia e.g. bloody stools
+Improve
+Investigations
+Investigating a suspected strangulated inguinal hernia requires a systematic approach, with an emphasis on prompt diagnosis and intervention. It is crucial to note that clinical assessment, including history and physical examination, often leads to the diagnosis without the need for further investigations. However, in cases where the diagnosis is uncertain or when preoperative planning is required, certain investigations may be beneficial.
+First-Line Investigations
+Clinical Assessment:
+The primary investigation in suspected strangulated inguinal hernia is clinical assessment. This involves careful evaluation of the patient's symptoms and signs such as irreducibility, severe pain, tenderness over the hernia site, systemic symptoms of infection or sepsis.
+Further Investigations
+In some cases, further investigations may be necessary to confirm the diagnosis and plan management. These may include:
+Blood tests:
+Full blood count (FBC), urea and electrolytes (U&E), C-reactive protein (CRP) and arterial blood gas (ABG) analysis can be useful for assessing severity of illness and guiding resuscitation efforts. Leukocytosis or elevated CRP may suggest infection or inflammation associated with strangulation.
+Radiological imaging:
+Ultrasound:
+While not routinely performed in all cases of suspected strangulated hernias due to operator dependency and variable sensitivity, ultrasound can provide real-time visualisation of the hernia contents and their vascularity. A non-compressible bowel loop within the hernial sac with absent or decreased colour Doppler signal could indicate strangulation.
+Computed Tomography (CT):
+CT scan has high sensitivity and specificity for diagnosing strangulated hernias and can provide detailed anatomical information. It can show signs of bowel obstruction, free fluid, bowel wall thickening, pneumatosis intestinalis (gas within the wall of the intestine), portal venous gas or free peritoneal air. However, it should be used judiciously due to radiation exposure and is typically reserved for cases where diagnosis is unclear or when differential diagnoses need to be ruled out.
+It's important to note that while these investigations can aid in confirming the diagnosis and planning surgical intervention, they should not delay definitive treatment in a clinically obvious strangulated hernia.
+Improve
+Differential diagnosis
+The differential diagnosis for a strangulated inguinal hernia often includes other acute abdominal conditions that may present with similar symptoms. Key alternative diagnoses to consider are
+testicular torsion
+,
+epididymitis
+, and
+acute appendicitis
+.
+Testicular Torsion:
+This condition is characterised by the sudden onset of severe testicular pain and swelling, often associated with nausea and vomiting. Unlike strangulated inguinal hernias, the pain in testicular torsion is typically unilateral and may be relieved by manual detorsion (the 'bell-clapper' manoeuvre). On physical examination, the affected testis is often high-riding with a horizontal lie. The presence of the cremasteric reflex can help differentiate between these two conditions as it's usually absent in testicular torsion but preserved in cases of strangulated hernias.
+Epididymitis:
+Epididymitis usually presents with gradual onset of unilateral scrotal pain that has been progressing over several days. It's commonly associated with urinary symptoms such as dysuria or frequency, which are not typical in strangulated inguinal hernia. On examination, there's tenderness over the epididymis rather than the inguinal canal or scrotum as a whole. The Prehn's sign (relief of pain on elevation of the affected testicle) may be positive in epididymitis but negative in strangulated hernia.
+Acute Appendicitis:
+While primarily presenting as
+right lower quadrant
+abdominal pain
+, acute appendicitis can sometimes mimic a strangulated inguinal hernia if the appendix descends into the inguinal canal (Amyand's hernia). However, appendicitis typically lacks the palpable inguinal mass and often presents with systemic symptoms such as fever, anorexia and malaise. The pain in acute appendicitis usually starts around the umbilicus and migrates to the right lower quadrant, unlike the constant localised pain seen with strangulated hernias.
+Improve
+Management
+Strangulation is a surgical emergency where the blood supply to the herniated tissue is compromised, leading to ischemia or necrosis. As most inguinal hernias are formed from small bowel, this impaired blood flow can cause the bowel tissue to be permanently lost or to perforate. Strangulation occurs in around 1 in 500 cases of all inguinal hernias.
+Repair involves immediate surgery, either from an open or laparoscopic approach with a mesh technique. This is the same technique used in elective hernia repair, however, any dead bowel will also have to be removed. While waiting for the surgery, it is not recommended that you manually reduce strangulated hernias, as this can cause more generalised peritonitis.
+Improve
+General surgery
+Strangulated inguinal hernia

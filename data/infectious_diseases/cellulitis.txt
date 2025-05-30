@@ -1,0 +1,191 @@
+Cellulitis
+Cellulitis
+Cellulitis is a bacterial infection that affects the dermis and the deeper subcutaneous tissues. It is one of the most common conditions seen in the acute medical setting and is usually diagnosed clinically. Cellulitis is most commonly caused by infection with
+Streptococcus pyogenes
+or less commonly
+Staphylcoccus aureus
+. The majority of cases resolve with oral antibiotics.
+Last updated: 26
+th
+January 2023
+Epidemiology
+Incidence: 1500.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Cellulitis
+1
+Deep vein thrombosis
+0.07
+Osteomyelitis
+0.01
+Necrotising fasciitis
+0.001
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Any disruption to normal skin integrity increases the risk of cellulitis. The most common risk factors include
+Venous insufficiency and peripheral vascular disease
+Obesity
+Skin breaks (such as recent cuts or insect bites)
+Lymphoedema
+Previous cellulitis
+Surgery to the lower limb including saphenectomy
+Tinea pedis
+Skin conditions that disrupt the dermis (eczema, psoriasis or chronic venous ulcers)
+Type two diabetes mellitus
+IVDU
+Alcoholism
+Immunosuppression
+Pregnancy
+Improve
+Pathophysiology
+Cellulitis develops when bacteria enter the deep layers of the dermis through a break in the skin. This may be a local fungal infection, a break in the skin or due to poor venous return. The exact pathology is poorly understood but it is proposed that the infection relates to an inflammatory response due to bacterial exotoxins.
+The bacterial pathogens that cause cellulitis have been studied more extensively. The most common pathogen is
+Streptococcus
+. The strains of
+Streptococcus
+that are most commonly associated with cellulitis are
+Streptococcus pyogenes
+or
+Group A beta-haemolytic streptococci
+.
+Streptococcus
+induced cellulitis is thought to cause a more rapid and diffuse erythema and is associated with lymphangitis.
+Staphylococcus aureus
+, as well as methicillin-resistant strains, are the second most common causative organism. This is often described as beginning at a focal point of infection, such as an abscess or discrete entry point, and then spread outward.
+Improve
+Clinical features
+The classic features of cellulitis relate to the underlying inflammatory process. Swelling, erythema, warmth, and tenderness are the common hallmarks of a cellulitic infection.
+Features
+commonly occurs on the shins
+usually unilateral - bilateral cellulitis is rare and suggests an alterative diagnosis
+erythema
+generally reasonably well-defined margins but some cases may present with diffuse erythema
+blisters and bullae may be seen with more severe disease
+swelling
+systemic upset
+fever
+malaise
+nausea
+As a general rule for cellulitic rash:
+bilateral rash is less likely to be cellulitis
+cellulitis occurs acutely, if the rash has occurred slowly over months then reconsider the diagnosis.
+a rapidly progressive and blistering rash should prompt consideration of
+necrotising fasciitis
+.
+Further examination should be to review the skin to assess for potential points of entry of a pathogen such as wounds, local skin infection or recent injection sites.
+Improve
+Referral criteria
+NICE recommend we use the Eron classification to guide how we manage patients with cellulitis:
+Class
+Features
+I
+There are no signs of systemic toxicity and the person has no uncontrolled co-morbidities
+II
+The person is either systemically unwell or systemically well but with a co-morbidity (for example peripheral arterial disease, chronic venous insufficiency, or morbid obesity) which may complicate or delay resolution of infection
+III
+The person has significant systemic upset such as acute confusion, tachycardia, tachypnoea, hypotension, or unstable co-morbidities that may interfere with a response to treatment, or a limb-threatening infection due to vascular compromize
+IV
+The person has sepsis syndrome or a severe life-threatening infection such as necrotizing fasciitis
+They recommend the following that we admit for intravenous antibiotics the following patients:
+Has Eron Class III or Class IV cellulitis.
+Has severe or rapidly deteriorating cellulitis (for example extensive areas of skin).
+Is very young (under 1 year of age) or frail.
+Is immunocompromized.
+Has significant lymphoedema.
+Has facial cellulitis (unless very mild) or periorbital cellulitis.
+The following is recommend regarding Eron Class II cellulitis:
+Admission may not be necessary if the facilities and expertise are available in the community to give intravenous antibiotics and monitor the person - check local guidelines.
+Other patients can be treated with oral antibiotics.
+Improve
+Investigations
+In those with a
+systemic response or where further investigation is clinically indicated
+then the following baseline investigations are recommended:
+Full blood count
+specifically to look for leucocytosis
+leucocytosis or neutrophilia infers a more severe infection and guides treatment options, as well as providing an estimate of hospital stay
+however, only half of patients presenting with clinically diagnosed cellulitis have a raised white cell count.
+urea and electrolytes
+assessing for an acute kidney injury which would indicate a systemic response and therefore a more severe infection.
+CRP or ESR
+whilst not specific for cellulitis, these tests are an indicator of the severity of the cellulitic infection
+a recent study has shown that the CRP level is associated with longer inpatient stays and is raised in 97% of patients
+ESR is less commonly used but is also a non-specific marker of an inflammatory response
+wound swab
+only if there is an open or weeping wound; or an obvious entry point.
+Consider further investigations in selected patients such as:
+blood cultures
+the yield of a pathogen is quoted as being less than 5% but should be considered in those with a significant systemic response, in the immunosuppressed or where atypical pathogens are a possible cause
+Improve
+Differential diagnosis
+Cellulitis is normally a clinical diagnosis with no definitive test for the condition. Therefore it is important to exclude potential mimics of the condition before starting treatment. Studies that have evaluated the clinical diagnosis of cellulitis have shown that around 30% of cases may be misdiagnosed.
+As a general rule, bilateral cellulitis is rare and if both legs are felt to be affected then the diagnosis should be reconsidered.
+Mimics of cellulitis include:
+Deep vein thrombosis
+:
+this may present with an acutely tender and swollen calf and can be mistaken for cellulitis.
+Lack of true erythema should prompt revaluation of the diagnosis
+Varicose or venous stasis eczema :
+normally presents bilaterally and is a reaction to chronic peripheral oedema, varicose veins or other conditions which may affect venous return. The eczema is thought to be a  reaction to plasma leaking into the surrounding tissue.
+If the presentation is bilateral with oedema, itch and a crusting rash then consider varicose eczema.
+Erysipelas:
+clinically difficult to differentiate between cellulitis. The majority of papers and guidance treat erysipelas and cellulitis as the same condition. Erysipelas is defined as a superficial skin infection and affects the dermis and the more superficial subcutaneous tissues. As it is more superficial than cellulitis, it appears very fiery, is painful, and is more clearly demarcated than cellulitis. The treatment is the same.
+Superficial thrombophlebitis:
+this is an inflammatory disease of the superficial veins. It tends to present with erythema, tenderness, and a discrete, palpable lump in the distribution of a vein.
+A discrete rash following a superficial vein with no systemic upset should prompt consideration of superficial thrombophlebitis
+Necrotising fasciitis
+:
+This is a serious condition with a high mortality. This is a deep seated infection with rapid destruction of muscle tissue. and should be considered if the cellulitis is associated with extensive blistering, severe pain, swelling, and a rapidly progressive rash. An urgent surgical opinion is required.
+In a rapidly progressive rash with severe pain and systemic response not in keeping with the clinical picture, necrotising fasciitis should be considered
+Septic arthritis:
+most likely presents with an acutely swollen, erythematous, and painful joint. The skin appearances may mimic cellulitis due to the erythema
+If the erythema is over a joint space with accompanied swelling then consider septic arthritis. The affected joint will have a reduced range of movement.
+Improve
+Management
+Management is guided by the Eron classification.
+Eron Class I
+oral antibiotics
+oral flucloxacillin as first-line treatment for mild/moderate cellulitis
+oral clarithromycin, erythromycin (in pregnancy) or doxycycline is recommended in patients allergic to penicillin.
+Eron Class II
+NICE recommend:
+'Admission may not be necessary if the facilities and expertise are available in the community to give intravenous antibiotics and monitor the person - check local guidelines.'
+Eron Class III-IV
+admit
+NICE recommend: oral/IV co-amoxiclav, oral/IV clindamycin, IV cefuroxime or IV ceftriaxone
+General points
+mark the area of erythema to detect spreading cellulitis
+if possible elevate the leg
+consider paracetamol or ibuprofen for pain or
+fever
+Improve
+Complications
+The complications of cellulitis may be divided into those that may occur due to the acute infection and those that may occur after resolution.
+Complications that may result directly from  the acute infection are:
+Systemic infection: there is the risk of the initial pathogen entering the blood stream and causing systemic illness. This would likely be demonstrable through a SIRS response.
+Subcutaneous abscess formation:
+Myositis
+Fasciitis
+Death
+Following the resolution of cellulitic changes, there is the possibility of developing
+recurrence of cellulitis
+which occurs in  29% of people within the years of their initial illness.
+7% of patient may develop chronic lower limb oedema following resolution of the initial illness
+Improve
+References
+NICE - 2019 Cellulitis and erysipelas: antimicrobial prescribing
+Clinical Knowledge Summaries - Cellulitis guidelines
+Infectious diseases
+Cellulitis

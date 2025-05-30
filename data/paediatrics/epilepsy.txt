@@ -1,0 +1,191 @@
+Epilepsy
+Epilepsy
+Epilepsy is a chronic neurological disorder characterised by recurrent, unprovoked seizures due to abnormal and excessive neuronal activity in the brain. The condition can be categorised into focal (originating from a specific region) or generalised (involving both hemispheres), with further classification based on seizure type, such as tonic-clonic, absence, myoclonic, atonic, and tonic. Aetiology varies widely and includes genetic predisposition, structural brain abnormalities, metabolic disorders, immune conditions and infectious diseases like meningitis or encephalitis. Diagnosis involves clinical evaluation corroborated by electroencephalogram (EEG) findings and neuroimaging studies like MRI or CT scan. Management strategies encompass pharmacotherapy with antiepileptic drugs (AEDs), surgical intervention for refractory cases, ketogenic diet for drug-resistant paediatric epilepsy and lifestyle modifications. Patient education regarding seizure first-aid and potential triggers is an integral part of management.
+Last updated: 23
+rd
+July 2024
+Aetiology
+Epilepsy is a complex neurological disorder with a multifaceted aetiology. The underlying causes and risk factors can be broadly categorised into genetic influences, structural/metabolic conditions, and immune disorders.
+Genetic Influences
+Idiopathic epilepsy:
+This form of epilepsy is believed to have a strong genetic basis. Several genes are implicated, including ion channel genes (e.g., SCN1A, KCNQ2) and neurotransmitter genes (e.g., GABRG2).
+Syndromic epilepsy:
+Certain genetic syndromes such as Dravet syndrome, Lennox-Gastaut syndrome and tuberous sclerosis complex are often associated with epilepsy.
+Structural/Metabolic Conditions
+Cerebral malformations:
+Abnormalities in the brain's structure such as cortical dysplasia or hippocampal sclerosis can lead to recurrent seizures.
+Neurocutaneous syndromes:
+These include Sturge-Weber syndrome and neurofibromatosis which have been linked to an increased risk of epilepsy.
+Stroke and vascular disease:
+Ischaemic events can cause brain injury leading to post-stroke epilepsy.
+Traumatic brain injury:
+Damage from accidents or falls can trigger seizures. The severity of the injury correlates with the likelihood of developing epilepsy.
+Infections:
+Central nervous system infections like meningitis or encephalitis caused by organisms such as
+Mycobacterium tuberculosis
+,
+Listeria monocytogenes
+, or
+Toxoplasma gondii
+, among others, may result in epilepsy.
+Metabolic disorders:
+Conditions such as mitochondrial disease, pyridoxine dependency and phenylketonuria can predispose to seizures.
+Immune Disorders
+Autoimmune diseases:
+Certain autoimmune conditions like systemic lupus erythematosus or anti-NMDA receptor encephalitis can cause seizures and epilepsy.
+Inflammation:
+Chronic inflammation caused by autoimmune reactions or infections can lead to neuronal damage and epilepsy.
+Improve
+Pathophysiology
+Epilepsy is a neurological disorder characterised by recurrent, unprovoked seizures. The pathophysiology of epilepsy involves complex interactions between genetic, molecular, and cellular mechanisms that lead to hyperexcitability and hypersynchrony in neuronal networks.
+Neuronal excitability
+The balance between excitatory and inhibitory neurotransmission is fundamental in maintaining normal neuronal activity. In epilepsy, this balance is disrupted.
+Excitatory neurotransmission primarily involves glutamate acting on NMDA and AMPA receptors. Overactivation of these receptors can lead to increased calcium influx, which promotes neuronal firing.
+Inhibitory neurotransmission mainly involves gamma-aminobutyric acid (GABA) acting on GABAA receptors. Reduced GABAergic inhibition or dysfunction in GABAA receptor subunits can result in decreased inhibitory control over neuronal activity.
+Ionic channel dysfunction
+Ionic channels regulate the flow of ions across the neuronal membrane, influencing action potential generation and propagation. Mutations or alterations in the function of sodium (Na+), potassium (K+), calcium (Ca2+), and chloride (Cl-) channels can contribute to epileptogenesis.
+Sodium channel mutations may lead to prolonged depolarisation phases, enhancing neuronal excitability.
+Potassium channel abnormalities may impair repolarisation processes, further promoting sustained depolarisation states.
+Synaptic plasticity
+Long-term potentiation (LTP) and long-term depression (LTD) are processes involved in synaptic plasticity that modulate synaptic strength. Aberrant LTP can enhance excitatory synaptic transmission, while impaired LTD can reduce inhibitory control.
+Molecular mechanisms underlying these changes involve alterations in receptor trafficking, modifications of post-synaptic density proteins, and dysregulation of intracellular signalling pathways such as those mediated by protein kinases and phosphatases.
+Anatomical considerations
+Cortical malformations such as focal cortical dysplasia or hippocampal sclerosis are often associated with epileptic foci. These structural abnormalities disrupt normal cortical architecture and connectivity, creating conditions conducive to seizure generation.
+The hippocampus is particularly susceptible due to its intrinsic circuitry that favours reverberating excitatory loops.
+Inflammation and immune response
+Neuroinflammation has been implicated in the pathogenesis of epilepsy. Activation of microglia and astrocytes results in the release of pro-inflammatory cytokines like interleukin-1β (IL-1β) and tumour necrosis factor-alpha (TNF-α).
+This inflammatory milieu can alter blood-brain barrier permeability, affect ion channel function, modify neurotransmitter systems, and contribute to neurodegeneration—all factors that promote epileptogenesis.
+The interplay among these various mechanisms leads to a state where neurons become abnormally excitable and synchronised. This culminates in the clinical manifestation of seizures observed in patients with epilepsy.
+Improve
+Classification
+The classification of epilepsy is primarily based on the onset of seizures, which can be categorised into three main types:
+focal seizures
+,
+generalised seizures
+, and
+unknown onset seizures
+.
+Focal Seizures:
+Focal aware seizures
+: Previously known as simple partial seizures, these are characterised by an alteration in consciousness or awareness. Patients typically experience motor, sensory, autonomic or psychic symptoms.
+Focal impaired awareness seizures
+: Formerly complex partial seizures, these involve a change or loss of consciousness. Symptoms may include automatisms such as lip smacking, hand rubbing or repetitive movements.
+Focal to bilateral tonic-clonic seizure
+: This type begins in one hemisphere of the brain and rapidly involves both hemispheres, leading to a tonic-clonic seizure.
+Generalised Seizures:
+Tonic-clonic seizures
+: Characterised by an initial stiffening of the body (tonic phase) followed by jerking movements (clonic phase).
+Absence seizures
+: These are brief lapses in consciousness where the individual appears to 'zone out' for a few seconds. They were formerly referred to as petit mal seizures.
+Myoclonic seizures
+: These involve sudden brief jerks or twitches of muscles or muscle groups.
+Tonic seizures
+: Characterised by the sudden onset of increased tone in the extensor muscles.
+Atonic seizures
+: Also known as drop attacks, these involve a sudden loss of muscle tone leading to falls.
+Clonic seizures
+: Characterised by rhythmic jerking movements without a preceding tonic component.
+Unknown Onset Seizures:
+If the onset of a seizure is not observed or known, it is classified as an unknown onset seizure. These can later be reclassified as focal or generalised if more information becomes available.
+Epilepsy can also be classified based on its aetiology into genetic, structural, metabolic, immune and unknown causes. Additionally, specific epilepsy syndromes such as Lennox-Gastaut syndrome or Dravet syndrome are recognised, which may have characteristic symptoms, EEG findings and responses to treatment.
+Improve
+Investigations
+In the investigation of a suspected epilepsy diagnosis, it is essential to follow a structured approach. This begins with first-line investigations before proceeding to more advanced diagnostic methods.
+First-Line Investigations
+Electroencephalogram (EEG):
+An EEG records electrical activity in the brain. It can identify characteristic patterns associated with seizures, such as interictal epileptiform discharges (IEDs), which indicate a high likelihood of epilepsy.
+Magnetic Resonance Imaging (MRI):
+This imaging technique provides detailed images of brain structures and can identify abnormalities that may be causing seizures, such as tumours, vascular malformations or cortical dysplasias.
+While EEG and MRI are frequently used as initial investigations, they do not confirm epilepsy definitively. A normal EEG does not exclude epilepsy, nor does an abnormal EEG confirm it. Similarly, an MRI may show structural changes in the brain but these need to be interpreted in the context of clinical findings.
+Further Investigations
+If first-line investigations are inconclusive or if more information is needed about seizure type or focus, further investigations may be required:
+Video-EEG Monitoring:
+This combines video recording with continuous EEG monitoring over several days. It allows for correlation between observed behaviour during a seizure and changes in brain electrical activity.
+PET/SPECT Scans:
+Positron emission tomography (PET) or single-photon emission computed tomography (SPECT) scans can provide functional imaging of the brain and help localise the seizure focus when MRI is non-diagnostic.
+In some cases where diagnosis remains uncertain despite these investigations, invasive monitoring using intracranial electrodes may be considered. However, this is only undertaken in specialist centres and typically for patients being evaluated for epilepsy surgery.
+It should be noted that the diagnosis of epilepsy is primarily clinical, based on a detailed history of the seizure episodes and their features. Investigations are used to support the clinical diagnosis and help classify the type of epilepsy, which in turn guides treatment decisions.
+Improve
+Differential diagnosis
+The differential diagnosis of epilepsy primarily encompasses three conditions: syncope, psychogenic non-epileptic seizures (PNES), and transient ischaemic attack (TIA). Understanding the clinical presentation differences between these conditions is crucial to accurate diagnosis.
+Syncope
+Characterised by a sudden, brief loss of consciousness with rapid onset and short duration. Recovery is typically spontaneous and complete.
+Cardiovascular or vasovagal syncope often presents with prodromal symptoms such as light-headedness, nausea, sweating or visual disturbances prior to the loss of consciousness.
+Postictal confusion, commonly seen in epilepsy, is usually not present in syncope. However, exceptions can occur when convulsive syncope mimics an epileptic seizure due to brief jerking movements.
+Psychogenic Non-Epileptic Seizures (PNES)
+Unlike epileptic seizures, PNES are not associated with abnormal electrical discharges in the brain. Rather, they are a physical manifestation of psychological distress.
+Patient may exhibit various motor activities including tremors, convulsions or unresponsiveness during an episode but no postictal confusion after the event.
+The duration of PNES events can be significantly longer than typical epileptic seizures. Furthermore, they do not respond to antiepileptic drugs which aids in differentiation from epilepsy.
+Transient Ischaemic Attack (TIA)
+A TIA is a temporary disruption in blood supply to part of the brain causing brief neurologic dysfunction that resolves within 24 hours without any residual effects.
+Clinical presentation often includes focal neurological symptoms depending on the affected area of the brain, such as unilateral weakness, speech disturbance or visual loss. These features are typically not seen in epilepsy.
+Unlike epileptic seizures, TIAs do not present with tonic-clonic movements or postictal confusion. However, they do carry a significant risk of subsequent stroke.
+Improve
+Management
+The management of epilepsy primarily involves pharmacological interventions, with surgical options considered in drug-resistant cases. The choice of anti-epileptic drugs (AEDs) should be individualised, taking into account seizure type, patient's age and gender, comorbidities and potential drug interactions.
+First-Line Pharmacological Management
+In adults with newly diagnosed focal seizures or generalised tonic-clonic seizures, consider carbamazepine or lamotrigine as first-line treatment.
+For children and young people, levetiracetam or valproate should be considered as first-line treatment for generalised onset; for focal onset seizures consider carbamazepine or lamotrigine.
+Treatment Refractory Epilepsy
+If seizures are not controlled by a single AED, a second medication can be introduced. Common choices include sodium valproate, lamotrigine, levetiracetam and topiramate.
+If dual therapy is ineffective, referral to a tertiary epilepsy specialist should be made for further management including consideration of ketogenic diet or vagus nerve stimulation.
+Surgical Interventions
+Surgery may be considered in patients with drug-resistant focal epilepsy. Pre-surgical evaluation includes detailed imaging (MRI brain), video EEG monitoring and neuropsychological assessments.
+Types of surgery include resective surgery (e.g., temporal lobectomy), disconnection procedures (e.g., corpus callosotomy) and neuromodulation techniques (e.g., deep brain stimulation).
+Women and Girls with Epilepsy
+In women of childbearing potential, pre-conception counselling should be offered. Sodium valproate should be avoided if possible due to risks of teratogenicity.
+During pregnancy, AED doses may need adjustment due to altered pharmacokinetics. Folic acid supplementation is recommended.
+Elderly Patients
+In elderly patients, consider potential drug interactions and comorbidities. Start with low dose and titrate slowly. Gabapentin and lamotrigine are usually well-tolerated.
+Improve
+Complications
+Complications of epilepsy can be broadly categorised into physical, psychological and social.
+Physical complications
+Status epilepticus:
+This is a medical emergency where seizures last longer than 5 minutes or when seizures occur close together without recovery in between. It can lead to severe neurological deficits and even death if not promptly managed.
+Sudden unexpected death in epilepsy (SUDEP):
+The exact cause remains unknown but possible mechanisms include cardiac arrhythmias, respiratory dysfunction, and cerebral depression post-seizure.
+Injury from seizures:
+Falls during a seizure can result in fractures or head injuries. Burns may also occur if the individual was cooking or bathing at the time of seizure onset.
+Drug-related complications:
+Antiepileptic drugs (AEDs) can have numerous side effects including hepatotoxicity, teratogenicity, bone marrow suppression, and skin rashes. Drug-drug interactions are also common especially in polytherapy.
+Psychological complications
+Mental health disorders:
+Individuals with epilepsy have higher rates of depression and anxiety disorders compared to the general population. Attention deficit hyperactivity disorder (ADHD) is also more prevalent among children with epilepsy.
+Cognitive impairment:
+Depending on the location and extent of epileptogenic focus, patients may experience difficulties with memory, attention, executive functions or language skills.
+Social complications
+Social isolation:
+Fear of having a seizure in public often leads to avoidance behaviour resulting in social isolation.
+Educational underachievement and unemployment:
+Cognitive impairments coupled with school absenteeism often result in educational underachievement. Adults with epilepsy also have higher rates of unemployment due to discrimination or inability to perform certain tasks.
+Driving restrictions:
+In the UK, individuals must be seizure-free for a year before they can apply for a driving licence. This can significantly impact their independence and quality of life.
+Improve
+Prognosis
+Epilepsy, a chronic neurological disorder characterised by recurrent unprovoked seizures, has a variable prognosis depending on several factors. The nature of the disorder and its responsiveness to treatment significantly influence patient outcomes.
+Seizure Control:
+Approximately 70% of patients achieve complete seizure control with appropriate anti-epileptic drug (AED) therapy.
+In around 30% of patients, seizures may remain refractory to treatment. These individuals are at increased risk of sudden unexpected death in epilepsy (SUDEP), injuries from falls or accidents during seizures, and psychosocial difficulties.
+Remission and Relapse:
+About 50-60% of adults and 70-80% of children with epilepsy will enter remission, defined as five years without seizures while on medication.
+A significant proportion of these patients may experience relapse after AED withdrawal. The risk is higher in those with a longer duration of active epilepsy before achieving control, presence of neurological deficits or abnormalities on neuroimaging.
+Mortality:
+Epilepsy-related mortality rates are significantly higher than in the general population. Major causes include SUDEP, status epilepticus, accidents during seizures, and suicide.
+SUDEP accounts for up to 17% of all deaths in people with epilepsy and is most common in those with poorly controlled generalised tonic-clonic seizures.
+Cognitive and Psychosocial Outcomes:
+Epilepsy can have detrimental effects on cognitive function over time, particularly if onset is in childhood or if seizures are frequent and uncontrolled.
+The condition often leads to psychosocial issues such as reduced quality of life due to stigma, discrimination, limitations in driving and employment, and mental health disorders.
+Prognostic Factors:
+Key prognostic factors include type of epilepsy, age of onset, frequency and severity of seizures, response to initial treatment, presence of neurological deficits or neuroimaging abnormalities, and comorbidities.
+Early initiation of appropriate treatment can improve the prognosis significantly.
+Improve
+References
+NICE - 2022 Epilepsy guidelines
+Royal College of Obstetricians and Gynaecologists - 2016 Epilepsy in Pregnancy
+SIGN - 2018 Diagnosis and management of epilepsy in adults
+Royal College of Physicians - 2013 Modern management of epilepsy
+Epilepsy Foundation - 2017 revised classification of seizures
+Paediatric neurology
+Epilepsy
+Epilepsy: first seizure

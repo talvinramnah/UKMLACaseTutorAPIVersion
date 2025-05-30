@@ -1,0 +1,96 @@
+Minimal change disease
+Minimal change disease
+Minimal change disease (MCD) is a common cause of
+nephrotic syndrome
+, primarily affecting children, but also seen in adults. MCD is characterized by a lack of significant histological abnormalities on light microscopy, with podocyte effacement visible under electron microscopy. The aetiology is still unclear, but associations with atopy, infections, and immune dysregulation have been suggested. Patients present with oedema,
+proteinuria
+, hypoalbuminemia, and hyperlipidemia. Treatment typically involves corticosteroids as first-line therapy, with alternative immunosuppressive agents used for steroid-resistant or frequently-relapsing cases. The prognosis is generally favourable, with most pediatric patients achieving complete remission, but relapses are common.
+Last updated: 25
+th
+April 2023
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Minimal Change Disease (MCD) is a common cause of idiopathic
+nephrotic syndrome
+, primarily affecting children but also occurring in adults. Its aetiology remains incompletely understood, but several factors are hypothesized to contribute to its development, including:
+Immune dysregulation:
+Aberrant T-cell function is considered a key factor in MCD. Evidence suggests that circulating cytokines, such as interleukin-13 (IL-13) and interleukin-4 (IL-4), produced by abnormal T cells, may directly or indirectly damage the glomerular basement membrane and podocytes, leading to
+proteinuria
+.
+Genetic predisposition:
+Although no single gene has been definitively linked to MCD, familial cases and associations with certain HLA subtypes (e.g., HLA-DR7) suggest a genetic component.
+Environmental factors:
+MCD has been associated with various environmental triggers, including viral infections (e.g., Epstein-Barr virus, HIV), allergens, and certain medications (e.g., nonsteroidal anti-inflammatory drugs).
+Improve
+Pathophysiology
+The pathogenesis of MCD involves a complex interplay between the immune system, genetic factors, and environmental triggers. The key pathological features of MCD are:
+Podocyte injury:
+The main histological finding in MCD is diffuse effacement of the podocyte foot processes, which are essential structures for maintaining the integrity of the glomerular filtration barrier. This effacement occurs without significant immune complex deposition or thickening of the glomerular basement membrane. The precise mechanism of podocyte injury in MCD is not fully understood, but it is believed to be related to the action of circulating factors, such as cytokines produced by dysregulated T cells.
+Proteinuria
+:
+As a result of podocyte injury and dysfunction, the glomerular filtration barrier becomes more permeable to proteins, particularly albumin. This leads to nephrotic-range proteinuria, which is the hallmark clinical feature of MCD. The loss of protein in the urine further exacerbates the disease by causing hypoalbuminemia, which in turn leads to oedema, hyperlipidemia, and an increased risk of thrombosis.
+Glomerular hyperfiltration:
+The reduction in glomerular filtration barrier selectivity and the compensatory increase in glomerular filtration rate may contribute to glomerular hyperfiltration. This hyperfiltration is a maladaptive response that can lead to glomerular injury and, in some cases, progression to chronic kidney disease.
+Inflammation and oxidative stress:
+Although the role of inflammation in MCD remains unclear, some studies suggest that oxidative stress and the production of reactive oxygen species may contribute to podocyte injury and dysfunction.
+Improve
+Clinical features
+Key features
+Oedema:
+The hallmark of MCD is oedema, typically manifesting as periorbital puffiness, lower extremity swelling, and, in severe cases, ascites. Oedema results from a combination of hypoalbuminemia, which decreases plasma oncotic pressure, and renal sodium retention due to altered glomerular filtration.
+Proteinuria
+:
+MCD is characterized by significant proteinuria, with daily losses of 3.5 grams or more of protein in the urine. This selective proteinuria primarily comprises albumin, leading to hypoalbuminemia.
+Hypoalbuminemia:
+Reduced serum albumin levels (<2.5 g/dL) are a direct consequence of excessive urinary protein loss, leading to decreased plasma oncotic pressure and the development of edema.
+Other possible features
+Hyperlipidemia:
+MCD patients often exhibit elevated cholesterol and triglyceride levels, a result of increased hepatic synthesis of lipoproteins in response to hypoalbuminemia. Hyperlipidemia is also linked to a higher risk of atherosclerosis.
+Haematuria:
+Microscopic haematuria may be present in a minority of MCD patients but is typically not a prominent feature. If gross hematuria is observed, other diagnoses should be considered.
+Renal insufficiency:
+Acute kidney injury (AKI) is rare in MCD, but when present, it is often due to complications such as hypovolemia, infection, or nephrotoxic medications. Chronic kidney disease (CKD) may develop in long-standing or frequently relapsing cases.
+Infections:
+Patients with MCD are at an increased risk of infections due to immunosuppressive treatment and the loss of immunoglobulins in the urine. The most common infections are respiratory tract infections, cellulitis, and peritonitis.
+Thromboembolic events:
+MCD patients have a heightened risk of thromboembolic complications, including deep vein thrombosis and pulmonary embolism, due to hypercoagulable state induced by
+nephrotic syndrome
+.
+Improve
+Investigations
+Urinalysis:
+Essential for assessing
+proteinuria
+and hematuria. A urine dipstick test can provide a rapid preliminary assessment, followed by a 24-hour urine collection to quantify proteinuria.
+Blood tests:
+Include serum creatinine, electrolytes, albumin, and lipid profile to evaluate renal function, electrolyte imbalances, hypoalbuminemia, and hyperlipidemia.
+Renal ultrasound:
+Useful in assessing kidney size, cortical echogenicity, and ruling out obstructive uropathy or other structural abnormalities.
+Renal biopsy:
+Definitive diagnosis of MCD relies on renal biopsy in adults, with light microscopy typically showing normal glomeruli, and electron microscopy revealing diffuse podocyte foot process effacement. In children, renal biopsy is generally avoided.
+Improve
+Management
+- The majority of cases (80%) are steroid-responsive
+Cyclophosphamide is the next step for steroid-resistant cases
+Improve
+Prognosis
+Prognosis is overall good, although relapse is common. Roughly:
+1/3 have just one episode
+1/3 have infrequent relapses
+1/3 have frequent relapses which stop before adulthood
+Improve
+Glomerulonephritis
+Minimal change disease

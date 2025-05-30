@@ -1,0 +1,38 @@
+Pyogenic granuloma
+Pyogenic granuloma
+Pyogenic granuloma (PG) is a benign vascular proliferation that commonly manifests as a rapidly growing, friable, erythematous papule or nodule, frequently observed on the skin and mucous membranes. Histologically, it is characterised by lobular capillary proliferation with neutrophil-rich inflammatory infiltrate. PG's aetiology remains unclear, but trauma, hormonal influences, and certain drugs are identified contributory factors. The lesions are prevalent in children and pregnant women (pregnancy tumour). Multiple modalities exist for treatment, including shave excision, curettage with or without electrodessication, laser therapy, and topical or intralesional treatments. However, recurrence is common post-treatment. Given its rapid growth and occasional ulceration, PG can mimic malignant conditions, necessitating histopathological confirmation. It's crucial to differentiate PG from more serious vascular tumours, such as Kaposi's sarcoma and angiosarcoma, for appropriate management.
+Last updated: 25
+th
+May 2023
+Aetiology
+The cause of pyogenic granuloma is not known but a number of factors are linked:
+trauma
+pregnancy
+more common in women and young adults
+Improve
+Clinical features
+Features
+most common sites are head/neck, upper trunk and hands. Lesions in the oral mucosa are common in pregnancy
+initially small red/brown spot
+rapidly progress within days to weeks forming raised, red/brown lesions which are often spherical in shape
+the lesions may bleed profusely or ulcerate
+Improve
+Management
+First-line Management
+The primary approach to managing pyogenic granuloma is complete surgical excision with a border of normal tissue. This includes the underlying dermis to prevent recurrence.
+Shave excision followed by electrocautery or curettage may also be used, especially for smaller lesions.
+Alternative Therapies
+Cryotherapy can be considered as an alternative, particularly for small lesions or in cases where surgery is not feasible.
+Pulsed dye laser therapy has shown efficacy in treating pyogenic granulomas, especially those located on the face and neck. It offers excellent cosmetic results with minimal scarring.
+Topical imiquimod cream or topical timolol gel may be used as non-invasive treatment options for small lesions, particularly in paediatric patients or when other methods are contraindicated.
+Treatment of Recurrent Lesions
+In case of recurrence after initial removal, re-excision is generally recommended. The use of adjunctive therapies such as cryotherapy or laser therapy may also be considered to minimise the risk of further recurrence.
+Management during Pregnancy
+Pregnancy-associated pyogenic granulomas (also known as 'granuloma gravidarum') typically regress postpartum. Therefore, conservative management and monitoring are advised until delivery unless complications arise (e.g., excessive bleeding). If necessary, interventions like cryotherapy can be safely performed during pregnancy.
+Histopathological Confirmation
+All excised specimens should undergo histopathological examination to confirm the diagnosis and rule out malignancy, especially in atypical presentations or recurrent cases.
+Improve
+References
+DermNet NZ - Pyogenic granuloma
+Dermatology
+Pyogenic granuloma

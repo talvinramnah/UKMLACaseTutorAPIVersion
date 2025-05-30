@@ -1,0 +1,97 @@
+Cluster headache
+Cluster headache
+Cluster headaches are known to be one of the most painful conditions that patients can have the misfortune to suffer. The name relates to the pattern of the headaches - they typically occur in clusters lasting several weeks, with the clusters themselves typically once a year.
+Last updated: 22
+nd
+January 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 3:1
+Condition
+Relative
+incidence
+Migraine
+500.00
+Trigeminal neuralgia
+1.50
+Cluster headache
+1
+Paroxysmal hemicrania
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The precise aetiology of cluster headache remains unclear; however, several factors have been identified that contribute to its development.
+Male sex
+is a recognised risk factor, with cluster headache being significantly more common in men than women.
+There is often a
+family history
+, suggesting a genetic predisposition. First-degree relatives are at increased risk compared to the general population.
+Cigarette smoking is strongly associated with cluster headache. Most individuals affected are current or former smokers, although cessation does not always lead to improvement.
+Alcohol can act as a trigger during active cluster periods but is not thought to be an underlying cause.
+Cluster headaches typically begin between the ages of 20 and 40 years, though onset outside this range can occur.
+Some evidence suggests that certain medications (e.g., vasodilators such as nitroglycerin) may precipitate attacks in susceptible individuals during active phases, but do not cause the condition itself.
+No clear association has been established with socioeconomic status, diet or most environmental exposures.
+Structural brain lesions are rare but should be considered if atypical features are present; routine neuroimaging is recommended in line with
+NICE
+guidance for new-onset cluster headache.
+Improve
+Clinical features
+Features
+Pain
+Intense sharp, stabbing pain around one eye (recurrent attacks 'always' affect same side)
+Typical occurs once or twice a day, each episode lasting 15 mins - 2 hours
+Clusters typically last 4-12 weeks
+Patient is restless and agitated during an attack
+Often accompanied by redness, nasal stuffiness, lacrimation, lid swelling
+Miosis
+and
+ptosis
+in a minority
+Improve
+Investigations
+- most patients will have neuroimaging - underlying brain lesions are sometimes found even if the clinical symptoms are typical for cluster headache
+MRI with gadolinium contrast is the investigation of choice
+Improve
+Diagnosis
+From the International Headache Society we present the third edition of the International Classification of Headache Disorders:
+A. At least five attacks fulfilling criteria B-D
+B. Severe or very severe unilateral orbital, supraorbital and/or temporal pain lasting 15-180 minutes (when untreated)
+C. Either or both of the following:
+1. at least one of the following symptoms or signs, ipsilateral to the headache:
+conjunctival injection and/or lacrimation
+nasal congestion and/or rhinorrhoea
+eyelid oedema
+forehead and facial sweating
+miosis
+and/or
+ptosis
+2. a sense of restlessness or agitation
+D. Occurring with a frequency between one every other day and 8 per day
+E. Not better accounted for by another ICHD-3 diagnosis.
+Improve
+Management
+Management
+Acute:
+100% oxygen (80% response rate within 15 minutes), subcutaneous triptan  (75% response rate within 15 minutes)
+Prophylaxis:
+Verapamil is the drug of choice
+There is also some evidence to support a tapering dose of prednisolone
+NICE recommend seeking specialist advice from a neurologist if a patient develops cluster headaches with respect to neuroimaging
+Some neurologists use the term trigeminal autonomic cephalgia to group a number of conditions including cluster headache,
+paroxysmal hemicrania
+and short-lived unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT). It is recommended such patients are referred for specialist assessment as specific treatment may be required, for example it is known paroxysmal hemicrania responds very well to indomethacin.
+Improve
+References
+NICE - 2012 Headache guidelines
+Neurology
+Cluster headache

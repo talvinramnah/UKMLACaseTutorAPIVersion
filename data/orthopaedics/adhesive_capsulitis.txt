@@ -1,0 +1,134 @@
+Adhesive capsulitis
+Adhesive capsulitis
+Adhesive capsulitis
+, commonly known as
+frozen shoulder
+, is a debilitating disorder characterised by progressive, painful restriction of motion in the glenohumeral joint. The pathophysiology involves inflammation and fibrosis of the capsule, leading to thickening and contracture. It typically presents in three stages: the freezing or painful stage, the frozen or adhesive stage, and the thawing or recovery stage.
+While its aetiology remains unclear, risk factors include diabetes mellitus, thyroid disorders, cardiovascular disease, and prolonged immobilisation. Diagnosis is primarily clinical but may be supported by radiological findings such as decreased joint space on X-ray or MRI evidence of synovial inflammation.
+Management strategies encompass physiotherapy, non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroid injections into the joint space, and manipulation under anaesthesia. In refractory cases, arthroscopic capsular release may be considered. Despite treatment measures, patients often experience prolonged symptoms with gradual resolution over one to three years.
+Last updated: 4
+th
+November 2023
+Epidemiology
+Incidence: 150.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 2:1
+Condition
+Relative
+incidence
+Rotator cuff injury
+2.00
+Adhesive capsulitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Its aetiology is multifactorial, often categorised into primary (idiopathic) and secondary forms. The primary form has no clear underlying cause, whereas the secondary form may be associated with systemic conditions, local factors, or extrinsic factors.
+Systemic conditions:
+include diabetes mellitus (particularly Type I), thyroid dysfunction, and hyperlipidaemia, which are thought to predispose individuals to inflammatory responses within the joint capsule.
+Local factors:
+such as rotator cuff disease, trauma, or prolonged immobilisation, can lead to inflammatory cascades and subsequent capsular fibrosis.
+Extrinsic factors:
+refer to a history of systemic diseases like Parkinson's disease or cardiac disease, which can increase the risk of developing adhesive capsulitis due to reduced mobility or systemic inflammatory responses.
+Genetic predisposition:
+may also play a role, with some studies indicating a familial occurrence pattern.
+Improve
+Pathophysiology
+The pathogenesis of adhesive capsulitis is believed to occur in three overlapping phases: the freezing, frozen, and thawing phases, each characterised by distinct histopathological changes in the glenohumeral joint capsule and surrounding structures.
+Freezing Phase:
+Initiated by an inflammatory response, likely due to cytokine release within the joint capsule. Synovitis leads to increased vascular permeability, resulting in capsular oedema, pain, and reduced range of motion (ROM).
+Progressive Fibrosis: Myofibroblasts become prominent within the joint capsule, depositing extracellular matrix components and increasing cross-linking within the collagen fibres. The coracohumeral ligament and rotator interval tighten, further restricting movement.
+Angiogenesis and Nerve Growth: Accompanying the inflammatory process, there is an upsurge in neovascularisation and neural proliferation, which may contribute to pain and further limit ROM.
+Frozen Phase:
+Characterised by the progressive loss of glenohumeral movements due to a stiffened capsule. Fibroblastic proliferation peaks, and the dense adhesions reduce joint volume, impeding both active and passive shoulder motions.
+Thawing Phase:
+This phase involves the gradual resolution of symptoms. Spontaneous capsular remodelling occurs, with a decrease in inflammatory mediators, leading to a slow recovery of motion. However, the resolution process may take months to years, and full recovery is not guaranteed.
+Throughout these stages, the pathology is not solely limited to the capsule but also involves the synovium, fat pad, rotator interval, ligaments, and the intra-articular space. The exact triggers and regulation of these pathological processes remain incompletely understood, indicating the need for further research.
+Improve
+Clinical features
+Features typically develop over days
+external rotation is affected more than internal rotation or abduction
+both active and passive movement are affected
+patients typically have a painful freezing phase, an adhesive phase and a recovery phase
+bilateral in up to 20% of patients
+the episode typically lasts between 6 months and 2 years
+Improve
+Investigations
+Adhesive capsulitis, also known as frozen shoulder, is predominantly a clinical diagnosis based on the patient's history and physical examination. However, certain investigations can be helpful in confirming the diagnosis and ruling out other potential causes of
+shoulder pain
+and stiffness.
+First-Line Investigations
+Plain Radiography:
+This is typically the first-line investigation to exclude other pathologies such as osteoarthritis or fractures. In adhesive capsulitis, X-rays are usually normal but may show a reduction in the joint space.
+Further Investigations
+If the diagnosis remains uncertain after initial assessment and plain radiography, further investigations may be warranted.
+Magnetic Resonance Imaging (MRI):
+While not routinely required, MRI can help confirm the diagnosis by showing thickening and inflammation of the joint capsule. It's particularly useful when there's suspicion of concomitant rotator cuff pathology or labral tears.
+Ultrasound:
+Ultrasound can provide valuable information about soft tissue structures around the shoulder. It may reveal diffuse synovial hypertrophy consistent with adhesive capsulitis. Additionally, it can rule out rotator cuff tear or bursitis which can mimic adhesive capsulitis clinically.
+Contrast-enhanced MRI Arthrography:
+This is considered the gold standard for diagnosing adhesive capsulitis. It will demonstrate a reduced volume of the glenohumeral joint along with irregularity and thickening of axillary recesses. However, due to its invasive nature and requirement for contrast administration, it's typically reserved for cases where surgical intervention is being considered.
+In most instances, these investigations should be combined with a thorough clinical evaluation to confirm a diagnosis of adhesive capsulitis. It's important to note that while these investigations can aid in diagnosis, none are pathognomonic for adhesive capsulitis and clinical correlation is always necessary.
+Improve
+Differential diagnosis
+Adhesive capsulitis, commonly known as frozen shoulder, presents with unique clinical features that can be differentiated from other shoulder pathologies. The most common differential diagnoses include rotator cuff disorders, glenohumeral osteoarthritis, and cervical radiculopathy.
+Rotator Cuff Disorders:
+These primarily involve tendinopathy or tears of the rotator cuff muscles. Unlike adhesive capsulitis, which typically exhibits a global restriction in both active and passive range of motion (ROM), rotator cuff disorders are characterised by pain and weakness during specific movements depending on the affected muscle. For instance, supraspinatus tendinopathy may manifest as painful abduction while infraspinatus pathology might present with difficulty in external rotation. Night pain is common in both conditions but may be more severe in rotator cuff disorders.
+Glenohumeral Osteoarthritis:
+This condition also presents with reduced ROM and pain similar to adhesive capsulitis. However, glenohumeral osteoarthritis usually has crepitus on examination, which is not typical in adhesive capsulitis. Pain in osteoarthritis often worsens with activity and improves with rest, whereas adhesive capsulitis may have persistent discomfort irrespective of activity level. Furthermore, radiographic changes such as joint space narrowing or osteophyte formation can help distinguish glenohumeral osteoarthritis from adhesive capsulitis.
+Cervical Radiculopathy:
+Although it primarily affects the neck region, cervical radiculopathy can cause referred pain to the shoulder mimicking adhesive capsulitis. A key distinguishing feature is that cervical radiculopathy often presents with neurological symptoms such as numbness or tingling radiating down the arm, which is not seen in adhesive capsulitis. Additionally, neck movements may exacerbate the pain in cervical radiculopathy, while
+shoulder pain
+due to adhesive capsulitis remains unaffected by neck motions.
+While these are some of the most common differential diagnoses, other pathologies such as subacromial bursitis or calcific tendinitis may also mimic adhesive capsulitis.
+Improve
+Management
+Management of adhesive capsulitis, also known as frozen shoulder, involves a combination of non-pharmacological and pharmacological interventions. These aim to reduce pain, increase range of motion and improve function. The approach should be individualised based on disease severity, patient's comorbidities, preferences and response to treatment.
+Non-pharmacological management:
+Physiotherapy:
+This is the mainstay of treatment with an emphasis on home exercises to maintain mobility and strength.
+Mobilisation techniques may be beneficial.
+Patient education:
+It is important to provide reassurance about the benign nature of the condition and inform patients that symptoms typically resolve over time but can take up to two years.
+Pharmacological management:
+Analgesics:
+Paracetamol or a non-steroidal anti-inflammatory drug (NSAID) may be used for pain relief.
+Intra-articular corticosteroid injections:
+These may be considered if pain is severe or if there is limited response to analgesics.
+A single injection can provide short-term pain relief and improved range of motion.
+Surgical intervention:
+This should be considered only after conservative measures have failed.
+MUA (Manipulation under Anaesthesia):
+This procedure involves forcibly moving the shoulder joint under general anaesthesia.
+Capsular release surgery:
+This is a more invasive procedure where the tight portions of the joint capsule are cut to allow for greater movement.
+Improve
+Prognosis
+The prognosis of adhesive capsulitis, also known as frozen shoulder, is generally favourable. However, the condition is characterised by a protracted course with three distinct phases:
+freezing
+,
+frozen
+, and
+thawing
+.
+Freezing phase:
+This initial stage typically lasts 6 weeks to 9 months and is marked by a progressive loss of shoulder motion with increasing pain.
+Frozen phase:
+Lasting from 4 to 6 months, this stage is characterised by continued stiffness but a gradual decrease in pain.
+Thawing phase:
+The final stage can last from 6 months to 2 years and involves a slow return of motion or function to the shoulder.
+Patient outcomes are influenced by various factors. Those with diabetes mellitus have been found to experience more severe symptoms and longer recovery times. Concurrent shoulder conditions such as rotator cuff tears or arthritis can complicate management and potentially worsen the prognosis.
+Treatment modalities aim at symptom control and restoration of function through pain management, physical therapy and, in some cases, surgical intervention. Most patients regain near normal shoulder strength and functionality after treatment; however, up to 15% may continue to experience residual symptoms like mild pain or restricted movement even after several years. It should be noted that recurrence in the same shoulder is rare but it can occur in the contralateral shoulder in approximately 17% of patients.
+Improve
+References
+Patient.info - Frozen shoulder review
+Orthopaedic surgery
+Adhesive capsulitis

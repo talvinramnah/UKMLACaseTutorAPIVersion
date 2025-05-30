@@ -1,0 +1,154 @@
+Dysfunctional uterine bleeding
+Dysfunctional uterine bleeding
+Dysfunctional uterine bleeding (DUB) is a common condition in women of reproductive age. It is defined as anovulatory bleeding in pre-menopausal women that is not due to pregnancy or any identifiable uterine or systemic conditions. The hallmark of DUB is unpredictable, irregular bleeding that can range from spotting to larger volume bleeding. The pathophysiology of DUB is thought to relate to aberrant ovarian cycle hormones, and treatment may be medical or surgical depending on the severity of the symptoms and patient preference.
+Last updated: 13
+th
+September 2023
+Epidemiology
+Incidence: 750.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Condition
+Relative
+incidence
+Uterine fibroids
+2.67
+Dysfunctional uterine bleeding
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Dysfunctional uterine bleeding (DUB) is a diagnosis of exclusion when organic pathologies, such as
+fibroids
+, malignancies, infections, or pregnancy-related issues, are ruled out. The primary aetiological factors include:
+Hormonal Imbalances:
+Most DUB cases are anovulatory, where an imbalance between oestrogen and progesterone results in unpredictable endometrial shedding.
+Structural Abnormalities:
+Though rare, some instances of DUB can arise from undetected minor uterine abnormalities.
+Systemic Conditions:
+Thyroid disorders, polycystic ovary syndrome (PCOS), obesity, and significant weight fluctuations can contribute to DUB.
+Iatrogenic Causes:
+Some medications, particularly those altering hormonal levels like contraceptives, can cause DUB.
+Improve
+Pathophysiology
+Endometrial Hyperplasia:
+Elevated or prolonged exposure to oestrogen without the balancing effect of progesterone can lead to thickening of the endometrial lining. When this endometrial layer becomes excessively thickened and unstable, it sheds irregularly, causing unpredictable bleeding.
+Anovulatory Cycles:
+In a typical ovulatory cycle, the corpus luteum releases progesterone post-ovulation, preparing the endometrium for a potential implantation. Without ovulation, the corpus luteum is absent, leading to an unopposed oestrogenic state. This absence results in the failure of the endometrium to transition to the secretory phase, causing irregular shedding and prolonged periods.
+Disturbed Endometrial Maturation:
+The lack of a consistent hormonal signal can lead to asynchronous development of the endometrial lining. Inconsistent maturation results in patches of the endometrium shedding at different times.
+Vascular Changes:
+Chronic exposure to unopposed oestrogen can lead to increased fragility in endometrial blood vessels. This heightened fragility results in spontaneous bleeding from these vessels, even without significant endometrial shedding.
+Inadequate Luteal Phase:
+In situations where ovulation occurs, but the luteal phase is insufficiently robust due to reduced progesterone production, premature endometrial shedding can occur. This type of bleeding is often mistaken for an early menstrual period.
+Improve
+Clinical features
+The key clinical feature is unpredictable menstrual bleeding, and not just increased volume of menstrual bleeding (
+menorrhagia
+), although this may also be a feature.
+Typically, infrequent and irregular, unpredictable menstrual bleeding
+Varies in amount, duration and character
+Not necessarily preceded by premenstrual symptoms (breast fullness/tenderness, bloating, mild mood swings)
+Ask the patient if there is any possibility she may be pregnant
+In a woman aged >40, peri-menopausal period may include DUB, and other symptoms such as:
+Hot flushes
+Night sweats
+Vaginal dryness or itching
+Mood changes
+Sleep disturbance
+In women of reproductive age, polycystic ovarian syndrome (PCOS) can cause DUB. Signs and symptoms include:
+Obesity
+Acne
+Hypertension
+Acanthosis nigricans
+Anaemia is be present in 20-60% women with DUB. Signs of symptoms of anaemia may include:
+Fatigue
+Dizziness
+Conjunctival pallor
+Tachycardia
+Systemic symptoms such as weight loss, fever, as well as dysmenorrhea are not typical and are more suggestive of other uterine pathology.
+Improve
+Investigations
+Important to rule out structural uterine pathology and screen for blood test results indicating alternative diagnoses.
+Blood tests
+Essential tests:
+Pregnancy test
+Essential to rule out pregnancy as differential and before any treatment is given
+Full blood count
+May show anaemia
+UTI causing bleeding may show high WCC
+Abnormalities should prompt further tests such as Factor VIII and von Willebrand factor antigen.
+If indicative symptoms:
+Thyroid function tests
+If clinical history suggestive of hypo- or hyperthyroidism
+FSH and LH levels
+Peri-menopausal women (typically aged 40-60) may experience irregular bleeding
+Two levels at least 1 week apart are recommended
+Elevated levels indicates patient is perimenopausal
+Prolactin level
+If clinical history suggests hyperprolactinaemia as a cause for anovulatory bleeding
+Androgen levels
+Can aid in the diagnosis of co-existent poly-cystic ovarian syndrome (PCOS), a strong risk factor for DUB
+Imaging
+A transvaginal ultrasound is the first-line investigation in DUB as it can delineate endometrial pathology such as polyps or
+fibroids
+which may be causing abnormal bleeding.
+Furthermore, an endometrial biopsy can be done to rule out neoplasm if ultrasound findings indicate myometrium thickness >12mm, or 5-12mm with history of unopposed oestrogen exposure (e.g. poly-cystic ovarian syndrome)
+Identification of intra-uterine pathology e.g. fibroids or endometrial cancer may require further imaging such as direct hysteroscopy or MRI.
+Improve
+Differential diagnosis
+The International Federation of Gynaecology and Obstetrics (FIGO) introduced a classification system for abnormal uterine bleeding. DUB is not included in this classification, but is generally understood to be part of the 'ovulatory dysfunction' category. The other categories therefore provide good differentials for DUB.
+Pregnancy related bleeding
+Pregnancy should be excluded when departure from normal bleeding pattern occurs
+Threatened or inevitable miscarriage, and ectopic pregnancy should be excluded if positive
+Uterine fibroids
+(leiomyoma)
+Fibroids can cause increased menstrual bleeding
+Mass may be palpable on abdominal examination, confirmed on ultrasound imaging
+May be managed medically or surgically
+Iatrogenic uterine bleeding
+Oral combined contraceptive pill or oral anticoagulants may cause irregular bleeding
+Endometrial or cervical malignancy
+Regional lymphadenopathy and systemic symptoms such as weight loss may be present
+Screen for specific risk factors: obesity, family history, exogenous oestrogen use for endometrial cancer; HPV infection, smoking for cervical cancer
+Biopsy and histological diagnosis
+Clotting disorder
+Family history important
+May also report frequent bruising, epistaxis, bleeding from gums
+Non-uterine bleeding
+E.g. urethritis, lesions of the cervix or vulva
+May be suggested by clinical history
+UTI may present with systemic symptoms such as fever, malaise
+Improve
+Management
+DUB is managed principally with progesterone therapy to regulate the chronic oestrogenic proliferation of the myometrium. Non-hormonal and surgical options are also available, depending on patient preference. Intra-uterine devices can often be inserted and managed in primary care. Further therapy, or surgery, requires input at a centre with a tertiary gynaecology service.
+Hormonal management
+The aim is to restore regular cyclical bleeding
+Progestogens
+Antagonise action of oestrogen
+Intra-uterine device (IUD) e.g. Mirena most common option
+Otherwise, norethisterone 5 mg orally three times daily on days 5-25 of cycle
+Subdermal progestogen implant also available
+Combined oestrogen and progestogen therapy
+Oral combined contraceptive pill may help if progestogen therapy alone ineffective
+Non-hormonal options
+NSAIDS e.g. mefenamic acid or ibuprofen have anti-prostaglandin effects
+Tranexamic acid (e.g. 1g PO TDS during menstruation) reduces rate of bleeding
+Gonadotropin-releasing hormone analogues
+Expert-guided treatment following referral to specialist centre
+E.g. leuprorelin
+Ovarian suppression therapy to cease oestrogen influence on proliferating endometrium.
+Surgical options
+Must be discussed fully with the patients taking in to account their desire for future fertility, risks and effect of current condition on their wellbeing.
+Endometrial ablation
+Hysterectomy - can be performed laparoscopically, trans-vaginal, or via laparotomy.
+Improve
+Women's health
+Dysfunctional uterine bleeding

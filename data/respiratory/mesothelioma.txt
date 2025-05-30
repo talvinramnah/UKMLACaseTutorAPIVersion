@@ -1,0 +1,138 @@
+Mesothelioma
+Mesothelioma
+Mesothelioma is a rare and aggressive
+cancer
+that affects the lining of the lungs, abdomen, or heart. It is primarily caused by exposure to asbestos fibres, which can be inhaled or ingested. Symptoms may include
+shortness of breath
+,
+chest pain
+, coughing, and
+weight loss
+. Diagnosis is typically made through imaging tests and biopsy. Treatment options include surgery, chemotherapy, and radiation therapy, but the prognosis for mesothelioma is generally poor. Asbestos exposure prevention is key in reducing the incidence of this disease.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 3:1
+Condition
+Relative
+incidence
+Lung
+cancer
+25.67
+Mesothelioma
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Mesothelioma is a rare and aggressive malignancy that primarily arises from the mesothelial cells lining the pleura, peritoneum, pericardium, or tunica vaginalis. The aetiology of mesothelioma is multifactorial with several risk factors contributing to its development.
+Asbestos Exposure
+The primary risk factor for developing mesothelioma is exposure to asbestos fibres. Both occupational and environmental exposures have been implicated:
+Occupational exposure:
+Individuals working in industries such as shipbuilding, construction, and manufacturing where asbestos was widely used are at an increased risk.
+Environmental exposure:
+Living close to naturally occurring asbestos or in buildings containing asbestos materials can also increase the risk.
+Radiation Exposure
+Exposure to ionising radiation has been associated with the development of mesothelioma. This association has been observed particularly among patients who received radiotherapy for Hodgkin lymphoma or breast
+cancer
+.
+Viral Infections
+Infection with
+Simian virus 40 (SV40)
+, a DNA virus found in both humans and monkeys, has been proposed as a potential co-factor in the pathogenesis of mesothelioma. However, this link remains controversial due to inconsistent findings across studies.
+Genetic Factors
+A small proportion of mesotheliomas appear to be associated with inherited genetic mutations. Germline mutations in genes such as BAP1 (BRCA1-associated protein 1), which is involved in DNA repair, have been identified in families with a high incidence of mesothelioma.
+Chronic Inflammation
+Chronic inflammatory processes, such as those observed in long-standing pleuritis or peritonitis, may contribute to the development of mesothelioma through the induction of a reactive mesothelial hyperplasia.
+Tobacco Smoke
+While tobacco smoking is not independently associated with an increased risk of mesothelioma, it can enhance the carcinogenic effect of asbestos exposure, thereby increasing the risk of developing this malignancy.
+Improve
+Pathophysiology
+Mesothelioma
+is a malignant tumour originating from mesothelial cells lining the pleura, peritoneum, pericardium or tunica vaginalis. Its pathogenesis is complex and multifactorial, involving genetic alterations, chronic inflammation and asbestos exposure.
+The first step in the pathophysiology involves the inhalation of asbestos fibres. These fibres are resistant to phagocytosis and persist in the lung parenchyma due to their size and needle-like shape. The lodged fibres cause chronic irritation and inflammation of the mesothelium, leading to fibrosis.
+The second stage involves the activation of macrophages and mesothelial cells by asbestos fibres. This triggers the release of reactive oxygen species (ROS) and reactive nitrogen species (RNS), which can cause direct DNA damage. Additionally, these inflammatory cells secrete cytokines such as tumor necrosis factor-alpha (TNF-α) that promote cell proliferation.
+Genetic alterations:
+The constant irritative stimulus leads to cumulative genetic mutations over time. Key genes implicated include
+p16INK4a
+,
+NF2
+,
+BAP1
+,
+CUL1
+and
+LATS2
+. These mutations result in uncontrolled cell proliferation.
+Inflammation:
+Chronic inflammation results in a cycle of tissue injury and repair. Over time, this process may lead to dysplasia and ultimately malignant transformation.
+Oncogenic virus:
+Simian virus 40 (SV40) has been detected in some mesothelioma cases suggesting a possible role in its pathogenesis. It’s thought that SV40 disrupts normal cell cycle regulation leading to uncontrolled cell proliferation.
+The third stage involves the development of a tumour. Mesothelioma is typically locally invasive, spreading along pleural surfaces and invading adjacent structures. This local spread can result in complications such as pleural effusion, chest wall pain,
+dyspnoea
+and hoarseness.
+Finally, advanced mesothelioma may disseminate via lymphatic or haematogenous routes to distant organs including the contralateral lung, liver, adrenal glands and kidneys.
+In summary, the pathophysiology of mesothelioma involves inhalation of asbestos fibres leading to chronic inflammation and genetic alterations resulting in uncontrolled cell proliferation and tumour formation. The local invasion and eventual dissemination of this malignancy accounts for its common clinical manifestations.
+Improve
+Clinical features
+Features
+Dyspnoea
+,
+weight loss
+, chest wall pain
+Clubbing
+30% present as painless pleural effusion
+Only 20% have pre-existing asbestosis
+History of asbestos exposure in 85-90%, latent period of 30-40 years
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for mesothelioma suggest the following:
+Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for mesothelioma if they have chest X-ray findings that suggest mesothelioma.
+Offer an urgent chest X-ray (to be performed within 2 weeks) to assess for mesothelioma in people aged 40 and over, if:
+they have 2 or more of the following unexplained symptoms, or
+they have 1 or more of the following unexplained symptoms and have ever smoked, or
+they have 1 or more of the following unexplained symptoms and have been exposed to asbestos:
+cough
+fatigue
+shortness of breath
+chest pain
+weight loss
+appetite loss.
+Consider an urgent chest X-ray (to be performed within 2 weeks) to assess for mesothelioma in people aged 40 and over with either:
+finger
+clubbing
+or
+chest signs compatible with pleural disease.
+Improve
+Investigations
+Investigation/diagnosis
+suspicion is normally raised by a chest x-ray showing either a pleural effusion or pleural thickening
+the next step is normally a pleural CT
+if a pleural effusion is present fluid should be sent for MC&S, biochemistry and cytology (but cytology is only helpful in 20-30% of cases)
+local anaesthetic thoracoscopy is increasingly used to investigate cytology negative exudative effusions as it has a high diagnostic yield (around 95%)
+if an area of pleural nodularity is seen on CT then an image-guided pleural biopsy may be used
+Improve
+Management
+Management
+Symptomatic
+Industrial compensation
+Chemotherapy, Surgery if operable
+Prognosis poor, median survival 12 months
+Improve
+References
+British Thoracic Society - 2023 Pleural disease guidelines
+British Thoracic Society - 2018 Investigation and Management of Pleural Mesothelioma
+Cancer
+Mesothelioma

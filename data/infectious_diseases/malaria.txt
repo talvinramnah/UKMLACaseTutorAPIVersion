@@ -1,0 +1,151 @@
+Malaria
+Malaria
+Malaria is a disease caused by
+Plasmodium
+protozoa which is spread by the female Anopheles mosquito. There are four different species which cause disease in man:
+Plasmodium
+falciparum
+Plasmodium
+vivax
+Plasmodium
+ovale
+Plasmodium
+malariae
+Plasmodium
+falciparum
+causes nearly all episodes of severe malaria. The other three types, of which
+Plasmodium
+vivax
+is the most common, cause 'benign' malaria.
+Last updated: 1
+st
+January 2025
+Aetiology
+The protection from malaria that sickle-cell trait offers is well documented. Other protective factors include
+G6PD deficiency
+HLA-B53
+absence of Duffy antigens
+Improve
+Pathophysiology
+Key points
+following inoculation parasites (termed sporozoites) pass to the liver
+in the liver they divide asexually over around 10 days, maturing into schizonts, following which they emerge from the liver (as merozoites) and infect red blood cells, appearing as tiny rings
+as the parasites mature the infected red blood cells are sequestered by various tissues of the body
+Plasmodium
+vivax
+and
+Plasmodium
+ovale
+(but not
+Plasmodium
+falciparum
+) lay down hypnozoites in the liver
+these dormant forms are not affected by conventional antimalarial drugs and can hence reactivate after months or years
+An illustration of the life cycle of the malaria parasite. Credit: NIAID
+Although there is no hypnozoite stage in Falciparum, resurgences may occur due to asexual parasites resistant to quinine. Falciparum may be resistant to pyrimethamine + sulfadoxine (Fansidar) therefore doxycycline is often given
+Improve
+Clinical features
+The severity and progression of the illness depend on factors such as the infecting species, host immunity, and comorbidities. This section will discuss the various clinical features observed in patients with malaria.
+Prodromal Symptoms
+The incubation period for malaria varies between 7 to 30 days depending on the species involved. Prodromal symptoms may include malaise, headache, fatigue, myalgias, and arthralgias. These non-specific symptoms can precede the onset of fever by several days.
+Fever and Paroxysms
+Fever is a hallmark symptom of malaria and often presents as paroxysms - periodic episodes of fever accompanied by chills and rigors. The pattern of paroxysms depends on the infecting Plasmodium species:
+Plasmodium falciparum
+: Irregular fever patterns without clear periodicity.
+Plasmodium vivax
+and
+Plasmodium ovale
+: Tertian fever pattern (every 48 hours).
+Plasmodium malariae
+: Quartan fever pattern (every 72 hours).
+Gastrointestinal Symptoms
+Nausea, vomiting, abdominal pain, and diarrhoea are common gastrointestinal manifestations in malaria patients. Hepatomegaly may be present due to parasitic sequestration in liver sinusoids.
+Respiratory Symptoms
+Cough, dyspnea, chest pain, or pleural effusion may be present in patients with severe
+P. falciparum
+infection due to pulmonary oedema or acute respiratory distress syndrome (ARDS).
+Neurological Manifestations
+Cerebral malaria is a severe complication associated primarily with
+P. falciparum
+infections that can lead to altered mental status, seizures, ataxia, or coma. Other neurological signs may include nystagmus, cranial nerve palsies, and focal neurological deficits.
+Anaemia and Haemolysis
+Intravascular haemolysis due to the destruction of parasitized erythrocytes can lead to anaemia in malaria patients. Haemoglobinuria (blackwater fever) is a rare but severe manifestation characterized by massive intravascular haemolysis and acute renal failure.
+Splenomegaly
+The spleen plays a crucial role in the clearance of parasitized erythrocytes from circulation. This leads to splenic enlargement and increased risk for splenic rupture, particularly in
+P. vivax
+infections.
+Renal Dysfunction
+Acute kidney injury (AKI) may occur as a result of hypovolemia, hemoglobinuria, or immune-mediated glomerulonephritis.
+Coagulation Abnormalities
+Disseminated intravascular coagulation (DIC) is more commonly associated with
+P. falciparum
+infections and can manifest as petechiae, ecchymoses, or bleeding from venipuncture sites.
+Dermatological Manifestations
+Jaundice may be present due to haemolysis-induced hyperbilirubinemia or hepatic dysfunction. In some cases, cutaneous manifestations such as urticaria or purpura may be observed.
+Improve
+Investigations
+The gold standard for diagnosis of malaria remains the blood film. Rapid diagnostic tests (detecting plasmodial histidine-rich protein 2) are currently being trialled and have shown sensitivities from 77-99% and specificities from 83-98% for falciparum malaria
+Blood film - if doubt about diagnosis should be repeated
+thick: more sensitive
+thin: determine species
+Other tests
+thrombocythaemia is characteristic
+normochromic normocytic anaemia
+normal white cell count
+reticulocytosis
+Improve
+Screening and prevention
+There are around 1,500-2,000 cases each year of malaria in patients returning from endemic countries. The majority of these cases (around 75%) are caused by the potentially fatal
+Plasmodium
+falciparum
+protozoa. The majority of patients who develop malaria did not take prophylaxis. It should also be remembered that UK citizens who originate from malaria endemic areas quickly lose their innate immunity.
+Up-to-date charts with recommended regimes for malarial zones should be consulted prior to prescribing
+Drug
+Side-effects + notes
+Time to begin before travel
+Time to end after travel
+Atovaquone + proguanil (Malarone)
+GI upset
+1 - 2 days
+7 days
+Chloroquine
+Headache
+Contraindicated in epilepsy
+Taken weekly
+1 week
+4 weeks
+Doxycycline
+Photosensitivity
+Oesophagitis
+1 - 2 days
+4 weeks
+Mefloquine (Lariam)
+Dizziness
+Neuropsychiatric disturbance
+Contraindicated in epilepsy
+Taken weekly
+2 - 3 weeks
+4 weeks
+Proguanil (Paludrine)
+1 week
+4 weeks
+Proguanil + chloroquine
+See above
+1 week
+4 weeks
+Pregnant women should be advised to avoid travelling to regions where malaria is endemic. Diagnosis can also be difficult as parasites may not be detectable in the blood film due to placental sequestration. However, if travel cannot be avoided:
+chloroquine can be taken
+proguanil: folate supplementation (5mg od) should be given
+Malarone (atovaquone + proguanil): the BNF advises to avoid these drugs unless essential. If taken then folate supplementation should be given
+mefloquine: caution advised
+doxycycline is contraindicated
+It is again advisable to avoid travel to malaria endemic regions with children if avoidable. However, if travel is essential then children should take malarial prophylaxis as they are more at risk of serious complications.
+diethyltoluamide (DEET) 20-50% has been shown to repel up to 100% of mosquitoes if used correctly. It can be used in children over 2 months of age*
+doxycycline is only licensed in the UK for children over the age of 12 years
+*A BMJ review (BMJ 2015; 350:h99) suggest DEET could also be used in breastfeeding women and pregnant women in their 2nd or 3rd trimester
+Improve
+References
+WHO - Malaria treatment guidelines
+Infectious diseases
+Malaria
+Malaria (Falciparum)

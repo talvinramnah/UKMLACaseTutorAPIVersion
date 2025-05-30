@@ -1,0 +1,294 @@
+Bronchiectasis
+Bronchiectasis
+Bronchiectasis is a chronic lung disease, characterised by irreversibly dilated bronchi alongside chronic bronchial inflammation and infection. It is comparatively rare among other lung conditions such as
+COPD
+and asthma.
+Though it is commonly associated with a previous severe lower
+respiratory
+tract infection, such as pneumonia, it is idiopathic in almost half of all cases.
+Patients typically present with a chronic productive
+cough
+that is associated with large amounts of
+sputum
+production and recurrent chest infections.
+The mainstay of management is physiotherapy-taught airway clearance techniques (ACT) and extended courses of antibiotics to treat acute exacerbations.
+Last updated: 19
+th
+December 2024
+Epidemiology
+Incidence: 15.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Asthma in adults
+66.67
+Chronic obstructive pulmonary disease
+15.33
+Bronchiectasis
+1
+Tuberculosis
+0.60
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Various different causes of bronchiectasis have been identified and identification of the underlying aetiology can help guide management. The frequency of different causes, based on a systemic review of 56 studies including over 8600 patients, are listed below:
+Idiopathic (45%)
+Post-infection (30%)
+Immunodeficiency (5%)
+COPD
+(4%)
+Connective tissue diseases (4%)
+Allergic bronchopulmonary aspergillus (2.5%)
+Ciliary dysfunction (2.5%)
+Asthma (1.5%)
+Inflammatory bowel disease (1%)
+Obstruction (1%)
+Aspiration/oesophageal reflux (1%)
+Congenital malformation (<1%)
+Alpha-1 antitrypsin deficiency (<1%)
+Diffuse panbronchiolotis (<1%)
+Pink's disease (<1%)
+Yellow nail syndrome (<1%)
+This study combined data from different geographic regions and it is important to consider that some aetiologies are more prevalent in certain regions. For example in Europe, COPD accounted for 5% of cases compared with other regions where it accounted for less than 1% of cases.
+Cystic fibrosis
+Bronchiectasis associated with cystic fibrosis (CF) is managed as a distinct entity. When assessing a patient with suspected bronchiectasis, certain features in the history may point towards undiagnosed CF as the underlying aetiology. For example, if the bronchiectasis is early onset and there are associated features such as male infertility, a history of malabsorption and childhood steatorrhea.
+Improve
+Pathophysiology
+Bronchiectasis can be
+localised
+(restricted to one lobe, e.g. in the case of an inhaled foreign body or tumour) or
+generalised
+(affecting multiple lobes).
+Cole's '
+vicious cycle hypothesis
+' describes bronchiectasis as arising from a combination of genetic and environmental factors. It can be summarised as:
+A deficit in mucociliary clearance +/- immune function
+→
+microorganism acquisition, colonisation and infection
+→
+chronic inflammation
+→
+dilation and thickening of bronchi
+→
+bronchial wall oedema and increased mucus production
+→
+more infections
+→
+further inflammation and damage.
+Three morphological types of bronchiectasis were described by Reid in 1950:
+Tubular/cylindrical:
+believed to be the most common type, the morphology is of smooth uniform dilatation of the bronchi with loss of normal tapering. This type is associated with the 'signet ring sign' due to an increased bronchoarterial ratio and the 'tram-track sign' due to parallel bronchial walls.
+Varicose:
+relatively uncommon, the bronchi are irregular with dilatation interspersed with areas of constriction.
+Cystic:
+associated with
+cystic fibrosis
+, dilated bronchi that are cyst like and filled with either air or fluid.
+Improve
+Clinical features
+The typical presentation of a patient with bronchiectasis is a
+chronic productive
+cough
+on the background of
+recurrent chest infections
+. Patients are often lifelong non-smokers and are more likely to be female.
+Key features of bronchiectasis include:
+Persistent productive cough
+(90-96%)
+Daily
+sputum
+production
+(75%)
+Sputum may be mucopurulent or purulent
+Mean daily sputum volume of 38 mL
+Haemoptysis
+(25-50%)
+Recurrent chest infections
+Other associated features include:
+Rhinosinusitis symptoms (65-75% patients)
+These include nasal discharge, nasal blockage or congestion, facial pain or pressure and reduced sense of smell or anosmia
+Dyspnoea
+(60% patients)
+Chest pain (20-50% patients)
+Chest pain in bronchiectasis is not well characterised. One study found that it is commonly associated with exacerbations, non-pleuritic in nature, affects both lower lobes and is mild-moderate in severity. Others have found it to be pleuritic or musculoskeletal chest pain, with the underlying origin of the pain unclear.
+Gastro-oesophageal reflux disease (GORD; 20-40% patients)
+GORD is a common co-morbidity in patients with bronchiectasis. IT has also been associated with increased severity of bronchiectasis although the underlying mechanism for this is not known.
+A
+respiratory
+examination may reveal:
+Crackles
+(70-75%)
+Wheeze
+(20-35%)
+Clubbing
+(2-3%)
+When taking a history and examining the patient, it is also important to consider other systems of the body too, as these may reveal
+co-morbid conditions
+associated with the development of bronchiectasis:
+Joints: rheumatoid arthritis
+GI manifestations: inflammatory bowel disease,
+cystic fibrosis
+(malabsorption, pancreatitis), gastro-oesophageal reflux disease
+Improve
+Investigations
+NICE recommends the following initial investigations where bronchiectasis is suspected:
+Sputum
+culture
+: may show colonising pathogens, most commonly
+Haemophilus influenzae
+and
+Pseudomonas aeruginosa
+.
+Chest X-ray
+: the majority of X-rays will be abnormal in those with bronchiectasis but findings are non-specific and further imaging is required. They are also useful for ruling out other possible causes such as TB or malignancy.
+Post-bronchodilator spirometry
+: most commonly an obstructive pattern is seen, although mixed, restrictive, and normal results are also possible.
+Patients with suspected bronchiectasis should be referred to a
+respiratory
+consultant to confirm the diagnosis.
+The gold standard diagnostic imaging for bronchiectasis is a
+high-resolution computed tomography (CT) scan
+or a
+thin section CT scan
+. CT findings indicative of bronchiectasis are those which show bronchial dilatation, including:
+Bronchoarterial ratio > 1: the internal airway lumen is larger than the adjacent pulmonary artery
+This is often referred to as the 'signet ring sign'
+Lack of tapering: bronchi should taper in diameter as they travel distally from the lung hila to the periphery
+Bronchus visible within 1cm of pleural surface: normal, non-dilated airways cannot usually be seen within 2cm of the pleura
+Once bronchiectasis is confirmed, BTS recommends the following tests:
+FBC, serum total IgE and assessment of sensitisation to
+Aspergillus fumigatus
+- to investigate for Allergic Broncho Pulmonary Aspergillosis (
+ABPA
+)
+Serum immunoglobulin G (IgG), immunoglobulin A (IgA) and immunoglobulin M (IgM) - to investigate for immunodeficiency
+Dependant on the clinical features, further tests to help elucidate the underlying cause may be conducted including:
+Investigations for reflux and aspiration
+Cystic fibrosis
+test
+Primary Ciliary Dyskinesia test
+Specific antibody levels against capsular polysaccharides of
+Streptococcus pneumoniae
+Improve
+Differential diagnosis
+When formulating a diagnosis of bronchiectasis, differentials to consider are those conditions which can result in chronic
+cough
+.
+COPD
+:
+Similarities: productive cough,
+dyspnoea
+Differences:
+sputum
+more likely to be clear except during an infective exacerbation, smoking history more strongly associated with COPD
+Overlap: both conditions may co-exist. BTS guidelines advise considering investigations for bronchiectasis in COPD patients who frequent exacerbations and positive sputum culture for
+Pseudomonas aeruginosa
+Asthma
+:
+Similarities: cough, dyspnoea
+Differences: episodes of dyspnoea and coughing may be associated with or exacerbated by particular triggers such as exercise or allergens, cough more likely to be dry
+Overlap: both conditions may co-exist. In patients with asthma, BTS guidelines advise investigation for bronchiectasis may be appropriate in those with severe or poorly-controlled diseased
+Lung cancer
+:
+Similarities: cough,
+haemoptysis
+, chest pain
+Differences: weight loss, hoarse voice
+Tuberculosis
+:
+Similarities: cough, haemoptysis
+Differences: weight loss, night sweats
+Rhinosinusitis and GORD are also differentials to consider, though they commonly co-occur with bronchiectasis (see the section on signs and symptoms).
+Improve
+Management
+The initial management should involve:
+Identifying and treating underlying cause
+Airway clearance techniques +/- pulmonary rehabilitation
+Annual influenza vaccine
+Antibiotics for exacerbations
+Self-management plan
+Airway clearance techniques (ACT)
+There are several ACTs that
+respiratory
+physiotherapists can teach to patients. The aim is to loosen and clear mucus from the lungs, improve ventilation and improve the efficiency of
+cough
+. Selecting a technique should be heavily guided by patient preference in order to improve adherence. According to a 2002 study, the most commonly taught airway clearance method is active cycle of breathing techniques (ACBT). Briefly, this involves a cycle of:
+Breathing control â→ 3-5 deep breaths â→ 2-3 huffs â→ breathing control â→ cough
+ACBT may also be used in conjunction with:
+Manual techniques (percussion, vibration, shaking and over pressure)
+Postural drainage / modified postural drainage (gravity-assisted positioning to aid with drainage of lungs)
+Infective exacerbations
+If a patient experiences
+≥ 3 exacerbations
+in one year despite following the initial management, then treatment should be escalated in a stepwise manner. The second step in management is a
+physiotherapy reassessment
+and consideration of
+mucoactive treatment
+. Beyond this, specialists may consider prescribing long-term antibiotic therapy.
+Those with signs or symptoms of severe illness should be managed within secondary care. For patients that can be managed within primary care, NICE recommend to:
+Collect a
+sputum
+sample
+Send for microscopy, culture and sensitivity prior to commencing antibiotics.
+Prescribe a 7-14 day course of antibiotics
+Previous sputum sample culture and sensitivity results should guide initial antibiotic choice where available
+If these are not available, follow local prescribing guidelines or prescribe amoxicillin 500mg tds or clarithromycin 500mg bd
+Prescribe a short acting inhaled beta-2 agonist
+If the patient has
+wheeze
+or
+breathlessness
+in the acute phase
+Check airway clearance technique
+If the patient has not been taught a technique, or cannot manage this alone, make an urgent to appointment to see a physiotherapist
+Review the patients response to antibiotics
+If the patient is
+responding well
+to antibiotics, do not change them
+If the patient is
+not responding to treatment
+, change to a different antibiotic using the sputum culture and sensitivity results as a guide
+Surgical management
+When medical therapies fail to control symptoms despite being optimised by specialists, surgical management may be considered. For those with localised disease, lung resection may be considered. For diffuse bilateral disease, a lung transplant may be considered. BTS specify the following criteria for lung transplantation:
+Aged 65 years or less and
+FEV is <30% predicted with significant clinical instability or
+Rapid progressive deterioration despite optimal medical management
+Improve
+Complications
+The complications of bronchiectasis can be severe and often require diligent management. These complications primarily include:
+Respiratory
+failure:
+Hypoxaemia and hypercapnia may develop due to ventilation-perfusion mismatch, leading to respiratory failure. This is a common complication in patients with advanced disease.
+Pulmonary infections:
+The abnormal dilatation of the bronchi predisposes to recurrent lower respiratory tract infections. Common pathogens include
+Pseudomonas aeruginosa
+,
+H. influenzae
+, and
+S. pneumoniae
+.
+Hemoptysis:
+Chronic inflammation and infection can cause erosion of the bronchial arteries, leading to hemoptysis, which can range from mild to life-threatening.
+Pulmonary hypertension and cor pulmonale:
+Chronic hypoxia can lead to pulmonary hypertension, which may eventually result in right-sided heart failure or cor pulmonale.
+Beyond these primary complications, bronchiectasis can also lead to various systemic effects including:
+Gastrointestinal issues:
+Malabsorption and weight loss may occur due to increased caloric demand from chronic coughing and clearance of secretions.
+Osteoporosis:
+Chronic inflammation, malnutrition, hypogonadism, vitamin D deficiency, and use of corticosteroids for management may contribute to the development of osteoporosis in these patients.
+Improve
+References
+Clinical Knowledge Summaries - Bronchiectasis guidelines
+British Thoracic Society - 2018 Bronchiectasis guidelines
+Respiratory
+Bronchiectasis

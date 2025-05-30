@@ -1,0 +1,49 @@
+Hypoparathyroidism
+Hypoparathyroidism
+Hypoparathyroidism is an endocrine disorder characterised by deficient or absent parathyroid hormone (PTH) production, leading to abnormally low levels of calcium and high levels of phosphate in the blood.
+Last updated: 13
+th
+September 2023
+Aetiology
+Post-Surgical:
+The most common cause of hypoparathyroidism is inadvertent damage or removal of the parathyroid glands during neck surgery, especially thyroidectomy.
+Autoimmune:
+Autoimmune destruction of the parathyroid gland can result in hypoparathyroidism, often in association with other autoimmune endocrine disorders, forming part of the polyglandular autoimmune syndromes.
+Congenital:
+Certain genetic disorders, such as DiGeorge syndrome, can result in absent or malfunctioning parathyroid glands.
+Idiopathic:
+In some cases, the cause of hypoparathyroidism remains unknown despite extensive investigation.
+Metabolic or Nutritional:
+Prolonged hypomagnesaemia can suppress parathyroid hormone (PTH) secretion. Similarly, excessive deposition of iron (haemochromatosis) or copper (Wilson's disease) can damage the parathyroid glands.
+Radiation:
+Radiation therapy to the neck, for conditions such as head and neck cancers, can damage the parathyroid glands leading to hypoparathyroidism.
+Improve
+Pathophysiology
+Reduced PTH Production:
+At the heart of hypoparathyroidism is a reduction or absence of PTH secretion. PTH plays a pivotal role in regulating serum calcium levels by acting on bones, kidneys, and indirectly, the intestines.
+Bone Resorption:
+Under normal circumstances, PTH stimulates osteoclast activity leading to bone resorption and the release of calcium into the bloodstream. In the absence of sufficient PTH, this process is reduced, leading to decreased serum calcium levels.
+Renal Calcium Reabsorption:
+PTH acts on the kidneys to promote calcium reabsorption from the glomerular filtrate. Without adequate PTH, more calcium is excreted in the urine, exacerbating the hypocalcaemia.
+Vitamin D Metabolism:
+PTH stimulates the conversion of 25-hydroxyvitamin D to its active form, 1,25-dihydroxyvitamin D (calcitriol), in the kidneys. Calcitriol, in turn, enhances intestinal calcium absorption. In hypoparathyroidism, reduced levels of PTH lead to diminished calcitriol production, decreasing calcium absorption from the intestines.
+Phosphate Handling:
+PTH reduces renal tubular phosphate reabsorption, leading to increased phosphate excretion. Reduced PTH action in hypoparathyroidism causes phosphate retention, which can combine with calcium in tissues and further reduce free calcium levels in the serum.
+Improve
+Clinical features
+The hallmark of hypoparathyroidism is hypocalcaemia, which presents with neuromuscular irritability. Symptoms may range from mild numbness or tingling of the extremities and around the mouth, muscle cramps, and fatigue, to more severe manifestations such as tetany, carpopedal spasm, laryngospasm, and seizures.
+Physical signs may include Chvostek's sign (twitching of the facial muscles in response to tapping over the facial nerve) and Trousseau's sign (carpopedal spasm induced by occluding the brachial artery with a blood pressure cuff).
+Long-standing hypocalcaemia can also lead to extrapyramidal symptoms, cataracts, and calcification of the basal ganglia.
+Improve
+Investigations
+Diagnosis of hypoparathyroidism is based on the demonstration of low serum calcium and low or inappropriately normal PTH levels in the presence of hyperphosphatemia. Additionally, urinary calcium excretion may be low, and magnesium levels should also be evaluated, especially if there is suspicion of an underlying magnesium deficiency.
+Electrocardiography may show a prolonged QT interval due to hypocalcaemia. Radiographs may reveal intracranial calcifications or changes in bone density.
+Improve
+Management
+Treatment of hypoparathyroidism is aimed at maintaining a slightly low to low-normal serum calcium level to avoid hypercalciuria and renal complications. This usually involves oral calcium supplements and active vitamin D analogues, such as calcitriol or alfacalcidol.
+Patients should be monitored regularly for symptoms of hypocalcaemia, with periodic checks of serum calcium, phosphate, and magnesium levels, as well as renal function and urinary calcium excretion.
+In rare cases where oral therapy is not effective, or in acute symptomatic hypocalcaemia, intravenous calcium may be needed.
+Patients with hypoparathyroidism should also be advised on dietary modifications, including a high-calcium, low-phosphorus diet.
+Improve
+Endocrinology
+Hypoparathyroidism

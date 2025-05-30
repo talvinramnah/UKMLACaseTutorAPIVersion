@@ -1,0 +1,45 @@
+Prematurity
+Prematurity
+Prematurity, also known as preterm birth, refers to the birth of a baby at fewer than 37 weeks gestational age. These babies, referred to as premature or preterm infants, often face numerous health challenges due to their underdeveloped organ systems. It occurs in around 5-10% of pregnancies (6% of singletons, 45% of twins)
+Background
+The physiology of preterm infants is significantly affected by their early arrival. The most critical period for organ development occurs between 24 and 28 weeks gestation; therefore, infants born before this time are particularly vulnerable. Their lungs lack surfactant leading to respiratory distress syndrome (RDS), and their immature immune system increases susceptibility to infection. Other complications may include necrotizing enterocolitis due to underdeveloped gastrointestinal tract and intraventricular haemorrhage because of fragile blood vessels in the brain.
+Differential Diagnosis
+Prematurity can be instigated by various factors including both maternal and foetal conditions
+unexplained (30-40%)
+multiple pregnancies (20-30%)
+congenital abnormalities
+antepartum haemorrhage
+pre-eclampsia
+cervical incompetence
+diabetes mellitus
+polyhydramnios
+uterine abnormalities
+infections e.g. Pyelonephritis
+Initial Management
+Management
+admit, and consider transfer to specialist facilities
+in 50% contractions cease spontaneously
+look for and treat any cause - this may stop contractions
+do vaginal exam if membranes intact: repeat to check for cervical changes
+tocolysis (e.g. nifedipine): allows steroids to be given, rarely works if dilation > 4 cm. Salbutamol and other betamimetics are not recommended as tocolytic drugs by NICE for preterm labour.
+steroids: reduce incidence of respiratory distress syndrome between 26-34 wks
+ultrasound and CTG to monitor fetus
+senior obstetrician & neonatal paediatrician present at birth
+Risk of prematurity
+increased mortality depends on the gestation
+respiratory distress syndrome
+intraventricular haemorrhage
+necrotizing enterocolitis
+chronic lung disease, hypothermia, feeding problems, infection, jaundice
+retinopathy of prematurity
+important cause of visual impairment in babies born before 32 weeks gestation
+the cause is not fully understood and multivariate. One of the contributing factors is thought to be over oxygenation (e.g. during ventilation) resulting in a proliferation of retinal blood vessels (neovascularization)
+screening is done in at-risk groups
+hearing problems
+Last updated: 9
+th
+October 2023
+References
+NICE - 2015 Preterm labour and birth guidelines
+Neonatology
+Prematurity

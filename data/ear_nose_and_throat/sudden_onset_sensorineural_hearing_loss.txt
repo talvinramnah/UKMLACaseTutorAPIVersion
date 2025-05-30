@@ -1,0 +1,193 @@
+Sudden-onset sensorineural hearing loss
+Sudden-onset sensorineural hearing loss
+Sudden-onset sensorineural
+hearing loss
+(SSNHL) is a medical emergency that requires prompt evaluation and management. It is characterized by a rapid decline in hearing, typically occurring over a period of hours to days. The exact cause of SSNHL is often unknown, but it is thought to be related to viral infections, autoimmune disorders, or vascular events. Patients with SSNHL may present with unilateral or bilateral hearing loss,
+tinnitus
+, and
+vertigo
+. Diagnosis is made through a thorough history and physical examination, as well as audiometric testing. Treatment options include corticosteroids, antiviral medications, and hyperbaric oxygen therapy. The prognosis for SSNHL is variable, with some patients experiencing complete recovery while others may have persistent hearing loss.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 25.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Sudden-onset sensorineural
+hearing loss
+(SSNHL) is a condition characterised by rapid loss of hearing, typically in one ear, often noticed upon awakening. The exact cause of SSNHL remains unknown; however, several risk factors and underlying causes have been identified.
+Risk Factors
+Age:
+Although SSNHL can occur at any age, the incidence increases with age, particularly among individuals aged 50-60 years.
+Sex:
+Studies suggest that males may be more susceptible to SSNHL than females.
+Cardiovascular disease:
+Conditions such as hypertension and arteriosclerosis are associated with increased risk of SSNHL due to their impact on blood flow to the inner ear.
+Smoking:
+As a vasoconstrictor, nicotine can reduce blood supply to the cochlea thereby increasing the risk of SSNHL.
+Certain medications:
+Some drugs including certain antibiotics, chemotherapy agents and loop diuretics are ototoxic and may contribute to onset of SSNHL when used in high doses or for prolonged periods.
+The majority of SSNHL cases are idiopathic.
+However, SSNHL may be secondary to:
+Viral infections:
+Viruses such as
+mumps virus
+,
+measles virus
+,
+Influenza A virus
+, and
+Cytomegalovirus
+, among others can cause inner ear damage leading to SSNHL. However, this association remains controversial due to lack of definitive evidence.
+Bacterial infections:
+Certain bacterial infections like Lyme disease caused by
+Borrelia burgdorferi
+, syphilis caused by
+Treponema pallidum
+, and meningitis can cause SSNHL.
+Autoimmune diseases:
+Conditions such as systemic lupus erythematosus, Cogan's syndrome, and Wegener's granulomatosis have been linked with SSNHL due to their potential to cause inflammation of inner ear structures.
+Vascular occlusion:
+Occlusion of the labyrinthine artery or anterior inferior cerebellar artery can lead to SSNHL. This may occur in cases of stroke or embolism.
+Tumours:
+Vestibular schwannoma (acoustic neuroma) and other cerebellopontine angle tumours can compress the auditory nerve leading to SSNHL.
+Improve
+Pathophysiology
+Sudden-onset sensorineural
+hearing loss
+(SSHL)
+is a complex condition with a multifactorial etiology, often presenting as an urgent clinical entity. The pathophysiology of SSHL remains incompletely understood due to its diverse causes. However, several theories have been proposed that elucidate the potential mechanisms leading to its onset.
+Vascular occlusion theory
+The cochlea is supplied by the labyrinthine artery, which is an end-artery without collateral circulation. Any thrombotic or embolic event in this artery can result in acute ischemia of the cochlea leading to SSHL.
+Ischemia triggers a cascade of metabolic and molecular changes within the inner ear, including oxidative stress and apoptosis of sensory cells and neurons, resulting in sudden hearing loss.
+Viral theory
+Viruses such as
+Herpes simplex virus
+,
+Cytomegalovirus
+, and
+Mumps virus
+have been implicated in SSHL. Viral invasion may cause direct damage to hair cells and auditory nerves or induce inflammatory responses within the cochlea.
+The immune-mediated response can lead to the release of pro-inflammatory cytokines and chemokines causing further damage to cochlear structures and function.
+Immune-mediated theory
+In some cases, SSHL may be an autoimmune disease where antibodies or immune cells mistakenly attack inner ear antigens causing inflammation and tissue damage.
+This autoimmune response could be systemic, affecting other parts of the body, or it could be organ-specific targeting only inner ear structures.
+Intracochlear membrane rupture theory
+Increased perilymphatic pressure due to trauma or sudden changes in inner ear fluid dynamics can cause a rupture in the intracochlear membranes, leading to mixing of endolymph and perilymph.
+This mixing alters the electrochemical environment necessary for hair cell function, thereby causing SSHL.
+Neoplastic theory
+Neoplasms such as vestibular schwannoma (acoustic neuroma) can compress or invade the auditory nerve leading to SSHL. However, this is a less common mechanism.
+The above theories are not mutually exclusive and it's likely that multiple factors interact in most cases of SSHL. The exact pathophysiological process may vary from patient to patient depending on their individual clinical situations.
+Improve
+Clinical features
+Patients commonly report waking up with
+hearing loss
+or noticing it suddenly during their daily activities. In some cases, the deterioration may occur over several hours or worsen progressively throughout the day. The course of SSNHL may be fluctuating or stable, with spontaneous recovery observed in approximately one-third to two-thirds of patients.
+Accompanying Symptoms:
+Tinnitus
+: A constant or intermittent perception of sound (e.g., ringing, buzzing, hissing) in the affected ear is frequently reported by patients with SSNHL.
+Vertigo
+and Disequilibrium: Vestibular symptoms such as vertigo, dizziness, and imbalance are present in approximately 30% to 60% of cases.
+Aural Fullness: Patients may describe a sensation of pressure or fullness in the affected ear(s).
+Hyperacusis: Increased sensitivity to certain sounds may be experienced by some individuals.
+In most instances, otoscopic examination reveals normal tympanic membranes without evidence of inflammation or effusion. However, it is crucial to rule out other potential causes of sudden hearing loss, such as otitis media or tympanic membrane perforation.
+Improve
+Investigations
+The investigation of sudden-onset sensorineural
+hearing loss
+(SSNHL) is a stepwise process, starting with first-line investigations to confirm the diagnosis and rule out common causes. Further investigations may be necessary to identify less common etiologies or guide treatment.
+First-Line Investigations
+Audiometry:
+This is the cornerstone of SSNHL diagnosis. A pure tone audiogram should be performed as soon as possible to confirm the presence of sensorineural hearing loss and quantify its severity. The British Society of Audiology recommends that an urgent audiology assessment should be arranged within 24 hours of presentation.
+Otoscopic Examination:
+While this is not typically used for diagnosing SSNHL, it can help exclude other causes of hearing loss such as cerumen impaction or otitis media.
+Blood Tests:
+Basic blood tests including full blood count, renal function, liver function tests and inflammatory markers can help identify systemic conditions that might contribute to SSNHL such as vasculitis or autoimmune diseases.
+Further Investigations
+If initial investigations do not provide a clear diagnosis, further investigations may be warranted based on clinical suspicion. These could include:
+Magnetic Resonance Imaging (MRI):
+An MRI scan of the brain and internal auditory meatus can help identify retrocochlear pathology such as vestibular schwannoma or demyelinating disease which might present with sudden onset hearing loss.
+Laboratory Tests:
+Depending on the patient's history and physical examination findings, additional laboratory tests may be indicated; these could include serologic testing for syphilis (
+Treponema pallidum
+) or Lyme disease (
+Borrelia burgdorferi
+), or autoantibody testing in suspected autoimmune inner ear disease.
+Vestibular Function Tests:
+In cases where
+vertigo
+accompanies the hearing loss, vestibular function tests such as electronystagmography (ENG) or videonystagmography (VNG) can be useful to assess for vestibular neuritis or Ménière's disease.
+In some patients, an underlying cause for SSNHL cannot be identified despite thorough investigation. This is often referred to as 'idiopathic' SSNHL.
+Improve
+Differential diagnosis
+Sudden-onset sensorineural
+hearing loss
+(SSNHL) can be a challenging condition to diagnose due to its varied etiology. Whilst idiopathic SSNHL is the most common diagnosis, it is essential to consider other potential causes, including vestibular schwannoma, Ménière's disease, and otosclerosis.
+Vestibular Schwannoma
+The clinical presentation of vestibular schwannoma often overlaps with that of SSNHL. Both conditions may present with unilateral hearing loss and
+tinnitus
+. However, vestibular schwannomas are typically slower in onset and progress over months to years, compared to the abrupt nature of SSNHL.
+Unlike SSNHL, vestibular schwannomas frequently present with imbalance or unsteadiness due to their location in the cerebellopontine angle affecting the balance nerves. This symptom is less common in SSNHL unless there is an associated labyrinthitis.
+Audiometric testing in vestibular schwannoma often shows a distinctive pattern of high-frequency sensorineural hearing loss with relative preservation of low frequencies, whereas SSNHL usually presents as a flat loss across all frequencies.
+Ménière's Disease
+Ménière's disease can mimic SSNHL as both conditions can cause episodic
+vertigo
+and fluctuating sensorineural hearing loss. However, Ménière's disease has characteristic periods of remission and exacerbation which are not seen in SSNHL.
+Patients with Ménière's disease also report symptoms such as fullness or pressure sensation in the ear prior to an episode of vertigo or hearing loss which distinguishes it from SSNHL.
+Audiometric testing in Ménière's disease typically shows a low-frequency sensorineural hearing loss in the early stages, which can progress to involve all frequencies as the disease advances. This is contrasted with the broad frequency loss seen in SSNHL.
+Otosclerosis
+Otosclerosis may also present with sudden hearing loss, but unlike SSNHL, it primarily causes conductive hearing loss due to abnormal bone growth around the stapes. However, a mixed or sensorineural loss can occur if the cochlea is involved.
+The onset of otosclerosis is usually gradual and progressive over years rather than sudden like SSNHL. It may be bilateral and associated with a family history which helps distinguish it from SSNHL.
+Audiometric testing in otosclerosis often reveals a characteristic dip at 2000 Hz known as Carhart's notch, not seen in SSNHL.
+Improve
+Management
+Sudden-onset sensorineural
+hearing loss
+(SSNHL) management involves prompt identification, assessment of severity and underlying causes, initiation of treatment and monitoring for response. The mainstay of treatment is corticosteroid therapy, either systemic or intratympanic. Referral to an otolaryngologist should be done immediately in severe cases or when initial treatment fails.
+Identification and Assessment
+Perform a thorough history taking and physical examination to ascertain the suddenness, severity, unilateral or bilateral nature of the hearing loss.
+Conduct audiometry to confirm sensorineural hearing loss and establish baseline for future comparison.
+Evaluation for Underlying Causes
+Consider differential diagnoses such as Meniere's disease, acoustic neuroma, autoimmune diseases or infectious causes like Lyme disease or syphilis. Use appropriate investigations such as MRI or serology tests where indicated.
+Evaluate for concurrent symptoms such as
+vertigo
+or
+tinnitus
+which may suggest specific aetiologies.
+Treatment Initiation
+Start corticosteroid therapy as soon as possible after diagnosis. This can be systemic oral steroids or intratympanic injections based on patient characteristics and physician discretion.
+In cases where an underlying cause is identified (e.g., infection), targeted treatments should be initiated concurrently with steroids.
+Monitoring Response
+Arrange follow-up audiological assessments to monitor response to treatment and adjust management plan accordingly. Consider referral to otolaryngology if no improvement noted within two weeks.
+Monitor for potential side effects of corticosteroid therapy, including hyperglycaemia and hypertension.
+Referral to Specialist
+Immediate referral to an otolaryngologist is necessary in cases with severe hearing loss, concurrent neurological symptoms or when initial treatment does not result in improvement.
+Improve
+Complications
+Sudden-onset sensorineural
+hearing loss
+(SSNHL) can lead to a variety of complications, with varying degrees of severity. These complications primarily include:
+Persistent hearing loss
+Despite intervention, SSNHL can result in permanent unilateral or bilateral hearing impairment.
+Tinnitus
+In many cases, SSNHL is associated with the onset or worsening of tinnitus, a condition characterised by the perception of noise or ringing in the ears.
+Vertigo
+and balance disorders
+SSNHL may be accompanied by vestibular symptoms such as vertigo and disequilibrium. This could potentially lead to falls and injuries.
+Improve
+References
+NICE - 2018 Hearing loss in adults: assessment and management
+Ear, nose and throat
+Sudden-onset sensorineural hearing loss

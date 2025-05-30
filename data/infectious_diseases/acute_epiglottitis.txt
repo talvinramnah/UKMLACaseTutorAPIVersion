@@ -1,0 +1,67 @@
+Acute epiglottitis
+Acute epiglottitis
+Acute epiglottitis, also known as supraglottitis, is a life-threatening medical emergency characterized by inflammation of the epiglottis and surrounding supraglottic structures. The condition can lead to rapid airway obstruction, making prompt recognition and management critical. Historically, acute epiglottitis primarily affected children, particularly those aged 2-7 years. However, with the widespread use of the Haemophilus influenzae type B (Hib) vaccine, the incidence has significantly decreased in children, and the disease is now more commonly seen in adults.
+Last updated: 10
+th
+April 2023
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Acute tonsillitis
+250.00
+Croup
+125.00
+Acute epiglottitis
+1
+Inhaled foreign body
+0.75
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute epiglottitis is most commonly caused by bacterial infection, with Haemophilus influenzae type B historically being the primary pathogen. However, the widespread use of the Hib vaccine has led to a shift in the etiological profile, and other pathogens, such as Streptococcus pneumoniae, group A streptococci, and Staphylococcus aureus, are now more frequently implicated. Viral and fungal infections, as well as non-infectious causes like thermal injury, can also contribute to the development of acute epiglottitis.
+Improve
+Clinical features
+The clinical presentation of acute epiglottitis can vary, but typically includes the rapid onset of the following symptoms:
+Severe
+sore throat
+and
+odynophagia
+: Painful swallowing often accompanied by drooling due to difficulty handling secretions.
+Muffled voice or 'hot potato' voice: A characteristic change in voice quality due to the swollen epiglottis.
+Stridor
+: A high-pitched, inspiratory noise indicative of airway obstruction.
+Respiratory distress: Including tachypnea and the use of accessory muscles.
+Fever
+: High-grade fever is often present in cases of bacterial infection.
+Tripod or sniffing position: Patients may lean forward with their hands on their knees, chin thrust forward, and mouth open in an effort to maintain airway patency.
+If suspected do NOT examine the throat due to the risk of acute airway obstruction
+- the diagnosis is made by direct visualisation but this should only be done by senior staff who are able to intubate if necessary
+Improve
+Investigations
+Diagnosis of acute epiglottitis is primarily clinical, based on history and physical examination. However, certain diagnostic modalities can be helpful in confirming the diagnosis and assessing the severity of the condition:
+Lateral neck radiograph: The 'thumb sign' may be visible, indicating a swollen epiglottis. However, radiographs should only be performed if the patient is stable, as manipulation of the airway can precipitate complete airway obstruction.
+Flexible fiberoptic laryngoscopy: Can directly visualize the inflamed epiglottis, but should be performed by experienced personnel and only if the patient is stable, as it may trigger laryngospasm.
+Blood cultures and throat swabs: Can help identify the causative pathogen and guide antibiotic therapy.
+Improve
+Management
+The management of acute epiglottitis is centred on securing the airway and initiating appropriate antimicrobial therapy:
+Airway management: Patients should be closely monitored in a controlled setting, preferably an intensive care unit (ICU). In some cases, endotracheal intubation or emergent tracheostomy may be necessary to secure the airway and ensure adequate oxygenation.
+Antibiotics: Empiric broad-spectrum antibiotics, such as third-generation cephalosporins, should be initiated promptly to cover the most common causative pathogens. The antibiotic regimen can be adjusted based on culture results and local susceptibility patterns.
+Supportive care: Intravenous fluids, analgesics, and antipyretics may be administered as needed. Corticosteroids are controversial in the management of acute epiglottitis and should be considered on a case-by-case basis, as their role in reducing airway oedema remains uncertain.
+Monitoring and follow-up: Patients should be closely monitored for signs of worsening respiratory distress or airway obstruction. Serial clinical assessments and fiberoptic laryngoscopy, when indicated and safe, can be helpful in tracking the patient's progress.
+Vaccination: Ensuring that children receive the Haemophilus influenzae type B (Hib) vaccine is crucial for preventing pediatric cases of acute epiglottitis.
+Improve
+Infectious diseases
+Acute epiglottitis

@@ -1,0 +1,81 @@
+Brain abscess
+Brain abscess
+A
+brain abscess
+is a focal, intracranial infection that begins as a localised area of cerebritis and evolves into a collection of pus surrounded by a well-vascularised capsule. The condition can be caused by various organisms, including bacteria (
+Streptococcus
+,
+Staphylococcus
+, and anaerobes), fungi, or parasites. It can occur secondary to an infection elsewhere in the body (e.g., endocarditis or sinusitis), direct inoculation from trauma or surgery, or as a complication of meningitis.
+Clinically, patients may present with
+headache
+,
+fever
+, nausea, vomiting, focal neurological deficits and altered consciousness. Diagnosis typically involves neuroimaging such as CT or MRI scans to identify the presence of an abscess. Lumbar puncture is contraindicated due to risk of herniation. Management involves both medical and surgical approaches; high-dose IV antibiotics are used initially but most cases require neurosurgical drainage for definitive treatment.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 0.80 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Bacterial meningitis
+10.00
+Brain abscess
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Brain abscesses primarily originate from contiguous spread of infection from sinusitis, otitis media, or dental infections; haematogenous spread from distant sources (e.g., endocarditis, pulmonary infections); or direct inoculation from trauma or neurosurgical procedures. Risk factors include immunocompromised states, congenital heart disease (right-to-left shunts), chronic otitis and sinusitis, and intravenous drug use.
+Improve
+Pathophysiology
+The pathogenesis involves four stages: early/initial cerebritis (1-3 days), late cerebritis (4-9 days), early capsule formation (10-13 days), and late capsule formation (14 days onwards). This progression reflects the histopathological changes and influences the imaging characteristics of the abscess.
+Improve
+Clinical features
+Brain abscesses can pose a significant diagnostic challenge, as symptoms can be non-specific and may mimic other neurological conditions. A brain abscess should be suspected in patients with risk factors such as immunosuppression, recent neurosurgery, chronic ear or sinus infections, or systemic infection in combination with new neurological symptoms.
+The clinical presentation of a brain abscess can be variable, largely depending on the abscess location, size, the presence of cerebral oedema, and the host's immune status. However, three classical symptoms are often associated with brain abscess:
+Headache
+:
+This is the most common symptom, reported in 50-70% of cases. It is typically described as dull, constant and progressively worsening, often localised to the site of the abscess. The headache is due to increased intracranial pressure or irritation of the meninges.
+Focal Neurological Deficits:
+These occur in around half of patients with brain abscesses and depend on the abscess location. Such deficits may include hemiparesis, language or speech disorders (e.g., aphasia or dysarthria), visual field defects, or other focal neurological signs.
+Fever
+:
+Fever is present in approximately 50% of patients and may be accompanied by other signs of systemic infection such as chills or night sweats.
+In addition to these, some patients may present with non-specific symptoms such as lethargy, altered mental status, or
+seizures
+. Seizures can occur due to cortical irritation and are more common when the abscess is located near the cerebral cortex.
+Signs of raised intracranial pressure, including nausea, vomiting, altered consciousness, and
+papilloedema
+, may also be present, especially in cases of large abscesses.
+In immunocompromised patients or those with multiple brain abscesses, the presentation may be more subtle, with fewer localising signs and symptoms.
+Improve
+Investigations
+Diagnosis typically involves neuroimaging, with both computed tomography (CT) and magnetic resonance imaging (MRI) having distinct roles. MRI with gadolinium contrast is superior in detecting early cerebritis. CT is useful for detecting complications like hydrocephalus and brain herniation. Lumbar puncture is contraindicated due to risk of brain herniation. Stereotactic needle aspiration can both aid diagnosis and serve as treatment.
+Improve
+Management
+Management
+surgery
+a craniotomy is performed and the abscess cavity debrided
+the abscess may reform because the head is closed following abscess drainage.
+IV antibiotics:  IV 3rd-generation cephalosporin + metronidazole
+intracranial pressure management: e.g. dexamethasone
+Improve
+Prognosis
+Despite advances in diagnostic imaging and management, brain abscess remains associated with significant morbidity and mortality. Potential complications include
+seizures
+, meningitis, ventriculitis, hydrocephalus, cerebral oedema, and herniation. Early recognition and appropriate management are vital to improving outcomes.
+Improve
+Neurology
+Brain abscess

@@ -1,0 +1,184 @@
+Eczema herpeticum
+Eczema herpeticum
+Eczema herpeticum
+is a potentially serious widespread herpes simplex virus infection, which typically affects people with atopic dermatitis or eczema but may also affect those with other inflammatory skin conditions. It typically presents in children, as an eruption of punched out ulcers most commonly affecting the head, face, neck, and trunk at sites of atopic dermatitis.
+If eczema herpeticum is not diagnosed promptly, the child's condition can deteriorate rapidly and may lead to encephalitis, blindness or even multi-organ failure. A fatality rate of up to 6-10% has been estimated.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Chickenpox
+500.00
+Impetigo
+250.00
+Eczema herpeticum
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Atopic dermatitis
+is a chronic, pruritic, eczematous skin condition that affects approximately 15% to 20% of children in developed countries.
+Eczema herpeticum
+is a secondary viral infection caused by HSV-1 or -2 that concomitantly occurs with skin conditions such as atopic dermatitis. It typically presents in childhood but can affect patients of any age.
+Less than 3% of patients with atopic dermatitis will develop eczema herpeticum
+Males and females are equally affected
+Can affect all ages but most common in infants and children
+Risk factors include:
+Early-onset or more severe atopic dermatitis
+Head and neck or large body surface area involved dermatitis
+High total serum IgE/ peripheral eosinophilia
+Atopic comorbidities such as asthma and food allergies
+History of
+Staphylococcus aureus
+skin infection
+Other associations include younger age and non-white ethnicity, particularly African American and Asian.
+It can also be triggered by
+trauma or cosmetic procedures
+e.g. lasers, skin peels, dermabrasion.
+Improve
+Pathophysiology
+Most cases of eczema herpeticum arise during the first episode of infection with
+Herpes simplex
+(HSV) Type 1 or 2 (majority HSV-1).
+HSV is a member of the double-stranded DNA Herpesviridae family.
+Spread is through direct contact between a person actively shedding the virus from the oral mucosa or with bodily fluids containing the mucosa
+Shedding may occur during the primary infection, during subsequent recurrences and during periods of asymptomatic viral shedding
+Asymptomatic shedding in the saliva occurs in up to 25% of patients with evidence of HSV-1 infection
+Eczema herpeticum may also complicate recurrent herpes.
+Infection with HSV-1 begins with an acute phase:
+The virus rapidly replicates at the site of contact in dermal keratinocytes and other epithelial sites
+Interaction with HSV-1 surface glycoproteins and cellular HSV receptors result in the virus entering the cells
+The virus then enters the sensory nerve ending and is retrogradely transported to the sensory ganglia
+The preponderance for infection is multifactorial:
+Atopic dermatitis results in impaired skin protective function, allowing easier infection of HSV
+Disruption of the epidermal barrier is the most important risk factor
+Inflammation and immune dysregulation may allow for widespread infection of the virus
+HSV requires intact cellular immunity to be contained
+Improve
+Clinical features
+Clinical features will appear 5-12 days after contact with an infected individual, who may or may not visible cold sores.
+Areas of rapidly
+worsening, painful eczema
+Vesicular rash
+Blisters may be filled with clear yellow fluid, thick purulent material or blood stained
+Punched-out erosions
+(circular, depressed, ulcerated lesions) usually 1-3mm that are uniform in appearance (
+monomorphic
+)
+Initially form over areas affected by atopic dermatitis but spreads to involve normal skin over 1-2 weeks
+These may coalesce to form larger areas of erosion with crusting
+Typically the lesions will heal over 2-6 weeks
+Possible
+fever
+, lethargy,
+lymphadenopathy
+or distress
+Clinicians should be aware of
+'eczema herpeticum incognito'
+, a presentation that is easily mistaken for
+impetigo
+and most often seen in patients with severe atopic dermatitis and recurrent eczema herpeticum.
+Rarely, HSV may spread to the eye resulting in
+herpes keratitis
+. Up to 50% of patients with herpetic blepharoconjunctivitis also have a corneal infection which can lead to scarring and if suspected should lead to a prompt ophthalmological referral. The symptoms include:
+Redness
+Pain
+Foreign body sensation
+Photophobia
+Tearing
+Decreased visual acuity
+Improve
+Investigations
+In any cases where eczema herpeticum is suspected:
+Referral to a specialist paediatric dermatologist
+Eczema herpeticum involving the skin around the eyes should be referred for same-day ophthalmology review
+Viral infection can be confirmed by viral swabs sent for:
+PCR
+Viral culture
+Direct fluorescent antibody stain
+If
+impetigo
+is suspected, a positive skin surface bacterial culture for
+Staphylococcus
+or
+Streptococcus
+does not exclude eczema herpeticum and is a common finding.
+If herpetic keratitis is suspected:
+Staining with
+fluorescein
+A stained dendritic ulcer is diagnostic
+Improve
+Differential diagnosis
+Differentials of eczema herpeticum include:
+Impetigo
+Similarities: erosions and vesicles may be present with crusting
+Differences: honey coloured crusting, no 'punched out' ulcers
+Eczema vaccinatum
+A rare complication of the smallpox vaccine (1 in 150,000) that occurs in people with atopic dermatitis and lead to an extensive rash and systemic illness
+Similarities: papules, vesicles and umbilicated pustules or erosions at the site of active dermatitis,
+fever
+, malaise,
+lymphadenopathy
+Differences: recent history of smallpox vaccine or contact with an individual who has received the vaccine recently, no 'punched out' ulcers
+Primary varicella infection
+(
+chickenpox
+)
+Similarities: papules, vesicular and eroded lesions
+Differences: pruritis, no 'punched out' ulcers
+Other differentials to consider: cellulitis, eczema coxsackium, eczema molluscatum, pustular psoriasis, vasculitis, scabies
+Improve
+Management
+Eczema herpeticum is considered a dermatological emergency.
+Prompt treatment with antiviral medication should eliminate the need for hospital admission:
+(1)
+Oral aciclovir
+5 times daily for 10-14 days
+Alternative: valaciclovir twice daily for 10-14 days
+(2) If patient vomiting or unable to take tablets:
+IV aciclovir
+Management of ocular involvement involves:
+Ganciclovir
+ointment five times daily (3 hourly) for 7-10 days
+Alternatives: trifluridine drops 1 drop nine times daily for 7-10 days followed by dose tapering
+A corneal transplant may be indicated in cases of postherpetic scarring that significantly affects vision
+Close monitoring after the resolution of an episode of eczema herpeticum is recommended - about 50% of patients experience recurrence.
+Improve
+Complications
+Eczema herpeticum is considered to be a complication of atopic eczema.
+Complications of eczema herpeticum include:
+Secondary infection
+Most common complication of eczema herpeticum
+Staphylococcus aureus
+might cause
+impetigo
+Streptococcal infection may cause cellulitis
+Usually the complication that causes mortality
+Scarring
+Infection of the cornea leading to
+herpetic keratitis
+Keratitis in children tends to be more severe and may be bilateral and associated with multiple corneal or conjunctival dendrites
+If untreated, can lead to blindness
+Organ failure and dissemination
+Particularly, the brain, lungs and liver
+May result in septic shock, meningitis, encephalitis
+The mortality rate is reported to be as high as 6-10%.
+Improve
+References
+DermNet NZ - Eczema herpeticum
+Atopic dermatitis and eczema
+Eczema herpeticum

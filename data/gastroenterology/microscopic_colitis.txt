@@ -1,0 +1,182 @@
+Microscopic colitis
+Microscopic colitis
+Microscopic colitis is a chronic inflammatory condition of the gut. It is approximately as common as the 'classic' inflammatory bowel diseases (
+ulcerative colitis
+and
+Crohn's disease
+) and is considered a separate entity.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Irritable bowel syndrome
+200.00
+Coeliac disease in adults
+10.00
+Crohn's disease
+1.10
+Microscopic colitis
+1
+Ulcerative colitis
+1.00
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+smoking
+drugs: NSAIDs, PPIs and SSRIs
+Improve
+Pathophysiology
+Microscopic colitis (MC) is a chronic
+inflammatory bowel disease
+. It can be split into two types:
+Collagenous colitis (CC)
+Lymphocytic colitis (LC)
+For both types of MC, there is an
+increased number of intraepithelial and lamina propria lymphocytes
+seen on microscopy. In CC specifically, there is a
+thickened subepithelial collagen band
+.
+Diarrhoea
+in MC is thought to be related to the inflammatory response in the bowel wall, with a greater intensity of inflammation associated with increased severity of diarrhoea.
+Abnormalities in
+electrolyte secretion and absorption
+have also been noted in MC patients. Specifically, sodium and chloride absorption seem to be impaired alongside increased chloride secretion.
+Improve
+Clinical features
+Patients with microscopic colitis commonly present with the following symptoms:
+Diarrhoea
+:
+The hallmark symptom of microscopic colitis is chronic, watery, non-bloody diarrhoea that can persist for weeks to months or even years if left untreated. The frequency may vary from four to more than ten bowel movements per day.
+Abdominal pain
+:
+Patients may experience intermittent abdominal pain or cramping that can be mild to moderate in intensity.
+Faecal urgency
+and incontinence:
+Due to the increased frequency of bowel movements, patients may report an urgent need to defecate and occasional fecal incontinence.
+Bloating and flatulence:
+Some patients may complain of abdominal distension and excessive gas production.
+Weight loss
+:
+Although less common, weight loss can occur as a consequence of malabsorption or decreased oral intake due to fear of exacerbating diarrhoea.
+Nocturnal diarrhoea:
+In severe cases, patients might experience nocturnal diarrhoea which can disrupt sleep patterns and negatively impact their quality of life.
+Microscopic colitis has been associated with several extraintestinal manifestations including:
+Joint pain
+:
+Arthralgia or arthritis may occur in patients with microscopic colitis, particularly in those with underlying autoimmune disorders.
+Dermatological manifestations:
+Skin conditions such as erythema nodosum and pyoderma gangrenosum have been reported in association with microscopic colitis.
+Autoimmune diseases:
+There is an increased prevalence of concomitant autoimmune disorders including
+celiac disease
+, thyroid dysfunction, rheumatoid arthritis, and type 1 diabetes mellitus among patients with microscopic colitis.
+Improve
+Investigations
+Initial investigations for chronic
+diarrhoea
+may include:
+Blood tests: FBC, CRP, TFTs and coeliac serology
+Stool samples: to exclude infective causes and for faecal calprotectin levels
+If malignancy is suspected then a 2-week wait referral should be considered (see NICE guidelines for further information).
+Laboratory results are generally
+non-specific
+and
+non-diagnostic
+. CRP and ESR may be normal or mildly raised and mild
+anaemia
+may be seen. Around half of patients are positive for autoantibodies such as antinuclear and antimitochondrial antibodies.
+Guidelines written by the British Society for
+Gastroenterology
+advise that when microscopic colitis is suspected, patients should be
+referred for colonoscopy
+even before assessing faecal calprotectin levels.
+This contradicts NICE guidance for suspected IBD, which recommends that colonoscopy referrals should be based on a faecal calprotectin level of ≥100  µg/g. However faecal calprotectin levels are thought to be
+<100 µg/g
+in over half of patients with MC.
+Microscopic colitis can only be diagnosed by histology examination of biopsied tissue taken during colonoscopy. Macroscopic changes are not usually seen unlike in other types of IBD. The characteristic microscopic findings are:
+Lymphocytic colitis: increased number of intraepithelial and lamina propria lymphocytes (>20 per 100 cells)
+Collagenous colitis: as above, along with a thickened collagenous band in the subepithelial layer (>10µm)
+Improve
+Differential diagnosis
+The symptoms of microscopic colitis frequently overlap with those of
+irritable bowel syndrome
+and it is thought that many patients with MC are misdiagnosed with IBS. Features that can help distinguish MC from IBS include:
+Older age at onset (usually > 50 years)
+Weight loss
+Nocturnal stools
+Stools are consistently watery/soft
+Imperative urgency that can lead to
+faecal incontinence
+Association with other autoimmune conditions (e.g. thyroid disease, rheumatic disease, diabetes mellitus and
+coeliac disease
+)
+Not associated with feelings of fullness/bloating or incomplete bowel evacuation
+Differentials that should also be considered include the other inflammatory bowel diseases:
+Ulcerative colitis
+Typically bloody
+diarrhoea
+Abdominal pain
+in the left lower quadrant
+Urgency and tenesmus
+Crohn's disease
+Associated with weight loss
+May feel a palpable mass in the right iliac fossa on examination
+Mouth ulcers may be present
+Perianal lesions such as abscesses or fistulae may be present
+Another differential to consider is
+coeliac disease
+(CD), especially if the diarrhoea seems to be associated with gluten-containing foods, although CD can also co-exist alongside MC.
+Improve
+Management
+Lifestyle factors that can exacerbate MC should first be addressed. These include:
+Stopping smoking
+Stopping medications such as NSAIDs, PPIs and SSRIs where possible
+Decreasing caffeine intake
+Decreasing dairy intake (in patients with lactose intolerance)
+Decreasing alcohol consumption
+If lifestyle factors are unsuccessful in managing symptoms then pharmacological interventions may be considered. For mild cases, anti-diarrhoeal drugs such as
+loperamide
+may be effective in achieving symptomatic relief. However it is important to note that clinical remission is seldom achieved with loperamide monotherapy.
+Current treatment guidelines for MC recommend
+budesonide
+, a corticosteroid shown to be effective in the induction and maintenance of remission. A typical dosage is 9mg daily for 8 weeks and the medication then stopped to assess response. If symptoms recur, then re-initiation of budesonide may be necessary.
+In patients who do not respond to budesonide, other medications that may be tried include immunomodulators (e.g. azathioprine) and biologics (e.g. anti-TNF-alpha drugs).
+Improve
+Complications
+The main complication of MC is reduced quality of life, especially in those who have misdiagnosed with conditions such as
+IBS
+. Debilitating symptoms that may be experienced include:
+Abdominal pain
+Fatigue
+Arthralgia
+Myalgia
+Faecal urgency
+Faecal incontinence
+Nocturnal defecation
+Weight loss
+Studies have found there is
+no increased risk of colon cancer
+associated with MC and some have even shown decreased risk.
+Improve
+Prognosis
+The natural course of microscopic colitis varies among individuals. Some patients may experience a single episode followed by complete resolution, while others may have a relapsing-remitting pattern or chronic persistent symptoms. Although the condition can significantly impact the patient's quality of life due to its debilitating symptoms, it is important to note that microscopic colitis does not increase the risk for colorectal cancer or
+inflammatory bowel disease
+.
+Improve
+Gastroenterology
+Microscopic colitis

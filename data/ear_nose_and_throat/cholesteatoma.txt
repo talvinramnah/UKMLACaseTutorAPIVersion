@@ -1,0 +1,187 @@
+Cholesteatoma
+Cholesteatoma
+Cholesteatoma is a non-cancerous growth that develops in the middle ear behind the eardrum. It typically results from poor Eustachian tube function concurrent with infection in the middle ear, leading to skin growth within the ear canal. Often, it manifests as a cystic structure filled with keratin debris. Clinically, patients may present with chronic
+otorrhoea
+,
+hearing loss
+or otalgia.
+Diagnosis is primarily through otoscopic examination revealing an attic mass or retraction pocket filled with keratinous debris. Audiometry often shows conductive hearing loss on the affected side. CT scans are useful for assessing disease extent and complications.
+Surgical intervention is usually necessary due to its potential for serious complications such as hearing loss, vertigo, tinnitus and even intracranial extension leading to meningitis or abscess formation. The goal of surgery is to eradicate disease while preserving or improving hearing.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Otitis externa
+50.00
+Acute otitis media
+25.00
+Cholesteatoma
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Cholesteatoma, a noncancerous skin growth that develops in the middle ear behind the eardrum, has a multifactorial aetiology. The risk factors and underlying causes can be categorised into congenital and acquired.
+Congenital Cholesteatoma
+Congenital cholesteatomas are rare and present at birth. They are not related to previous infections or surgeries. The exact cause of congenital cholesteatoma remains unknown, but some theories suggest:
+Aberrant epithelial cell remnants trapped during embryologic development.
+Anomalous proliferation of squamous epithelium within the middle ear due to genetic mutations.
+Acquired Cholesteatoma
+The majority of cholesteatomas are acquired and can be further divided into primary acquired cholesteatoma (PAC) and secondary acquired cholesteatoma (SAC).
+Primary Acquired Cholesteatoma
+PAC is theorised to occur due to chronic eustachian tube dysfunction leading to negative middle ear pressure, retractions pockets formation, and subsequent invagination of squamous epithelium into the middle ear space. Risk factors include:
+Chronic otitis media with effusion: Persistent fluid in the middle ear leads to recurrent infections increasing PAC risk.
+Eustachian tube dysfunction: Conditions such as cleft palate or Down syndrome that affect normal eustachian tube function predispose individuals to PAC.
+Immunodeficiency: Patients with HIV/AIDS or other conditions causing immunosuppression have an increased risk of developing PAC.
+Secondary Acquired Cholesteatoma
+SAC occurs when squamous epithelium is introduced into the middle ear through a perforation in the tympanic membrane. This can occur due to:
+Otologic surgery: Procedures such as tympanoplasty or mastoidectomy can inadvertently introduce skin into the middle ear.
+Trauma: Penetrating injuries to the eardrum can implant squamous epithelium into the middle ear.
+Improve
+Pathophysiology
+Cholesteatoma is a pathological entity characterised by the presence of keratinising squamous epithelium within the middle ear and/or mastoid process, leading to bone erosion and potentially severe complications.
+Formation
+Eustachian tube dysfunction:
+This is a key factor in cholesteatoma development. Dysfunction leads to negative pressure within the middle ear, causing retraction of the tympanic membrane. Over time, this retraction pocket can accumulate keratin debris and become a site for cholesteatoma formation.
+Metaplasia:
+Chronic inflammation in response to repeated otitis media can induce metaplastic change in the middle ear epithelium. The resultant stratified squamous epithelium is capable of producing keratin, which may lead to cholesteatoma formation.
+Keratinocyte migration:
+Some theories propose that basal cells from the external auditory canal or tympanic membrane migrate into the middle ear via a perforation or retraction pocket, leading to cholesteatoma development.
+Progression
+Keratin accumulation:
+Cholesteatomas are self-perpetuating as they constantly shed keratin layers into their matrix. This keratin accumulation contributes to expansion of the lesion.
+Bone erosion:
+The destructive potential of cholesteatomas arises from bone erosion caused by multiple factors including pressure necrosis due to lesion expansion, release of inflammatory mediators like cytokines and matrix metalloproteinases (MMPs), and osteoclast activation.
+Complications
+Ossicular chain erosion:
+This is a common complication of cholesteatoma, leading to conductive
+hearing loss
+. The incus is most frequently affected.
+Labyrinthine fistula:
+Erosion into the inner ear can cause sensorineural hearing loss and vertigo.
+Intracranial extension:
+Rare but severe complications including meningitis, brain abscess, and lateral sinus thrombosis can occur if cholesteatoma erodes through the tegmen tympani or posterior wall of the temporal bone.
+The pathophysiology of cholesteatoma thus involves a complex interplay between eustachian tube dysfunction, chronic inflammation, keratinocyte migration and accumulation, and bone erosion. These processes lead to the characteristic manifestations of this disease such as hearing loss, vertigo, and potentially life-threatening intracranial complications.
+Improve
+Clinical features
+Main features
+foul-smelling, non-resolving discharge
+hearing loss
+Other features are determined by
+local invasion
+:
+vertigo
+facial nerve palsy
+cerebellopontine angle syndrome
+Otoscopy
+'attic crust' - seen in the uppermost part of the ear drum
+Improve
+Investigations
+Investigating a suspected case of cholesteatoma involves several steps, each aimed at confirming the diagnosis and understanding the extent and impact of the disease on the patient. The process typically begins with a thorough otoscopic examination followed by radiographic imaging and sometimes surgical exploration.
+First-line Investigations
+The first step in investigating suspected cholesteatoma is
+Otoscopy
+. This allows direct visualisation of the tympanic membrane and middle ear, which can reveal signs suggestive of cholesteatoma such as retraction pockets, perforations or white keratin debris. However, otoscopy alone may not be sufficient to confirm the diagnosis due to limitations in visualising deep structures of the ear.
+Audiometry
+is another essential first-line investigation that provides information about hearing function. It can identify conductive, sensorineural or mixed
+hearing loss
+associated with cholesteatoma. Pure tone audiometry (PTA) is typically used for this purpose.
+Further Investigations
+If initial investigations suggest a possible cholesteatoma but do not provide definitive evidence, further investigations are warranted. These primarily involve radiographic imaging to better visualise the middle and inner ear structures.
+Computed Tomography (CT)
+scanning is often used as it provides detailed images of bony structures within the ear, allowing detection of bony erosion caused by cholesteatomas. High-resolution CT scans are particularly useful in evaluating potential complications such as facial nerve involvement or intracranial extension.
+Magnetic Resonance Imaging (MRI)
+, specifically diffusion-weighted imaging (DWI), is increasingly being used for detecting cholesteatomas due to its ability to distinguish between inflammatory tissue and keratin-filled cysts characteristic of cholesteatoma. MRI is particularly useful in cases where CT findings are inconclusive or when there is a suspicion of intracranial complications.
+In some instances, the diagnosis can only be confirmed during
+surgery
+. This is typically reserved for cases where imaging results are inconclusive but clinical suspicion remains high, or when surgical intervention is necessary due to complications such as hearing loss or infection.
+Improve
+Differential diagnosis
+In the differential diagnosis of cholesteatoma, three common conditions that must be considered are chronic otitis media with effusion (COME),
+acute otitis media
+(AOM), and otosclerosis. These conditions can present similarly to cholesteatoma, but there are key differences in their clinical presentations.
+Chronic Otitis Media with Effusion (COME)
+COME is characterised by a persistent middle ear effusion for more than three months without signs of infection. Unlike cholesteatoma, COME usually presents bilaterally and is common in children.
+Clinically, patients may report
+hearing loss
+or aural fullness but lack the recurrent
+otorrhoea
+seen in cholesteatoma. Otoscopic examination often reveals a retracted or bulging tympanic membrane with an amber or blue hue due to the presence of serous fluid.
+Acute Otitis Media (AOM)
+AOM is an infection of the middle ear space and typically presents with rapid onset of symptoms such as ear pain, fever, and general malaise. While both AOM and cholesteatoma can cause hearing loss and otorrhoea, AOM differs by its acute presentation and systemic symptoms.
+Otoscopy will commonly show a bulging red tympanic membrane, distinct from the retraction pocket seen in cholesteatoma. The presence of middle ear effusion confirmed by pneumatic otoscopy or tympanometry also favours AOM over cholesteatoma.
+Otosclerosis
+Otosclerosis is a condition where abnormal bone growth in the middle ear leads to conductive hearing loss. Unlike cholesteatoma, it does not involve skin debris or recurrent infection. It often presents bilaterally and is more common in women.
+Clinically, patients may report progressive hearing loss without otorrhoea. On examination, the tympanic membrane is typically normal with a characteristic 'flamingo pink' hue seen only in active disease. The Rinne test will be negative on the affected side, while Weber's test lateralises to the same ear.
+Improve
+Management
+The primary aim of management in cholesteatoma is complete eradication of the disease to prevent recurrence and avoid potentially serious complications, while preserving or restoring hearing function where possible. Management is guided by the extent of disease, patient factors, and anatomical considerations.
+Surgical Management
+Surgery is the definitive treatment for cholesteatoma.
+Medical therapy alone does not eradicate the lesion.
+The main objectives are:
+Removal of all keratinising squamous epithelium and debris
+Prevention of further bone erosion and complications
+Restoration or preservation of middle ear function if feasible
+The choice of surgical technique depends on disease extent, hearing status, previous surgery, and presence of complications:
+Canal wall up (CWU) procedures
+(e.g., combined approach tympanoplasty): Preserve the posterior canal wall, aiming for a more natural ear canal but with a risk of residual disease.
+Canal wall down (CWD) procedures
+(e.g., modified radical mastoidectomy): Remove the posterior canal wall to improve visualisation and reduce recurrence risk; may require long-term cavity care.
+Ossiculoplasty may be performed at initial surgery or as a staged procedure to reconstruct the ossicular chain if eroded.
+Preoperative and Non-Surgical Considerations
+Preoperative assessment should include audiometry and imaging (high-resolution CT), as recommended by
+NICE
+, to define anatomy and plan surgery.
+Active infection should be controlled prior to surgery using topical or systemic antibiotics as appropriate (
+BNF
+). This reduces perioperative risk but does not treat the underlying lesion.
+In patients unfit for general anaesthesia or who decline surgery, regular microsuction cleaning and topical antibiotic drops can help control discharge but do not prevent progression or complications.
+Follow-up and Surveillance
+Lifelong follow-up is generally required due to significant risk of recurrence or residual disease. According to
+NICE
+, surveillance typically includes:
+Regular otoscopic examination post-operatively
+Imaging (usually MRI with diffusion-weighted sequences) in selected cases where there is suspicion of recurrence or when clinical examination is limited
+Early identification and prompt intervention for recurrent disease are essential to minimise morbidity.
+Improve
+Complications
+The most common complications associated with cholesteatoma are primarily related to its erosive and expansive properties. These complications can be broadly categorised into intratemporal and intracranial.
+Intratemporal Complications
+Ossicular chain erosion:
+This is the most frequent complication, leading to conductive
+hearing loss
+. The incus is usually the first ossicle to be affected.
+Mastoiditis:
+Infection in the mastoid air cells can lead to coalescent mastoiditis, characterised by bone destruction and formation of abscesses.
+Labyrinthitis:
+Cholesteatoma can erode into the labyrinth leading to sensorineural hearing loss, vertigo or both.
+Facial nerve paralysis:
+Although rare, it occurs when cholesteatoma erodes the fallopian canal, causing
+facial weakness
+or paralysis.
+Intracranial Complications
+Meningitis:
+This is a serious complication that results from direct spread of infection through dural erosion. It presents with symptoms like headache, fever, neck stiffness and photophobia.
+Brain abscess:
+This occurs due to spread of infection into the brain parenchyma. Symptoms include focal neurological deficits and altered mental status.
+Sigmoid sinus thrombosis:
+Thrombus formation in the sigmoid sinus can lead to increased intracranial pressure presenting as headaches, vomiting and seizures.
+Improve
+References
+Clinical Knowledge Summaries - Cholesteatoma guidelines
+Ear, nose and throat
+Cholesteatoma

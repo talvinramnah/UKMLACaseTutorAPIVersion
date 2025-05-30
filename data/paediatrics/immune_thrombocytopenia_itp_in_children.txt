@@ -1,0 +1,258 @@
+Immune thrombocytopenia (ITP) in children
+Immune thrombocytopenia (ITP) in children
+Immune
+thrombocytopenia
+(
+ITP
+) is an acquired autoimmune condition which is characterised by abnormally low levels of platelets in the blood, typically manifesting as a widespread
+petechial rash
+. It is a relatively rare condition which is more common in younger populations, occurring in approximately 4 in every 100,000 children per year. The prognosis of this condition in children is very good, with 80% achieving full remission with conservative management.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Henoch-Schonlein
+purpura
+10.00
+Bacterial meningitis
+8.00
+Immune
+thrombocytopenia
+(
+ITP
+) in children
+1
+Acute lymphoblastic leukaemia
+1.00
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+- The exact aetiology of
+ITP
+is still unknown, however most cases arise after a preceding viral illness
+Antibodies directed against viral antigens during a viral illness may cross-react with normal platelet antigens (molecular mimicry)
+It is thought that genetic immune dysregulation via T-cell anomalies may be responsible
+The pathophysiological process is multi-factorial and complex, but is thought to be initiated by the following autoimmune processes:
+Increased destruction of platelets in the spleen (by anti-platelet auto antibodies directed against platelet membrane antigens)
+Inhibition of platelet production via suppression of megakaryocyte precursors, also by auto-antibodies
+T-cell mediated destruction of platelets and megakaryocyte precursors in the bone marrow (possibly due to T-cell mediated cytotoxicity, and/or dysregulated mechanisms of regulatory T-cells and B-cells)
+The auto-antibody production is thought to be caused by dysregulated CD4+ helper T-cells reacting to platelet surface glycoproteins (e.g. glycoprotein IIb/IIIa complex)
+Improve
+Clinical features
+The most typical presentation of
+ITP
+is an otherwise well child with a
+petechial rash
+alone. Usually there is a history of a
+recent viral illness
+, in approximately 60% of children. This tends to be a viral upper respiratory tract infection, however can also be gastrointestinal in nature.
+Cutaneous rash
+ITP most frequently manifests as the sudden appearance of a petechial rash (small, purpuric lesions up to 2mm diameter), however larger
+purpura
+or
+bruising
+can also be present
+This cutaneous rash is present in approximately 86% of children with diagnosed ITP
+In greater than 50% of children with ITP, a cutaneous rash is the
+only
+clinical symptom
+Mucocutaneous bleeding
+Bleeding from mucosal surfaces occurs in approximately 40% of children with ITP
+The location of the bleeding can vary:
+Epistaxis (20%)
+Oral bleeding, for example buccal and gingival surfaces (20%)
+Very infrequently, bleeding can occur from the gastrointestinal, menstrual or urinary tract (<5%)
+Severe
+haemorrhage
+A very rare clinical symptom of ITP is severe haemorrhage (<3%)
+Intracranial haemorrhage (<1%) may present with signs and symptoms such as:
+Headache
+Persistent vomiting
+Altered mental state e.g. confusion, drowsiness
+Seizures
+Improve
+Investigations
+According to BMJ best practice,
+ITP
+is a diagnosis of exclusion and therefore majority of investigations are directed towards ruling out other differential diagnoses.
+Full blood count
+Platelets
+An isolated
+thrombocytopenia
+with a platelet count of <100x10
+9
+/L is usually the
+only
+blood abnormality
+According to UptoDate, most presenting cases have a count of <30x10
+9
+/L because those with a higher count tend to be asymptomatic and therefore do not get investigated
+White blood cells
+Should be within normal limits
+If abnormal, should spark suspicion of another condition (see below)
+Haemoglobin
+Usually within normal limits
+Anaemia is very occasionally seen, usually in children who have had significant
+haemorrhage
+Peripheral blood smear
+Platelets will appear reduced in number
+Red and white blood cells will be of normal count and morphology
+In patients with severe haemorrhage, microcytic hypochromic red blood cells may be seen (reflecting an iron deficiency anaemia)
+Bone marrow biopsy
+BMJ recommend performing this test
+only
+if there is an atypical blood film
+The bone marrow biopsy should appear normal in ITP, otherwise one must consider other differentials
+Investigation findings prompting further evaluation
+As stated prior, in ITP, there should be an isolated thrombocytopenia
+UptoDate suggest that the following findings should steer away from an ITP diagnosis:
+Premature white cells e.g. blasts (consider possible lymphoma or leukaemia)
+Predominant giant platelets, or very small platelets (consider inherited thrombocytopaenia syndromes)
+Reticulocytosis (consider haemolytic anaemia)
+Schistocytosis (consider microangiopathic haemolytic anaemia)
+Improve
+Differential diagnosis
+Henoch Schonlein
+purpura
+In an otherwise well child with a cutaneous rash, this is a very likely differential, given the characteristic similarities between both conditions
+Similarities
+Both can have petechiae
+Both more common in children than adults
+Both tend to have a viral prodrome
+Differences
+HSP tends to be characterised by palpable purpura
+Arthritis/arthralgia present
+Rash tends to be present in lower limbs and buttock area
+Haematological malignancy
+For example, leukaemia and lymphoma
+Both
+ITP
+and leukaemia have a similar incidence in the UK, with rates of 4 cases per 100,000, therefore this is a more common differential than one night predict
+It is an important one to exclude and therefore it is imperative to check for red flags in a child with symptoms of bleeding
+Similarities
+Both can present with symptoms of bleeding e.g. petechiae,
+bruising
+, mucosal bleeding
+Differences
+In malignancy, patients may have concurrent signs of concern including enlarged lymph nodes, splenomegaly, bone pain, joint pain and/or unexpected weight loss
+Bloods may show abnormalities such as neutropenia, atypical or immature cells, marked anaemia and/or leukocytosis
+Meningococcal disease
+In an otherwise well child, this is an unlikely differential diagnosis
+However, if a child is concurrently unwell, this should be a differential diagnosis high on the list given its high incidence in children (31 per 100,000 in children aged 0-4, and 5 per 100,000 in children aged 5-9)
+Similarities
+Both can present with
+petechial rash
+More common in children
+Differences
+Children will be unwell (e.g. irritability, lethargy)
+Usually will have abnormal vital signs (e.g. tachycardia, tachypnoea, widened pulse pressure, febrile)
+Bloods may show raised white cell count and CRP
+Congenital thrombocytopenic syndromes
+Similarities
+Both present with
+thrombocytopenia
+and/or mucocutaneous bleeding
+Differences
+Positive family history of congenital thrombocytopenic syndromes
+Predominantly large (giant) or small platelets on blood film
+May see Dohle body-like inclusions on blood smear
+Disseminated intravascular coagulation (DIC)
+Similarities
+Present with mucocutaneous bleeding
+Petechiae usually present
+Differences
+Usually patients are very unwell
+Can present with sepsis (e.g. hypotension, tachypnoea, fever)
+Bloods may show elevated prothrombin time (PT), activated partial thromboplastin time (APTT) and D-dimer
+Improve
+Management
+The management of
+ITP
+is different in children compared to adults. This topic focuses only on the treatment of children.
+Initial platelet count
+The initial platelet count is not a
+sole
+determinator of what form of management is initially required
+Normally, the platelet count together with the clinical picture (particularly the symptoms of bleeding) are used as a guide for the management approach
+According to the BMJ best practice guidelines, a platelet count of <20-30,000/microL is a threshold for active treatment, as this is the count where the risk of active bleeding increases
+An initial platelet count of <10,000/microL is considered severe and in these situations it is more likely that active management will be undertaken regardless of the symptom profile
+Conservative management
+ITP in children will resolve spontaneously within 3 weeks in 30-70% of children, according to BMJ
+In children who are asymptomatic (e.g. ITP noted incidentally on blood tests), or with minor bleeding symptoms (e.g. cutaneous manifestations), observation without active management is appropriate
+Active management
+This is restricted to children with major bleeding symptoms (e.g. ongoing epistaxis, mucosal bleeding) or a severely low platelet count
+In general, if treatment is required, a platelet target of ≥20,000 to 30,000/microL is used (the platelet count threshold above which the risk of serious bleeding is reduced)
+Corticosteroids
+According to BMJ best practice, this is the usual first-line treatment
+Prednisolone 1-2mg/kg/day orally, with tapering as soon as symptoms begin to clear
+IVIg and anti-D immunoglobulin
+Reserved for if corticosteroids are contraindicated or ineffective
+In those who are resistant to the above treatment, or in those with chronic ITP, medications such as mycophenolate, rituximab and thrombopoietin receptor agonists can be considered (with specialist input)
+Severe life-threatening bleeding
+In those with severe
+haemorrhage
+, aggressive treatment is required
+According to BMJ best practice, the first line management is with IVIg, corticosteroids, plus platelet transfusions
+IVIg 1g/kg intravenously as a single dose
+Prednisolone 1-2mg/kg/day orally
+Alternatively, UptoDate suggest methylprednisolone 30 mg/kg per day (up to 1 g) intravenously for 3-4 days
+Platelet transfusions
+UptoDate recommend platelet transfusions of a bolus dose of 10-30 mL/kg, then followed by a continuous infusion
+The role of these platelet transfusions is to ensure that the child maintains a haemostatic platelet count and to guide further treatment
+Therefore, platelet transfusions are
+not
+curative in nature, as the platelets will continue to be destroyed at a more rapid rate due to the auto-immune processes in ITP
+If severe haemorrhage results in hypovolaemia, fluid resuscitation is also indicated, however this is extremely rare
+Monitoring
+All
+patients with ITP, regardless of whether a conservative or active management approach is taken, should have their platelet count monitored regularly
+Typically, UptoDate recommend monitoring platelet count weekly in the initial stages, with the interval between tests increasing as the clinical picture of the patient stabilises
+Normally, monitoring will continue until the platelet count is within normal limits (>150,000/microL) and is stable without any active management
+Improve
+Complications
+Severe bleeding
+The risk of severe bleeding as a result of
+ITP
+in children is approximately 3%, therefore is relatively rare
+Severe bleeding is defined by UptoDate as epistaxis which lasts >5-15 minutes in duration, gastrointestinal bleeding, other severe mucosal bleeding requiring hospital admission and/or blood transfusions
+Those at higher risk of severe bleeding include:
+Those with platelet count <10,000/microL
+Traumatic event, e.g. head injury, falls
+Concurrent use of blood thinning medications e.g. aspirin, NSAIDs, warfarin, heparin (rare in children)
+Intracranial
+haemorrhage
+This is the most severe and life threatening complication of ITP
+The risk is extremely low, less than 0.5%
+The risk factors for developing intracranial haemorrhage are the same as the risk for severe bleeding (as above)
+Children with ITP and symptoms of possible ICH (e.g. headache, vomiting, seizures, confusion) should have neuroimaging completed in a timely manner, particularly if the platelet count is <10,000 to 20,000/microL (according to UptoDate)
+Chronic ITP
+Chronic ITP can be considered a complication of ITP, as the majority of cases resolve spontaneously
+Chronic ITP is defined as ITP which persists for >12 months since presentation
+Improve
+Prognosis
+- The prognosis of
+ITP
+in children is very good, with over 70% of children recovering spontaneously within 3 weeks
+The best prognosis is for children less than 10 years old, who tend to be more likely to recover completely compared to older patients
+Only 2.5-5% of patients will be refractory to
+all
+treatments available
+Even after many years of having chronic ITP, spontaneous remission still occurs in over 50% of children
+The mortality is very low, with deaths usually being a result of catastrophic severe bleeding with complications
+Improve
+Paediatric haematology
+Immune thrombocytopenia (ITP) in children

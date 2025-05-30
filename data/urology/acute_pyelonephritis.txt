@@ -1,0 +1,226 @@
+Acute pyelonephritis
+Acute pyelonephritis
+Acute pyelonephritis is an infection of one or both of the kidneys. It occurs as a result of an ascending
+urinary tract infection
+(
+UTI
+) which has spread from the bladder up towards the kidneys. It is usually caused by bacteria entering the urinary tract through the urethra.
+Whilst lower UTIs are very common, pyelonephritis is much rarer. However, it is an important diagnosis to make because if left untreated it can lead to serious complications and irreversible kidney damage.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Urinary tract infection
+(lower) in adults
+35.00
+Acute pyelonephritis
+1
+Ruptured abdominal aortic aneurysm
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Many organisms can cause acute pyelonephritis however the most common are gram negative bacteria:
+Escherichia coli
+(80%)
+Klebsiella species
+Proteus mirabilis
+Pseudomonas species
+(more common in hospital acquired infections)
+Enterobacter species
+In rare cases, fungi (most commonly
+Candida species
+) can cause pyelonephritis. This is usually seen in patients with nephrostomy tubes, patients who are immunocompromised, etc.
+A number of factors increase the risk of infection:
+Female sex
+Women's urethras are shorter than men's, so it's easier for bacteria to enter
+Factors that reduce the flow of urine (if urine cannot flow properly, it becomes stagnant allowing bacteria to multiply rapidly)
+Stones, BPH, tract abnormalities
+Spinal cord injuries leading to a neuropathic bladder
+Retrograde ascent of bacteria
+Vesico-ureteric reflux- a condition where urine from the bladder flows backwards into the ureters and kidneys
+Catheter use
+Pregnancy
+Immunosuppression
+Diabetes mellitus, corticosteroid use, cancer, HIV, etc
+Improve
+Pathophysiology
+Bacterial Pathogenesis
+Most cases of APN are caused by uropathogenic
+Escherichia coli
+, but other pathogens like
+Proteus, Klebsiella, Enterococcus
+, and
+Staphylococcus saprophyticus
+can also be implicated.
+Escherichia coli
+has specific virulence factors that allow it to ascend the urinary tract. These include fimbriae (pili), which facilitate adhesion to uroepithelial cells; flagella, which enable bacterial motility; and the production of haemolysin and cytotoxic necrotizing factor, causing cell injury and promoting bacterial invasion.
+P-fimbriated
+E. coli
+strains, in particular, are able to bind to glycosphingolipid receptors on uroepithelial cells, leading to bacterial colonization and formation of biofilms. Bacteria can also invade uroepithelial cells and multiply intracellularly, forming intracellular bacterial communities (IBCs) which can resist host immune responses and antibiotic treatment.
+Host Responses
+The host's immune response plays a critical role in the pathogenesis of APN. The initial response to bacterial invasion involves the release of pro-inflammatory mediators such as interleukin-6 (IL-6), IL-8, tumour necrosis factor-alpha (TNF-α), and monocyte chemoattractant protein-1 (MCP-1) by renal tubular cells.
+These molecules recruit neutrophils and monocytes to the site of infection, leading to the classic symptoms of pyelonephritis -
+fever
+,
+flank pain
+, and leukocytosis. Neutrophils are particularly essential in controlling bacterial growth, while macrophages and natural killer cells help to limit the spread of infection.
+However, excessive or prolonged inflammation can result in tissue damage, leading to scarring and potentially loss of renal function. In severe cases, inflammation can extend beyond the renal capsule, resulting in perinephric abscesses, pyonephrosis, and urosepsis.
+Improve
+Clinical features
+Symptoms of pyelonephritis typically develop quickly; usually over a couple of days.
+Most commonly:
+Fever
+(77%)
+Nausea
+and
+vomiting
+Flank pain
+, usually unilateral (86%)
+Other symptoms include:
+Haematuria
+This may require further investigation as it could be a sign of cancer- bladder, renal or prostate cancer in men.
+Consider a 2-week wait referral for urological cancers
+Foul-smelling urine
+Malaise
+Diarrhoea
+Confusion
+Clinical findings-
+Tenderness over the loin area
+Signs of shock
+Urosepsis is a life-threatening complication of pyelonephritis and can lead to septic shock. Signs include
+hypotension
+tachypnoea, skin changes, oliguria
+It is important to note that the presentation can differ between age groups:
+Young children may have non-specific symptoms such as a fever, irritability and poor feeding
+Elderly patients may present with increased confusion or new incontinence.
+Improve
+Investigations
+First-line investigations for suspected acute pyelonephritis include:
+Urinalysis
+: Perform a dipstick test to check for the presence of nitrites, leukocyte esterase, and
+haematuria
+. These findings can indicate a
+urinary tract infection
+(
+UTI
+), which is often associated with acute pyelonephritis.
+Urine culture and sensitivity
+: Obtain a midstream urine sample for culture to identify the causative organism, commonly *Escherichia coli*, and determine its antibiotic sensitivities. This guides appropriate antimicrobial therapy.
+Blood tests
+: Conduct full blood count (FBC) to assess white blood cell (WBC) count, which may be elevated in infection. Measure C-reactive protein (CRP) levels as they are typically elevated in inflammatory processes. Urea and electrolytes (U&Es) should also be checked to assess renal function.
+Blood cultures
+: If the patient presents with systemic symptoms such as
+fever
+or rigors, obtain blood cultures to rule out bacteraemia or sepsis.
+If initial investigations suggest acute pyelonephritis but there is uncertainty about the diagnosis or if the patient does not respond to initial treatment, further investigations may be warranted:
+Imaging studies
+:
+Ultrasound of the kidneys
+: Recommended in cases where there is suspicion of an obstructed urinary tract or if the patient has recurrent infections. It helps identify structural abnormalities, abscesses, or hydronephrosis.
+CT scan of abdomen and pelvis without contrast
+: Considered when ultrasound results are inconclusive or if there is suspicion of complications such as abscess formation or emphysematous pyelonephritis. A CT scan provides detailed imaging of renal anatomy and surrounding structures.
+Further urine tests
+: In specific cases where atypical pathogens are suspected, additional testing such as mycobacterial cultures may be required.
+Cystoscopy and urodynamic studies
+: Indicated in patients with recurrent UTIs or anatomical abnormalities that might predispose them to infections. These procedures help evaluate bladder function and detect any structural issues within the lower urinary tract.
+Nuclear medicine scans
+: DMSA (dimercaptosuccinic acid) scan can be used occasionally in paediatric patients to assess renal scarring from recurrent infections but is rarely indicated in adults unless there are complex diagnostic challenges.
+The majority of cases can be diagnosed based on clinical presentation supported by urinalysis and urine culture results without extensive additional investigations. Imaging studies are reserved for complicated cases or when an atypical presentation occurs.
+Improve
+Differential diagnosis
+There are a wide range of differentials that need to be considered before a diagnosis of pyelonephritis can be made. These include the following-
+Simple
+UTI
+(lower urinary tract infected)
+Suprapubic pain, frequency and
+dysuria
+are more common in a simple infection, pain is less severe
+Fevers usually more pronounced in pyelonephritis
+Systemic systems such a malaise are more common in pyelonephritis
+Causes of an acute abdomen
+Examples include appendicitis, diverticulitis, acute pancreatitis
+Costovertebral/
+flank pain
+more likely in pyelonephritis
+Guarding not usually a feature of pyelonephritis
+Nausea
+and
+vomiting
+can be a feature of both
+Abdominal
+aortic aneurysm
+(AAA)
+Can also present with back pain
+Pulsatile abdominal mass may be felt in an AAA
+Ultrasound can be used for initial assessment to detect an AAA
+Gynaecological causes
+Ectopic pregnancy, endometritis
+Ensure all relevant patients have a pregnancy test and take a detailed gynae history if appropriate
+Costovertebral angle pain less common
+Lower lobe pneumonia
+Consider if respiratory symptoms are present
+Improve
+Management
+The mainstay of treatment of acute pyelonephritis is antibiotics. Empirical antibiotics should be started
+after
+urine cultures have been taken. These can later be tailored once the sensitivities are available.
+Other treatments to consider:
+IV fluids
+Analgesia
+Antiemetics if required
+NICE offers guidelines for the use of catheters in patients with symptoms of pyelonephritis-
+Remove if possible
+Ensure catheters are correctly positioned, drain correctly and are not blocked.
+Catheter change in patients with a long term catheter if it has been in place for more than 7 days
+Patients can often be managed with oral antibiotics (7-10 day course usually required) in the community but hospital admission should be considered in the following circumstances-
+Pregnant woman
+Patients who are not improving in the community despite 48 hours of treatment
+Severe pain
+Patients with signs of severe illness
+Tachycardia
+,
+hypotension
+, reduced urine output, tachypnoea, confusion, etc
+Patients who are unable to tolerate oral fluids/medicines
+Patients at risk of developing complications
+Those with underlying diseases such as diabetes mellitus
+All babies under 3 months
+65 years old +
+Patients with a known abnormalities of the of the genitourinary tract
+Hospital treatment may be required so that intravenous antibiotics can be given.
+Rarely, surgery may be required to drain a renal abscess. Recurrent pyelonephritis can be caused by structural problems and surgery may be required to correct abnormalities to reduce the risk of further infections.
+In very severe infection, a nephrectomy may be required.
+Improve
+Complications
+If treated appropriately complications can often be avoided however they can occur. The main ones to be aware of include:
+Early-
+Acute kidney injury
+Urosepsis
+If the bacteria enter the bloodstream, sepsis can occur
+Perinephric/renal abscess
+Premature labour in pregnancy
+Late-
+Chronic pyelonephritis
+Characterised by scarring on the kidney which occurs after recurrent or persistent infections
+Can be asymptomatic
+Improve
+References
+NICE - 2018 Pyelonephritis (acute): antimicrobial prescribing
+Clinical Knowledge Summaries - Acute pyelonephritis
+Urinary tract infection
+Acute pyelonephritis

@@ -1,0 +1,65 @@
+Meconium aspiration syndrome
+Meconium aspiration syndrome
+Meconium aspiration syndrome (MAS)
+is a serious neonatal condition, occurring when a newborn inhales a mixture of meconium and amniotic fluid during birth. This can lead to airway obstruction, inflammation, infection and respiratory distress due to chemical pneumonitis. The incidence of MAS varies worldwide, but it's more prevalent in term or post-term infants. Risk factors include maternal hypertension, diabetic mothers and stressful labour.
+The diagnosis is typically made based on clinical presentation and radiographic findings. The chest X-ray may show patchy infiltrates or atelectasis. Blood gases often reveal hypoxemia and acidosis.
+Management strategies encompass supportive care such as oxygenation, ventilation support and antibiotics if infection is suspected. In severe cases, extracorporeal membrane oxygenation (ECMO) might be considered. Despite advances in management, MAS remains associated with significant morbidity and mortality.
+Last updated: 25
+th
+July 2024
+Clinical features
+A typical presentation of meconium aspiration syndrome (MAS) may involve a term or post-term neonate displaying signs of respiratory distress shortly after birth. This distress is often characterised by grunting, nasal flaring, and intercostal retractions. The newborn may also exhibit cyanosis, indicating an inadequate supply of oxygen.
+On physical examination, the following features might be observed:
+Tachypnoea
+: Rapid breathing is one of the most common presenting features in MAS. It typically occurs within minutes to hours after birth.
+Cyanosis
+: A bluish discoloration of the skin and mucous membranes due to low oxygen levels in the blood.
+Decreased breath sounds or rales
+: Auscultation may reveal decreased breath sounds with rales or rhonchi due to airway obstruction by meconium.
+Barrel-shaped chest
+: This may be present due to hyperinflation of the lungs from obstructive emphysema as a result of air trapping.
+Prolonged expiratory phase
+: This can be noted on physical examination and is indicative of airway obstruction.
+It's important to note that the severity of symptoms and findings can vary significantly between individuals. Some neonates with MAS may present with mild respiratory distress while others may develop severe respiratory failure requiring mechanical ventilation. In addition, complications such as persistent pulmonary hypertension of the newborn (PPHN), air leak syndromes (pneumothorax, pneumomediastinum), and bronchopulmonary dysplasia can occur in severe cases.
+Improve
+Investigations
+First-line investigations
+Chest X-ray:
+A chest radiograph is essential to evaluate the presence of infiltrates, atelectasis, or hyperinflation. Typical findings in meconium aspiration syndrome (MAS) include patchy areas of atelectasis and hyperinflation. The presence of air leaks such as pneumothorax or pneumomediastinum should also be assessed.
+Arterial blood gas (ABG):
+ABG analysis is critical for assessing the degree of hypoxemia, hypercapnia, and acidosis. This helps gauge the severity of respiratory compromise and guides oxygen therapy and ventilation strategies.
+Pulse oximetry:
+Continuous monitoring of oxygen saturation provides real-time data on the infant's oxygenation status and helps in titrating supplemental oxygen levels.
+Further investigations
+Echocardiography:
+This investigation is indicated if there are signs suggestive of persistent pulmonary hypertension of the newborn (PPHN), which can coexist with MAS. Echocardiography evaluates pulmonary artery pressures, cardiac function, and excludes congenital heart disease.
+C-reactive protein (CRP) and blood cultures:
+Although MAS is usually diagnosed based on clinical presentation and radiographic findings without needing extensive laboratory tests, CRP levels and blood cultures may be warranted if there is a suspicion of concurrent infection or sepsis. Elevated CRP can indicate inflammation or infection but must be interpreted cautiously within the clinical context.
+Bacterial culture:
+In cases where infection is suspected due to prolonged rupture of membranes or maternal fever, tracheal aspirate samples should be obtained for bacterial culture to rule out neonatal pneumonia.
+The diagnosis of MAS typically relies heavily on clinical presentation combined with radiographic evidence from chest X-rays. Further investigations are guided by specific clinical indications such as suspected PPHN or concurrent infections.
+Improve
+Management
+Initial stabilisation:
+Avoid routine intrapartum suctioning.
+If the neonate is vigorous (strong respiratory effort, good muscle tone, heart rate >100 bpm), proceed with standard neonatal care.
+If the neonate is not vigorous, perform direct laryngoscopy and tracheal suctioning to remove meconium from the airway before initiating positive pressure ventilation (PPV).
+Respiratory support:
+Administer supplemental oxygen to maintain target oxygen saturation levels as per neonatal resuscitation guidelines.
+Initiate continuous positive airway pressure (CPAP) or mechanical ventilation if indicated by respiratory distress or hypoxaemia.
+Surfactant therapy:
+Consider administration of exogenous surfactant in cases of severe respiratory distress or when mechanical ventilation is required.
+Antibiotic therapy:
+Initiate empirical antibiotic therapy due to the risk of secondary bacterial infection. Adjust based on culture results and clinical course.
+Management of persistent pulmonary hypertension (PPHN):
+Employ inhaled nitric oxide (iNO) for infants with significant PPHN unresponsive to conventional ventilation and oxygen therapy.
+If iNO is unavailable or ineffective, consider extracorporeal membrane oxygenation (ECMO) as a last resort in specialised centres.
+Nutritional support:
+Provide parenteral nutrition initially if enteral feeding is not feasible due to respiratory compromise or other complications.
+Corticosteroid use:
+Avoid routine use of corticosteroids unless there are specific indications such as concurrent conditions requiring their use.
+Klebsiella pneumoniae
+, Group B Streptococcus, and other pathogens should be considered in differential diagnosis for secondary infections.
+Improve
+Neonatology
+Meconium aspiration syndrome

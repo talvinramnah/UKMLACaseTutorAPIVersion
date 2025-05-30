@@ -1,0 +1,268 @@
+Post-streptococcal glomerulonephritis
+Post-streptococcal glomerulonephritis
+Post-streptococcal
+glomerulonephritis
+(PSGN) is a glomerular condition mediated by an
+immunological response to a group A
+streptococci
+(GAS)
+infection. Thanks to improved access to early antibiotics and widespread fluoride-containing water (which helps decrease the virulence of GAS), PSGN is now a rare diagnosis in developed countries. However, it remains an important topic as it is still the most common cause of
+acute nephritis in children
+worldwide.
+PSGN most commonly presents with an
+acute nephritic syndrome
+(including generalised oedema, gross
+haematuria
+,
+hypertension
+and/or
+oliguria
+). Diagnosis is confirmed taking clinical features into account alongside evidence of a recent GAS infection.
+PSGN is usually
+self-limiting
+(within 2-4 weeks), with supportive management mainly focusing on the prevention and management of any complications arising due to
+fluid retention and overload
+.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 0.30 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+IgA nephropathy
+10.00
+Post-streptococcal
+glomerulonephritis
+1
+Goodpasture's syndrome
+0.33
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+PSGN can occur either as a sporadic case or as part of an epidemic of
+GAS
+infections.
+The most commonly affected age group are children between the
+ages 5-12years
+, with an increased risk also present for
+older adults >60years
+.
+Boys
+appear to be affected twice as commonly as girls.
+Improve
+Pathophysiology
+PSGN is an immunologic glomerular disease that is triggered by infection with specific nephritogenic strains of GAS.
+There are two streptococcal antigens that are proposed to trigger the sequence of immunological glomerular injury.
+NAPIr
+(nephritis-associated plasmin-like receptor)
+SPE B
+(streptococcal pyrogenic exotoxin B)
+Throat or skin GAS infection â→ production of antibodies against streptococcal antigens â→ nephritogenic streptococcal antigens become lodged in glomerular membrane â→ anti-streptococcal antibodies bind to form immune complexes â→ activation of complement and inflammation â→ damage to glomerulus â→ clinical features of PSGN.
+This process is known as
+in situ immune complexes formation
+and it is currently the most widely-supported mechanism for glomerular deposition in PSGN.
+In PSGN, the specific location of immune complex deposition leads to a characteristic, recognisable pattern on renal biopsy, the location of deposits also helps to explain the clinical features of PSGN.
+Subendothelial deposits activate complement, leading to the infiltration of inflammatory cells and proliferative
+glomerulonephritis
+. The extent of
+damage to the endothelial cell barrier
+correlates with the degree of
+haematuria
+and decline in glomerular filtration rate
+.
+Subepithelial 'humps' of deposits trigger inflammation, leading to
+epithelial cell damage
+, which allows the protein to filter more freely into the urine. The number of these deposits correlates with the degree of
+proteinuria
+.
+The clinical course of PSGN correlates to the rate of clearance of these immune complex deposits from the glomerulus.
+Improve
+Clinical features
+A clear history of GAS infection, either pharyngitis or skin infection, is recognised in almost all cases, with clinical evidence of recent infection required to make the diagnosis. The incidence of PSGN following a skin infection [25%] is slightly higher than pharyngitis [5-10%]  and the duration from infection to the clinical presentation of PSGN depends on the site of infection;
+1-3 weeks for pharyngitis
+3-6 weeks for skin infection
+The most commonly recognised clinical presentation among those diagnosed with PSGN is an
+acute nephritic syndrome
+;
+Generalised oedema
+[66% of patients who present]
+Caused by water and salt retention due to renal insufficiency.
+This can progress to severe complications of fluid overload, eg. Respiratory distress due to pulmonary oedema.
+Hypertension
+[60% of patients who present]
+Caused by water and salt retention due to renal insufficiency.
+The extent of hypertension can vary from mild to severe needing treatment.
+Gross
+haematuria
+[40% of patients who present];
+Red blood cell components leak from glomerular capillaries through the damaged glomerular membrane into the urine.
+Urine looks tea or cola-coloured.
+Oliguria
+- this varies significantly between affected individuals but also during the clinical course, as renal function initially declines and then improves.
+PSGN can be
+asymptomatic
+(unknown proportion), diagnosed incidentally with
+microscopic haematuria
+. Some experts speculate the incidence of PSGN is a lot higher than previously thought, but because asymptomatic cases do not present and are therefore not recognised.
+Very rarely, some cases can present, with clinical features of rapidly progressive
+glomerulonephritis
+[0.5% of cases], with a rapid deterioration in kidney function towards kidney failure within weeks.
+Improve
+Investigations
+Urinalysis
+(A fresh sample should be sent to the lab to confirm
+haematuria
+and quantify the degree of
+proteinuria
+)
+Haematuria - with characteristic dysmorphic red blood cells (RBC) with or without RBC casts.
+Proteinuria - usually mild, although varying degrees of proteinuria may be found [it can reach nephrotic range in 5% of cases].
+Tests to assess
+renal function
+can show a variable degree of decline of
+eGFR and elevated creatinine
+, significant renal failure is uncommon.
+Caution when interpreting a normal creatinine, as this does not exclude severe renal dysfunction.
+Culture
+A throat or skin swab for culture should be taken to help confirm the presence of GAS.
+Only positive in 25% of cases because of the delay from initial GAS infection to the clinical presentation of PSGN (usually 1-3 weeks depending on the site of infection).
+Serology
+Testing for antibodies against GAS can be helpful to confirm a recent infection.
+The
+Streptozyme test
+is a combined test measuring the levels of the following 5 antibodies that can be produced in response to a recent GAS infection;
+Anti-streptolysin (ASO)
+Anti-hyaluronidase (AHase)
+Anti-streptokinase (ASKase)
+Anti-DNase B
+Anti-nicotinamide-adenine dinucleotidase (anti-NAD)
+Although this combined test is not available everywhere, if available it is more specific than testing for antibodies individually.
+Caution is needed when interpreting individual antibody tests.
+The quantities of antibodies produced against GAS depend on the site of infection. Following a throat GAS infection, levels of ASO, AHase, anti-DNase B and anti-NAD are all elevated. However, after a skin GAS infection, only anti-DNase and AHase levels are elevated. Therefore, only measuring ASO titre levels to confirm a recent GAS skin infection and support the diagnosis of PSGN would give a false negative.
+In some cases, early administration of antibiotics is known to blunt elevation in ASO titres and can lead to a false negative.
+Complement
+Low
+C3 levels
+(90% of cases) found during the initial 2 weeks, should return to baseline within 4-8 weeks.
+Low complement is helpful to support a diagnosis of glomerular disease. However, it is a common finding among glomerular conditions and not a reliable indicator towards the more specific diagnosis of PSGN.
+Renal biopsy
+Characteristic findings on biopsy can provide a
+definitive diagnosis
+, but due to the self-limiting clinical course of PSGN, a biopsy is rarely needed.
+Renal biopsy is usually only indicated where there is diagnostic uncertainty to confirm the diagnosis and to exclude differential diagnoses.
+A combination of findings are identified on biopsy in PSGN;
+Light microscope: shows
+diffuse glomerular cellular infiltration and endocapillary proliferation
+(similar appearances can be found with other glomerular diseases).
+Immunofluorescence: shows
+diffuse granular deposits of complement (C3) and immunoglobulin G (IgG)
+.
+Electron microscope: (immune complex deposits are electron-dense making it easier to specifically localise with an electron microscope) shows immune complexes characteristically localised to
+subepithelial deposits
+, commonly called
+dome-shaped 'humps'
+and
+subendothelial deposits
+.
+Improve
+Differential diagnosis
+Initially, it may be difficult to differentiate PSGN from other causes of acute nephritis. If the course of PSGN is not typical, features continue to persist or progress rather than resolve or there is no evidence of recent GAS infection, one should consider the following differentials; (a renal biopsy may be needed to help differentiate diagnoses)
+IgA nephropathy
+May present clinically identical to PSGN.
+However, it is differentiated by a
+shorter duration <5 days
+from the onset of upper respiratory infection. Recurrence is more common with IgA nephropathy, so clinical history may reveal
+previous episodes of gross
+haematuria
+.
+C3 glomerulopathy
+Maybe indistinguishable from PSGN initially, presenting with clinical features of acute nephritis plus low complement levels, which may follow an upper respiratory infection in some individuals.
+However, unlike PSGN,
+persisting urinary features, persistent decline in renal function
+and
+persistently low complement levels
+for >2 weeks after the initial presentation is more characteristic of C3 glomerulopathy.
+Post-infectious
+glomerulonephritis
+Is triggered by a
+recent viral or other bacterial infection
+.
+Given its similar clinical presentation to PSGN, the absence of any evidence of recent GAS infection may be the only clue to differentiate.
+Systemic causes of glomerulonephritis can usually be differentiated from PSGN as they present with a
+systemically unwell patient and extra-renal manifestations
+of the specific disease. These include glomerulonephritis secondary to;
+Viral hepatitis
+infection - signs of liver failure, deranged liver function and positive hepatic serology.
+Infective endocarditis
+- systemically unwell patient with peripheral stigmata of disease, positive blood cultures and echo findings.
+Lupus nephritis
+(typically affects young women) - systemically unwell, malar rashes, photosensitivity, arthralgia, and
+positive serology
+for lupus.
+IgA vasculitis/Henoch Schonlein Purpura
+(affects young children) - a non-blanching purpuric rash on buttocks and lower limbs, abdominal pain, fever, and arthralgia.
+Improve
+Management
+There is no specific cure for PSGN, so the focus of management is to prevent and manage any complications that arise from
+fluid overload
+, with general measures including salt and water restriction and diuretics. The following measures are supported by the most recent evidence and are used as appropriate to the clinical severity of the case.
+Monitoring
+blood pressure
+Loop diuretics provide rapid diuresis, reducing blood pressure.
+If severe hypertensive encephalopathy develops, treatment with anti-hypertensives may be needed. However, ACE-inhibitors should be used with caution due to the risk of hyperkalemia.
+Monitoring
+renal function
+Rarely, PSGN leads to significant renal insufficiency. In some cases, dialysis may be necessary.
+Antibiotic therapy should be given if there is any evidence of a persistent streptococcal infection.
+Early antibiotics
+reduce the incidence and severity of PSGN.
+Most cases will respond to the supportive measures above and can be managed in secondary care but referral to a specialist centre for further investigation and/or dialysis may be appropriate if any of the following are present.
+Refractory fluid overload
+Refractory
+hypertension
+Evidence of serious renal impairment
+Improve
+Complications
+Short-term complications:
+Pulmonary oedema
+- this can manifest with respiratory distress and usually correlates to clinically evident oedema and signs of fluid overload.
+Hypertensive encephalopathy
+- infrequently, severe
+hypertension
+develops into hypertensive encephalopathy, requiring anti-hypertensives to reduce blood pressure.
+Severe
+acute kidney injury (AKI)
+requiring dialysis.
+Long-term complications:
+Most cases in children resolve with no long-lasting effects. There is a small subset of cases that develop late complications;
+Hypertension
+Proteinuria
+Renal insufficiency, which progresses to renal failure.
+Improve
+Prognosis
+The prognosis for children is excellent. In most cases (92-99%), PSGN self-resolves rapidly, with diuresis and renal function returning to baseline within 2-4 weeks, while
+haematuria
+and
+proteinuria
+may take a little longer. In most cases, the long-term follow-up shows no lasting effect on renal function.
+Some cases, more commonly among affected adults, develop
+late renal complications
+, including;
+Hypertension
+Recurrent proteinuria
+Renal failure
+Improve
+Glomerulonephritis
+Post-streptococcal glomerulonephritis

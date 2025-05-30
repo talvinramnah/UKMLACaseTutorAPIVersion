@@ -1,0 +1,348 @@
+Tuberculosis
+Tuberculosis
+Tuberculosis (TB) is a disease that is caused by
+Mycobacterium tuberculosis
+. It
+typically affects the lungs
+.  According to the World Health Organisation (WHO), every year, around ten million people fall ill with TB and 1.5 million people die from TB, making it the leading infectious cause of death. It is transmitted via airborne droplets. Primary infection is mostly asymptomatic. The infection may remain dormant or reactivate later when the immune system is compromised.
+Sputum
+analysis and imaging are required for diagnosis. Treatment includes combination therapy for a long duration.
+Last updated: 3
+rd
+September 2023
+Epidemiology
+Incidence: 9.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Lung cancer
+8.56
+Bronchiectasis
+1.67
+Tuberculosis
+1
+Sarcoidosis
+0.78
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Mycobacterium tuberculosis
+is an aerobic,
+acid-fast bacilli
+. It mostly spreads via droplet infection.
+Risk factors for TB:
+Immunosuppression:
+HIV.
+Immunosuppressant drugs
+TNFα inhibitors.
+Diabetes mellitus, end-stage renal disease.
+Previous lung disease (silicosis).
+Smoking.
+Drug abuse, alcoholism.
+Malnutrition, poverty.
+Certain living conditions (prisons, homeless shelters).
+Occupational (hospitals).
+Improve
+Pathophysiology
+Virulence factors resist host response and elicit granuloma formation.
+Mycolic acid glycolipids.
+Trehalose dimycolate ('cord factor').
+Catalase-peroxidase.
+Lipoarabinomannan.
+Inhalation of
+Mycobacterium tuberculosis
+via droplet â→ deposition in the lungs (alveoli) â→ engulfed by alveolar macrophages â→ proliferates in macrophages â→ release â→ immune response.
+Immediate clearance of the organism: the majority of individuals never develop the clinical disease.
+Primary disease: rapid progression to active disease if the immune response is inadequate.
+Latent infection (with or without subsequent reactivation disease): TH1 response â→
+caseating granuloma
+formation (caseous centre with necrotic material, surrounded by lymphocytes and macrophages) â→ successful containment.
+Reactivation disease:
+Occurs when the immune response is suppressed.
+Onset of the active disease years after latent infection.
+Improve
+Classification
+Tuberculosis (TB) is categorised based on the anatomical site of the disease, bacteriological status, history of treatment, and severity of the disease. The classification system is essential for understanding the epidemiology, diagnosis, treatment and control strategies for TB.
+Anatomical Classification
+Pulmonary tuberculosis (PTB)
+: This involves TB in the lung parenchyma. PTB is further sub-classified into smear-positive and smear-negative forms based on bacteriological examinations.
+Extrapulmonary tuberculosis (EPTB)
+: This refers to TB involving organs other than lungs such as lymph nodes, abdomen, genitourinary tract, skin, joints and bones, meninges among others.
+Miliary tuberculosis
+: This disseminated form of TB can affect multiple organs simultaneously.
+Bacteriological Status
+Tuberculin positive
+: Indicates exposure to
+Mycobacterium tuberculosis
+or vaccination with BCG vaccine. Does not necessarily indicate active disease.
+Smear positive
+: Acid-fast bacilli are detected in
+sputum
+smear microscopy.
+Smear negative but culture positive
+: No acid-fast bacilli are detected in sputum smear microscopy but culture grows
+Mycobacterium tuberculosis
+.
+Culture negative
+: Neither acid-fast bacilli are detected nor does culture grow
+Mycobacterium tuberculosis
+. Diagnosis may be made on clinical or radiological grounds.
+History of Treatment Classification
+New
+: A patient who has never been treated for TB or has taken anti-TB drugs for less than one month.
+Relapse
+: A patient who was previously treated and declared cured, but is now diagnosed with a recurrent episode of TB.
+Treatment after failure
+: A patient who started treatment but bacteriological status remained positive or became positive again at the end of five months or later during treatment.
+Treatment after loss to follow-up
+: A patient who returns to treatment, bacteriologically positive, following interruption of treatment for two consecutive months or more.
+Chronic case
+: A patient who remains smear-positive after supervised re-treatment.
+Severity of Disease Classification
+Drug-sensitive tuberculosis (DS-TB)
+: TB caused by
+Mycobacterium tuberculosis
+strains sensitive to all first-line anti-TB drugs.
+Multidrug-resistant tuberculosis (MDR-TB)
+: TB caused by strains resistant to at least isoniazid and rifampicin, the two most potent first-line anti-TB drugs.
+Extensively drug-resistant tuberculosis (XDR-TB)
+: MDR-TB plus resistance to any fluoroquinolone and at least one additional second-line injectable drug (amikacin, capreomycin or kanamycin).
+Improve
+Clinical features
+After infection with
+Mycobacterium tuberculosis
+, most individuals with intact immunity control further replication, which may be cleared or enter a 'latent' phase. Some individuals, specifically those with low immunity or risk factors for TB, develop progressive 'primary' disease. Individuals with latent TB have bacilli that can 'reactivate' and progress to symptomatic disease later in life. There is around 10% lifetime risk of reactivation of TB.
+Latent infection of TB is asymptomatic and non-contagious. The active infection due to primary or reactivated TB leads to various symptoms and is contagious.
+Constitutional symptoms:
+Fever
+: usually gradual onset and low-grade.
+Night sweats
+: maybe drenching.
+Weight loss
+,
+anorexia
+, and
+malaise
+are also common.
+Pulmonary tuberculosis:
+Most common.
+Dyspnoea,
+cough
+(+/-
+haemoptysis
+)
+, chest pain.
+Cough: over 2 to 3 weeks; initially dry, later productive.
+Chest examination: crackles, bronchial breath sounds, or maybe normal.
+Extrapulmonary tuberculosis:
+Less common.
+Pleura, bones, lymphatic system, liver, central nervous system, urogenital tract, gastrointestinal tract, and the skin.
+Symptoms based on the organ-involvement (enlarged lymph node, pleuritic chest pain, skeletal pain, urinary symptoms, abdominal swelling, abdominal pain, headache).
+Improve
+Investigations
+Investigation of tuberculosis (TB) involves a systematic approach, primarily based on clinical suspicion. The diagnostic process involves initial screening tests followed by confirmatory tests when required.
+First-line Investigations
+Tuberculin Skin Test (TST):
+Also known as the Mantoux test, TST is an intradermal injection of purified protein derivative (PPD) of
+Mycobacterium tuberculosis
+. An induration diameter of 10mm or more after 48-72 hours suggests TB infection. However, this test does not differentiate between latent and active disease.
+Interferon Gamma Release Assays (IGRAs):
+These blood tests measure the immune response to TB proteins in whole blood. Two types are available in the UK: QuantiFERON-TB Gold In-Tube test and T-SPOT.TB test. IGRAs have a higher specificity than TST and are not affected by previous BCG vaccination.
+Chest X-ray:
+This is the first-line imaging investigation for suspected pulmonary TB. Typical findings include upper lobe infiltrates, cavitation, or miliary pattern. However, chest X-ray cannot confirm TB diagnosis as these findings can be present in other conditions too.
+If these first-line investigations suggest TB infection or if there is high clinical suspicion despite negative results, further investigations should be undertaken to confirm diagnosis and determine drug susceptibility.
+Further Investigations
+Sputum
+Smear Microscopy:
+This examination visualises acid-fast bacilli (
+Mycobacterium tuberculosis
+) in sputum samples using Ziehl-Neelsen stain or fluorescent staining techniques. It has high specificity but variable sensitivity, particularly in early disease.
+Sputum Culture:
+This is the gold standard for TB diagnosis. It allows for detection of
+Mycobacterium tuberculosis
+, determination of drug susceptibility and strain typing. However, results can take up to 6 weeks due to slow growth rate of the bacterium.
+Nucleic Acid Amplification Tests (NAATs):
+These tests detect
+Mycobacterium tuberculosis
+DNA or RNA in clinical specimens. NAATs have high sensitivity and specificity, and provide rapid results within hours. They can also detect rifampicin resistance.
+Bronchoscopy with bronchoalveolar lavage (BAL):
+This is typically reserved for patients who are unable to produce sputum or when smear microscopy is negative despite high suspicion of pulmonary TB.
+Tissue Biopsy:
+For suspected extrapulmonary TB, tissue biopsy from the affected site may be necessary for histological examination and culture.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of tuberculosis (TB), it is essential to consider other conditions that may mimic TB in terms of clinical presentation. The three most likely alternative diagnoses are community-acquired pneumonia (CAP),
+lung cancer
+, and
+sarcoidosis
+.
+Community-Acquired Pneumonia
+Streptococcus pneumoniae
+,
+Mycoplasma pneumoniae
+, and
+Haemophilus influenzae
+are common causative organisms for CAP. Unlike TB, CAP typically presents acutely with
+fever
+,
+cough
+, pleuritic chest pain, and purulent
+sputum
+production.
+Chest X-ray findings in CAP usually show lobar consolidation or diffuse infiltrates, contrasting with the apical and posterior segment involvement commonly seen in pulmonary TB.
+The absence of systemic symptoms such as
+weight loss
+and
+night sweats
+further differentiates CAP from TB.
+Lung Cancer
+Lung cancer can mimic TB through shared symptoms like chronic cough,
+haemoptysis
+, weight loss, and
+fatigue
+. However, lung cancer often presents with additional symptoms not typically associated with TB such as dyspnoea and hoarseness.
+Chest imaging may reveal a solitary pulmonary nodule or mass in lung cancer patients which is less common in TB. Mediastinal
+lymphadenopathy
+can be present in both conditions but tends to be more pronounced in lung cancer.
+The smoking history of a patient can also provide a clue towards lung cancer rather than TB.
+Sarcoidosis
+Sarcoidosis is characterised by non-caseating granulomas which can resemble the granulomatous inflammation seen in TB. However, sarcoidosis often presents with extrapulmonary manifestations such as
+erythema nodosum
+, uveitis, and bilateral hilar lymphadenopathy which are not typical of TB.
+Unlike TB, sarcoidosis is not associated with a productive cough or night sweats. The presence of
+respiratory
+symptoms in sarcoidosis is often related to the degree of lung involvement.
+The pattern of pulmonary involvement in sarcoidosis is typically more symmetric than that seen in TB and may involve the upper and lower lung fields.
+Improve
+Management
+General Principles of TB Management
+TB management requires
+multidisciplinary team involvement
+including
+respiratory
+physicians, infectious disease specialists, TB nurses, and public health teams.
+All cases of TB must be
+notified to local health protection teams
+within 3 working days of diagnosis.
+Treatment should be supervised by clinicians with expertise in TB management.
+Directly Observed Therapy (DOT) should be considered for patients with:
+Risk factors for non-adherence
+Previous treatment non-adherence
+Clinically complex cases (e.g., MDR-TB)
+Vulnerable social circumstances
+Active TB Treatment
+Standard first-line treatment for drug-sensitive pulmonary TB consists of:
+Initial phase (2 months)
+: Isoniazid, rifampicin, pyrazinamide, and ethambutol
+Continuation phase (4 months)
+: Isoniazid and rifampicin
+Treatment duration may be extended in certain circumstances:
+CNS involvement (12 months total)
+Bone/joint TB (6-9 months total)
+Drug-resistant TB (individualised regimens)
+Pyridoxine (vitamin B6) should be co-prescribed with isoniazid to prevent peripheral neuropathy.
+Regular monitoring during treatment includes:
+Clinical assessment for treatment response and adverse effects
+Liver function tests at baseline and if symptoms develop
+Visual acuity and colour vision testing for patients on ethambutol
+Sputum
+samples at 2 months to assess conversion to culture-negative status
+Latent TB Treatment
+Treatment is recommended for individuals with positive IGRA or TST tests who are:
+Under 65 years without contraindications
+At high risk of TB progression (HIV, immunosuppression, recent contacts)
+NICE-recommended regimens for latent TB include:
+Isoniazid and rifampicin for 3 months
+(preferred option)
+Isoniazid alone for 6 months (alternative option)
+Baseline liver function tests should be performed before starting treatment.
+Management of Drug-Resistant TB
+Multidrug-resistant TB (MDR-TB) is defined as resistance to at least isoniazid and rifampicin.
+Extensively drug-resistant TB (XDR-TB) is MDR-TB with additional resistance to fluoroquinolones and at least one injectable second-line agent.
+Management principles include:
+Treatment at specialist centres with expertise in drug-resistant TB
+Individualised regimens based on drug susceptibility testing
+Longer treatment duration (typically 18-24 months)
+Combination of at least 4-5 effective drugs
+More intensive monitoring for adverse effects
+Newer drugs such as bedaquiline and delamanid may be used in specific cases.
+Special considerations for TB management:
+HIV co-infection
+: Antiretroviral therapy should be initiated within 8 weeks of TB treatment
+Pregnancy
+: Standard regimens can be used with careful monitoring
+Renal impairment
+: Dose adjustments may be required
+Liver disease
+: Modified regimens with more frequent monitoring
+Improve
+Complications
+Complications of tuberculosis (TB) can be severe and life-threatening, involving both pulmonary and extrapulmonary systems. The most likely complications are:
+Pulmonary tuberculosis
+: Persistent coughing, chest pain, and
+haemoptysis
+are common symptoms. Complications include
+bronchiectasis
+, chronic obstructive pulmonary disease (COPD), lung abscesses, and pneumothorax.
+Miliary tuberculosis
+: This disseminated form can affect multiple organs including the liver, spleen, bone marrow and meninges causing hepatosplenomegaly, pancytopenia or meningitis respectively.
+Tuberculous meningitis
+: A severe form of TB that predominantly affects children. Symptoms may include headache,
+fever
+, vomiting and altered mental status. It may lead to hydrocephalus or brain infarcts due to inflammation of cerebral vasculature.
+Skeletal tuberculosis
+: Also known as Pott's disease when it involves the spine. It can cause vertebral collapse leading to kyphosis or paraplegia due to spinal cord compression.
+Genitourinary tuberculosis
+: Can result in renal impairment or infertility.
+Gastrointestinal tuberculosis
+: May present with abdominal pain and bowel obstruction secondary to strictures.
+Furthermore,
+Mycobacterium tuberculosis
+infection often leads to immune reconstitution inflammatory syndrome (IRIS) in patients co-infected with HIV starting antiretroviral therapy. Multi-drug resistant TB (MDR-TB) is also a significant concern requiring prolonged treatment with second-line anti-tubercular drugs which have more side effects.
+Improve
+Prognosis
+Generally, patients do well with treatment.
+Worldwide, the case-fatality rate is 3.8% in smear-positive pulmonary TB patients on treatment.
+Risk factors for death:
+Older age
+Delay in diagnosis of TB.
+Significant co-morbidities.
+Immunosuppression.
+Need for mechanical ventilation.
+Improve
+Screening and prevention
+Screening for latent TB infection is done for:
+Individuals with recent exposure (contacts).
+Health care workers.
+Homeless shelters and prisons.
+Individuals with increased risk of reactivation: HIV.
+Travellers from high-incidence countries.
+Screening tests:
+TST test or IGRA.
+If any positive or active TB suspected:
+Chest x-ray
+Sputum
+stain and culture
+Prevention:
+Bacille Calmette-Guerin (BCG) vaccination: children in high-risk region, health-care workers, and other individuals based on exposure status; should not be administered to individuals with decreased immunity.
+Isolate patient (short-term, until two weeks after initiating treatment), avoid new encounters, identify and treat the contacts.
+Reportable condition to the local health authorities.
+Improve
+References
+NICE - 2016 Tuberculosis guidelines
+NICE - 2016 Tuberculosis guidelines
+Clinical Knowledge Summaries - Tuberculosis
+Greenbook - Tuberculosis
+Cochrane - Corticosteroids for managing tuberculous meningitis
+Respiratory
+Tuberculosis

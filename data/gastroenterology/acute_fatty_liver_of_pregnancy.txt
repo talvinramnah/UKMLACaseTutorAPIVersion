@@ -1,0 +1,198 @@
+Acute fatty liver of pregnancy
+Acute fatty liver of pregnancy
+Acute fatty liver of pregnancy is rare complication which may occur in the third trimester or the period immediately following delivery.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.30 cases per 100,000 person-years
+Peak incidence: 30-40 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute fatty liver of pregnancy (AFLP) is a rare but serious obstetric condition, typically occurring in the third trimester or early postpartum period. Its aetiology is complex and multifactorial, with genetics and environmental factors playing significant roles.
+Risk Factors
+Primiparity:
+First-time mothers are at higher risk for developing AFLP.
+Twin Pregnancy:
+Women carrying twins have an increased likelihood of AFLP possibly due to increased metabolic demands.
+Advanced Maternal Age:
+Women aged 35 years or older may be more predisposed to AFLP.
+Male foetus:
+Some studies suggest that pregnancies with male foetuses have a higher incidence of AFLP, although the reason for this association remains unclear.
+Genetic Factors
+The primary genetic factor implicated in the development of AFLP is a deficiency in long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD), an enzyme involved in mitochondrial fatty acid oxidation. This deficiency can occur due to mutations in the
+HADHA
+gene which encodes the alpha subunit of LCHAD. Mothers who are heterozygous carriers for LCHAD deficiency have an increased risk of AFLP if they carry a foetus affected by LCHAD deficiency.
+Molecular Mechanisms
+In cases where there is a maternal-foetal genotype mismatch regarding LCHAD activity, it's hypothesised that accumulated long-chain fatty acids from the deficient foetus cross into maternal circulation. The mother's liver attempts to metabolise these excess fatty acids, leading to hepatic stress and eventual microvesicular steatosis characteristic of AFLP.
+Environmental Factors
+Although the underlying cause of AFLP is primarily genetic, environmental factors may also contribute to its onset. These include dietary habits, particularly high fat intake, and certain medications such as sodium valproate, tetracycline, and methotrexate which can exacerbate fatty acid oxidation defects.
+Improve
+Pathophysiology
+Acute fatty liver of pregnancy (AFLP) is a rare but serious condition that occurs in the third trimester or early postpartum period. It is characterised by microvesicular fatty infiltration of hepatocytes, leading to hepatic dysfunction and systemic complications. The pathophysiology of AFLP involves several interconnected processes.
+Molecular Mechanisms
+At the molecular level, AFLP is believed to be associated with deficiencies in mitochondrial fatty acid oxidation. This deficiency is typically due to mutations in genes encoding enzymes involved in this metabolic pathway, particularly long-chain 3-hydroxyacyl-coenzyme A dehydrogenase (LCHAD).
+The LCHAD deficiency leads to an accumulation of long-chain fatty acids within hepatocytes as these cannot be fully metabolised. This results in microvesicular steatosis, which is the hallmark histological finding in AFLP.
+Physiological Implications
+Hepatic lipid accumulation disrupts normal liver function, leading to impaired gluconeogenesis and protein synthesis. Consequently, patients may present with hypoglycaemia and coagulopathy.
+The hepatic dysfunction also leads to decreased clearance of bilirubin and bile salts from the blood, resulting in
+jaundice
+and pruritus.
+Furthermore, hepatic insufficiency can result in decreased production of albumin, potentially leading to peripheral oedema and ascites due to hypoalbuminaemia-induced capillary leak syndrome.
+Anatomical Changes
+The increased fat deposition within hepatocytes can cause hepatomegaly. This may be palpable on physical examination or visible on imaging studies.
+In severe cases, the massive hepatic steatosis may lead to hepatic necrosis and failure, manifesting as encephalopathy and multi-organ dysfunction syndrome (MODS).
+Immunological Aspects
+The hepatic injury in AFLP triggers an inflammatory response, leading to the release of cytokines and other inflammatory mediators. This systemic inflammation can contribute to the development of MODS.
+In addition, the increased permeability of the damaged liver may allow bacterial translocation from the gut, potentially leading to bacterial infections and sepsis.
+Improve
+Classification
+Acute fatty liver of pregnancy (AFLP) is classified based on the severity of the disease and its clinical manifestations. The main classification categories include:
+Mild AFLP:
+This is characterised by mild to moderate hepatic dysfunction, with symptoms including
+nausea
+,
+vomiting
+,
+malaise
+and
+abdominal pain
+. Laboratory findings may show modest elevations in transaminases, bilirubin and
+prolonged prothrombin time
+.
+Moderate AFLP:
+Patients present with more pronounced symptoms such as
+jaundice
+, hepatomegaly or ascites. Laboratory abnormalities are more pronounced than in mild AFLP, with higher levels of transaminases and bilirubin, hypoalbuminaemia and coagulopathy.
+Severe AFLP:
+This category is characterised by severe hepatic failure leading to multiorgan dysfunction syndrome (MODS). Symptoms can include encephalopathy, renal failure, disseminated intravascular coagulation (DIC), hypoglycaemia and severe metabolic acidosis. It carries a high maternal and fetal mortality rate.
+In addition to clinical severity-based classification, there's also a histological classification system for AFLP based on liver biopsy findings:
+Grade 1 (mild):
+Microvesicular steatosis affects up to 30% of hepatocytes.
+Grade 2 (moderate):
+Steatosis involves between 30% - 60% of hepatocytes.
+Grade 3 (severe):
+More than 60% of hepatocytes are affected by microvesicular steatosis.
+Note that liver biopsy is rarely performed due to the risk of bleeding in these coagulopathic patients.
+Improve
+Clinical features
+The typical presentation of acute fatty liver of pregnancy (AFLP) is a pregnant woman in the third trimester, usually after 30 weeks gestation, who presents with non-specific symptoms such as
+malaise
+, anorexia and
+nausea
+. This may be accompanied by
+abdominal pain
+, particularly in the right upper quadrant or epigastrium due to hepatic swelling and capsular stretch. Other common features include
+vomiting
+,
+headache
+, polydipsia and polyuria.
+On examination,
+jaundice
+may be present along with hepatomegaly. However, these signs are not always evident despite significant disease. Hypoglycaemia is another feature that can occur due to impaired gluconeogenesis.
+Detailed Features
+Gastrointestinal manifestations:
+These are often the initial symptoms. They include anorexia, nausea, vomiting and abdominal pain. Hepatomegaly may be present but is not always detectable on physical examination.
+Neurological manifestations:
+Encephalopathy may develop as the disease progresses leading to
+confusion
+or altered consciousness level. Other neurological features can include headache and visual disturbances.
+Hepatorenal syndrome:
+AFLP can lead to renal impairment which may manifest as oliguria or anuria with elevated creatinine levels.
+Hematological abnormalities:
+Coagulopathy can occur due to decreased synthesis of clotting factors by the liver. Thrombocytopaenia may also be present.
+Biochemical abnormalities:
+Liver function tests typically show raised transaminases (AST and ALT), bilirubin and alkaline phosphatase along with
+prolonged prothrombin time
+. Hypoglycaemia occurs due to impaired hepatic gluconeogenesis. There may also be hyperuricaemia and lactic acidosis.
+Obstetric complications:
+AFLP is associated with an increased risk of foetal distress, preterm delivery and stillbirth.
+AFLP can rapidly progress to life-threatening complications such as hepatic failure, renal failure, pancreatitis, disseminated intravascular coagulation (DIC) and death if not promptly recognised and managed. A high index of suspicion is therefore required when a pregnant woman presents with non-specific symptoms in the third trimester.
+Improve
+Investigations
+Investigating a patient with suspected acute fatty liver of pregnancy (AFLP) should be approached systematically, starting with first-line investigations before progressing to more specific tests. Early diagnosis is vital in order to initiate appropriate management and improve maternal and foetal outcomes.
+First-Line Investigations:
+Blood Tests:
+These should include full blood count, liver function tests (LFTs), coagulation profile, renal function tests and glucose levels. In AFLP, expect to see elevated liver transaminases, bilirubin and
+prolonged prothrombin time
+. Hypoglycaemia may also be present due to impaired gluconeogenesis.
+Abdominal Ultrasound:
+This can exclude other causes of hepatic dysfunction such as gallstones or obstruction. However, ultrasound findings in AFLP are often non-specific and normal imaging does not rule out the diagnosis.
+If these initial investigations suggest AFLP, further diagnostic evaluation should be undertaken promptly.
+Further Investigations:
+Serum Bile Acids:
+Elevated serum bile acids (>10 µmol/L) can support the diagnosis of AFLP but are not definitive as they can also be raised in intrahepatic cholestasis of pregnancy.
+MRI Abdomen:
+While not routinely performed due to its limited availability in urgent settings, MRI can provide additional information if the diagnosis remains uncertain after initial investigations. It may reveal increased liver echogenicity suggestive of fatty infiltration.
+Liver Biopsy:
+Although rarely performed due to associated risks such as bleeding (especially in a coagulopathic patient), it is considered the gold standard for diagnosing AFLP. Histopathological findings typically show microvesicular fatty infiltration of hepatocytes.
+AFLP is often a clinical diagnosis, made based on the combination of suggestive symptoms, laboratory findings and imaging results. The Swansea criteria can be used to guide diagnosis without the need for liver biopsy. This includes six or more of the following features:
+vomiting
+,
+abdominal pain
+, polydipsia/polyuria, encephalopathy, elevated bilirubin (>14 µmol/L), hypoglycaemia (<4 mmol/L), elevated urate (>340 µmol/L), leucocytosis (>11 x 109/L), ascites or bright liver on ultrasound, elevated transaminases (aspartate aminotransferase >42 IU/L or alanine aminotransferase >39 IU/L), increased creatinine (>150 µmol/L), coagulopathy (prothrombin time >14 s or activated partial thromboplastin time >34 s) and microvesicular steatosis on liver biopsy.
+Improve
+Differential diagnosis
+The differential diagnosis of acute fatty liver of pregnancy (AFLP) primarily includes three conditions: HELLP syndrome, viral hepatitis and cholestasis of pregnancy. These conditions present with similar symptoms such as
+jaundice
+,
+nausea
+,
+vomiting
+and
+abdominal pain
+but have distinct clinical features that aid in their differential diagnosis.
+HELLP Syndrome
+HELLP syndrome is characterised by haemolysis, elevated liver enzymes and low platelet count. While both AFLP and HELLP may present with
+malaise
+, nausea, vomiting and right upper quadrant or epigastric pain, the presence of
+hypertension
+and proteinuria are more suggestive of HELLP syndrome. Notably, these two features are typically absent in AFLP.
+Laboratory findings can help differentiate these conditions. Both disorders demonstrate elevated liver enzymes but the degree of elevation is usually higher in HELLP syndrome. Additionally, thrombocytopenia is a key feature in HELLP syndrome while it is not commonly seen in AFLP.
+Viral Hepatitis
+Viral hepatitis often presents with similar symptoms to AFLP such as jaundice, anorexia and malaise. However, viral hepatitis is typically associated with fever and flu-like symptoms including myalgias and arthralgias which are absent in AFLP.
+The presence of hepatomegaly differentiates viral hepatitis from AFLP which usually does not cause significant hepatomegaly. Serological markers for viral infection such as
+Hepatitis A virus
+,
+Hepatitis B virus
+,
+Hepatitis C virus
+, Epstein-Barr virus or cytomegalovirus should be positive if the cause is viral hepatitis.
+Cholestasis of Pregnancy
+Cholestasis of pregnancy is characterised by pruritus and jaundice, symptoms that may also be seen in AFLP. However, the pruritus in cholestasis of pregnancy typically precedes the onset of jaundice and is often more severe, particularly at night.
+Laboratory findings can help differentiate these conditions. In cholestasis of pregnancy, serum bile acid levels are significantly elevated while liver enzymes may only be slightly increased. In contrast, AFLP is characterised by a marked elevation in liver enzymes with relatively normal bile acid levels.
+Improve
+Management
+The management of acute fatty liver of pregnancy (AFLP) is primarily supportive, with the mainstay being prompt delivery. The following steps outline the specific approach:
+Immediate Stabilisation
+: This involves correction of hypoglycaemia, coagulopathy and electrolyte imbalances. Intravenous glucose may be administered to prevent hypoglycaemia. Fresh frozen plasma or platelets may be given to correct coagulopathy.
+Delivery Decision
+: Delivery should not be delayed beyond 36 weeks gestation and should be expedited in women who are unwell regardless of gestational age. The mode of delivery should be determined by obstetric indications; however, caesarean section may be preferred if there is significant coagulopathy.
+Treatment Post-Delivery
+: Supportive care continues post-delivery with close monitoring and treatment for complications such as renal failure, pancreatitis, infection, or disseminated intravascular coagulation (DIC).
+Consultation and Transfer
+: Consultation with a hepatologist is recommended for severe cases or those with persistent liver dysfunction postpartum. In addition, transfer to a tertiary care centre with experience in managing AFLP may be necessary.
+In terms of pharmacological management:
+Corticosteroids
+: There is no consensus on the use of corticosteroids in AFLP; however, they can be considered for women presenting before 34 weeks gestation to aid fetal lung maturity.
+Heparin Prophylaxis
+: Low molecular weight heparin (LMWH) prophylaxis should be considered due to the increased risk of venous thromboembolism, particularly in the postpartum period.
+Antibiotic Prophylaxis
+: Broad-spectrum antibiotics are recommended if there is evidence of infection or sepsis.
+Long term management includes:
+Genetic Counselling
+: Genetic counselling should be offered as AFLP has been associated with a deficiency in long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD) activity in the fetus, which is inherited in an autosomal recessive manner.
+Future Pregnancies
+: Women who have had AFLP are at risk of recurrence in future pregnancies and should be counseled accordingly. Close antenatal surveillance is advised for subsequent pregnancies.
+Improve
+Gastroenterology
+Acute fatty liver of pregnancy

@@ -1,0 +1,90 @@
+Otitis externa
+Otitis externa
+Otitis externa, commonly referred to as swimmer's ear, is an inflammatory condition affecting the external auditory canal and pinna. It can be classified into acute or chronic, with the former lasting less than six weeks while the latter persists beyond three months. The aetiology of otitis externa encompasses infectious agents (bacterial or fungal), allergic reactions, and dermatologic disorders such as eczema or seborrhoeic dermatitis.
+The clinical presentation typically includes pruritus,
+otalgia
+, otorrhea, aural fullness or
+hearing loss
+, and erythematous oedematous ear canal. Diagnosis is based on history and physical examination findings; however, microbiological evaluation via culture may be necessary in refractory or recurrent cases.
+Management involves addressing predisposing factors alongside topical antimicrobial therapy: antibiotic eardrops for bacterial infections (e.g., fluoroquinolones) and antifungal eardrops for fungal infections (e.g., clotrimazole). In severe cases with significant inflammation or oedema causing occlusion of the external auditory canal, a wick may be inserted to facilitate medication delivery. Systemic antibiotics should be reserved for complicated cases with cellulitis extending beyond the external auditory canal or signs of systemic infection.
+Last updated: 1
+st
+December 2023
+Epidemiology
+Incidence: 500.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Otitis externa
+1
+Acute otitis media
+0.50
+Cholesteatoma
+0.02
+Mastoiditis
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors include
+water exposure (e.g. frequent swimming)
+high humidity
+trauma to the auditory canal (e.g. cotton swab use)
+narrow ear canals
+immunosuppression
+Improve
+Pathophysiology
+Causes of otitis externa include:
+infection
+bacterial:
+Staphylococcus aureus
+,
+Pseudomonas aeruginosa
+fungal: primarily caused by
+Aspergillus
+species and
+Candida albicans
+, are more prevalent in chronic cases
+seborrhoeic dermatitis
+contact dermatitis (allergic and irritant)
+Improve
+Clinical features
+Features
+ear pain
+ear itch
+ear discharge
+Otoscopy findings:
+view may be limited secondary to discharge, debris or swelling
+red, swollen, or eczematous canal
+Improve
+Management
+The recommended initial management of otitis externa is:
+topical antibiotic or a combined topical antibiotic with a steroid
+if the tympanic membrane is perforated aminoglycosides are traditionally not used*
+if there is canal debris then consider removal
+if the canal is extensively swollen then an ear wick is sometimes inserted
+Second-line options include
+consider contact dermatitis secondary to neomycin
+oral antibiotics (flucloxacillin) if the infection is spreading
+taking a swab inside the ear canal
+empirical use of an antifungal agent
+*many ENT doctors disagree with this and feel that concerns about ototoxicity are unfounded
+Improve
+Complications
+Malignant otitis externa
+is more common in elderly diabetics. In this condition, there is extension of infection into the bony ear canal and the soft tissues deep to the bony canal. Intravenous antibiotics may be required.
+Improve
+References
+Clinical Knowledge Summaries - Otitis externa guidelines
+Ear, nose and throat
+Otitis externa

@@ -1,0 +1,244 @@
+Autoimmune hepatitis
+Autoimmune hepatitis
+Autoimmune
+hepatitis
+(AIH) is a chronic, progressive autoimmune disorder affecting the liver. It is associated with the production of
+antinuclear
+(
+ANA
+) and
+smooth muscle
+(SMA) antibodies and high serum immunoglobulin, alongside raised
+transaminase
+levels. AIH occurs more commonly in women and onset is typically between 20-40 years old. It has a prevalence of around 1-2/100000 persons per year affected. Patients typically, if symptomatic, present with
+jaundice
+,
+malaise
+, and up to a third have
+cirrhosis
+. AIH is managed with steroid treatment in symptomatic patients with raised transaminase levels. 10-year survival for AIH is around 82%, with the prognosis being worse if cirrhosis is detected on the initial biopsy.
+Last updated: 16
+th
+May 2024
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Non-alcoholic fatty liver disease
+330.00
+Alcoholic liver disease
+20.00
+Autoimmune
+hepatitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Autoimmune
+hepatitis
+(AIH) is a chronic, idiopathic disease caused by an abnormal immune response against hepatocytes. The exact cause remains unknown, but it's thought to result from a combination of genetic predisposition and environmental triggers.
+Risk Factors
+Genetic Predisposition:
+Certain human leukocyte antigen (HLA) alleles are linked with AIH. HLA-DR3 and HLA-DR4 are associated with type 1 AIH in European and North American populations, while HLA-DRB1*0405 is associated with the same in Japanese patients. Type 2 AIH is commonly linked to HLA-DRB1*1301.
+Gender:
+AIH predominantly affects females, suggesting that sex hormones may play a role in its pathogenesis. The female-to-male ratio is approximately 4:1.
+Age:
+While AIH can occur at any age, there are two peaks of onset: one in childhood and another around the age of 40-50 years.
+Concurrent Autoimmune Diseases:
+Coexistence with other autoimmune diseases such as coeliac disease or thyroiditis increases the risk for developing AIH.
+Underlying Causes
+Viral Infections:
+Viral infections like hepatitis A, B, C and
+E Epstein-Barr virus
+, have been implicated as potential triggers for AIH due to molecular mimicry or bystander activation mechanisms.
+Drugs:
+Certain drugs including minocycline, nitrofurantoin and statins have been reported to trigger AIH. The disease usually resolves upon discontinuation of the drug, but can persist in some cases.
+Environmental Factors:
+Exposure to toxins or chemicals may trigger an abnormal immune response leading to AIH.
+Improve
+Pathophysiology
+Autoimmune
+hepatitis
+(AIH) is a chronic, inflammatory liver disease characterised by the presence of circulating autoantibodies and interface hepatitis on histology. The pathophysiology involves an aberrant immune response directed against hepatocyte antigens, leading to progressive liver inflammation and fibrosis. The immune-mediated destruction of hepatocytes is primarily driven by autoreactive T cells, with the disease phenotype influenced by genetic predispositions and environmental triggers. The breakdown of self-tolerance and the perpetuation of the immune response result in ongoing liver damage and a potential progression to cirrhosis and liver failure if untreated.
+Key Pathogenic Elements:
+Genetic Susceptibility
+Strong association with certain HLA haplotypes, particularly HLA-DRB1*03 and HLA-DRB1*04, which may affect antigen presentation and T cell activation.
+Other non-HLA genes like CTLA-4 and PTPN22 may modify immune regulatory pathways, influencing disease severity and treatment responses.
+Immune Dysregulation
+Loss of immune tolerance to hepatocyte antigens leads to the activation of autoreactive CD4+ and CD8+ T cells.
+Involvement of both the innate and adaptive immune systems, with key roles played by macrophages, dendritic cells, and B cells producing pathogenic autoantibodies (e.g.,
+ANA
+, SMA, LKM-1).
+Environmental Triggers
+Exposure to viruses, drugs, or other environmental factors can initiate or exacerbate the autoimmune process through molecular mimicry or immune dysregulation.
+Epigenetic modifications due to environmental influences may also play a role in disease expression.
+Cytokine and Chemokine Mediated Inflammation
+Elevated levels of pro-inflammatory cytokines such as IFN-γ, TNF-α, and IL-12, which promote inflammation and hepatocyte apoptosis.
+Chemokines such as CXCL10 are involved in the recruitment of T cells to the liver, exacerbating the inflammatory response.
+Pathological Features
+Interface hepatitis, characterised by lymphocytic infiltration and necrosis at the portal-parenchymal interface.
+Fibrosis progressing to cirrhosis if the inflammatory activity is not controlled, often evidenced by bridging fibrosis on liver biopsy.
+Improve
+Classification
+Autoimmune
+hepatitis
+can be classified into two types, based on the presence of specific autoantibodies in the serum.
+Type 1 Autoimmune Hepatitis (AIH-1)
+AIH-1 is characterised by the presence of
+anti-nuclear antibodies
+(
+ANA
+) and/or smooth muscle antibodies (SMA).
+It is the most common type, accounting for approximately 80% of cases.
+AIH-1 can occur at any age but is frequently diagnosed in adolescence or early adulthood. It has a predilection for females.
+Type 2 Autoimmune Hepatitis (AIH-2)
+AIH-2 is defined by the detection of anti-liver kidney microsomal type 1 antibodies (LKM-1) and/or anti-liver cytosol type 1 antibodies (LC-1).
+This type tends to present in children and young adults, with a higher prevalence in girls than boys.
+In both types, hypergammaglobulinemia is usually present. The histological findings include interface hepatitis, lymphoplasmacytic infiltrate with rosette formation and hepatic fibrosis which may progress to cirrhosis if untreated.
+A variant form termed AIH-sclerosing cholangitis overlap syndrome exhibits features of both AIH and primary sclerosing cholangitis. This condition often presents with fluctuating cholestatic liver biochemistry and may show bile duct changes on imaging or histology.
+Note that seronegative autoimmune hepatitis represents a small subset of patients who meet all other criteria for AIH but lack detectable autoantibodies. Diagnosis relies heavily on clinical judgement and exclusion of other causes of chronic hepatitis.
+Improve
+Clinical features
+The presentation of AIH can vary, with up to 25% of patients being
+asymptomatic
+at diagnosis, even some of those with cirrhosis. Up to 50% of patients may be clinically jaundiced, and about 30% have cirrhosis at presentation. Some clinical features include:
+Non-specific symptoms including
+fatigue
+,
+anorexia
+, weight loss, abdominal pain
+amenorrhoea
+.
+Features of cirrhosis including ascites, variceal bleeding etc.
+Pruritus.
+Arthralgias.
+Maculopapular rash.
+Pyrexia
+of unknown origin.
+Raised transaminase levels and immunoglobulin G (IgG).
+The classical picture of AIH is as a chronic disease with raised transaminase levels for at least three months. However, in about 40% of patients AIH may present
+acutely
+, sometimes preceded by a flu like illness.
+AIH is commonly associated with other
+autoimmune diseases
+, and co-presentation with coeliac disease is an important presentation to recognise. This is because in patients with coeliac disease there may be malabsorption of the immunosuppressive medication that is required to treat AIH. The most common autoimmune disorder that AIH is associated with is
+autoimmune thyroid disease
+, but it also may be associated with type 1 diabetes, rheumatoid arthritis, vitiligo, ulcerative colitis, etc.
+Improve
+Investigations
+The diagnosis of AIH relies on a combination of a clinical history and appropriate features on examination, compatible investigation results and the exclusion of other liver diseases. The diagnosis is often not straightforward and requires expert clinical input.
+The key laboratory findings for AIH are:
+Raised serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST).
+Raised serum immunoglobulins, particularly IgG.
+Negative serum tests for viral
+hepatitis
+High titers of circulating autoantibodies. A study published in the Annals of Hepatology noted that
+ANA
+was positive in around 60% of patients, and
+anti-SMA
+was positive in around 70% of patients. It's important to note that the absence of autoantibodies doesn't completely exclude the diagnosis.
+Serum ALP will be normal or only slightly raised.
+Biochemical and immunological blood tests and are insufficient for a definitive diagnosis of AIH, and so
+Liver biopsy
+must be used. Typical features of AIH on liver biopsy include:
+Interface hepatitis - Inflammation of the hepatocytes at the junction of the portal tract and the hepatic parenchyma
+Periportal lymphocytic inflammation
+Hepatocyte swelling
+Necrosis
+A set of
+simplified diagnostic criteria
+for AIH was published in
+Hepatology
+, which are as follows:
+Variable
+Cutoff
+Points
+ANA or SMA
+≥1:40
+1
+ANA or SMA
+≥1:80
+2
+or LKM
+≥1:40
+2
+or SLA
+Positive
+2
+IgG
+>Upper normal limit
+1
+IgG
+>1.10 times upper normal limit
+2
+Liver histology
+Compatible with AIH
+1
+Liver histology
+Typical AIH
+2
+Absence of viral hepatitis
+Yes
+2
+There is a maximum of 2 points for all autoantibodies and a maximum of two points for IgG. A score of ≥6 is classified as probable AIH. and a score of ≥7 is classified as definite AIH.
+Improve
+Differential diagnosis
+AIH can mimic many other liver conditions and it can be difficult to differentiate from other conditions. There are
+no clear pathognomonic features
+and so diagnosis is often based on the exclusion of other diseases. Some differential diagnoses include:
+Alcoholic liver disease
+(ALD). Clinical presentation can often be very similar, with similarly high levels of aminotransferases. However, in ALD, patients will have a strong history of alcohol abuse, there will not be any evidence of autoantibodies, and histological signs will be different.
+Non-alcoholic fatty liver disease
+(NAFLD). It can be difficult to distinguish between NAFLD and AIH as neither has laboratory tests or clinical features that are pathognomonic. However, the presence of autoantibodies will strongly suggest AIH over NAFLD as a diagnosis.
+Chronic
+hepatitis
+C infection. Clinical presentation may be similar, and there may likewise be an elevation of LFTs and rarely patients may also have raised autoimmune antibodies. However, the diagnosis of hepatitis C can be excluded with a viral hepatology screen. On histology, hepatitis C classically features ground-glass hepatocytes which will not be present in AIH.
+Improve
+Management
+The management of Autoimmune
+hepatitis
+(AIH) is primarily aimed at suppressing the overactive immune response, thereby reducing inflammation and fibrosis in the liver. It involves a combination of immunosuppressive therapy and supportive care.
+Immunosuppressive Therapy
+Corticosteroids:
+Prednisolone is the first-line treatment for AIH. It should be initiated as soon as the diagnosis is confirmed. The aim is to achieve biochemical remission (normalisation of liver enzymes), after which the dose can be gradually reduced. If remission is not achieved or side effects are intolerable, consider adding another immunosuppressant.
+Azathioprine:
+This can be added to prednisolone if monotherapy fails or used as a steroid-sparing agent. Azathioprine may also be considered as initial therapy in patients with contraindications to corticosteroids.
+Mycophenolate mofetil:
+This can be used as an alternative to azathioprine in patients who do not respond or are intolerant to azathioprine.
+Treatment of Relapse
+If there's a relapse during tapering or after discontinuation of treatment, re-initiate corticosteroid therapy. Consider long-term low-dose maintenance therapy if relapses occur frequently or are severe.
+Refractory Disease
+In cases resistant to standard therapy, options include increasing the dose of existing drugs, switching to alternative agents such as mycophenolate mofetil or tacrolimus, or using combination therapies.
+Liver Transplantation
+Liver transplantation should be considered for patients with acute liver failure not responding to medical therapy, or those with end-stage liver disease. Post-transplantation, continue immunosuppression to prevent recurrence of AIH.
+Supportive Care
+Address bone health as corticosteroid use can lead to osteoporosis. Consider bisphosphonates in patients at high risk. Vaccinate against hepatitis A and B if not already immune, and ensure up-to-date vaccination status for pneumococcus and annual influenza.
+Improve
+Complications
+Patients who are diagnosed with AIH will need regular follow up and monitoring of disease progression. Most patients with AIH will have a degree of
+fibrosis
+within the liver and will be at risk of progression to
+cirrhosis
+. Cirrhosis, in turn, can lead to the development of:
+Ascites
+Spontaneous bacterial peritonitis
+Haemorrhages (e.g. due to variceal bleeding)
+Hepatic encephalopathy
+Hepatocellular carcinoma
+Patients can also suffer from
+iatrogenic
+complications related to steroid treatment, including osteoporosis, diabetes, hypertension, and opportunistic infections.
+Improve
+Gastroenterology
+Autoimmune hepatitis

@@ -1,0 +1,67 @@
+Animal and human bites
+Animal and human bites
+Animal and human bites are common injuries that doctors encounter in their practice. These bites can result in significant morbidity and mortality if not managed appropriately. Animal bites are usually caused by dogs, cats, and rodents, while human bites are typically inflicted during fights or assaults. The severity of the injury depends on the type of animal or human involved, the location of the bite, and the immune status of the victim.
+The management of animal and human bites involves wound care, prophylactic antibiotics, and tetanus prophylaxis. In some cases, rabies prophylaxis may also be necessary. It is important to obtain a detailed history of the bite, including the type of animal or human involved, the circumstances surrounding the bite, and the immunization status of the victim.
+Last updated: 1
+st
+January 2025
+Clinical features
+History and Physical Examination
+Detailed history of the biting incident, including animal species, provocation, location, time since bite, and any interventions taken.
+Assessment of patient's tetanus immunization status and possible need for prophylaxis.
+Evaluation of the risk for rabies transmission based on animal species and regional prevalence.
+Wound Characteristics
+Puncture wounds: Small entry points with potential for deep tissue involvement and infection.
+Lacerations: Irregular tears in the skin that may involve underlying structures such as tendons, ligaments, or bones.
+Crush injuries: Compression forces causing damage to soft tissue structures and possible fractures.
+Avulsions: Tissue loss due to tearing or shearing forces.
+Surrounding Skin Changes
+Erythema: Redness surrounding the wound indicative of inflammation or infection.
+Oedema: Swelling due to fluid accumulation in response to injury or infection.
+Cellulitis: Diffuse spreading infection characterized by erythema, oedema, warmth, and tenderness extending beyond the immediate wound margins.
+Systemic Manifestations
+Fever: Elevated body temperature (>38Â°C) indicating systemic infection or sepsis.
+Lymphadenopathy: Enlarged lymph nodes proximal to the bite site suggestive of local spread of infection.
+Improve
+Management
+Animal bites
+The majority of bites seen in everyday practice involve dogs and cats. These are generally polymicrobial but the most common isolated organism is
+Pasteurella multocida
+.
+Management
+cleanse wound. Puncture wounds should not be sutured closed unless cosmesis is at risk
+current BNF recommendation is co-amoxiclav
+if penicillin-allergic then doxycycline + metronidazole is recommended
+Human bites
+Human bites commonly cause multimicrobial infection, including both aerobic and anaerobic bacteria.
+Common organisms include:
+Streptococci spp.
+Staphylococcus aureus
+Eikenella
+Fusobacterium
+Prevotella
+Co-amoxiclav is recommended, as for animal bites.
+The risk of viral infections such as HIV and hepatitis C should also be considered.
+Improve
+Complications
+Infections
+Local: Abscess formation, cellulitis, tenosynovitis, septic arthritis, and osteomyelitis.
+Systemic: Bacteremia leading to sepsis or disseminated infections such as endocarditis or meningitis.
+Neurovascular Injuries
+Nerve damage: Paresthesia, loss of motor function, or neuropathic pain due to direct trauma or secondary compression from oedema or infection.
+Vascular compromise: Haemorrhage from lacerated vessels or impaired blood flow resulting in ischemia or tissue infarction.
+Fractures and Dislocations
+Direct trauma from the bite force causing fractures or dislocations that may require surgical intervention for stabilization and repair.
+Retained Foreign Bodies
+Tooth fragments, hair, dirt, or other debris within the wound increasing the risk of infection and complicating wound healing.
+Allergic Reactions
+Immediate hypersensitivity reactions (urticaria, angioedema) to animal saliva proteins.
+Delayed hypersensitivity reactions (contact dermatitis) to topical antimicrobial agents used for wound care.
+Psychological Sequelae
+Post-traumatic stress disorder (PTSD), anxiety, and depression following a traumatic biting incident requiring mental health support and counselling.
+Improve
+References
+Department of health - HIV post-exposure prophylaxis
+Clinical Microbiology Reviews - Microbiology of Animal Bite Wound Infections
+Infectious diseases
+Animal and human bites

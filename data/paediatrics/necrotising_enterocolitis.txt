@@ -1,0 +1,145 @@
+Necrotising enterocolitis
+Necrotising enterocolitis
+Necrotising enterocolitis (NEC) is a neonatal emergency with high morbidity and mortality.  By definition, NEC is fairly self-explanatory: death (necrotising) of intestinal tissue (entero-) due to inflammation (colitis). Whilst NEC can rarely affect term infants or adults, this article focuses on classical NEC which is an inflammatory intestinal disease in premature neonates. Incidence of NEC is quoted at 1 in 1000 live births and predominantly affects preterm and low birth weight neonates.
+Last updated: 1
+st
+January 2025
+Aetiology
+NEC is known to be multifactorial in aetiology.
+Some studies have shown NEC to be more common in:
+Very low birth weight neonates
+Preterm neonates
+Growth restricted neonates
+Black infants
+Certain drugs have been associated with an increased risk of developing NEC including:
+Neonatal administration of:
+Antibiotics
+H
+2
+blockers
+Indomethacin
+Antenatal use of:
+Co-amoxiclav
+Aggressive feeding and genetic predisposition are other reported risk factors for NEC.
+Improve
+Pathophysiology
+The pathophysiology of NEC is not fully understood.  But perhaps the most significant contributing factor in the development of NEC is intestinal immaturity. The characteristic differences in neonatal intestines compromise multiple gastrointestinal protective factors:
+Reduced gastric acid production
+Reduced intestinal barrier
+Immature immune function
+Immature digestion
+Immature motility
+This intestinal immaturity is compounded by abnormal intestinal microbiota due to the frequent use of antibiotics in neonatal care.  This culminates in an excessive inflammatory response leading to tissue injury and intestinal necrosis.
+Whilst antibiotics are a core feature in the management of NEC, no particular causative organism has been found.
+Improve
+Clinical features
+Classical presentation of NEC is a premature neonate developing feeding intolerance, vomiting, lethargy and abdominal distension which progresses into bloody stools at around 9 days of age.
+Examination findings might include:
+Shiny distended abdomen
+Periumbilical erythema
+Abdominal tenderness
+Bilious gastric aspirate
+Shock
+Neonates can deteriorate from showing early clinical signs to intestinal perforation and peritonitis within hours.
+The Bell et al staging criteria based around clinical signs and symptoms, radiological evidence and viscous perforation are widely accepted measure of disease severity.
+Severity
+Stage
+Signs
+Radiological Signs
+Suspected NEC
+Stage I
+Lethargy, apnoea, temperature instability, abdominal distention, vomiting, heme-positive stool
+Radiology may be normal or show intestinal dilation
+Proven NEC
+Stage II
+Similar to stage I with abdominal tenderness, abdominal wall discolouration, abdominal mass, mild metabolic acidosis
+Intestinal dilation, ileus, ascites, pneumatosis intestinalis
+Advanced NEC
+Stage III
+Critically ill neonate with hypotension, bradycardia, peritonitis, respiratory and metabolic acidosis, disseminated intravascular coagulation
+Pneumoperitoneum
+Improve
+Investigations
+Imaging
+Abdominal radiography is central to NEC diagnosis. Radiological findings which are pathognomic of NEC include:
+Pneumatosis intestinalis
+Seen as gas in the bowel wall on x-ray
+Portal vein gas
+Other radiographical signs which can support a diagnosis of NEC include:
+Dilated bowel loops
+Absence of bowel gas
+Persisting gas-filled bowel loops
+Pneumoperitoneum can be seen in advance NEC.
+Ultrasound has also been used to aid the diagnosis of NEC.
+Bloods
+As symptoms and signs of NEC are quite non-specific it is important to undertake initial screening bloods including:
+Inflammatory markers
+Blood gas
+Routine biochemistry
+Blood cultures
+Bloods can also be useful in monitoring neonates with NEC. A rapid decrease in neutrophil count, platelet count or white cell count or persistently high C-reactive protein can indicate disease progression.
+Improve
+Differential diagnosis
+Diagnosis is challenging as there are no reliable universally accepted diagnostic criteria for NEC and often definitive diagnosis via visualisation of necrosis or histopathological evidence is not available.
+Given NEC's non-specific early presenting symptoms the most common differential diagnosis is sepsis.
+Similarities:
+Lethargy
+Feeding intolerance and vomiting
+High or rising serial C-reactive protein level
+Shock
+Differences:
+The characteristic radiological findings of NEC are not present in sepsis
+Another differential diagnosis when assessing neonates with NEC is infectious enteritis
+Similarities:
+Frequent stool which may be blood-stained
+Abdominal distention
+Differences:
+The characteristic radiological findings of NEC are not present in infection enteritis
+Spontaneous intestinal perforation of the newborn
+Similarities:
+More common in very low birthweight neonates
+Abdominal distention
+Differences:
+Abscence of pneumatosis intestinalis on abdominal xray
+Blue discolouration of abdominal wall
+Occurs in first week of life
+Cows milk protein intolerance may be misdiagnosed as NEC.
+Similarities:
+Abdominal distention
+Increased passage of stool including bloody stool
+Feeding intolerance
+Association with parenteral nutrition
+Differences:
+Rare in neonates less than 6 weeks old
+Improve
+Management
+Although there are no national guidelines on the management of NEC, an expert review in the New England Journal of Medicine outlined the management as:
+Abdominal decompression via nasogastric tube insertion
+Bowel rest via total parenteral nutrition
+Broad-spectrum intravenous antibiotics
+Generally consisting of a penicillin, gentamicin and metronidazole
+Surgical management options (if perforation is suspected or the infant is deteriorating)
+Peritoneal drain
+Laparotomy with resection of necrotised bowel and enterostomy with stoma creation
+As NEC is a neonatal emergency, management of affected infants is based in a neonatal intensive care unit.
+Prevention is thought to be key given the diagnostic challenges around NEC and the high morbidity and mortality once NEC is established. The most effective and safe prevention options are breast-milk feeding and nonaggressive enteral feeding. Probiotics have been shown to be of benefit but are associated with increased incidence of sepsis in this patient group. There is evidence for antenatal steroids being of benefit but given safety implications, this preventative approach has not been widely adopted.
+Improve
+Complications
+Complications from NEC in the short term include:
+Death (20-30%).
+Intestinal perforation (12%) and peritonitis with shock
+Sepsis (9%)
+Postoperative wound infections (6%)
+Intraabdominal abscess formation (2.3%)
+Longer-term complications include:
+Short gut syndrome (9%), the most serious complication of NEC.
+Short bowel syndrome is characterised by malabsorption following intestinal resection
+Intestinal strictures (9%)
+Systemic inflammation in NEC has also been associated with a significantly increased risk of neurodevelopmental delay.
+Improve
+Prognosis
+A diagnosis of NEC has been found to increase neonatal inpatient admission duration by 20-60 days. Neonates requiring surgical intervention have been found to have worse outcomes and the highest death rate. The mortality rate from NEC is estimated at 20-30%.
+-
+Improve
+Neonatology
+Necrotising enterocolitis

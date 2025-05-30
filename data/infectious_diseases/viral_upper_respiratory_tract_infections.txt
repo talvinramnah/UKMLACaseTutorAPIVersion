@@ -1,0 +1,162 @@
+Viral upper respiratory tract infections
+Viral upper respiratory tract infections
+Viral upper respiratory tract infections (URTIs) constitute a significant proportion of general practice consultations. Predominantly caused by
+Rhinoviruses
+, these infections also implicate other pathogens such as
+Influenza viruses
+,
+Coronaviruses
+, and
+Adenoviruses
+. The clinical presentation often includes symptoms like nasal congestion,
+sore throat
+,
+cough
+, and
+fever
+.
+The primary method for diagnosis is through clinical examination and patient history. Laboratory testing is generally not required unless complications are suspected or the condition is severe. Management primarily involves symptomatic treatment with analgesics, antipyretics, and decongestants.
+Antibiotics should be avoided due to the viral nature of URTIs unless there's a clear indication of bacterial superinfection. Prevention strategies include hand hygiene and vaccination where available, particularly for influenza.
+Understanding the pathophysiology, common causative organisms, clinical features, diagnostic approach and management strategies of URTIs aids in delivering appropriate care to patients presenting with these common conditions.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 30000.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Viral upper respiratory tract infections
+1
+Acute bronchitis
+0.15
+Acute sinusitis
+0.08
+Allergic rhinitis
+0.07
+Acute tonsillitis
+0.02
+Pneumonia
+0.02
+Croup
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Viral upper respiratory tract infections (URTIs) are primarily caused by a variety of viral pathogens. Understanding the risk factors and underlying causes is essential for effective management and prevention.
+Viruses
+Rhinoviruses
+: The most common cause of URTIs, particularly prevalent in autumn and spring.
+Coronaviruses
+: Includes strains such as SARS-CoV-2, which can lead to severe respiratory illness.
+Influenza viruses
+: Seasonal outbreaks, with higher incidence in winter months.
+Respiratory syncytial virus (RSV)
+: Affects mainly young children and elderly patients.
+Adenoviruses
+: Associated with conjunctivitis and pharyngitis alongside respiratory symptoms.
+Risk Factors
+Age
+: Infants, young children, and elderly individuals have an increased susceptibility due to immature or weakened immune systems.
+Immunocompromised states
+: Conditions such as HIV/AIDS, cancer treatments, or organ transplantation increase vulnerability to viral infections.
+Chronic diseases
+: Patients with chronic obstructive pulmonary disease (COPD), asthma, diabetes mellitus, or cardiovascular diseases are at higher risk.
+Lifestyle factors
+: Smoking, excessive alcohol consumption, poor nutrition, and lack of physical activity can compromise immune function.
+Crowded environments
+: Schools, daycare centres, nursing homes, and public transportation facilitate person-to-person transmission of viruses.
+Epidemiological Factors
+Seasonality
+: Many viral URTIs exhibit seasonal patterns; for instance, influenza peaks during winter months in temperate regions.
+Geographical distribution
+: Certain viruses may be more prevalent in specific regions due to climatic conditions or population density.
+The interplay between these risk factors and underlying causes contributes significantly to the occurrence and spread of viral upper respiratory tract infections. Understanding these elements aids in the development of targeted preventive measures and therapeutic interventions.
+Improve
+Pathophysiology
+Many viruses can cause infection at this site, the most common of which are rhinoviruses (50-80%) and corona viruses. Other viruses include adenoviruses, influenza, parainfluenza, respiratory syncytial virus and enteroviruses. Terms which are often used to describe URTIs include 'cold' which is a non-specific term used by the general public usually to describe an illness with the main symptom of
+nasal discharge
+and
+sneezing
+, and 'coryzal symptoms' which is usually used by medical professionals and encompasses a wider range of symptoms as detailed below.
+Improve
+Clinical features
+Symptoms
+The most common symptoms are
+nasal discharge
+,
+nasal obstruction
+,
+sore throat
+,
+headache
+,
+cough
+,
+tiredness
+and general
+malaise
+. Other symptoms include facial pain,
+earache
+,
+hoarseness
+and nausea.
+Signs
+Erythema or injection of the back of the throat
+Nasal discharge
+Tender
+cervical lymphadenopathy
+Mild
+fever
+Assessment
+Examination of throat, ears and cervical lymph nodes
+Respiratory examination to exclude
+pneumonia
+, significant wheeze etc
+Assess hydration status, especially in young children and the elderly
+Basic observations (heart rate, blood pressure, respiratory rate, temperature, oxygen saturations) - if significantly abnormal may need to consider other causes e.g. sepsis
+Useful criteria for assessment
+Children under 5 - NICE fever traffic light system
+FeverPAIN score - used to assess likelihood of Strep infection in adult with sore throat and guide decision making re antibiotic usage
+Improve
+Investigations
+Investigations
+Generally not needed in healthy adults
+May be required in less straightforward cases where more serious infections may present with similar symptoms e.g. baby/infant with
+fever
+, immunocompromised adult
+Viral throat swabs may be needed in certain cases e.g. adult with suspected influenza being admitted to hospital for infection control purposes
+Improve
+Management
+Management
+Supportive management only is usually sufficient
+Admission for supportive care may be required in frail or elderly patients with low physiological reserve or multiple comorbidities
+An uncomplicated cold in a healthy adult usually resolves in 7-10 days but may last up to 3 weeks
+Provide reassurance that condition is self-limiting and recovery will not be aided by antibiotics
+Advise paracetamol, fluids, rest and over the counter remedies if appropriate
+Improve
+Complications
+Complications
+Sinusitis
+Otitis media
+Secondary bacterial infection e.g.
+pneumonia
+Exacerbations of pre-existing respiratory conditions such as asthma, or COPD
+Viral wheeze, bronchiolitis and
+croup
+in infants and young children
+Improve
+References
+Clinical Knowledge Summaries - Common cold
+Infectious diseases
+Viral upper respiratory tract infections

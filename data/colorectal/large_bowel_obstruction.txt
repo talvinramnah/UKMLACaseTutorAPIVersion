@@ -1,0 +1,229 @@
+Large bowel obstruction
+Large bowel obstruction
+A large bowel obstruction (herein, LBO) occurs when there is a blockage in the large bowel, either partial or complete, leading to an interruption of the normal flow of intra-luminal gastric contents. It is an important condition to identify, as it requires urgent medical or surgical treatment, particularly in the case of a complete obstruction. If left untreated, it can lead to significant morbidity, with a mortality of up to 40% if there is subsequent colonic perforation, therefore is an important cause of an acute abdomen to identify and promptly manage.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 6.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Paralytic ileus
+8.33
+Small bowel obstruction
+3.33
+Large bowel obstruction
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The causes of LBO are well known and therefore in any case of suspected obstruction, clear history taking, including identification of likely risk factors, needs to be elicited.
+Carcinoma
+Accounts for approximately 60% of LBO
+LBO is the initial presenting complaint of colonic malignancy in approximately 30% of cases
+This is particularly the case in more distal colonic and rectal tumours, as these tend to obstruct earlier due to the smaller lumen diameter
+Common sites of malignancy
+Rectosigmoid (70%)
+Rectal (10%)
+Anal (5%)
+Other (15%)
+Right sided obstructions are rare due to large diameter of the lumen and liquid consistency of faecal material (note: the features of these obstructions will mimic a distal
+small bowel obstruction
+more)
+Volvulus
+Volvulus is the most common
+benign
+cause of a LBO (10%)
+Volvulus of the sigmoid colon is the most frequent
+Twisting of the bowel on the mesentery leads to ischaemia and subsequent increased risk of perforation
+Diverticular disease
+Approximately 5% of cases
+Normally this occurs in the sigmoid colon
+Repeated bouts of diverticulitis can lead to subsequent scarring and muscular hypertrophy, eventually leading to formation of strictures and subsequent obstruction
+Post-operative adhesions
+Prior abdominal surgery can lead to post-operative adhesions and subsequent obstruction
+Adhesions are far more likely to cause small bowel obstructions, however can infrequently cause LBO also
+Less common
+Hernia with colonic incarceration (2.5%)
+Benign strictures (inflammatory, ischaemic, radiation-induced, anastomotic)
+Severe faecal impaction
+Intussusception
+Intra-luminal foreign body
+Improve
+Pathophysiology
+Obstruction of the large bowel means that no gastric contents or gas can pass through, therefore increased colonic pressure leads to dilation of the bowel proximal to the site of obstruction. With ongoing dilation and pressure, the blood flow to the bowel through the mesenteric system is reduced, therefore resulting in a compromised blood supply to the affected segment. As a result, this can lead to bowel mucosal ulceration, full thickness wall necrosis, and potentially subsequent perforation.
+Perforation of the bowel results in release of faecal matter into the peritoneal cavity. This can lead to widespread bacterial infection and subsequent sepsis. The most common sources of infection in such an event include:
+Escherichia coli
+Enterococcus faecalis
+Bacteroides species
+With ongoing increases in bowel colonic pressure, there is compression of intestinal veins and lymphatics, leading to worsening bowel wall oedema. Such oedema further causes compression of intestinal arterioles and capillaries, leading to worsening of bowel ischaemia. Ongoing ischaemia leads to subsequent anaerobic metabolism, and lysis of the ischaemic cells causes increase in lactic acid and release of intracellular potassium, potentially resulting in metabolic acidosis and hyperkalemia.
+Furthermore, with ongoing oedema, there is altered secretion of electrolytes and fluids into the colon lumen, leading to fluid shifts and subsequent hypotension and further electrolyte disturbances.
+Improve
+Clinical features
+In the case of a LBO, it is important to not only identify the clinical features suggesting an obstruction, but also potentially the features of the
+cause
+of the obstruction itself.
+Symptoms of bowel obstruction
+Absence of passing flatus (90%) or stool (80%)
+In complete obstruction this is absolute
+Passing of some flatus or faeces may suggest a partial obstruction
+Abdominal pain
+(65%)
+Continuous, rather than intermittent and colicky
+Usually infra-umbilical region
+Sudden relief of pain followed by progressive worsening may suggest perforation
+Abdominal distention (65%)
+Nausea and vomiting are late symptoms
+If present, is likely intermittent and faeculent in nature
+More suggestive of
+proximal
+LBO
+Signs of bowel obstruction
+Abdominal distention (65%)
+Tender abdomen
+Diffuse tenderness
+Peritonism (if vascular compromise or perforation)
+Guarding
+Rebound tenderness
+Abdominal rigidity
+Signs suggestive of shock (hypotension, tachycardia, fever)
+Hypoactive bowel sounds
+May be normal at presentation, but may become more quiet and eventually silent in complete obstruction
+Due to cessation of peristalsis
+Clinical features suggestive of etiology
+Colonic malignancy
+Unexpected weight loss and loss of appetite
+History of rectal bleeding mixed with stools
+History of altered bowel habits
+Volvulus
+More rapid symptom onset
+May have a previous history of prior volvulus
+Sigmoid diverticulitis
+History of recurrent episodes of abdominal pain and tenderness
+Left lower quadrant pain
+Fever
+Palpable mass
+Improve
+Investigations
+The key investigation in making the diagnosis of LBO is abdominal imaging, usually via plain radiography or computed tomography (CT) scanning. However, it is important to also order a number of routine laboratory tests also to assess for the presence of metabolic or electrolyte abnormalities which can result from the LBO itself, or to assess for signs of potential complications (e.g. perforation and subsequent sepsis).
+Routine laboratory tests
+Full blood count
+Microcytic anaemia may be present as a result of colonic malignancy
+Presence of leukocytosis may suggest peritonitis and sepsis
+Electrolytes and urea
+May be normal in early stages of obstruction
+Hypokalaemia may be present in late stages due to fluid shifts and disruption in normal exchange of electrolytes in the colon
+Blood gases
+Low serum bicarbonate levels, low blood pH and high lactic acid levels may be suggestive of intestinal ischaemia
+Liver function tests
+To exclude biliary or hepatic pathology as cause of
+abdominal pain
+Usually normal in LBO
+Carcinoembryonic antigen (CEA)
+To
+consider
+, not normally first line
+Elevated CEA is suggestive of malignancy, and may guide diagnosis
+Plain X-Ray
+BMJ best practice recommend this as a first-line form of imaging, although some may proceed straight to CT due to higher sensitivity and ability to identify aetiology of obstruction more easily
+Plain X-ray has a sensitivity of 84% and a specificity of 72% for identifying LBO
+Will reveal marked colonic distention
+Normal diameter limits are 10-12 cm for caecum, 8 cm for ascending colon, and 6.5 cm for recto-sigmoid
+Diameter greater than this is diagnostic of obstruction
+May reveal particular aetiologies:
+Sigmoid volvulus : distended sigmoid colon in right upper quadrant, dilated inverted U-shaped loop of colon projected towards the right side of abdomen
+Colonic volvulus: 'coffee bean sign', whereby apposition of the medial walls of the dilated bowel form the cleft of the coffee bean, and the lateral walls form the outer walls of the coffee bean
+Presence of free intra-peritoneal gas indicates colonic perforation
+Computed tomography
+UptoDate recommend proceeding to abdominal CT scanning in patients who are haemodynamically stable and not requiring
+immediate
+intervention, due to the high sensitivity and specificity for identifying obstruction (over 90% each) as well as identifying the aetiology of obstruction itself
+Features on CT scanning suggestive of LBO are a transition point with proximal dilated colon of greater than 8cm, and collapsed distal colon to this point
+Provides more information regarding aetiology of obstruction, as plain x-ray can miss the diagnosis of volvulus in approximately 1/3 of cases
+Contrast enema
+Contrast enemas are particularly useful to differentiate between a mechanical LBO and a pseudo-obstruction
+Will define the level of obstruction
+Contrast will flow freely to the point of obstruction, with minimal or no flow past the site of obstruction
+In colonic volvulus, an enema may reveal a 'bird's beak sign', with a gradual narrowing/tapering of contrast up to the point of obstruction
+In some circumstances, the enema may be therapeutic by dislodging faeces in the case of faecal impaction
+This investigation is
+contraindicated
+in cases of perforation due to leakage of contrast into the abdominal cavity and subsequent irritation
+Improve
+Differential diagnosis
+Small bowel obstructions
+In 15% of cases, a LBO may present with features more classical of a SBO. This is because 15% of people have an incompetent ileo-caecal valve, therefore this will decompress the large bowel into the distal small bowel, therefore resembling a distal SBO instead
+Similarities
+Both can present with similar symptoms e.g.
+abdominal pain
+, tenderness, vomiting and
+constipation
+Both have similar risk factors and aetiology (e.g. volvulus, adhesions, malignancy)
+Differences
+SBO tends to present more acutely, whilst in LBO the majority of cases will present with a more gradual onset of symptoms
+In SBO, abdominal pain tends to be intermittent and colicky, whilst in LBO the pain is more continuous
+Vomiting is more common in SBO and is bilious in nature, whereas this is a late sign in LBO and tends to be faeculent when present
+Abdominal tenderness is more focal in SBO, whilst generally is more diffuse in LBO
+Pseudo-obstruction
+Also known as 'Ogilvie's syndrome', where the clinical features are similar to a LBO, however there is absence of a mechanical or anatomical cause
+Is likely caused by an impairment of the autonomic nervous system and resulting functional obstruction
+Similarities
+Difficult to differentiate from a LBO due to large cross-over in symptom profile
+Both can present with abdominal pain, nausea, vomiting, constipation and abdominal distention
+Differences
+Paradoxically, patients with pseudo-obstruction may present with diarrhoea (approximately 40% of patients) and this is uncommon in LBO
+Generally the differentiating feature will be absence of mechanical obstruction on abdominal imaging, with evidence of proximal colonic dilatation
+Often there is a history of a recent severe illness, injury or surgery e.g. severe chest infection, orthopaedic trauma, electrolyte imbalance
+Toxic megacolon
+Similarities
+Both may present with abdominal pain and distention
+Both will show evidence of colonic dilatation on abdominal imaging, although in toxic megacolon this is usually of the entire colon whilst in LBO is usually only proximal to the obstruction
+Differences
+Usually toxic megacolon is associated with a
+Clostridium difficile
+infection, therefore likely a history of antibiotic use
+Patients are usually very unwell with signs of shock (e.g. fever, tachycardia, hypotension, poor capillary refill), while this is usually only present in LBO with perforation
+Normally will present with diarrhoea, whilst this is uncommon in LBO
+Toxic megacolon affects all age groups, whilst LBO is far more common in the elderly population
+Improve
+Management
+The urgency of management largely depends on the occurrence or possibility of  large bowel perforation with the subsequent risk of faecal peritonitis. In some cases, conservative management may be all that is required. However, the management depends primarily on the aetiology of the bowel obstruction in the first place.
+Supportive measures
+BMJ best practice recommend that for patients where bowel perforation is not suspected, and if the cause of obstruction itself does not require surgery, conservative management for up to 72 hours can be trialled, after which further management may be required if there is no resolution
+However, according to UptoDate, approximately 75% of patients eventually require surgical intervention
+Patients with LBO should remain nil by mouth until resolution of the obstruction, both to prevent worsening of the obstruction but also  to prepare for possible surgery
+Intravenous fluids will be required to prevent dehydration, as well as to correct any potential electrolyte imbalances
+Nasogastric tube insertion
+Required to decompress the bowel
+To reduce flow of gas and gastric contents further towards the site of obstruction
+Antibiotics
+Will be required if any evidence of perforation, or pre-operatively if surgery is required
+Surgery
+If there is any overt peritonitis or evidence of bowel perforation, emergency surgery is necessary
+In general, surgery will involve thorough irrigation of the abdominal cavity, resection of perforated segment and ischaemic bowel, and address the underlying cause of the obstruction itself
+Management according to aetiology of obstruction
+Malignancy
+According to BMJ best practice, the presence of malignancy requires surgical treatment as first-line management
+Involves both relieving the bowel obstruction as well as resecting the malignant tumour
+However, in high-risk patients who may not tolerate surgery, colonic stenting may be used instead as a form of bowel decompression and as palliation, as approximately half of patients presenting with an LBO due to malignancy are not be candidates for curative surgery
+Sigmoid volvulus
+In the case of sigmoid volvulus, endoscopic decompression is first-line, using either flexible or rigid sigmoidoscopy
+If there is evidence of ischaemia, perforation or mucosal gangrene, surgical management is still required  in the first instance
+UptoDate suggests that for low-risk patients who are likely to tolerate surgery, resection of the affected bowel is recommended due to the high rate of recurrence (approximately 50%)
+Diverticular disease
+Often surgical management is required due to stricture formation
+According to BMJ best practice, these patients will usually undergo either a Hartmann's procedure, or a resection and primary anastomosis, with/without a proximal diverting stoma.
+Improve
+Colorectal surgery
+Large bowel obstruction

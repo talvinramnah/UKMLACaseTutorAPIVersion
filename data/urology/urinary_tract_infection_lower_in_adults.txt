@@ -1,0 +1,222 @@
+Urinary tract infection (lower) in adults
+Urinary tract infection (lower) in adults
+Urinary tract infection
+(UTI) is a common condition in adults, with lower UTI being the most prevalent form. It is caused by bacterial invasion of the urinary tract and can present with symptoms such as
+dysuria
+, frequency, urgency, and
+suprapubic pain
+. Diagnosis is based on clinical presentation and may be confirmed by urine culture.
+Treatment involves antibiotics, with the choice depending on guidelines, local resistance patterns and patient factors. In complicated cases, imaging studies may be necessary to identify underlying structural abnormalities.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 3500.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 20:1
+Condition
+Relative
+incidence
+Urinary tract infection
+(lower) in adults
+1
+Acute pyelonephritis
+0.03
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of lower urinary tract infections (UTIs) primarily involves bacterial invasion into the urethra and bladder. The most common pathogen is
+Escherichia coli
+, accounting for approximately 80% of uncomplicated infections. Other organisms include
+Klebsiella pneumoniae, Proteus mirabilis, Staphylococcus saprophyticus,
+and
+Enterococcus faecalis.
+Risk Factors
+Sexual Activity:
+Sexual intercourse can facilitate the introduction of bacteria into the urethra, particularly in women due to anatomical proximity to the anus.
+Female Anatomy:
+Shorter urethral length in females increases risk as it provides a shorter route for bacteria to reach the bladder.
+Post-Menopausal Women:
+Reduced oestrogen levels result in changes in urinary tract mucosa, increasing susceptibility to infection.
+Pregnancy:
+Physiological changes during pregnancy such as urinary stasis and vesicoureteral reflux can predispose to UTIs.
+Catheterisation:
+Indwelling catheters bypass natural defence mechanisms and provide a direct route for bacterial entry into the bladder.
+Males with Prostatic Hypertrophy or Prostatitis:
+These conditions can cause urinary stasis or incomplete bladder emptying, increasing UTI risk.
+Dysfunctional Voiding:
+Conditions causing incomplete bladder emptying such as neurogenic bladder or voiding dysfunction can increase UTI risk.
+Anatomical Abnormalities:
+Structural abnormalities of the urinary tract such as vesicoureteral reflux or urinary tract stones can predispose to recurrent UTIs.
+Immunosuppression:
+Conditions leading to a weakened immune system, such as diabetes or HIV, increase susceptibility to infections including UTIs.
+Underlying Causes
+Bacterial Virulence Factors:
+Certain characteristics of bacteria such as adhesins, flagella and pili enhance their ability to attach to uroepithelial cells and resist host defences, thus causing infection.
+Host Defences:
+Impaired host defences due to conditions like immunosuppression can lead to increased susceptibility to UTIs.
+Incomplete Bladder Emptying:
+Any condition that results in incomplete bladder emptying can create an environment conducive for bacterial multiplication, thereby causing infection.
+Improve
+Pathophysiology
+Urinary tract infections (UTIs) are primarily caused by the ascent of bacteria from the periurethral area into the bladder, a process that occurs in several stages. The first stage involves colonisation of the distal urethra by uropathogens, typically
+Escherichia coli
+, but also other organisms such as
+Klebsiella pneumoniae
+,
+Proteus mirabilis
+, and
+Enterococcus faecalis
+.
+Adherence and Invasion:
+The second stage involves adherence of uropathogens to uroepithelial cells via fimbriae or pili, which are hair-like appendages on the bacterial surface. This adherence prevents the bacteria from being washed out during micturition.
+The invading bacteria then overcome host defences such as urinary flushing, high osmolarity, low pH and presence of urinary inhibitors that prevent bacterial growth.
+Bacteria can invade uroepithelial cells where they can hide from host immune responses and antibiotics. Intracellular bacteria can form biofilms or intracellular bacterial communities (IBCs) that protect them from host defences.
+Bacterial Growth and Ascension:
+Proliferation within the bladder follows, leading to cystitis. Bacterial growth is facilitated by iron acquisition mechanisms such as siderophores.
+If untreated, some bacteria ascend to the kidneys via ureters causing
+pyelonephritis
+. Flagella-mediated motility aids in this ascension.
+Inflammatory Response:
+The host inflammatory response is triggered by recognition of pathogen-associated molecular patterns (PAMPs) on bacteria by pattern recognition receptors (PRRs) such as Toll-like receptors on uroepithelial cells.
+Activation of PRRs leads to production of pro-inflammatory cytokines and chemokines, which recruit immune cells to the site of infection. This results in inflammation and can cause symptoms such as
+dysuria
+and frequency.
+Resolution:
+If the host immune response is effective, neutrophils kill bacteria leading to resolution of infection. However, if the immune response is ineffective or if there are resistant bacteria, persistent or recurrent infections may occur.
+Improve
+Clinical features
+Features
+dysuria
+urinary frequency
+urinary urgency
+cloudy/
+offensive smelling urine
+lower abdominal pain
+fever
+: typically low-grade in lower UTI
+malaise
+In elderly patients,
+acute confusion
+is a common feature.
+Improve
+Investigations
+When investigating a suspected lower
+urinary tract infection
+(UTI) in adults, it is essential to follow a structured approach. This begins with first-line investigations and progresses to further investigations if necessary.
+First-line Investigations
+Urine dipstick:
+This is the initial test for diagnosing a UTI. It is simple, non-invasive and provides rapid results. The presence of nitrites and/or leucocytes in urine strongly suggests a UTI.
+Midstream urine (MSU) culture:
+If the dipstick test is positive or if there are persistent symptoms despite negative dipstick results, an MSU should be sent for microscopy, culture and sensitivity (MC&S). This aids in identifying the causative organism and its antibiotic susceptibility profile. According to Public Health England guidelines, an MSU culture is also indicated in pregnant women even if the dipstick test is negative.
+Further Investigations
+If symptoms persist despite appropriate treatment or recur soon after treatment completion, further investigations may be warranted to identify any underlying abnormalities or complications such as bladder stones or renal abscesses.
+Ultrasound scan of the urinary tract:
+An ultrasound can detect structural abnormalities such as hydronephrosis, renal calculi or bladder diverticula that could predispose to recurrent infections.
+Cystoscopy:
+In cases of recurrent lower UTIs without obvious cause on imaging, cystoscopy may be considered to evaluate for bladder pathology such as interstitial cystitis or bladder tumours.
+The choice of further investigation should be guided by individual patient factors including age, sex, symptom severity and frequency of recurrence. For example, post-menopausal women are more likely to develop recurrent UTIs due to changes in the urinary tract associated with oestrogen deficiency. In such cases, a renal ultrasound may be more appropriate as a first-line investigation.
+It is important to note that lower UTIs can often be diagnosed and managed based on clinical features and urine dipstick results alone, without the need for further investigations. However, if symptoms persist or recur despite treatment, or in at-risk populations such as men and pregnant women, further investigations should be considered to identify any underlying cause or complication.
+Improve
+Differential diagnosis
+In the differential diagnosis of lower
+urinary tract infection
+(UTI) in adults, three conditions often considered are
+interstitial cystitis
+,
+sexually transmitted infections (STIs)
+, and
+urolithiasis
+. These conditions may present with symptoms similar to a UTI, making accurate diagnosis critical.
+Interstitial Cystitis
+This chronic condition is characterised by bladder pressure and pain, with occasional pain in the pelvic area. Unlike a UTI, interstitial cystitis does not present with bacteriuria or pyuria. The absence of these key findings can help differentiate it from a UTI.
+The frequency and urgency of urination in interstitial cystitis are often more severe than those seen in UTIs. Additionally, patients may experience nocturia and pain during sexual intercourse.
+Sexually Transmitted Infections (STIs)
+Gonorrhoea and Chlamydia trachomatis are STIs that can mimic the symptoms of a UTI. Both may present with
+dysuria
+, but unlike UTI, they usually do not cause increased
+urinary frequency
+or urgency.
+N. gonorrhoeae
+and
+C. trachomatis
+infections typically include urethritis, characterised by mucopurulent discharge from the urethra. This symptom is not observed in UTIs.
+The presence of risk factors for STIs such as new or multiple sexual partners should raise suspicion for these infections over a UTI.
+Urolithiasis
+Patients with urolithiasis commonly present with acute onset flank pain that may radiate to the lower abdomen or groin, a symptom not typically associated with UTIs.
+While both conditions can cause hematuria, in urolithiasis it is often macroscopic and accompanied by nausea and vomiting. In contrast, UTIs usually present with microscopic hematuria.
+The presence of renal colic, characterised by waves of severe pain, is a distinguishing feature of urolithiasis and is not seen in UTIs.
+Improve
+Management
+Non-pregnant women
+local antibiotic guidelines should be followed if available
+CKS/2012 SIGN guidelines recommend trimethoprim or nitrofurantoin for 3 days
+send a urine culture if:
+aged > 65 years
+visible or
+non-visible haematuria
+Pregnant women
+if the pregnant woman is symptomatic:
+a urine culture should be sent in all cases
+should be treated with an antibiotic for 7 days
+first-line: nitrofurantoin (should be avoided near term)
+second-line: amoxicillin or cefalexin
+trimethoprim is teratogenic in the first trimester and should be avoided during pregnancy
+asymptomatic bacteriuria in pregnant women:
+a urine culture should be performed routinely at the first antenatal visit
+NICE recommend an immediate antibiotic prescription of either nitrofurantoin (should be avoided near term), amoxicillin or cefalexin. This should be a 7-day course
+the rationale of treating asymptomatic bacteriuria is the significant risk of progression to
+acute pyelonephritis
+a further urine culture should be sent following completion of treatment as a test of cure
+Men
+an immediate antibiotic prescription should be offered for 7 days
+as with non-pregnant women, trimethoprim or nitrofurantoin should be offered first-line unless prostatitis is suspected
+NICE state:
+'Referral to
+urology
+is not routinely required for men who have had one uncomplicated lower
+urinary tract infection
+(UTI).'
+Catherised patients
+do not treat asymptomatic bacteria in catheterised patients
+if the patient is symptomatic they should be treated with an antibiotic
+a 7-day, rather than a 3-day course should be given
+Improve
+Complications
+Urinary tract infections (UTIs), particularly lower UTIs, can lead to a range of complications if not promptly diagnosed and treated. The following are the most common complications:
+Cystitis:
+This is an inflammation of the bladder, often caused by a bacterial infection. Symptoms include frequent urination, discomfort during urination and
+lower abdominal pain
+.
+Pyelonephritis
+:
+This is an inflammation of the kidney tissue and renal pelvis, usually due to bacterial infection. It may result from untreated cystitis or other factors such as vesicoureteral reflux. Symptoms include
+fever
+, flank pain and nausea/vomiting.
+Sepsis:
+If the causative organism (
+E.coli
+,
+Klebsiella
+,
+Proteus
+, etc.) enters the bloodstream, it can cause sepsis - a severe systemic response to infection that can be life-threatening.
+Renal abscesses:
+These are collections of pus in or around the kidneys resulting from uncontrolled infection. They may require surgical intervention for drainage.
+Urosepsis:
+This is a severe systemic response specifically to a
+urinary tract infection
+that has spread into the bloodstream. It requires immediate treatment with broad-spectrum antibiotics and supportive care in an intensive care setting.
+In addition to these acute complications, recurrent lower UTIs can lead to chronic kidney disease (CKD) over time. CKD is characterised by progressive loss of renal function that may eventually necessitate dialysis or kidney transplantation.
+Furthermore, UTIs during pregnancy pose additional risks including preterm labour, low birth weight and increased perinatal mortality rates.
+Improve
+Urinary tract infection
+Urinary tract infection (lower) in adults

@@ -1,0 +1,253 @@
+Graves' disease
+Graves' disease
+Graves' disease is an autoimmune condition resulting in the overproduction of thyroid hormones. This is due to the formation of antibodies to thyroid-stimulating hormone (TSH). It is the most common cause of hyperthyroidism in developed countries.
+In addition to general manifestations of an overactive thyroid, around 30% of patients with Graves' disease will also display extrathyroidal manifestations, including orbitopathy, acropachy and pretibial myxoedema. These extrathyroidal manifestations don't occur with other causes of hyperthyroidism.
+Last updated: 24
+th
+April 2023
+Epidemiology
+Incidence: 50.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 6:1
+Condition
+Relative
+incidence
+Graves' disease
+1
+Subacute (De Quervain's) thyroiditis
+0.24
+Toxic multinodular
+goitre
+0.14
+Toxic thyroid nodule (adenoma)
+0.04
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Graves' disease is an autoimmune condition of the thyroid gland however the cause of this autoimmunity is unclear. Evidence suggests it is caused by genetic factors (80%) in combination with the environment (20%).
+No single gene defect is responsible, but instead, it has been shown to have a complex pattern of inheritance involving many different gene regions each offering modest effects individually.
+Risk factors include:
+Positive family history
+Female sex (â™€:â™‚ = 8:1)
+Smoking
+Tobacco specifically increases the risk of orbitopathy.
+Graves' disease is often associated with other autoimmune diseases, including:
+Type 1 diabetes mellitus
+Addison's disease
+Pernicious anaemia.
+Improve
+Pathophysiology
+Graves' disease is an autoimmune thyroid disease in which the body produces IgG antibodies to the thyroid-stimulating hormone (TSH) receptor.
+These antibodies bind to TSH receptors found on thyroid follicular cells within the thyroid gland, causing chronic stimulation. Hence, this is a type II hypersensitivity reaction.
+The follicular cells are responsible for the production of thyroid hormone. Therefore, this hyperstimulation results in:
+Excessive production of thyroid hormone (T3 and T4)
+Hypertrophy of the thyroid gland
+Hyperplasia of thyroid follicular cells
+Subsequent signs and symptoms of hyperthyroidism and the presence of a
+goitre
+.
+The pathophysiology of the extrathyroidal manifestations (including orbitopathy and dermopathy) is less well established. It is hypothesised that the TSH receptor is also expressed on fibroblasts found in retro-orbital and dermal tissues and so the antibodies can bind here and produce extrathyroidal clinical features.
+Orbital fibroblasts subsequently proliferate, synthesise hyaluronic acid and differentiate to form adipocytes.
+This all results in ophthalmopathy with exophthalmos.
+Dermal fibroblast stimulation results in deposition of glycosaminoglycans in connective tissue.
+This results in pretibial myxoedema.
+Improve
+Clinical features
+Patient with Graves' disease present with a combination of thyroidal features and extrathyroidal features. The latter are specific to Graves' disease and are not present with other causes of hyperthyroidism.
+General hyperthyroidism signs and symptoms:
+Metabolic:
+Heat intolerance
+:
+due to increased metabolism leading to higher body temperature.
+Weight loss
+:
+caused by higher metabolic rate and accelerated metabolism.
+Increased appetite:
+in 90% this is in the absence of weight gain.
+Excessive
+sweating
+:
+must be differentiated from 'hot flushes' due to oestrogen deficiency in post-menopausal women.
+Cardiac:
+Palpitations
+:
+this includes atrial fibrillation (20%) or other supraventricular tachycardias, especially in older patients.
+Tachycardia
+Atrial fibrillation:
+a cause of palpitations, especially in older patients.
+Hypertension
+Heart failure:
+thyrotoxic cardiomyopathy, especially in the elderly.
+Excessive nervous stimulation:
+Anxiety
+:
+a feeling of nervousness and trembling.
+Tremor
+:
+usually fine.
+Other:
+Palpable thyroid:
+smooth, diffusely and uniformly enlarged thyrotoxic (excess production of thyroid hormone)
+goitre
+.
+Oligomenorrhoea
+Extrathyroidal manifestations specific to Graves' disease:
+Eye disease (30%):
+upper eyelid retraction, exophthalmos, ophthalmoplegia, eye pain, tearing, diplopia, photophobia, blurred vision.
+Pretibial myxoedema (3%):
+waxy, discoloured induration of the skin on the anterior aspect of the lower legs.
+Thyroid acropachy (1%):
+clubbing of fingers and toes with soft tissue swelling due to sub-periosteal formation of new bone.
+Improve
+Investigations
+NICE 2019 guidelines state that step 1 is to test for thyroid dysfunction. Then, if hyperthyroidism is confirmed, step 2 comprises further testing for Graves' disease.
+Tests for thyroid dysfunction and their results in hyperthyroidism due to Graves' disease:
+Thyroid stimulating hormone (TSH):
+low.
+Free thyroxine (fT4):
+high.
+Free triiodothyronine (fT3):
+high.
+Consider repeating these tests if symptoms worsen or new symptoms develop (at least 6 weeks from the previous test).
+Specific tests for Graves' disease:
+TSH receptor antibodies (TRAbs):
+present in Graves' disease. This test has a sensitivity of over 97% and specificity of over 98%.
+Technetium scan of thyroid gland:
+considered if TRAbs are negative.
+NICE suggests that once hyperthyroidism is confirmed, imaging is only considered if a discrete thyroid nodule is palpated. Imaging options include:
+Ultrasound scan:
+assesses the size, vascularity and presence of nodules. In Graves', an enlarged, hypervascular thyroid is seen, with nodules in around 15% of Graves' patients.
+Radioactive iodine scan:
+uneven uptake indicates the presence of a nodule, diffuse and high uptake suggests Graves', low uptake suggests thyroiditis.
+To assess for thyroid eye disease:
+Examine
+visual fields, acuity and eye movements.
+MRI
+or
+CT
+scans can confirm the diagnosis (especially if subclinical).
+To assess for cardiac complications:
+Perform an
+ECG.
+Improve
+Differential diagnosis
+-
+Toxic nodular
+goitre
+Similarities: hyperthyroidism.
+Differences: palpable nodular goitre, absence of extrathyroidal manifestations and thyroid receptor antibodies.
+Subacute thyroiditis (de Quervain)
+Initial transient hyperthyroidism followed by hypothyroidism, usually resolving in a few months.
+Similarities: hyperthyroidism.
+Differences: systemic febrile illness, painful thyroid, raised C-reactive protein, absence of thyroid receptor antibodies.
+Gestational hyperthyroidism
+During the first trimester, high levels of hCG stimulate the TSH receptor.
+Similarities: hyperthyroidism.
+Differences: usually subclinical but can be overt (more likely if hyperemesis gravidarum), absence of thyroid receptor antibodies.
+TSH-producing pituitary adenoma
+Similarities: hyperthyroidism.
+Differences: MRI shows pituitary tumour, absence of thyroid receptor antibodies, normal or raised TSH.
+Iodine-induced hyperthyroidism
+Following iodine exposure (e.g. radiographic contrast, amiodarone).
+Similarities: hyperthyroidism.
+Differences: history of iodine exposure, absence of thyroid receptor antibodies.
+Inflammatory eye conditions, myasthenia gravis
+Similarities:
+proptosis
+, ophthalmoplegia, photophobia, diplopia.
+Differences: clinically euthyroid, often unilateral eye signs.
+Postnatal thyroiditis
+An initial transient hyperthyroid period usually followed by a transient hypothyroid period.
+Similarities: hyperthyroidism (in the initial phase).
+Differences: absence of thyroid receptor antibodies.
+Thyrotoxicosis
+factitia
+Ingestion of exogenous thyroid hormone (mistaken ingestion of excess, or a symptom of Munchausen syndrome).
+Similarities: hyperthyroidism.
+Differences: goitre usually absent, no thyroid receptor antibodies.
+Improve
+Management
+In 2019, NICE produced guidelines on how to manage Graves' disease in adults and children. Treatment options include radioactive iodine, a course of antithyroid drug therapy or surgery. The choice of treatment depends on factors including age, pregnancy, the likelihood of inducing remission and concerns about thyroid malignancy or compression (detailed below).
+Management options in adults:
+ÃŸ-blockers
+For rapid control of hyperthyroidism symptoms, including
+palpitations
+,
+tachycardia
+,
+anxiety
+, and
+heat intolerance
+.
+E.g. propranolol.
+Radioactive iodine
+Offer as first-line definitive treatment, unless antithyroid drugs are likely to achieve remission or it is unsuitable.
+It may be unsuitable due to pregnancy, attempts to conceive within the next 4-6 months, presence of active eye disease, or concerns about compression or malignancy.
+Patients often become hypothyroid, thus may require replacement therapy.
+Antithyroid drugs
+Offer a 12-18 month course as first-line definitive treatment if it is likely to achieve remission, or if radioactive iodine and surgery are unsuitable.
+Remission is the continuation of euthyroid status after withdrawal of antithyroid drugs and occurs in around 50% of Graves' patients. Remission is more likely in mild and uncomplicated Graves' disease.
+Examples include carbimazole (first-line) and propylthiouracil.
+Surgery
+Total thyroidectomy offered as first-line definitive treatment if concerns about compression or malignancy, or radioactive iodine and antithyroid drugs unsuitable.
+Consider if antithyroid drugs have been tried but hyperthyroidism persisted or relapsed.
+Risks: recurrent laryngeal nerve damage, hypoparathyroidism.
+Patients become hypothyroid, thus require replacement therapy.
+Putting the guidelines into practice
+Overall, NICE states radioactive iodine should be offered as first-line definitive treatment for most patients with Graves' disease, as it results in better long-term outcomes and is more cost-effective than antithyroid drugs.
+Also, the exposure to radiation involved does not result in a clinically significant increase in absolute cancer risk.
+However, there is a greater risk of triggering thyroid eye disease.
+Important exceptions to using radioactive iodine first-line include:
+Pregnancy
+Attempts to conceive within the next 4-6 months
+Presence of active eye disease
+Concerns about compression or malignancy.
+In these cases, it must be considered whether surgery or antithyroid drug therapy is the most appropriate option.
+Additionally, patients with very mild uncomplicated Graves' disease are likely to respond particularly well to antithyroid drugs, and so drug treatment could be equally as appropriate as radioactive iodine in these patients.
+Place of care
+Patients should be managed in secondary care, however, antithyroid drugs and ÃŸ-blockers can be started in primary care whilst patients await specialist care.
+Management in children and young people:
+Antithyroid drugs
+Usually offered as first-line definitive treatment for at least 2 years (or possibly longer).
+Refer to paediatric
+endocrinology
+.
+Improve
+Complications
+If left untreated, Graves' disease can have a range of serious complications.
+Early complications include:
+Atrial fibrillation
+More likely over 40 years and may be the presenting feature of hyperthyroidism.
+Can result in thromboembolic events and stroke.
+Pregnancy-related issues
+These include miscarriage, pre-term birth, thyroid dysfunction in the foetus, poor foetal growth, pre-eclampsia and maternal heart failure.
+Sight-threatening orbitopathy
+Problems include corneal ulcers and optic neuropathy.
+Rare and usually occurs within one year of diagnosis.
+Late complications include:
+Osteoporosis
+The degree of bone mineral loss is proportional to the duration in which the hypothyroidism is left untreated.
+Congestive heart failure
+Occurs more frequently in the elderly.
+High-output failure can occur due to thyrotoxic cardiomyopathy.
+An emergency complication is:
+Thyroid storm
+Rare, but life-threatening. Emergency care is required.
+A sudden and significant rise in thyroid hormone levels results in fever, profuse
+sweating
+,
+diarrhoea
+, vomiting, delirium, profound weakness, seizures, jaundice, a substantial increase in heart rate, blood pressure and body temperature, and coma.
+Improve
+References
+Clinical Knowledge Summaries - Graves' disease: management
+Endocrinology
+Graves' disease

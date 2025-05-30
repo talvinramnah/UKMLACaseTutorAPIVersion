@@ -1,0 +1,347 @@
+Hepatitis B
+Hepatitis B
+Hepatitis
+B (HBV) is a viral disease which primarily affects the liver, manifesting as either acute or chronic disease. Whilst a preventative vaccine is available, HBV still remains a major global health concern, with an estimated 250 million people around the world carrying the disease. HBV related liver disease results in approximately 600,000 deaths globally per year, and while rates are dropping, it still poses a significant risk of morbidity and mortality to those infected.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.80 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Hepatitis
+A
+1.50
+Hepatitis B
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Hepatitis
+B is caused by infection with the hepatitis B virus, and this can occur via a number of modes of transmission. There are a number of strongly related risk factors which are key in the transmission of the hepatitis B virus.
+Modes of transmission
+Peri-natal exposure in a neonate born to a mother infected with HBV (vertical transmission)
+Transmission of the HBV occurs most frequently during childbirth due to infected bodily fluids
+Can also occur in-utero via trans-placental transmission
+Mother-to-child transmission can occur in >90% of cases if active and passive immunisation is not performed, therefore this is key in a pregnant woman with known infection
+Sexual transmission
+Occurs via transmission of infected bodily fluids
+Most frequently occurs in men who have sex with men, sex workers, or people who have multiple sexual partners
+Percutaneous transmission
+This is most well known in intravenous drug users who share needles and syringes, however it can also occur following tattooing, piercings and acupuncture
+Very infrequently, transmission can occur following blood transfusion or post organ transplantation. However, this is now extraordinarily rare due to stringent screening and testing requirements
+Improve
+Pathophysiology
+Hepatitis
+B is an enveloped, icosahedral, partially double-stranded DNA virus. Once a person becomes infected with HBV, the consequential liver damage is majorly due to host immune-mediated mechanisms, with a minor component being due to direct cytotoxic liver damage by the virus itself.
+Cycle of infection
+When the hepatitis B virion initially attaches to the membrane of the hepatocyte, the replication cycle is initiated. The HBV genome replicates via reverse transcription, resulting in the release of new HBV DNA strands. These new strands can either repeat the cycle by re-entering the hepatocytes, or be secreted as complete independent virions.
+Host immune response
+As the hepatocytes become infected with HBV, the host immune system activates to cause cytotoxic T-cell mediated lysis of such infected cells
+While this helps to control the infection by destroying infected hepatocytes, it also causes significant hepatic injury
+CD4+ T-cells activate CD8+ T-cells to release inflammatory byproducts, such as interferon-gamma and tumour necrosis factor-alfa (TNF-a), which help to clear the HBV DNA, but also initiate a repetitive process of inflammation, regeneration and fibrosis
+Direct cytotoxic damage
+HBV is not actually cytopathic, as in, it does not cause lysis of the host cell simply due to viral invasion itself
+Therefore, in most cases, this is not the primary mechanism which causes hepatic damage
+The only known time when HBV becomes cytopathic is in a condition called fibrosing cholestatic hepatitis, a condition which occurs in liver transplant patients with recurrent HBV infection
+Phases of HBV
+There are four known phases in the typical disease course of hepatitis B: immune tolerance, immune clearance, immune control and immune escape.
+Immune tolerance
+This occurs in the very early stages of HBV infection, whereby significant HBV replication is occurring and HBV DNA levels are high, but there is not yet any evidence of hepatic damage
+The lack of hepatic damage at this point is attributed to mechanisms which lead to ineffective cytotoxic T-cell mediated lysis of infected liver cells
+Immune clearance
+Also known as immune-active phase
+Spontaneous clearance of HBeAg, whilst the HBV DNA levels remain high but are decreasing
+At this stage, hepatic damage is occurring due to T-cell mediated lysis of hepatocytes, leading to moderate-severe inflammation and fibrosis
+Immune control
+This stage tends to signify clinical remission, whereby liver function test figures (e.g. ALT, AST) and HBV DNA levels normalise
+In this phase, the HBV virus no longer replicates due to host immune system control, or the host may spontaneous clear and lead to resolution of infection
+Immune escape
+This occurs when the HBV escapes and begins the replication cycle again
+Liver damage due to host immune responses occurs again during this phase
+Improve
+Clinical features
+As HBV can manifest as either acute or chronic disease, or progress from acute to chronic disease, there are a variety of clinical features which may present. Furthermore, HBV exists as a spectrum, where the severity of clinical features can vary between people. It is not well understood as to why some patients will have more severe presentations compared to others, and this is not always correlative with the viral load at the time.
+It is important to keep in mind that the clinical features of HBV are not distinct compared to other causes of acute and chronic liver disease, therefore the presence of risk factors for developing HBV need to be identified (these are explained further below in the aetiology section). At least one (or more frequently multiple) risk factors are usually present to clue towards the diagnosis.
+Acute
+hepatitis
+B
+Asymptomatic
+Majority of patients with acute HBV are in fact asymptomatic (70%)
+Jaundice
+(30%)
+Patients >30 years old are more likely to be icteric
+Abdominal pain (30%)
+Located primarily in right upper quadrant
+Tenderness to palpation
+Nausea
+and/or
+vomiting
+(30%)
+Hepatomegaly
+(rare)
+Flu-like illness (sometimes described as serum sickness-like syndrome)
+Fever/chills
+Malaise
+Lethargy
+Arthralgia
+Fulminant acute liver failure (extremely rare, <0.5%)
+Jaundice
+Altered mental state (e.g. confusion, lethargy, drowsiness, stupor comatose)
+Asterixis
+Symptoms of raised intracranial pressure from cerebral oedema (e.g. headache, sluggish pupillary response, systemic hypertension and bradycardia, seizures)
+Chronic hepatitis B
+Asymptomatic
+Similarly to acute HBV, most people with chronic HBV are also asymptomatic
+Only 30-50% of patients will have a past history of acute hepatitis symptoms
+Usually will remain asymptomatic until complications develop (e.g.
+hepatocellular carcinoma
+,
+cirrhosis
+, liver failure)
+Non-specific symptoms
+Fatigue
+Anorexia
+Weight loss
+Weakness
+Malaise
+Symptoms of chronic liver disease
+Palmar erythema
+Spider angiomas (the number and size of spider angiomata correlate with increasing severity of liver disease)
+Asterixis
+Easy bruising (reduced production of clotting factors in liver)
+Symptoms of cirrhosis and portal hypertension
+Ascites (transudative, due to increased pressure in hepatic portal vein)
+Hepatomegaly (however the cirrhotic liver can also be normal sized or small, with a firm and nodular consistency)
+Splenomegaly
+Peripheral oedema
+Caput medusae (dilated umbilical vein due to portal hypertension)
+Extra-hepatic manifestations (10-20%)
+Serum sickness-like syndrome (fever, arthralgia, malaise, lethargy)
+Polyarteritis nodosa
+Glomerular disease (membranous nephropathy)
+Improve
+Investigations
+When the clinical features suggest liver disease, whether acute or chronic, the majority of investigations initially go towards identifying the extent of liver disease and the cause.
+Liver function tests
+Alanine aminotransferase (ALT) + aspartate aminotransferase (AST)
+Acute viral
+hepatitis
+: raised >25 times the upper limit of normal
+Active chronic HBV: mildly raised (about 2x the upper limit of normal)
+Acute flares/exacerbations of chronic HBV: raised >10 times the upper limit of normal
+Chronic HBV carriers: usually normal
+Alkaline phosphatase (ALP) + gamma-glutamyl transpeptidase (GGT)
+AST and ALT are characteristic of hepatocellular injury, whereas ALP and GGT are characteristic of cholestatic injury
+In HBV infection, the ALT and AST are expected to be raised much further than the ALP and GGT
+AST:ALT ratio
+Characteristically, the AST:ALT ratio is elevated significantly in alcoholic liver disease, however it can also be raised in HBV infection
+In patients with
+cirrhosis
+due to
+viral hepatitis
+, the AST is usually greater than the ALT, however the ratio does not normally exceed two
+Hepatitis serology
+Hepatitis B serology can be difficult to interpret, therefore it has been summarised simply into the table below
+Hepatitis B surface antigen (HBsAg)
+HBsAg will
+only
+be positive in current infection, whether acute or chronic
+Acute: will appear 1-10 weeks after acute exposure
+Chronic: persistently raised for >6 months
+Hepatitis B surface antibody (Anti-HBs)
+Tends to persist for life, therefore even people with previous infection will be positive for anti-HBs
+Anti-HBs positivity also exists in people following vaccination and confers their immunity
+Hepatitis B core antibody (Anti-HBc)
+The hepatitis B core antigen (HBcAg) is expressed by infected hepatocytes, not used in the vaccination
+Therefore, anti-HBc will only be present in a previous or current infective state (never post-vaccination)
+IgM is the first antibody made to fight a new infection, therefore will be the predominant antibody in acute HBV. IgG is associated with a longer-term reaction and therefore will predominate in chronic HBV
+It is important to note that IgM anti-HBc may be seen in acute exacerbations of chronic hepatitis B, or up to 2-years after acute HBV
+HBsAg
+Anti-HBc
+Anti-HBs
+Susceptible
+Negative
+Negative
+Negative
+Previous vaccination
+Negative
+Negative
+Positive
+Previous infection
+Negative
+Positive
+Positive
+Acute HBV
+Positive
+IgM positive
+Negative
+Chronic HBV
+Positive
+IgG positive
+Negative
+Serum HBV DNA
+Clinically these are used to identify if a patient is a candidate for anti-viral therapy
+Appropriate candidates should have active liver disease and a high HBV DNA titre
+Will be monitored throughout therapy to assess the response to anti-viral therapy
+Full blood examination
+Ordered as part of initial investigations and for monitoring over course of disease
+Usually normal except in complications of disease
+Post-GIT bleeding from portal hypertension
+Reduced haemoglobin
+Reduced mean corpuscular volume (microcytic anaemia)
+Normocytic anaemia may also be seen in anaemia of chronic disease (normal mean corpuscular volume, reduced haemoglobin)
+Reduced platelets may be seen in portal hypertension
+Urea, electrolytes and creatinine
+Usually will be normal
+Hyponatraemia may be seen in severe ascites due to volume overload and fluid retention (dilutional hyponatraemia)
+In patients with hepatorenal syndrome as a result of cirrhosis, disturbances may be seen due to reduced renal perfusion
+Raised creatinine
+Raised urea
+Synthetic liver function
+A complication of liver disease can be reduced capacity in the synthetic function of the liver
+The liver is responsible for production of albumin and coagulation factors, therefore ongoing liver damage will cause reduction in the capability of the liver to produce these
+Serum albumin
+Reduced
+Coagulation profile
+Elevated prothrombin time and INR
+Liver ultrasound
+This should not be part of the initial set of investigations, rather for ongoing observation and monitoring
+Ultrasound should be considered in patients with known chronic hepatitis B to evaluate liver fibrosis and cirrhosis, and to monitor for development of subsequent
+hepatocellular carcinoma
+Monitoring
+Liver function tests every 3-6 months when in a chronic state, more frequently if any evidence of acute exacerbation
+Liver ultrasound every 6-months if chronic infection +/- cirrhosis, or if high risk (e.g. relative with hepatocellular carcinoma, long-term infection)
+Improve
+Differential diagnosis
+The symptom profile for HBV is non-specific and presents similarly to a number of other causes of liver disease. Therefore, the diagnosis tends to reveal itself via identification of risk factors for HBV and diagnostic
+hepatitis
+serology.
+Hepatitis A
+/C/D/E
+Similarities
+May present with an identical symptom profile
+Similar risk profile (e.g. sharing needles, syringes, sexual intercourse, tattoos)
+Differences
+Differentiated by presence of hepatitis A/C/D/E positive viral serology
+Note that hepatitis D can only occur in the presence of existing HBV, therefore it is a dual diagnosis
+Hepatitis A also shares a similar risk profile but is more common after travel abroad to a developing country with poorer sanitation and hygiene practices
+Alcoholic hepatitis
+Similarities
+May present with identical symptom profile
+Differences
+History of long-term and heavy alcohol consumption
+AST will be significantly raised compared to ALT
+Negative hepatitis serology (unless concurrent infection)
+Auto-immune hepatitis
+Similarities
+Similar symptom and sign profile
+Differences
+Negative hepatitis serology
+Raised auto-antibodies (e.g. anti-nuclear antibody, anti-smooth muscle antibody)
+More common in women
+May have concurrent auto-immune diseases also present
+Ascending cholangitis
+Similarities
+Similarly can present with
+right upper quadrant pain
+, tenderness
+jaundice
+and fever
+Differences
+Tend to have a history of cholelithiasis or cholecystitis, rather than a risk profile for hepatitis B
+ALP and GGT will usually be raised more than AST and ALT (cholestatic picture)
+Improve
+Management
+Acute HBV
+The management of acute HBV is mainly supportive, as the risk of progression to chronic infection is relatively low (<5%)
+There is no evidence to suggest that active treatment of acute HBV is beneficial in majority of cases
+According to UptoDate and BMJ best practice, there are certain criteria which should be met before active treatment for acute infection is given:
+Severe coagulopathy (INR >1.5)
+Persistent symptoms for >4 weeks
+Marked
+jaundice
+(bilirubin >3mg/dL)
+Presence of ascites or encephalopathy
+Drugs used are either entecavir or tenofovir
+Used until HBsAg clearance is confirmed on serology
+If having liver transplant for fulminant hepatic failure, BMJ best practice recommend continuing this treatment indefinitely
+Liver transplant should be considered in all patients with fulminant hepatic failure, as without transplant there is a significantly high risk of mortality
+Chronic HBV
+Anti-viral therapy is not used in all patients with chronic HBV, and some of the indications for treatment according to UptoDate and BMJ best practice include:
+Acute liver failure
+Decompensated cirrhosis
+Compensated cirrhosis + HBV DNA >2000IU/mL
+Patients receiving concurrent immunosuppressive therapy
+Hepatocellular carcinoma
+Anti-viral therapy
+Includes interferon alfa 2b, peginterferon alfa 2a, nucleoside analogues (e.g. entecavir, lamivudine) and nucleotide analogues (e.g. tenofovir, adefovir)
+According to BMJ best practice, the recommended first-line treatments are entecavir, tenofovir or peginterferon alfa 2a (if no cirrhosis), and entecavir or tenofovir (if cirrhosis present)
+The goal of treatment is to reduce the amount of hepatic dysfunction and achieve seroconversion from HBsAg-positive to negative, as well as keep serum HBV DNA to non-detectable serum levels
+Improved long-term outcomes are associated with greater amounts of HBV DNA suppression, reducing the risk of developing
+liver cirrhosis
+and hepatocellular carcinoma (although not eliminating such a risk)
+Monitoring of treatment
+HBV DNA 3-monthly until undetectable
+Liver function tests 3-monthly
+HBsAg yearly
+Other recommendations
+Screening for HCC development
+UptoDate recommend screening 6-monthly if at high risk for HCC development
+High risk patients include those with cirrhosis, asian men and women over the age of 40 and 50-years old respectively, those with a family history of HCC, and the presence of super-infection with
+hepatitis
+D
+Avoidance of hepatotoxins
+If possible, patients with chronic HBV should remain abstinent, or at least minimise consumption of alcohol
+This is because heavy alcohol consumption is a risk factor for worsening disease and further increasing the risk of developing hepatocellular carcinoma
+Furthermore, other medications which can damage the liver should also be avoided if possible (e.g. paracetamol, amoxicillin-clavulanate), or at least have the dose reduced
+Vaccinations
+If not already immunised, vaccinations against
+hepatitis A
+should be given
+Yearly influenza vaccinations are also recommended
+Liver transplantation
+Unfortunately, the only definitive treatment for severe decompensated cirrhosis caused by HBV is liver transplantation
+All patients whom are heading down this path need to be referred for early evaluation
+Improve
+Complications
+The three main complications associated with HBV infection are fulminant liver failure,
+liver cirrhosis
+and development of
+hepatocellular carcinoma
+.
+Fulminant hepatic failure
+The risk of developing this is low, occurring in less than 0.5% of cases
+Tends to occur as a result of acute HBV, however can occur after a long and protracted case of chronic HBV
+Liver transplant is the only definitive treatment for this complication, otherwise the risk of mortality is significant
+Cirrhosis
+Liver cirrhosis occurs when progressive inflammation and regeneration leads to significant hepatic fibrosis, distorting the normal architecture of the liver and resulting in formation of nodules
+Not only does cirrhosis alter the structural architecture of the liver, it also results in an impairment in the functional capacity of the liver including:
+Reduced synthesis of coagulation factors
+Reduced albumin production
+Reduced capacity for gluconeogenesis
+Once advanced, liver cirrhosis is irreversible and therefore management is aimed at reducing the complications of the condition and preventing further deterioration
+Hepatocellular carcinoma
+Chronic HBV infection accounts for approximately 50% of cases of HCC
+The risk of HCC is raised in patients with chronic HBV infection, with or without evidence of liver cirrhosis. Although, those with cirrhosis are certainly at a higher risk than those without
+It is thought that the
+hepatitis
+B virus itself exerts a direct carcinogenic effect on hepatic cells, as well as causing chronic state of inflammation, regeneration and fibrosis
+Anti-viral treatment appears to reduce the risk, where the lower the serum levels of HBV DNA, the lower the risk of developing HCC
+Improve
+References
+NICE - 2013 Chronic hepatitis B guidelines
+Green Book - Hepatitis B guidelines
+Infectious diseases
+Hepatitis B

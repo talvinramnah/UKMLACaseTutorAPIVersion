@@ -1,0 +1,114 @@
+Dupuytren's contracture
+Dupuytren's contracture
+Dupuytren's contracture has a prevalence of about 5%. It is more common in older male patients and around 60-70% have a positive family history
+Last updated: 4
+th
+September 2023
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Several aetiological factors and risk enhancers include:
+Genetics:
+A familial predisposition has been observed, especially among those of Northern European descent. Genetic factors can influence the structure and resilience of connective tissue.
+Age:
+Predominantly manifesting from the fifth decade of life, the risk increases due to age-related changes in tissue elasticity and cellular repair mechanisms.
+Gender:
+Males are more frequently affected and typically display a more severe form than females, possibly due to hormonal differences affecting connective tissue.
+Alcohol and Tobacco Use:
+Chronic use can induce microvascular changes, leading to reduced blood flow and oxygen delivery to tissues, making them more susceptible to fibrosis.
+Diabetes Mellitus:
+Individuals with diabetes manifest a higher incidence. Chronic hyperglycaemia can lead to glycation of tissue proteins, making them stiffer and more prone to contracture.
+Epilepsy:
+The link, thought to be related to certain anticonvulsant medications, may involve drug-induced changes in tissue collagen or cellular signalling.
+Trauma:
+Direct injury might instigate or exacerbate the condition, likely due to the activation of fibroblasts in response to tissue damage.
+Improve
+Pathophysiology
+Dupuytren's contracture arises from a series of cellular and molecular events that modify the palmar fascia:
+Fibroblast Activation:
+The initial trigger involves fibroblast proliferation in the palmar fascia. These cells undergo a phenotypic switch, becoming myofibroblasts with contractile properties, which then induce tissue contraction.
+Excessive Collagen Deposition:
+Activated myofibroblasts synthesise an abundant amount of type III collagen initially. As the disease evolves, there's a shift towards the more rigid type I collagen, fostering the formation of nodules and cords.
+Extracellular Matrix Remodelling:
+The balance between matrix metalloproteinases (MMPs) and their inhibitors, the tissue inhibitors of metalloproteinases (TIMPs), is pivotal. When TIMPs predominate, the degradation of the extracellular matrix is hampered, reinforcing fibrosis.
+Growth Factor and Cytokine Mediation:
+TGF-β stands out as a key player, amplifying fibroblast proliferation and their differentiation into myofibroblasts. Moreover, it boosts collagen synthesis. Other factors like PDGF and CTGF further contribute to the progression of fibrosis.
+Microvascular Changes:
+An upsurge in microvascular density within the affected tissue hints at angiogenesis's role. This process possibly serves to nourish the burgeoning fibrotic tissue.
+Apoptotic Resistance:
+Myofibroblasts in Dupuytren's display an innate resistance to apoptosis. Their prolonged existence perpetuates the fibrotic process.
+Contracture Manifestation:
+As the condition advances, nodules transition to cords, pulling fingers into a flexed position due to the tightened palmar fascia.
+Improve
+Clinical features
+Dupuytren's contracture manifests predominantly as a hand disorder characterised by the progressive thickening and contracture of the palmar fascia. While the disease has a gradual onset and can vary in severity, several key clinical features help in its identification:
+Primary Physical Manifestations:
+Nodules
+: Firm, non-tender nodules are typically the earliest sign. They form on the palmar surface of the hand, primarily at the base of the fingers and the distal palm.
+Cords
+: As the disease advances, the nodules may give way to thickened bands or cords extending from the palm into one or more fingers, commonly the ring and little fingers.
+Finger Contractures
+: The cords can cause progressive flexion contracture of the affected fingers, making it difficult to fully extend or straighten them. Over time, this can severely impact hand function.
+Functional Impairments
+Difficulty in Hand Use
+: As fingers become increasingly flexed, tasks like grasping large objects, wearing gloves, or placing the hand flat on a surface become challenging.
+Diminished Grip Strength
+: The contracture can reduce the power of grip, affecting routine activities.
+Associated Features:
+Pitting
+: The skin overlying the nodules or cords may appear puckered or indented.
+Garrod's Knuckle Pads
+: These are firm, skin-coloured nodules that develop on the dorsal aspect of the proximal interphalangeal joints and are occasionally associated with Dupuytren's contracture.
+Texture Changes
+: The skin overlying the contracture may feel thickened or tethered.
+Comorbidities:
+Patients with Dupuytren's contracture might also exhibit related conditions, although they are not directly a consequence of the disease. These include:
+Plantar Fibromatosis (Ledderhose disease)
+: Presence of similar nodules on the soles of the feet.
+Penile Fibromatosis (Peyronie's disease)
+: Development of fibrous tissue in the penis leading to curvature during erection.
+Improve
+Management
+The management of Dupuytren's contracture is tailored to the degree of functional impairment and patient preference, with the primary aim being restoration or preservation of hand function and prevention of further contracture progression.
+Intervention is generally reserved for patients with functional limitation, progressive deformity, or significant contracture
+.
+General Approach
+Patients with mild disease (e.g. palpable nodules without contracture or functional limitation) are usually managed conservatively, as observation alone is appropriate in the absence of progressive symptoms.
+Intervention should be considered when there is:
+Metacarpophalangeal joint contracture typically exceeding 30 degrees
+Any degree of proximal interphalangeal joint contracture affecting function
+Functional difficulties such as inability to place the hand flat on a table ("tabletop test" positive)
+The choice between non-surgical and surgical interventions depends on disease severity, comorbidities, recurrence risk, and patient factors (
+NICE CKS: Dupuytren’s Disease
+).
+Non-Surgical Management
+Collagenase clostridium histolyticum injection may be used in selected cases involving palpable cords. This enzymatic treatment weakens collagen within the cord, allowing subsequent manipulation to rupture it and improve extension.
+It is most suitable for isolated cords causing moderate contractures.
+Not all NHS trusts offer this therapy due to cost considerations; local policy should be checked.
+Needle fasciotomy (percutaneous needle aponeurotomy) involves using a needle to divide the cord under local anaesthesia.
+Offers rapid recovery but has higher recurrence rates compared to surgical fasciectomy.
+Best suited for older adults with limited life expectancy or those unfit for surgery.
+Surgical Management
+Limited fasciectomy (excision of affected fascia) remains the mainstay for patients with significant functional impairment or severe/progressive contractures.
+Provides more durable correction than non-surgical methods but carries risks including neurovascular injury, haematoma, infection, and stiffness.
+Dermofasciectomy (removal of diseased fascia along with overlying skin followed by skin grafting) may be indicated in recurrent or aggressive disease.
+Amputation is rarely considered but may be necessary in advanced cases where other interventions have failed and function cannot be restored.
+The timing and method of intervention should always be individualised based on shared decision-making between clinician and patient.
+Early referral to a hand surgeon is recommended if there are uncertainties regarding suitability for intervention or rapid progression.
+Improve
+References
+Clinical Knowledge Summaries - Dupuytren's contracture
+Orthopaedic surgery
+Dupuytren's contracture

@@ -1,0 +1,62 @@
+Hypoxic-ischaemic encephalopathy
+Hypoxic-ischaemic encephalopathy
+Hypoxic-ischaemic encephalopathy (HIE)
+is a serious neurological condition resulting from inadequate cerebral oxygen supply. It's commonly associated with perinatal asphyxia in neonates, but can also occur in adults due to cardiac arrest or severe systemic hypoxia. The pathophysiology involves two phases: primary and secondary energy failure.
+The
+primary energy failure
+occurs immediately during the hypoxic-ischaemic event, leading to anaerobic metabolism, lactic acidosis, and cytotoxic oedema. After initial resuscitation and reoxygenation, a period of latent phase occurs where the brain appears to recover.
+The
+secondary energy failure
+, occurring hours to days later, is characterised by renewed accumulation of toxic metabolites and free radicals causing further neuronal death. Clinically, HIE presents with altered consciousness levels ranging from lethargy to coma, seizures, abnormal tone and reflexes.
+Management includes supportive care such as maintaining normal body temperature and blood glucose levels alongside seizure control. Therapeutic hypothermia has shown benefits in neonatal HIE if initiated within 6 hours of birth.
+Last updated: 25
+th
+July 2024
+Investigations
+First-line investigations
+Blood Gas Analysis:
+Assessment of arterial blood gases (ABG) is critical for evaluating the extent of metabolic acidosis, hypercarbia, or hypoxaemia. Obtain ABGs immediately to guide acute management.
+Complete Blood Count (CBC):
+A CBC can help identify any underlying infection, anaemia, or polycythaemia that may complicate the clinical picture.
+Serum Electrolytes and Glucose:
+Evaluate serum electrolytes (sodium, potassium, calcium) and glucose levels to detect imbalances that could exacerbate neurological injury.
+Liver Function Tests (LFTs) and Renal Function Tests:
+Assess liver enzymes and renal function markers such as creatinine and urea to evaluate multi-organ involvement.
+Neuroimaging
+Cranial Ultrasound:
+In neonates, cranial ultrasound is a non-invasive first-line imaging modality to detect intracranial haemorrhage or structural abnormalities. However, its sensitivity in detecting early HIE changes is limited.
+MRI Brain:
+Magnetic Resonance Imaging (MRI), particularly diffusion-weighted imaging (DWI), is the gold standard for diagnosing HIE. Perform MRI within 2-5 days post-injury to assess the extent of brain injury. Look for patterns such as watershed infarcts or basal ganglia/thalamic involvement which are indicative of HIE.
+Amplicative Investigations
+EEG Monitoring:
+Electroencephalography (EEG) should be performed to evaluate for subclinical seizures and assess overall brain activity. Continuous EEG monitoring may be warranted in cases with suspected seizures or severe encephalopathy.
+aEEG:
+Amplitude-integrated EEG can provide continuous bedside monitoring in neonatal units and offers rapid assessment of cerebral function over time.
+Metabolic Screening
+If there are atypical features suggesting a metabolic disorder or if initial investigations are inconclusive, consider metabolic screening including ammonia levels, lactate, pyruvate, plasma amino acids, urine organic acids, and tandem mass spectrometry for acylcarnitine profile analysis.
+If an inborn error of metabolism is suspected based on clinical presentation or family history, further genetic testing may be necessary.
+If there are signs suggestive of mitochondrial disorders such as elevated lactate-to-pyruvate ratio or specific neuroimaging findings like basal ganglia lesions.
+The diagnosis of Hypoxic-ischaemic encephalopathy often relies heavily on clinical criteria supported by targeted investigations rather than a broad array of tests. Early identification through appropriate use of these investigations enables timely intervention which can significantly impact outcomes.
+Improve
+Complications
+Complications of Hypoxic-ischaemic Encephalopathy:
+Cerebral palsy:
+A common outcome, often involving spastic quadriplegia or dyskinetic forms.
+Seizure disorders:
+Neonates may develop acute symptomatic seizures initially and later progress to epilepsy.
+Cognitive impairment:
+Ranges from mild learning difficulties to severe intellectual disability.
+Motor deficits:
+Includes fine and gross motor dysfunction, coordination issues, and dystonia.
+Sensory impairments:
+Visual and auditory deficits are frequent, including cortical visual impairment and sensorineural hearing loss.
+Microcephaly:
+Reduced head circumference due to impaired brain growth.
+Behavioural disorders:
+Attention deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), and other behavioural problems may be observed.
+Poor growth:
+Failure to thrive can result from feeding difficulties related to neurological impairment.
+Multisystem organ failure can occur in severe cases, affecting cardiovascular, renal, hepatic, and respiratory systems.
+Improve
+Neonatology
+Hypoxic-ischaemic encephalopathy

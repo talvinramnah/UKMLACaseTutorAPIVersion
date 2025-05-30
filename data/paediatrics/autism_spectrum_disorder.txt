@@ -1,0 +1,141 @@
+Autism spectrum disorder
+Autism spectrum disorder
+Autism is a neurodevelopmental condition characterized by qualitative impairment in social interaction and communication as well as repetitive stereotyped behaviour, interests, and activities. Symptoms are usually present during early childhood, but may be manifested later. Autism spectrum disorder (ASD) may occur in association with any level of general intellectual/learning ability, and manifestations range from subtle problems of understanding and impaired social function to severe disabilities. Although there is no cure for ASD, early diagnosis and intensive educational and behavioural management may improve outcomes.
+'Autism spectrum disorder' (ASD) is the term used by the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). 'Pervasive developmental disorder' (PDD) is the term used by the World Health Organisation International Classification of Diseases, 10th revision (ICD-10).
+Last updated: 19
+th
+September 2023
+Aetiology
+The aetiology of ASD is complex and multifactorial.  There are strong genetic influences in the development of ASD.
+Genetic causes including gene defects and chromosomal anomalies is seen in 25% of cases.
+Family history: sibling recurrence risk of around 10% and concordance of 36-60% in monozygotic twins
+Advanced parental age: maternal age (≥ 40 years) and paternal age (≥ 50 years) reported to be independently associated with ASD risk in offspring
+Environmental factors (e.g., toxin exposure, prenatal infections) may increase the risk of ASD.
+Genetic diagnoses commonly associated with ASD include
+Tuberous sclerosis complex
+Fragile X syndrome
+Chromosome 15q11-13 duplication syndrome
+Angelman syndrome
+Rett's syndrome
+Down syndrome
+The available evidence does not support the myth of association between immunisations and ASD.
+Improve
+Pathophysiology
+The pathogenesis is not completely understood.
+Genetic, perinatal, and environmental factors may alter brain development and result in a lifelong neurodevelopmental disorder.
+It may be a consequence of abnormal function in hippocampal/amygdala, in addition to other brain regions.
+Some authors suggest that some behavioral characteristics of ASD may be due in part to effects of
+Altered cytokine levels on neuronal cell proliferation, neuron death, and synaptic pruningâ→ altered microglia on phagocytosis of neurons
+Improve
+Classification
+In DSM-5, the diagnosis of ASD includes autism, Asperger's syndrome, and pervasive developmental disorder not otherwise specified. Asperger's syndrome is a condition previously established in the DSM-4 and now considered under ASD in the DSM-5. The diagnosis of ASD is qualified by three levels of severity rated separately for social communication and restricted, repetitive behaviours. Severity is assessed separately for each domain as:
+Level 1 (requiring support)
+Level 2 (requiring substantial support), and
+Level 3 (requiring very substantial support).
+In contrast to DSM-5, the ICD-10 classifies ASD as PDD and includes several subtypes, including childhood autism, atypical autism, and Asperger syndrome. The version of ICD-11 released in 2018 (anticipated for use in 2022) indicates that the ICD-11 classification of ASD will be similar to that in DSM-5.
+Improve
+Clinical features
+Children or adults with autism may exhibit a broad range of clinical manifestations. Social communication impairments and repetitive behaviours are present during early childhood (typically evident before 2-3 years of age), or maybe manifested later. The clinical features can be classified as:
+Impaired social communication and interaction:
+Children frequently play alone and maybe relatively uninterested in being with other children.
+They may fail to regulate social interaction with nonverbal cues like eye gaze, facial expression, and gestures.
+Fail to form and maintain appropriate relationships and become socially isolated.
+Repetitive behaviours, interests, and activities:
+Stereotyped and repetitive motor mannerisms, inflexible adherence to nonfunctional routines or rituals are often seen.
+Children are noted to have particular ways of going about everyday activities.
+ASD is often associated with intellectual impairment or language impairment.
+Attention deficit hyperactivity disorder (35%) and epilepsy (18%) are also commonly seen in children with ASD.
+ASD is also associated with a higher head circumference to the brain volume ratio.
+Improve
+Referral criteria
+Primary care providers can identify children at risk for ASD through routine developmental, behavioural, and autism-specific surveillance and screening combined with clinical judgment. Primary care providers generally identify children at risk and refer them for comprehensive evaluation and intervention pending diagnosis. A definitive diagnosis of ASD is usually made by a specialist.
+Indications for specialist referral for further assessment (NICE, 2011):
+Refer children younger than 3 years if there is a regression in language or social skills.
+Consider referring children and young people if you are concerned about possible ASD based on reported or observed signs and/or symptoms.
+Factors associated with an increased prevalence of ASD.
+The likelihood of an alternative diagnosis.
+Improve
+Diagnosis
+The diagnosis of ASD is made based on established diagnostic criteria for ASD based on careful assessment of behaviour, cognitive development, and language skills. There are two major sets of diagnostic criteria: The Diagnostic and Statistical Manual of Mental Disorders (DSM) and the International Disease Classification (ICD).
+The DSM-5 diagnosis of ASD is characterized by:
+Persistent deficits in social communication and social interaction across multiple contexts, as manifested by the following, currently or by history:
+Deficits in social-emotional reciprocity including verbal interaction or sharing interests
+Deficits in non-verbal communicative behaviours used for social interaction.
+Deficits in developing and understanding relationships.
+Restricted, repetitive patterns of behaviour, interests, or activities, as manifested by at least 2 of the following, currently or by history:
+Stereotyped or repetitive motor movements, use of objects or speech
+Insistence on sameness, inflexible adherence to routines, or ritualised patterns of verbal or non-verbal behaviour
+Highly restricted, fixated interests that are abnormal in intensity or focus
+Hyper- or hypo-reactivity to sensory input
+Unusual interest in sensory aspects of the environment
+Symptoms must be present in the early developmental period
+Symptoms cause clinically significant impairment in social, occupational, or other important areas of current functioning.
+These disturbances are not better explained by intellectual disability (intellectual development disorder) or global developmental delay. Intellectual disability and ASD frequently co-occur; to make comorbid diagnoses of ASD and intellectual disability, social communication should be below that expected for the general developmental level.
+ICD-10 criteria for the diagnosis of pervasive developmental disorders is also based on atypical social communication and interaction and restricted, repetitive patterns of behaviour, activities, and interests.
+Typical: a pervasive developmental disorder defined by the presence of abnormal and/or impaired development that is manifest before the age of 3 years, and by the characteristic type of abnormal functioning in all 3 areas of psychopathology: reciprocal social interaction, communication, and restricted, repetitive behaviour.
+Atypical: A pervasive developmental disorder that differs from autism in terms either of age of onset or of failure to fulfil all 3 sets of diagnostic criteria. More common in people with severe learning disabilities and those with a severe specific developmental disorder of receptive language.
+Improve
+Differential diagnosis
+ASD should be differentiated from several conditions that impair social communication or social interaction and/or are associated with stereotypic movements. Common differential diagnoses can be distinguished from ASD as follows:
+Attention deficit hyperactivity disorder:
+Similarities: social communication difficulties.
+Differences: normal pragmatic language skills, nonverbal social behaviour, and imaginative play. Lack of restricted, repetitive patterns of behaviour, interests, and activities.
+Social (pragmatic) communication disorder:
+Similarities: impairment in social communication and social interactions.
+Differences: absence of restricted, repetitive patterns of behaviour, interests, or activities.
+Global developmental delay/intellectual disability:
+Similarities: language delay, may show repetitive behaviours.
+Differences: social responsiveness and communication appropriate for the developmental level.
+Developmental language disorder:
+Similarities: social communication difficulties.
+Differences: normal reciprocal social interactions, and normal desire and intent to communicate. Appropriate imaginative play.
+Improve
+Management
+Multidisciplinary Approach:
+Given the complex and multifaceted nature of ASD, its management requires input from various professionals including paediatricians, psychologists, speech and language therapists, occupational therapists, educational professionals, and social care workers.
+Early Intervention:
+Early identification and subsequent intervention improve outcomes significantly. While specific interventions might vary based on the individual, core principles of structure, routine, and visual aids underpin most strategies.
+Applied Behaviour Analysis (ABA):
+A teaching approach that rewards positive behaviour and diminishes inappropriate or self-harming behaviours.
+TEACCH (Treatment and Education of Autistic and related Communication-handicapped Children):
+Focuses on individualised schedules and work systems.
+Early Intensive Behavioural Intervention (EIBI):
+Rooted in the principles of applied behaviour analysis (ABA), EIBI targets various areas of child development, providing intensive support.
+Communication Enhancement:
+Speech and Language Therapy:
+Assists with language development and communicative function.
+Picture Exchange Communication System (PECS):
+A visual-based system to initiate communication for non-verbal or minimally verbal individuals.
+Social Skills Training:
+Structured teaching of social norms and behaviours can help those with ASD navigate social situations more effectively.
+Occupational Therapy:
+Sensory Integration Therapy:
+Aims to manage and integrate sensory information to allow an individual to respond appropriately to environmental demands.
+Adaptive Skills Training:
+Helps in developing skills required for daily living.
+Pharmacological Management:
+No drug treats the core symptoms of ASD, but medications might be helpful for associated symptoms or comorbidities:
+Attention Deficit Hyperactivity Disorder (ADHD):
+Methylphenidate, atomoxetine or guanfacine might be used as per NICE guidelines.
+Anxiety and Obsessive-Compulsive Disorder (OCD):
+Selective serotonin reuptake inhibitors (SSRIs) may have a role
+Support for Families:
+Parent-Managed Behavioural Interventions:
+Equips parents with skills to manage behavioural challenges.
+Support Groups:
+Offering parents and caregivers peer support.
+Respite Care:
+Provides temporary care relief for families, ensuring their well-being.
+Transition to Adult Services:
+As individuals with ASD reach adulthood:
+Transition Planning:
+Begins in adolescence, focusing on life skills, further education, employment, and independent living.
+Mental Health Support:
+Many adults with ASD have coexisting mental health conditions requiring ongoing psychological and pharmacological interventions.
+Employment and Vocational Training:
+Tailored supports can enable meaningful employment.
+Housing and Independent Living:
+Consideration of supported living environments may be necessary for some.
+Improve
+Paediatric mental health
+Autism spectrum disorder

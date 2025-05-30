@@ -1,0 +1,138 @@
+Irritable bowel syndrome
+Irritable bowel syndrome
+Irritable Bowel Syndrome (IBS) is a common functional gastrointestinal disorder characterized by recurrent
+abdominal pain
+and alterations in bowel habits, with no identifiable organic cause. The aetiology of IBS is multifactorial, involving genetic, gut motility, visceral hypersensitivity, psychological factors, and gut microbiota changes. Diagnosis relies on the Rome IV criteria, medical history, physical examination, and laboratory tests to rule out organic diseases. Treatment is patient-centred and multidisciplinary, encompassing education, dietary modifications, pharmacological interventions, psychological interventions, and probiotics.
+Last updated: 16
+th
+April 2023
+Epidemiology
+Incidence: 2000.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Irritable bowel syndrome
+1
+Coeliac disease in adults
+0.05
+Microscopic colitis
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The precise aetiology of IBS remains unclear, but several factors have been implicated in its development, including:
+Altered gastrointestinal motility: Abnormal contractions of the intestinal muscles may lead to the hallmark symptoms of IBS, such as
+diarrhoea
+or
+constipation
+.
+Visceral hypersensitivity: IBS patients may have heightened sensitivity to pain and other sensations in the gut, causing them to perceive normal digestive processes as painful.
+Dysbiosis: An imbalance in the gut microbiota may contribute to the development of IBS by affecting gut motility and visceral sensitivity.
+Genetic factors: There is evidence for a genetic predisposition to IBS, with some studies suggesting a heritability of around 50%.
+Environmental factors: Stress, infection, inflammation, and diet may also play a role in the development of IBS.
+Improve
+Pathophysiology
+The pathophysiology of IBS is complex and multifactorial, involving the interplay of several mechanisms:
+Altered gut-brain axis: The gut and brain communicate bidirectionally via the gut-brain axis, which includes the enteric and central nervous systems. Dysregulation of this axis may contribute to the altered motility and visceral hypersensitivity observed in IBS patients.
+Low-grade inflammation: Some IBS patients exhibit mild inflammation in the gut, which may contribute to altered motility, increased intestinal permeability, and visceral hypersensitivity.
+Neurotransmitter imbalances: Altered levels of neurotransmitters, such as serotonin and norepinephrine, may play a role in IBS by affecting gut motility and pain perception.
+Improve
+Classification
+The Rome IV criteria, a widely accepted diagnostic guideline, is used to classify IBS into four primary subtypes based on the predominant bowel habit. These subtypes help guide treatment and management strategies:
+IBS with predominant
+constipation
+(IBS-C)
+: Patients with IBS-C primarily experience hard or lumpy stools (Bristol Stool Scale Types 1 and 2) more than 25% of the time and loose or watery stools (Bristol Stool Scale Types 6 and 7) less than 25% of the time. This subtype is associated with slower colonic transit and increased pelvic floor dysfunction.
+IBS with predominant
+diarrhoea
+(IBS-D)
+: Patients with IBS-D primarily experience loose or watery stools more than 25% of the time and hard or lumpy stools less than 25% of the time. This subtype is often associated with faster colonic transit and increased gut sensitivity.
+IBS with mixed bowel habits (IBS-M)
+: Patients with IBS-M experience both hard or lumpy stools and loose or watery stools more than 25% of the time. This subtype may involve alternating patterns of constipation and diarrhoea.
+IBS unclassified (IBS-U)
+: Patients with IBS-U do not fit into the other three subtypes or have insufficient stool consistency data to categorize them accurately. This subtype requires further assessment to determine the appropriate treatment approach.
+Improve
+Clinical features
+The diagnosis of IBS should be considered if the patient has had the following for at least 6 months:
+abdominal pain
+, and/or
+bloating
+, and/or
+change in bowel habit
+A positive diagnosis of IBS should be made if the patient has abdominal pain relieved by defecation or associated with altered bowel frequency stool form, in addition to 2 of the following 4 symptoms:
+altered stool passage (straining, urgency, incomplete evacuation)
+abdominal bloating (more common in women than men), distension, tension or hardness
+symptoms made worse by eating
+passage of mucus
+Features such as
+lethargy
+, nausea, backache and bladder symptoms may also support the diagnosis
+Red flag features should be enquired about:
+rectal bleeding
+unexplained/unintentional weight loss
+family history of bowel or ovarian cancer
+onset after 60 years of age
+Improve
+Investigations
+Suggested primary care investigations are:
+full blood count
+ESR/CRP
+coeliac disease
+screen (tissue transglutaminase antibodies)
+Improve
+Diagnosis
+The Rome IV criteria for IBS, published in 2016, are as follows:
+A patient must have recurrent
+abdominal pain
+for at least 1 day per week during the previous 3 months, and this pain should be associated with at least two of these three criteria:
+Pain related to defecation: The pain is either relieved or worsened by bowel movements.
+Change in frequency of stool: The patient experiences an increase or decrease in the number of bowel movements per day.
+Change in form (appearance) of stool: The stool becomes harder or softer, or there is a change in its consistency.
+These symptoms must be present for the last 3 months, with symptom onset at least 6 months before diagnosis.
+Improve
+Management
+The management of irritable bowel syndrome (IBS) is often difficult and varies considerably between patients. NICE updated it's guidelines in 2015.
+First-line pharmacological treatment - according to predominant symptom
+pain: antispasmodic agents
+constipation
+: laxatives but avoid lactulose
+diarrhoea
+: loperamide is first-line
+For patients with constipation who are not responding to conventional laxatives linaclotide may be considered, if:
+optimal or maximum tolerated doses of previous laxatives from different classes have not helped and
+they have had constipation for at least 12 months
+Second-line pharmacological treatment
+low-dose tricyclic antidepressants (e.g. amitriptyline 5-10 mg) are used in preference to selective serotonin reuptake inhibitors
+Other management options
+psychological interventions - if symptoms do not respond to pharmacological treatments after 12 months and who develop a continuing symptom profile (refractory IBS), consider referring for cognitive behavioural therapy, hypnotherapy or psychological therapy
+complementary and alternative medicines: 'do not encourage use of acupuncture or reflexology for the treatment of IBS'
+General dietary advice
+have regular meals and take time to eat
+avoid missing meals or leaving long gaps between eating
+drink at least 8 cups of fluid per day, especially water or other non-caffeinated drinks such as herbal teas
+restrict tea and coffee to 3 cups per day
+reduce intake of alcohol and fizzy drinks
+consider limiting intake of high-fibre food (for example, wholemeal or high-fibre flour and breads, cereals high in bran, and whole grains such as brown rice)
+reduce intake of 'resistant starch' often found in processed foods
+limit fresh fruit to 3 portions per day
+for diarrhoea, avoid sorbitol
+for wind and
+bloating
+consider increasing intake of oats (for example, oat-based breakfast cereal or porridge) and linseeds (up to one tablespoon per day).
+Improve
+References
+NICE - 2015 IBS guidelines
+Clinical Knowledge Summaries - Irritable bowel syndrome guidelines
+BBC - What is a low FODMAP diet?
+Gastroenterology
+Irritable bowel syndrome

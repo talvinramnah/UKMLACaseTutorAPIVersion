@@ -1,0 +1,162 @@
+Avascular necrosis of the hip
+Avascular necrosis of the hip
+Avascular necrosis (AVN) may be defined as death of bone tissue secondary to loss of the blood supply. This leads to bone destruction and loss of joint function. It most commonly affects the epiphysis of long bones such as the femur.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 2.50 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 4:1
+Condition
+Relative
+incidence
+Greater trochanteric pain syndrome
+120.00
+Acetabular labral tear
+20.00
+Osteomyelitis
+8.00
+Avascular necrosis of the hip
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+Trauma
+: Disruption of the blood supply to the femoral head is most commonly caused by trauma, particularly displaced intracapsular fractures of the femoral neck and hip dislocations.
+Corticosteroid use
+: Prolonged or high-dose corticosteroid therapy is a major non-traumatic risk factor. The mechanism may involve alterations in lipid metabolism leading to fat emboli or direct vascular compromise (
+NICE guidance: Osteonecrosis is a recognised complication of systemic corticosteroids
+).
+Excessive alcohol consumption
+: Chronic heavy alcohol intake increases risk, potentially through similar mechanisms as corticosteroids with fat embolism and impaired bone remodelling.
+Sickle cell disease and other haemoglobinopathies
+: These conditions predispose to microvascular occlusion within the femoral head, resulting in avascular necrosis.
+Other medical conditions
+:
+Connective tissue diseases (e.g. systemic lupus erythematosus)
+Coagulation disorders (e.g. antiphospholipid syndrome)
+Chronic renal failure and dialysis
+HIV infection
+Other causes
+Idiopathic: In many cases, no clear precipitating cause can be identified ("idiopathic" AVN).
+Iatrogenic: Radiotherapy and certain chemotherapeutic agents have been implicated in rare cases.
+Improve
+Pathophysiology
+Avascular necrosis (AVN) of the hip, also known as osteonecrosis, involves the death of bone tissue due to a lack of blood supply. The pathophysiology is multifaceted and can be traced through several key processes.
+Initially, there is an interruption in the vascular supply to the femoral head. This disruption may occur due to trauma or non-traumatic factors (e.g.  corticosteroid use or alcohol abuse) that impair blood flow. When blood flow is compromised, osteocytes and other bone cells begin to die within hours due to hypoxia.
+The lack of oxygen and nutrients leads to cellular necrosis. Necrotic bone tissue loses its structural integrity, causing microfractures. These microfractures further compromise the stability of the subchondral bone, leading to a collapse of the femoral head.
+As necrosis progresses, the body initiates a repair response. Inflammatory cytokines are released, attracting macrophages and other immune cells to clear necrotic debris. However, this inflammatory process can exacerbate damage by increasing local pressure within the confined space of the femoral head.
+Subsequent attempts at bone remodelling involve osteoclast-mediated resorption followed by osteoblast activity aimed at new bone formation. However, these reparative efforts are often insufficient due to continued poor vascularisation and increased mechanical stress on weakened structures.
+The cumulative effect results in articular cartilage degeneration overlying areas of subchondral collapse. This cartilage breakdown contributes significantly to joint dysfunction and pain experienced by patients with AVN of the hip.
+Cellular hypoxia leads to osteocyte apoptosis
+Microfractures develop in structurally compromised bone
+Inflammatory response exacerbates local damage
+Ineffective remodelling fails to restore structural integrity
+Articular cartilage degeneration follows subchondral collapse
+This sequence ultimately manifests clinically as progressive pain and loss of function in affected individuals.
+Improve
+Clinical features
+Avascular necrosis (AVN) of the hip typically presents insidiously, with symptoms often progressing over weeks to months.
+Stereotypical Presentation
+The classic presentation is a middle-aged adult reporting
+gradually worsening
+groin pain
+, sometimes radiating to the buttock or anterior thigh.
+Pain is usually exacerbated by weight-bearing activities such as walking or climbing stairs and relieved by rest.
+Early in the disease, patients may describe only mild discomfort or stiffness, which can be intermittent.
+As AVN progresses, pain becomes more constant and severe, potentially disturbing sleep and significantly limiting mobility.
+Limping or an antalgic gait frequently develops as patients attempt to offload the affected hip.
+Detailed Clinical Features
+Pain:
+Most commonly localised to the groin but may also be felt in the lateral hip, buttock, or referred distally along the thigh.
+Initially activity-related; becomes persistent with disease progression.
+Night pain may occur in advanced stages.
+Stiffness and Reduced Range of Motion:
+Limitation is most notable in internal rotation and abduction of the hip joint.
+Patients may report difficulty putting on socks/shoes or getting into/out of vehicles due to restricted movement.
+Limp
+:
+A Trendelenburg gait may develop secondary to gluteal muscle weakness from disuse or pain inhibition.
+Limb shortening is uncommon unless there has been collapse of the femoral head.
+Examination findings:
+Tenderness on deep palpation of the groin region (often mild).
+Pain reproduced on passive internal rotation and flexion of the hip (“log roll” test).
+Crepitus is not a prominent feature until late-stage disease with secondary osteoarthritis.
+Variation According to Stage
+In early AVN, physical examination may be unremarkable despite significant underlying pathology. Imaging often detects changes before clinical findings are evident (
+NICE CKS: Osteonecrosis
+).
+With femoral head collapse and articular surface involvement:
+Marked restriction in range of motion
+Audible crepitus
+Possible fixed deformity
+The key clinical hallmark is progressive activity-related groin pain with eventual loss of hip function.
+Systemic features such as fever or constitutional symptoms are absent unless there are complications. Bilateral involvement occurs in up to 50% of non-traumatic cases; clinicians should remain vigilant for contralateral symptoms.
+Improve
+Investigations
+Investigation
+plain x-ray findings may be normal initially. Osteopenia and microfractures may be seen early on. Collapse of the articular surface may result in the crescent sign
+MRI is the investigation of choice. It is more sensitive than radionuclide bone scanning
+Improve
+Differential diagnosis
+The differential diagnosis for avascular necrosis (AVN) of the hip primarily includes osteoarthritis, transient osteoporosis and hip fractures. These conditions can present similarly to AVN, but there are key differences in their clinical presentation.
+Osteoarthritis (OA)
+: OA is a degenerative joint disease characterised by the progressive loss of articular cartilage. Unlike AVN, OA patients typically report a gradual onset of pain that worsens with activity and improves with rest. Pain may also be reported at rest or at night in advanced stages. On examination, range of motion may be limited due to pain and crepitus may be noted on movement. The presence of Heberden's nodes and Bouchard's nodes on physical examination can help distinguish OA from AVN.
+Transient Osteoporosis (TO)
+: TO is a self-limiting condition that causes temporary bone loss in the hips. Patients with TO usually present with sudden onset
+hip pain
+that is exacerbated by weight-bearing activities. In contrast to AVN, TO does not lead to permanent structural damage and resolves spontaneously over several months. The absence of risk factors such as corticosteroid use or excessive alcohol consumption can point towards TO rather than AVN.
+Hip Fractures
+: Hip fractures typically occur after trauma in elderly patients or those with osteoporosis. Patients present with acute onset severe hip pain following a fall or injury, inability to bear weight on the affected leg and external rotation of the lower extremity when lying flat - features not commonly seen in AVN unless it has progressed significantly leading to femoral head collapse.
+In all these conditions, imaging studies play an essential role in differentiating between them. Plain radiographs may show joint space narrowing and osteophyte formation in OA, diffuse demineralisation of the femoral head in TO, and fracture lines or displacement in hip fractures. Magnetic resonance imaging (MRI) is particularly useful in early AVN when radiographs are often normal, showing bone marrow oedema and subchondral fractures.
+Improve
+Management
+Management of avascular necrosis of the hip is a stepwise approach, beginning with conservative measures and progressing to surgical interventions if necessary. The aim is to reduce pain, improve function, and prevent further joint destruction.
+Conservative Management
+Pharmacological therapy:
+Non-steroidal anti-inflammatory drugs (NSAIDs) are first-line treatment for pain management. Bisphosphonates may slow the progression of bone necrosis and disease-related osteoporosis. Vasodilators such as iloprost can be used to improve blood flow to the affected area.
+Physiotherapy:
+Weight-bearing exercises should be minimised initially to decrease stress on the affected joint. A programme of range-of-motion exercises can help maintain joint mobility and muscle strength.
+Surgical Management
+Surgical intervention may be considered if conservative measures fail or in advanced cases of avascular necrosis. The choice between joint-preserving procedures and arthroplasty depends on patient factors, extent of disease, and surgeon expertise.
+Core decompression surgery:
+This procedure reduces intraosseous pressure, relieves pain, promotes vascular infiltration and potentially facilitates natural repair processes within the bone.
+Osteotomy:
+This involves repositioning the necrotic segment away from the weight-bearing zone. It's typically reserved for younger patients with good remaining articular cartilage.
+Bone grafting:
+Autograft or allograft options can be used to support the subchondral bone and reduce collapse risk. Vascularised fibular grafts have shown promising results in younger patients with pre-collapse stages of avascular necrosis.
+Arthroplasty:
+Total hip replacement or hemiarthroplasty is usually reserved for patients with advanced disease. This provides immediate pain relief and restores function but has limitations in younger patients due to longevity of the prosthesis.
+It's important to note that early detection and intervention are key to preserving the joint and optimising patient outcomes in avascular necrosis of the hip.
+Improve
+Complications
+Avascular necrosis of the hip can lead to a number of complications, primarily due to the disruption in blood supply and subsequent death of bone tissue. The following are the most common and clinically significant complications:
+Osteoarthritis:
+Progressive joint degeneration due to the collapse of subchondral bone, leading to secondary osteoarthritis.
+Femoral head collapse:
+Structural failure of the femoral head resulting in severe pain and functional impairment.
+Joint instability:
+Loss of congruency in the hip joint causing instability and increased risk of falls.
+Chronic pain:
+Persistent pain due to ongoing bone necrosis and inflammation, often requiring long-term analgesic therapy.
+Fractures:
+The loss of blood supply weakens the bone structure, making it susceptible to fractures. Subchondral fractures may occur which can further exacerbate joint pain and disability.
+Reduced mobility:
+Decreased range of motion and difficulty with weight-bearing activities, significantly impacting daily life.
+Surgical complications:
+Potential risks associated with surgical interventions such as total hip arthroplasty, including infection, dislocation, and prosthetic failure.
+Improve
+References
+Radiopaedia - Avascular necrosis of the hip
+Orthopaedic surgery
+Avascular necrosis of the hip

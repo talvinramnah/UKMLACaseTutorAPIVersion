@@ -1,0 +1,216 @@
+Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux
+disease (GORD) is a common, chronic condition affecting adults, characterized by the reflux of stomach acid and bile into the oesophagus, causing symptoms and complications. The primary symptom is
+heartburn
+, though patients may also present with regurgitation, dysphagia, and
+chest pain
+. GORD can lead to complications such as oesophagitis, Barrett's oesophagus, and in rare cases, oesophageal adenocarcinoma.
+Risk factors include obesity, smoking, alcohol consumption, hiatal hernia, and certain medications. Diagnosis typically involves a clinical evaluation based on symptoms, with confirmation via upper gastrointestinal endoscopy. Empiric proton pump inhibitor (PPI) therapy may also aid in diagnosis.
+Treatment options include lifestyle modifications, pharmacological interventions (PPIs, H2 receptor antagonists, prokinetics), and surgical intervention (e.g., fundoplication) in refractory cases.
+Last updated: 28
+th
+January 2024
+Epidemiology
+Incidence: 5000.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Gastro-oesophageal reflux
+disease
+1
+Musculoskeletal
+chest pain
+0.20
+Peptic ulcer disease
+0.02
+Mallory-Weiss tear
+0.002
+Oesophageal cancer
+0.002
+Pharyngeal pouch
+0.0004
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Factors which increase intra-abdominal pressure are heavily associated with GORD. Other associations include:
+Increased intra-abdominal pressure/obesity
+Around 22% of patients with BMI >30 suffer with GORD, compared to just 6% with a BMI <18.5
+Smoking, alcohol and coffee
+18% of smokers have been shown to have GORD, compared to 15% in non-smokers
+Smoking relaxes LOS
+Drugs (relax LOS)
+Tricyclics, anticholinergics, nitrates, calcium channel blockers
+24% of regular aspirin of NSAID users suffer with GORD, compared to 17% in non users
+Overeating, especially fatty meals
+Fat delays gastric emptying
+Hiatus hernia
+Pregnancy
+Tight clothes
+Surgery in achalasia
+GORD has been shown to contribute to asthma. Note there is no association with
+H. pylori
+.
+Improve
+Pathophysiology
+GORD has a multifactorial pathogenesis. The two main contributing factors are:
+Lower oesophageal sphincter (LOS) abnormalities
+Transient LOS relaxation
+This means acid, bile, pepsin and pancreatin enzymes are able to
+reflux
+back into the oesophagus, causing mucosal injuries.
+Other factors include:
+Hiatus hernia:
+promotes LOS dysfunction
+Impaired oesophageal clearance
+: prolonged acid exposure to the mucosa
+Delayed gastric emptying
+: results in gastric distension and significantly increases the rate of transient LOS relaxations
+Impaired mucosal defensive factors
+: neutralise hydrogen ions exposed to oesophageal tissue.
+Improve
+Clinical features
+Features of
+gastro-oesophageal reflux
+disease (GORD) include:
+heartburn
+this describes a retrosternal burning sensation
+may be described by patients as
+chest pain
+regurgitation
+may present as '
+waterbrash
+' - the taste of acid in the mouth
+dyspepsia
+this is a general term for upper gastrointestinal discomfort related to eating
+can include bloating,
+nausea
+and
+upper abdominal pain
+and chest pain
+typically referred to as indigestion by patients
+dysphagia
+usually secondary to oesophagitis but may indicate an oesophageal stricture
+new dysphagia should not be attributed to GORD and always require investigation to exclude
+oesophageal cancer
+chronic
+cough
+there is known relationship between asthma and GORD
+when lying down, individuals with GORD are more likely to experience reflux, which can trigger or worsen asthma symptoms, leading to nocturnal asthma
+a trial of PPI may sometimes improve asthma symptoms, particularly at night,  in patients with both asthma and GORD
+hoarseness
+due to irritation of the vocal cords by gastric reflux
+may be worse in the morning
+Improve
+Investigations
+Whilst isolated symptoms do not require investigation, patients fitting any of the following criteria should be referred for
+oesophago-gastroduodenoscopy (OGD):
+Age >55 years
+Symptoms >4 weeks
+Dysphagia
+Persistent symptoms
+despite treatment
+Relapsing symptoms
+Weight loss
+Excessive
+vomiting
+GI bleeding
+Note either the Savary-Miller (grades 1-5) or Los Angeles (grades A-D) grading systems may be used in endoscopy.
+The LA classification may show:
+Grade
+Description
+Grade A
+At least one mucosal break, up to 5 mm, that does not extend between the tops of two mucosal folds
+Grade B
+At least one mucosal break, more than 5 mm long, that does not extend between the tops of two mucosal folds
+Grade C
+At least one mucosal break that is continuous between the tops of two or more mucosal folds but which involve less than 75% of the circumference
+Grade D
+At least one mucosal break which involves at least 75% of the esophageal circumference
+Note that 50-85% of patients with GORD will show no erosive changes.
+Other tests include
+:
+A barium swallow test should be performed to rule out hiatus hernia.
+A 24 hour oesophageal PH monitoring may be needed to distinguish GORD from other causes.
+Patients showing systemic symptoms, or who have lesions shown on OGD, should have a FBC to rule out anaemia.
+Improve
+Differential diagnosis
+GORD may be confused with other causes of
+heartburn
+and
+dyspepsia
+. Generally the treatment of oesophagitis will be the same, whatever the cause, however it is important to rule out causative factors which need to be removed:
+Oesophagitis caused by infection
+especially in immunocompromised.
+Similarities: heartburn.
+Differences: oesophagitis caused by infection manifests as difficulty swallowing saliva and odynophagia. OGD shows evidence of infection. Patients will be immunocompromised, for example receiving radiation therapy or HIV-infected patients.
+Most common causative agents are fungal and viral. Bacterial and parasitic is rare.
+Candida
+oesophagitis is most common, whilst viral may be caused by one either herpes simplex virus or cytomegalovirus.
+Candida
+Oesophagitis caused by corrosives
+, for example NSAIDs
+Similarities: presentation will be similar. Confirmed by endoscopy. Treat with PPI.
+Differences: increased oesophageal bleeding, perforation, or stricture on OGD. History of chemical ingestion which may have induced other symptoms.
+Duodenal/gastric ulcer
+(duodenal 4x commoner than gastric)
+Similarities: heartburn
+Dissimilarities: pain related to hunger, eating specific foods, time of day. Epigastric tenderness, weight loss and haematemesis possible.
+Improve
+Management
+NICE guidance states uninvestigated GORD like symptoms should be treated the same as uninvestigated
+dyspepsia
+. Typically this is managed with simple lifestyle changes and
+proton pump inhibitors
+(PPIs). Note the effect of lifestyle changes is questioned, however advice still given.
+Lifestyle changes:
+Reduce weight
+Stop smoking
+Decrease alcohol intake
+Raise head at night (sleep propped up)
+Avoid hot drinks, alcohol and eating within 3hrs of going to sleep
+Avoid drugs which:
+Affect oesophageal motility (nitrates, anticholinergics, tricyclic antidepressants)
+Damage the mucosa (NSAIDs, K+ salts, alendronate)
+Drugs:
+NICE guidance states that a patient without any red flag symptoms should be given a 4 week full-does PPI therapy course.
+If symptoms return, the dosage of PPI should be stepped down to the lowest level that still relieves symptoms.
+Start acid suppression at a low dose for 1-2 months
+After review, step up if still symptomatic. Step down if dosage has controlled symptoms until the lowest point it will do so.
+Offer H
+2
+RA therapy if there is inadequate response to a PPI
+Patients with GORD diagnosed via endoscopy may be increased to an 8 week course of PPI therapy if deemed necessary. If oesophagitis is severe, full-dose treatment can be used in the long term.
+Consider referring anyone to a specialist who:
+Has unexplained GORD symptoms not responding to treatment.
+Is considering surgery.
+Surgery
+Laparoscopic fundoplication, also known as a Nissen fundoplication, is the surgical procedure of choice. It is indicated for:
+Patients who have a confirmed GORD diagnosis via endoscopy, respond to PPI therapy, but do not wish to continue it long term.
+Patients who have a confirmed GORD diagnosis via endoscopy, are responding to a PPI, but can not tolerate acid suppression therapy.
+Improve
+Complications
+Potential complications include:
+Oesophagitis: Chronic exposure to refluxed gastric contents can lead to inflammation of the oesophageal mucosa, known as oesophagitis. This can manifest as erythema, erosions, and ulcers. Severe oesophagitis may result in bleeding, manifesting as hematemesis or melena.
+Strictures: Prolonged oesophageal inflammation can lead to fibrosis and scarring, causing the formation of strictures. Strictures can result in dysphagia, odynophagia, and food impaction. Endoscopic dilation or surgical intervention may be required to manage symptomatic strictures.
+Barrett's oesophagus: Chronic GERD can result in metaplastic changes in the oesophageal epithelium, leading to the development of Barrett's oesophagus. This condition is characterized by the replacement of the normal stratified squamous epithelium with columnar epithelium containing goblet cells. Barrett's oesophagus is a premalignant condition associated with an increased risk of developing oesophageal adenocarcinoma.
+Oesophageal adenocarcinoma: Patients with GERD, particularly those with Barrett's oesophagus, are at an increased risk of developing oesophageal adenocarcinoma. The risk factors for malignant transformation include long-segment Barrett's oesophagus, high-grade dysplasia, male sex, older age, obesity, and smoking.
+Respiratory complications: GERD can lead to respiratory complications due to microaspiration of gastric contents or reflex-induced bronchospasm. These complications include chronic
+cough
+, asthma exacerbations, laryngitis, and recurrent pneumonia.
+Improve
+References
+NICE - 2014 Gastro-oesophageal reflux disease and dyspepsia in adults
+Clinical Knowledge Summaries - Dyspepsia - proven GORD
+Gastroenterology
+Gastro-oesophageal reflux disease

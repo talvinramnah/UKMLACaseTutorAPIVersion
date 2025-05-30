@@ -1,0 +1,176 @@
+Anorexia nervosa
+Anorexia nervosa
+Anorexia
+nervosa (AN) is a severe psychiatric disorder characterized by self-induced starvation, excessive
+weight loss
+, and distorted body image. This condition typically manifests during adolescence and predominantly affects females.
+The diagnostic criteria as per the DSM-5 include restriction of energy intake relative to requirements leading to significantly low body weight; an intense fear of gaining weight or persistent behaviours that prevent weight gain; and disturbance in the perception of one's own body weight or shape. The disorder can be further classified into restrictive (AN-R) and binge-eating/purging (AN-BP) subtypes.
+Medical complications arising from AN involve multiple organ systems such as cardiovascular (
+bradycardia
+,
+hypotension
+), gastrointestinal (gastroparesis, constipation), endocrine (amenorrhea, osteoporosis), hematologic (anaemia, leukopenia), renal (concentrated urine, dehydration), dermatologic (lanugo hair growth, xerosis), and psychiatric comorbidities like
+anxiety
+disorders and depression.
+Management strategies for AN necessitate a multidisciplinary approach incorporating medical stabilization, nutritional rehabilitation, psychotherapy (cognitive-behavioural therapy or family-based treatment), and pharmacotherapy for comorbid conditions. Relapse prevention is vital as recovery can be protracted with significant morbidity and mortality risks associated with the disorder.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 37.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in females 5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Anorexia
+nervosa is a multifactorial condition with several risk factors and underlying causes that contribute to its onset and progression. These can be broadly categorised into genetic, biological, psychological, and sociocultural factors.
+Genetic Factors
+Family studies indicate an increased risk for first-degree relatives, suggesting a heritable component. Twin studies further corroborate this finding by demonstrating higher concordance rates in monozygotic twins compared to dizygotic twins.
+Certain gene polymorphisms have been associated with anorexia nervosa, particularly those involved in serotonin regulation and energy homeostasis.
+Biological Factors
+Endocrine disturbances such as hypercortisolemia and alterations in leptin levels have been observed in individuals with anorexia nervosa. However, it remains unclear whether these are causative or consequential.
+Neuroimaging studies have revealed structural and functional brain changes in patients with anorexia nervosa, including reduced grey matter volume and altered reward system functioning.
+Psychological Factors
+Certain personality traits are commonly found among individuals with anorexia nervosa. These include perfectionism, rigidity, harm avoidance, low self-esteem, and obsessive-compulsive tendencies.
+Prior exposure to traumatic events or adverse childhood experiences has been linked to the development of
+eating disorders
+including anorexia nervosa.
+Sociocultural Factors
+The cultural idealisation of thinness has long been recognised as a significant risk factor for the development of anorexia nervosa, particularly in Western societies.
+Pressure from peers or family members, exposure to media promoting thin ideals, and participation in activities that emphasise leanness (e.g., ballet, gymnastics) can contribute to body dissatisfaction and the onset of disordered eating behaviours.
+Improve
+Pathophysiology
+Anorexia
+nervosa
+is a complex psychiatric disorder with multifactorial pathogenesis, involving an interplay of genetic, biological, and environmental factors. The following sections elucidate the stepwise pathogenesis of this condition.
+Genetic predisposition:
+The role of genetic factors in the pathogenesis of anorexia nervosa has been supported by twin studies demonstrating higher concordance rates in monozygotic compared to dizygotic twins. There is evidence for a polygenic inheritance pattern, with multiple genes contributing small effects.
+Neurobiological alterations:
+Abnormalities in neurotransmitter systems - particularly serotonin and dopamine - have been implicated in anorexia nervosa. These neurotransmitters are involved in regulating mood and appetite, suggesting that dysregulation may contribute to the characteristic fear of weight gain and body image distortion seen in this disorder.
+Anomalies within the hypothalamic-pituitary-adrenal (HPA) axis have also been identified. Hyperactivity of this stress-response system could explain some clinical features such as hypercortisolaemia and amenorrhoea.
+Psychological factors:
+Certain personality traits are more common among those with anorexia nervosa including perfectionism, obsessionality, and harm avoidance. Cognitive inflexibility may also contribute to rigid dietary rules and body dissatisfaction.
+Sociocultural influences:
+Societal pressure for thinness can trigger dieting behaviour which may escalate into pathological eating restraint seen in anorexia nervosa. Media portrayal of 'ideal' body types can reinforce these pressures.
+Starvation and
+weight loss
+:
+Initial weight loss can lead to physiological changes that perpetuate the disorder. Starvation induces changes in neuroendocrine function, metabolism, and gut microbiota which can exacerbate fear of eating and weight gain.
+Perpetuation of the disorder:
+The aforementioned factors interact in a vicious cycle, further driving disordered eating behaviours. For example, starvation-induced cognitive impairment may reinforce rigid dietary rules and distorted body image.
+Improve
+Clinical features
+Anorexia
+nervosa is associated with a number of characteristic clinical signs and physiological abnormalities which are summarised below
+Features
+reduced body mass index
+bradycardia
+hypotension
+enlarged salivary glands
+Physiological abnormalities
+hypokalaemia
+low FSH, LH, oestrogens and testosterone
+raised cortisol and growth hormone
+impaired glucose tolerance
+hypercholesterolaemia
+hypercarotinaemia
+low T3
+Improve
+Diagnosis
+Diagnosis is now based on the DSM 5 criteria. Note that BMI and amenorrhoea are no longer specifically mentioned:
+1. Restriction of energy intake relative to requirements leading to a significantly low body weight in the context of age, sex, developmental trajectory, and physical health.
+2. Intense fear of gaining weight or becoming fat, even though underweight.
+3. Disturbance in the way in which one's body weight or shape is experienced, undue influence of body weight or shape on self-evaluation, or denial of the seriousness of the current low body weight.
+Improve
+Differential diagnosis
+Anorexia
+nervosa (AN) is a complex eating disorder characterised by restrictive eating, intense fear of gaining weight, and a distorted body image. When diagnosing AN, it is crucial to distinguish it from other conditions with overlapping features. The three most likely conditions to consider in the differential diagnosis are bulimia nervosa, major depressive disorder, and hyperthyroidism.
+Bulimia Nervosa
+Similarities:
+Both conditions involve a preoccupation with body weight and shape, as well as abnormal eating behaviours. Patients may engage in restrictive eating and excessive exercise.
+Differences:
+Unlike AN, bulimia nervosa (BN) is characterised by recurrent episodes of binge eating followed by compensatory behaviours such as self-induced vomiting, use of laxatives, or diuretics. Patients with BN typically maintain a normal weight or are slightly overweight, whereas patients with AN are significantly underweight.
+Major Depressive Disorder
+Similarities:
+Weight loss
+, lack of appetite, and a general withdrawal from social activities can occur in both conditions. Both may present with significant mood disturbances and low energy levels.
+Differences:
+In major depressive disorder (MDD), weight loss is usually unintentional and not associated with a distorted body image or fear of gaining weight. The primary focus in MDD is on the pervasive depressive mood and loss of interest in most activities, whereas in AN, the primary focus is on weight and body image.
+Hyperthyroidism
+Similarities:
+Both conditions can lead to significant weight loss,
+fatigue
+, and an increase in physical activity levels (in the form of restlessness in hyperthyroidism and excessive exercise in AN).
+Differences:
+Hyperthyroidism is a medical condition characterised by an overactive thyroid gland, leading to symptoms such as increased heart rate, heat intolerance, and tremors, which are not present in AN. Blood tests in hyperthyroidism will show elevated levels of thyroid hormones, whereas in AN, thyroid function tests are typically normal or show a low-normal thyroid function due to the body's adaptive response to starvation.
+Improve
+Management
+For adults with
+anorexia
+nervosa, NICE recommend we consider one of:
+- individual eating-disorder-focused cognitive behavioural therapy (CBT-ED)
+- Maudsley Anorexia Nervosa Treatment for Adults (MANTRA)
+- specialist supportive clinical management (SSCM).
+In children and young people, NICE recommend 'anorexia focused family therapy' as the first-line treatment. The second-line treatment is cognitive behavioural therapy.
+Improve
+Complications
+Anorexia
+nervosa can lead to a variety of serious and potentially life-threatening complications. The following are some of the most common:
+Cardiovascular complications:
+Chronic malnutrition in anorexia nervosa often results in
+bradycardia
+,
+hypotension
+, and prolonged QT interval, increasing the risk of sudden cardiac death. Mitral valve prolapse may also occur.
+Endocrine abnormalities:
+Amenorrhoea is common due to hypothalamic dysfunction. Other endocrine disturbances include thyroid dysfunction (hypothyroidism), growth hormone resistance, cortisol excess and insulin resistance.
+Gastrointestinal issues:
+Gastroparesis, constipation, and liver dysfunction are frequently observed. Superior mesenteric artery syndrome may also develop.
+Bone health:
+Osteopenia or osteoporosis can result from decreased bone mineral density due to low levels of oestrogen.
+Hematologic complications:
+Leukopenia and thrombocytopenia may occur as a result of malnutrition. Anaemia is also common.
+Nutritional deficiencies:
+These can lead to a range of complications such as pellagra, scurvy, and Wernicke's encephalopathy due to deficiency in niacin, vitamin C, and thiamine respectively.
+Mental health issues:
+Patients with anorexia nervosa often have comorbid psychiatric conditions including depression,
+anxiety
+disorders, obsessive-compulsive disorder (OCD), and increased risk of suicide.
+In addition to these primary complications directly related to anorexia nervosa, patients may also experience secondary complications due to the methods used to maintain low body weight, such as self-induced vomiting or laxative abuse. These can include electrolyte imbalances, dental issues, and Russell's sign (calluses on the knuckles).
+Improve
+Prognosis
+The prognosis of
+anorexia
+nervosa (AN) is variable and largely dependent on the duration of illness, severity of
+weight loss
+, presence of comorbid psychiatric conditions and patient's willingness to engage in treatment.
+Mortality Rates
+AN has the highest mortality rate among psychiatric disorders. The standardised mortality ratio is estimated to be around 5.86, indicating that individuals with AN are almost six times more likely to die prematurely than those without.
+Most deaths occur due to complications from severe malnutrition or suicide.
+Physical Complications
+Chronic AN can lead to a range of serious physical complications including cardiovascular problems such as
+bradycardia
+,
+hypotension
+and arrhythmias; endocrine disruptions leading to amenorrhoea and osteoporosis; gastrointestinal issues like constipation and gastroparesis; and haematological abnormalities such as anaemia and leukopenia.
+Prolonged starvation can also result in multi-organ failure.
+Psychiatric Comorbidity
+Anxiety
+disorders, depression, obsessive-compulsive disorder (OCD), substance use disorders, and personality disorders are frequently comorbid with AN which can complicate treatment and worsen prognosis.
+Treatment Outcomes
+About 50% of individuals with AN achieve full recovery while around 20-30% remain chronically ill. The remaining patients may experience partial recovery but continue to struggle with body image issues or disordered eating patterns.
+Early intervention improves outcomes significantly. Despite this, many patients delay seeking help due to denial or minimisation of their symptoms which contributes towards a poorer prognosis.
+Improve
+References
+NICE - 2017 Eating disorders: recognition and treatment
+Eating disorders
+Anorexia nervosa

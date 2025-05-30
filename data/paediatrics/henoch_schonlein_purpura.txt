@@ -1,0 +1,238 @@
+Henoch-Schonlein purpura
+Henoch-Schonlein purpura
+Henoch-Schonlein
+purpura
+(HSP), also known as anaphylactoid purpura or IgA vasculitis, is the most common form of systemic vasculitis in children. HSP is an acute immune complex-mediated small vessel vasculitis, characterised by the classic tetrad of rash,
+abdominal pain
+, arthritis/
+arthralgia
+, and glomerulonephritis. About 50% of cases of HSP can follow an upper respiratory tract infection (URTI), mainly caused by
+Streptococcus.
+Approximately 90% of cases occur in children below the age of 10 years. It is typically self-limiting in the majority of cases occurring in childhood. It occasionally affects adolescents and adults and often results in more severe disease resulting in renal damage.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: more common in males 1.2:1
+Condition
+Relative
+incidence
+Henoch-Schonlein
+purpura
+1
+IgA nephropathy
+0.30
+Immune thrombocytopenia (ITP) in children
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact cause of HSP remains unknown. Risk factors that possibly play a role include:
+Strong risk factors
+Infections:
+Approximately 50% of patients have an antecedent history of URTI, especially streptococcal infections in prior 1-3 weeks. Consequently, it mainly occurs in the autumn and winter months.
+Some patients may report previous gastrointestinal infections.
+Genetic factors, with genes encoding host defence molecules probably being triggered by environmental agents.
+Weak risk factor
+Certain drugs and vaccination
+E.g., penicillin, cefaclor, hydralazine, phenytoin and measles-mumps-rubella (MMR)
+Improve
+Pathophysiology
+HSP is believed to be type III immune complex-mediated hypersensitivity reaction, characterised by the tissue deposition of IgA-containing immune complexes within affected organs. Evidence suggests pathogenesis of HSP is similar to that of
+IgA nephropathy
+. The basic pathophysiological mechanism for HSP is:
+Antigenic stimulus (such as infections, drugs, or toxins) triggers IgA antibody production.
+IgA antibody immune complexes deposits in vascular walls, stimulating complement activation.
+Immune complex deposition causes vessel necrosis which results in organ-specific symptoms.
+Deposition in renal mesangium may result in mild proliferative to severe crescentic glomerulonephritis.
+Deposition in the gastrointestinal tract may result in
+abdominal pain
+or gastrointestinal haemorrhage.
+Deposition in the skin may result in palpable
+purpura
+and petechiae.
+Immunofluorescence studies show IgA, complement component 3 (C3), and fibrin deposition within the walls of involved vessels.
+Improve
+Clinical features
+The classic symptoms of HSP develop over days or several weeks and are usually preceded by a history of a preceding viral or bacterial upper respiratory tract infection (URTI). It is common in the male gender and age between 3 and 15 years. The classical tetrad includes
+Palpable
+purpura
+Arthritis/
+arthralgia
+Abdominal pain
+Renal disease
+The major clinical manifestations in patients with HSP are listed below.
+Skin manifestations: rash (75%)
+Typically symmetrically distributed, non-blanching palpable purpura, especially on the lower legs, buttocks, knees and elbows.
+Rash starts as erythematous, macular, or urticarial wheals and later may coalesce and evolve into the typical ecchymoses, petechiae, and palpable purpura.
+Usually occur in crops and fade over several days.
+Arthralgias/arthritis (80%)
+The knees and ankles are most often affected.
+Arthralgia is transient or migrator and may be associated with oedema.
+Gastrointestinal symptoms (50-75%)
+Colicky abdominal pain which may be severe enough to mimic an acute abdomen
+Bloody stools or melena
+Nausea
+/
+vomiting
+also occurs in about half of patients
+Intussusception is the most common gastrointestinal complication.
+Renal symptoms (40-50%)
+Vary from mild (i.e., asymptomatic haematuria and/or
+proteinuria
+) to severe (i.e., rapidly progressive nephritis, nephrotic syndrome, and renal failure).
+Other organ systems are occasionally involved and may present as
+Scrotum: scrotal pain and oedema
+Central and peripheral nervous system:
+headache
+, seizure, ataxia
+Eyes: keratitis and uveitis
+European League Against Rheumatism/Paediatric Rheumatology European Society/Paediatric Rheumatology International Trials Organisation (EULAR/PRES/PRINTO) proposed diagnostic criteria for HSP in 2010. For the diagnosis of HSP, the mandatory criterion is palpable purpura, which is not due to thrombocytopenia or coagulopathy, and one or more of the following:
+Abdominal pain (usually diffuse, with acute onset)
+Arthritis or arthralgia (acute onset)
+Renal involvement (proteinuria, hematuria)
+Leukocytoclastic vasculitis or proliferative glomerulonephritis, with predominant IgA deposition.
+Improve
+Investigations
+The diagnosis of HSP is straightforward when patients present with the classic signs and symptoms of rash, polyarthralgia,
+abdominal pain
+, and renal disease. There are no laboratory tests that are diagnostic for HSP; routine tests are not specific. However, these tests may be useful for excluding differential diagnoses of symptoms.
+Blood tests
+Coagulation studies: prothrombin time, partial thromboplastin time, and fibrinogen
+Should be normal in HSP. Helps in ruling out other diagnoses such as thrombocytopenia
+Serum creatinine and electrolyte levels
+Elevated creatinine indicates renal impairment or renal failure
+Electrolyte abnormalities may occur in patients with severe gastrointestinal symptoms.
+Inflammatory markers
+Acute phase reactant like erythrocyte sedimentation rate (ESR) is raised in 75% of the patients.
+Serum IgA levels: may be elevated, but this is not a specific test for HSP.
+Autoantibody screen:  antinuclear antibodies, antineutrophil cytoplasmic antibodies, and complement levels
+Typically negative and can help differentiate HSP from other vasculitides.
+Urine tests
+Urinalysis: done in all patients to screen renal involvement
+May show hematuria,
+proteinuria
+or casts
+Biopsy
+:  confirmation of the diagnosis in patients with an unusual presentation (e.g., headaches, seizures, or pulmonary haemorrhage) is made via biopsy of an affected organ such as skin or kidney.
+Skin biopsy:
+It is reserved for patients with an unusual presentation like an atypical rash or no rash or if diagnostic criteria based on clinical features are not met.
+A leukocytoclastic vasculitis of dermal capillaries and post-capillary venules with infiltration of IgA, C3, neutrophils, and monocytes is seen.
+Renal biopsy:
+It is reserved for patients in whom the diagnosis is doubtful or if patients have clinical evidence of severe renal impairment.
+The immunofluorescence shows IgA deposition in the mesangium hence resembling
+IgA nephropathy
+. The findings may include
+Mesangial proliferation with hypercellularity
+Focal necrosis
+Segmental capillary collapse
+Epithelial crescent formation associated with more severe inflammatory damage
+Imaging: abdominal ultrasound
+Indicated for severe abdominal pain to evaluate for intussusception or perforation. It may also be used to evaluate testicular pain and swelling
+The abdominal finding may show thickened bowel wall, decreased peristalsis, or intussusception.
+Improve
+Differential diagnosis
+The diagnosis of HSP is straightforward if it present as classic tetrad symptoms. However, the diagnosis is more difficult if there is an incomplete presentation of HSP.
+Possible differential diagnoses for
+purpura
+:
+Idiopathic thrombocytopenic purpura (ITP)
+Similarities: the rash of ITP also have petechiae similar to HSP.
+Differences: arthralgias and
+abdominal pain
+are uncommon. The platelet level is low in ITP but normal in HSP.
+Possible differential diagnoses for arthritis/
+arthralgia
+:
+Systemic lupus erythematosus (SLE)
+Similarities: May have similar clinical symptoms like HSP, but rare in children.
+Differences: On biopsy predominance of deposition of IgA is seen. Laboratory evaluation of autoantibodies helps to distinguish.
+Rheumatoid arthritis
+Similarities: clinical features resemble HSP.
+Difference: rash if present in rheumatoid arthritis, is not palpable purpura and it is more common in adults.
+Possible differential diagnoses for renal impairment:
+IgA nephropathy
+Similarities: renal symptoms and findings of renal biopsy are similar.
+Difference: however, patients with IgA nephropathy are usually between 20 to 40 years of age and do not have the other clinical manifestations of HSP.
+Possible differential diagnoses for abdominal pain:
+Acute abdominal emergency like acute appendicitis
+Similarities: before the onset of purpura, symptoms like abdominal pain can mimic acute appendicitis or gastric complications of HSP like intussusception.
+Difference: however, patients with acute appendicitis also have fever,
+nausea
+,
+vomiting
+. Ultrasonographic findings of a non-compressible, target lesion, or bull's-eye appearance of the appendix usually confirms the diagnosis of intussusception.
+Improve
+Management
+The majority of patients with HSP recover spontaneously, and no medication is effective to decrease the duration of disease or prevent complications. Most patients may be managed in the outpatient setting with supportive measures like adequate hydration, rest, and symptomatic relief of pain. The common indication for hospitalisation is listed below
+Inability to maintain adequate hydration with oral intake
+Severe
+abdominal pain
+Notable gastrointestinal bleeding
+Altered mental status
+Renal involvement (elevated creatinine), hypertension, and/or nephrotic syndrome
+Management
+Treatment of pain
+Mild to moderate
+joint pain
+can typically be managed with either ibuprofen or paracetamol.
+Mild to moderate abdominal pain is managed with paracetamol and supportive care.
+Oral glucocorticoid therapy is used to manage severe abdominal pain in HSP patients. If abdominal pain is accompanied by
+nausea
+and
+vomiting
+, intravenous corticosteroids may be used.
+Renal involvement
+Specific treatment with intravenous corticosteroids (pulse dosing) is recommended only in patients with nephrotic-range
+proteinuria
+and/or those with declining renal function.
+A combination of corticosteroids, immunosuppressants, and plasmapheresis is used in the patient with rapidly progressive nephritis.
+Renal transplant is reserved in patients who develop end-stage renal disease.'
+NSAIDs should not be used in patients with active gastrointestinal bleeding or glomerulonephritis because of their effects on platelets and renal perfusion.
+Monitoring
+Patients should be followed for at least 6 months with periodic urinalysis and BP monitoring.
+An abnormality on urinalysis should be followed by a serum creatinine to assess renal function.
+Patients with persistent proteinuria or renal insufficiency should be referred to a nephrologist for further evaluation.
+Improve
+Complications
+HSP can involve multiple organs system. The common system involved and their potential complication is listed below
+Renal complications (20%-55% of children, 70% of adults)
+Glomerulonephritis, isolated hematuria, nephrotic syndrome, chronic renal failure
+Gastrointestinal complications (50%-75%)
+Bowel infarction, intussusception, gastrointestinal haemorrhage, bowel perforation
+Skin complications
+Necrosis, bullous lesions, post-inflammatory hyperpigmentation
+Urogenital complications
+Orchitis,
+scrotal swelling
+, testicular torsion
+CNS complications
+Headaches and seizures
+Ocular complications
+Keratitis or uveitis
+Pulmonary complications
+Alveolar haemorrhage, interstitial infiltrate, pulmonary effusion
+Improve
+Prognosis
+HSP is usually a benign disease with an excellent prognosis. In the majority of cases, disease course occurs as
+Usually a self-limited clinical course
+Mean duration of 4 weeks
+Spontaneous resolution reported in 94% of children and 89% of adults
+Milder course in infants and children, disease course more likely to be severe and result in long-term renal damage in adults
+Recurrence within the first year in 30%
+Mean onset 3 months after initial resolution
+Usually associated with fewer symptoms and shorter duration than the initial episode
+Progression to end-stage renal disease reported in 1%
+Improve
+Paediatric nephrology and urology
+Henoch-Schonlein purpura

@@ -1,0 +1,233 @@
+Supraventricular tachycardia
+Supraventricular tachycardia
+Whilst strictly speaking the term supraventricular
+tachycardia
+(SVT) refers to any tachycardia that is not ventricular in origin the term is generally used in the context of paroxysmal SVT. Episodes are characterised by the sudden onset of a narrow complex tachycardia, typically an atrioventricular nodal re-entry tachycardia (AVNRT). Other causes include atrioventricular re-entry tachycardias (AVRT) and junctional tachycardias.
+Last updated: 27
+th
+March 2023
+Epidemiology
+Incidence: 36.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Atrial fibrillation
+19.44
+Supraventricular
+tachycardia
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Normally, there is a co-ordinated electrical conduction system through the heart, starting at the sinoatrial node (SA node), the original pacemaker of the heart. This signal then travels down the surrounding atrial tissue to the atrioventricular node (AV node), which delays the signal to allow for atrial contraction first. After approximately 100 milliseconds of delay, the signal travels through the His-Purkinje system to send the signal to the left and right bundle branches, distributing the electrical signs to the ventricles and allowing for ventricular contraction.
+In general, SVT is caused by 1 of 3 mechanisms, either re-entry of signals, increased automaticity, or triggered activity.
+Re-entry
+This mechanism occurs most notably in AVRT, AVNRT and some forms of atrial
+tachycardia
+In this mechanism, there is normal electrical conduction from the atria to the ventricles in the normal pathway
+However, after this, retrograde conduction occurs via an accessory pathway from the ventricles back up to the atria
+This leads to repetitive impulse propagation and subsequent tachycardia
+Increased automaticity
+This mechanism is responsible for greater than 70% of cases of focal atrial tachycardia
+Normally, the SA node is responsible for generating the spontaneous action potentials to trigger myocardial contraction
+However, due to increased automaticity, a group of cardiac cells gain the ability to generate a spontaneous action potential which takes over from the normal SA node functioning
+The occurs due to pathological changes in the normal membrane resting potential of these cells
+This leads to rapid and spontaneous depolarisation of cells, which become the dominant rhythm and therefore result in episodes of tachycardia
+Alternatively, the SA node itself may exhibit enhanced automaticity and therefore trigger action potentials more frequently, leading to tachyarrhythmias
+Triggered activity
+This mechanism is largely responsible for
+atrial fibrillation
+and
+atrial flutter
+, as well as approximately 30% of focal atrial tachycardias
+SVT as a result of triggered activity occurs due to extra depolarisations which occur immediately after cell re-polarisation, termed 'after-depolarisations'
+If the after-depolarisations reach a sufficient amplitude to bring the membrane to the electrical threshold for depolarisation, a spontaneous action potential occurs
+These spontaneous action potentials, called a triggered response, lead to extra-systoles, which have the potential to trigger subsequent tachyarrhythmias
+Improve
+Classification
+There are a number of different types of SVT, all which majorly vary in terms of their origin, pathophysiology and treatment. The most common types of paroxysmal SVT in order of frequency are atrio-ventricular nodal re-entrant
+tachycardia
+(AVNRT), atrio-ventricular re-entrant tachycardia (AVRT) and atrial tachycardia. All of which are characterised by a rapid heart rate which originates above the ventricles.
+Atrio-ventricular nodal re-entrant tachycardia (AVNRT)
+Most common form of paroxysmal SVT
+Originates from a re-entrant retrograde electrical circuit involving the AV node, resulting in initiation and propagation of a cardiac tachyarrhythmia
+Atrio-ventricular re-entrant tachycardia (AVRT)
+The second most common form of paroxysmal SVT
+Similar to AVNRT, it originates via a re-entrant retrograde electrical circuit, however it involves an accessory pathway between the atria and the ventricles, rather than the AV node
+Some forms of AVRT may exhibit a Wolff-Parkinson-White pattern, whereby an accessory pathway capable of anterograde conduction leads to pre-excitation of the ventricles
+This accessory pathway is a bypass tract, therefore avoiding the AV node and therefore the normal delay which occurs at this point
+Leads to the characteristic 'delta wave' on ECG, whereby there is up-sloping at the start of the QRS complex due to the early ventricular excitation
+Atrial tachycardia
+May be either focal or multi-focal
+Focal: due to a single focus of atrial tissue generating more rapid action potentials, leading to a rapid tachyarrhythmia
+Multi-focal: this is synonymous with
+atrial flutter
+, whereby there is a re-entrant electrical circuit in the atria (usually around the tri-cuspid annulus and cavo-tricuspid isthmus) leading to rapid and recurrent de-polarisation without normal SA node functioning and conduction
+Atrial fibrillation
+The most common cardiac arrhythmia in general, which can sometimes be paroxysmal, however is more frequently persistent (lasting greater than seven days)
+Often present in older populations
+Usually due to long-term remodelling of the atrial tissue, leading to abnormalities in the normal SA node de-polarisation and conduction
+Instead, rapid and irregular firing from focuses in the atria other than the SA node lead to fibrillatory conduction throughout the atria, and this arrhythmia tends to be sustained due to the atrial tissue structural abnormalities
+Improve
+Clinical features
+The clinical features of SVT vary depending on the age of the person affected, however these notes will focus on the clinical findings in adults.
+Clinical features
+Common symptoms for SVT include:
+Recurrent episodes of
+palpitations
+(95%)
+Dizziness
+or light-headedness (75%)
+Dyspnoea
+(45%)
+Chest pain
+or tightness
+Progressive fatigue
+Pounding in the head and/or neck
+SVT tends to present in discrete episodes which become more frequent and severe with time:
+Recurrent and paroxysmal
+Abrupt onset and offset
+Average duration of episode 10-15 minutes, but can last any period of time from seconds to hours
+Syncope
+Very uncommon
+When present, is a warning sign due to significant increase in risk of sudden cardiac death
+In adults, SVT episodes tend to present with a heart rate greater than 100 beats per minute
+Improve
+Investigations
+The episodes of SVT tend to be paroxysmal and intermittent, therefore tends to terminate prior to presentation at any healthcare service. Therefore it is paramount to obtain a good history from patients to guide the diagnosis, as often initial investigations may be entirely normal.
+Electrocardiogram
+Given majority of SVT episodes resolve prior to presentation, baseline ECG may be essentially normal
+Regularity of rhythm
+SVT is typically associated with a regular rate, notably AVNRT, AVRT, focal atrial
+tachycardia
+,
+atrial flutter
+(usually) and sinus tachycardia
+Irregular rhythms include
+atrial fibrillation
+, and multi-focal atrial tachycardia
+QRS complex
+If SVT is ongoing during ECG, it is usually a
+narrow-complex tachycardia
+(i.e. QRS less than 120 milliseconds)
+If a wide-complex tachycardia is identified, this is
+usually
+ventricular in origin, however the exclusions are SVT with aberrant conduction or anti-dromic AVRT, however these are rare
+Ambulatory (Holter) monitoring may be required to attempt to identify SVT episodes, however as the episodes are intermittent, a normal 24-48 hour reading should not exclude SVT
+Echocardiogram
+In majority of patients with SVT, an echocardiogram will be normal
+This is particularly evident in adults with SVT, usually abnormal findings only exist in infants and children (as SVT is more frequently related to congenital heart disease)
+Exercise testing
+According to UptoDate, cardiopulmonary exercise testing should be considered for patients in which their symptoms are triggered by exercise, as increased adrenergic tone can sometimes elicit episodes of SVT
+In patients where exercise does not trigger episodes, it will not yield much information for diagnosis and therefore is not normally mandated
+Improve
+Differential diagnosis
+Differential diagnoses for supraventricular
+tachycardia
+often include those presenting with symptomatic similarities (e.g.
+palpitations
+, fatigue) or those presenting with episodes of tachycardia.
+Sustained ventricular tachycardia
+Similarities
+Both may present with discrete episodes of palpitations and tachycardia
+Both may present with pre-
+syncope
+(e.g.
+dizziness
+)
+Differences
+ECG may show rapid ventricular rhythm with broad QRS complexes, whereas in SVT the QRS complexes are normally narrow
+Pre-syncope or syncope is more characteristic of ventricular tachycardia, whilst this is relatively rare in SVT and is a sign of increased mortality as a result of the condition
+Premature atrial or ventricular beats
+Similarities
+Both may present with palpitations
+Both may not show any abnormalities on ECG
+Differences
+Palpitations which last for a short instant tend to be more correlative with premature atrial or ventricular beats, whilst those which are sustained for a period of time tend to correlate with SVT
+SVT tends to be described as a 'fluttering' in the chest, whilst premature beats tend to be described as a 'flip-flopping' or a brief 'stopping' of heart beats
+Long QT syndrome
+Similarities
+Both can present with palpitations, pre-syncope and tachycardia
+Differences
+In long QT syndrome, ECG will usually show a prolonged QT interval
+If captured on ECG, episodes of torsades de pointes may be evident (spells of tachycardia followed by rapid, irregular, sharp complexes that change from upright to inverted positions)
+Long QT syndrome may have a distinct cause (e.g. electrolyte disturbances, medications including some anti-psychotics and antibiotics)
+Hyperthyroidism
+Hyperthyroidism is an important differential as it can be the cause of new onset
+atrial fibrillation
+Similarities
+Both may present with symptoms of palpitations, anxiety and/or fatigue
+Both may reveal atrial fibrillation on electrocardiography
+Particularly in older patients, tachycardia and
+dyspnoea
+tend to be the major presenting symptoms of hyperthyroidism, therefore making it difficult to differentiate
+Differences
+Will show thyroid hormone abnormalities on blood tests, and usually will respond to treatment
+Other clinical features of hyperthyroidism may be present e.g. exopthalmos, lid lag, heat intolerance, diaphoresis, weight loss
+SVT tends to occur in more discrete episodes, whilst in hyperthyroidism the symptoms tend to be continuous
+Improve
+Management
+In general, the management of SVT is both short-term and long-term, essentially terminating acute episodes of SVT for symptomatic relief, as well as long-term management to prevent recurrence. Please note the following guidelines have been created using the UK resuscitation council guidelines on peri-arrest
+arrhythmias
+.
+Acute management (haemodynamic instability)
+According to the UK resuscitation council guidelines, any patients with haemodynamic instability caused by a tachyarrhythmia require synchronised cardioversion as the first-line treatment
+Please note, while it is rare to be haemodynamically unstable from SVT, it can certainly occur
+Cardioversion
+Direct current cardioversion is required
+Should be performed under sedation or general anaesthesia
+This restores normal sinus rhythm in over 95% of cases
+Acute management of regular narrow-complex
+tachycardia
+(haemodynamically stable)
+In patients who are stable, the UK resuscitation council guidelines recommend starting with vagal manoeuvres if there is an absence of adverse features, and then followed by drug treatment if the arrhythmia is not terminated
+Vagal manoeuvres
+These are generally an appropriate first-line measure for terminating an acute episode of SVT, particularly in the community where patients can be self-taught to perform these manoeuvres
+Recommended manoeuvres according to the UK resuscitation council guidelines and UptoDate include the valsalva manoeuvre, applying a cold stimulus to the face, and carotid sinus massage
+Valsalva manoeuvres commonly used include forceful exhalation against a closed airway for approximately 15-20 seconds, blowing into an occluded straw, or adopting a head-down position for approximately 15-20 seconds (approximately 25% success rate for terminating SVT episodes)
+Cold stimulus: usually application of a bag filled with ice and cold water over the face, for approximately 15 to 30 seconds
+Carotid sinus massage: contraindicated if any history of carotid artery disease, and usually only performed in a monitored healthcare setting
+Pharmacological treatment
+The UK resuscitation council guidelines recommend use of
+adenosine
+as the preferred medication in a rapid IV bolus using a relatively large cannula and vein (success rate of approximately 85%)
+Example dosing: 6mg → if unsuccessful give 12 mg → if unsuccessful give further 18 mg
+If adenosine is contra-indicated or fails, the second-line medication to consider is verapamil, however rather as a fast bolus this is given intravenous over a two-minute period
+Acute management of irregular narrow-complex tachycardia (haemodynamically stable)
+This is most likely to be in the setting of
+atrial fibrillation
+, or less commonly
+atrial flutter
+with a variable atrio-ventricular block
+If a patient has likely been in atrial fibrillation for greater than 48-hours, they should not be treated initially with cardioversion until they have been anti-coagulated for at least three weeks, to reduce the risk of dislodging an atrial thrombus
+Note: if a patient is unstable and therefore requires urgent cardioversion, weight-adjusted low molecular weight heparin or unfractionated heparin should be given first
+Heparin treatment as well as oral anti-coagulation should be commenced after cardioversion (whether successful or not)
+If the duration of AF is less than 48-hours and rhythm control is ideal, chemical cardioversion using flecainide, propafenone or amiodarone may be considered
+This is always done with expert consultation
+Flecainide or propafenone cannot be used in the setting of known structural heart disease or heart failure
+Long-term management
+Usually, long-term management is only indicated if the frequency and severity of SVT episodes significantly impacts on the patients quality of life and functioning
+Indications for definitive or long-term treatment include:
+Recurrent symptomatic SVT episodes affecting quality of life
+Evidence of Wolff-Parkinson-White on ECG and symptoms of SVT episodes
+Infrequent SVT episodes but in a profession or sport which puts themselves or others at risk (e.g. drivers, pilots, surgeons)
+Options for long-term management
+For most patients, radio-frequency ablation is preferred due to the low risk of complications and high success rate (>95%)
+However, for those who decline ablation, pharmacological treatment usually involves beta blockers or calcium-channel blockers as a first-line option
+Second-line medication options include flecainide and sotalol
+Improve
+References
+Life in the Fast Lane - Supraventricular tachycardia
+Resuscitation Council UK - 2021 Tachycardia algorithm
+Arrhythmias
+Supraventricular tachycardia

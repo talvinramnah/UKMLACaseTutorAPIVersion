@@ -1,0 +1,74 @@
+Lichen planus
+Lichen planus
+Lichen planus is an inflammatory condition that affects the skin, hair, nails and mucous membranes. The aetiology is unknown but it's thought to be related to an autoimmune response triggered by various factors such as viral infections, allergens or drugs. Clinically, it presents as pruritic, polygonal, flat-topped violaceous papules often with Wickham's striae. Mucosal involvement can lead to oral or genital ulcerations.
+Diagnosis is primarily clinical but may be supported by histopathology revealing hyperkeratosis, acanthosis and a band-like lymphocytic infiltrate at the dermo-epidermal junction. Management involves corticosteroids topically or systemically depending on severity and extent of disease. Non-steroidal treatments include retinoids, phototherapy and immunosuppressants for refractory cases.
+The course of lichen planus is unpredictable; spontaneous resolution may occur over months to years while some forms are chronic and relapsing. It has potential malignant transformation especially in oral lesions so regular follow-up is recommended.
+Last updated: 22
+nd
+July 2024
+Pathophysiology
+Lichen planus is a chronic inflammatory condition that affects the skin, mucous membranes and appendages. The pathophysiology of lichen planus involves complex interactions between the immune system and keratinocytes, leading to characteristic clinical manifestations.
+Immunological Mechanisms
+The initial trigger in lichen planus remains unknown; however, it's suggested that certain factors including viral infections (like
+Hepatitis C
+) or drugs may induce an autoimmune response.
+T-cells play a pivotal role in the pathogenesis of lichen planus. Upon activation by an unknown antigen, CD8+ cytotoxic T-cells infiltrate the epithelium.
+These activated T-cells release cytokines such as interferon-gamma and tumor necrosis factor-alpha which promote inflammation and further recruitment of inflammatory cells.
+Keratinocyte Damage and Apoptosis
+In response to the cytokine storm, basal keratinocytes express MHC class I molecules abnormally. This expression makes them targets for cytotoxic T-cell mediated apoptosis, leading to basal cell layer degeneration - a hallmark feature of lichen planus.
+Apoptotic keratinocytes form colloid bodies or Civatte bodies, another characteristic histopathological finding in lichen planus.
+Clinical Manifestations
+The immunological assault on keratinocytes and subsequent tissue damage result in distinctive clinical features of lichen planus: flat-topped violaceous papules with Wickham's striae (reticulate white lines).
+Mucosal involvement can lead to oral or genital ulcers while nail involvement can result in ridging or nail loss.
+Pathological Features
+Histologically, lichen planus is characterised by a band-like lymphocytic infiltrate at the dermo-epidermal junction, hypergranulosis, acanthosis and basal cell layer degeneration.
+Immunofluorescence studies show shaggy deposition of fibrinogen along the basement membrane zone, further affirming the diagnosis.
+In summary, the pathophysiology of lichen planus involves an abnormal immune response leading to T-cell mediated injury to keratinocytes. This process results in distinctive clinical and pathological features that aid in diagnosis.
+Improve
+Clinical features
+Features
+itchy, papular rash most common on the palms, soles, genitalia and flexor surfaces of arms
+rash often polygonal in shape, with a 'white-lines' pattern on the surface (Wickham's striae)
+Koebner phenomenon may be seen (new skin lesions appearing at the site of trauma)
+oral involvement in around 50% of patients: typically a white-lace pattern on the buccal mucosa
+nails: thinning of nail plate, longitudinal ridging
+Improve
+Investigations
+Lichen planus is typically a clinical diagnosis, made based on the characteristic clinical features. However, in cases where the diagnosis is uncertain or to confirm atypical cases, some investigations may be warranted.
+First-line investigations
+Biopsy:
+A skin biopsy is often the first-line investigation for lichen planus. This can help confirm the diagnosis and rule out other differential diagnoses. The histopathological features of lichen planus include hyperkeratosis, acanthosis, liquefactive degeneration of basal cells and a band-like lymphocytic infiltrate at the dermoepidermal junction.
+Further investigations
+Direct immunofluorescence (DIF):
+DIF can be used as an adjunct to histopathology in certain cases. In lichen planus, DIF usually shows shaggy fibrinogen deposition along the basement membrane zone.
+Blood tests:
+While there are no specific blood tests for diagnosing lichen planus, they may be useful in identifying underlying systemic conditions that could be associated with it such as hepatitis C infection. Full blood count (FBC), liver function tests (LFTs) and hepatitis serology may therefore be considered.
+Patch testing:
+If lichenoid drug eruption is suspected as a cause of the rash, patch testing can be performed to identify potential allergens.
+Improve
+Differential diagnosis
+The differential diagnosis of Lichen planus encompasses several conditions that can mimic its clinical presentation. These include Psoriasis, Eczema (atopic dermatitis) and Discoid lupus erythematosus.
+Psoriasis
+Unlike the flat-topped papules characteristic of Lichen planus, Psoriasis presents with well-demarcated, erythematous plaques covered by silvery scales.
+In contrast to Wickham's striae seen in Lichen planus, Auspitz sign (pinpoint bleeding on removal of scales) is a feature unique to Psoriasis.
+Nail involvement in psoriasis may manifest as pitting and onycholysis while in Lichen planus it often results in longitudinal ridging or nail plate thinning.
+Eczema (Atopic Dermatitis)
+Eczema predominantly affects flexural areas such as the antecubital and popliteal fossae, whereas Lichen planus favours the wrists, ankles and oral mucosa.
+While both conditions can cause pruritus, eczematous lesions are generally more pruritic than those of Lichen planus.
+The primary lesions in Eczema are ill-defined erythematous patches with vesicles and exudation. This contrasts with the violaceous polygonal papules seen in Lichen planus.
+Discoid Lupus Erythematosus (DLE)
+Despite sharing a predilection for sun-exposed areas with lichen planus, DLE typically presents as annular plaques with scale-crust at the periphery creating a 'disc-like' appearance.
+The hyperpigmentation seen post-inflammation in DLE is more pronounced than in Lichen planus, often leaving behind atrophic scars.
+Unlike Lichen planus, DLE may be associated with systemic symptoms if it evolves into Systemic Lupus Erythematosus (SLE).
+Improve
+Management
+Management
+topical steroids are the mainstay of treatment
+benzydamine mouthwash or spray is recommended for oral lichen planus
+extensive lichen planus may require oral steroids or immunosuppression
+Improve
+References
+DermNet NZ - Lichen planus
+Primary Care Dermatology Society - Lichen planus
+Dermatology
+Lichen planus

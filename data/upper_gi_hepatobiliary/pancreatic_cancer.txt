@@ -1,0 +1,307 @@
+Pancreatic cancer
+Pancreatic cancer
+Pancreatic
+cancer
+is a highly malignant neoplasm originating from the exocrine or endocrine cells of the pancreas. Adenocarcinoma, arising from ductal epithelium, constitutes approximately 85% of cases.
+The clinical presentation varies depending on tumour location within the pancreas; however, common symptoms include
+weight loss
+,
+jaundice
+(particularly in head lesions),
+abdominal pain
+radiating to the back, and
+anorexia
+. Due to its insidious onset and nonspecific symptomatology, diagnosis is often delayed until advanced stages.
+Diagnostic modalities encompass imaging studies such as computed tomography (CT), magnetic resonance imaging (MRI), and endoscopic ultrasound (EUS). Serum tumour markers like
+CA 19-9
+can be elevated but are not specific to pancreatic cancer.
+Definitive management involves surgical resection with curative intent - including pancreaticoduodenectomy (Whipple procedure) for head lesions and distal pancreatectomy for body/tail lesions. Unfortunately, only a minority of patients are eligible for surgery due to late-stage diagnosis or metastasis. In these cases, palliative measures such as stenting or bypass procedures can alleviate symptoms. Chemotherapy regimens may offer survival benefits in certain patient populations.
+Despite advancements in treatment options and understanding of disease pathophysiology, prognosis remains poor with a five-year survival rate below 10%.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 15.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Pancreatic
+cancer
+1
+Cholangiocarcinoma
+0.11
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Pancreatic
+cancer
+is a multifactorial disease, with both genetic and environmental factors contributing to its development. The risk factors for pancreatic cancer can be divided into modifiable and non-modifiable categories.
+Non-Modifiable Risk Factors:
+Age:
+The incidence of pancreatic cancer increases with age, with the majority of cases diagnosed in individuals aged 60 and above.
+Sex:
+Males are slightly more likely to develop pancreatic cancer than females.
+Race/Ethnicity:
+Pancreatic cancer is more prevalent in African Americans compared to Caucasians. Additionally, Ashkenazi Jews have a higher incidence due to a higher prevalence of BRCA2 mutations.
+Familial History:
+A family history of pancreatic cancer significantly increases an individual's risk. This may be attributed to inherited genetic syndromes such as hereditary pancreatitis, Peutz-Jeghers syndrome, familial atypical multiple mole melanoma (FAMMM) syndrome, Lynch syndrome, or BRCA2 gene mutations.
+Modifiable Risk Factors:
+Tobacco Smoking:
+Tobacco smoking doubles the risk of developing pancreatic cancer. It is responsible for approximately 20-30% of all exocrine pancreatic cancers.
+Diet:
+Diets high in red and processed meats have been linked with an increased risk of pancreatic cancer. Conversely, diets rich in fruits and vegetables may offer protective benefits.
+BMI & Physical Inactivity:
+Obesity and physical inactivity increase the risk of developing this malignancy. Studies suggest that obese individuals (BMI >30) have a 20% increased risk.
+Alcohol Consumption:
+Chronic heavy alcohol consumption, particularly in individuals with alcoholic pancreatitis, increases the risk of pancreatic cancer.
+Chronic Pancreatitis
+:
+Long-standing inflammation of the pancreas, often due to alcohol abuse or hereditary factors, increases the risk. This is especially true for individuals with hereditary pancreatitis who have a significantly elevated risk.
+Diabetes Mellitus:
+Both type 1 and type 2 diabetes are associated with an increased risk of pancreatic cancer. The association is stronger for type 2 diabetes.
+Improve
+Pathophysiology
+Pancreatic
+cancer
+predominantly arises from the exocrine component, with pancreatic ductal adenocarcinoma (PDAC) being the most common type. The pathophysiology involves a complex interplay of genetic, molecular, and cellular changes.
+Initial changes occur at the cellular level with genetic mutations, particularly in oncogenes like KRAS, tumour suppressor genes such as TP53, CDKN2A, and SMAD4, and other genes involved in cellular pathways. These mutations lead to unregulated cell growth and the formation of precursor lesions known as pancreatic intraepithelial neoplasia (PanIN). These lesions progressively accumulate genetic alterations, facilitating the transition to invasive carcinoma.
+As the cancerous cells proliferate, they exhibit significant alterations in cellular signalling pathways, notably the MAPK and PI3K-AKT pathways, which promote cell survival and proliferation. There is also dysregulation in the TGF-β signalling pathway, which normally inhibits cell growth, but in the context of pancreatic cancer, it may paradoxically facilitate tumour progression and metastasis.
+The tumour microenvironment (TME) plays a crucial role in pancreatic cancer pathophysiology. The TME is characterised by a dense desmoplastic stroma composed of fibroblasts, immune cells, extracellular matrix components, and blood vessels. Cancer-associated fibroblasts (CAFs) within the stroma secrete growth factors, cytokines, and extracellular matrix proteins, which support tumour growth, invasion, and resistance to therapies. The desmoplastic reaction also leads to increased interstitial pressure and hypoxia, which can further promote tumour aggression and impair drug delivery.
+Pancreatic tumours exhibit remarkable immunoevasion mechanisms. They create an immunosuppressive environment by recruiting regulatory T cells (Tregs), myeloid-derived suppressor cells (MDSCs), and tumour-associated macrophages (TAMs). These cells secrete immunosuppressive cytokines like IL-10 and TGF-β, which inhibit cytotoxic T lymphocytes and natural killer cells, thus allowing the tumour to evade immune surveillance.
+The anatomical location of the pancreas and its relationship with surrounding structures significantly contribute to the clinical manifestations of pancreatic cancer. As the tumour grows, it often invades nearby structures such as the bile duct, leading to obstructive
+jaundice
+, or the duodenum, causing gastric outlet obstruction. Additionally, involvement of the splanchnic nerves can result in severe, intractable pain, commonly referred to as pancreatic pain.
+Metastasis is a hallmark of pancreatic cancer and often occurs early in the disease course. Common sites include the liver, peritoneum, lungs, and regional lymph nodes. The metastatic process involves epithelial-mesenchymal transition (EMT), where epithelial cancer cells acquire mesenchymal properties, enhancing their migratory and invasive capabilities. Circulating tumour cells (CTCs) disseminate through the bloodstream and establish secondary tumours in distant organs.
+Alterations in metabolism are notable in pancreatic cancer cells. They exhibit the Warburg effect, where there is increased glycolysis even in the presence of oxygen, providing both energy and biosynthetic precursors for rapidly proliferating cells. Additionally, pancreatic cancer cells demonstrate an increased reliance on glutamine metabolism and autophagy to sustain their growth under nutrient-deprived conditions.
+The molecular and cellular changes in pancreatic cancer culminate in various clinical manifestations such as
+weight loss
+, diabetes mellitus,
+abdominal pain
+, and digestive disturbances. The metabolic dysregulation and cachexia associated with pancreatic cancer contribute significantly to the overall morbidity and mortality of the disease.
+Improve
+Clinical features
+Features
+classically painless
+jaundice
+Courvoisier's law states that in the presence of painless obstructive jaundice, a palpable gallbladder is unlikely to be due to gallstones (
+however, patients typically present in a non-specific way with
+anorexia
+,
+weight loss
+, epigastric pain
+loss of exocrine function (e.g.
+steatorrhoea
+)
+loss of endocrine function (e.g. diabetes mellitus)
+atypical
+back pain
+is often seen
+migratory thrombophlebitis (Trousseau sign) is more common than with other cancers
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for pancreatic cancer suggest the following:
+Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for pancreatic cancer if they are aged 40 and over and have
+jaundice
+.
+Consider an urgent direct access CT scan (to be performed within 2 weeks), or an urgent ultrasound scan if CT is not available, to assess for pancreatic cancer in people aged 60 and over with
+weight loss
+and any of the following:
+diarrhoea
+back pain
+abdominal pain
+nausea
+vomiting
+constipation
+new-onset diabetes
+Improve
+Investigations
+Pancreatic
+cancer
+investigation involves a stepwise approach, starting with first-line investigations and then progressing to more specific tests as required. The aim is to confirm the diagnosis, determine the stage of the disease, and assess the patient's fitness for potential treatment.
+First-Line Investigations:
+Blood Tests:
+A full blood count (FBC), liver function tests (LFTs), and serum calcium levels are useful for assessing the patient's overall health status. Tumour markers such as
+CA19-9
+may be elevated in pancreatic cancer but should not be used in isolation to diagnose or exclude the condition due to their lack of specificity.
+Imaging Studies:
+An abdominal ultrasound is often performed initially as it is non-invasive, widely available and can identify masses in the pancreas. However, its sensitivity is limited particularly for smaller lesions or those located in the body or tail of the pancreas.
+If these initial investigations raise suspicion of pancreatic cancer or are inconclusive, further diagnostic testing is warranted.
+Further Investigations:
+Computed Tomography (CT) Scan:
+This is considered the imaging modality of choice for diagnosing pancreatic cancer. A contrast-enhanced multiphase CT scan provides high-resolution images that can detect small tumours, delineate local invasion and assess vascular involvement. It also allows evaluation of distant metastasis.
+Magnetic Resonance Imaging (MRI):
+MRI including MR cholangiopancreatography (MRCP) can provide additional information on biliary and pancreatic ductal anatomy which can be useful if considering surgical intervention. It may be preferred over CT when iodinated contrast agents are contraindicated.
+Endoscopic Ultrasound (EUS):
+EUS can detect smaller lesions that may be missed by CT or MRI. It also allows for fine-needle aspiration (FNA) biopsy, providing cytological confirmation of malignancy. However, it is operator-dependent and not universally available.
+Positron Emission Tomography (PET) Scan:
+PET scan has a role in staging and restaging of pancreatic cancer. It can identify metastases not seen on other imaging modalities but is generally reserved for situations where there is a discrepancy between the clinical picture and other investigations.
+Improve
+Differential diagnosis
+Pancreatic
+cancer
+often presents with non-specific symptoms, which can make its diagnosis challenging. The differential diagnosis primarily includes
+chronic pancreatitis
+, pancreatic pseudocyst and ampullary carcinoma.
+Chronic Pancreatitis
+Chronic pancreatitis is a long-standing inflammation of the pancreas that results in irreversible damage. It can be caused by multiple factors including alcohol abuse, gallstones, autoimmune conditions and genetic mutations among others.
+Clinical Presentation:
+Both chronic pancreatitis and pancreatic cancer share similar clinical features such as
+abdominal pain
+,
+weight loss
+,
+jaundice
+and
+steatorrhoea
+. However, in contrast to pancreatic cancer where pain is often insidious and progressive, patients with chronic pancreatitis may experience episodic pain that could be related to meals or alcohol intake. Additionally, the presence of calcifications on imaging may suggest chronic pancreatitis rather than malignancy.
+Pancreatic Pseudocyst
+A pancreatic pseudocyst is a collection of fluid around the pancreas associated with acute or chronic pancreatitis. They are usually walled off by fibrous tissue without an epithelial lining.
+Clinical Presentation:
+Patients with a pancreatic pseudocyst typically present with abdominal discomfort or pain, early satiety and weight loss due to mechanical compression effects. Unlike pancreatic cancer which might present with obstructive jaundice due to common bile duct obstruction, jaundice is less common in pseudocysts unless there's co-existing biliary tract disease.
+Ampullary Carcinoma
+Ampullary carcinoma originates from the ampulla of Vater where the common bile duct and pancreatic duct drain into the duodenum. It accounts for only 0.2% of all gastrointestinal malignancies.
+Clinical Presentation:
+Both ampullary carcinoma and pancreatic cancer can present with painless jaundice, weight loss and
+pruritus
+. However, patients with ampullary carcinoma may also present with pancreatitis due to tumour obstruction of the pancreatic duct. In contrast to pancreatic cancer where jaundice is often progressive and persistent, jaundice in ampullary carcinoma can be intermittent due to the ball-valve effect of the tumour.
+Improve
+Staging
+The staging of pancreatic
+cancer
+is based on the TNM (Tumour, Node, Metastasis) system by the American Joint Committee on Cancer (AJCC). It helps in understanding the extent of disease and planning appropriate treatment strategies.
+Primary Tumour (T)
+Tis:
+Carcinoma in situ, with abnormal cells only in the top layers of pancreatic ducts.
+T1:
+The tumour is 2 cm or less and confined to pancreas.
+T2:
+The tumour is larger than 2 cm but still confined to pancreas.
+T3:
+The tumour has grown into nearby structures beyond pancreas but not blood vessels or nerves.
+T4:
+The tumour has grown into major blood vessels or nerves regardless of size.
+Regional Lymph Nodes (N)
+N0:
+No regional lymph node involvement.
+N1:
+Regional lymph node metastasis present.
+Distant Metastasis (M)
+M0:
+No distant metastasis.
+M1:
+Distant metastasis present; commonly liver or peritoneal surfaces.
+The overall stage grouping involves a combination of T, N, M categories:
+Stage 0: Tis, N0, M0
+Stage I: T1-T2, N0, M0
+Stage II: T3, N0, M0 or T1-T3, N1, M0
+Stage III: T4, Any N, M0
+Stage IV: Any T, Any N, M1
+Improve
+Management
+Management of pancreatic
+cancer
+involves a multidisciplinary approach that may include surgical resection, chemotherapy, and palliative care. Early diagnosis is key to improving prognosis. The management strategy will depend on the stage of the disease, patient's overall health status and their personal preferences.
+Surgical Management
+Less than 20% are suitable for surgery at diagnosis
+Resectable pancreatic cancer:
+Potentially curative treatment involves surgical resection. Options include pancreaticoduodenectomy (Whipple procedure), distal pancreatectomy or total pancreatectomy.
+Side-effects of a Whipple's include dumping syndrome and peptic ulcer disease
+Borderline resectable pancreatic cancer:
+Neoadjuvant therapy (chemotherapy and/or radiotherapy) may be considered to increase the chances of successful surgical removal.
+Chemotherapy
+This can be used in the neoadjuvant setting for borderline resectable tumours, adjuvant setting post-surgery to reduce recurrence risk, or palliative setting for unresectable tumours.
+FOLFIRINOX (combination of fluorouracil, leucovorin, irinotecan, and oxaliplatin) or gemcitabine plus nab-paclitaxel are commonly used regimens.
+Radiation Therapy
+May be used in combination with chemotherapy in the neoadjuvant setting for borderline resectable tumours or as a part of palliative care for symptom control in advanced disease.
+Palliative Care
+For patients with advanced disease where curative treatment is not possible.
+Pain control: Often achieved by coeliac plexus block or analgesics.
+Biliary obstruction: Managed by endoscopic stenting or surgical bypass.
+Gastric outlet obstruction: Managed by endoscopic stenting or surgical bypass.
+Improve
+Complications
+Pancreatic
+cancer
+is associated with a variety of complications, both due to the tumour's local effects and systemic implications. These complications significantly impact morbidity and mortality. The most likely and clinically significant complications are discussed below.
+Jaundice
+Obstruction of the common bile duct by the tumour can lead to jaundice, characterised by yellowing of the skin and sclera, dark urine, and pale stools.
+Pruritus
+and cholangitis can also occur due to bile duct obstruction.
+Weight Loss
+and Cachexia
+Malnutrition results from
+anorexia
+, tumour-induced metabolic changes, and malabsorption due to exocrine insufficiency.
+Cachexia is often seen in advanced stages and is associated with a poor prognosis.
+Pain
+Abdominal pain
+is common, often radiating to the back due to retroperitoneal invasion.
+Pain management is crucial and may require opioids or nerve blocks.
+Diabetes Mellitus
+Pancreatic cancer can lead to new-onset diabetes or worsen pre-existing diabetes due to the destruction of insulin-producing cells.
+Management involves careful monitoring of blood glucose levels and appropriate antidiabetic therapy.
+Pancreatitis
+Tumour obstruction of the pancreatic duct can cause acute or
+chronic pancreatitis
+.
+This presents with severe abdominal pain and elevated pancreatic enzymes.
+Gastrointestinal Obstruction
+Duodenal obstruction can occur, leading to
+nausea
+,
+vomiting
+, and early satiety.
+Surgical or endoscopic interventions may be required to relieve the obstruction.
+Venous Thromboembolism
+Pancreatic cancer is highly thrombogenic, leading to an increased risk of deep vein thrombosis and pulmonary embolism.
+Prophylactic anticoagulation may be considered in high-risk patients.
+Liver Metastasis
+Metastatic spread to the liver can cause
+hepatomegaly
+, liver dysfunction, and further jaundice.
+Systemic chemotherapy and targeted therapies are employed to manage metastatic disease.
+Psychosocial Complications
+Depression and anxiety are common in patients with pancreatic cancer, affecting quality of life and treatment adherence.
+Psychological support and counselling are essential components of comprehensive care.
+Improve
+Prognosis
+The following table illustrates the 5-year survival rates for pancreatic
+cancer
+according to the cancer stage:
+Stage
+5-year Survival Rate
+Stage 0
+60-70%
+Stage IA
+40-50%
+Stage IB
+30-40%
+Stage IIA
+20-30%
+Stage IIB
+10-20%
+Stage III
+3-6%
+Stage IV
+<1%
+Note: The survival rates for rare subtypes of pancreatic cancer, such as neuroendocrine tumours, may differ significantly from those presented in this table.
+Several factors can impact the prognosis of pancreatic cancer patients, including:
+Age: Older patients generally have a poorer prognosis.
+Overall health: Comorbidities and poor general health can negatively impact survival rates.
+Tumour size and location: Larger tumours and those located near vital structures may have a worse prognosis.
+Surgical resection: The ability to perform surgical resection can significantly affect survival rates. Early-stage tumours that can be resected have the best prognosis.
+Improve
+Cancer
+Pancreatic cancer

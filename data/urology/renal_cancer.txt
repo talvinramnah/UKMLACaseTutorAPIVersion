@@ -1,0 +1,234 @@
+Renal cancer
+Renal cancer
+Renal (kidney)
+cancer
+is the 7th most common cancer in men, and the 10th most common in women. Malignancy can arise from the renal parenchyma/cortex, but also from the urothelial cells of the renal pelvis. Renal cell carcinoma (RCC) accounts for >80% of all kidney cancers.
+The typical presentation is with a triad of
+haematuria
+,
+loin pain
+, and a palpable abdominal mass. However, the majority of RCCs are detected incidentally on ultrasound or CT imaging.
+Management of early tumours is with surgery, whilst systemic treatment with VEGF inhibitors and/or immunotherapy is used for metastatic disease.
+The overall 5-year survival for RCC is  >68% however this depends largely on stage at diagnosis, as well as on key prognostic factors.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 21.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.7:1
+Condition
+Relative
+incidence
+Renal
+cancer
+1
+Bladder cancer
+0.81
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of renal
+cancer
+is multifactorial and complex, with both genetic and environmental factors playing significant roles. The risk factors can be broadly categorised into modifiable and non-modifiable.
+Modifiable Risk Factors:
+Smoking:
+Chronic exposure to the carcinogens found in tobacco smoke increases the risk of renal cell carcinoma (RCC).
+Obesity:
+Excessive body weight increases the risk of RCC. This may be due to changes in hormones associated with obesity that can lead to kidney disease.
+Hypertension
+:
+High blood pressure over time can cause damage to the kidney's blood vessels, increasing the risk of RCC.
+Occupational Exposure:
+Exposure to certain substances such as asbestos, cadmium, certain organic solvents or specific types of dust significantly increase the risk for developing RCC.
+Non-modifiable Risk Factors:
+Age and Gender:
+The incidence of RCC increases with age, peaking at ages 60-70 years. It is more common in men than women.
+Race/Ethnicity:
+Black individuals have a higher incidence of RCC compared to other races. The reasons for this disparity are not fully understood but may involve social, economic or other factors.
+Familial Syndromes:
+Hereditary syndromes such as Von Hippel-Lindau disease or Birt-Hogg-Dubé syndrome are associated with an increased risk for developing RCC.
+In addition to these established risk factors, emerging evidence suggests potential associations between renal cancer and other factors such as chronic kidney disease, dietary patterns and physical activity levels; however, further research is required in these areas.
+Improve
+Pathophysiology
+Renal
+cancer
+, also referred to as renal cell carcinoma (RCC), is a complex disease with diverse pathophysiological mechanisms. The key steps in the pathogenesis of renal cancer include genetic mutations, tumour growth and development, angiogenesis, invasion and metastasis.
+Genetic Mutations
+The initial step in the pathogenesis of renal cancer involves genetic mutations. These can occur spontaneously or be inherited. The most common type of RCC, clear cell RCC, is often associated with mutations in the
+Von Hippel-Lindau
+(VHL) gene. This gene normally suppresses tumour growth; however, when mutated, it leads to uncontrolled cell proliferation.
+Tumour Growth and Development
+Mutations in VHL result in an accumulation of hypoxia-inducible factor (HIF). Under normal oxygen conditions, HIF is degraded; however, when VHL is dysfunctional due to mutation, HIF accumulates even under normoxic conditions. This accumulation promotes the transcription of genes that stimulate cell division and survival, contributing to tumour growth and development.
+Angiogenesis
+The heightened levels of HIF also stimulate the production of vascular endothelial growth factor (VEGF) and platelet-derived growth factor (PDGF). These factors promote angiogenesis - the formation of new blood vessels - providing the growing tumour with necessary nutrients and oxygen.
+Invasion and Metastasis
+The final stages in renal cancer pathophysiology involve local invasion into surrounding tissues and metastasis to distant sites. Tumours secrete matrix metalloproteinases (MMPs), which degrade extracellular matrix proteins allowing for invasion into neighbouring tissues. Furthermore, changes in adhesion molecules such as E-cadherin facilitate detachment from the primary site and subsequent metastasis.
+The understanding of these pathophysiological steps has led to the development of targeted therapies. For instance, tyrosine kinase inhibitors (TKIs) target VEGF signalling, reducing angiogenesis and thus tumour growth. Similarly, immune checkpoint inhibitors have been employed to enhance the immune response against renal cancer cells.
+Improve
+Clinical features
+Over 50% of RCCs are detected
+incidentally
+on ultrasound and CT imaging.
+However, the
+classical triad
+associated with RCC is:
+Flank pain
+Haematuria
+: may be micro or macroscopic
+Palpable abdominal mass
+This presentation is uncommon (occurs in roughly 10%) and suggests locally advanced disease.
+Other clinical signs of RCC may include:
+Scrotal varicocele: usually left sided due to obstruction of the left gonadal vein
+Lower limb oedema: due to compression of the inferior vena cava
+Patients may uncommonly present with
+symptoms of metastatic disease
+, such as bone pain.
+Patients may also presents with
+paraneoplastic syndromes
+(20-30%) which are non-specific to RCC. These include:
+Hypercalcaemia
+: due to bony metastasis, or production of PTHrP by tumour cells
+Unexplained
+fever
+(found in 20-30% patients): thought to be mediated by cytokines including TNF-α and IL-6.
+Stauffer's syndrome: hepatic dysfunction (elevated ALT/AST) in the absence of liver metastases, which resolves on nephrectomy.
+Cushing's syndrome: caused by excess production of ACTH by tumour cells
+Polycythaemia
+: due to excess EPO production by tumour cells
+Neuromyopathies: may be sensory or motor. Degree of severity varies from nonspecific myalgia to bilateral phrenic nerve paralysis.
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for renal cancer suggest the following:
+Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for renal cancer if they are aged 45 and over and have:
+unexplained visible
+haematuria
+without urinary tract infection or
+visible haematuria that persists or recurs after successful treatment of urinary tract infection.
+Improve
+Investigations
+Laboratory investigations
+Suspicion of RCC shoulder prompt measurement of routine lab investigations including: LDH, FBC, LFTs, U&Es and calcium.
+These are useful in order to identify the presence of metastatic disease and/or paraneoplastic syndromes.
+Imaging
+Imaging is paramount to diagnosis, regardless of presentation.
+Ultrasound (USS) is an appropriately sensitive initial imaging - especially for distinguishing RCC from benign lesions - however it is not sufficient to confirm diagnosis. Overall detection rate for RCC is as low as 71% with conventional ultrasound, and CT is essential if ultrasound or clinical findings are suspicious for RCC.
+CT
+with contrast is the definitive test most commonly used for initial diagnosis of renal malignancy. Contrast-enhanced CT has 100% specificity and ≥90% sensitivity for characterising a malignant renal mass.
+MRI may provide additional information in determining local advancement, such as adrenal invasion and vena cava involvement by tumour or thrombus.
+cancer
+. Note the heterogeneously enhancing mass at the upper pole of the right kidney">
+Improve
+Differential diagnosis
+Depending on the patient's presentation, differential diagnoses may include:
+Benign renal cyst: distinguished on imaging using Bosniak classification (determines risk of malignancy based on tumour appearance). If borderline score, interval imaging may be used to identify any change in tumour appearance.
+Angiomyolipoma (benign neoplasm): Clinically indistinguishable from RCC. Patients usually asymptomatic. Distinguished on CT/MRI as small (<1 cm) lesions with characteristic features, such a particular fat distribution).
+Ureteric malignancy: presents more frequently with macroscopic
+haematuria
+. USS will distinguish from RCC.
+Bladder
+cancer
+: presents with dysuria and frank haematuria. USS will distinguish from RCC.
+Congenital renal abnormalities: distinguished from RCC using CT and particularly MRI.
+Improve
+Staging
+Imaging:
+In order to accurately stage a RCC,
+contrast-enhanced CT chest, abdominal and pelvis
+is necessary.
+Bone scan and brain imaging (CT or MRI) are not recommended routinely,  unless indicated by clinical or laboratory signs or symptoms.
+Biopsy:
+A
+core biopsy
+provides histopathological confirmation of malignancy.
+Complications, such bleeding or tumour seeding are rare.
+The biopsy sample provides the final histopathological diagnosis, classification, grading and evaluation of prognostic factors.
+Staging of RCC
+The widely used TNM classification is used to stage RCC
+T (primary tumour):
+TX: primary tumour cannot be assessed
+T0: no evidence of primary tumour
+T1: tumour confined to the kidney, and â≤7 cm in greatest dimension
+T2: tumour confined to the kidney, and >7 cm in greatest dimension
+T3: tumour extends into major veins or perinephric tissue, but not into the ipsilateral adrenal gland and not beyond Gerota fascia
+T4: tumour invades beyond Gerota fascia (including contiguous extension into the ipsilateral adrenal gland).
+N (regional lymph nodes, including hilar, abdominal para-aortic, and paracaval lymph nodes)
+NX: regional lymph nodes cannot be assessed
+N0: no regional lymph node metastasis
+N1: metastasis in regional lymph node(s).
+M (distant metastasis)
+M0: no distant metastasis
+M1: distant metastasis.
+Improve
+Management
+The following is based on the ESMO (European Society for Medical Oncology) Clinical Practice Guidelines for diagnosis, treatment and follow-up 2019.
+Management of
+early-stage RCC (T1 and T2)
+:
+Surgery is the mainstay for localised disease
+Partial nephrectomy is the preferred option in organ-confined tumours measuring up to 7 cm (T1)
+Radical nephrectomy is the preferred option for T2 tumours.
+Ablative therapies are options for patients with small tumours (<= 3 cm); especially for those who present a high surgical risk or with compromised renal function.
+Management of
+locally advanced RCC (T3 and T4)
+:
+Radical nephrectomy + lymph node dissection is the standard of care
+Neo-Adjuvant Therapy: Tyrosine kinase inhibitors (TKIs) or immunotherapy can be considered to downsize the tumour before surgery.
+Management of
+metastatic RCC
+:
+Surgery in the form of cytoreductive nephrectomy is generally only indicated in patients with good performance status and with few isolated sites of distant disease.
+The mainstay of treatment is systemic therapy.
+First line treatment is determined by risk (low/intermediate/high)
+Low risk patients: VEGF inhibitors such as sunitinib, bevacizumab or pazopanib.
+Intermediate and high risk patients: dual immunotherapy with ipilimumab and nivolumab
+Improve
+Complications
+Complications may result from the malignancy itself, or from treatment.
+Complications of RCC:
+Anaemia (up to 30%)
+Hypercalcaemia
+Polycythaemia
+SIADH
+Cushing's syndrome
+Stauffer's syndrome (liver dysfunction due to paraneoplastic syndrome in the absence of liver metastases)
+IVC obstruction due to malignant invasion
+Limbic encephalitis: rare disorder characterised by personality changes,, depression, seizures and memory loss.
+Adverse effects of systemic treatment:
+Immunotherapy: common side effects include auto-immune like presentations, such as rash, pneumonitis, colitis, thyroid dysfunction and hypophysitis. Complications can present over a year after treatment.
+VEGF inhibitors: can cause widely varied side effects including mucositis, leukopaenia, peripheral neuropathy,
+fever
+, arthralgia, electrolyte imbalance.
+Improve
+Prognosis
+The prognosis of renal
+cancer
+varies widely and is primarily influenced by the stage at diagnosis, the histological subtype of the cancer, the patient's overall health, and response to treatment.
+Staging and Survival Rates
+The staging of renal cancer is critical in predicting outcomes and is based on the TNM system, which considers the size of the tumour (T), involvement of nearby lymph nodes (N), and the presence of metastases (M).
+Localized (Stages I and II): Renal cancers confined within the kidney generally have a favourable prognosis, with a five-year survival rate approaching 90-95%. Surgical removal, often through nephrectomy or partial nephrectomy, is typically effective.
+Regional (Stage III): In cases where the cancer has spread to nearby lymph nodes or adjacent structures but not to distant sites, the five-year survival rate is around 60-70%. Treatment usually involves surgery combined with adjuvant therapies.
+Distant (Stage IV): Metastatic renal cancer, where the cancer has spread to distant organs, has a significantly poorer prognosis, with a five-year survival rate of about 10-20%. Treatment options may include targeted therapies, immunotherapy, and, less commonly, cytoreductive surgery.
+Histological Subtypes
+The histological subtype also affects prognosis:
+Clear cell RCC is the most common subtype and generally has a better response to treatment, particularly targeted therapies.
+Papillary RCC (Types 1 and 2) and chromophobe RCC have varied prognoses. Type 1 papillary RCC tends to have a better prognosis than Type 2, which is more aggressive.
+Collecting duct RCC and medullary carcinoma are rare and typically have a poor prognosis.
+Prognostic Factors
+Several factors can influence the prognosis of renal cancer:
+Performance status of the patient, indicating overall health and ability to perform daily activities.
+Genetic markers, such as mutations in the VHL gene in clear cell RCC, can provide insights into the aggressiveness of the cancer and potential responses to therapy.
+Tumour necrosis and sarcomatoid differentiation are associated with a worse prognosis.
+Improve
+Cancer
+Renal cancer

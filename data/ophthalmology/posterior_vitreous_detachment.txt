@@ -1,0 +1,124 @@
+Posterior vitreous detachment
+Posterior vitreous detachment
+Posterior vitreous detachment (PVD)
+is a common ophthalmic condition, predominantly occurring in individuals over 60 years of age. It's characterised by the separation of the posterior hyaloid membrane from the internal limiting membrane of the retina. The primary pathogenesis involves liquefaction of the vitreous humour (synchysis) and shrinkage (syneresis), leading to traction on the retinal surface.
+Patients often present with visual phenomena such as
+floaters
+,
+photopsia
+or a decrease in visual acuity. A comprehensive ocular examination including slit lamp biomicroscopy and indirect ophthalmoscopy can confirm diagnosis. Optical coherence tomography and B-scan ultrasonography may further assist in evaluation.
+While PVD is usually benign, potential complications include retinal tears, detachments or macular holes. Thus, a high index of suspicion should be maintained for these sequelae. Management strategies range from observation for uncomplicated cases to surgical intervention for associated complications.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Posterior vitreous detachment (PVD) is a common ocular condition, particularly prevalent in the elderly population. The aetiology of PVD is multifactorial and complex, with several risk factors contributing to its development.
+Ageing
+The primary underlying cause of PVD is ageing. As individuals age, the vitreous humour undergoes liquefaction, also known as synchysis, leading to pockets of liquid within the gel-like substance. This process results in shrinkage and separation of the posterior vitreous cortex from the internal limiting membrane of the retina.
+Ocular Trauma
+Ocular trauma can precipitate PVD. Injuries causing rapid deformation of the globe may result in acute separation of the vitreous body from the retina.
+High Myopia
+Individuals with high myopia are at increased risk for developing PVD. Elongation of the eyeball seen in myopic patients can lead to stretching and thinning of the vitreous humour, promoting earlier onset detachment.
+Cataract Surgery
+Cataract surgery has been identified as a potential risk factor for PVD. The removal of a cataract can induce changes within the vitreous chamber that may facilitate posterior detachment.
+Inflammatory Conditions
+Inflammatory conditions such as uveitis can contribute to PVD development. Inflammation may cause alterations in both anterior and posterior hyalocytes, leading to increased synthesis of collagen type II and IX, which are associated with vitreoretinal adhesion enhancement and thus increase susceptibility to PVD.
+Systemic Diseases
+Certain systemic diseases, such as diabetes mellitus and hypertension, have been associated with a higher prevalence of PVD. These conditions may cause microvascular changes that can affect the vitreous humour and its attachments to the retina.
+Improve
+Pathophysiology
+Posterior vitreous detachment (PVD)
+is a common ocular condition that occurs as a result of changes in the vitreous humour, the gel-like substance filling the posterior part of the eye. Understanding its pathophysiology requires an appreciation for the anatomical and physiological characteristics of the vitreous body and its relationship with the retina.
+The vitreous humour predominantly consists of water, collagen fibrils, hyaluronic acid and a small number of cells. The inner limiting membrane (ILM) separates it from the neural retina. Over time, age-related degenerative changes occur within this structure.
+The first step in PVD development involves
+vitreous liquefaction
+, also known as synchysis senilis. This process sees a reduction in hyaluronic acid leading to loss of gel structure and formation of liquid pockets within the vitreous body. Consequently, these pockets coalesce forming larger lacunae which increase mobility of the remaining gel.
+Simultaneously, there is
+vitreoretinal adhesion weakening
+. The posterior hyaloid face - an interface between vitreous cortex and ILM - detaches from areas where adhesion is weakest such as around optic disc or macula.
+This dual process leads to progressive separation of posterior hyaloid face from ILM – hence termed
+posterior vitreous detachment
+.
+In most cases, PVD is asymptomatic and goes unnoticed by patients. However, when it occurs rapidly or involves strong adhesions at certain locations like retinal vessels or peripheral retina, complications may arise.
+Vitreous traction on retinal vessels
+can cause vascular damage leading to retinal haemorrhages.
+Vitreous traction on peripheral retina
+can lead to retinal tears. A tear in the retina provides a pathway for vitreous fluid to seep into the subretinal space, leading to rhegmatogenous retinal detachment - a sight-threatening emergency.
+In some cases,
+vitreomacular adhesion or traction
+can occur where the vitreous remains adherent to the macula. This may result in visual symptoms such as metamorphopsia or decreased vision due to conditions like macular hole or epiretinal membrane formation.
+In summary, PVD is an age-related phenomenon caused by progressive vitreous liquefaction and weakening of vitreoretinal adhesions. Though often benign and asymptomatic, it can lead to significant ocular complications when associated with abnormal vitreoretinal adhesions.
+Improve
+Clinical features
+Typically, a patient with posterior vitreous detachment (PVD) presents with sudden onset of
+floaters
+and
+flashes
+. Floaters are often described as small moving spots in the visual field, whereas flashes may appear as quick streaks of light, particularly noticeable in dim lighting or at the periphery of vision.
+Floaters
+The perception of floaters is due to shadows cast on the retina by condensations in the vitreous humour. These can vary in size and shape, frequently described as cobwebs, dots or lines.
+Floaters may be more noticeable against bright backgrounds such as a clear sky or white wall.
+In PVD, an increase in the number of floaters or a sudden onset of new floaters should raise suspicion.
+Flashes
+Flashes occur due to mechanical stimulation of the photoreceptors when the vitreous gel tugs on the retina during PVD.
+The patient may perceive these as brief flickers or sparkles of light, predominantly seen in peripheral vision.
+Visual acuity
+In isolated PVD without any associated complications, visual acuity typically remains unaffected. However, if there's an associated retinal tear or detachment, it could lead to reduced vision or a shadow/curtain effect encroaching into the visual field from any direction.
+Ocular discomfort
+Pain is not a common feature of PVD. If present, it might suggest other ocular pathologies such as acute glaucoma or uveitis and warrants further investigation.
+Risk factors for PVD
+Age is a significant risk factor for PVD, with the incidence increasing significantly after the age of 60.
+Other risk factors include myopia, previous ocular surgery (especially cataract surgery), trauma, and inflammatory eye diseases.
+Complications of PVD
+Potential complications of PVD include retinal tears or detachment, vitreous haemorrhage, and macular hole. These can lead to permanent visual loss if not promptly diagnosed and treated.
+The clinical features of PVD are largely subjective and hence a high index of suspicion must be maintained in at-risk patients presenting with visual symptoms. An ophthalmoscopic examination is essential to confirm the diagnosis and rule out associated complications.
+Improve
+Investigations
+Investigating suspected Posterior Vitreous Detachment (PVD) primarily involves ophthalmic imaging techniques. The first-line investigation is a comprehensive dilated fundus examination, which allows for direct visualisation of the posterior vitreous and retina.
+Dilated Fundus Examination
+This is carried out using a slit lamp biomicroscopy with a high plus-dioptre lens or indirect ophthalmoscopy to assess the vitreoretinal interface, retinal tears, retinal detachment and other peripheral retinal abnormalities.
+The Weiss ring, a circular floater that can be seen following PVD, may also be visible during this examination.
+If the findings from the dilated fundus examination are inconclusive or if there are ambiguous symptoms, additional investigations may be required. These include Optical Coherence Tomography (OCT) and B-scan Ultrasonography.
+Optical Coherence Tomography (OCT)
+OCT provides cross-sectional images of the retina, allowing for detailed assessment of the macula and optic nerve head. It can identify subtle changes at the vitreoretinal interface such as vitreofoveal traction that might not be apparent on clinical examination alone.
+B-scan Ultrasonography
+B-scan Ultrasonography is particularly useful when media opacity prevents adequate visualisation of the retina. It allows for evaluation of the posterior vitreous as well as detection of retinal detachment or other peripheral retinal abnormalities.
+B-scans can show an acoustically empty space in cases of complete PVD where there is separation of the posterior hyaloid face from the underlying retina.
+Fluorescein angiography and fundus autofluorescence imaging are generally not indicated in the investigation of PVD, unless there is suspicion of other concurrent retinal pathology.
+Improve
+Differential diagnosis
+When assessing a patient presenting with symptoms suggestive of posterior vitreous detachment (PVD), it is essential to consider other differential diagnoses. These may include retinal tear or detachment, and vitreous haemorrhage. Each condition has unique clinical presentation characteristics which aid in the diagnostic process.
+Retinal Tear or Detachment
+The presence of
+photopsia
+,
+floaters
+and a sudden decrease in vision are common to both PVD and retinal tear/detachment. However, patients with retinal tears often report an increase in the number of floaters compared to those with PVD.
+A crucial differentiating factor is the onset of symptoms. In PVD, symptoms manifest gradually as the vitreous humour shrinks and detaches from the retina over time. Conversely, symptomatic onset in retinal tear or detachment is typically rapid.
+Ophthalmoscopic examination may reveal subretinal fluid or a greyish retina in cases of retinal detachment, distinguishing it from PVD where these signs are absent.
+Vitreous Haemorrhage
+Vitreous haemorrhage shares similar initial symptoms with PVD such as floaters; however, these tend to be more diffuse and numerous due to blood dispersion within the vitreous cavity.
+Patients with vitreous haemorrhage may also experience blurred vision or complete loss of sight if bleeding is substantial, whereas visual acuity remains relatively unaffected in PVD.
+On fundoscopy, red blood cells can be seen floating in gel-like substance in cases of vitreous haemorrhage. This sign is not present in PVD.
+Improve
+Management
+Management:
+Posterior vitreous detachment alone does not cause any permanent loss of vision.  Symptoms gradually improve over a period of around 6 months and therefore no treatment is necessary.
+If there is an associated retinal tear or detachment the patient will require surgery to fix this.
+Improve
+Ophthalmology
+Posterior vitreous detachment

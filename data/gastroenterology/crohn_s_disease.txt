@@ -1,0 +1,278 @@
+Crohn's disease
+Crohn's disease
+Crohn's disease (CD) is a chronic
+inflammatory bowel disease
+characterized by transmural inflammation that can affect any part of the gastrointestinal (GI) tract from the mouth to the anus. The aetiology remains unknown, but it is believed to involve a complex interplay of genetic predisposition, environmental factors, and dysregulated immune responses. Clinical presentation varies but may include
+abdominal pain
+,
+diarrhoea
+,
+weight loss
+, and
+fatigue
+, with potential extraintestinal manifestations such as arthritis, uveitis, and
+erythema nodosum
+.
+Diagnosis requires a comprehensive evaluation incorporating clinical history, physical examination, laboratory tests, endoscopy, and imaging studies. The primary management goals are to induce and maintain remission, prevent complications, and optimize quality of life. Treatment options include aminosalicylates,
+corticosteroids
+, immunomodulators, and biologic agents, as well as dietary and lifestyle modifications. In refractory cases or when complications arise, surgical intervention may be necessary.
+Last updated: 28
+th
+August 2023
+Epidemiology
+Incidence: 11.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Coeliac disease in adults
+9.09
+Colorectal cancer
+5.82
+Crohn's disease
+1
+Microscopic colitis
+0.91
+Ulcerative colitis
+0.91
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Crohn's disease, a type of
+inflammatory bowel disease
+(IBD), is multifactorial in its aetiology, with environmental, genetic, and microbial factors contributing to its onset and progression.
+Genetic Factors:
+First-degree relatives of individuals with Crohn's disease have a significantly higher risk of developing the condition, suggesting a strong genetic component.
+NOD2/CARD15 gene mutations are associated with an increased susceptibility to Crohn's disease. These genes play crucial roles in bacterial recognition and inflammatory responses.
+Other genes implicated include ATG16L1 and IRGM which regulate autophagy; IL23R and IL10 involved in immune response; and ECM1 linked to extracellular matrix remodelling.
+Environmental Factors:
+Smoking: The most consistent environmental risk factor for Crohn's disease. Smokers have twice the risk compared to non-smokers.
+Diet: A diet high in sugar, fat, and processed foods has been linked to increased risk. Conversely, diets rich in fruits, vegetables, and fibre might be protective.
+Nonsteroidal anti-inflammatory drugs (NSAIDs): Chronic NSAID use can exacerbate symptoms or trigger onset of the disease due to their effect on gut permeability.
+Appendectomy: An increased incidence of Crohn's has been observed following appendectomy, although causality remains uncertain.
+Infectious Agents:
+Certain bacteria such as
+Mycobacterium avium
+subspecies
+paratuberculosis
+, adherent-invasive
+E.coli
+, and
+Listeria monocytogenes
+have been associated with Crohn's disease.
+The role of viruses such as cytomegalovirus and measles virus remains controversial, with conflicting evidence regarding their involvement in the pathogenesis.
+Microbiota:
+Dysbiosis, or an imbalance in the gut microbiota, is a key feature of Crohn's disease. This can result from antibiotic use, diet, or other environmental factors.
+Decreased diversity and stability of the gut microbiota have been noted in patients with Crohn's disease. Specifically, there is often a reduction in Firmicutes and an increase in Proteobacteria and Actinobacteria.
+Improve
+Pathophysiology
+The pathogenesis of Crohn's disease is complex and not completely understood but is generally thought to involve the following steps:
+Epithelial Barrier Dysfunction:
+Initial disruption of the intestinal epithelial barrier allows for increased permeability and bacterial translocation.
+Immune Response Activation:
+Antigen-presenting cells (APCs) recognize microbial antigens and initiate an immune response.
+Cytokine Release:
+APCs release pro-inflammatory cytokines like TNF-α, IL-1, and IL-6, which stimulate other immune cells.
+Cell Recruitment:
+Neutrophils and macrophages are recruited to the site of inflammation, further contributing to tissue damage.
+Granuloma Formation:
+In a subset of patients, granulomas form as part of the chronic inflammatory response, a hallmark of Crohn's disease.
+Transmural Inflammation:
+Unlike
+ulcerative colitis
+, another form of IBD, Crohn's disease typically involves transmural (full-thickness) inflammation of the gut wall.
+Skip Lesions:
+One distinguishing feature of Crohn's is the presence of 'skip lesions,' where inflamed areas are interspersed with healthy tissue.
+Chronic Inflammation and Complications:
+Persistent inflammation leads to complications like strictures, fistulas, and abscesses, affecting various parts of the gastrointestinal tract, from the mouth to the anus.
+Extraintestinal Manifestations:
+In some patients, Crohn's can also affect other systems, including the skin, eyes, and joints, often related to the systemic inflammatory response.
+Improve
+Clinical features
+Gastrointestinal Manifestations
+Abdominal pain
+: CD-related abdominal pain may be localized or diffuse, depending on the affected bowel segment. Inflammation involving the terminal ileum can cause right lower quadrant pain, mimicking appendicitis.
+Diarrhoea
+: Patients may experience non-bloody diarrhea, often with increased frequency and urgency. Diarrhea containing blood and mucus may indicate more severe inflammation or the presence of ulcerations.
+Weight loss
+: Nutritional deficiencies, malabsorption, and
+anorexia
+secondary to inflammation can lead to significant weight loss and malnutrition. Protein-losing enteropathy may also contribute to hypoalbuminemia and peripheral oedema.
+Perianal disease
+: CD-associated perianal complications include anal fissures, perianal abscesses, and fistulas. Complex perianal fistulas can result in recurrent abscesses and may require surgical intervention.
+Oral manifestations
+: Aphthous ulcers can occur on the buccal mucosa, tongue, or lips. Cobblestoning of the oral mucosa and pyostomatitis vegetans are rarer manifestations but can be indicative of underlying CD.
+Obstructive symptoms
+: Strictures, adhesions, and bowel obstruction may present as nausea, vomiting, abdominal distension, and constipation. Patients with stricturing disease are at increased risk for small bowel obstruction and may require surgical management.
+Extraintestinal Manifestations
+Arthritis
+: CD-associated peripheral arthritis typically affects large joints such as the knees, ankles, and wrists, and follows a non-destructive, non-deforming course. Axial arthritis, including ankylosing spondylitis and sacroiliitis, can cause low back pain and morning stiffness.
+Skin manifestations
+:
+Erythema nodosum
+presents as painful, raised, erythematous nodules on the lower extremities. Pyoderma gangrenosum is characterized by rapidly progressing, painful ulcers with undermined, violaceous borders, often involving the lower extremities or peristomal skin.
+Ocular manifestations
+: Uveitis causes eye pain, photophobia, and blurred vision. Episcleritis presents with eye redness and mild pain, while scleritis is more painful and can lead to vision loss if untreated.
+Hepatobiliary manifestations
+: Primary sclerosing cholangitis is characterized by inflammation and fibrosis of the bile ducts, leading to strictures, cholestasis, and eventually cirrhosis. Cholelithiasis and fatty liver disease may also occur in CD patients.
+Haematological manifestations
+:
+Anaemia
+can result from chronic inflammation, iron deficiency due to blood loss, or vitamin B12 and folate malabsorption. CD patients are at an increased risk for venous and arterial thromboembolic events, including deep vein thrombosis, pulmonary embolism, and stroke, due to a hypercoagulable state.
+Improve
+Investigations
+Laboratory Tests
+Blood tests
+Full blood count, C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), liver function tests, serum albumin, and iron studies can provide information about inflammation,
+anaemia
+, and nutritional status.
+vitamin B12 and folate levels
+serological markers: Anti-Saccharomyces cerevisiae antibodies (ASCA) and perinuclear anti-neutrophil cytoplasmic antibodies (pANCA) may aid in differentiating CD from
+ulcerative colitis
+, but they are not diagnostic.
+Stool tests
+: Stool cultures, ova and parasite examination, and faecal calprotectin, a marker of intestinal inflammation, can help differentiate between IBD and infectious or non-inflammatory causes of
+diarrhoea
+.
+Endoscopic Evaluation
+Colonoscopy
+This procedure allows for direct visualization of the colonic and terminal ileal mucosa, identification of characteristic CD features, and targeted biopsies for histopathological examination. Findings may include aphthous ulcers, cobblestoning, and skip lesions.
+In addition to its diagnostic role, colonoscopy is valuable for surveillance of dysplasia in long-standing CD, particularly in patients with colonic involvement or a history of primary sclerosing cholangitis (PSC).
+Capsule endoscopy
+: In cases where traditional endoscopy is inconclusive, video capsule endoscopy can be utilized to visualize the small bowel and detect areas of inflammation not reachable by colonoscopy or upper endoscopy.
+Upper gastrointestinal endoscopy
+: Esophagogastroduodenoscopy (EGD) may be indicated in patients with upper GI symptoms or when CD involvement of the upper GI tract is suspected.
+I
+Imaging Studies
+Cross-sectional imaging
+: Computed tomography (CT) and magnetic resonance imaging (MRI) can provide detailed information on bowel wall thickness, strictures, fistulas, and abscesses. MRI is preferred in CD due to its lack of ionizing radiation and superior soft tissue contrast.
+Small bowel imaging
+: Small bowel follow-through, CT enterography, or magnetic resonance enterography (MRE) can be utilized to evaluate small bowel involvement, particularly in cases where colonoscopy is unable to visualize the entire small bowel.
+Ultrasound
+: Bowel ultrasound may be used as a non-invasive imaging modality, particularly for assessing disease activity, complications, or response to therapy.
+Histopathological Examination
+Histopathological examination of endoscopic biopsies may reveal non-caseating granulomas, transmural inflammation, lymphoid aggregates, crypt architectural abnormalities, and cryptitis or crypt abscesses. However, the absence of granulomas does not rule out CD, as they are present in only 50% of cases.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of Crohn's disease, three potential alternatives include
+ulcerative colitis
+, irritable bowel syndrome (IBS), and intestinal tuberculosis. These conditions can present similarly to Crohn's disease but have distinct clinical presentations.
+Ulcerative Colitis
+The inflammation in ulcerative colitis is continuous and limited to the colon, unlike the discontinuous and transmural inflammation seen in Crohn's disease. This may lead to more frequent bloody
+diarrhoea
+in ulcerative colitis compared to Crohn's disease.
+Extraintestinal manifestations such as
+erythema nodosum
+and pyoderma gangrenosum are common in both conditions. However, primary sclerosing cholangitis is more associated with ulcerative colitis.
+Irritable Bowel Syndrome (IBS)
+IBS is a functional disorder characterised by
+abdominal pain
+or discomfort associated with altered bowel habits. Unlike Crohn's disease, there are no inflammatory changes on histological examination.
+Pain in IBS is often relieved by defecation which contrasts with the persistent pain seen in Crohn's disease despite bowel movements. Furthermore, nocturnal symptoms are uncommon in IBS but may be evident in patients with active Crohn's disease.
+Intestinal Tuberculosis
+This condition caused by
+Mycobacterium tuberculosis
+, particularly prevalent in endemic areas, presents with similar symptoms to Crohn's disease including abdominal pain,
+weight loss
+and diarrhoea. However, patients may also exhibit systemic signs such as
+fever
+and night sweats which are less common in Crohn's disease.
+Radiologically, intestinal tuberculosis tends to cause ileocaecal involvement mimicking that of Crohn’s disease. However, the presence of necrotic lymph nodes and asymmetric involvement of the intestine may suggest a diagnosis of intestinal tuberculosis over Crohn's disease.
+Improve
+Management
+NICE published guidelines on the management of Crohn's disease in 2012.
+General points
+patients should be strongly advised to stop smoking
+some studies suggest an increased risk of relapse secondary to NSAIDs and the combined oral contraceptive pill but the evidence is patchy
+Inducing remission
+glucocorticoids (oral, topical or intravenous) are generally used to induce remission. Budesonide is an alternative in a subgroup of patients
+enteral feeding with an elemental diet may be used in addition to or instead of other measures to induce remission, particularly if there is concern regarding the side-effects of steroids (for example in young children)
+5-ASA drugs (e.g.
+mesalazine
+) are used second-line to glucocorticoids but are not as effective
+azathioprine
+or mercaptopurine* may be used as an add-on medication to induce remission but is not used as monotherapy. Methotrexate is an alternative to azathioprine
+infliximab is useful in refractory disease and fistulating Crohn's. Patients typically continue on azathioprine or methotrexate
+metronidazole is often used for isolated peri-anal disease
+Maintaining remission
+as above, stopping smoking is a priority (remember: smoking makes Crohn's worse, but may help
+ulcerative colitis
+)
+azathioprine or mercaptopurine is used first-line to maintain remission
++TPMT activity should be assessed before starting
+methotrexate is used second-line
+Surgery
+around 80% of patients with Crohn's disease will eventually have surgery
+stricturing terminal ileal disease → ileocaecal resection
+segmental small bowel resections
+stricturoplasty
+perianal fistulae
+an inflammatory tract or connection between the anal canal and the perianal skin
+MRI is the investigation of choice for suspected perianal fistulae - can be used to determine if there (is an abscess and if the fistula is simple (low fistula) or complex (high fistula that passes through or above muscle layers)
+patients with symptomatic perianal fistulae are usually given oral metronidazole
+anti-TNF agents such as infliximab may also be effective in closing and maintaining closure of perianal fistulas
+a draining seton is used for complex fistulae
+a seton is a piece of surgical thread that's left in the fistula for several weeks to keep it open. This is useful because persisting fistula tracks after premature skin closure predispose to abscess formation
+perianal abscess
+requires incision and drainage combined with antibiotic therapy
+a draining seton may also be placed if a tract is identified
+Improve
+Complications
+Gastrointestinal Complications
+Strictures
+: Chronic inflammation and fibrosis may lead to narrowing of the bowel lumen, resulting in obstructive symptoms such as
+abdominal pain
+, nausea, vomiting, and constipation. Strictures can be managed with endoscopic balloon dilation, stricturoplasty, or bowel resection, depending on the severity and location.
+Fistulas
+: Abnormal connections between different bowel segments or between the bowel and other organs (e.g., bladder, vagina) may develop due to transmural inflammation. Fistulas can cause abscess formation, recurrent infections, and malabsorption. Management includes medical therapy, endoscopic or surgical interventions, and addressing underlying disease activity.
+Abscesses
+: Deep-seated infections may result from transmural inflammation and can manifest as localized pain,
+fever
+, and leukocytosis. Abscesses are typically managed with antibiotics and percutaneous or surgical drainage.
+Perianal disease
+: Perianal complications, including fissures, abscesses, and fistulas, are common in CD and can be challenging to manage. Treatment may involve medical therapy, surgical intervention, and addressing underlying disease activity.
+Malabsorption and nutritional deficiencies
+: Chronic inflammation, strictures, fistulas, and surgical resection can lead to malabsorption of nutrients, such as iron, vitamin B12, and fat-soluble vitamins, resulting in anemia, osteoporosis, and other nutritional deficiencies.
+Colorectal cancer
+: CD patients with longstanding colonic involvement are at an increased risk of developing colorectal cancer. Regular surveillance colonoscopy with biopsies is recommended for early detection and management.
+Extraintestinal Complications
+Arthritis
+: CD-associated arthritis may present as peripheral or axial joint involvement and can significantly impact mobility and quality of life. Treatment includes medical therapy and physiotherapy.
+Ocular complications
+: Uveitis, episcleritis, and scleritis are potential ocular manifestations of CD, which can lead to vision loss if not promptly recognized and managed.
+Skin complications
+:
+Erythema nodosum
+and pyoderma gangrenosum are skin conditions associated with CD, often requiring systemic therapy for resolution.
+Hepatobiliary complications
+: Primary sclerosing cholangitis (PSC), cholelithiasis, and fatty liver disease are potential hepatobiliary complications of CD, which can lead to liver dysfunction, cirrhosis, and increased risk of cholangiocarcinoma.
+Thromboembolic events
+: CD patients are at an increased risk of venous and arterial thromboembolic events, including deep vein thrombosis, pulmonary embolism, and stroke, due to a hypercoagulable state. Appropriate prophylaxis should be considered in high-risk situations.
+Improve
+Prognosis
+The prognosis of Crohn's disease is variable and influenced by multiple factors. It is a chronic condition with periods of remission and exacerbation, often requiring long-term management strategies.
+Disease Severity
+Patients with severe disease, defined as those who require hospitalisation or systemic steroids, have a worse prognosis. They are more likely to experience complications such as strictures, abscesses, fistulas and bowel obstructions.
+Early onset disease (diagnosed before age 40) tends to follow a more aggressive course.
+Treatment Response
+Patients who respond well to initial therapy, particularly biologics like anti-TNF agents, generally have a better prognosis.
+Surgery can effectively manage complications but is not curative. Approximately 70% of patients will require surgery within 10 years of diagnosis.
+Comorbidities and Lifestyle Factors
+Smoking is associated with increased disease severity and poorer response to treatment. Encouraging cessation should be part of comprehensive patient care.
+Comorbid conditions such as malnutrition or osteoporosis can complicate management and impact prognosis.
+Crohn's disease does not typically affect overall mortality rates; however, it significantly impacts quality of life due to chronic symptoms and the need for ongoing treatment. Regular monitoring for disease progression and early intervention in response to exacerbations can help improve long-term outcomes for patients.
+Improve
+References
+NICE - 2019 Crohn disease guidelines
+Clinical Knowledge Summaries - Crohn disease guidelines
+Gastroenterology
+Crohn's disease

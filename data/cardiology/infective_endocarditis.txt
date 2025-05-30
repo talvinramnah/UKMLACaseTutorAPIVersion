@@ -1,0 +1,286 @@
+Infective endocarditis
+Infective endocarditis
+Infective endocarditis (IE) refers to an infection of the
+endocardial surface
+of the heart, most commonly including one or more of the valves. It should be considered a differential diagnosis in any unwell patient with relevant risk factors.  It can present with a
+fever
+,
+non-specific features
+or with a wide spectrum of
+systemic complications
+. Therefore, a good understanding of how this condition leads to its' various complications is essential to achieving early recognition.
+Early investigation, with
+blood cultures
+and
+echocardiography
+, prompt diagnosis and management are all essential to avoid potential complications.
+Diagnosis is based around the modified
+Duke criteria
+, taking into consideration clinical features, culture results and echo findings.
+Management includes administration of
+antibiotic
+therapy, monitoring for any complications and if indicated early
+valve surgery
+.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 3:1
+Condition
+Relative
+incidence
+Infective endocarditis
+1
+Polyarteritis nodosa
+0.60
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors for IE can be divided into the individuals factors and specific cardiac factors;
+Patient factors;
+Age >60years
+Male
+Intravenous drug use (can lead to the seeding of infection into the bloodstream, while some substances can lead to endothelium damage. Those who inject drugs have particularly increased risk of
+right-sided IE
+.)
+Intravascular lines
+Chronic haemodialysis (usually have a fistula or a long-term haemodialysis catheter which can become infected)
+Immunosuppression
+Recent
+dental or surgical procedure
+- poor dental hygiene increases the risk of having the specific bacteria present in your mouth, which during gingival manipulation or an invasive dental procedure can be introduced to the blood stream and cause IE.
+Cardiac factors;
+History of prior IE
+Prosthetic heart valve or other cardiac device
+Structural heart disease (eg. Valvular heart disease or congenital heart disease)
+Improve
+Pathophysiology
+Microbiology differs between certain populations;
+Staphylococcus
+(most common healthcare-associated IE)
+Viridians group streptococcus
+(more prevalent among some older populations and community-acquired IE)
+Enterococci
+Streptococci bovis
+(high association with ulcerative lesion in the colon eg. Carcinoma)
+The causative organism enters the bloodstream through either an infected catheter that is introduced to the body or a break to the skin or a mucous membrane. Bacteraemia progresses to IE in the presence of
+endocardial injury or damage
+(this can include damage due to turbulent blood flow secondary to dysfunctional valve or congenital abnormality that disrupts efficient blood flow through the heart).
+Endocardial injury â→ adherence of platelet and fibrin plug â→ circulating micro-organisms leads to secondary infection of plug â→ activation of coagulation cascade â→ adherence of more fibrin and platelets â→ growth of plug/vegetation.
+Improve
+Clinical features
+Can present either as an acute clinical deterioration or a subacute, more chronic development of the following non-specific symptoms;
+Fever
+(90%) - associated with chills,
+anorexia
+and weight loss.
+Other
+non-specific features
+include
+malaise
+, arthralgia, myalgia, night sweats, and abdominal pain.
+Clinical signs - most of these are not diagnostic (as they can also be present in healthy individuals) but their presence can help support clinical suspicion.
+Heart
+murmurs
+(85%) - usually only present in those with left sided IE.
+Cutaneous manifestations
+Petechiae
+on extremities or mucous membranes (30%)
+Splinter haemorrhages
+(reddish-brown linear lesion on the nail bed)
+Uncommon findings that are very specific for IE include;
+Janeway lesions (
+non-tender
+macules on palms and soles, more associated with acute onset)
+Osler node (
+tender
+nodules on fingers and toes)
+Roth spots (haemorrhagic retinal lesions with a pale centre)
+Clinical manifestations of complications (eg. Congestive heart failure) or systemic embolisation (eg. Embolic stroke) may be present at initial presentation.
+Pulmonary septic emboli
+is the most common presentation (75%) of isolated right-sided IE (10% of all cases of IE). This can present clinically with a cough, dyspnoea, haemoptysis or pleuritic chest pain.
+Improve
+Investigations
+Blood cultures (diagnostic)
+At least
+3 samples
+from different sites
+over 30-60 mins
+is recommended. Adequate blood culture samples must be taken
+before starting any antibiotics
+, regardless of the clinical decision to start empirical antibiotics or to delay treatment.
+Echocardiogram (diagnostic)
+Transthoracic (TTE) is usually the first line investigation.
+Transoesophageal (TOE) has a
+higher sensitivity
+than TTE for detecting IE, particularly L sided IE and any structural cardiac complications (intracardiac abscess, leaflet perforation, or pseudoaneurysm) and if available it is
+preferred as the first-line
+.
+Additional;
+ECG - helps to identify any further extension of the infection that may affect cardiac functioning for example;
+Heart block
+Conduction delay
+Ischaemic changes (which would indicate the presence of dispersed emboli affecting the coronary circulation)
+Chest x-ray - looks for pulmonary septic emboli, congestive heart failure, any abscess' or is helpful to exclude other differentials.
+CT scan (thoracic, abdominal and pelvic) is especially useful to identify the location of any
+metastatic infections
+that may require drainage.
+Improve
+Differential diagnosis
+The differential diagnosis of IE can be broadly divided according to;
+Positive cultures, in the absence of valvular vegetation
+Negative cultures in the presence of a valvular vegetation
+Positive cultures - these differentials can also be considered as possible sources of infection that have the potential to lead to confirmed IE (clinical features may help identify the alternate source bacteraemia).
+Intravascular catheter
+infection (confirmed by positive cultures from the catheter and from peripheral veins)
+Cardiac device
+infection (supported clinically in the presence of overlying infection, usually confirmed with echo)
+Prosthetic joint
+infection (clinical features of an inflamed joint)
+Osteomyelitis that has spread haematogenously (clinical features of focal
+bone pain
+)
+Septic
+thrombophlebitis
+(eg. clinical features may be an inflamed cannula site)
+Infected
+arterial aneurysm
+(specific clinical features may not be helpful but risk factors that may be in the clinical history include pre-existing aneurysm, or the presence of a vascular graft)
+Presence of valvular vegetation - when cultures are persistently negative for the most commonly recognised organisms that cause IE, the following differentials should be considered;
+Uncommon infective organisms may be supported by a recent travel history or exposure and serological investigation may be useful in these scenarios.
+Zoonosis (eg.
+Brucella
+,
+Coxiella burnetti
+,
+Bartonella
+)
+Fungus
+Libman-Sacs endocarditits, also known as 'marantic endocarditis' or 'non-bacterial thrombotic endocarditis'
+The valvular lesion found on echo is secondary to an
+advanced malignancy
+or systemic lupus erythematous, which explains a negative culture result. These diagnoses will require further investigation.
+Antiphospholipid syndrome (additional clinical features that would support this diagnosis include thrombosis, thrombocytopaenia, livedo reticularis and/or stroke, and a positive result for
+antiphospholipid antibodies
+).
+Atrial myxoma (this lesion can obstruct the mitral valve which can lead to left atrial hypertrophy which may be evident on echo).
+Careful examination with echo can help support this diagnosis.
+Vasculitis or other
+connective tissue disorder
+(including Behcet disease, granulomatosis with polyangitis, or polyrteritis nodosa) - a high level of suspicion and further investigations are required to identify other clinical features and to look for the relevant antibodies.
+Improve
+Management
+Effective
+antibiotic therapy
+If there is a strong suspicion of IE and the patient is acutely unwell, initiating
+empirical antibiotics
+is recommended, but only
+after
+adequate blood culture samples have been taken. The choice of antibiotic depends on the following factors (which may help predict the different causative organisms);
+Native valve
+Prosthetic valve
+People who inject drugs.
+When the patient is clinically stable, starting antibiotic therapy is usually delayed to choose the most effective one based on blood culture results.
+Find the
+source of infection
+, and remove it if possible, to optimise successful eradication of infection.
+Potentially removable sources of infection may include intravascular catheter, intracardiac devices, or arteriovenous fistula.
+Other assessments to find the potential source of infection are
+Dental evaluation may identify focal source of
+dental infection
+which may need treatment.
+Colonoscopy - there is a high association between a certain causative organism of IE, and bowel cancer. When
+group D streptococci
+(usually only found in the bowel) is identified as the organism on culture results, colonoscopy is warranted to evaluate for any
+bowel lesions
+that have facilitated its transfer into the blood stream.
+Early
+valve surgery
+Early surgical intervention, ie. prior to finishing antibiotic therapy, is indicated if the following complications arise;
+IE-associated valvular regurgitation/dysfunction
+Heart failure
+Intracardiac abscess
+Persistent infection or difficult to treat organism
+Follow-up
+Follow-up with echo is indicated if there is any clinical suspicion of complications any clinical manifestations (eg. new murmurs, embolic events, heart failure, conduction abnormalities, or persistent
+fever
+).
+Following antibiotic therapy, even with successful treatment, complete resolution of any valvular vegetation is uncommon, an echo is recommended to establish the
+new baseline
+(including valve appearance, vegetation size and heart function).
+The frequency of follow-up after this is dependent on an individuals new baseline.
+Improve
+Complications
+Delay in diagnosis or treatment can lead to a variety of complications, that can be broadly divided into
+cardiac
+complications and complications associated with
+metastatic infection
+.
+Cardiac complications (50%)
+Valvular insufficiency
+, if left untreated, leading to
+congestive heart failure
+is the most common complication of IE, and is therefore the most common indication for surgical management for IE.
+Other cardiac complications include pericarditis (which can present with retrosternal chest pain) or a perivalvular abscess (which can disrupt cardiac conduction leading to abnormal ECG's)
+Forms of
+metastatic infection
+include
+Embolisation (which can lead to infarction and subsequent damage to various peripheral tissues)
+Metastatic abscess formation
+Mycotic aneurysms
+Systemic emboli affecting the brain, kidneys, spleen, and other soft tissues commonly occurs in left sided IE whereas pulmonary emboli most commonly occur in right sided IE.
+Pulmonary complications
+Septic pulmonary emboli
+(75% of cases with right sided IE) can manifest as pulmonary infarction or can lead to to a pulmonary infection, abscesses, pleural effusion, and empyema.
+Neurological complications (40%) (including
+embolic stroke
+, intracerebral haemorrhage, cerebral abscess, meningitis, encephalopathy, seizures)
+Embolic stroke is the most common neurological complication and can manifest with focal neurological deficits or can remain clinically silent and be subsequently identified on imaging (80%).
+Intracerebral haemorrhage is usually due to the transformation of an embolic stroke or from the rupture of an aneurysm.
+Renal (including renal infarction, abscess, glomerulonephritis, therapy-induced interstitial nephritis)
+The most common renal complications include renal
+infarction, abscess
+(which are both secondary to septic embolisation) can present with isolating clinical features eg. costovertebral angle tenderness or with acute renal failure.
+Glomerulonephritis, secondary immune complex deposition is a rare complication, particularly when antibiotic treatment is initiated early.
+Musculoskeletal complications (vertebral osteomyelitis, septic arthritis, psoas abscess)
+Vertebral
+osteomyelitis
+can present clinically with bone pain or with focal tenderness on examination.
+Psoas abscess
+may present clinically with costovertebral angle tenderness or with a persistent
+fever
+and bacteraemia.
+Other sites of peripheral septic embolisation (25%) include eyes and spleen
+Splenic infarct or abscess
+can present clinically with left upper quadrant tenderness, splenomegaly but sometimes the only clinical feature of a splenic abscess is persistent fever and bacteraemia.
+Improve
+Prognosis
+Six-month mortality rate is variable and can be up to 27% (quoted in uptodate). Factors associated with a worse prognosis include;
+Heart failure
+Larger vegetation size
+Microbiology (a worse outcome is associated with
+staphylococcal
+than with
+streptococcal
+infections)
+Perivalvular abscess
+Poor surgical candidate (early valve surgery confers a lower mortality risk)
+Improve
+References
+BNF - Infective endocarditis guidelines
+NICE - 2008 Prophylaxis against infective endocarditis
+American Heart Association - Infective endocarditis guidelines
+European Society of Cardiology - Infective endocarditis guidelines
+Cardiology
+Infective endocarditis

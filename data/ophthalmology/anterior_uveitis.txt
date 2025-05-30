@@ -1,0 +1,99 @@
+Anterior uveitis
+Anterior uveitis
+Anterior uveitis is the inflammation of the anterior segment of the uveal tract, primarily affecting the iris and ciliary body. As the most common form of uveitis, it accounts for 75-90% of cases and is typically unilateral. The aetiology can be idiopathic or secondary to systemic autoimmune diseases, infections, trauma, or drug reactions. Patients often present with
+ocular pain
+, redness,
+photophobia
+, and blurred vision.
+A thorough clinical evaluation, including slit-lamp biomicroscopy, is essential for diagnosis. Anterior chamber cells and flare, keratic precipitates, and posterior synechiae may be observed. Intraocular pressure can be variable, and a dilated fundus examination is crucial to rule out posterior segment involvement.
+Management focuses on controlling inflammation, relieving pain, and preventing complications. Topical corticosteroids are the first line of treatment, often accompanied by cycloplegic agents to reduce ciliary spasm. Oral corticosteroids or immunosuppressive agents may be considered for severe or refractory cases.
+Last updated: 24
+th
+April 2023
+Epidemiology
+Incidence: 40.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Anterior uveitis
+1
+Microbial keratitis
+0.50
+Acute angle closure glaucoma
+0.25
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The causes of anterior uveitis are diverse and can be classified as non-infectious, infectious or idiopathic. A detailed history and clinical examination are essential to identifying potential etiologies.
+Non-infectious:
+Systemic autoimmune diseases are a significant cause of anterior uveitis, including ankylosing spondylitis, reactive arthritis, inflammatory bowel disease, sarcoidosis, and BehÃ§et's disease. Other causes include drug-induced uveitis and masquerade syndromes like intraocular lymphoma.
+Infectious:
+Pathogens like herpes simplex virus (HSV), varicella-zoster virus (VZV), and cytomegalovirus (CMV) may cause anterior uveitis. Bacterial infections, such as syphilis, Lyme disease, and tuberculosis, are less common but should be considered in the differential diagnosis.
+Idiopathic:
+A large proportion of anterior uveitis cases are idiopathic, with no identifiable underlying cause.
+Improve
+Pathophysiology
+The pathogenesis of anterior uveitis is complex and involves the interplay of genetic, environmental, and immunological factors.
+Genetic predisposition:
+HLA-B27, a class I major histocompatibility complex (MHC) molecule, is associated with several autoimmune diseases causing anterior uveitis, such as ankylosing spondylitis and reactive arthritis. Other genetic factors, including HLA-DR and HLA-DQ, have also been implicated.
+Environmental factors:
+Microbial infections, particularly molecular mimicry, can trigger an immune response against self-antigens, resulting in autoimmune-mediated inflammation.
+Immunological response:
+The breakdown of immune tolerance leads to the activation of T cells and the release of pro-inflammatory cytokines, such as interleukin (IL)-1, IL-6, and tumour necrosis factor (TNF)-α. These cytokines recruit and activate macrophages, neutrophils, and other inflammatory cells, leading to increased vascular permeability, protein extravasation, and the formation of fibrin, ultimately resulting in the clinical manifestations of anterior uveitis.
+Blood-ocular barrier disruption:
+Inflammation leads to the breakdown of the blood-aqueous and blood-retinal barriers, allowing immune cells and inflammatory mediators to enter the anterior chamber and vitreous cavity. This process exacerbates the inflammatory response and can lead to the development of complications, such as cystoid macular oedema and glaucoma.
+Improve
+Clinical features
+Features
+acute onset
+ocular discomfort
+& pain (may increase with use)
+pupil may be irregular and small
+photophobia
+(often intense)
+blurred vision
+red eye
+lacrimation
+ciliary flush
+hypopyon; describes pus and inflammatory cells in the anterior chamber, often resulting in a visible fluid level
+visual acuity initially normal → impaired
+Improve
+Investigations
+Ocular examination:
+Slit-lamp biomicroscopy is critical for detecting anterior chamber cells, flare, keratic precipitates, and posterior synechiae. Intraocular pressure measurement and dilated fundus examination should be performed to assess posterior segment involvement and potential complications.
+Laboratory investigations:
+Based on the patient's history and clinical presentation, specific tests can be ordered, such as serologic tests for syphilis, Lyme disease, and toxoplasmosis, and quantiFERON-TB Gold for tuberculosis. Autoimmune markers, such as HLA-B27, antinuclear antibody (ANA), and rheumatoid factor, may be considered if an underlying systemic disease is suspected.
+Improve
+Management
+The primary goals of treatment are to control inflammation, relieve pain, and prevent complications.
+Topical corticosteroids: First-line treatment for anterior uveitis includes potent topical corticosteroids (e.g., prednisolone acetate 1% or dexamethasone 0.1%) administered frequently in the acute phase and tapered according to clinical response.
+Cycloplegic agents: Topical cycloplegics (e.g., tropicamide or homatropine) help relieve ciliary spasm and pain, reduce the risk of posterior synechiae, and maintain the depth of the anterior chamber.
+Systemic therapy: Oral corticosteroids or immunosuppressive agents (e.g., methotrexate, azathioprine, or mycophenolate mofetil) may be indicated for severe or refractory cases, or when posterior segment involvement is present.
+Antimicrobial therapy: If an infectious aetiology is identified, targeted antimicrobial treatment should be initiated promptly.
+Interdisciplinary collaboration: In cases of suspected systemic disease, rheumatologists or infectious disease specialists should be consulted for a comprehensive management plan.
+Improve
+Complications
+The complications of anterior uveitis can be vision-threatening and include:
+Posterior synechiae:
+Adhesions between the iris and lens can lead to pupil distortion, iris bombe, and angle-closure glaucoma.
+Cataract:
+Prolonged inflammation, chronic corticosteroid use, or both can result in cataract formation.
+Glaucoma:
+Intraocular pressure can be elevated due to inflammation, corticosteroid-induced ocular hypertension, or secondary angle-closure.
+Cystoid macular oedema:
+Chronic inflammation and blood-ocular barrier disruption can result in macular oedema and decreased vision.
+Band keratopathy:
+Deposition of calcium in the corneal epithelium can cause discomfort and decreased vision.
+Improve
+Ophthalmology
+Anterior uveitis

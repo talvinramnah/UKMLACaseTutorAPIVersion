@@ -1,0 +1,173 @@
+Acromegaly
+Acromegaly
+Acromegaly is a rare endocrine disorder caused by excessive secretion of growth hormone (GH) from the pituitary gland. The condition is characterized by progressive enlargement of the hands, feet, and facial features, as well as systemic complications such as cardiovascular disease,
+diabetes mellitus
+, and sleep apnea. Diagnosis is based on clinical features, biochemical testing, and imaging studies. Treatment options include surgery, radiation therapy, and medical therapy with somatostatin analogs, GH receptor antagonists, and dopamine agonists. The goals of treatment are to normalize GH and insulin-like growth factor-1 levels, reduce tumour size, and improve symptoms and quality of life.
+Last updated: 27
+th
+June 2024
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of acromegaly primarily involves the overproduction of growth hormone (GH) by the anterior pituitary gland. This overproduction is most commonly caused by noncancerous tumours, known as adenomas, originating in the pituitary gland.
+Pituitary Adenomas
+The majority of acromegaly cases are attributed to somatotroph adenomas, which are benign tumours composed of cells that produce GH. These adenomas cause an excess secretion of GH leading to the clinical manifestations associated with acromegaly.
+Gigantism
+Gigantism results from excessive GH secretion before epiphyseal closure during childhood or adolescence leading to increased linear growth. In contrast, acromegaly occurs post-puberty when epiphyseal closure has occurred resulting in enlargement of extremities rather than increased height.
+Both conditions share common symptoms due to elevated GH levels such as joint pain and soft tissue swelling but the timing of onset determines the distinct phenotypic presentations.
+While both conditions can be caused by pituitary adenomas secreting GH, gigantism presents earlier in life with tall stature being a prominent feature.
+Very rarely, acromegaly can be attributed to other causes:
+Ectopic Growth Hormone-Releasing Hormone (GHRH) Production
+Certain neoplasms outside the hypothalamic-pituitary axis can secrete GHRH leading to stimulation of GH production. Examples include neuroendocrine tumours such as bronchial carcinoids or pancreatic islet cell tumours.
+Ectopic Growth Hormone (GH) Production
+Rarely, non-pituitary tumours can directly produce and secrete GH causing acromegaly. These include malignant neoplasms like lung carcinoids or
+phaeochromocytoma
+.
+Improve
+Pathophysiology
+Acromegaly results from excessive growth hormone (GH) secretion, primarily from pituitary adenomas, leading to elevated insulin-like growth factor-1 (IGF-1) production with widespread systemic effects.
+Growth Hormone and IGF-1 Axis
+Normal GH secretion is pulsatile and regulated by hypothalamic hormones—growth hormone-releasing hormone (GHRH) stimulates release while somatostatin inhibits it.
+In acromegaly, this regulatory control is disrupted, resulting in autonomous GH secretion from somatotroph adenomas.
+GH acts primarily by stimulating hepatic production of IGF-1
+, which mediates most of the growth-promoting and metabolic effects.
+Somatotroph adenomas typically demonstrate reduced sensitivity to normal inhibitory feedback mechanisms:
+Elevated IGF-1 fails to suppress GH secretion
+Hyperglycaemia fails to suppress GH secretion (basis for the oral glucose tolerance test)
+Somatostatin inhibition is attenuated
+Tissue Effects
+Bone and connective tissue changes
+occur through direct GH effects and IGF-1-mediated stimulation:
+Periosteal new bone formation leads to increased jaw size (prognathism) and frontal bossing
+Articular cartilage proliferation causes joint space widening and subsequent osteoarthritis
+Soft tissue hypertrophy results from increased collagen deposition and interstitial fluid retention
+Metabolic derangements
+arise from GH's antagonistic effects on insulin action:
+GH promotes lipolysis and increases free fatty acid levels
+Induces hepatic and peripheral insulin resistance, leading to hyperinsulinaemia
+Progressive deterioration of glucose tolerance may culminate in
+diabetes mellitus
+Cardiovascular effects
+develop through multiple mechanisms:
+Direct GH/IGF-1 action on cardiac myocytes causes myocardial hypertrophy
+Increased peripheral vascular resistance contributes to
+hypertension
+Endothelial dysfunction promotes accelerated atherosclerosis
+Cardiac remodelling leads to biventricular hypertrophy and eventual
+cardiomyopathy
+Organomegaly
+occurs throughout the body:
+Visceromegaly affects liver, spleen, kidneys, and thyroid
+Tongue enlargement (
+macroglossia
+) contributes to obstructive sleep apnoea
+Salivary and sweat gland hypertrophy leads to hyperhidrosis and increased sebum production
+The chronic exposure to elevated GH and IGF-1 levels progressively worsens these pathophysiological changes, explaining the insidious development of clinical features and complications in acromegaly.
+Improve
+Clinical features
+Features
+coarse facial appearance, spade-like hands, increase in shoe size
+large tongue
+, prognathism, interdental spaces
+excessive
+sweating
+and oily skin: caused by sweat gland hypertrophy
+features of pituitary tumour: hypopituitarism, headaches, bitemporal hemianopia
+raised prolactin in 1/3 of cases →
+galactorrhoea
+6% of patients have MEN-1
+Improve
+Investigations
+Growth hormone (GH) levels vary during the day and are therefore not diagnostic.
+Serum IGF-1 levels
+have now overtaken the oral glucose tolerance test (OGTT) with serial GH measurements as the first-line test. The OGTT test is recommended to confirm the diagnosis if IGF-1 levels are raised.
+The Endocrine Society guidelines suggest the following:
+1.1 We recommend measurement of IGF-1 levels in patients with typical clinical manifestations of acromegaly, especially those with acral and facial features.
+...
+1.5 In patients with elevated or equivocal serum IGF-1 levels, we recommend confirmation of the diagnosis by finding lack of suppression of GH to < 1 µg/L following documented hyperglycemia during an oral glucose load.
+Serum IGF-1 may also be used to monitor disease
+Oral glucose tolerance test
+in normal patients GH is suppressed to < 2 mu/L with hyperglycaemia
+in acromegaly there is no suppression of GH
+may also demonstrate impaired glucose tolerance which is associated with acromegaly
+A pituitary MRI may demonstrate a pituitary tumour.
+Improve
+Management
+Trans-sphenoidal surgery is the first-line treatment for acromegaly in the majority of patients
+Dopamine agonists
+for example bromocriptine
+the first effective medical treatment for acromegaly, however now superseded by somatostatin analogues
+effective only in a minority of patients
+Somatostatin analogue
+directly inhibits the release of growth hormone
+for example octreotide
+effective in 50-70% of patients
+may be used as an adjunct to surgery
+Pegvisomant
+GH receptor antagonist - prevents dimerization of the GH receptor
+once daily s/c administration
+very effective - decreases IGF-1 levels in 90% of patients to normal
+doesn't reduce tumour volume therefore surgery still needed if mass effect
+External irradiation is sometimes used for older patients or following failed surgical/medical treatment
+Improve
+Complications
+Acromegaly is associated with significant morbidity and mortality
+if left untreated, with a standardised mortality ratio approximately 1.5-2.5 times higher than the general population. Complications affect multiple organ systems and significantly impact quality of life.
+Cardiovascular Complications
+Cardiomyopathy
+is common, with characteristic biventricular hypertrophy and diastolic dysfunction progressing to systolic dysfunction in advanced cases
+Left ventricular hypertrophy occurs in up to 90% of patients with long-standing disease
+Cardiac output is typically increased, with higher stroke volume and heart rate
+Hypertension
+affects 35-40% of patients, contributing to cardiovascular risk
+Arrhythmias, particularly atrial fibrillation, are more prevalent
+Accelerated atherosclerosis leads to increased risk of coronary artery disease and cerebrovascular events
+Metabolic and Endocrine Complications
+Insulin resistance and
+diabetes mellitus
+occur in up to 50% of patients
+Impaired glucose tolerance is even more common, affecting up to 70%
+Hyperinsulinaemia is typically present before overt diabetes develops
+Dyslipidaemia with elevated triglycerides and reduced HDL cholesterol
+Gonadal dysfunction is common
+Women may experience menstrual irregularities, reduced fertility and
+galactorrhoea
+Men frequently develop erectile dysfunction and decreased libido
+Hypopituitarism may develop due to compression of normal pituitary tissue by the adenoma
+Respiratory and Other Systemic Complications
+Sleep apnoea affects up to 70% of patients
+, predominantly obstructive in nature
+Caused by soft tissue thickening of the upper airway,
+macroglossia
+and mandibular enlargement
+Central sleep apnoea may also occur due to altered central respiratory drive
+Musculoskeletal complications are nearly universal
+Arthropathy affects up to 75% of patients, particularly in weight-bearing joints
+Carpal tunnel syndrome due to soft tissue swelling and nerve entrapment
+Vertebral fractures may occur despite normal bone mineral density
+Colonic polyps and increased risk of
+colorectal cancer
+NICE guidelines recommend one-time colonoscopy at diagnosis
+Visceromegaly, including thyroid enlargement, hepatomegaly and splenomegaly
+Psychological effects including depression, anxiety, and reduced quality of life
+The risk of complications correlates with disease duration and the degree of biochemical control.
+Many complications can improve with effective treatment
+, though some structural changes may be irreversible in long-standing disease.
+Improve
+References
+Postgraduate Medical Journal - Modern treatment of acromegaly
+The Endocrine Society - 2014 Acromegaly guidelines
+Endocrinology
+Acromegaly

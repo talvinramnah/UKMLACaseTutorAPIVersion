@@ -1,0 +1,92 @@
+Penile cancer
+Penile cancer
+Penile cancer is a rare malignancy that affects the penis. It typically presents as a painless lesion or ulcer on the glans or foreskin, which may be accompanied by discharge or bleeding. The most common risk factors for penile cancer include phimosis, poor hygiene, smoking, and human papillomavirus (HPV) infection. Diagnosis is made through biopsy and histopathological examination of the lesion. Treatment options depend on the stage of the disease and may include surgery, radiation therapy, chemotherapy, or a combination of these modalities.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.10 cases per 100,000 person-years
+Peak incidence: 60-70 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of penile cancer is multifactorial, with several risk factors and underlying causes identified. These include:
+Human Papillomavirus (HPV) Infection:
+Persistent infection with high-risk HPV types, particularly
+HPV 16
+and
+18
+, is strongly associated with the development of penile cancer. HPV DNA has been detected in approximately 50% of penile cancers.
+Tobacco use:
+Smoking is a significant risk factor for penile cancer. It may act synergistically with HPV infection to increase the risk.
+Poor Hygiene and Phimosis:
+Chronic inflammation or irritation of the penis due to poor hygiene can contribute to carcinogenesis. Phimosis, which prevents proper cleaning of the glans penis, also increases the risk.
+Circumcision:
+Men circumcised in infancy have a lower risk of developing penile cancer compared to those circumcised later or not at all. The protective effect is thought to result from improved hygiene and reduced likelihood of phimosis and HPV infection.
+AIDS:
+Immunosuppression due to AIDS significantly increases the risk of penile cancer, likely due to increased susceptibility to HPV infection.
+In addition, certain conditions are recognised as precursors for penile carcinoma. These include Bowen's disease (intraepidermal squamous cell carcinoma), erythroplasia of Queyrat (Bowen's disease involving the glans), and Bowenoid papulosis (a variant affecting younger men).
+Bowen's Disease and Erythroplasia of Queyrat:
+These conditions present as red, scaly patches on the penis and have a high risk of progression to invasive cancer if left untreated.
+Bowenoid Papulosis:
+This presents as red or pigmented papules on the penis. While it resembles Bowen's disease histologically, it often regresses spontaneously and has a lower risk of progression to invasive cancer.
+Improve
+Clinical features
+The most common presenting symptom is a painless penile lesion or ulceration, which may be accompanied by bleeding or discharge.
+Other clinical features may include:
+Changes in the colour or texture of the skin on the penis
+Thickening or nodularity of the penile skin
+Enlargement of regional lymph nodes
+Erectile dysfunction or difficulty urinating
+The location and size of the lesion may vary, with the glans and foreskin being the most commonly affected sites.
+Improve
+Referral criteria
+NICE cancer referral guidelines for penile cancer suggest the following:
+Consider a suspected cancer pathway referral (for an appointment within 2 weeks) for penile cancer in men if they have either:
+a penile mass or ulcerated lesion, where a sexually transmitted infection has been excluded as a cause, or
+a persistent penile lesion after treatment for a sexually transmitted infection has been completed.
+Consider a suspected cancer pathway referral (for an appointment within 2 weeks) for penile cancer in men with unexplained or persistent symptoms affecting the foreskin or glans.
+Improve
+Differential diagnosis
+The differential diagnosis for penile cancer includes several other conditions. The key to differentiating these lies in careful examination of the clinical presentation, as well as understanding the subtle differences in symptomatology and risk factors. This section will focus on three common alternative diagnoses: genital warts, balanitis and Peyronie's disease.
+Genital Warts
+Genital warts are caused by the human papillomavirus (HPV), specifically strains 6 and 11. They present as small, flesh-coloured or grey growths on the penis. They may be smooth or rough, raised or flat.
+In contrast to penile cancer, which is often associated with a single ulcerative lesion or mass, genital warts tend to be multiple and non-ulcerative.
+Pain is not a common feature of genital warts unless they become traumatised or secondarily infected. In contrast, pain can be a feature of advanced penile cancer.
+Balanitis
+Balanitis refers to inflammation of the glans penis, often secondary to infection or irritation. It presents with erythema, oedema and occasionally ulceration of the glans.
+Unlike penile cancer, balanitis is frequently associated with pruritus and discharge. Additionally, balanitis tends to affect younger individuals compared to penile cancer which typically affects men over 50 years old.
+Balanitis can also occur in association with phimosis (inability to retract foreskin), a condition that can co-exist but should not be confused with penile cancer where phimosis may also be present due to tumour invasion.
+Peyronie's Disease
+Peyronie's disease is a connective tissue disorder involving the growth of fibrous plaques in the soft tissue of the penis. This leads to abnormal curvature, erectile dysfunction and pain during erection.
+Unlike penile cancer, Peyronie's disease does not present with visible lesions or masses on the penis. The key distinguishing feature is penile deformity, which is not a characteristic of penile cancer.
+Peyronie's disease typically affects middle-aged men and can be associated with Dupuytren's contracture (fibromatosis of palmar fascia).
+Improve
+Management
+Management of penile cancer involves a multidisciplinary approach, incorporating urologists, oncologists, pathologists, and radiologists. The choice of treatment depends on the stage of the disease and patient's overall health status.
+Localised Disease:
+Surgical management:
+For Tis and Ta lesions, wide local excision or laser ablation is usually sufficient. Partial or total penectomy may be necessary for T1 and T2 tumours. Inguinal lymphadenectomy should be considered in patients with palpable inguinal nodes or high-grade tumours.
+Radiation therapy:
+Brachytherapy can be an alternative to surgery for selected T1-T2 tumours. External beam radiation therapy (EBRT) can be used in patients who are not surgical candidates or refuse surgery.
+Locally Advanced Disease:
+Multimodal treatment:
+Neoadjuvant chemotherapy followed by surgery is recommended for locally advanced disease (T3-T4). Commonly used regimens include cisplatin-based combinations such as PE (cisplatin + etoposide).
+Radiation therapy:
+Concurrent chemoradiotherapy can be an option for patients who are not candidates for surgery.
+Metastatic Disease:
+In metastatic disease, systemic chemotherapy is the mainstay of treatment. The first-line regimen often includes combination chemotherapy with cisplatin, ifosfamide, and either 5-fluorouracil or paclitaxel.
+Patient's performance status, comorbidities and renal function should guide the choice of systemic therapy. Participation in clinical trials should always be considered when available.
+Palliative Care:
+Palliative care should be integrated early in the course of disease management to address symptom control, psychosocial support and end-of-life planning.
+Improve
+Urology
+Penile cancer

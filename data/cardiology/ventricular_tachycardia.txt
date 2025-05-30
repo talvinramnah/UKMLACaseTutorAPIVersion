@@ -1,0 +1,154 @@
+Ventricular tachycardia
+Ventricular tachycardia
+Ventricular tachycardia
+is a severe cardiac arrhythmia originating from the ventricles, characterised by a heart rate exceeding 100 beats per minute. It can be categorised into monomorphic or polymorphic based on ECG patterns.
+Monomorphic ventricular tachycardia
+exhibits uniform QRS complexes, typically resulting from reentry circuits within ventricular scar tissue.
+Polymorphic ventricular tachycardia
+, including Torsades de Pointes, displays varying QRS morphologies. This usually stems from prolonged QT intervals due to ion channel abnormalities or certain medications.
+Clinically, it may present with palpitations, syncope or cardiac arrest. Diagnosis involves ECG interpretation and possibly electrophysiological studies. Management strategies include medication (antiarrhythmic drugs), electrical cardioversion for haemodynamically unstable patients, and catheter ablation or implantable cardioverter-defibrillator placement for refractory cases or as prophylaxis in high-risk patients.
+Last updated: 10
+th
+November 2023
+Aetiology
+Ventricular tachycardia (VT) is a life-threatening cardiac arrhythmia, characterised by a rapid heart rate originating from the ventricles. The aetiology of VT is often multifactorial and can be broadly divided into structural heart disease-related causes, genetic causes, and other non-structural causes.
+Structural Heart Disease-Related Causes:
+Ischaemic heart disease:
+Ischaemic heart disease, particularly myocardial infarction, is the most common underlying cause of VT. Scar tissue from previous myocardial infarctions can lead to re-entry circuits causing VT.
+Cardiomyopathies:
+Dilated cardiomyopathy, hypertrophic cardiomyopathy and arrhythmogenic right ventricular cardiomyopathy are associated with an increased risk of VT due to myocardial fibrosis and disarray.
+Valvular heart disease:
+Severe valvular diseases such as mitral valve prolapse or aortic stenosis can lead to left ventricular hypertrophy and subsequent VT.
+Genetic Causes:
+Congenital long QT syndrome:
+This inherited condition predisposes individuals to prolonged repolarisation leading to torsades de pointes, a form of polymorphic VT.
+Catecholaminergic polymorphic VT:
+An inherited disorder that leads to abnormal calcium handling in cardiac cells. Stress or exercise can trigger episodes of bidirectional or polymorphic VT in these individuals.
+Brugada syndrome:
+A genetic disorder characterised by abnormal sodium channel function leading to predisposition for polymorphic VT.
+Other Non-Structural Causes:
+Electrolyte abnormalities:
+Hypokalaemia, hypomagnesaemia and hypercalcemia can predispose individuals to VT by affecting myocardial cell membrane stability.
+Drug toxicity:
+Certain medications such as antiarrhythmics, tricyclic antidepressants, and certain antipsychotics can induce VT by prolonging the QT interval or directly causing myocardial toxicity.
+Alcohol and substance misuse:
+Chronic alcoholism and misuse of substances such as cocaine or methamphetamines can lead to cardiomyopathy and subsequent VT.
+Improve
+Pathophysiology
+Ventricular tachycardia (VT) is a life-threatening arrhythmia that originates from the ventricles of the heart. The pathogenesis involves several key steps, which are detailed below:
+Abnormal automaticity
+The first step in the pathogenesis of VT lies in the abnormal automaticity of ventricular myocytes. Under normal conditions, these cells do not possess pacemaker activity. However, certain pathological stimuli such as ischaemia or drug toxicity can confer upon them an enhanced ability to spontaneously depolarise.
+Triggered activity
+In addition to abnormal automaticity, triggered activity also plays a significant role in VT genesis. In this scenario, afterdepolarisations - either early (EADs) or delayed (DADs) - trigger action potentials outside of the normal cardiac cycle. EADs typically occur in settings of prolonged repolarisation, while DADs are often associated with intracellular calcium overload.
+Re-entry circuits
+The most common mechanism underlying sustained VT is re-entry, where a self-perpetuating electrical circuit forms within the ventricular myocardium. For re-entry to occur, there must be an area of unidirectional block and a circuit around which the impulse can travel. This can be facilitated by structural abnormalities such as fibrosis or infarct scar tissue.
+Electrical instability
+Finally, it's important to consider electrical instability as a contributing factor to VT pathogenesis. Conditions such as electrolyte imbalances (e.g., hypokalaemia), acid-base disturbances and hypoxia can all increase myocardial irritability and susceptibility to ectopic rhythms.
+This highlights the multifactorial nature of VT pathogenesis, with the interplay of abnormal automaticity, triggered activity, re-entry circuits and electrical instability all potentially contributing to the development of this dangerous arrhythmia.
+Improve
+Clinical features
+Ventricular tachycardia typically presents as a severe cardiac arrhythmia, characterised by a rapid heartbeat that originates in the ventricles. The heart rate generally exceeds 100 beats per minute, and can often reach 200 beats per minute or more. The rhythm is usually regular but may occasionally be irregular.
+Presenting Features:
+Symptomatic Presentation:
+Patients with ventricular tachycardia frequently present with palpitations, chest pain, dyspnoea or syncope. These symptoms are due to decreased cardiac output resulting from the rapid heart rate and impaired ventricular filling.
+Asymptomatic Presentation:
+Some patients may be asymptomatic, particularly if the episode of ventricular tachycardia is brief. These cases are often discovered incidentally during routine cardiac monitoring or electrocardiogram (ECG).
+Hemodynamic Instability:
+When sustained, ventricular tachycardia can lead to hemodynamic instability. This manifests as hypotension, shock or acute heart failure.
+Pulse Examination:
+On physical examination, pulse may be rapid and weak due to poor cardiac output. Pulse deficit may also be noted.
+Auscultation:
+Auscultation of the heart may reveal tachycardia with a regular or irregular rhythm.
+Presenting features:
+In symptomatic presentation,
+palpitations
+are often described by patients as a sensation of rapid and strong heartbeats in their chest.
+Chest pain
+, which can mimic angina pectoris, is due to increased myocardial oxygen demand outstripping supply.
+Dyspnoea
+results from impaired cardiac output, leading to pulmonary congestion.
+Syncope
+or pre-syncope can occur due to decreased cerebral perfusion.
+In cases of hemodynamic instability, patients may present with signs of shock including pallor, cold and clammy skin, altered mental state, and reduced urine output. Acute heart failure might manifest as pulmonary oedema with symptoms such as orthopnea and paroxysmal nocturnal dyspnoea.
+Pulse examination often reveals a rapid pulse rate that corresponds with the tachycardia noted on ECG. The pulse may be weak due to poor stroke volume resulting from impaired ventricular filling. A pulse deficit (discrepancy between heart rate and pulse rate) might be observed in irregular rhythms.
+Auscultation findings are typically consistent with the underlying rhythm disturbance. There may be variation in the intensity of the first heart sound (S1) due to changes in mitral valve closure times associated with irregular rhythms.
+Improve
+Investigations
+Ventricular tachycardia (VT) is a severe cardiac arrhythmia characterised by three or more consecutive ventricular beats at a rate of >100 bpm. The investigation of VT involves several diagnostic tests and procedures, aimed at determining the underlying cause, the severity of the condition, and the most appropriate treatment approach.
+Investigations
+The primary investigations for VT include:
+Electrocardiogram (ECG):
+This is the first-line investigation in suspected cases of VT. It can identify characteristic features such as wide QRS complexes (>120 ms), AV dissociation, fusion or capture beats.
+Blood tests:
+These are used to assess electrolyte levels, thyroid function, and markers of myocardial damage or stress. Abnormalities in electrolytes such as potassium and magnesium can precipitate VT. Elevated troponin levels may indicate myocardial infarction which can trigger VT.
+Chest X-ray:
+This can reveal structural abnormalities like cardiomegaly or signs of heart failure that could be contributing to VT.
+In addition to these basic investigations, further diagnostic tests may be required based on initial findings:
+Echocardiography:
+Transthoracic echocardiography (TTE) is important in assessing ventricular function and identifying structural heart disease. It provides information about left ventricular ejection fraction (LVEF), which is crucial in guiding therapy.
+Coronary angiography:
+If ischemic heart disease is suspected as an underlying cause for VT, coronary angiography should be performed to evaluate coronary artery patency.
+Magnetic Resonance Imaging (MRI):
+Cardiac MRI can be useful in identifying non-ischemic cardiomyopathy or infiltrative diseases such as sarcoidosis or amyloidosis.
+Electrophysiological study (EPS):
+This invasive test is used to induce VT in a controlled setting, identify its origin, and assess the effectiveness of different therapeutic interventions. It is particularly useful in patients with sustained monomorphic VT.
+Improve
+Differential diagnosis
+The differential diagnosis of VT includes supraventricular tachycardia with aberrancy, atrial fibrillation with rapid ventricular response, and sinus tachycardia.
+Supraventricular Tachycardia with Aberrancy
+This condition may mimic VT on an electrocardiogram (ECG), making it a common differential. It involves an arrhythmia originating above the ventricles but conducting to the ventricles through an abnormal pathway, resulting in a wide QRS complex similar to VT.
+Key distinguishing features include the presence of capture or fusion beats, and the morphology of QRS complexes in lead V1 and V6. If these leads show typical right or left bundle branch block pattern, it favours supraventricular tachycardia with aberrancy over VT.
+Atrial Fibrillation with Rapid Ventricular Response
+The irregularly irregular rhythm seen in atrial fibrillation can sometimes be rapid enough to resemble VT. However, unlike VT, atrial fibrillation does not have distinct QRS complexes due to the chaotic electrical activity in the atria.
+In addition, there are no clear P waves before each QRS complex as seen in other types of tachycardias. Instead, there are fibrillatory waves which vary in size, shape and timing.
+Sinus Tachycardia
+While sinus tachycardia also presents with a fast heart rate, it originates from the sinus node and is usually a physiological response to stressors such as fever, anaemia, or hypovolaemia.
+On ECG, there is a P wave preceding each QRS complex with a normal PR interval, which differentiates it from VT. The QRS complexes are typically narrow unless there is concurrent bundle branch block or electrolyte imbalance.
+Understanding these differential diagnoses is crucial in managing patients presenting with tachycardia. The therapeutic approach may vary significantly depending on the underlying cause of the symptoms.
+Improve
+Management
+Management requires swift identification and treatment to prevent progression to ventricular fibrillation or sudden cardiac death. The approach depends on patient stability and whether VT is monomorphic or polymorphic.
+Assessment and Stabilisation:
+Initial assessment should focus on patient's haemodynamic stability, determining if the VT is sustained or non-sustained, and identifying any reversible causes.
+Stabilise the patient as necessary with oxygen delivery systems, intravenous access, continuous monitoring and immediate resuscitation measures if required.
+Treatment of Stable VT:
+If the patient is stable, consider pharmacological management first. Antiarrhythmic drugs such as amiodarone or lidocaine are commonly used.
+If drug therapy is ineffective, electrical cardioversion should be considered.
+Treatment of Unstable VT:
+In unstable patients where VT is causing significant symptoms or haemodynamic compromise, immediate synchronised cardioversion is indicated.
+Treatment of Polymorphic VT:
+If QT interval is prolonged, treat underlying cause such as electrolyte imbalance or withdraw offending medications. Consider magnesium sulphate administration if Torsades de Pointes suspected.
+If QT interval is normal (i.e., familial short QT syndrome), consider intravenous beta-blockers or pacing.
+Long-term Management:
+Patients with sustained VT, structural heart disease or unexplained syncope should be evaluated for implantable cardioverter defibrillator (ICD) placement.
+Antiarrhythmic drug therapy may be continued for long-term management. Catheter ablation can also be considered in certain patients.
+Follow-up and Monitoring:
+Patients should have regular follow-up to monitor efficacy and side effects of treatment, and assess any progression of underlying heart disease.
+Improve
+Complications
+Ventricular tachycardia (VT) is a severe cardiac rhythm disturbance characterised by a heart rate of more than 100 beats per minute with at least three irregular beats in a row. It can result in several complications, some of which are life-threatening.
+Cardiac Arrest
+The most serious complication of VT is
+cardiac arrest
+. Rapid ventricular rates can lead to ineffective ventricular filling, decreased cardiac output and ultimately, cessation of mechanical activity.
+Pulseless Electrical Activity (PEA)
+A closely related complication is
+pulseless electrical activity (PEA)
+. This occurs when the heart's electrical activity remains but there is no sufficient muscle contraction to produce a pulse or sustain life. PEA often follows prolonged VT and can also lead to cardiac arrest.
+Syncope
+Syncope, or loss of consciousness, is another common complication due to reduced cerebral blood flow secondary to decreased cardiac output.
+Myocardial Ischaemia and Infarction
+Long-standing VT can cause
+myocardial ischaemia and infarction
+. The rapid heart rate may increase myocardial oxygen demand beyond supply capabilities, leading to myocardial cell death.
+Congestive Heart Failure (CHF)
+If left untreated, recurrent episodes of VT may lead to
+congestive heart failure (CHF)
+. The persistently high heart rate impairs ventricular filling time, reducing stroke volume and eventually leading to systolic dysfunction and CHF.
+Tachycardia-induced Cardiomyopathy
+Tachycardia-induced cardiomyopathy is a long-term complication of persistent VT. The sustained high heart rate can lead to structural and functional changes in the myocardium, resulting in left ventricular dilation and impaired systolic function.
+Improve
+References
+Resuscitation Council UK - 2021 Tachycardia algorithm
+Arrhythmias
+Ventricular tachycardia

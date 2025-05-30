@@ -1,0 +1,165 @@
+Behcet's syndrome
+Behcet's syndrome
+Behcet's syndrome
+, also known as Behcet's disease, is a rare and chronic multisystem inflammatory disorder characterised by recurrent oral and
+genital ulcers
+, uveitis, and skin lesions. The aetiology remains unknown but it is thought to involve an autoimmune response triggered by an environmental factor in a genetically predisposed individual. It is more prevalent in countries along the old Silk Road from Eastern Asia to the Mediterranean basin.
+The diagnosis of Behcet's syndrome relies on clinical criteria due to the absence of pathognomonic laboratory findings. The most commonly used diagnostic criteria are those proposed by the International Study Group for Behcet's Disease (ISG). Major organ involvement can lead to significant morbidity and mortality, particularly neurological involvement (neuro-Behcet), large vessel vasculitis and eye disease which can cause blindness.
+Treatment strategies aim at suppressing the inflammatory response using immunosuppressive agents such as corticosteroids, colchicine, azathioprine, cyclosporine A, interferon-alpha and tumour necrosis factor-alpha inhibitors.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Genital herpes
+300.00
+Behcet's syndrome
+1
+Takayasu's arteritis
+0.26
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Behcet's syndrome, also known as Behcet's disease, is a rare and complex vasculitis of unknown aetiology. It is characterised by recurrent oral and
+genital ulcers
+, ocular inflammation, skin lesions, and can involve multiple organ systems. The aetiological factors contributing to Behcet's syndrome are not completely understood but are believed to involve an interplay between genetic predisposition, environmental triggers and immune dysregulation.
+Genetic Factors
+Geographical Location: The prevalence of Behcet’s syndrome varies globally with higher incidence rates observed along the ancient Silk Road spanning from East Asia to the Mediterranean basin. This suggests that certain geographical or environmental factors may contribute to disease susceptibility.
+The strongest genetic association with Behcet's syndrome is the presence of the
+Homo sapiens
+major histocompatibility complex class I molecule allele HLA-B51/B5. Individuals carrying this allele have been found to be associated with an increased risk of developing the disease.
+Other genes implicated in its pathogenesis include those involved in immune regulation and inflammatory response such as IL10, IL23R-IL12RB2, STAT4, MEFV and CCR1-CCR3.
+Environmental Triggers
+Infections: Certain microbial agents have been proposed as potential environmental triggers for Behcet's syndrome. These include Herpes simplex virus (HSV), Streptococcus sanguinis and
+Saccharomyces cerevisiae
+. However, no direct causative link has been established.
+Immune Dysregulation
+Innate Immunity: Abnormalities in neutrophil function and hyperactivity are frequently observed in Behcet's syndrome. Neutrophils from patients with active disease have been shown to exhibit increased spontaneous apoptosis, oxidative burst and chemotactic activity.
+Adaptive Immunity: There is evidence of T-cell dysregulation with increased Th1 and Th17 responses leading to elevated levels of proinflammatory cytokines such as TNF-alpha, IL-6, IL-17, IL-21 and IFN-gamma.
+Improve
+Pathophysiology
+Behcet's syndrome, also known as Behcet's disease, is a rare and complex vasculitis of unknown cause. The pathophysiology of this disorder revolves around an abnormal immune response leading to inflammation in the blood vessels.
+The initial trigger for Behcet's syndrome remains elusive. However, it is believed that an environmental agent such as a bacterium or virus may instigate the onset in genetically predisposed individuals. This is supported by the association of Behcet's syndrome with certain
+HLA
+genotypes, specifically HLA-B51.
+Upon exposure to the triggering agent, there is activation of both innate and adaptive immune responses. Innate immunity involves neutrophilic infiltration, which plays a significant role in the pathogenesis of Behcet’s syndrome. There is increased activity and number of these cells, leading to vascular damage through the release of proteolytic enzymes and reactive oxygen species.
+In terms of adaptive immunity, there seems to be an imbalance between T helper (Th) 1 and Th2 cells. There is a predominance of Th1 cells producing inflammatory cytokines like
+interferon-gamma
+,
+tumour necrosis factor-alpha
+, interleukins-6 and -8 amongst others. These cytokines further stimulate neutrophils leading to amplified tissue damage.
+T-regulatory cells
+, important for maintaining immune homeostasis and preventing autoimmunity, are found to be defective in Behcet’s syndrome patients thus allowing unchecked inflammatory response.
+The role of autoantibodies has been suggested but remains controversial with some studies showing presence of anti-endothelial cell antibodies while others do not.
+Mucosal ulceration seen in this condition can be attributed to increased levels of
+matrix metalloproteinases
+that degrade extracellular matrix leading to tissue injury.
+Vasculitis, a hallmark feature of Behcet’s syndrome, results from the inflammatory cascade damaging the vascular endothelium. All sizes of vessels can be affected leading to thrombosis or aneurysm formation.
+The organ-specific manifestations are based on the involvement of different systems by vasculitis:
+Ocular involvement:
+Uveitis is a common manifestation and results from direct inflammation or secondary to retinal vasculitis.
+Mucocutaneous involvement:
+Aphthous ulcers,
+genital ulcers
+and erythema nodosum result from neutrophilic infiltration and inflammation. Skin pathergy test is positive in these patients due to hyperreactivity of skin to minor trauma.
+Nervous system involvement:
+Neuro-Behcet’s involves primarily the central nervous system with parenchymal brain disease being more common than vascular disease. Symptoms depend on areas involved but may include
+headache
+, stroke-like symptoms or psychiatric changes.
+In summary, Behcet's syndrome is an immune-mediated vasculitis triggered possibly by an environmental agent in genetically predisposed individuals. The pathophysiology involves a complex interplay between innate and adaptive immunity leading to systemic inflammation and multi-organ damage.
+Improve
+Clinical features
+A typical presentation of Behcet's syndrome might involve a patient in their twenties or thirties presenting with recurrent oral and
+genital ulcers
+, accompanied by uveitis. However, the clinical features of Behcet's syndrome can be diverse, involving multiple organ systems and manifesting as a wide array of symptoms.
+Oral and
+Genital Ulceration
+The most common presenting feature is recurrent oral ulceration, seen in over 95% of patients. These ulcers are typically painful, round or oval, with a yellow-grey pseudomembrane surrounded by a red halo. Genital ulceration is also common, affecting around 60-80% of patients. These ulcers are similar in appearance to the oral lesions but tend to be larger and heal with scarring.
+Ocular Involvement
+About 50-70% of patients present with ocular symptoms such as uveitis which may lead to visual impairment or blindness if not promptly treated. Other ocular manifestations include retinal vasculitis and optic neuritis.
+Skin Lesions
+Various skin lesions can occur including erythema nodosum-like lesions, acneiform nodules and folliculitis. The pathergy test—where minor skin trauma results in exaggerated inflammation—is positive in about half of the cases.
+Vascular Manifestations
+Venous involvement: Venous thrombosis is common and may affect any part of the venous system including deep veins leading to deep vein thrombosis (DVT) or pulmonary embolism (PE).
+Arterial involvement: Arterial complications are less common but potentially more serious, including aneurysms, arterial thrombosis or occlusion.
+Gastrointestinal Involvement
+Behcet's syndrome can involve any part of the gastrointestinal tract, presenting as abdominal pain, diarrhoea or gastrointestinal bleeding. Endoscopic findings may mimic inflammatory bowel disease.
+Neurological Involvement
+Neuro-Behcet’s syndrome occurs in about 5-10% of patients and typically presents as either a brainstem syndrome or a progressive meningoencephalitis. Other neurological manifestations include
+headache
+, stroke-like symptoms and psychiatric symptoms.
+Musculoskeletal Manifestations
+Arthralgia
+or arthritis occur in about half of the patients with Behcet's syndrome. This is usually non-erosive and non-deforming, affecting large joints such as the knees, ankles and wrists.
+Cardiopulmonary Involvement
+Rarely, Behcet's syndrome can involve the heart leading to myocarditis or pericarditis. Pulmonary involvement includes pulmonary artery aneurysms, pulmonary infarction, pleurisy and fibrosis.
+Genitourinary Manifestations
+Epididymitis is common in male patients while female patients may present with vulvar or vaginal ulcers. Rarely, renal involvement can lead to glomerulonephritis or amyloidosis.
+Improve
+Investigations
+Diagnosis
+no definitive test
+diagnosis based on clinical findings
+positive pathergy test is suggestive (puncture site following needle prick becomes inflamed with small pustule forming)
+Improve
+Management
+Management of Behcet's syndrome primarily revolves around the control of symptoms and prevention of serious complications. It necessitates a multidisciplinary approach involving rheumatologists, ophthalmologists, dermatologists, and gastroenterologists based on the organ system involved.
+Treatment Modalities
+Topical treatments:
+For oral and
+genital ulcers
+, topical corticosteroids are frequently employed. Topical anaesthetics may also be used for pain relief.
+Corticosteroids:
+Systemic corticosteroids are administered in cases with severe manifestations such as ocular disease or vascular involvement. Prednisolone is often the first-line treatment.
+Disease-modifying anti-rheumatic drugs (DMARDs):
+Methotrexate, azathioprine, and cyclosporine can be used as steroid-sparing agents or in patients unresponsive to corticosteroids.
+Biologic therapy:
+Anti-TNF agents like infliximab and adalimumab have shown efficacy in refractory cases or those with major organ involvement. Interferon-alpha may be considered for refractory uveitis.
+Cytotoxic agents:
+Cyclophosphamide may be employed for severe vasculitis or neurological involvement.
+Prophylactic Treatment
+Thromboprophylaxis should be considered in patients with vascular involvement. Proton pump inhibitors are often used for the prevention of gastrointestinal ulcers in patients taking non-steroidal anti-inflammatory drugs or corticosteroids.
+Management during Pregnancy
+Pregnant women with Behcet's syndrome should be managed by a multidisciplinary team including obstetricians with expertise in autoimmune diseases. The disease may exacerbate during pregnancy and some treatments may need to be adjusted due to their teratogenic risks.
+Improve
+Complications
+Behcet's syndrome, a systemic vasculitis disorder, can lead to numerous complications affecting various organ systems. The most likely complications are as follows:
+Ocular Complications
+Uveitis:
+Both anterior and posterior uveitis may occur, potentially leading to vision loss.
+Reticinal vasculitis:
+This complication can cause occlusive disease and optic atrophy, also resulting in vision loss.
+Vascular Complications
+Venous thromboembolism (VTE):
+Behcet's syndrome patients have an increased risk of both deep vein thrombosis (DVT) and pulmonary embolism (PE).
+Vasculitis:
+Inflammation of both large and small blood vessels can lead to aneurysm formation and arterial occlusion.
+Nervous System Complications
+Neuro-Behcet's syndrome:
+Characterised by meningoencephalitis symptoms such as
+headache
+, fever, stiff neck and neurological deficits. It may also present with parenchymal lesions or cerebral venous sinus thrombosis.
+Pseudotumour cerebri:
+Raised intracranial pressure without any apparent cause may occur.
+Gastrointestinal Complications
+Gastrointestinal ulcers:
+These ulcers can mimic Crohn’s disease or ulcerative colitis presenting with abdominal pain, diarrhoea and gastrointestinal bleeding.
+Gastrointestinal perforation:
+A rare but serious complication that requires immediate surgical intervention.
+Other less common complications include arthritis, erythema nodosum, epididymitis, and cardiopulmonary involvement such as pulmonary artery aneurysms and valvular disease. Long-term management of Behcet's syndrome aims to reduce the risk of these complications with immunosuppressive therapy.
+Improve
+Rheumatology
+Behcet's syndrome

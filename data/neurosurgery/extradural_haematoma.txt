@@ -1,0 +1,115 @@
+Extradural haematoma
+Extradural haematoma
+An extradural (or 'epidural') haematoma is a collection of blood that is between the skull and the dura. It is almost always caused by trauma and most typically by 'low-impact' trauma (e.g. a blow to the head or a fall).
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 3:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Mechanism of Bleeding
+Extradural haematoma most commonly arises following traumatic injury to the middle meningeal artery, which runs beneath the temporal bone. Fracture of the temporal or parietal bone frequently lacerates this vessel.
+Less commonly, venous bleeding from dural venous sinuses or diploic veins may be responsible, particularly in children.
+Arterial bleeding leads to rapid accumulation of blood between the inner table of the skull and the dura mater.
+Expansion and Intracranial Effects
+The rigid adherence of dura to cranial sutures confines blood accumulation, producing a characteristic biconvex (lentiform) shape on imaging.
+As blood accumulates, intracranial pressure rises locally. The expanding haematoma exerts mass effect on adjacent brain structures.
+Compression of underlying cortex leads initially to focal neurological deficits.
+If unchecked, rising pressure causes brain tissue displacement (herniation), most often uncal herniation through the tentorial notch.
+Clinical Correlates
+The classic
+'lucid interval'
+reflects initial transient
+loss of consciousness
+due to concussion, followed by temporary recovery as compensation occurs before mass effect becomes critical.
+As the haematoma expands further:
+Compression of cranial nerve III (oculomotor) results in ipsilateral pupillary dilation and loss of light reflex.
+Progression may cause contralateral hemiparesis due to compression of descending motor pathways.
+Ultimately, global cerebral dysfunction and cardiorespiratory compromise ensue if intervention is delayed.
+The key mechanism is rapid arterial bleeding causing localised mass effect and subsequent herniation if untreated.
+Improve
+Clinical features
+The classical presentation is of a patient who initially loses, briefly regains and then loses again consciousness after a low-impact
+head injury
+. The brief regain in consciousness is termed the
+'lucid interval'
+and is lost eventually due to the expanding haematoma and brain herniation. As the haematoma expands the uncus of the temporal lobe herniates around the tentorium cerebelli and the patient develops a fixed and dilated pupil due to the compression of the parasympathetic fibers of the third cranial nerve.
+Improve
+Investigations
+Extradural haematoma is a neurosurgical emergency and prompt diagnosis is essential.
+Urgent neuroimaging is the investigation of choice in all patients with suspected extradural haematoma
+.
+First-line imaging
+Non-contrast computed tomography (CT) of the head is the initial investigation recommended by UK guidelines (
+NICE CG176
+).
+CT provides rapid identification of an extradural haematoma, which classically appears as a biconvex (lentiform), hyperdense collection adjacent to the inner table of the skull.
+The lesion typically does not cross suture lines due to firm dural attachments, helping distinguish it from other intracranial haemorrhages.
+Associated features may include overlying skull fracture, midline shift, or evidence of brain herniation.
+Magnetic resonance imaging (MRI) is rarely used acutely but may be considered in cases where CT findings are equivocal or if there is suspicion of additional pathology.
+Further investigations
+Additional imaging such as CT angiography may be indicated if vascular injury or underlying vascular malformation is suspected, though this is uncommon in typical traumatic cases.
+Routine laboratory tests should include:
+Full blood count and coagulation profile to assess for anaemia and coagulopathy, which may influence perioperative management.
+Group and save/crossmatch in anticipation of potential surgical intervention.
+Other considerations
+Imaging should not delay neurosurgical referral or definitive management if clinical suspicion is high and the patient deteriorates rapidly.
+Lumbar puncture has no role in the diagnosis of extradural haematoma.
+Improve
+Management
+General Approach
+Extradural haematoma is a
+neurosurgical emergency
+requiring prompt assessment and management
+The primary aims of management are:
+Rapid identification and evacuation of the haematoma
+Prevention of secondary brain injury
+Management of
+raised intracranial pressure
+Rehabilitation and prevention of complications
+Initial Management
+Immediate resuscitation following ATLS principles
+Secure airway, particularly in patients with reduced GCS (< 8)
+Maintain adequate oxygenation (target PaO₂ > 13 kPa)
+Ensure haemodynamic stability with adequate cerebral perfusion pressure
+Urgent neurosurgical referral for all patients with radiologically confirmed extradural haematoma
+NICE guidelines recommend immediate neurosurgical assessment for patients with extradural haematoma and GCS < 15
+Medical management of raised intracranial pressure may be required as a temporising measure
+Elevation of head to 30 degrees
+Judicious hyperosmolar therapy (mannitol or hypertonic saline)
+Avoidance of hypotonic fluids
+Maintain normothermia and normoglycaemia
+Definitive Management
+Surgical evacuation
+is the definitive treatment for most extradural haematomas
+Craniotomy with evacuation of haematoma and control of bleeding source
+Usually performed via a trauma flap centred over the haematoma
+Identification and control of bleeding vessel (typically middle meningeal artery)
+Conservative management may be appropriate in select cases:
+Small haematomas (< 30ml volume)
+Thickness < 15mm
+Midline shift < 5mm
+GCS > 13 with no focal neurological deficit
+British Society of Neurological Surgeons guidance recommends close neurological monitoring with serial imaging if conservative approach is taken
+Post-operative care in a neurosurgical or neurointensive care setting
+Regular neurological observations
+ICP monitoring in selected cases
+Prevention of
+seizures
+(prophylactic anticonvulsants may be considered)
+Early mobilisation and rehabilitation once stable
+Improve
+Head injury
+Extradural haematoma

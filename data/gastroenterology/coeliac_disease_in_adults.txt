@@ -1,0 +1,218 @@
+Coeliac disease in adults
+Coeliac disease in adults
+Coeliac disease is a complex immune-mediated disorder triggered by gluten ingestion in genetically predisposed individuals, primarily those carrying HLA-DQ2 or HLA-DQ8 haplotypes. The disease pathogenesis involves both innate and adaptive immune responses, leading to villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes in the small intestine.
+Clinical features are highly variable, ranging from gastrointestinal symptoms like
+diarrhoea
+,
+abdominal pain
+, and malabsorption to extraintestinal manifestations such as
+dermatitis herpetiformis
+,
+fatigue
+,
+anaemia
+, and neurological complications. In children, failure to thrive and growth retardation may be observed. Some patients may be asymptomatic or have minimal symptoms. Coeliac disease is associated with an increased risk of complications, including malignancies, osteoporosis, and other autoimmune disorders.
+Diagnosis typically involves serological testing for anti-tissue transglutaminase (tTG) antibodies and confirmation with duodenal biopsy. The mainstay of treatment is a strict lifelong gluten-free diet, which improves symptoms, promotes mucosal healing, and reduces the risk of complications.
+Last updated: 31
+st
+December 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Irritable bowel syndrome
+20.00
+Coeliac disease in adults
+1
+Giardiasis
+0.25
+Crohn's disease
+0.11
+Microscopic colitis
+0.10
+Whipple's disease
+0.0001
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Coeliac disease is a complex immune-mediated disorder that occurs in genetically predisposed individuals. The key factors contributing to its development are genetic predisposition, exposure to gluten, and environmental factors.
+Genetic predisposition:
+The most significant genetic risk factors for coeliac disease are the human leukocyte antigen (HLA) class II haplotypes HLA-DQ2 and HLA-DQ8. Approximately 95% of patients with coeliac disease carry the HLA-DQ2 genotype, while the remaining 5% carry HLA-DQ8. However, the presence of these haplotypes is not sufficient for disease development, as only a small percentage of individuals with these genotypes develop coeliac disease.
+Gluten exposure:
+Gluten, a group of proteins found in wheat, barley, and rye, is the main environmental trigger for coeliac disease. Gliadin, a component of gluten, is particularly implicated in the pathogenesis of the disease.
+Environmental factors:
+Several environmental factors have been proposed to contribute to the development of coeliac disease, including early-life gluten exposure, infections (particularly viral infections), changes in gut microbiota, and other lifestyle factors. However, the precise role and impact of these factors on disease development remain unclear.
+Improve
+Pathophysiology
+The pathogenesis of coeliac disease involves both innate and adaptive immune responses to gluten ingestion in genetically susceptible individuals.
+Gliadin and tissue transglutaminase:
+Upon ingestion, gluten is partially digested in the gastrointestinal tract, forming gliadin peptides. These peptides can cross the intestinal epithelium through transcytosis or paracellular transport. Tissue transglutaminase (tTG), an enzyme expressed in the intestinal mucosa, deamidates gliadin peptides, increasing their affinity for HLA-DQ2 and HLA-DQ8 molecules on antigen-presenting cells (APCs).
+Adaptive immune response:
+The deamidated gliadin peptides bind to HLA-DQ2 or HLA-DQ8 molecules on APCs, which in turn present the peptides to CD4+ T cells. This interaction results in the activation and proliferation of gluten-specific T cells, leading to the release of pro-inflammatory cytokines, such as interferon-gamma (IFN-Î³) and interleukin-21 (IL-21). These cytokines contribute to the recruitment and activation of intraepithelial lymphocytes (IELs) and B cells, eventually causing villous atrophy, crypt hyperplasia, and increased IELs in the intestinal mucosa.
+Innate immune response:
+Gliadin peptides can also trigger the innate immune system, leading to the release of pro-inflammatory cytokines such as interleukin-15 (IL-15) and increased expression of natural killer (NK) cell receptors on IELs. These processes promote epithelial cell destruction, further contributing to the mucosal damage observed in coeliac disease.
+B cell activation and autoantibody production:
+Activated gluten-specific T cells provide help to B cells, leading to the production of autoantibodies against tTG (
+anti-tTG
+). These autoantibodies are highly specific for coeliac disease and are used as diagnostic markers. However, their precise role in the pathogenesis of coeliac disease is not yet fully understood.
+Improve
+Clinical features
+Gastrointestinal Symptoms
+Diarrhoea
+:
+Diarrhoea is a common symptom in coeliac disease, often described as loose, watery, or bulky stools.
+Abdominal pain
+and
+bloating
+:
+Patients may experience crampy abdominal pain and bloating due to malabsorption and gas production.
+Steatorrhea:
+Fatty, foul-smelling stools can occur due to impaired fat absorption.
+Nausea
+and
+vomiting
+:
+These symptoms may be present in some patients, particularly in those with more severe disease.
+Extraintestinal Manifestations
+Dermatitis herpetiformis
+:
+This skin manifestation presents as an intensely pruritic, vesicular rash, typically affecting the elbows, knees, and buttocks.
+Fatigue
+:
+Patients with coeliac disease may experience fatigue due to malabsorption of essential nutrients or
+anaemia
+.
+Iron deficiency anaemia:
+This is a common extraintestinal manifestation and may be the initial presenting feature in some patients.
+Weight loss
+:
+Unintentional weight loss may occur as a result of malabsorption.
+Bone pain and fractures:
+Osteoporosis or osteopenia, secondary to malabsorption of calcium and vitamin D, can lead to bone pain and an increased risk of fractures.
+Peripheral neuropathy:
+Manifesting as numbness, tingling, or burning sensations in the extremities, this neurological symptom may be present in some patients.
+Improve
+Investigations
+Serological Testing
+Anti-tissue transglutaminase (tTG) antibodies: The detection of IgA
+anti-tTG
+antibodies is the most widely used initial screening test for coeliac disease, given its high sensitivity and specificity. However, false-negative results may occur in patients with selective IgA deficiency.
+Anti-endomysial antibodies (EMA): The IgA anti-EMA test is highly specific but less sensitive than anti-tTG. It may be used in cases with equivocal anti-tTG results or when confirmation of the diagnosis is needed.
+Total serum IgA levels: Measuring total serum IgA is important to exclude selective IgA deficiency, which may lead to false-negative results in serological testing.
+Duodenal Biopsy
+A duodenal biopsy is the gold standard for diagnosing coeliac disease.
+Multiple samples should be obtained from the duodenum, including the bulb and the second part of the duodenum, to assess the histopathological changes characteristic of coeliac disease:
+Villous atrophy
+Crypt hyperplasia
+Increased intraepithelial lymphocytes
+Improve
+Differential diagnosis
+The differential diagnosis of coeliac disease often includes other conditions that present with similar symptoms, such as
+irritable bowel syndrome
+(IBS), inflammatory bowel disease (IBD) and non-coeliac gluten sensitivity (NCGS). The following provides a comparison and contrast of these conditions against coeliac disease in their clinical presentation.
+Irritable Bowel Syndrome (IBS)
+Both IBS and coeliac disease may present with gastrointestinal symptoms such as
+bloating
+,
+abdominal pain
+,
+diarrhoea
+or constipation. However, unlike coeliac disease, IBS does not cause damage to the small intestine.
+While patients with IBS may experience temporary relief from symptoms after bowel movements or changes in bowel habit frequency or form, this is not typically observed in coeliac disease.
+Patients with IBS do not exhibit the malabsorption signs seen in coeliac disease such as
+weight loss
+or
+anaemia
+caused by vitamin deficiency.
+Inflammatory Bowel Disease (IBD)
+Both IBD and coeliac disease can present with diarrhoea, abdominal pain and weight loss. However, while bloody stools are common in IBD due to ulceration of the colon, they are rare in coeliac disease unless there is concurrent haemorrhoids or anal fissures.
+Clinical findings on examination may indicate inflammation beyond the GI tract in IBD such as erythema nodosum or uveitis which are less commonly associated with coeliac disease.
+Extraintestinal manifestations like arthritis and primary sclerosing cholangitis are more frequently associated with IBD than coeliac disease.
+Non-Coeliac Gluten Sensitivity (NCGS)
+Like coeliac disease, NCGS patients may experience symptoms such as bloating, abdominal pain and irregular bowel movements after gluten ingestion. However, unlike coeliac disease, there is no damage to the small intestine in NCGS.
+NCGS does not have the same genetic associations as coeliac disease. HLA-DQ2 and HLA-DQ8 are present in nearly all patients with coeliac disease but are not commonly found in those with NCGS.
+The onset of symptoms in NCGS is usually quicker than in coeliac disease, often within hours or days of gluten ingestion.
+Improve
+Management
+Management Principles
+The mainstay of management is a strict gluten-free diet (GFD).
+Address associated nutritional deficiencies.
+Monitor for complications and associated conditions.
+Provide long-term follow-up and support.
+Gluten-free Diet
+Refer patients to a dietitian experienced in coeliac disease for comprehensive dietary counselling.
+Patients should avoid all sources of gluten, including wheat, barley, and rye.
+Advise on the risk of cross-contamination and the need to check food labels meticulously.
+Encourage participation in coeliac support groups for additional guidance and peer support.
+Nutritional Deficiencies
+Assess and correct deficiencies commonly associated with coeliac disease, including iron, calcium, vitamin D, vitamin B12, folic acid, and zinc.
+Consider bone density scanning (DEXA) in those at risk of osteoporosis.
+Monitoring and Follow-Up
+Repeat serological testing 6-12 months after diagnosis to ensure antibody titres are decreasing, indicating dietary adherence.
+Provide long-term follow-up to monitor for dietary adherence, symptom resolution, and potential complications.
+Refer back to
+gastroenterology
+for persistent symptoms or complications such as refractory coeliac disease or suspicion of malignancy.
+Associated Conditions and Complications
+Monitor for associated autoimmune conditions, such as type 1 diabetes, thyroid disease, and primary biliary cholangitis.
+Be vigilant for complications, including refractory coeliac disease, malignancies like enteropathy-associated T-cell lymphoma, and ulcerative jejunoileitis.
+Pharmacological Management
+Currently, the primary treatment is dietary. However, ongoing research is exploring potential pharmacological therapies to augment or replace the need for a strict gluten-free diet.
+Improve
+Complications
+Gastrointestinal Complications
+Malabsorption:
+Coeliac disease can lead to malabsorption of macro- and micronutrients due to villous atrophy and decreased absorptive surface area in the small intestine. This can result in iron deficiency
+anaemia
+, folic acid deficiency, vitamin B12 deficiency, fat-soluble vitamin deficiencies (A, D, E, and K), and
+weight loss
+.
+Lactose intolerance:
+Secondary lactose intolerance may occur in coeliac patients due to the loss of lactase-producing enterocytes in the damaged intestinal mucosa, causing symptoms such as
+bloating
+,
+diarrhoea
+, and
+abdominal pain
+.
+Refractory coeliac disease:
+A small percentage of coeliac patients may develop refractory coeliac disease, characterized by persistent or recurrent symptoms and signs of malabsorption despite adherence to a strict gluten-free diet for at least 12 months. It can be further classified into type I and type II, with type II carrying a significantly higher risk of developing enteropathy-associated T-cell lymphoma (EATL).
+Malignancies
+Enteropathy-associated T-cell lymphoma (EATL):
+Coeliac patients are at an increased risk of developing EATL, a rare and aggressive type of non-Hodgkin lymphoma arising from intraepithelial lymphocytes in the small intestine. EATL has a poor prognosis and is often associated with refractory coeliac disease type II.
+Small bowel adenocarcinoma:
+The risk of small bowel adenocarcinoma is also increased in coeliac disease, although the overall incidence remains low.
+Bone Complications
+Osteoporosis and osteopenia:
+Coeliac disease can result in decreased bone mineral density due to malabsorption of calcium and vitamin D, as well as increased bone resorption driven by pro-inflammatory cytokines. This increases the risk of osteoporosis, osteopenia, and fractures.
+Dermatological Complications
+Dermatitis herpetiformis
+(DH):
+DH is a chronic, pruritic, blistering skin condition associated with coeliac disease. It is characterized by the deposition of IgA antibodies in the dermis and responds well to a gluten-free diet and dapsone therapy.
+Neurological Complications
+Peripheral neuropathy:
+Coeliac disease can be associated with peripheral neuropathy, presenting as numbness, tingling, or burning sensations in the extremities.
+Gluten ataxia:
+This rare neurological complication is characterized by gait disturbances, dysarthria, and nystagmus. A gluten-free diet may improve symptoms in some cases.
+Reproductive Complications
+Infertility and adverse pregnancy outcomes:
+Coeliac disease may be associated with infertility, recurrent miscarriages, intrauterine growth restriction, and low birth weight in untreated women.
+Autoimmune Complications
+Coeliac disease is associated with an increased risk of developing other autoimmune disorders, such as type 1 diabetes mellitus, autoimmune thyroiditis, Sjogren's syndrome, and autoimmune liver diseases.
+Improve
+References
+NICE - 2015 Coeliac disease guidelines
+NICE - 2015 Coeliac disease guidelines
+Gastroenterology
+Coeliac disease in adults

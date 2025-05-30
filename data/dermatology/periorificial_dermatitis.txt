@@ -1,0 +1,122 @@
+Periorificial dermatitis
+Periorificial dermatitis
+Periorificial dermatitis (POD) is an inflammatory disorder of the skin which is characterised by the eruption of multiple erythematous papules and pustules around the eyes, nose and mouth.
+Despite the term 'dermatitis', POD appears more like
+rosacea
+than eczema, and is often mistaken for the former due to its facial location. It is most commonly seen in adult aged women, but can affect individuals of all ages, sexes and ethnic backgrounds.
+Many cases are thought to be associated with the use of topical steroids or other skin irritants such as cosmetics, but in some patients the underlying cause may be unclear.
+Last updated: 1
+st
+February 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 10:1
+Condition
+Relative
+incidence
+Acne vulgaris
+10.00
+Seborrhoeic dermatitis in adults
+2.50
+Periorificial dermatitis
+1
+Rosacea
+0.83
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The true cause of periorificial dermatitis (POD) is unknown, but there are several possible contributing factors that have been identified in patient groups:
+Idiopathic:
+In a large number of patients there will be no identifiable cause
+Topical corticosteroids:
+Many cases of POD are preceded by the use of topical corticosteroid creams, although the exact mechanism causing this is unknown. Both direct application of steroids to the face, and indirect application after applying steroids to other areas of the body and touching the face can cause POD
+Typically high strength preparations and prolonged use of topical corticosteroids increase the risk of developing POD and increase its severity
+The use of oral steroids and inhaled steroids has also been linked with cases of POD
+Patients often feel topical corticosteroids are helpful to alleviate POD symptoms, but this is short-lived and symptoms usually return quickly with greater severity
+Infectious agents:
+Candida albicans
+and fusiform bacteria have been linked to POD
+Cosmetics & Skincare:
+Moisturisers, foundations and suncreams used on the face have been associated with POD.  Using cosmetic products together (e.g. using a moisturiser underneath a foundation) has been shown to increase the risk of POD when compared to using these products alone
+Fluoride toothpaste
+Hormonal changes:
+Many women get POD just before their periods, which suggests a drop in hormones may be a triggering factor (although there is no real evidence of this). The oral contraceptive pill can trigger POD, but in some can help alleviate symptoms as it prevents hormone fluctuations
+Improve
+Pathophysiology
+The exact mechanisms underlying the development of periorificial dermatitis (POD) are unclear. Research suggests its cause to be multifactorial, with genetic, hormonal and environmental factors all playing a role.
+One hypothesis suggests that the perifollicular inflammation seen in POD is a result of altered follicular microflora. It is well known that the pilo-sebaceous unit, which contains the hair follicle and sebaceous gland, is involved in skin immune function. If the microflora of this unit is altered in some way, due to exposure to environmental agents or hormonal changes, this may result in proliferation of infectious agents within the follicle, leading to inflammation and the development of the classic papules and pustules seen with POD.
+Other proposed mechanisms of disease include:
+Deficiencies in the function of the skin barrier
+Atopy
+Biopsy of the skin during an acute flare of POD reveals perifollicular and perivascular inflammatory infiltration (with both lymphocytes and macrophages), indicating this is a true inflammatory condition.
+Improve
+Clinical features
+Periorificial dermatitis (POD) is most commonly seen in young females (90% of cases), but it can be seen in men and in young children.
+Classical type
+Classic periorificial dermatitis (cPOD) presents with clusters of follicular papules and pustules overlying an erythematous base, this occurs with or without scaling. The inflammation is limited only to the skin surrounding the mouth, nose and eyes.
+Around the mouth, the skin of the vermilion border is often spared, this is characteristic of cPOD
+Patients may complain of burning or stinging in the area of the lesions. Itching is rare, but can occur.
+Patients may have noticed this rash after using a new medication (e.g. corticosteroids), skincare or cosmetic product. It is important to ask all patients about recent changes to medications and skincare products.
+Although most cases of cPOD are self-limiting, and will resolve within a few months with no treatment, in some patients the rash can persist for many months or even years.
+Prolonged use of topical corticosteroid creams when cPOD is present is linked with prolonged resolution of symptoms
+Granulomatous type
+Granulomatous periorificial dermatitis (gPOD) is a rarer variant of this disease. It typically occurs in prepubescent children, and is most common in individuals of Afro-Caribbean ethnicity.
+This variant presents with flesh coloured or yellow-brown coloured papules or plaques around the mouth, nose and lower eyelids. Erythema and scaling is less prominent, helping to differentiate this from classical POD. Biopsy of these lesions will reveal perifollicular granulomatous infiltration.
+These lesions are benign and typically self-limiting.
+Improve
+Differential diagnosis
+Periorificial dermatitis can be easily confused with other erythematous facial rashes and eruptions.
+Possible differential diagnoses:
+Rosacea
+:
+Chronic skin condition characterised by recurrent episodes of facial flushing and erythema
+Similarities: Papulopustular type presents with small erythematous papules and pustules
+Differences: Recurrent episodes of facial flushing predominantly on the nose, forehead and cheeks. Some may develop telangiectasia
+Acne vulgaris
+:
+Chronic inflammatory disorder of the pilosebaceous units in the face and upper trunk
+Similarities: Inflammatory papules and pustules are present on the face
+Differences: Comedones are present, and scarring does occur
+Seborrheic dermatitis:
+Common inflammatory skin condition that causes erythematous scaly skin.
+Similarities: Erythema on the face, often the nose, with patches of scale
+Differences: Predominantly affects the scalp. Large scaly macules and plaques are present
+Allergic contact dermatitis:
+Type IV hypersensitivity reaction to triggering agents on the skin
+Similarities: Erythematous papules in distribution of where the triggering agent came into contact with the skin
+Differences: Intense pruritus, may cause weeping and swelling of the skin
+POD is difficult to diagnose due to its similarities to the above conditions.
+Improve
+Management
+Periorificial dermatitis (POD) is benign and self-limiting, with many patients reaching symptom resolution without the need for intervention beyond reassurance and education. If POD symptoms are troublesome for the patient, or if symptoms are persistent, pharmacological therapy should be initiated.
+Zero therapy:
+Zero therapy involves discontinuing the use of all topical facial products which may have triggered or could have exacerbated POD symptoms:
+Discontinue the use of corticosteroids on the face and encourage patients using them elsewhere on the body to wash their hands thoroughly after application to prevent transfer to the face
+Patients must be warned that their symptoms may initially worsen after the steroids are withdrawn, and patients who have used topical corticosteroids long term may need to slowly reduce the dose and frequency
+Avoidance of topical skincare/cosmetic products which may irritate the skin
+Once POD has resolved patients can restart topical products slowly and individually to allow the skin to respond to each product and allow the discontinuation of any known POD triggering product
+Encourage the patient to only wash the face with warm water until the symptoms of POD have resolved
+Pharmacological therapies:
+For patients with mild POD (lesions covering only a small area which do not cause the patient significant distress emotionally or physically):
+Initial therapy:
+Topical antibiotic cream, such as erythromycin or metronidazole
+Second line therapy:
+Topical tacrolimus ointment or pimecrolimus cream may be effective if antibiotic therapy does not resolve symptoms
+For patients with moderate or severe POD (lesions covering large areas of the face which cause the patient significant distress emotionally or physically) or whose symptoms have not resolved with topical therapy:
+Initial therapy:
+oral antibiotic therapy, typically with tetracycline, is recommended. This is typically used for 4-8 weeks
+Erythromycin can be substituted for one of the tetracycline's if they are not well tolerated or contraindicated
+Improve
+References
+DermNet NZ - Periorificial dermatitis
+Dermatology
+Periorificial dermatitis

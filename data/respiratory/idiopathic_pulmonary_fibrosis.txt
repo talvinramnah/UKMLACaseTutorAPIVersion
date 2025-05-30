@@ -1,0 +1,155 @@
+Idiopathic pulmonary fibrosis
+Idiopathic pulmonary fibrosis
+Idiopathic
+pulmonary fibrosis
+(IPF, previously termed cryptogenic fibrosing alveolitis) is a chronic lung condition characterised by progressive fibrosis of the interstitium of the lungs. Whilst there are many causes of lung fibrosis (e.g. medications, connective tissue disease, asbestos) the term IPF is reserved when no underlying cause exists.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 8.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Idiopathic
+pulmonary fibrosis
+1
+Extrinsic allergic alveolitis
+0.13
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Idiopathic
+pulmonary fibrosis
+(IPF) is a chronic, progressive interstitial lung disease of unknown cause. The term 'idiopathic' signifies the absence of a definitive causative agent; however, several risk factors and potential underlying causes have been identified.
+Risk Factors
+Cigarette Smoking:
+There is a strong association between IPF and cigarette smoking. Both current and ex-smokers are at an increased risk compared to non-smokers.
+Age:
+IPF is predominantly diagnosed in individuals over 50 years of age, with a median age at diagnosis around 66 years.
+Gender:
+Males are more susceptible to developing IPF than females.
+Environmental Exposures:
+Exposure to metal dust, wood dust, stone/silica, coal dust, farming/agriculture and livestock can increase the likelihood of developing IPF.
+Viral Infections:
+Certain viral infections such as
+Hepatitis C
+,
+Epstein-Barr virus
+, and
+Human herpesvirus 8
+, have been proposed as possible triggers for IPF.
+Gastroesophageal Reflux Disease (GERD):
+The presence of GERD has been observed in a high proportion of patients with IPF suggesting a potential role in its pathogenesis.
+Familial Predisposition:
+A small subset of patients with familial aggregation suggest possible genetic predisposition in the development of the disease. However, the specific genes involved remain unidentified.
+The aforementioned risk factors do not act in isolation and the likelihood of developing IPF increases when multiple risk factors are present.
+Underlying Causes
+Abnormal Lung Repair Mechanisms:
+Aberrant wound healing responses following alveolar epithelial injury have been proposed as a key underlying cause. This involves repeated cycles of epithelial cell injury and abnormal repair leading to fibrosis.
+Dysregulated Immunity:
+Dysregulation of the immune response, including alterations in both innate and adaptive immunity, may contribute to the pathogenesis of IPF. However, the exact mechanisms remain unclear.
+Telomere Shortening:
+Telomere shortening has been observed in a significant proportion of patients with IPF. It is suggested that this may lead to cellular senescence, contributing to abnormal repair processes in the lung.
+The precise interplay between these underlying causes remains an area of active research and further understanding may elucidate novel therapeutic targets for IPF.
+Improve
+Pathophysiology
+Idiopathic
+pulmonary fibrosis
+(IPF) is a chronic, progressive interstitial lung disease of unknown aetiology. The pathogenesis of IPF is complex and multifactorial, involving repeated cycles of epithelial injury and aberrant wound healing that lead to the destruction of normal lung architecture and the development of fibrosis.
+Initially, there is an injury to the alveolar epithelial cells (AECs), particularly type II AECs. These cells are responsible for producing surfactant, a substance critical for maintaining the integrity and function of alveoli. The exact cause of this initial injury remains unclear but it's hypothesised that environmental exposures or genetic predispositions may play a role.
+Following AEC injury, there is an activation of an inflammatory response characterised by the recruitment and activation of immune cells such as neutrophils and macrophages. These cells release pro-inflammatory cytokines including tumour necrosis factor-alpha (TNF-α), interleukin-1 beta (IL-1β) and interleukin-6 (IL-6).
+The presence of these cytokines stimulates AECs to produce growth factors such as transforming growth factor-beta (TGF-β). TGF-β is a potent inducer of fibroblast proliferation and differentiation into myofibroblasts. Myofibroblasts are key effector cells in fibrogenesis due to their ability to produce large amounts of extracellular matrix proteins including collagen.
+In addition to stimulating fibroblast proliferation, TGF-β also inhibits proteases that degrade extracellular matrix proteins while promoting the secretion of protease inhibitors. This imbalance between extracellular matrix production and degradation leads to the accumulation of dense fibrotic tissue in the interstitium.
+The formation of this fibrotic tissue disrupts the normal lung architecture, leading to the loss of functional alveolar units and impaired gas exchange. As a result, patients with IPF experience progressive
+dyspnoea
+and decline in lung function.
+Lastly, it's important to note that there is a lack of effective anti-fibrotic therapies for IPF. This is largely due to our incomplete understanding of its pathogenesis. Therefore, further research into the mechanisms underlying this disease is essential for the development of novel therapeutic strategies.
+Improve
+Clinical features
+Features
+progressive exertional
+dyspnoea
+bibasal fine end-inspiratory crepitations on auscultation
+dry cough
+clubbing
+Improve
+Investigations
+Diagnosis
+spirometry: classically a restrictive picture (FEV1 normal/decreased, FVC decreased, FEV1/FVC increased)
+impaired gas exchange: reduced transfer factor (TLCO)
+imaging: bilateral interstitial shadowing (typically small, irregular, peripheral opacities - 'ground-glass' - later progressing to 'honeycombing') may be seen on a chest x-ray but high-resolution CT scanning is the investigation of choice and required to make a diagnosis of IPF
+ANA positive in 30%, rheumatoid factor positive in 10% but this does not necessarily mean that the fibrosis is secondary to a connective tissue disease. Titres are usually low
+pulmonary fibrosis
+">
+dyspnoea
+. The x-ray shows reticular opacities predominantly in the bases. In addition the CT demonstrates honeycombing and traction bronchiectasis">
+Improve
+Differential diagnosis
+When considering idiopathic
+pulmonary fibrosis
+(IPF), it is essential to distinguish this condition from other potential diagnoses. The three most likely alternative diagnoses are chronic obstructive pulmonary disease (COPD), congestive heart failure (CHF) and non-specific interstitial pneumonia (NSIP).
+COPD vs IPF
+Clinical Presentation:
+Both COPD and IPF may present with
+dyspnoea
+, cough and reduced exercise tolerance. However, COPD often has a history of smoking or environmental exposure, whilst IPF usually lacks these risk factors. Additionally, COPD patients frequently exhibit symptoms of chronic bronchitis such as productive cough, which is less common in IPF.
+Radiological Findings:
+On high-resolution computed tomography (HRCT), COPD typically shows emphysematous changes with areas of low attenuation and vascular disruption. In contrast, IPF demonstrates a pattern of usual interstitial pneumonia with subpleural honeycombing and traction bronchiectasis.
+CHF vs IPF
+Clinical Presentation:
+Dyspnoea on exertion is common in both CHF and IPF. However, CHF may also present with orthopnoea, paroxysmal nocturnal dyspnoea and peripheral oedema which are not typical features of IPF. Additionally, the onset of symptoms in CHF tends to be more rapid compared to the insidious progression observed in IPF.
+Radiological Findings:
+HRCT scans in CHF show bilateral pleural effusions, septal lines indicating interlobular septal thickening and ground-glass opacities due to alveolar oedema. These findings contrast with the honeycombing and traction bronchiectasis seen in IPF.
+NSIP vs IPF
+Clinical Presentation:
+NSIP and IPF may present similarly with progressive dyspnoea and cough. However, patients with NSIP often have a shorter duration of symptoms before diagnosis and are more likely to report systemic symptoms such as
+fatigue
+, myalgia or arthralgia.
+Radiological Findings:
+HRCT scans in NSIP typically show ground-glass opacities with or without reticular abnormalities, predominantly located in the lower lobes and peripherally. This is distinct from the usual interstitial pneumonia pattern characteristic of IPF.
+Improve
+Management
+Management
+pulmonary rehabilitation
+very few medications have been shown to give any benefit in IPF. There is some evidence that pirfenidone (an antifibrotic agent) may be useful in selected patients (see NICE guidelines)
+many patients will require supplementary oxygen and eventually a lung transplant
+Improve
+Complications
+The most commonly encountered complications associated with idiopathic
+pulmonary fibrosis
+(IPF) include:
+Respiratory
+failure:
+Progressive lung scarring can lead to respiratory failure, necessitating the use of oxygen delivery systems or even a lung transplant in severe cases.
+Pulmonary hypertension:
+Increased pressure in the arteries that supply blood to the lungs is a frequent complication. This can result in right-sided heart failure, also known as cor pulmonale.
+Lung infections:
+Patients with IPF are at an increased risk of developing recurrent respiratory tract infections, including bacterial and viral pneumonia. These can exacerbate disease progression and overall prognosis.
+Beyond these pulmonary-specific complications, systemic manifestations are also prevalent:
+Venous thromboembolism:
+IPF patients have an elevated risk of deep vein thrombosis and pulmonary embolism due to chronic inflammation and immobility.
+Lung cancer:
+There is a significantly higher incidence of lung cancer among individuals with IPF, particularly squamous cell carcinoma and adenocarcinoma.
+Gastroesophageal reflux disease (GERD):
+A majority of patients with IPF experience GERD symptoms. Chronic aspiration could contribute to the pathogenesis and progression of IPF.
+Improve
+Prognosis
+Prognosis
+poor, average life expectancy is around 3-4 years
+Improve
+References
+NICE - 2013 Idiopathic pulmonary fibrosis guidelines
+Royal College of Physicians -  Update in diagnosis and management of interstitial lung disease
+Fibrotic lung disease
+Idiopathic pulmonary fibrosis

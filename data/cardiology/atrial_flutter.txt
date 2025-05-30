@@ -1,0 +1,32 @@
+Atrial flutter
+Atrial flutter
+Atrial flutter is a common supraventricular tachyarrhythmia characterized by rapid, regular atrial contractions, typically ranging between 250-350 beats per minute (bpm), with a corresponding ventricular response that is often slower and more irregular. This arrhythmia occurs due to reentrant circuits in the atria, commonly involving the cavotricuspid isthmus in the right atrium, leading to a distinctive sawtooth pattern on the electrocardiogram (ECG).
+Risk factors for atrial flutter include advanced age, structural heart disease, hypertension, diabetes, and a history of
+atrial fibrillation
+. Clinical presentations can vary from asymptomatic to palpitations, dyspnoea, chest pain, or even heart failure and thromboembolic events.
+Diagnosis is primarily based on a 12-lead ECG, which may reveal characteristic atrial flutter waves, often best seen in leads II, III, and aVF. Management includes rate control, typically with beta-blockers, calcium channel blockers, or digoxin, and rhythm control using antiarrhythmic drugs, electrical cardioversion, or catheter ablation. Anticoagulation is recommended for patients with high thromboembolic risk, guided by the CHA2DS2-VASc score.
+Last updated: 1
+st
+January 2025
+Clinical features
+Atrial flutter, a supraventricular tachyarrhythmia, is characterized by rapid and regular atrial depolarizations typically occurring at a rate of 250-350 beats per minute. The clinical features of this condition can be varied and are influenced by factors such as the presence of an underlying structural heart disease, conduction system abnormalities, and comorbidities.
+Haemodynamic Manifestations
+In patients with atrial flutter, the loss of coordinated atrial contraction results in reduced ventricular filling and subsequently diminished cardiac output. This may lead to symptoms associated with haemodynamic compromise such as dyspnea, fatigue, lightheadedness, presyncope or syncope. Additionally, the rapid ventricular response may exacerbate myocardial ischemia in patients with coronary artery disease.
+Palpitations
+Palpitations are a common presenting symptom in patients with atrial flutter. Patients often describe an abrupt onset and termination of palpitations along with an awareness of rapid or irregular heartbeats.
+Chest Pain
+Chest pain may occur due to various mechanisms including increased myocardial oxygen demand secondary to rapid ventricular rates or decreased diastolic filling time leading to subendocardial ischemia.
+Heart Failure Symptoms
+Patients with pre-existing systolic or diastolic dysfunction may experience worsening heart failure symptoms such as orthopnea, paroxysmal nocturnal dyspnea, and peripheral oedema due to the loss of atrial kick and tachycardia-induced cardiomyopathy.
+Thromboembolic Complications
+Atrial flutter predisposes patients to thrombus formation within the left atrium and its appendage due to stasis from uncoordinated atrial contractions. Consequently, these individuals are at risk for systemic embolization manifesting as transient ischemic attacks or cerebrovascular accidents.
+Physical Examination Findings
+On examination, patients with atrial flutter may exhibit an irregularly irregular pulse if there is variable conduction through the atrioventricular node. Auscultation of the heart may reveal a 'saw-tooth' pattern in the jugular venous waveform and varying intensity of the first heart sound (S1). Additionally, signs of congestive heart failure such as pulmonary rales or peripheral oedema may be present.
+Improve
+Investigations
+The classic electrocardiogram (ECG) finding in atrial flutter is the presence of regular, rapid, and discrete atrial waves referred to as 'flutter waves.' These typically have a saw-tooth morphology with an atrial rate between 250-350 beats per minute. The ventricular rate depends on the degree of atrioventricular node conduction, which can range from 1:1 to higher degrees of block resulting in slower ventricular rates.
+Improve
+References
+Life in the Fast Lane - Atrial Flutter
+Cardiology
+Atrial flutter

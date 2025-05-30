@@ -1,0 +1,157 @@
+Ovarian torsion
+Ovarian torsion
+Ovarian torsion, also known as adnexal torsion, is a serious gynaecological emergency characterised by the partial or complete rotation of the ovarian vascular pedicle, leading to ischemia and necrosis. This condition can occur at any age but is more prevalent during reproductive years. It's often associated with ovarian masses or cysts which act as a fulcrum for torsion.
+Patients typically present with acute onset of unilateral
+lower abdominal pain
+,
+nausea
+, and
+vomiting
+. However, these symptoms are non-specific making diagnosis challenging. Imaging modalities such as ultrasound with Doppler flow studies are commonly used for diagnostic purposes.
+Management involves immediate surgical intervention to detorse the ovary and restore blood flow. If necrosis has occurred, oophorectomy may be required. The contralateral ovary should be evaluated for predisposing factors and preventive measures taken if necessary.
+While rare in occurrence, failure to recognise and promptly manage ovarian torsion can lead to significant morbidity including loss of ovarian function or life-threatening complications such as sepsis from gangrenous tissue.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 6.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Ovarian torsion, also known as adnexal torsion, is a medical emergency resulting from the rotation of the ovarian tissue on its ligamentous supports. The aetiology of ovarian torsion typically involves factors that increase the mobility or size of the ovary, leading to an increased risk of rotation.
+Risk Factors:
+Ovarian Masses:
+The presence of ovarian masses significantly increases the risk of ovarian torsion. These can be either benign or malignant and include cysts, tumours, and teratomas. Larger masses (>5cm) are associated with higher risk.
+Reproductive Age:
+Ovarian torsion most frequently occurs in women of reproductive age due to increased incidence of physiological cysts during this period. However, it can occur at any age.
+Pregnancy
+:
+Pregnancy is a recognised risk factor for ovarian torsion, particularly in early pregnancy when corpus luteum cysts are common.
+Fertility Treatment:
+Women undergoing fertility treatment such as controlled ovarian hyperstimulation are at an elevated risk due to enlarged ovaries.
+Tubal Ligation & Oophorectomy:
+Previous tubal ligation or oophorectomy may predispose to ovarian torsion by altering normal pelvic anatomy and increasing mobility of the remaining ovary/ovaries.
+Underlying Causes:
+Anatomical Variations:
+Anatomical variations such as excessively long utero-ovarian ligaments or an enlarged hydrosalpinx can facilitate ovary movement and increase the likelihood of twisting.
+Hormonal Influences:
+Hormonal influences may contribute to the development of functional cysts, particularly during the menstrual cycle or pregnancy. These cysts can increase ovarian size and predispose to torsion.
+Physical Activities:
+Certain physical activities that involve rapid changes in direction or intense exertion may precipitate ovarian torsion in susceptible individuals.
+Improve
+Pathophysiology
+Ovarian torsion, also known as adnexal torsion, is a gynaecological emergency characterised by the twisting of the ovary on its ligamentous supports resulting in compromised blood flow. The pathophysiology of ovarian torsion can be understood through a series of physiological events.
+Vascular Compromise
+The process initiates with the rotation of the ovary around its own axis. This leads to a decrease in venous return due to compression of the infundibulopelvic ligament (suspensory ligament) and utero-ovarian ligament, which contain the ovarian vessels.
+Subsequently, this triggers engorgement and oedema within the ovary, further exacerbating venous obstruction.
+Ischaemia and Necrosis
+As the rotation continues or if it remains unresolved, arterial supply becomes affected leading to ischaemia. This primarily impacts the highly vascularised cortex while sparing medulla initially due to dual blood supply from ovarian and uterine arteries.
+If left untreated, complete vascular cut-off may occur leading to necrosis of ovarian tissue. The pace and extent of damage depend on degree and duration of torsion.
+Inflammatory Response
+Ischaemic injury incites an inflammatory response. Release of pro-inflammatory cytokines such as interleukin-1β (IL-1β), tumour necrosis factor-alpha (TNF-α), and interleukin-6 (IL-6) occurs.
+This inflammation contributes to local peritoneal irritation manifesting as sharp, sudden onset
+lower abdominal pain
+often associated with
+nausea
+or
+vomiting
+.
+Reperfusion Injury
+In cases where torsion is relieved, either spontaneously or surgically, reperfusion of the previously ischaemic ovary can occur. This sudden influx of oxygenated blood can lead to further damage known as reperfusion injury.
+This occurs due to production of reactive oxygen species (ROS) and other free radicals which inflict cellular damage. Additionally, neutrophil infiltration during reperfusion exacerbates inflammation and tissue injury.
+Improve
+Clinical features
+The stereotypical presentation of ovarian torsion often involves a woman, typically in her reproductive years, presenting with sudden onset, severe unilateral
+lower abdominal pain
+. The pain is often colicky in nature and may be associated with
+nausea
+and
+vomiting
+. The patient may also report previous episodes of similar but less severe pain.
+Pain
+Abdominal pain is the most common presenting symptom of ovarian torsion. The pain is typically severe, sharp or cramping, and localised to one side of the lower abdomen. It can radiate to the groin or back. The onset is usually sudden, although some patients may have a history of recurrent episodes of less intense pain due to intermittent torsion and detorsion.
+Nausea and Vomiting
+Nausea and vomiting are common accompanying symptoms due to the irritation of the peritoneum by blood or necrotic tissue from the twisted ovary.
+Fever
+A low-grade fever may be present if there is necrosis or infection secondary to ischemia.
+Abnormal Menstrual History
+An abnormal menstrual history such as irregular cycles or mid-cycle bleeding may suggest an underlying ovarian cyst or mass, which increases the risk for ovarian torsion.
+Physical Examination Findings
+Abdominal tenderness:
+Tenderness over the affected side of the pelvis on palpation is a consistent finding. There may also be rebound tenderness indicative of peritonitis if necrosis has occurred.
+Adnexal mass:
+An adnexal mass may be palpable on bimanual examination if it's large enough. However, absence of an appreciable mass does not exclude ovarian torsion as small cysts can also twist.
+Peritoneal signs:
+Signs of peritoneal irritation such as rebound tenderness or guarding may be present, particularly in advanced cases with necrosis.
+Additional Features
+Ovarian torsion can occasionally present with atypical features. Some patients may have mild, chronic pain rather than the typical acute presentation. Others may have urinary symptoms such as frequency and urgency due to irritation of the bladder by the twisted ovary. In rare cases, ovarian torsion can present with symptoms suggestive of acute appendicitis if the twisted ovary is located near the appendix.
+Improve
+Investigations
+Ovarian torsion is an acute gynaecological emergency, typically requiring prompt diagnosis and surgical intervention. The diagnostic process primarily relies on clinical suspicion based on symptomatology and physical examination findings, but imaging studies can provide valuable supportive evidence.
+First-line Investigations
+Pregnancy
+test:
+A urinary pregnancy test is a necessary first step in all women of reproductive age presenting with acute
+pelvic pain
+to rule out ectopic pregnancy.
+Pelvic ultrasound with Doppler:
+This is the imaging modality of choice for suspected ovarian torsion. It can reveal an enlarged ovary, peripherally displaced follicles, free fluid in the pelvis and may show absence or reduction of blood flow to the ovary. However, normal Doppler flow does not exclude ovarian torsion as intermittent torsion can result in intermittent blood flow.
+Further Investigations
+If ovarian torsion remains a differential despite negative first-line investigations or if clinical suspicion is high, further investigations may be warranted:
+Magnetic resonance imaging (MRI):
+An MRI can be useful when ultrasound findings are inconclusive. It provides high-resolution images and can help differentiate between various causes of adnexal masses.
+Laparoscopy:
+In cases where imaging results are inconclusive but the clinical suspicion remains high, direct visualisation via laparoscopy is considered the gold standard for diagnosing ovarian torsion. It allows for immediate surgical intervention if required.
+The Royal College of Obstetricians and Gynaecologists (RCOG) guidelines emphasise that while imaging aids in diagnosis, a high index of clinical suspicion should guide management decisions due to the limitations of these investigations. Negative imaging studies should not delay surgical intervention if clinically indicated.
+It is important to note that ovarian torsion is largely a clinical diagnosis and may be made in the absence of definitive imaging findings. The nature of the condition, with its potential for intermittent torsion and detorsion, means that reliance on investigations alone can lead to missed or delayed diagnosis. Therefore, a high index of suspicion based on presenting symptoms and physical examination findings should guide the diagnostic process.
+Improve
+Differential diagnosis
+While ovarian torsion typically presents with sudden, severe
+pelvic pain
+on one side,
+nausea
+and
+vomiting
+, it is crucial to consider alternative diagnoses that can present in a similar manner. These include ectopic
+pregnancy
+, appendicitis and pelvic inflammatory disease.
+Ectopic Pregnancy
+Like ovarian torsion, an ectopic pregnancy can cause unilateral abdominal pain. However, this is often accompanied by other symptoms such as vaginal bleeding and amenorrhoea. The pain associated with an ectopic pregnancy may be less acute and more gradual in onset compared to ovarian torsion.
+The presence of a positive urinary or serum human chorionic gonadotropin (hCG) test differentiates ectopic pregnancy from ovarian torsion. An adnexal mass may be palpable in both conditions but the absence of an intrauterine gestational sac on transvaginal ultrasound suggests ectopic pregnancy.
+Appendicitis
+Appendicitis also presents with abdominal pain, which tends to start at the umbilicus before localising to the right iliac fossa.
+Nausea and vomiting
+are common but unlike ovarian torsion, patients may also have
+fever
+and signs of peritonitis on examination.
+A key distinguishing feature is the migration of pain from the peri-umbilical region to the right lower quadrant in appendicitis. Laboratory findings such as leukocytosis can aid diagnosis but imaging (ultrasound or CT scan) will show inflammation or enlargement of the appendix.
+Pelvic Inflammatory Disease (PID)
+PID generally causes bilateral lower abdominal pain along with abnormal vaginal discharge, dyspareunia and irregular menstruation. The pain is often less severe than ovarian torsion and more chronic in nature.
+On examination, cervical motion tenderness or adnexal tenderness may be present. PID can be differentiated by the presence of
+Neisseria gonorrhoeae
+or
+Chlamydia trachomatis
+on nucleic acid amplification testing from vaginal swabs.
+Improve
+Management
+Initial Management
+Initiate immediate resuscitation with intravenous fluids and analgesia as required.
+Perform a pelvic ultrasound to confirm diagnosis. If ovarian torsion is suspected but not confirmed, consider further imaging such as Magnetic Resonance Imaging (MRI).
+Surgical Intervention
+Laparoscopy should be performed, irrespective of the ultrasound findings, if there is clinical suspicion of ovarian torsion. This allows for direct visualisation of the ovaries and potential detorsion.
+If an ischemic ovary is identified, attempt conservative management via detorsion initially. Oophorectomy should only be considered if necrosis is present or if detorsion fails.
+Follow-up
+A follow-up ultrasound scan should be arranged 6 weeks postoperatively to assess ovarian function.
+If oophorectomy was performed, counsel the patient regarding potential impact on fertility and hormone replacement therapy options.
+Improve
+Women's health
+Ovarian torsion

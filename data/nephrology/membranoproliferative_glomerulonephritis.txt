@@ -1,0 +1,53 @@
+Membranoproliferative glomerulonephritis
+Membranoproliferative glomerulonephritis
+Membranoproliferative glomerulonephritis (MPGN) is a rare form of glomerular injury characterized by mesangial cell proliferation, thickening of the glomerular basement membrane, and immune complex deposition. Classified into primary (Type I and III), secondary, and complement-mediated (C3 glomerulopathy) subtypes, MPGN presents with hematuria, proteinuria, hypertension, and renal insufficiency. Diagnosis relies on laboratory tests and kidney biopsy. Treatment includes immunosuppressive therapy, addressing underlying diseases, supportive care, and targeted complement inhibition in select cases. Prognosis varies, with some patients progressing to ESRD despite management.
+Last updated: 24
+th
+April 2023
+Classification
+Membranoproliferative glomerulonephritis (MPGN) is a rare histopathological pattern of glomerular injury characterized by mesangial cell proliferation, thickening of the glomerular basement membrane (GBM), and immune complex deposition. It is classified into three types:
+Primary MPGN (immune complex-mediated):
+Type I: Subendothelial immune complex deposition with mesangial interposition, leading to a 'tram-track' appearance on electron microscopy.
+Type III: Subendothelial and subepithelial immune complex deposition with mesangial interposition, resulting in a more severe 'tram-track' appearance.
+Secondary MPGN: Occurs in the setting of systemic diseases, such as lupus nephritis, hepatitis C, cryoglobulinemia, or monoclonal gammopathy.
+Complement-mediated MPGN (C3 glomerulopathy):
+Dense Deposit Disease (DDD): Intramembranous dense deposits of complement proteins, particularly C3, resulting from dysregulation of the alternative complement pathway.
+C3 Glomerulonephritis (C3GN): Predominant mesangial and subendothelial deposition of C3, with minimal immunoglobulin involvement.
+Improve
+Clinical features
+Haematuria:
+Microscopic or gross hematuria is common, often accompanied by red blood cell casts in the urine.
+Proteinuria:
+Varies from mild to nephrotic-range, depending on the severity of the glomerular injury.
+Hypertension:
+May develop due to impaired renal function and fluid retention.
+Renal insufficiency:
+Progressive decline in renal function is a frequent finding.
+Nephrotic or nephritic syndrome:
+MPGN may present with features of either nephrotic or nephritic syndrome, or a combination of both.
+Improve
+Investigations
+Laboratory tests:
+Urinalysis, renal function tests, complement levels (C3, C4), serological tests for autoimmune and infectious diseases, and serum/urine electrophoresis for monoclonal proteins.
+Kidney biopsy:
+The gold standard for diagnosis, demonstrating characteristic histological features on light, immunofluorescence, and electron microscopy.
+Genetic testing:
+May be considered in cases of suspected complement-mediated MPGN to identify mutations in complement regulatory genes.
+Improve
+Management
+Immunosuppressive therapy:
+Corticosteroids, with or without cytotoxic agents (e.g., cyclophosphamide), may be considered for primary MPGN or secondary MPGN related to autoimmune diseases.
+Treatment of underlying disease:
+Addressing the underlying cause, such as antiviral therapy for hepatitis C or treatment of monoclonal gammopathy, is essential in secondary MPGN.
+Supportive care:
+Management of hypertension, proteinuria, and oedema with angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs), diuretics, and dietary modifications.
+Complement inhibition:
+In C3 glomerulopathy, targeted complement inhibition with eculizumab, a monoclonal antibody against C5, may be considered in select cases.
+Renal replacement therapy:
+End-stage renal disease (ESRD) may develop in some patients, necessitating dialysis or kidney transplantation.
+Improve
+Prognosis
+The prognosis of MPGN is variable, depending on the subtype, severity, response to therapy, and presence of comorbidities. Early intervention and appropriate management can improve outcomes and delay the progression to ESRD. However, some patients may still progress to ESRD despite optimal management. Recurrence of MPGN following kidney transplantation has been reported, particularly in cases of complement-mediated MPGN.
+Improve
+Nephrology
+Membranoproliferative glomerulonephritis

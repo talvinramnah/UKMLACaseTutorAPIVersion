@@ -1,0 +1,174 @@
+Primary hyperaldosteronism
+Primary hyperaldosteronism
+Primary hyperaldosteronism, also known as Conn's syndrome, is an endocrine disorder characterised by excessive secretion of aldosterone from the adrenal glands. This overproduction often results from an adrenal adenoma or bilateral adrenal hyperplasia. The excess aldosterone leads to sodium retention and potassium excretion, causing
+hypertension
+and hypokalemia.
+Patients typically present with resistant hypertension and may have signs of hypokalemia such as muscle weakness or cardiac arrhythmias. Diagnosis involves biochemical testing for elevated plasma aldosterone concentration (PAC) and suppressed plasma renin activity (PRA), followed by confirmatory tests such as saline infusion test or captopril challenge test.
+Treatment depends on the underlying cause; unilateral adrenal adenomas are usually treated surgically while bilateral adrenal hyperplasia is managed medically with mineralocorticoid receptor antagonists like
+spironolactone
+or
+eplerenone
+.
+Last updated: 25
+th
+January 2023
+Epidemiology
+Incidence: 40.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Causes
+bilateral idiopathic adrenal hyperplasia: the cause of around 60-70% of cases
+adrenal adenoma: 20-30% of cases
+unilateral hyperplasia
+familial hyperaldosteronism
+adrenal carcinoma
+Improve
+Pathophysiology
+Primary hyperaldosteronism
+, also known as Conn's syndrome, is a disorder characterised by excessive secretion of aldosterone from the adrenal cortex. This overproduction can be autonomous, meaning it occurs independently of the renin-angiotensin system, which normally regulates aldosterone production.
+The pathogenesis of primary hyperaldosteronism involves several key steps:
+Aldosterone-producing adenoma (APA):
+The most common cause of primary hyperaldosteronism is an APA. An adenoma is a benign tumour that originates from the outer layer of the adrenal gland - the zona glomerulosa. These adenomas contain cells capable of producing aldosterone, and their growth leads to an increase in aldosterone synthesis and secretion.
+Bilateral adrenal hyperplasia:
+This condition is characterised by an enlargement of both adrenal glands due to an increased number of cells in the zona glomerulosa. Although not as common as APAs, bilateral adrenal hyperplasia can result in significant overproduction of aldosterone.
+Ectopic aldosterone-producing adenomas or carcinomas:
+In rare cases, primary hyperaldosteronism can be caused by ectopic production of aldosterone from tumours located outside the adrenal glands.
+The excess aldosterone produced in these conditions acts on mineralocorticoid receptors in the distal tubules and collecting ducts of the kidney. This binding triggers sodium reabsorption and potassium excretion. The net effect is water retention leading to increased blood volume and
+hypertension
+, along with
+hypokalaemia
+due to excessive potassium loss.
+In response to this high blood pressure, baroreceptors within arterial walls stimulate a reflex decrease in heart rate and cardiac output via parasympathetic activation. However, this compensatory mechanism is insufficient to normalise blood pressure due to the persistent effect of aldosterone on sodium and water retention.
+Furthermore, the renin-angiotensin system becomes suppressed due to the high level of aldosterone. This suppression further exacerbates the condition as it removes one of the body's main mechanisms for controlling aldosterone levels.
+In summary, primary hyperaldosteronism is a complex disorder that involves overproduction of aldosterone leading to fluid retention, hypertension and hypokalaemia. The pathogenesis involves either an adenoma or hyperplasia of adrenal cortex cells capable of producing aldosterone or, in rare cases, ectopic tumours. These conditions lead to a series of physiological changes that ultimately result in the clinical manifestations seen in patients with primary hyperaldosteronism.
+Improve
+Clinical features
+The stereotypical presentation of primary hyperaldosteronism often involves a patient with refractory
+hypertension
+,
+hypokalaemia
+and metabolic
+alkalosis
+. These patients may also exhibit symptoms such as fatigue, muscle weakness and frequent urination.
+Refractory Hypertension
+Patients with primary hyperaldosteronism are typically resistant to conventional antihypertensive therapies. This is due to the excess aldosterone causing sodium retention and potassium excretion, leading to an increase in blood volume and consequently blood pressure. The hypertension observed in these patients is often severe and difficult to control.
+Hypokalaemia
+Excessive aldosterone promotes renal potassium loss, which can result in profound hypokalaemia. Symptoms associated with this electrolyte imbalance include muscle weakness, cramps, palpitations and in severe cases paralysis or cardiac arrhythmias.
+Metabolic Alkalosis
+The increased hydrogen ion secretion stimulated by aldosterone can lead to metabolic alkalosis. While many patients are asymptomatic, some may experience symptoms like nausea, vomiting, light-headedness or confusion if the alkalosis is severe.
+Polyuria and Polydipsia
+Aldosterone's action on renal tubules promotes water reabsorption along with sodium. However, when there's an excessive amount of aldosterone as seen in primary hyperaldosteronism, it might overwhelm the kidney's capacity for water reabsorption leading to polyuria (increased urination) and consequent polydipsia (increased thirst).
+Other Clinical Features
+Nocturnal hypertension:
+Patients may present with high blood pressure readings during the night despite normal daytime values.
+Incidental adrenal mass:
+Primary hyperaldosteronism can occasionally be an incidental finding in patients undergoing imaging studies for unrelated reasons, where an adrenal mass (adenoma or hyperplasia) might be identified.
+Resistant oedema:
+Despite the diuretic effect of high aldosterone levels, some patients may paradoxically develop resistant peripheral or pulmonary oedema due to the excessive sodium and water reabsorption.
+Asymptomatic Patients
+A significant proportion of patients with primary hyperaldosteronism may remain asymptomatic. The condition is often identified during workup for refractory hypertension or incidentally when a patient presents with hypokalaemia without an apparent cause. Regular monitoring and screening are essential in these cases to prevent potential complications such as cardiovascular disease and stroke.
+Improve
+Investigations
+Investigations
+guidelines vary but certain patients should be screened for primary hyperaldosteronism, e.g.
+hypertension
+with hypokalemia
+treatment-resistant hypertension
+the 2016 Endocrine Society recommend that a
+plasma
+aldosterone/renin ratio is the first-line investigation
+in suspected primary hyperaldosteronism
+should show high aldosterone levels alongside low renin levels (negative feedback due to sodium retention from aldosterone)
+following this a high-resolution CT abdomen and adrenal vein sampling is used to differentiate between unilateral and bilateral sources of aldosterone excess
+if the CT is normal
+adrenal venous sampling (AVS)
+can be used to distinguish between unilateral adenoma and bilateral hyperplasia
+hypokalaemia
+. The adenoma can be seen 'next to' or 'below' the liver.">
+Improve
+Differential diagnosis
+Primary hyperaldosteronism, also known as Conn's syndrome, can be challenging to diagnose due to its overlap in clinical presentation with several other conditions. The three most likely alternative diagnoses include secondary hyperaldosteronism, Cushing's syndrome and pheochromocytoma.
+Secondary Hyperaldosteronism
+Unlike primary hyperaldosteronism which is caused by the autonomous overproduction of aldosterone, secondary hyperaldosteronism results from an appropriate physiological response to stimuli such as renin.
+Clinically, both conditions present with
+hypertension
+and
+hypokalaemia
+. However, patients with secondary hyperaldosteronism often demonstrate signs of volume overload such as oedema or ascites.
+The plasma renin activity (PRA) level is a distinguishing factor; it is suppressed in primary hyperaldosteronism but elevated in secondary hyperaldosteronism.
+Cushing's Syndrome
+Cushing's syndrome is characterised by excessive cortisol production which can mimic some symptoms of primary hyperaldosteronism such as hypertension and metabolic
+alkalosis
+.
+However, Cushing's syndrome has distinct features including central obesity, moon facies, purple striae and hirsutism that are not seen in primary hyperaldosteronism.
+In terms of laboratory findings, Cushing's syndrome will show a lack of diurnal variation in cortisol levels and failure to suppress cortisol on a low-dose dexamethasone suppression test.
+Pheochromocytoma
+Pheochromocytoma, a rare catecholamine-secreting tumour, can also present with similar symptoms to primary hyperaldosteronism such as hypertension.
+However, pheochromocytoma often presents with episodic symptoms including headaches, palpitations and diaphoresis in addition to sustained or paroxysmal hypertension. These episodic symptoms are not typical in primary hyperaldosteronism.
+The diagnosis of pheochromocytoma is confirmed by elevated levels of urinary metanephrines and normetanephrines.
+Improve
+Management
+Primary hyperaldosteronism management involves confirmation of diagnosis, subtype differentiation and targeted treatment. The mainstay of treatment is either surgical removal for unilateral disease or medical therapy with mineralocorticoid receptor antagonists for bilateral disease.
+Confirmation of Diagnosis:
+After initial screening, confirmatory tests are required to establish the diagnosis. These include saline infusion test, fludrocortisone suppression test and captopril challenge test.
+Subtype Differentiation:
+Aldosterone-producing adenoma (APA) and bilateral adrenal hyperplasia (BAH) are the most common subtypes. Differentiation is achieved via adrenal vein sampling (AVS).
+If AVS is not possible or inconclusive, CT scan can be used but it has limitations in identifying microadenomas or distinguishing between BAH and APA.
+Treatment:
+In cases of unilateral disease (usually APA), laparoscopic adrenalectomy is the treatment of choice.
+Post-operatively, monitor for hypoaldosteronism and provide glucocorticoid coverage until normal function recovers.
+In bilateral disease or when surgery is contraindicated, lifelong mineralocorticoid receptor antagonist therapy is initiated.
+Spironolactone
+or
+eplerenone
+are commonly used.
+All patients should have regular monitoring of blood pressure, electrolytes and renal function. Lifestyle modifications including low sodium diet and regular exercise should be encouraged.
+Improve
+Complications
+Primary hyperaldosteronism, if left untreated or poorly managed, can lead to a number of complications. These are primarily related to the effects of excessive aldosterone on the cardiovascular system and kidneys.
+Cardiovascular Complications:
+Hypertension
+:
+The most common complication is hypertension due to sodium retention and volume expansion. This can be resistant to treatment and may require multiple antihypertensive medications.
+Left ventricular hypertrophy (LVH):
+Chronic hypertension can lead to LVH, increasing the risk for heart failure and arrhythmias.
+Morbidity from cardiovascular events:
+Patients with primary hyperaldosteronism have an increased risk of stroke, myocardial infarction, and other cardiovascular events compared with patients with essential hypertension of similar severity.
+Renal Complications:
+Hypokalaemia
+:
+Excessive aldosterone leads to increased renal potassium excretion resulting in hypokalaemia. Severe hypokalaemia can cause muscular weakness, myalgia, polyuria, polydipsia, nocturia and in extreme cases paralysis or cardiac arrhythmias.
+Metabolic
+alkalosis
+:
+Aldosterone promotes renal excretion of hydrogen ions leading to metabolic alkalosis.
+Nephropathy:
+Chronic exposure to high levels of aldosterone may induce fibrosis in the kidney leading to nephropathy.
+Osteoporosis:
+Prolonged hypokalaemia associated with primary hyperaldosteronism may lead to increased bone resorption resulting in osteoporosis. This increases the risk for fractures particularly in postmenopausal women.
+Neurological Complications:
+Chronic hypokalaemia can lead to neuromuscular complications such as muscle weakness, fatigue, and paresthesia. In addition, untreated primary hyperaldosteronism may cause mood disorders and impair cognitive function.
+Improve
+Prognosis
+The prognosis for primary hyperaldosteronism is generally favourable when identified and treated appropriately. Key factors influencing the prognosis include:
+Early detection:
+Timely diagnosis and treatment can prevent complications such as cardiovascular disease, kidney damage, and stroke.
+Type of primary hyperaldosteronism:
+Aldosterone-producing adenomas are typically benign and surgically curable, whereas idiopathic hyperaldosteronism often requires lifelong medical therapy.
+With appropriate management, patients with aldosterone-producing adenomas can expect near-normal life expectancy. However, those with idiopathic hyperaldosteronism may have a slightly reduced life expectancy due to an increased risk of cardiovascular events despite treatment.
+Improve
+References
+The Endocrine Society - 2016: The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment
+Endocrinology
+Primary hyperaldosteronism

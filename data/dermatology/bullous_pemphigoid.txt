@@ -1,0 +1,146 @@
+Bullous pemphigoid
+Bullous pemphigoid
+Bullous pemphigoid is a chronic, autoimmune subepidermal blistering disorder predominantly affecting the elderly population. It is characterized by the presence of autoantibodies targeting two hemidesmosomal proteins: BP180 (type XVII collagen) and BP230 (dystonin).
+Clinically, patients present with
+pruritus
+, erythematous plaques, urticarial lesions, and large tense blisters filled with serous or hemorrhagic fluid. Mucosal involvement is relatively rare but can be seen in severe cases.
+Diagnosis relies on clinical suspicion, histopathology revealing subepidermal blistering with eosinophilic infiltrates, direct immunofluorescence demonstrating linear deposition of IgG and/or C3 along the basement membrane zone (BMZ), and serologic tests confirming circulating anti-BP180/BP230 antibodies.
+The mainstay treatment involves systemic corticosteroids (e.g., oral prednisolone) as first-line therapy, often combined with steroid-sparing immunosuppressive agents such as azathioprine or mycophenolate mofetil to minimize corticosteroid-related adverse effects. Topical high-potency corticosteroids may be used in mild cases or as an adjunctive treatment.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Bullous pemphigoid
+is an autoimmune blistering disease, characterised by subepidermal blisters and autoantibodies against hemidesmosomal proteins. The pathophysiology of the disease involves a series of immunological events leading to blister formation.
+The initial event in bullous pemphigoid is the production of autoantibodies against two primary antigens:
+BP180
+(also known as type XVII collagen) and
+BP230
+. These antigens are key components of hemidesmosomes, structures which anchor epidermal keratinocytes to the underlying basement membrane. BP180 has both extracellular and intracellular domains, with the NC16A region within its extracellular domain being the primary target for autoantibody binding.
+The binding of autoantibodies to BP180 triggers a cascade of immune responses. Complement activation occurs via the classical pathway, leading to formation of the membrane attack complex (MAC). This results in dermo-epidermal separation, contributing to subepidermal blister formation.
+In addition to complement activation, antibody binding also stimulates keratinocytes to release pro-inflammatory cytokines such as interleukin-1 (IL-1), IL-6 and tumour necrosis factor-alpha (TNF-alpha). These cytokines recruit inflammatory cells including neutrophils and eosinophils to the site.
+Eosinophils play a significant role in bullous pemphigoid. They are attracted by eotaxin released from activated keratinocytes. Once at the site, eosinophils degranulate releasing their toxic granular contents including major basic protein (MBP), eosinophil cationic protein (ECP), eosinophil-derived neurotoxin (EDN) and eosinophil peroxidase (EPO). These proteins cause further damage to the basement membrane, exacerbating blister formation.
+Neutrophils also contribute to the pathogenesis of bullous pemphigoid. They are recruited by IL-8 released from activated keratinocytes and upon arrival, they release proteolytic enzymes including elastase and collagenase which degrade components of the basement membrane zone, leading to further dermo-epidermal separation.
+In summary, the pathophysiology of bullous pemphigoid involves a complex interplay between autoantibodies, complement activation, cytokine release and inflammatory cell recruitment. This leads to disruption of the dermo-epidermal junction and formation of subepidermal blisters.
+Improve
+Clinical features
+Bullous pemphigoid is more common in elderly patients. Features include
+itchy, tense blisters typically around flexures
+the blisters usually heal without scarring
+mouth is usually spared
+this is seen as a classic differentiating feature between pemphigoid and pemphigus
+in reality around 10-50% of patients have a degree of mucosal involvement
+© Image used on license from
+DermNet NZ
+© Image used on license from
+DermNet NZ
+and with the kind permission of Prof Raimo Suhonen
+© Image used on license from
+DermNet NZ
+and with the kind permission of Prof Raimo Suhonen
+Improve
+Investigations
+The diagnosis of bullous pemphigoid relies on a combination of clinical assessment and laboratory investigations. A systematic approach to investigations is essential for accurate diagnosis.
+Skin biopsy for histopathology
+is the first-line investigation for suspected bullous pemphigoid
+Biopsy should be taken from the edge of a fresh blister (less than 24 hours old), including both lesional and perilesional skin
+Histological features include subepidermal blistering with eosinophil-rich inflammatory infiltrate in the dermis
+Eosinophilic spongiosis may be seen in early, non-bullous lesions
+Direct immunofluorescence (DIF)
+is essential for confirming the diagnosis
+Performed on perilesional skin (within 1-2 cm of a lesion but not from blistered skin)
+Characteristic finding is linear deposition of IgG and/or C3 along the basement membrane zone
+British Association of Dermatologists guidelines
+recommend DIF as a mandatory investigation for all suspected immunobullous disorders
+Serological testing
+should be performed to detect circulating autoantibodies
+Enzyme-linked immunosorbent assay (ELISA) for BP180 (NC16A domain) and BP230 antibodies
+BP180 antibodies are more sensitive (80-90%) and specific (>90%) for bullous pemphigoid
+Indirect immunofluorescence on salt-split skin can help differentiate bullous pemphigoid (roof pattern) from other subepidermal blistering disorders
+Additional Investigations
+Blood tests
+should be performed to assess overall health status and guide treatment decisions
+Full blood count may show eosinophilia in up to 50% of patients
+Renal and liver function tests are important baseline investigations before initiating immunosuppressive therapy
+Blood glucose levels should be checked as corticosteroid therapy may exacerbate or unmask diabetes mellitus
+Further investigations
+may be required in certain clinical scenarios
+Indirect immunofluorescence on monkey oesophagus can be used if ELISA testing is unavailable
+Immunoblotting and immunoprecipitation are specialised techniques available in reference laboratories for complex cases
+NICE guidelines
+recommend considering investigation for underlying malignancy in patients with atypical presentations or treatment-resistant disease
+Diagnostic Challenges
+Non-bullous pemphigoid
+can present diagnostic difficulties
+In urticarial or eczematous presentations without blisters, histology may be non-specific
+DIF and serological testing become particularly important in these cases
+Repeated biopsies may be necessary if clinical suspicion remains high despite initial negative results
+Interpretation of results
+should be made in the clinical context
+False negative DIF results can occur in patients on high-dose immunosuppression
+Antibody levels may correlate with disease activity and can be used to monitor treatment response
+A small proportion of elderly individuals may have low-titre BP180 antibodies without clinical disease
+Improve
+Differential diagnosis
+Although bullous pemphigoid (BP) is a distinct condition, the clinical presentation may overlap with several other disorders. The differential diagnosis primarily includes pemphigus vulgaris (PV), dermatitis herpetiformis (DH) and linear IgA bullous dermatosis (LABD).
+Pemphigus Vulgaris:
+PV is an autoimmune blistering disorder that can be distinguished from BP on the basis of clinical features, histology and immunofluorescence.
+Clinical Features: Unlike BP, which primarily affects the skin, PV often involves mucosal surfaces. Blisters in PV are flaccid and rupture easily leading to painful erosions, contrasting with the tense blisters of BP.
+Histology: In PV, intraepidermal acantholytic blisters are observed as compared to subepidermal blisters in BP.
+Immunofluorescence: Direct immunofluorescence in PV reveals intercellular IgG deposits within the epidermis, while in BP linear deposits of IgG and C3 are seen at the dermo-epidermal junction.
+Dermatitis Herpetiformis:
+DH is another autoimmune blistering disorder that can mimic BP clinically but differs significantly in terms of associated conditions, histopathology and immunologic findings.
+Clinical Features: DH usually presents with itchy papules and vesicles over extensor surfaces along with gastrointestinal symptoms due to associated coeliac disease. This contrasts with the pruritic urticated lesions or large tense blisters seen in BP.
+Histology: Subepidermal vesicles with neutrophilic infiltration are characteristic of DH, while BP shows eosinophilic infiltrates.
+Immunofluorescence: Granular deposits of IgA at the dermo-epidermal junction are seen in DH, whereas BP exhibits linear deposits of IgG and C3.
+Linear IgA Bullous Dermatosis:
+LABD is a rare autoimmune blistering disorder that shares some clinical and histopathological features with BP but can be differentiated on the basis of immunofluorescence findings.
+Clinical Features: Similar to BP, LABD presents with tense blisters but they often form a ring or cluster (known as 'cluster of jewels') which is not typically seen in BP. Also unlike BP, mucosal involvement is common in LABD.
+Histology: Both disorders show subepidermal blisters with neutrophilic infiltrate. However, eosinophilic infiltrate may also be seen in BP.
+Immunofluorescence: The distinguishing feature is the presence of linear IgA deposits along the basement membrane zone in LABD, while in BP there are linear deposits of IgG and C3.
+Improve
+Management
+Management
+referral to dermatologist for biopsy and confirmation of diagnosis
+oral corticosteroids are the mainstay of treatment
+topical corticosteroids, immunosuppressants and antibiotics are also used
+Improve
+Complications
+Bullous pemphigoid, while primarily a dermatological condition, can have systemic implications and lead to several complications. The most common complications are:
+Secondary infections:
+Staphylococcus aureus
+and
+Pseudomonas aeruginosa
+are the most common organisms causing secondary bacterial infection in bullous pemphigoid lesions.
+Fungal infections can also occur, especially with Candida species.
+The risk of sepsis is significant due to disrupted skin integrity and potential for systemic spread of infection.
+Skin damage:
+A result of extensive blistering, patients may experience scarring and changes in skin pigmentation.
+Milia (small cysts) may form during healing process following blister rupture.
+Side effects from treatment:
+Corticosteroids, the mainstay of treatment for bullous pemphigoid, can cause multiple side effects such as osteoporosis, diabetes mellitus, hypertension, glaucoma or cataracts if used systemically over a prolonged period.
+Topical corticosteroids may cause skin atrophy and striae distensae.
+In addition to these direct complications from bullous pemphigoid itself or its treatment, there are associated risks due to the typical age group affected by this disease. Elderly patients often have comorbidities that can be exacerbated by the disease or its treatment:
+Elderly-related complications:
+Cognitive impairment has been linked with bullous pemphigoid; however, it remains unclear whether this is a direct effect of the disease or related to underlying neurological conditions frequently found in this patient population.
+Increased risk of cardiovascular disease and stroke has been reported in patients with bullous pemphigoid, possibly due to systemic inflammation or steroid treatment.
+Improve
+References
+British Association of Dermatologists - Bullous pemphigoid guidelines
+DermNet NZ - Bullous pemphigoid
+Dermatology
+Bullous pemphigoid

@@ -1,0 +1,205 @@
+Angina pectoris
+Angina pectoris
+Angina pectoris describes the clinical syndrome of
+chest pain
+on exertion secondary to myocardial ischaemia. This is due to narrowing of the arteries secondary to coronary heart disease.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 150.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Aortic stenosis
+1.33
+Angina pectoris
+1
+Pulmonary arterial hypertension
+0.003
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The primary cause of angina pectoris is atherosclerosis, a chronic inflammatory process affecting the coronary arteries. Other contributing factors and etiologies include:
+Coronary artery vasospasm:
+Constriction of the coronary arteries, leading to transient ischemia.
+Microvascular dysfunction:
+Impaired function of the coronary microvasculature, leading to inadequate blood supply to the myocardium.
+Extracoronary factors:
+Conditions such as
+aortic stenosis
+, hypertrophic cardiomyopathy, or significant anemia, which increase myocardial oxygen demand or decrease supply.
+Improve
+Pathophysiology
+The pathogenesis of angina pectoris involves a complex interplay of factors leading to myocardial ischemia. The main pathophysiological mechanisms include:
+Atherosclerosis:
+The progressive accumulation of lipids, inflammatory cells, and fibrous tissue within the arterial wall results in the formation of plaques. Plaque progression can lead to the narrowing of coronary arteries, reducing blood flow and oxygen supply to the myocardium.
+Plaque rupture:
+An unstable plaque may rupture, exposing its thrombogenic core and triggering platelet activation and aggregation. This can lead to the formation of a thrombus, further obstructing blood flow and exacerbating myocardial ischemia.
+Endothelial dysfunction:
+A dysfunctional endothelium loses its ability to maintain vascular tone and promote vasodilation, contributing to the development of vasospasm and microvascular dysfunction.
+Imbalance between myocardial oxygen demand and supply:
+Increased myocardial oxygen demand due to factors such as physical exertion, emotional stress, or tachycardia, combined with a reduced supply due to coronary artery narrowing, vasospasm, or microvascular dysfunction, can lead to transient ischemia and
+chest pain
+.
+The pathogenesis of atherosclerosis and subsequent angina pectoris is also influenced by inflammatory and genetic factors:
+Inflammatory mediators:
+Cytokines and other inflammatory molecules play a crucial role in the progression of atherosclerosis and plaque instability.
+Genetic predisposition:
+Genetic factors can contribute to the development of atherosclerosis, coronary artery disease, and angina pectoris. Some individuals may have a higher predisposition to endothelial dysfunction, plaque formation, or thrombosis.
+Improve
+Clinical features
+The stereotypical presentation of angina pectoris is characterised by a central or left-sided chest discomfort, often described as pressure, heaviness, or tightness. This discomfort may radiate to the neck, jaw, shoulders, back or arms (particularly the left arm). The pain typically occurs on exertion and is relieved by rest within 5-10 minutes.
+Cardinal features
+Exertional
+chest pain
+:
+Angina pectoris most commonly manifests as chest pain that is provoked by physical exertion or emotional stress. It's typically described as a squeezing, pressing or burning sensation.
+Relief with rest or nitroglycerin:
+Symptoms usually subside within minutes when the triggering activity ceases or after administration of sublingual nitroglycerin.
+Radiation of pain:
+Discomfort can radiate to various parts of the body such as the neck, jaw, shoulder blades, arms (especially left), wrists and even fingers.
+Variability in Presentation
+Silent Ischaemia:
+A significant proportion of individuals experience myocardial ischaemia without any accompanying symptoms - a phenomenon referred to as silent ischaemia. These episodes are often detected incidentally during routine electrocardiographic monitoring.
+Variants of Angina:
+Variants such as Prinzmetal's angina (or variant angina) present with episodic chest pain at rest due to coronary artery spasm. Microvascular angina refers to anginal symptoms with no obstructive coronary artery disease but instead microvascular dysfunction causing impaired blood flow.
+Associated Symptoms
+Patients may also experience
+dyspnoea
+,
+fatigue
+,
+nausea
+, sweating or
+light-headedness
+during an anginal episode. These are due to the accompanying sympathetic nervous system activation.
+Atypical presentations are more common in certain populations such as women, elderly individuals and patients with diabetes. In these groups, angina pectoris may manifest as shortness of breath, weakness, fatigue or abdominal discomfort rather than typical chest pain.
+Physical Examination
+The physical examination is often normal in stable angina. However, during an episode of
+acute coronary syndrome
+(which includes unstable angina), patients may exhibit tachycardia or bradycardia, hypotension or hypertension, and signs of heart failure such as pulmonary rales and peripheral oedema.
+Auscultation might reveal a fourth heart sound (S4) due to increased left ventricular end-diastolic stiffness. The presence of new murmurs could suggest myocardial infarction with associated complications such as mitral regurgitation or ventricular septal defect.
+Improve
+Investigations
+NICE updated it's guidelines in 2016 on the 'Assessment and diagnosis of recent onset
+chest pain
+or discomfort of suspected cardiac origin'.
+NICE define anginal pain as the following:
+1. Constricting discomfort in the front of the chest, or in the neck, shoulders, jaw or arms
+2. Precipitated by physical exertion
+3. Relieved by rest or
+GTN
+in about 5 minutes
+Interpretation:
+Patients with all 3 features have typical angina
+Patients with 2 of the above features have atypical angina
+Patients with 1 or none of the above features have non-anginal chest pain
+For patients in whom stable angina cannot be excluded by clinical assessment alone NICE recommend the following (e.g. symptoms consistent with typical/atypical angina OR ECG changes):
+1st line:
+CT coronary angiography
+2nd line:
+Non-invasive functional imaging (looking for reversible myocardial ischaemia)
+3rd line:
+Invasive coronary angiography
+Examples of non-invasive functional imaging:
+Myocardial perfusion scintigraphy with single photon emission computed tomography (MPS with SPECT) or
+Stress echocardiography or
+First-pass contrast-enhanced magnetic resonance (MR) perfusion or
+MR imaging for stress-induced wall motion abnormalities
+Improve
+Differential diagnosis
+When considering the differential diagnosis for angina pectoris, several conditions should be considered due to their similar clinical presentations. These include: gastro-oesophageal reflux disease (GERD), panic disorder and pericarditis.
+Gastro-oesophageal Reflux Disease (GERD)
+The pain associated with GERD is often described as a burning sensation, located in the epigastric and retrosternal areas, which can mimic the discomfort experienced in angina pectoris. However, this discomfort typically worsens post-prandially or when lying down and improves with antacids.
+Unlike angina, GERD symptoms are not usually associated with physical exertion.
+Other accompanying symptoms such as regurgitation, sour taste in mouth or dysphagia may point towards a diagnosis of GERD rather than angina pectoris.
+Panic Disorder
+Chest pain
+in panic disorder is often described as sharp or stabbing and may be associated with hyperventilation, palpitations and a sense of impending doom. This can create confusion with anginal pain which is usually described as pressure-like or squeezing.
+The chest pain in panic disorder does not follow a predictable pattern like angina pectoris and is not related to physical exertion but to episodes of anxiety.
+A history of psychiatric illness or frequent emergency department visits for unexplained chest pain might suggest panic disorder over angina pectoris.
+Pericarditis
+In pericarditis, the chest pain is typically sharp and pleuritic in nature; it worsens with lying flat and improves when sitting up and leaning forward, a characteristic not seen in angina pectoris.
+Unlike angina, the pain of pericarditis does not subside with rest or nitroglycerin.
+The presence of a friction rub on auscultation, diffuse ST elevation on ECG or pericardial effusion on echocardiogram may help differentiate pericarditis from angina pectoris.
+Improve
+Management
+The management of stable angina comprises lifestyle changes, medication, percutaneous coronary intervention and surgery. NICE produced guidelines in 2011 covering the management of stable angina
+Medication
+All patients should receive aspirin and a statin in the absence of any contraindication
+Sublingual glyceryl trinitrate to abort angina attacks
+NICE recommend using either a beta-blocker or a
+calcium channel blocker
+first-line based on 'comorbidities, contraindications and the person's preference'
+If a calcium channel blocker is used as monotherapy a rate-limiting one such as
+verapamil
+or
+diltiazem
+should be used.
+If used in combination with a beta-blocker then use a long-acting dihydropyridine calcium-channel blocker (e.g. modified-release
+nifedipine
+).
+Remember that
+beta-blockers
+should not be prescribed concurrently with verapamil (risk of complete heart block)
+If there is a poor response to initial treatment then medication should be increased to the maximum tolerated dose (e.g. for atenolol 100mg od)
+If a patient is still symptomatic after monotherapy with a beta-blocker add a calcium channel blocker and vice versa
+If a patient is on monotherapy and cannot tolerate the addition of a calcium channel blocker or a beta-blocker then consider one of the following drugs: a long-acting nitrate, ivabradine, nicorandil or ranolazine
+If a patient is taking both a beta-blocker and a calcium-channel blocker then only add a third drug whilst a patient is awaiting assessment for PCI or CABG
+Nitrate tolerance
+Many patients who take
+nitrates
+develop tolerance and experience reduced efficacy
+The BNF advises that patients who develop tolerance should take the second dose of isosorbide mononitrate after 8 hours, rather than after 12 hours. This allows blood-nitrate levels to fall for 4 hours and maintains effectiveness
+This effect is not seen in patients who take modified-release isosorbide mononitrate
+Improve
+Complications
+Angina pectoris, though a symptom itself of an underlying cardiac condition, can lead to several serious complications if not managed effectively. These include:
+Myocardial infarction
+(MI):
+Prolonged periods of angina can result in complete occlusion of the coronary artery, leading to myocardial necrosis. This is often characterised by severe
+chest pain
+, diaphoresis,
+nausea
+and shortness of breath.
+Arrhythmias:
+Ischaemic heart disease
+, such as that seen in angina pectoris, can disrupt the electrical conduction system of the heart. This may result in various types of arrhythmias including ventricular tachycardia and atrial fibrillation.
+Heart failure:
+Chronic angina can lead to left ventricular dysfunction and eventually heart failure. Symptoms typically include
+dyspnoea
+on exertion, orthopnoea and peripheral oedema.
+Sudden cardiac death:
+This is an unexpected death due to cardiac causes occurring within one hour from onset of symptoms where no cause other than a cardiovascular cause is likely. It's often associated with coronary artery disease including angina pectoris.
+Improve
+Prognosis
+The prognosis of angina pectoris largely depends on the underlying aetiology, severity of symptoms, comorbid conditions and response to treatment.
+Stable Angina:
+Patients with stable angina generally have a good prognosis with appropriate management. The annual mortality rate is typically less than 2%.
+Mortality increases significantly if there are additional risk factors such as diabetes mellitus, renal insufficiency or left ventricular dysfunction.
+Unstable Angina:
+Unstable angina carries a higher risk of adverse cardiovascular events including myocardial infarction and death. Early intervention can improve outcomes.
+The GRACE score can be used to predict 6-month mortality in patients with
+acute coronary syndrome
+which includes unstable angina.
+Vasospastic (Prinzmetal's) Angina:
+Vasospastic angina typically has a benign course, but episodes can be severe and unpredictable. In rare cases, it may lead to life-threatening arrhythmias or myocardial infarction.
+Improve
+References
+NICE - 2011 Stable angina guidelines
+Clinical Knowledge Summaries - Angina guidelines
+Royal College of Physicians - 2013 Pharmacological treatment of chronic stable angina pectoris
+SIGN - 2018 Management of stable angina
+Cardiology
+Angina pectoris

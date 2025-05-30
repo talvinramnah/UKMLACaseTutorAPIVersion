@@ -1,0 +1,81 @@
+Tension-type headache
+Tension-type headache
+Tension-type
+headache
+is the most prevalent primary headache disorder, characterized by a bilateral, non-pulsatile, mild-to-moderate pain with a pressing or tightening quality. The pathophysiology remains incompletely understood; however, peripheral and central mechanisms involving myofascial nociception and central sensitization have been implicated.
+Diagnosis is primarily clinical, adhering to the International Classification of Headache Disorders-3 (ICHD-3) criteria. Tension-type headaches can be episodic or chronic, with the episodic form occurring less than 15 days per month and the chronic form occurring more than 15 days per month for at least three months. Differentiating tension-type headaches from other primary headaches such as
+migraine
+and cluster headache is crucial for appropriate management.
+Non-pharmacological treatment options include relaxation training, biofeedback, and cognitive-behavioural therapy. Pharmacological management encompasses acute therapy using simple analgesics like
+paracetamol
+, NSAIDs, or aspirin. Prophylactic treatment may be indicated in chronic tension-type headache cases with frequent attacks or medication overuse; tricyclic antidepressants such as amitriptyline are considered first-line agents.
+Last updated: 28
+th
+January 2024
+Epidemiology
+Incidence: 15000.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Tension-type
+headache
+1
+Migraine
+0.33
+Carbon monoxide poisoning
+0.0002
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Classification
+The ICHD categorizes tension-type headaches according to the frequency of attacks:
+Infrequent episodic:
+less than 1 day of
+headache
+per month.
+Frequent episodic:
+at least 10 episodes of headache occurring on fewer than 15 days per month on average, for more than 3 months.
+Chronic:
+15 days or more of headache per month, for more than 3 months, in the absence of medication overuse.
+Improve
+Clinical features
+Characteristic features
+often described as a 'tight band' around the head or a pressure sensation. Symptoms tend to be bilateral, where as
+migraine
+is typically unilateral
+tends to be of a lower intensity than migraine
+not associated with aura, nausea/vomiting or aggravated by routine physical activity
+may be related to stress
+may co-exist with migraine
+Chronic tension-type
+headache
+is defined as a tension headache occur on 15 or more days per month.
+Improve
+Management
+NICE produced guidelines on the management of tension-type
+headache
+in 2012:
+acute treatment: aspirin,
+paracetamol
+or an NSAID are first-line
+prophylaxis: NICE recommend 'up to 10 sessions of acupuncture over 5-8 weeks'
+low-dose amitriptyline is widely used in the UK for prophylaxis against tension-type headache. The 2012 NICE guidelines do not however support this approach
+'...there was not enough evidence to recommend pharmacological prophylactic treatment for tension-type headaches. The GDG considered that pure tension-type headache requiring prophylaxis is rare. Assessment is likely to uncover coexisting
+migraine
+symptomatology with a possible diagnosis of chronic migraine.'
+It is essential to address potential triggers and comorbidities like stress, sleep disturbances, anxiety, or depression to provide comprehensive care for patients suffering from tension-type headaches.
+Improve
+References
+NICE - 2012 Headache guidelines
+Clinical Knowledge Summaries - Tension-type headache
+Neurology
+Tension-type headache

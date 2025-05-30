@@ -1,0 +1,235 @@
+Microscopic polyangiitis
+Microscopic polyangiitis
+Microscopic polyangiitis is a small-vessel
+ANCA vasculitis
+.
+Last updated: 1
+st
+January 2025
+Aetiology
+The aetiology of MPA is largely unknown but is generally attributed to anti-neutrophil-cytoplasmic antibodies or ANCA. However, only 70% of patients with MPA have ANCA when diagnosed, with cases of limited MPA being ANCA negative. A number of other factors have been suggested including:
+Silica exposure
+Silica particles stimulate T and B cells
+Inhalation in susceptible individuals may trigger ANCA production
+A number of case-control studies demonstrate of those patients with ANCA associated rapidly progressive glomerulonephritis, 22-46% were previously exposed to silica
+Silica-associated ANCA disease has been shown to demonstrate p-ANCA on direct immunofluorescence and antibodies against MPO
+Geographical location and seasons
+From north to south, increasing incidence of MPA seen, whereas decreasing incidence of
+granulomatosis with polyangiitis
+Studies from Europe, USA and China demonstrate higher incidence of vasculitis during winter months compared to summer
+Infectious causes: Staph aureus, hepatitis C
+May lead to the phenomenon of
+molecular mimicry
+and generation of ANCA
+Drugs
+Hydralazine, thionamides, sulfasalazine, and minocycline
+have been associated with an increased incidence of AAV, including MPA
+Genetics
+A number of MHC class II genes are associated with MPA, with
+HLA-DQ
+most commonly associated
+Pathogenic B cell response and production of ANCA
+Loss of CD-19 expression in patients with MPA
+Loss of self-tolerance, leading to the production of autoreactive B cells
+Aberrant T cell response
+A higher proportion of activated T cells, T activation markers, and memory cells
+Dominant Th1 response in MPA
+Improve
+Pathophysiology
+An unknown trigger induces an autoimmune response in which circulating autoantibodies, react with antigens in cytoplasm of neutrophils and monocytes. The major autoantigens in microscopic polyangiitis are
+MPO
+and
+PR3
+. The formation of these antibodies has been hypothesised to be due to the following process:
+Exposure of neutrophils to inflammatory cytokinesâ→surface exposure of cryptogenic antigens e.g. MPO and PR3â→predisposing genetic and environmental factorsâ→production of MPO-ANCA and PR3-ANCAâ→react and crosslink neutrophilsâ→neutrophil attachment to vessel endothelial liningâ→release of proteolytic enzymes and oxygen free radicalsâ→vasculitis
+The pathological features characteristic of MPA is a
+necrotising vasculitis of small vessels
+and
+paucity
+of immune deposits in vessel walls.  Depending upon the organ involved this can demonstrate on histology:
+Skin: leukocytoclastic vasculitis
+Lungs: capillaritis with fibrinoid necrosis
+Renal: pauci-immune, necrotising crescentic glomerulonephritis
+The evidence supporting this underlying mechanism demonstrates:
+The majority of patients with MPA (95%) are positive for ANCA directed against MPO (70%) and PR3 (30%)
+Titres of ANCA often rise preceding disease activity
+In vitro studies demonstrate reactive oxygen species and lytic enzyme release from neutrophils secondary to MPO and PR3-ANCA activation
+Improve
+Clinical features
+As a condition that can affect multiple organ systems, MPA can initially present with a myriad of different signs and symptoms. Typically the first clinical symptoms of MPA in patients are:
+Constitutional symptoms
+(61%): fever, weight loss, asthenia
+Musculoskeletal symptoms
+(31-42%): myalgia, arthralgia
+Neurological symptoms
+(17%): peripheral neuropathy, convulsions, cerebral haemorrhage or infarction
+Cutaneous involvement (14%): palpable purpura, splinter haemorrhages, nodules, livedo reticularis, ulcers
+Night sweats (11%)
+Cardiac symptoms (8%): arrhythmia, heart failure, pericarditis, myocardial infarction
+Headache and/or temporal arteritis (8%)
+Raynaud's phenomenon (8%)
+Gastrointestinal symptoms (3%): abdominal pain, diarrhoea, GI bleeding
+As the condition progresses, it will typically manifest in the following organ systems:
+Renal
+(80-100%): proteinuria, microscopic haematuria,
+rapidly progressive glomerulonephritis
+Neurological
+(37-72%)
+Musculoskeletal
+(40-65%)
+Dermatological (30-60%)
+Gastrointestinal (30-58%)
+Respiratory (25-55%): haemoptysis,
+pulmonary haemorrhage
+, pleural effusion, oedema
+Cardiovascular (3-6%)
+Improve
+Investigations
+In the literature, most authors define MPA based upon the
+2012 Chapel Hill Consensus Conference Nomenclature of Vasculitides
+definition of a:
+Necrotising vasculitis with few or no immune deposits
+Involving small vessels
+Necrotising glomerulonephritis commonly occurs
+Pulmonary capillaritis often present
+However, despite this, no formal classification criteria have been validated. A proposed algorithm by Watts et al in 2007 attempting to classify ANCA-associated vasculitides (AAV) including MPA, was subsequently adopted by the European Medicines Agency (EMA):
+Clinical features and histology compatible with small vessel vasculitis
+or
+Surrogate markers of renal vasculitis and positive serology for proteinase 3 (PR3) or myeloperoxidase (MPO)
+and
+No
+granulomatosis with polyangiitis
+(GPA) surrogate markers
+Given the broad range of nonspecific symptoms, MPA patient's typically present with, first-line investigations that would be performed in primary care include:
+Urinalysis and urine protein:creatinine ratio
+If findings suggest renal involvement, urgent referral to
+nephrology
+Bloods
+FBC: exclude lymphoproliferative disorders
+LFT: raised LFTs could suggest systemic involvement or hepatitis
+U+E's: may demonstrate renal insufficiency
+CRP and ESR: may be raised in MPA
+Chest x-ray
+If MPA is suspected, an urgent referral is required to secondary care due to the potentially rapidly progressive nature of the condition. This would be to the most appropriate team, depending upon the organ involvement. Further investigations carried out in secondary care include:
+ANA, rheumatoid factor: this may indicate a connective tissue disease
+Cryoglobulins: can indicate underlying connective tissue disease, vasculitis or autoimmune aetiology
+P-ANCA: MPO or PR3 specific
+Biopsy: usually renal, pulmonary or skin depending on organ involvement
+Improve
+Differential diagnosis
+A large number of conditions may mimic MPA including other AAV diagnoses. The most common that require exclusion include:
+Polyarteritis nodosa
+:
+Similarities: mostly identical presenting signs and symptoms
+Differences:
+usually no lung involvement
+, strong link with Hepatitis B, only involves small to medium arteries (not venules or capillaries)
+Granulomatosis with polyangiitis
+:
+Similarities: mostly identical presenting signs and symptoms
+Differences:
+predominantly ear, nose and throat symptoms
+, granuloma formation, associated with c-ANCA
+Eosinophilic granulomatosis with polyangiitis
+(Churg-Strauss):
+Similarities: constitutional symptoms, night sweat's, abdominal pain, neuropathy
+Differences:
+presence of asthma/allergic rhinitis
+, eosinophilia, paranasal sinus involvement, extravascular eosinophils seen on histology
+Henoch-Schonlein purpura:
+Similarities: purpuric rash, arthralgia, abdominal pain, proteinuria
+Differences: more common in children,
+IgA deposits
+Cryoglobulinaemic vasculitis:
+Similarities: Mostly identical signs and symptoms
+Differences: association with Hepatitis C,
+cold precipitable immune complexes (IgG and IgA) on histology
+Goodpasture syndrome:
+Similarities: constitutional symptoms, arthralgia, proteinuria, cough, haemoptysis
+Differences:
+anti-GBM antibody-positive biopsy
+, no cutaneous or neurological manifestations
+Improve
+Management
+The treatment of MPA is guided by the severity of the disease, the rate of progression, and organ involvement. The goal of treatment is to prevent organ damage through the use of immunosuppressants. In 2014, The British Society for Rheumatology (BSR) and British Health Professionals for Rheumatology (BHPR) developed guidelines that laid out a treatment strategy for the management of AAV, including MPA. This is approached in 3 phases: induction, maintenance, and treatment of relapse.
+Induction
+Initial treatment provided is grouped according to patients with severe disease, non-severe disease, and refractory disease:
+Severe
+1st line: cyclophosphamide (CYC) with high dose steroids. Therapy is continued for 3-6 months then switched to less toxic maintenance once remission achieved
+Adjunct plasma exchange in patients with severe renal failure (creatinine >500 µmol/l) or life-threatening manifestations
+Non-severe
+High dose steroids with either methotrexate (MTX)
+or
+mycophenolate mofetil (MMF)
+Refractory
+All patients should be referred to a vasculitis centre
+1st line: rituximab (RTX) in patients who have already received CYC
+If rituximab is unavailable: IV immunoglobulin or switch from IV to oral CYC
+Maintenance
+Once remission is achieved (complete absence of clinical disease activity, including vasculitic manifestations), maintenance therapy is initiated:
+1st line: low dose steroids with azathioprine (AZA)
+or
+MTX
+If patients refractory to AZA and MTX or contraindications to use: MMF or leflunomide
+At least 24 months of therapy recommended
+If in remission for 1 year on maintenance therapy, tapering of steroid dose can occur
+Following steroid withdrawal, immunosuppression may be tapered after 6 months
+Treatment of relapse
+This is determined according to whether patients have a severe or non-severe relapse.
+Severe
+1st line: high dose steroids and RTX or CYC
+Rituximab in ANCA-Associated Vasculitis (RAVE) trial found RTX was superior to CYC at 6 and 12 months, but no significant difference at 18 months.
+Addition of IV methylprednisolone or plasma exchange
+Increase steroid dose if patients have received 2nd dose of CYC
+Non-severe
+1st line: increase steroid dose and increase or change maintenance immunosuppressive therapy
+Improve
+Complications
+The complications of MPA depend upon the particular organ system involved during the disease process:
+Urological
+End-stage renal failure (ESRF): occurs in 28% of patients with a mortality of ~50%
+Bladder cancer: a complication of
+cyclophosphamide treatment
+: 5% risk after 10 years and 16% risk after 15 years.
+Pulmonary
+Alveolar haemorrhage: patients have a
+nine-fold increased risk of mortality
+and a higher risk of relapse
+Pulmonary fibrosis
+Pulmonary artery aneurysm
+Panbronchiolitis
+Gastrointestinal
+Colonic ulceration
+Bowel ischaemia
+Perforation
+Neurological
+Cerebral haemorrhage
+Meningitis
+Non-haemorrhagic infarction
+Cardiovascular
+Cardiomyopathy
+Heart failure
+Cardiovascular event (MI, stroke, pulmonary embolus): long term follow up of patients in the European Vasculitis Study Group (EUVAS) trials of WG and MPA found within 5 years of diagnosis, 14% of patients experienced a cardiovascular event
+Cutaneous
+Non-melanoma skin cancer
+Haematological
+Leukaemia
+Improve
+Prognosis
+The outcome of MPA depends on the severity of the condition. Without treatment mortality rate is 90% after 1 year. Aggressive immunosuppressive treatment with CYC and steroids has demonstrated patient survival at 1 and 5 years of 82% and 76% respectively. Relapses occur in around 35% of patients.
+The main predictors of poor outcome associated with MPA are:
+Advanced renal failure
+Predictors for ESRF: serum creatinine at presentation, African American race and arterial sclerosis on renal biopsy
+Older age
+Higher disease activity
+High WBC and low haemoglobin
+The major factors involved in deaths occurring during the 1st year include:
+Insufficient treatment response
+Infection
+After the first year, major causes of death are:
+Cardiovascular disease
+Malignancy
+Infection
+Improve
+ANCA associated vasculitis
+Microscopic polyangiitis

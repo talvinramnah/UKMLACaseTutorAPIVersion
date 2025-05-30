@@ -1,0 +1,135 @@
+Wernicke's encephalopathy
+Wernicke's encephalopathy
+Wernicke's encephalopathy (WE) is a condition of acute
+thiamine (vitamin B1) deficiency
+classically producing a triad of ophthalmoplegia, fluctuant mental state (
+confusion
+) and
+ataxia
+. Urgent treatment with thiamine replacement is essential if Wernicke's is suspected due to the rapid progression of irreversible neurological damage.
+It is most commonly associated with chronic alcoholics but can also occur secondary to other causes of malnutrition such as hyperemesis and diarrhoea.
+Last updated: 28
+th
+August 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 1.7:1
+Condition
+Relative
+incidence
+Wernicke's encephalopathy
+1
+Alcohol withdrawal
+0.50
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+- The most common aetiology of WE is
+alcohol abuse
+. The high carbohydrate load leads to a high thiamine requirement and as alcohol abuse is often associated with a poor and restricted diet, insufficient thiamine is received orally. The result is a net thiamine deficit. As thiamine reserves are usually sufficient only for 2-3 weeks of use, even short term alcohol abuse can lead to WE.
+Reduced absorption of thiamine
+can lead to thiamine deficiency. This may be for reasons such as-
+Fasting
+Severe diarrhoea
+Bariatric surgery
+Hyperemesis (often hyperemesis gravidarum).
+Increased metabolic requirements
+may be relevant in the case of febrile illnesses, for example.
+Improve
+Pathophysiology
+-
+Thiamine is essential in the metabolisis of carbohydrates
+and lipids due to its role in the Krebs cycle as a coenzyme. As the neural cells rely on glucose metabolism for their calorific requirements, a deficiency of thiamine and the resultant slowdown of glucose metabolism causes oxidative stress and mitochondrial dysfunction.
+Localised areas of low pH due to lactic acidosis secondary to metabolic dysfunction further damage neural tissue.
+Thiamine deficiency is also associated with deranged glutamate transport and resultant neural excitotoxicity.
+These
+neurotoxic effects are maximal in the areas of the brain that require the highest turnover of glucose
+and so have the highest thiamine demands. WE, therefore, leads to a symmetrical pattern of neural damage to areas such as the mamillary body and areas of the brainstem associated with the cranial nerve III, IV, VI, VIII and X nuclei.
+The characteristic pattern of damage produces the characteristic triad of symptoms.
+Damage to the cranial nerve nuclei controlling the ocular muscles produces ophthalmoplegia,  damage to the cerebellar vermis and motor cortical tracts produces
+ataxia
+, and the diffuse nature of the damage leads to variable changes in mental state.
+Improve
+Clinical features
+The classical triad associated with Wernicke's Encephalopathy of
+confusion
+, ophthalmoplegia and
+ataxia
+is not always seen. The following describes the more common features.
+Neurological Symptoms
+Ophthalmoplegia:
+Unilateral or bilateral dysfunction of eye movement is a classical feature, often affecting the lateral rectus and medial rectus muscles.
+Nystagmus
+:
+Horizontal, vertical, or rotary nystagmus may be observed, often exacerbated by lateral gaze.
+Ataxia:
+Particularly truncal ataxia, which manifests as an unsteady gait and difficulties in maintaining an upright posture. Limb ataxia can also be present but is generally less prominent.
+Cognitive and Psychiatric Symptoms
+Confusion:
+This is often one of the first noticeable symptoms. Patients may appear disoriented, unable to concentrate, or have difficulty following conversations.
+Memory Deficits:
+Both anterograde and retrograde amnesia may be present, and in severe cases, this could progress to Korsakoff's syndrome.
+Apathy or Agitation:
+Emotional changes including apathy, indifference, or even agitation and combativeness can occur.
+Other Clinical Features
+Hypothermia:
+Although not commonly discussed, hypothermia is a known complication and can be severe in some cases.
+Altered Consciousness:
+Severe deficiency can lead to coma, and potentially death, if not treated promptly.
+Gastrointestinal Symptoms:
+These are not specific but can include nausea, vomiting, and abdominal pain, often preceding the neurological symptoms.
+Tachycardia
+Improve
+Investigations
+- Due to the often stereotypical presentation, profound risk of harm through delayed treatment and the low risk associated with thiamine infusion, Wernicke's is nearly always
+diagnosed clinically
+on the presence of one or more of the classical triad features in the context of a relevant history, and not on investigation findings.
+Serum thiamine is available for rare cases where clinical findings alone are insufficient for diagnosis.
+However, a normal serum thiamine result does not rule out WE due to the possibility of a cellular transportation pathology causing low intra-cellular thiamine levels.
+Improve
+Differential diagnosis
+WE may be confused with other pathologies that can cause a relatively rapid change in neurological function.
+Delirium tremens (DT)
+DT occurs in a similar population as WE and is associated with rapid onset
+confusion
+, shaking which may be confused with
+ataxia
+, and tachycardia.
+DT is associated with hyperthermia rather than hypothermia, however, and is usually associated with a history of having significantly reduced alcohol intake in the prior 5 days.
+High doses of parenteral thiamine are rapidly administered to both DT and WE patients so precise discrimination is not always required.
+Hepatic encephalopathy (HE)
+HE also occurs in a similar population to WE and can lead to similar mental state changes.
+Stroke
+Stroke can lead to a large variety of rapidly occurring neurological changes and is a relatively common condition. Neurological imaging would be essential if suspected.
+Normal-pressure hydrocephalus
+Normal-pressure hydrocephalus presents with Hakim's triad of mental state changes, gait instability and urinary incontinence, highly similar to the triad of mental state changes, ataxia and ocular movement abnormalities associated with WE.
+However normal pressure hydrocephalus is also associated with a more gradual onset over many months, and highly typical MRI and CT findings.
+It must be remembered that
+if a diagnosis of WE is reasonably indicated, parenteral thiamine therapy must be urgently initiated due to the high index of suspicion
+for WE.
+Improve
+Management
+- WE is managed through
+urgent administration of parenteral (not oral) thiamine for a minimum of 5 days
+.
+Oral treatment should follow parenteral treatment.
+Care must be taken when administering glucose to those suspected of exhibiting WE as glucose metabolism requires thiamine and such metabolisis will further reduce thiamine levels.
+Thiamine must be administered before or concurrently with any glucose administration
+.
+Improve
+Prognosis
+- Prognosis is highly dependent on the rapidity of thiamine administration.
+Rapid and effective administration may lead to the recovery of function over the following day, with complete recovery of function over the following weeks and an absence of long term consequences.
+In the absence of treatment, the mortality rate is up to 20%, the majority of the survivors developing Korsakoff psychosis and progressing to Wernicke-Korsakoff syndrome.
+Improve
+Neurology
+Wernicke's encephalopathy

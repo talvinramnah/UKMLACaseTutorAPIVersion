@@ -1,0 +1,80 @@
+Delayed puberty
+Delayed puberty
+Delayed puberty is a condition characterised by the absence of physical or hormonal signs of
+pubertal development
+at an age that is beyond the usual range for sexual maturation. In boys, it's typically defined as no testicular enlargement by 14 years of age, whereas in girls, it's often determined by the lack of breast development by 13 years. This condition can be caused by various factors including constitutional delay, hypogonadotropic hypogonadism and hypergonadotropic hypogonadism. Constitutional delay, a familial tendency towards late puberty onset, is the most common cause. Hypogonadotropic hypogonadism involves insufficient gonadal stimulating hormone production from the pituitary gland while hypergonadotropic hypogonadism indicates primary gonadal failure. A comprehensive history and examination are crucial in identifying potential underlying causes such as chronic systemic diseases or eating disorders. Investigations may include hormone level tests and imaging studies.
+Last updated: 24
+th
+July 2024
+Investigations
+The investigation of delayed puberty involves a structured approach to identify underlying causes and guide appropriate management. Initial investigations should focus on first-line tests, followed by more specific assessments if necessary.
+First-Line Investigations
+Bone Age Assessment:
+A radiograph of the left hand and wrist is typically performed to evaluate skeletal maturity. Bone age significantly behind chronological age may indicate constitutional delay of growth and puberty (CDGP).
+Serum Gonadotropins:
+Measurement of luteinising hormone (LH) and follicle-stimulating hormone (FSH) levels can distinguish between hypogonadotropic hypogonadism (low or normal LH/FSH) and hypergonadotropic hypogonadism (elevated LH/FSH).
+Sex Steroid Levels:
+Serum testosterone in males or estradiol in females helps assess gonadal function. Low levels are indicative of delayed puberty.
+Thyroid Function Tests:
+Evaluate thyroid-stimulating hormone (TSH) and free thyroxine (T4) to rule out hypothyroidism, which can contribute to delayed puberty.
+Karyotype Analysis:
+Particularly indicated in females with primary amenorrhoea, to diagnose conditions such as Turner syndrome.
+If initial investigations indicate an abnormality or if the diagnosis remains unclear, further investigations may be warranted.
+Further Investigations
+Pituitary Function Tests:
+Assess other pituitary hormones including adrenocorticotropic hormone (ACTH), growth hormone (GH), prolactin, and cortisol levels to evaluate for panhypopituitarism or isolated deficiencies.
+MRI Brain/Pituitary:
+Indicated if central causes such as a pituitary tumour or structural abnormalities are suspected based on clinical findings or hormonal assays.
+Kallmann Syndrome
+: Genetic testing for mutations in genes associated with this condition should be considered if anosmia is present alongside hypogonadotropic hypogonadism.
+Celiac Disease
+: Serological testing for tissue transglutaminase antibodies may be necessary in cases where malabsorption syndromes are suspected contributors to delayed puberty.
+Certain conditions can often be diagnosed without extensive investigations based on clinical presentation alone. For instance, CDGP is frequently identified through history, physical examination, bone age assessment, and familial patterns without requiring advanced diagnostics. Conversely, conditions like Turner syndrome usually necessitate karyotype analysis for definitive diagnosis.
+Improve
+Management
+Management of delayed puberty in both males and females involves a stepwise approach, starting with establishing the cause, followed by specific treatment based on the underlying etiology. Clinical judgement and individual patient characteristics should guide the treatment plan.
+Determining the Underlying Cause
+Initial investigations should include a detailed history, physical examination, bone age assessment (wrist X-ray), and laboratory tests including full blood count, renal function test, liver function test, thyroid function test, prolactin level, FSH/LH level and oestradiol/testosterone level.
+If primary hypogonadism is suspected based on elevated gonadotropin levels (FSH/LH), consider further investigations such as karyotyping for Turner or Klinefelter syndrome or autoimmune screening for polyglandular autoimmune syndrome.
+If secondary hypogonadism is suspected based on low gonadotropin levels (FSH/LH), evaluate for hypothalamic-pituitary causes including structural abnormalities (MRI brain) or systemic illnesses.
+Specific Management Strategies
+In constitutional delay of growth and puberty (CDGP), reassurance about late development often suffices. Consider short-term sex steroid treatment to induce puberty if psychosocial distress is significant. Use oral testosterone in boys and ethinylestradiol in girls for a limited period (6-12 months).
+In cases of hypogonadotropic hypogonadism due to functional suppression of the hypothalamic-pituitary-gonadal axis (as seen in systemic illness or eating disorders), management should be directed at treating the underlying condition.
+In cases of permanent hypogonadotropic hypogonadism due to structural hypothalamic/pituitary disease or genetic defects, long-term sex steroid replacement is necessary to induce and maintain secondary sexual characteristics. In males, testosterone can be used; in females, a combination of oestrogen and progesterone.
+In primary gonadal failure (hypergonadotropic hypogonadism), lifelong sex steroid replacement therapy is required for induction of puberty and maintenance of secondary sexual characteristics. Consider additional measures such as growth hormone therapy in Turner syndrome or calcium and vitamin D supplementation in cases with increased risk of osteoporosis.
+Referral to Specialist Services
+Refer to
+paediatric endocrinology
+if initial investigations are abnormal or if there's no
+pubertal development
+within a year of observation.
+Consider referral to psychological services for support if there's significant psychosocial distress associated with delayed puberty.
+Note that the ultimate goal is not only the induction of puberty but also ensuring normal adult height, optimising bone health and fertility potential where possible.
+Improve
+Complications
+The complications of delayed puberty can range from psychological distress to potential physical health issues. Understanding these complications is essential for appropriate management and patient counselling.
+Psychological Distress
+Increased risk of
+depression
+and
+anxiety disorders
+: Adolescents with delayed puberty may experience feelings of isolation, low self-esteem, and body image issues due to their perceived physical differences from peers.
+Social dysfunction:
+The psychosocial impact can extend into adulthood, affecting interpersonal relationships and overall quality of life.
+Growth Abnormalities
+Short stature:
+Delayed puberty can result in a shorter adult height due to prolonged prepubertal growth without the expected pubertal growth spurt.
+Eunuchoid proportions:
+The delay in epiphyseal closure may result in disproportionately long limbs compared to the torso, a characteristic feature of hypogonadism.
+Bone Health Issues
+Osteoporosis:
+Puberty is a critical period for bone mass accrual. Delayed onset can lead to decreased peak bone mass and increased risk of osteoporosis later in life.
+Fertility Issues
+Hypogonadism:
+Persistent delay may be indicative of hypogonadotropic or hypergonadotropic hypogonadism, both potentially leading to impaired fertility.
+Late-Onset Chronic Conditions
+The delay may be an early sign of conditions that manifest later in life such as Turner syndrome, Klinefelter syndrome, or congenital adrenal hyperplasia. These conditions carry their own set of potential complications.
+It is important to differentiate between constitutional delay of growth and puberty (CDGP) - which is a variant of normal development - and pathological causes of delayed puberty. Appropriate investigations, including hormonal assays and imaging, may be required to establish the cause.
+Improve
+Paediatric endocrinology
+Delayed puberty

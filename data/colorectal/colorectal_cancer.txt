@@ -1,0 +1,261 @@
+Colorectal cancer
+Colorectal cancer
+Colorectal
+cancer
+, a malignant tumour of the colon or rectum, is a significant health concern globally. Its pathogenesis primarily involves the adenoma-carcinoma sequence, with genetic alterations including
+APC
+,
+KRAS
+and
+p53
+mutations. Risk factors include age over 50, familial history, inflammatory bowel disease (IBD), diet high in red and processed meats and low in fibre, obesity, smoking and alcohol consumption. Clinical manifestations range from asymptomatic to non-specific symptoms like
+abdominal pain
+,
+weight loss
+or altered bowel habits. More specific signs include
+rectal bleeding
+or
+anaemia
+due to occult blood loss.
+The gold standard for diagnosis is colonoscopy with biopsy. Staging utilises the TNM system; computed tomography (CT) scan of the chest, abdomen and pelvis provides further detail. Management depends on stage; options encompass surgery, chemotherapy and radiotherapy. In certain cases of metastatic disease, targeted therapies such as anti-EGFR or VEGF antibodies may be employed.
+Last updated: 16
+th
+November 2023
+Epidemiology
+Incidence: 64.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 1.3:1
+Condition
+Relative
+incidence
+Diverticulitis
+3.91
+Colorectal
+cancer
+1
+Crohn's disease
+0.17
+Ulcerative colitis
+0.16
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Location
+Location of
+cancer
+(averages)
+rectal: 40%
+sigmoid: 30%
+descending colon: 5%
+transverse colon: 10%
+ascending colon and caecum: 15%
+Genetics
+It is currently thought there are three types of colon cancer:
+sporadic (95%)
+hereditary non-polyposis colorectal carcinoma (HNPCC, 5%)
+familial adenomatous polyposis (FAP, <1%)
+Studies have shown that sporadic colon cancer may be due to a series of genetic mutations. For example, more than half of colon cancers show allelic loss of the APC gene. It is believed a further series of gene abnormalities e.g. activation of the K-ras oncogene, deletion of p53 and DCC tumour suppressor genes lead to invasive carcinoma
+HNPCC, an autosomal dominant condition, is the most common form of inherited colon cancer. Around 90% of patients develop cancers, often of the proximal colon, which are usually poorly differentiated and highly aggressive. Currently seven mutations have been identified, which affect genes involved in DNA mismatch repair leading to microsatellite instability. The most common genes involved are:
+MSH2 (60% of cases)
+MLH1 (30%)
+Patients with HNPCC are also at a higher risk of other cancers, with endometrial cancer being the next most common association, after colon cancer.
+The Amsterdam criteria are sometimes used to aid diagnosis:
+at least 3 family members with colon cancer
+the cases span at least two generations
+at least one case diagnosed before the age of 50 years
+FAP is a rare
+autosomal dominant
+condition which leads to the formation of hundreds of polyps by the age of 30-40 years. Patients inevitably develop carcinoma. It is due to a mutation in a tumour suppressor gene called
+adenomatous polyposis coli gene (APC)
+, located on chromosome 5. Genetic testing can be done by analysing DNA from a patient's white blood cells. Patients generally have a total colectomy with ileo-anal pouch formation in their twenties.
+Patients with FAP are also at risk from duodenal tumours. A variant of FAP called Gardner's syndrome can also feature osteomas of the skull and mandible, retinal pigmentation, thyroid carcinoma and epidermoid cysts on the skin
+Improve
+Clinical features
+Presenting features of colorectal
+cancer
+include:
+Change in bowel habits:
+Patients with colorectal cancer may experience a change in their bowel habits, such as constipation,
+diarrhoea
+, or alternating between the two. They may also feel the need to have a bowel movement more frequently than usual.
+Rectal bleeding
+:
+Blood in the stool or rectal bleeding is a common symptom of colorectal cancer. The blood may be bright red or melena.
+Abdominal pain
+and discomfort:
+Patients with colorectal cancer may experience abdominal pain, cramping, or discomfort. This may be due to the tumour obstructing the bowel or causing inflammation.
+Unexplained
+weight loss
+:
+Patients with colorectal cancer may experience unexplained weight loss, which can be a sign of advanced disease.
+Anaemia
+:
+Chronic bleeding from the tumour can lead to anaemia, which can cause
+fatigue
+, weakness, and shortness of breath.
+Bowel obstruction:
+In advanced cases, the tumour can completely obstruct the bowel, causing severe abdominal pain, nausea, and vomiting.
+Improve
+Referral criteria
+NICE updated their referral guidelines in 2023 to make increased use of Faecal Immunochemical Test (FIT) testing, instead of always doing a colonoscopy first-line.
+NICE recommend a FIT is used to guide referral in the following scenarios:
+with an
+abdominal mass
+, or
+with a
+change in bowel habit
+, or
+with iron-deficiency
+anaemia
+, or
+aged 40 and over with unexplained
+weight loss
+and
+abdominal pain
+, or
+aged under 50 with
+rectal bleeding
+and either of the following unexplained symptoms:
+abdominal pain
+weight loss, or
+aged 50 and over with any of the following unexplained symptoms:
+rectal bleeding
+abdominal pain
+weight loss, or
+aged 60 and over with anaemia even in the absence of iron deficiency.
+Important points
+FIT testing should be offered even if the person has previously had a negative FIT result through the NHS bowel
+cancer
+screening programme.
+people with a rectal mass, an unexplained anal mass or unexplained anal ulceration do not need to be offered FIT before referral is considered.
+Results of FIT test:
+positive: patient should be referred on the suspected cancer pathway referral
+negative:
+safety netting
+NICE recommend referring on suspected cancer pathway if ongoing significant concern (e.g. abdominal mass)
+whilst not mentioned specifically in the guidance, it is clearly important to continue to investigate the symptoms and reach a definitive diagnosis
+NHS screening
+The NHS has a national screening programme offering screening every 2 years to all men and women aged 60 to 74 years in England, 50 to 74 years in Scotland.
+Patients aged over 74 years may request screening
+eligible patients are sent Faecal Immunochemical Test (FIT) tests through the post
+a type of faecal occult blood (FOB) test which uses antibodies that specifically recognise human haemoglobin (Hb)
+used to detect, and can quantify, the amount of human blood in a single stool sample
+patients with abnormal results are offered a colonoscopy
+The
+FIT test is also recommended for patients with new symptoms who do not meet the 2-week criteria
+listed above, for example:
+patients >= 50 years with unexplained abdominal pain
+OR
+weight loss
+patients < 60 years with changes in their bowel habit
+OR
+iron deficiency anaemia
+patients >= 60 years who have anaemia even in the absence of iron deficiency
+Improve
+Management
+Management strategies depend on the tumour's location, stage, histological type, and the patient's overall health status.
+Staging
+All patients with newly diagnosed colorectal
+cancer
+should have the following for staging:
+carcinoembryonic antigen
+(
+CEA
+)
+CT of the chest, abdomen and pelvis
+their entire colon should have been evaluated with colonoscopy or CT colonography
+patients whose tumours lie below the peritoneal reflection should have their mesorectum evaluated with MRI.
+The TNM (Tumour, Node, Metastasis) staging system is commonly used to stage CRC, aiding in prognosis and treatment planning. Once their staging is complete patients should be discussed within a dedicated colorectal MDT meeting and a treatment plan formulated.
+Treatment of colonic cancer
+Surgery
+Cancer of the colon is nearly always treated with surgery
+Resectional surgery is the only option for cure in patients with colon cancer.
+The procedure is tailored to the patient and the tumour location as detailed below
+Some patients may have confounding factors that will govern the choice of procedure, for example a tumour in a patient from a HNPCC family may be better served with a panproctocolectomy rather than segmental resection.
+Anastomosis
+Following resection the decision has to be made regarding restoration of continuity.
+For an anastomosis to heal the key technical factors include; adequate blood supply, mucosal apposition and no tissue tension
+Obstruction
+When a colonic cancer presents with an obstructing lesion; the options are to either stent it or resect
+In modern practice it is unusual to simply defunction a colonic tumour with a proximal loop stoma. This differs from the situation in the rectum (see below).
+The operations for cancer are segmental resections based on blood supply and lymphatic drainage:
+Site of cancer
+Type of resection
+Anastomosis
+Caecal, ascending or proximal transverse colon
+Right hemicolectomy
+Ileo-colic
+Distal transverse, descending colon
+Left hemicolectomy
+Colo-colon
+Sigmoid colon
+High anterior resection
+Colo-rectal
+Upper rectum
+Anterior resection (TME)
+Colo-rectal
+Low rectum
+Anterior resection (Low TME)
+Colo-rectal
+(+/- Defunctioning stoma)
+Anal verge
+Abdomino-perineal excision of rectum
+None
+Chemotherapy
+Used in the neoadjuvant setting (particularly for rectal cancers), adjuvant setting, and for metastatic disease
+Common regimens include FOLFOX and FOLFIRI.
+Radiation Therapy
+Predominantly used for rectal cancers in the neoadjuvant or adjuvant setting.
+Targeted Therapies
+Bevacizumab (anti-VEGF) and Cetuximab (anti-EGFR), particularly for metastatic disease
+Emergency surgery
+In the emergency setting where the bowel has perforated the risk of an anastomosis is much greater, particularly when the anastomosis is colon-colon. In this situation, an end colostomy is often safer and can be reversed later. When resection of the sigmoid colon is performed and an end colostomy is fashioned the operation is referred to as a Hartmann's procedure. Whilst left-sided resections are more risky, ileo-colic anastomoses are relatively safe even in the emergency setting and do not need to be defunctioned.
+Improve
+Screening and prevention
+Overview
+most cancers develop from adenomatous polyps. Screening for colorectal
+cancer
+has been shown to reduce mortality by 16%
+the NHS offers home-based,
+Faecal Immunochemical Test (FIT)
+screening to older adults
+another type of screening is also being rolled out - a
+one-off flexible sigmoidoscopy
+Faecal Immunochemical Test (FIT) screening
+Key points
+the NHS now has a national screening programme offering screening every 2 years to all men and women aged 60 to 74 years in England, 50 to 74 years in Scotland. Patients aged over 74 years may request screening
+eligible patients are sent Faecal Immunochemical Test (FIT) tests through the post
+a type of faecal occult blood (FOB) test which uses antibodies that specifically recognise human haemoglobin (Hb)
+used to detect, and can quantify, the amount of human blood in a single stool sample
+advantages over conventional FOB tests is that it only detects human haemoglobin, as opposed to animal haemoglobin ingested through diet
+only one faecal sample is needed compared to the 2-3 for conventional FOB tests
+whilst a numerical value is generated, this is not reported to the patient or GP, who will instead be informed if the test is normal or abnormal
+patients with abnormal results are offered a colonoscopy
+At colonoscopy, approximately:
+5 out of 10 patients will have a normal exam
+4 out of 10 patients will be found to have polyps which may be removed due to their premalignant potential
+1 out of 10 patients will be found to have cancer
+Flexible sigmoidoscopy screening
+Key points
+screening for bowel cancer using sigmoidoscopy is being rolled out as part of the NHS screening program
+the aim (other than to detect asymptomatic cancers) is to allow the detection and treatment of polyps, reducing the future risk of colorectal cancer
+this is being offered to people who are 55-years-old
+NHS patient information leaflets refer to this as 'bowel scope screening'
+patients can self-refer for bowel screening with sigmoidoscopy up to the age of 60, if the offer of routine one-off screening at age 55 had not been taken up
+Improve
+References
+NICE - Cancer referral guidelines
+Royal College of Physicians - 2012 Gastrointestinal oncology - what you need to know
+Gut - Surveillance guidelines after removal of colorectal adenomatous polyps
+Royal College of Physicians - 2012 Colonic polyps and an update on the bowel cancer screening programme
+NHS - Bowel Cancer Screening Programme
+Cancer
+Colorectal cancer

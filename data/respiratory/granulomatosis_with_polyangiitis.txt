@@ -1,0 +1,252 @@
+Granulomatosis with polyangiitis
+Granulomatosis with polyangiitis
+Granulomatosis with polyangiitis (GPA, formerly known as Wegener's granulomatosis) is an antineutrophil cytoplasmic antibody (ANCA)-associated systemic vasculitis, typically affecting small and medium sized blood vessels.
+The other two ANCA-associated systemic vasculitides are
+eosinophilic granulomatosis with polyangiitis
+(formerly known as Churg-Strauss syndrome) and
+microscopic polyangiitis
+.
+GPA is a rare condition, with an annual incidence rate of 2.1-14.4 per million in Europe. Is thought to have an autoimmune aetiology, and causes blood vessel inflammation and necrosis which can be organ- and life- threatening as a result of stenosis, occlusion or aneurysm formation.
+GPA can affect any organ, but classically involves a triad of upper- and lower-
+respiratory
+tract symptoms and glomerulonephritis.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Polyarteritis nodosa
+3.00
+Granulomatosis with polyangiitis
+1
+Eosinophilic granulomatosis with polyangiitis
+0.20
+Goodpasture's syndrome
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Granulomatosis with polyangiitis (GPA), formerly known as Wegener's granulomatosis, is a rare systemic vasculitis characterised by necrotizing granulomas and vasculitis of small to medium-sized vessels. The exact cause of GPA remains unknown, but it is thought to result from an abnormal immune response triggered by environmental and genetic factors.
+Genetic Factors
+While there are no specific genes identified as causative for GPA, there is evidence suggesting a genetic predisposition. Studies have shown an association between GPA and certain HLA (human leukocyte antigen) types, particularly
+HLA-DP
+and
+HLA-B
+.
+The presence of Proteinase 3-ANCA (PR3-ANCA) antibodies is highly associated with the disease. PR3-ANCA antibodies target proteinase 3, a neutrophil serine protease found in cytoplasmic granules. However, not all individuals with these antibodies develop GPA, indicating that additional factors are involved.
+Environmental Factors
+Certain environmental triggers have been implicated in the onset of GPA. These include exposure to silica dust, which has been linked to an increased risk of developing the disease.
+Infections may also play a role in triggering GPA. Both bacterial and viral infections have been proposed as potential triggers, including
+Staphylococcus aureus
+, which has been frequently isolated from the upper
+respiratory
+tract of patients with active disease.
+Tobacco smoking has also been suggested as a potential risk factor for developing GPA.
+Hormonal Factors
+There is some evidence to suggest a role for hormonal factors in the onset of GPA. The disease is more common in men than women, and typically presents in middle age. However, the exact nature of this association remains unclear.
+Improve
+Pathophysiology
+Granulomatosis with polyangiitis (GPA) is an immune-mediated disease which involves a complex immune response to endothelial damage and inflammation.
+GPA is an anti-neutrophil cytoplasmic antibody (ANCA) associated vasculitis, along with
+microscopic polyangiitis
+(MP) and
+eosinophilic granulomatosis with polyangiitis
+(EGPA).
+ANCA is produced by B-cell activation in response to a trigger (likely autoimmune but environmental, infectious, and genetic triggers have also been suggested).
+ANCA is divided into cytoplasmic ANCA (cANCA) and perinuclear ANCA (pANCA).
+C-ANCA and pANCA target certain granule proteins inside neutrophils: myeloperoxidase (MPO) and proteinase 3 (PR3), respectively.
+In patients with GPA, 80-90% are positive for cANCA (autoantibodies against PR3) whilst a minority are positive for pANCA.
+Endothelial damage and inflammation
+It is thought that vascular injury causes recruitment of inflammatory cells to the site, and priming of neutrophils by cytokines causing translocation of MPO and PR3 to the neutrophil membrane.
+These exposed antigens form a complex with ANCA, causing vascular endothelial attachment, degranulation of the neutrophils and further inflammation of the blood vessels due to release of more cytokines.
+Immune-mediated granulomatosis
+ANCA-associated vasculitides also cause T-helper cell mediated granulomatosis.
+Cytokines such as IL-12 and interferon gamma can activate T-helper 1 cells, which promote the cell mediated response by activating monocytes and macrophages.
+These activated monocytes and macrophages are recruited to the area of inflammation in the vessel and form granulomas.
+Improve
+Clinical features
+Granulomatosis with polyangiitis (GPA) can affect people of any age or ethnicity but typically presents in Caucasian, middle-aged adults.
+Patients commonly experience a prodrome of non-specific systemic inflammatory symptoms such as
+fever
+,
+malaise
+, arthralgias and
+weight loss
+. This often precedes the development of more organ-specific symptoms such as rhinosinusitis,
+cough
+,
+dyspnoea
+, hearing loss, purpura, urinary sediment or neurological dysfunction.
+The classic triad of organ involvement includes:
+1) Upper
+respiratory
+tract (90%)
+Sinusitis
+Nasal crusting,
+nasal discharge
+,
+epistaxis
+, nasal septal perforation, saddle nose deformity
+Subglottic stenosis
+May present as hoarseness or stridor.
+Otitis media, hearing loss, ear pain.
+2) Lower respiratory tract (78%)
+Dyspnoea
+Cough
+Pleuritis
+Haemoptysis
+Pulmonary infiltrates or nodules may be seen on imaging
+3) Glomerulonephritis (75%)
+Microscopic haematuria
+Urinary sediment
+Typically causes a pauci-immune rapidly progressive glomerulonephritis (RPGN) leading to chronic kidney disease
+Other common organ manifestations:
+1) Ocular (60%)
+Scleritis/episcleritis
+May present as eye pain, redness and tearing.
+Orbital mass (often as an extension of sinus disease)
+May present as proptosis, diplopia or visual loss.
+2) Cutaneous (50%)
+Skin lesions including leukocytoclastic angiitis (lower extremity purpura and ulceration), petechiae, nodules and vesicles
+3) Neurological (15%)
+Mononeuritis multiplex
+Peripheral sensorimotor polyneuropathy
+Cranial neuropathy
+GPA less commonly involves organ systems such as the gastrointestinal, cardiac, lower genitourinary and endocrine systems.
+Improve
+Investigations
+Investigations
+cANCA positive in > 90%, pANCA positive in 25%
+chest x-ray: wide variety of presentations, including cavitating lesions
+renal biopsy: epithelial crescents in Bowman's capsule
+Improve
+Diagnosis
+The diagnostic criteria of Granulomatosis with polyangiitis (GPA), previously known as Wegener's granulomatosis, requires a comprehensive clinical assessment paired with laboratory investigations. The American College of Rheumatology 1990 criteria for the classification of GPA is widely accepted and utilised in the UK.
+1. Clinical Features:
+Nasal or oral inflammation
+: Chronic sinusitis, nasal membrane ulcerations, or oral ulcers are common presentations.
+Pulmonary abnormalities
+: This may include nodules, fixed infiltrates or cavities observable on chest radiograph.
+Abnormal urinary sediment
+:
+Microscopic haematuria
+or red cell casts indicate renal involvement.
+Granulomatous inflammation
+: Histological changes within the arterial wall or in the perivascular area are indicative. This could be from biopsy of lung, kidney or other affected organ.
+A patient is said to have GPA if at least two of these criteria are met. However, these alone cannot confirm diagnosis due to their lack of specificity and sensitivity. Therefore, additional serological testing is crucial.
+2. Serological Testing:
+An elevated titre of
+anti-neutrophil cytoplasmic antibodies
+(ANCA) supports the diagnosis of GPA. Two types can be detected: cytoplasmic ANCA (c-ANCA) and perinuclear ANCA (p-ANCA). In GPA, c-ANCA with specificity for proteinase 3 (PR3) is more commonly observed.
+3. Imaging:
+Chest radiography or high-resolution computed tomography (HRCT) scanning can reveal pulmonary lesions characteristic of GPA such as nodules, masses, infiltrates, cavities or pleural effusion. Sinus imaging may show chronic sinusitis, a common feature of GPA.
+4. Histopathology:
+The gold standard for diagnosis is histopathological confirmation of necrotising granulomatous inflammation in a biopsy sample from an affected organ, typically the lung or kidney.
+It should be noted that GPA can present with limited or non-specific symptoms making it a challenging diagnosis. Additionally, ANCA-negative GPA exists and requires high clinical suspicion. Therefore, the diagnostic process should involve a combination of clinical assessment, serological testing and imaging studies to increase sensitivity and specificity.
+Improve
+Differential diagnosis
+When considering the differential diagnosis for granulomatosis with polyangiitis (GPA), three alternative diagnoses that often present similarly include
+eosinophilic granulomatosis with polyangiitis
+(EGPA),
+microscopic polyangiitis
+(MPA), and systemic lupus erythematosus (SLE).
+Eosinophilic Granulomatosis with Polyangiitis (EGPA)
+Similar to GPA, EGPA is a small-vessel vasculitis. However, it is characterised by eosinophilia and asthma which are not typical features in GPA.
+The presence of peripheral neuropathy, typically mononeuritis multiplex, can be seen in both conditions but is more common in EGPA.
+Pulmonary involvement is common to both conditions. In EGPA, infiltrates are transient and migratory whereas in GPA they tend to be persistent nodules or masses.
+Renal involvement in EGPA tends to be less severe than in GPA, presenting as mild proteinuria or
+microscopic haematuria
+rather than rapidly progressive glomerulonephritis.
+Microscopic Polyangiitis (MPA)
+Like GPA, MPA involves small vessels but unlike GPA it does not usually involve granulomatous inflammation.
+Pulmonary-renal syndrome may be seen in both conditions. However, upper
+respiratory
+tract symptoms such as sinusitis and otitis media are less common in MPA compared to GPA.
+In contrast to the c-ANCA/PR3 antibodies typically associated with GPA, p-ANCA/MPO antibodies are more frequently observed in MPA.
+Systemic Lupus Erythematosus (SLE)
+SLE is a multisystem autoimmune disease that can mimic GPA due to its potential to affect similar organ systems.
+While both conditions may present with arthralgia, skin lesions and renal involvement, SLE is typically associated with serositis, lymphadenopathy and constitutional symptoms such as
+fever
+and
+weight loss
+. These are less common in GPA.
+The presence of autoantibodies such as ANA and anti-dsDNA is characteristic for SLE but not for GPA. In contrast, c-ANCA/PR3 antibodies are more specific for GPA.
+Improve
+Management
+Granulomatosis with polyangiitis (GPA) can be a life- or organ- threatening disease; untreated GPA has a median survival of 5 months. This highlights the importance of aggressive management and compliance with therapy.
+The management of GPA can broadly be divided into two components: induction of remission, and maintenance of remission.
+Induction of remission
+Initial immunosuppression with a corticosteroid and a second immunosuppressive agent.
+The choice of therapy is determined by the severity of the disease and the threat to organs and life.
+For life/organ-threatening disease:
+First-line therapy:
+Methylprednisolone IV for 3-5 days (followed by oral prednisolone) and cyclophosphamide.
+This therapy is typically given for 3-6 months to induce remission.
+Therapy adjunct: plasmapheresis (in selected patients with severe organ involvement and non-responsive to initial induction therapy).
+Second-line therapy:
+Methylprednisolone IV for 3-5 days (followed by oral prednisolone) and rituximab IV.
+For non-life/organ- threatening disease:
+First-line therapy:
+Methylprednisolone IV for 3-5 days (followed by oral prednisolone) and methotrexate (with folic acid).
+Second-line therapy:
+Oral prednisolone and cyclophosphamide.
+Oral prednisolone and rituximab.
+Maintenance of remission
+First-line therapy:
+Prednisolone and methotrexate (with folic acid).
+Prednisolone and azathioprine.
+Duration of maintenance therapy is usually 2 years following remission, but can vary.
+All therapy options should be complemented with osteoporosis prophylaxis and pneumocystis jiroveci prophylaxis.
+GPA is considered a chronic disease and is predominantly managed in the outpatient setting. Patients attend regular reviews by a range of specialists such as rheumatologists,
+respiratory
+specialists, otolaryngologists, nephrologists, and dermatologists, and maintain regular contact in primary care with their GP. Admission to hospital and/or intensive care is sometimes required as a result of complications of GPA or its treatment, for example in cases of severe infection, sepsis, respiratory failure and renal failure.
+Improve
+Complications
+Granulomatosis with polyangiitis (GPA) can lead to a plethora of complications due to its systemic nature, affecting various organs and systems. The following are the most likely complications:
+Respiratory
+Complications
+Pulmonary haemorrhage: This is one of the most serious complications of GPA, characterised by diffuse alveolar haemorrhage which can rapidly progress to respiratory failure.
+Chronic sinusitis and otitis media: Persistent inflammation of sinuses and middle ear is common, leading to chronic symptoms and potential hearing loss.
+Lung fibrosis: Chronic inflammation may result in pulmonary fibrosis, causing reduced lung function over time.
+Renal Complications
+Rapidly progressive glomerulonephritis: This is a severe form of kidney inflammation that can lead to end-stage renal disease if not promptly treated.
+Nervous System Complications
+Mononeuritis multiplex: This condition, characterised by damage to individual nerves leading to weakness and numbness, is common in GPA.
+Cranial nerve palsies: Inflammation can affect cranial nerves resulting in facial weakness or sensory deficits.
+Ocular Complications
+Scleritis and episcleritis: Inflammatory conditions affecting the white part of the eye, potentially leading to vision impairment.
+Orbital pseudotumour: An inflammatory mass that mimics a tumour can develop around the eye causing pain and visual disturbances.
+In addition to these specific organ-related complications, general systemic effects such as
+fatigue
+,
+weight loss
+and
+fever
+are common in GPA.
+Improve
+Prognosis
+The mortality rate of granulomatosis with polyangiitis (GPA) has improved considerably since the  introduction of immunosuppressive therapies.
+Untreated, GPA has a median survival of 5 months, with a 90% mortality rate within 2 years.
+Since the introduction of effective immunosuppressive therapies, the mortality rate has improved; treatment studies have published variable mortality data, ranging from 5 to 44% mortality at 4 to 10 years.
+75% of those on immunosuppressive therapies achieve remission, however up to half of these patients relapse.
+Considerable morbidity and mortality associated with GPA remains, broadly categorised into:
+Irreversible organ damage relating to active vasculitis before treatment effect or during relapse. E.g. Renal failure,
+respiratory
+failure.
+Complications relating to immunosuppressive therapy. E.g. Infection, malignancy.
+Improve
+ANCA associated vasculitis
+Granulomatosis with polyangiitis

@@ -1,0 +1,417 @@
+Chronic heart failure
+Chronic heart failure
+Chronic heart failure (CHF) is a complex clinical syndrome that results from structural or functional impairment of the heart. It is a major cause of morbidity and mortality worldwide.
+CHF is characterized by symptoms such as
+dyspnoea
+, fatigue, and fluid retention, and is often accompanied by comorbidities such as hypertension, diabetes, and renal dysfunction. Diagnosis and monitoring of CHF is primarily done through the use of echocardiography and NT-proBNP measurements.
+Treatment of CHF involves a multidisciplinary approach, including lifestyle modifications, pharmacotherapy, and device therapy. A number of medication classes such as
+ACE inhibitors
+,
+beta-blockers
+and
+aldosterone antagonists
+have been shown to have prognostic benefits in CHF.
+Last updated: 25
+th
+June 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Chronic heart failure
+1
+Pulmonary arterial hypertension
+0.002
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Chronic heart failure (CHF) is a complex clinical syndrome that can result from any structural or functional cardiac disorder impairing the ability of the ventricle to fill with or eject blood. The aetiology of CHF is multifactorial, encompassing both genetic and environmental factors. The major risk factors and underlying causes are discussed below:
+Cardiovascular Conditions
+Coronary artery disease (CAD)
+: CAD, characterised by atherosclerotic plaque build-up in the coronary arteries, is the most common cause of CHF. The resultant myocardial ischemia and infarction lead to loss of viable myocardium, adversely affecting cardiac function.
+Hypertension
+: Long-standing hypertension leads to left ventricular hypertrophy and diastolic dysfunction, both potent precursors to CHF.
+Valvular heart diseases
+: Conditions such as rheumatic heart disease, mitral regurgitation, aortic stenosis and regurgitation can lead to CHF by causing chronic volume or pressure overload.
+Cardiomyopathies
+: These are a group of diseases that directly injure the heart muscle leading to systolic or diastolic dysfunction and eventually CHF.
+Non-Cardiovascular Conditions
+Diabetes mellitus
+: Diabetes accelerates atherosclerosis and induces microangiopathy which can contribute to myocardial dysfunction.
+Renal dysfunction
+: Chronic kidney disease often coexists with CHF due to shared risk factors. It also contributes independently to cardiac remodelling and dysfunction.
+Obesity
+: Obesity is associated with a higher risk of CHF, likely due to increased blood volume and cardiac workload, as well as the presence of comorbid conditions like hypertension and diabetes.
+Aging
+: Aging is associated with physiological changes that predispose to CHF including reduced myocardial compliance, increased vascular stiffness, and impaired response to stress.
+Infectious Causes
+Streptococcus viridans
+, responsible for infective endocarditis, can lead to valvular heart disease and consequently CHF. Other infectious organisms such as
+Coxsackie B virus
+can cause myocarditis leading to dilated cardiomyopathy and CHF.
+Lifestyle Factors
+Tobacco use:
+Smoking is a significant risk factor for CAD which in turn leads to CHF.
+Alcohol consumption:
+Chronic heavy drinking can lead to alcoholic cardiomyopathy, a major cause of CHF.
+Sedentary lifestyle:
+Lack of physical activity contributes to obesity, hypertension, and other risk factors for CHF.
+Improve
+Pathophysiology
+Chronic heart failure (CHF) is a complex clinical syndrome that results from structural or functional cardiac disorders. The pathogenesis of CHF involves various interconnected mechanisms, which can be divided into three main stages: initial insult, compensatory mechanisms and decompensated phase.
+Initial Insult
+The initial insult to the myocardium triggers the pathogenesis of chronic heart failure. This may include myocardial infarction, hypertension, valvular heart disease or cardiomyopathy. These conditions result in a decrease in cardiac output and an increase in ventricular filling pressures.
+Compensatory Mechanisms
+Neurohormonal Activation:
+In response to reduced cardiac output, neurohormonal systems such as the sympathetic nervous system (SNS) and renin-angiotensin-aldosterone system (RAAS) become activated. This leads to vasoconstriction, fluid retention and increased heart rate to maintain blood pressure and perfusion.
+Ventricular Remodelling:
+Over time, persistent neurohormonal activation causes changes in the structure and function of the heart known as ventricular remodelling. This includes hypertrophy of the myocardium, dilation of the ventricles and alteration in chamber geometry.
+Frank-Starling Mechanism:
+The Frank-Starling mechanism allows for increased stroke volume via enhanced end-diastolic volume. However, over time this mechanism becomes less efficient due to structural changes within the myocardium.
+Decompensated Phase
+The decompensated phase occurs when compensatory mechanisms are no longer sufficient to maintain adequate cardiac output leading to symptomatic heart failure. At this stage, patients may present with symptoms such as
+dyspnoea
+, fatigue, and fluid retention.
+Progression from the compensated to the decompensated phase is influenced by several factors. This includes ongoing myocardial injury due to factors such as ischaemia or pressure overload, further activation of neurohormonal systems causing increased preload and afterload, and progressive ventricular remodelling leading to systolic and diastolic dysfunction.
+Improve
+Classification
+Chronic heart failure can be classified according to several key parameters, each of which has clinical and therapeutic implications.
+Classification by Ejection Fraction
+Heart failure with reduced ejection fraction (HFrEF):
+Defined as a left ventricular ejection fraction (LVEF) less than 40%. This group is the primary focus of most evidence-based therapies.
+Heart failure with preserved ejection fraction (HFpEF):
+Defined as an LVEF of 50% or greater. Patients typically have signs and symptoms of heart failure but normal or near-normal systolic function; diastolic dysfunction predominates.
+Heart failure with mildly reduced ejection fraction (HFmrEF):
+LVEF between 41–49%. This intermediate group may share features and management strategies from both HFrEF and HFpEF.
+Classification by Symptom Severity: New York Heart Association (NYHA) Functional Classification
+The NYHA classification remains the standard method for assessing functional limitation in chronic heart failure:
+Class I:
+No limitation of physical activity; ordinary activity does not cause undue
+breathlessness
+, fatigue, or palpitations.
+Class II:
+Mild limitation of physical activity; comfortable at rest, but ordinary activities result in symptoms.
+Class III:
+Marked limitation of physical activity; comfortable at rest, but less than ordinary activities cause symptoms such as breathlessness or fatigue.
+Class IV:
+Unable to carry out any physical activity without discomfort; symptoms may be present even at rest.
+Aetiological Classification
+Chronic heart failure can also be classified based on underlying cause:
+Ischaemic:
+Secondary to coronary artery disease or previous myocardial infarction.
+Non-ischaemic:
+Hypertensive
+Valvular
+Idiopathic cardiomyopathy
+Infiltrative disorders (e.g. amyloidosis)
+Congenital abnormalities
+The most clinically relevant classifications are those based on ejection fraction and symptom severity.
+These guide therapeutic decisions and prognostication in routine practice.
+Improve
+Clinical features
+Chronic heart failure (CHF) presents with a constellation of symptoms and signs that reflect cardiac dysfunction and the body's compensatory mechanisms. The clinical features vary depending on the severity of heart failure, underlying aetiology, and whether left or right ventricular dysfunction predominates.
+Cardinal Symptoms
+Dyspnoea
+is the most common presenting symptom in CHF:
+Exertional dyspnoea typically occurs first and progresses over time
+Orthopnoea (breathlessness when lying flat) necessitating use of multiple pillows
+Paroxysmal nocturnal dyspnoea (PND) - episodes of severe breathlessness awakening the patient from sleep
+Acute pulmonary oedema - severe, frightening breathlessness often described as "drowning"
+Fatigue and exercise intolerance
+result from reduced cardiac output and skeletal muscle abnormalities:
+Often described as tiredness, weakness or exhaustion
+May limit activities of daily living before dyspnoea becomes apparent
+Fluid retention
+manifests as:
+Peripheral oedema, typically bilateral and dependent (ankles and legs when ambulant)
+Abdominal distension due to ascites in advanced cases
+Weight gain
+that may be rapid (>2kg over 1-2 days suggests fluid retention)
+Other Common Symptoms
+Reduced exercise tolerance
+with progressive limitation of activity
+Nocturnal
+cough
+, often dry and non-productive
+Anorexia and early satiety
+due to hepatic congestion and gut oedema
+Nocturia
+due to improved renal perfusion when supine
+Cognitive impairment
+including poor concentration and memory problems
+Depression and anxiety
+are common comorbidities
+Physical Signs
+General appearance
+:
+Cachexia
+in advanced disease
+Pallor or peripheral cyanosis
+Cardiovascular signs
+:
+Tachycardia (compensatory mechanism)
+Displaced apex beat (suggesting ventricular dilatation)
+Third heart sound (S3 gallop) - specific for ventricular dysfunction
+Murmurs suggesting valvular disease
+Signs of fluid overload
+:
+Elevated jugular venous pressure (JVP) - a key sign of right heart failure
+Bilateral pitting peripheral oedema
+Hepatomegaly
+with tenderness suggesting congestion
+Ascites in severe cases
+Pulmonary signs
+:
+Bilateral fine
+basal crackles
+(not always present)
+Pleural effusions (dullness to percussion at lung bases)
+Wheeze
+due to bronchial mucosal oedema (cardiac asthma)
+Patterns of Presentation
+Left ventricular failure
+typically presents with:
+Predominant dyspnoea and orthopnoea
+Pulmonary oedema and crackles
+Right ventricular failure
+typically presents with:
+Peripheral oedema and elevated JVP
+Hepatomegaly and ascites
+Biventricular failure
+presents with a combination of the above features
+NICE guidelines emphasise that the diagnosis of heart failure should be considered in any patient presenting with breathlessness, fatigue or ankle swelling, particularly in the presence of risk factors for heart disease.
+Improve
+Investigations
+NICE issued updated guidelines on diagnosis and management in 2018. Previously the first-line investigation was determined by whether the patient has previously had a myocardial infarction or not this is no longer the case - all patients should have an N-terminal pro-B-type natriuretic peptide (
+NT-proBNP
+) blood test first-line.
+Interpreting the test
+if levels are 'high' arrange specialist assessment (including transthoracic echocardiography) within 2 weeks
+if levels are 'raised' arrange specialist assessment (including transthoracic echocardiography) echocardiogram within 6 weeks
+Serum natriuretic peptides
+B-type natriuretic peptide (BNP) is a hormone produced mainly by the left ventricular myocardium in response to strain. Very high levels are associated with a poor prognosis.
+BNP
+NTproBNP
+High levels
+> 400 pg/ml (116 pmol/litre)
+> 2000 pg/ml (236 pmol/litre)
+Raised levels
+100-400 pg/ml (29-116 pmol/litre)
+400-2000 pg/ml (47-236 pmol/litre)
+Normal levels
+< 100 pg/ml (29 pmol/litre)
+< 400 pg/ml (47 pmol/litre)
+Factors which alter the BNP level:
+Increase BNP levels
+Decrease BNP levels
+Left ventricular hypertrophy
+Ischaemia
+Tachycardia
+Right ventricular overload
+Hypoxaemia (including pulmonary embolism)
+GFR < 60 ml/min
+Sepsis
+COPD
+Diabetes
+Age > 70
+Liver cirrhosis
+Obesity
+Diuretics
+ACE inhibitors
+Beta-blockers
+Angiotensin 2 receptor blockers
+Aldosterone antagonists
+Improve
+Diagnosis
+The diagnosis of chronic heart failure (CHF) requires a systematic approach combining clinical assessment, biomarker testing, and cardiac imaging. A definitive diagnosis is essential for appropriate management and prognostication.
+Clinical Assessment
+Symptoms and signs
+suggestive of heart failure should prompt further investigation:
+Typical symptoms include breathlessness, orthopnoea, paroxysmal nocturnal
+dyspnoea
+, reduced exercise tolerance, fatigue, and ankle swelling
+Common signs include elevated jugular venous pressure, peripheral oedema, pulmonary crackles, and displaced apex beat
+History of cardiovascular disease significantly increases the likelihood of heart failure:
+Previous myocardial infarction
+Hypertension
+Valvular heart disease
+Cardiomyopathy
+Natriuretic Peptide Testing
+NT-proBNP testing is the recommended first-line investigation
+for all patients with suspected heart failure
+Interpretation thresholds as per NICE guidelines:
+High levels
+: NT-proBNP > 2000 pg/ml (236 pmol/litre) requires specialist assessment and echocardiography within 2 weeks
+Raised levels
+: NT-proBNP 400-2000 pg/ml (47-236 pmol/litre) requires specialist assessment and echocardiography within 6 weeks
+Normal levels
+: NT-proBNP < 400 pg/ml (47 pmol/litre) makes heart failure unlikely
+Heart failure is unlikely if natriuretic peptide levels are below threshold and no additional risk factors are present
+Echocardiography
+Transthoracic echocardiography is the gold standard diagnostic test
+for confirming heart failure and determining its type
+Key diagnostic parameters include:
+Left ventricular ejection fraction (LVEF)
+Chamber dimensions
+Wall thickness
+Valvular function
+Diastolic function assessment
+Estimation of pulmonary artery pressure
+Classification based on echocardiographic findings:
+Heart failure with reduced ejection fraction (HFrEF): LVEF < 40%
+Heart failure with mildly reduced ejection fraction (HFmrEF): LVEF 41-49%
+Heart failure with preserved ejection fraction (HFpEF): LVEF ≥ 50% with evidence of diastolic dysfunction
+Additional Investigations
+Electrocardiogram (ECG) to identify:
+Rhythm abnormalities (particularly atrial fibrillation)
+Evidence of previous myocardial infarction
+Left ventricular hypertrophy
+Bundle branch block
+Chest radiography to assess:
+Cardiomegaly
+Pulmonary congestion
+Alternative pulmonary pathology
+Blood tests to identify comorbidities and precipitants:
+Full blood count
+Renal function and electrolytes
+Liver function tests
+Thyroid function tests
+Glucose and HbA1c
+Lipid profile
+Ferritin and transferrin saturation
+NICE guidelines state: "Heart failure is a clinical syndrome with symptoms and signs caused by cardiac dysfunction and confirmed by echocardiography." A definitive diagnosis requires the presence of typical symptoms and signs, objective evidence of cardiac dysfunction (usually by echocardiography), and appropriate response to heart failure-directed therapy.
+Improve
+Differential diagnosis
+When evaluating a patient with suspected chronic heart failure (CHF), it is essential to consider alternative diagnoses that may present with similar clinical features. The three most likely differential diagnoses include chronic obstructive pulmonary disease (COPD), anaemia, and renal impairment.
+Chronic Obstructive Pulmonary Disease
+COPD often coexists with CHF due to shared risk factors such as smoking and age. However, distinguishing between the two can be challenging due to overlapping symptoms including
+dyspnoea
+, fatigue, and reduced exercise tolerance.
+Dyspnoea:
+In COPD, dyspnoea typically worsens with activity and improves at rest, whereas in CHF it can occur at rest or during sleep (paroxysmal nocturnal dyspnoea).
+Physical examination:
+On examination, patients with COPD may exhibit prolonged expiration, wheezing and hyperinflation of the lungs on chest auscultation. These findings are less common in CHF where signs of fluid overload such as peripheral oedema and elevated jugular venous pressure are more frequently observed.
+Diagnostics:
+Pulmonary function tests showing obstruction support a diagnosis of COPD. Conversely, echocardiography demonstrating left ventricular systolic or diastolic dysfunction is indicative of CHF.
+Anaemia
+Anaemia can mimic CHF by causing symptoms such as dyspnoea on exertion and fatigue. It can also exacerbate pre-existing heart failure by increasing cardiac output demand.
+Symptoms:
+Unlike CHF which often presents with fluid overload symptoms (orthopnea, paroxysmal nocturnal dyspnoea), anaemia may present with pallor, tachycardia and in severe cases, angina due to increased myocardial oxygen demand.
+Physical examination:
+Examination findings of anaemia include pallor and tachycardia, which are not typically seen in CHF unless it is decompensated.
+Diagnostics:
+A full blood count revealing low haemoglobin levels confirms the diagnosis of anaemia. In contrast, CHF diagnosis relies on echocardiographic evidence of cardiac dysfunction along with supportive clinical signs and symptoms.
+Renal Impairment
+Renal impairment often coexists with CHF due to shared risk factors such as hypertension and diabetes. It can also mimic CHF by causing fluid overload symptoms.
+Symptoms:
+Both conditions can present with oedema, dyspnoea and fatigue. However, renal impairment may additionally present with symptoms such as nocturia or oliguria.
+Physical examination:
+While both conditions can cause peripheral oedema, renal impairment may also lead to features of uraemia such as asterixis (flapping tremor) or a urine-like odour on the breath.
+Diagnostics:
+Renal function tests showing elevated creatinine and urea levels support a diagnosis of renal impairment. Conversely, echocardiography demonstrating cardiac dysfunction is indicative of CHF.
+Improve
+Management
+Chronic heart failure (CHF) management involves a multidimensional approach, encompassing lifestyle modifications, pharmacological therapy, device therapy, and in severe cases, surgical intervention. The National Institute for Health and Care Excellence (NICE) guidelines offer comprehensive guidance on the management of CHF.
+Treating the Underlying Cause
+Ischaemic Heart Disease: Manage with revascularization procedures such as percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) to improve blood flow to the heart muscle.
+Hypertension: Control blood pressure with appropriate antihypertensive medications to reduce cardiac workload and prevent further damage.
+Valvular Heart Disease: Evaluate and treat with surgical or percutaneous interventions to repair or replace damaged valves.
+Arrhythmias: Manage arrhythmias with medications, catheter ablation, or device therapy to maintain normal heart rhythm.
+Diabetes Management: Optimize blood glucose control in patients with diabetes, using medications including
+SGLT-2 inhibitors
+, which have additional benefits in heart failure management.
+Lifestyle Modifications
+Physical Activity: Encourage patients to engage in regular physical activity tailored to their individual capacity. This can include activities like walking, swimming, or supervised cardiac rehabilitation programmes.
+Dietary Adjustments: Promote dietary modifications such as sodium restriction to reduce fluid retention and heart workload. Advise on fluid management to prevent fluid overload and maintain electrolyte balance.
+Smoking Cessation and Alcohol Moderation: Strongly advise patients to quit smoking and limit alcohol intake to improve overall cardiovascular health.
+Weight Management: Encourage achieving and maintaining a healthy weight through balanced diet and physical activity to reduce the burden on the heart.
+Pharmacological Therapy
+First-line Treatment: Angiotensin-converting enzyme inhibitors (ACEIs) or Angiotensin receptor blockers (ARBs) are first-line treatment options to reduce morbidity and mortality.
+Beta-blockers
+: Should be considered for all patients unless contraindicated, to improve heart function and reduce symptoms.
+Mineralocorticoid Receptor Antagonists (MRAs): Can be added if symptoms persist despite optimal ACEI and beta-blocker therapy, to provide additional symptomatic relief and mortality benefit.
+SGLT-2 Inhibitors: Sodium-glucose co-transporter-2 (SGLT-2) inhibitors, such as dapagliflozin and empagliflozin, have shown benefits in reducing hospitalizations and improving outcomes in heart failure patients with and without diabetes.
+Additional Options: If symptoms still persist, consider adding a combination of sacubitril/valsartan or ivabradine depending on patient characteristics and tolerability. Diuretics can be used for symptom control of fluid overload.
+Device Therapy
+Implantable Cardioverter Defibrillators (ICDs): For suitable patients with left ventricular systolic dysfunction, ICDs can prevent sudden cardiac death.
+Cardiac Resynchronization Therapy (CRT): May be beneficial for patients with heart failure and ventricular dyssynchrony to improve heart function and symptoms.
+Surgical Intervention
+Heart Transplantation: In cases of refractory CHF where other treatments are ineffective, consider referral for heart transplantation assessment.
+Mechanical Circulatory Support Devices: Such as left ventricular assist devices (LVADs) may be considered for patients awaiting transplant or those ineligible for transplant to improve quality of life and survival.
+Regular Monitoring and Follow-Up
+Clinical Assessment: Regular follow-up visits to monitor symptoms, functional status, and adherence to therapy.
+Biomarkers and Imaging: Use biomarkers such as BNP/NT-proBNP and imaging techniques like echocardiography for ongoing assessment of heart function and disease progression.
+Patient Education: Continually educate patients and caregivers about the nature of CHF, self-care strategies, and the importance of adherence to treatment plans.
+Improve
+Complications
+Chronic heart failure (CHF) often leads to numerous complications, with the most prevalent ones including:
+Cardiac arrhythmias:
+Patients with CHF are at increased risk of developing both atrial and ventricular arrhythmias. Atrial fibrillation, a common complication, can exacerbate heart failure by decreasing cardiac output and promoting thrombus formation.
+Ventricular remodelling:
+This refers to changes in size, shape, and function of the heart due to chronic volume overload. It can lead to dilated cardiomyopathy and further deterioration of cardiac function.
+Pulmonary oedema:
+CHF can cause fluid accumulation in the lungs leading to
+breathlessness
+, coughing, and reduced oxygenation of blood.
+Further complications include:
+Hepatic congestion:
+Chronic passive congestion can lead to 'nutmeg liver' or congestive hepatopathy. In severe cases, it may progress to cardiac cirrhosis.
+Renal dysfunction:
+Also known as cardiorenal syndrome type 2 (CRS-2), this results from renal hypoperfusion and venous congestion. It is characterised by worsening renal function and fluid retention.
+Anaemia:
+Often multifactorial in origin in CHF patients - factors include impaired renal function leading to decreased erythropoietin production; iron deficiency; and myelosuppressive effects of certain treatments such as angiotensin-converting enzyme inhibitors.
+In addition, there are several less frequent but serious complications associated with CHF:
+Sudden cardiac death (SCD):
+Predominantly due to ventricular arrhythmias, SCD is a major cause of mortality in CHF patients.
+Thromboembolism:
+CHF, especially when associated with atrial fibrillation, increases the risk of thrombus formation and subsequent embolic events including stroke.
+Cachexia and malnutrition:
+Advanced CHF can lead to cardiac cachexia - a complex metabolic syndrome characterised by severe
+weight loss
+and muscle wasting.
+Improve
+Prognosis
+The prognosis of chronic heart failure (CHF) is largely dependent on the severity of the disease, comorbidities and response to treatment. Despite advancements in pharmacological and non-pharmacological management, CHF remains associated with significant morbidity and mortality.
+Survival Rates
+In general, survival rates for CHF have improved over time due to better understanding of the disease process and more effective treatments. However, five-year survival rates remain relatively low at approximately 50%.
+Prognosis is worse in patients with advanced stages of the disease. The one-year mortality rate for patients admitted to hospital with severe CHF can be as high as 40-50%.
+Factors Influencing Prognosis
+Ejection Fraction:
+Patients with reduced ejection fraction (<40%) generally have a poorer prognosis than those with preserved ejection fraction (>50%).
+Nature of Heart Failure:
+Acute decompensation of chronic heart failure usually indicates a poorer prognosis than stable chronic heart failure.
+Comorbidities:
+The presence of comorbidities such as renal dysfunction, diabetes mellitus or pulmonary diseases can significantly worsen the prognosis.
+Age:
+Older age is associated with a poorer prognosis due to increased likelihood of comorbidities and decreased physiological reserve.
+Treatment Response
+The efficacy of treatment also plays a crucial role in determining prognosis. Patients who respond well to medical therapy, including
+ACE inhibitors
+,
+beta-blockers
+, diuretics and
+aldosterone antagonists
+, often have a better prognosis. Similarly, those who benefit from device therapy such as implantable cardioverter-defibrillators or cardiac resynchronisation therapy, can also have improved survival rates.
+Biomarkers
+Several biomarkers may be used to predict prognosis in CHF. Elevated levels of natriuretic peptides (BNP and NT-proBNP) are associated with a worse prognosis. Similarly, increased troponin levels, even within the normal range, can indicate a poorer prognosis.
+Improve
+References
+NICE - 2012 Guidance on ivabradine
+NICE - 2010 Heart failure guidelines
+NICE - Cardiac resynchronisation therapy for the treatment of heart failure
+NICE - 2018 Chronic heart failure guidelines
+Radiology Masterclass - Cardiomegaly and heart failure
+7 minute medics - Basics of heart failure - podcast
+Cardiac failure
+Chronic heart failure

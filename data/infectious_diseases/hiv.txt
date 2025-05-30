@@ -1,0 +1,274 @@
+HIV
+HIV
+HIV (Human Immunodeficiency Virus) is a retrovirus that targets CD4+ T lymphocytes, macrophages, and dendritic cells, leading to progressive immunosuppression and increased susceptibility to opportunistic infections and malignancies. HIV is primarily transmitted through sexual contact, intravenous drug use, and mother-to-child transmission during pregnancy, childbirth, or breastfeeding.
+There are two main types of HIV: HIV-1, which is more prevalent and aggressive, and HIV-2, which is less pathogenic and primarily found in West Africa. The virus undergoes rapid mutation and recombination, leading to a high degree of genetic diversity and the emergence of drug-resistant strains.
+Diagnosis is based on detecting HIV-specific antibodies or viral RNA. HIV-infected patients are monitored for disease progression using CD4+ T-cell counts and viral load measurements.
+Antiretroviral therapy (ART) is the mainstay of treatment, which aims to suppress viral replication, restore immune function, and prevent complications. ART regimens typically consist of a combination of at least three drugs from different classes, such as nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs), non-nucleoside reverse transcriptase inhibitors (NNRTIs), protease inhibitors (PIs), integrase strand transfer inhibitors (INSTIs), and entry/fusion inhibitors.
+Strict adherence to ART is crucial to achieve and maintain viral suppression, minimize drug resistance, and reduce HIV-related morbidity and mortality
+Last updated: 30
+th
+November 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 3:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of human immunodeficiency virus (HIV) infection encompasses a variety of risk factors and underlying causes. The primary mode of transmission is through sexual contact, with the highest risk associated with unprotected receptive anal intercourse. However, HIV can also be transmitted through other routes, including:
+Parenteral transmission:
+This includes sharing needles or syringes among people who inject drugs. It can also occur in healthcare settings due to accidental needlestick injuries.
+Vertical transmission:
+HIV can be passed from mother to child during pregnancy, childbirth or breastfeeding.
+Blood transfusion:
+Although rare in countries where blood is screened for HIV antibodies, this route of transmission remains a risk factor in areas where screening is not routine.
+In addition to these modes of transmission, certain biological factors increase the likelihood of acquiring HIV. These include sexually transmitted infections (STIs), which can cause sores or inflammatory responses that make it easier for HIV to enter the body. Circumcision status also influences risk; uncircumcised men have a higher probability of contracting HIV than circumcised men due to the presence of Langerhans cells in the foreskin which are susceptible to HIV infection.
+Social and behavioural determinants play a significant role in the spread of HIV as well. High-risk behaviours such as unprotected sex with multiple partners and intravenous drug use increase an individual's chances of exposure to the virus. Socioeconomic factors such as poverty, lack of education and gender inequality can limit access to prevention services and contribute to increased vulnerability.
+The genetic makeup of both
+HIV
+and its host can affect susceptibility to infection and disease progression. Certain alleles like CCR5-Δ32 provide resistance against HIV by preventing viral entry into the host cell. Conversely, individuals with HLA-B*35 allele may experience rapid disease progression.
+Finally, co-infections can impact the course of HIV infection. For example, co-infection with
+Hepatitis C virus
+(HCV) can accelerate liver disease progression in people living with HIV.
+Improve
+Pathophysiology
+Basics
+HIV is a RNA retrovirus of the lentivirus genus (lentiviruses are characterized by a long incubation period)
+two variants - HIV-1 and HIV-2
+HIV-2 is more common in west Africa, has a lower transmission rate and is thought to be less pathogenic with a slower progression to AIDS
+Basics structure
+spherical in shape with two copies of single-stranded RNA enclosed by a capsid of the viral protein p24
+a matrix composed of viral protein p17 surrounds the capsid
+envelope proteins: gp120 and gp41
+pol gene encodes for viral enzymes reverse transcriptase, integrase and HIV protease
+Cell entry
+HIV can infect CD4 T cells, macrophages and dendritic cells
+gp120 binds to CD4 and CXCR4 on T cells and CD4 and CCR5 on macrophages
+mutations in CCR5 can give immunity to HIV
+Replication
+after entering a cell the enzyme reverse transcriptase creates dsDNA from the RNA for integration into the host cell's genome
+Improve
+Clinical features
+HIV seroconversion
+HIV seroconversion is symptomatic in 60-80% of patients and typically presents as a glandular fever type illness. Increased symptomatic severity is associated with poorer long term prognosis. It typically occurs 3-12 weeks after infection
+Features
+sore throat
+lymphadenopathy
+malaise
+,
+myalgia
+, arthralgia
+diarrhoea
+maculopapular
+rash
+mouth ulcers
+rarely meningoencephalitis
+Diagnosis
+antibodies to HIV may not be present
+HIV PCR and p24 antigen tests can confirm diagnosis
+Improve
+Investigations
+Investigating a patient with suspected HIV infection involves a sequence of tests, starting with first-line investigations and progressing to more specific diagnostic tests if necessary. The goal is to confirm the diagnosis, assess the stage of disease, and evaluate the patient's overall health status.
+First-line Investigations
+HIV Antibody/Antigen Test:
+This is the initial screening test for HIV. It detects both HIV-1 and HIV-2 antibodies as well as p24 antigen, a protein produced by the virus in early infection. A positive result warrants further testing to confirm the diagnosis.
+HIV RNA Viral Load:
+This test measures the amount of virus in blood. It is particularly useful in cases where acute HIV infection is suspected and antibody/antigen test may be negative.
+Further Investigations
+If initial screening tests are positive, additional investigations are necessary to confirm the diagnosis and assess disease progression.
+HIV Confirmatory Test:
+Western blot or immunofluorescence assay (IFA) were traditionally used for this purpose; however, these have largely been replaced by an HIV-1/HIV-2 antibody differentiation immunoassay which can determine whether the patient has been infected with HIV-1, HIV-2 or both.
+CD4 T-cell Count:
+This test measures the number of CD4 cells in blood, providing an indication of immune system function. A low count suggests advanced disease and helps guide treatment decisions.
+Resistance Testing:
+Genotypic resistance testing should be performed prior to initiating antiretroviral therapy (ART) to identify any drug-resistant strains of HIV that could affect treatment efficacy.
+In addition to these HIV-specific investigations, it is important to perform a comprehensive health assessment. This includes full blood count, liver and renal function tests, lipid profile, glucose level, hepatitis B and C serology, tuberculosis screening, sexually transmitted infections (STIs) screening and immunisation status review. These investigations help evaluate the patient's overall health status, identify any comorbid conditions and guide management plan.
+The British HIV Association (BHIVA) provides comprehensive guidelines on HIV testing, which should be referred to for up-to-date information on recommended testing protocols.
+Improve
+Management
+Highly active anti-retroviral therapy (HAART) involves a combination of at least three drugs, typically two nucleoside reverse transcriptase inhibitors (NRTI) and either a  protease inhibitor (PI) or a non-nucleoside reverse transcriptase inhibitor (NNRTI). This combination both decreases viral replication but also reduces the risk of viral resistance emerging
+Following the 2015 BHIVA guidelines it is now recommended that patients start HAART as soon as they have been diagnosed with HIV, rather than waiting until a particular CD4 count, as was previously advocated.
+Entry inhibitors
+maraviroc (binds to CCR5, preventing an interaction with gp41), enfuvirtide (binds to gp41, also known as a 'fusion inhibitor')
+prevent HIV-1 from entering and infecting immune cells
+Nucleoside analogue reverse transcriptase inhibitors (NRTI)
+examples: zidovudine (AZT), abacavir, emtricitabine, didanosine, lamivudine, stavudine, zalcitabine, tenofovir
+general NRTI side-effects: peripheral neuropathy
+tenofovir: used in BHIVAs two recommended regime NRTI. Adverse effects include renal impairment and ostesoporosis
+zidovudine: anaemia, myopathy, black nails
+didanosine: pancreatitis
+Non-nucleoside reverse transcriptase inhibitors (NNRTI)
+examples: nevirapine, efavirenz
+side-effects: P450 enzyme interaction (nevirapine induces), rashes
+Protease inhibitors (PI)
+examples: indinavir, nelfinavir, ritonavir, saquinavir
+side-effects: diabetes, hyperlipidaemia, buffalo hump, central obesity, P450 enzyme inhibition
+indinavir: renal stones, asymptomatic hyperbilirubinaemia
+ritonavir: a potent inhibitor of the P450 system
+Integrase inhibitors
+examples:  raltegravir, elvitegravir, dolutegravir
+Improve
+Complications
+The table below shows the infections and other disorders that may be encountered by patients with HIV according to the CD4 count.
+CD4 count 200 - 500 cells/mmÂ³
+Disorder
+Notes
+Oral thrush
+Secondary to
+Candida albicans
+Shingles
+Secondary to herpes zoster
+Hairy leukoplakia
+Secondary to EBV
+Kaposi sarcoma
+Secondary to HHV-8
+CD4 count 100 - 200 cells/mmÂ³
+Disorder
+Notes
+Cryptosporidiosis
+Whilst patients with a CD4 count of 200-500 may develop cryptosporidiosis the disease is usually self-limiting and similar to that in immunocompetent hosts
+Cerebral toxoplasmosis
+Progressive multifocal leukoencephalopathy
+Secondary to the JC virus
+Pneumocystis jirovecii
+pneumonia
+HIV dementia
+CD4 count 50 - 100 cells/mmÂ³
+Disorder
+Notes
+Aspergillosis
+Secondary to
+Aspergillus fumigatus
+Oesophageal candidiasis
+Secondary to
+Candida albicans
+Cryptococcal meningitis
+Primary CNS lymphoma
+Secondary to  EBV
+CD4 count < 50 cells/mmÂ³
+Disorder
+Notes
+Cytomegalovirus retinitis
+Affects around 30-40% of patients with CD4 < 50 cells/mmÂ³
+Mycobacterium avium-intracellulare infection
+Pneumocystis jiroveci
+pneumonia
+Whilst the organism
+Pneumocystis carinii
+is now referred to as
+Pneumocystis jiroveci
+, the term
+Pneumocystis carinii
+pneumonia (PCP) is still in common use
+Pneumocystis jiroveci
+is an unicellular eukaryote, generally classified as a fungus but some authorities consider it a protozoa
+PCP is the most common opportunistic infection in AIDS
+all patients with a CD4 count < 200/mmÂ³ should receive PCP prophylaxis
+Features
+dyspnoea
+dry cough
+fever
+very few chest signs
+Pneumothorax is a common complication of PCP.
+Extrapulmonary manifestations are rare (1-2% of cases), may cause
+hepatosplenomegaly
+lymphadenopathy
+choroid lesions
+Dermatological
+Kaposi's sarcoma
+caused by HHV-8 (human herpes virus 8)
+presents as purple papules or plaques on the skin or mucosa (e.g. gastrointestinal and respiratory tract)
+skin lesions may later ulcerate
+respiratory involvement may cause massive haemoptysis and pleural effusion
+radiotherapy + resection
+Kaposi's sarcoma in a patient with HIV
+Ocular
+Cytomegalovirus (CMV) retinitis is common, affecting 30-40% of patients who have a CD4 count < 50. Diagnosis is clinical as there are no diagnostic tests
+Features
+visual impairment - 'blurred vision' etc
+Fundoscopy
+characteristic appearance showing retinal haemorrhages and necrosis
+often called 'pizza' retina
+Fundus photograph showing CMV retinitis. Credit: National Eye Institute, National Institutes of Health
+Management
+IV ganciclovir
+treatment used to be life-long but new evidence suggests that it may be discontinued once CD4 > 150 after HAART
+alternative: IV foscarnet or cidofovir
+Neurological
+Focal neurological lesions
+Toxoplasmosis
+accounts for around 50% of cerebral lesions in patients with HIV
+constitutional symptoms, headache, confusion, drowsiness
+CT: usually single or multiple ring enhancing lesions, mass effect may be seen
+management: sulfadiazine and pyrimethamine
+© Image used on license from
+Radiopaedia
+Cerebral toxoplasmosis: CT scan with contrast showing multiple ring enhancing lesions
+© Image used on license from
+Radiopaedia
+Cerebral toxoplasmosis: MRI (T1 C+) demonstrates multiple small peripherally enhancing nodules located predominantly in the basal ganglia as well as the central portions of the cerebellar hemispheres. Only a small amount of surrounding oedema is present.
+Primary CNS lymphoma
+accounts for around 30% of cerebral lesions
+associated with the Epstein-Barr virus
+CT: single or multiple homogenous enhancing lesions
+treatment generally involves steroids (may significantly reduce tumour size), chemotherapy (e.g. methotrexate) + with or without whole brain irradiation. Surgical may be considered for lower grade tumours
+© Image used on license from
+Radiopaedia
+Primary CNS lymphoma: Non-contrast CT demonstrates a hyper-attenuating mass adjacent to the left lateral ventricle, with no calcification or haemorrhage.
+© Image used on license from
+Radiopaedia
+Primary CNS lymphoma: MRI (T1 C+) demonstrates a large multilobulated mass in the right frontal lobe. It homogeneously enhances and extends to involve the caudate and the periventricular area. There is significant mass effect.
+Differentiating between toxoplasmosis and lymphoma is a common clinical scenario in HIV patients. It is clearly important given the vastly different treatment strategies. The table below gives some general differences. Please see the Radiopaedia link for more details.
+Toxoplasmosis
+Lymphoma
+Multiple lesions
+Ring or nodular enhancement
+Thallium SPECT negative
+Single lesion
+Solid (homogenous) enhancement
+Thallium SPECT positive
+Tuberculosis
+much less common than toxoplasmosis or primary CNS lymphoma
+CT: single enhancing lesion
+Generalised neurological disease
+Encephalitis
+may be due to CMV or HIV itself
+HSV encephalitis but is relatively rare in the context of HIV
+CT: oedematous brain
+Cryptococcus
+most common fungal infection of CNS
+headache, fever,
+malaise
+, nausea/vomiting, seizures, focal neurological deficit
+CSF: high opening pressure, India ink test positive
+CT: meningeal enhancement, cerebral oedema
+meningitis is typical presentation but may occasionally cause a space occupying lesion
+Progressive multifocal leukoencephalopathy (PML)
+widespread demyelination
+due to infection of oligodendrocytes by JC virus (a polyoma DNA virus)
+symptoms, subacute onset : behavioural changes, speech, motor, visual impairment
+CT: single or multiple lesions, no mass effect, don't usually enhance. MRI is better - high-signal demyelinating white matter lesions are seen
+AIDS dementia complex
+caused by HIV virus itself
+symptoms: behavioural changes, motor impairment
+CT: cortical and subcortical atrophy
+Improve
+References
+BHIVA - 2016 HIV-1 infection guidelines
+University of Liverpool - HIV Drug Interactions Checker
+Radiopaedia - Toxoplasmosis vs lymphoma
+National Institute for Health - HIV virus life cycle and sites of actions of anti HIV agents
+DermNet NZ - Kaposi's sarcoma
+BHIVA - 2008 HIV immunisation guidelines
+Patient.info - Kaposi's sarcoma
+DermIS.net - Picture of Kaposi's sarcoma
+Infectious diseases
+HIV

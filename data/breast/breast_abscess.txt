@@ -1,0 +1,138 @@
+Breast abscess
+Breast abscess
+Breast abscesses are a complication of infectious mastitis. They occur most commonly in breastfeeding women with mastitis, affecting an estimated 3-11 % of women in this group, but can also occur in non-lactating women and men. The infective organism is most commonly
+Staphylococcus aureus
+, and up to 50-60% of such cases have been reported to involve methicillin-resistant
+Staphylococcus aureus
+(MRSA). Aspiration with culture is both diagnostic (to guide antibiotic treatment), and therapeutic.
+Last updated: 20
+th
+September 2023
+Epidemiology
+Incidence: 125.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Condition
+Relative
+incidence
+Breast abscess
+1
+Breast cancer
+0.76
+Breast fibroadenoma
+0.26
+Fat necrosis of the breast
+0.03
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Breast abscesses are an infective process, and a variety of microorganisms are implicated.
+Infectious mastitis and subsequent breast abscess are usually caused by
+Staphylococcus aureus
+(32%), over half of which now typically are methicillin-resistant
+S. aureus
+(MRSA).
+Other implicated microorganisms include coagulase-negative
+Staphylococcus
+, diphtheroids and
+Pseudomonas aeruginosa
+.
+However, up to 40% of breast abscesses may be polymicrobial.
+Non-lactational abscesses are more common among obese women, smokers, and those with diabetes.
+Amongst non-lactating women, nipple piercings are associated with a higher risk of breast abscess, which can be associated with distinct microorganisms such as Group B
+Streptococcus
+and
+Mycobacterium
+.
+Improve
+Pathophysiology
+Milk stasis in lactating women, secondary to breastfeeding technique or a blocked duct, can cause mastitis.
+Mastitis, in turn, may become infectious mastitis following bacterial contamination from the skin, and a complication of this is a breast abscess
+Abscess formation involves the body creating a capsule of granulomatous tissue around the developing infection to attempt to contain it.
+Non-lactational breast abscesses may be caused by duct ectasia, which is a thickening and widening of the mild duct generally seen in women aged 45-55, and that can cause mastitis and subsequent infection.
+Improve
+Clinical features
+The stereotypical presentation of a breast abscess is a lactating woman, typically in the postpartum period, presenting with a painful, erythematous, fluctuant swelling in one quadrant of the breast. This is often accompanied by systemic symptoms such as
+fever
+and malaise. The condition frequently arises as a complication of mastitis that has been inadequately treated.
+Local Features:
+Tenderness and Pain:
+Almost universally present and may be severe, causing significant discomfort to the patient.
+Swelling:
+A distinct area of swelling or lump can be palpated, which may be fluctuant, indicating the presence of pus.
+Erythema and Warmth:
+The overlying skin is typically red and warm to touch.
+Nipple Discharge
+:
+Some patients might present with purulent or serous discharge from the nipple.
+Nipple Retraction:
+Rarely, an abscess located deep or near the nipple may cause retraction of the nipple.
+Skin Changes:
+In longstanding cases, the overlying skin might appear thinned, and in severe cases, a sinus or fistula may develop.
+Lymphadenopathy:
+Enlarged and tender axillary lymph nodes can often be palpated due to reactive changes.
+Systemic Features:
+Fever and Chills:
+A significant proportion of patients present with high-grade fever and chills indicating a systemic inflammatory response.
+Malaise and Fatigue:
+These are common accompanying symptoms due to the body's response to infection.
+Tachycardia:
+An increased heart rate might be observed, especially in cases where sepsis is developing.
+Non-puerperal abscesses
+Though commonly seen in lactating women, abscesses can also present in non-lactating women, especially in those with predisposing factors such as diabetes, immunosuppression, or nipple piercings.
+Improve
+Investigations
+Blood tests to help assess severity of infection as well as imaging are required to work up patients with suspected breast abscesses.
+Blood tests:
+Full blood count
+U&E
+CRP
+Blood cultures if clinically unwell/septic.
+Consider pregnancy test if not a breast-feeding woman.
+Imaging:
+Breast ultrasound to characterise abscess.
+Mammogram to rule out underlying breast lesion.
+Microbiology
+Culture of needle aspirate of abscess to inform antibiotic choice
+Milk culture may be helpful
+Improve
+Differential diagnosis
+The key differential diagnoses involve non-infectious benign breast diseases. Malignancy must be excluded.
+Galactocele
+Milk cyst in lactating women. Not usually accompanied by localised pain or systemic signs of infection.
+Fibrocystic breasts
+Typically multi-focal lumps with monthly pain around menses, improving with menstruation. Not accompanied by systemic illness. Distinguished on ultrasound.
+Fibroadenoma
+Benign breast tumours, distinguishable from breast abscess on ultrasound. No systemic illness.
+Invasive
+breast cancer
+Malignant breast lesions may present similarly, and are distinguished on mammogram and ultrasound with biopsy of the lesion to confirm pathology.
+Fat necrosis
+Usually secondary to breast trauma resulting in a firm round tender lump, usually without erythema. Biopsy confirms diagnosis.
+Cellulitis
+Skin infection that may present with painful, erythematous area of skin with associated signs of systemic infection.
+TB mastitis.
+A rare presentation of TB, often mimicking and possibly co-existing with breast abscess. Systemic features of TB including indicative history, and a positive Mantoux test.
+Improve
+Management
+Key principles of management are drainage of pus in the abscess with appropriate antibiotic treatment.
+1. Surgical management
+First line management is needle aspiration of the abscesses under 5cm, under local anaesthetic and usually with ultrasound guidance. This may need to be repeated daily over a period of 5-7 days.
+Larger abscesses, or those that do not resolve with needle aspiration, will need surgical incision and drainage with washout, or percutaneous drainage with indwelling catheter.
+2. Adjuvant medical management
+Aspiration must be accompanied by antibiotic treatment. If MRSA has been ruled out and the patient is systemically well then appropriate oral antibiotics may be used e.g. flucloxacillin or dicloxacillin.
+In penicillin allergic patients, or if MRSA grown on culture aspirate, doxycycline or clindamycin are effective.
+Systemically unwell patients may need intravenous antibiotics e.g. Vancomycin.
+3. Breast emptying in lactational abscesses
+Breast milk should continue to be expressed in the presence of a breast abscess as this provides symptomatic relief from breast engorgement.
+If suckling is painful especially during the acute period, or following surgical intervention, then the mother should be encouraged to express manually or using a pump to avoid breast engorgement.
+Improve
+Breast surgery
+Breast abscess

@@ -1,0 +1,77 @@
+Cerebral palsy
+Cerebral palsy
+Cerebral palsy may be defined as a disorder of movement and posture due to a non-progressive lesion of the motor pathways in the developing brain. It affects 2 in 1,000 live births and is the most common cause of major motor impairment
+Last updated: 1
+st
+January 2025
+Aetiology
+Causes
+antenatal (80%): e.g. cerebral malformation and congenital infection (rubella, toxoplasmosis, CMV)
+intrapartum (10%): birth asphyxia/trauma
+postnatal (10%): intraventricular haemorrhage, meningitis, head-trauma
+Improve
+Classification
+Cerebral palsy (CP) is classified according to several parameters including
+motor type, anatomical distribution, and functional ability
+. Classification guides assessment, management planning and prognostication.
+Motor Type Classification
+Based on the predominant neuromuscular abnormality:
+Spastic CP
+(70-80% of cases): characterised by increased muscle tone, hyperreflexia, and pathological reflexes. Results from damage to the pyramidal tracts.
+Dyskinetic CP
+(10-15%): characterised by involuntary, uncontrolled movements that are particularly evident during voluntary movement. Includes athetoid, choreoathetoid and dystonic subtypes. Associated with basal ganglia injury.
+Ataxic CP
+(5-10%): characterised by disturbed coordination, hypotonia and intention tremor. Results from cerebellar damage.
+Mixed CP
+: demonstrates features of more than one motor type, commonly spastic-dyskinetic presentations.
+Topographical Classification
+Based on the anatomical distribution of motor impairment:
+Hemiplegia
+: involvement of one side of the body, typically with greater upper limb than lower limb involvement.
+Diplegia
+: involvement of all four limbs with lower limbs more severely affected than upper limbs.
+Quadriplegia
+(tetraplegia): involvement of all four limbs with equal or greater involvement of upper limbs compared to lower limbs. Often associated with bulbar involvement affecting speech and swallowing.
+Monoplegia
+: involvement of a single limb (rare).
+Triplegia
+: involvement of three limbs (rare).
+Functional Classification
+Gross Motor Function Classification System (GMFCS)
+: internationally recognised five-level system that describes gross motor function, focusing on sitting, transfers and mobility.
+Level I: Walks without limitations
+Level II: Walks with limitations
+Level III: Walks using a hand-held mobility device
+Level IV: Self-mobility with limitations; may use powered mobility
+Level V: Transported in a manual wheelchair
+Other functional classifications include:
+Manual Ability Classification System (MACS)
+: describes how children with CP use their hands to handle objects in daily activities.
+Communication Function Classification System (CFCS)
+: describes everyday communication effectiveness.
+NICE guidelines recommend using standardised functional classification systems to aid communication between healthcare professionals and families
+.
+Improve
+Clinical features
+Possible manifestations include:
+abnormal tone early infancy
+delayed motor milestones
+abnormal gait
+feeding difficultie.
+Children with cerebral palsy often have associated non-motor problems such as:
+learning difficulties (60%)
+epilepsy (30%)
+squints (30%)
+hearing impairment (20%)
+Improve
+Management
+Management
+as with any child with a chronic condition a multidisciplinary approach is needed
+treatments for spasticity include oral diazepam, oral and intrathecal baclofen, botulinum toxin type A, orthopaedic surgery and selective dorsal rhizotomy
+anticonvulsants, analgesia as required
+Improve
+References
+NICE - 2012 Spasticity in children and young people with non-progressive brain disorders
+NICE - 2017 Cerebral Palsy guidelines
+Paediatric neurology
+Cerebral palsy

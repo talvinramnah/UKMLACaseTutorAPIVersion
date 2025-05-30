@@ -1,0 +1,207 @@
+Benign prostatic hyperplasia
+Benign prostatic hyperplasia
+Benign prostatic hyperplasia (BPH) is a condition which commonly affects men histologically from the age of 40 onwards but symptoms often do not become apparent until later decades.
+It involves the proliferation of different prostate layers, with this proliferation tending to be more focussed on the inner prostate. Hyperplasia differs from hypertrophy in that it involves an increase in the number of organ cells rather than the size of the cells.
+BPH results in urinary system compression, leading to a range of problems. Men tend to be treated when these problems have a significant impact on their quality of life and this impact outweighs the potential side effects of treatment. Although there is no definitive cure, treatments can be useful in slowing the growth of the prostate.
+Last updated: 28
+th
+January 2024
+Epidemiology
+Incidence: 5000.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Condition
+Relative
+incidence
+Benign prostatic hyperplasia
+1
+Prostate cancer
+0.03
+Urethral stricture
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The cause of BPH is not well understood. There are however several theories for its aetiology, revolving around reduced cell death, epithelial gland proliferation and increasing dividing potential:
+Androgens (testosterone and dihydrotestosterone (DHT) play a likely role in the development of BPH
+BPH does not occur in males who have not gone through puberty due to the lack of these androgens
+BPH occurs after exposure to these androgens post-puberty
+Those who undergo castration prior to puberty do not go on to develop BPH
+Inflammation is also thought to play a role. This can take the form of:
+Chronic infections such as
+Escherichia coli
+Inflammatory cytokines from obesity due to dietary sources such as fats
+Autoimmune inflammation
+This is recognised, as serum C-reactive protein levels tend to increase as the severity of LUTS increase
+BPH can affect men of different
+ages
+:
+8% of 31-40 year-olds
+40-50% of 51-60 year-olds
+>80% of 80+ year-olds
+Race
+appears to play some role in the development of BPH:
+Black men are more likely to need treatment at a younger age compared to White and Asian populations and are more likely to develop moderate to severe LUTS
+Asian men are the least likely to develop problematic BPH
+Genetics
+also clearly play a role, with apparent familial tendencies. Familial BPH can be discriminated from sporadic BPH due to comparatively larger prostates and an earlier age of LUTS onset. Genetic factors are likely to be a greater determinant of LUTS severity than age or prostate volume.
+Improve
+Pathophysiology
+- There are two prostate growth phases
+The first phase begins in puberty and involves the prostate doubling in size
+The second phase occurs from the age of 25 and continues throughout mens' lives
+BPH tends to occur in the second prostate growth phase
+This occurs in men from the age of 25
+As the inner prostate layers propagate, the urethra will be compressed and the bladder wall may thicken
+These processes result in the LUTS commonly associated with BPH
+Improve
+Clinical features
+The stereotypical presentation of benign prostatic hyperplasia (BPH) is a middle-aged or elderly male presenting with lower urinary tract symptoms (LUTS). These are typically divided into storage and voiding symptoms.
+Storage Symptoms:
+Frequency:
+The patient experiences an increased need to urinate frequently during the day.
+Nocturia
+:
+This refers to waking up during the night to urinate, often multiple times.
+Urge incontinence:
+There is a sudden, intense urge to urinate, followed by an involuntary loss of urine.
+Voiding Symptoms:
+Hesitancy:
+The patient has difficulty initiating micturition and may require concentration or effort to start urinating.
+Poor stream:
+The flow of urine is weak or slow.
+Dribbling:
+Urine continues to drip out after completion of micturition, often leading to staining of undergarments.
+In addition to these classic symptoms, patients may also describe a sensation of incomplete bladder emptying. They may also have a history of acute
+urinary retention
+, which is an inability to pass urine and requires immediate catheterisation. It's important to note that the severity of LUTS does not always correlate with the size of the prostate; some men with significant prostatic enlargement may have minimal symptoms and vice versa.
+Beyond these primary complaints associated with BPH, patients can also exhibit secondary complications due to chronic urinary retention. These include recurrent urinary tract infections (UTIs), bladder stones, gross haematuria and renal insufficiency due to bilateral hydronephrosis. Rarely, patients may present with post-renal acute kidney injury.
+On physical examination, a digital rectal examination (DRE) may reveal an enlarged, smooth, firm and non-tender prostate. However, DRE findings alone are not reliable for diagnosing BPH or assessing the degree of prostatic enlargement.
+Improve
+Investigations
+Initial Investigations
+Urine dipstick
+: For blood, glucose, protein, and infection. A midstream urine sample (MSU) should be sent if infection is suspected or in the presence of haematuria.
+Frequency-volume chart
+: This is a diary kept by the patient to record the times and volumes of all voids over a 72-hour period, both day and night. This can help differentiate between reduced bladder capacity and increased urine production, as well as establish a baseline for
+nocturia
+.
+Prostate-specific antigen (PSA)
+: PSA is a protein produced by the prostate gland. A raised level can be indicative of BPH, prostatitis, or
+prostate cancer
+. PSA levels should be interpreted with caution considering factors such as age, prostate volume, and the use of 5-alpha-reductase inhibitors. Digital rectal examination (DRE) findings should also be considered when interpreting the result.
+Urine microscopy, culture, and sensitivity (MC&S)
+: This is done to detect and identify bacteria present in the urine and determine their antibiotic sensitivity pattern. It's particularly valuable if a urinary tract infection (UTI) is suspected or if the urine dipstick shows the presence of nitrites and/or leukocytes.
+Post-void residual urine measurement
+: This measures the amount of urine left in the bladder after voiding. An increased volume can suggest voiding dysfunction, bladder outlet obstruction, or detrusor underactivity. It can be measured via ultrasound or catheterisation.
+Additional Investigations
+Depending on initial findings and clinical suspicion, further investigations can be warranted:
+Ultrasound of the urinary tract:
+Provides information about kidney morphology, detects hydronephrosis, bladder wall thickening, and post-void residual volume. Transrectal ultrasonography (TRUS) can also provide an estimate of prostate size and guide biopsies if required.
+Uroflowmetry:
+This test measures the maximum flow rate and total volume of urine, giving an objective measurement of the strength and consistency of the urinary stream. Reduced flow rates can be indicative of bladder outlet obstruction.
+Cystoscopy:
+This is a procedure that involves inserting a narrow tube fitted with a camera (cystoscope) into the urethra to visualise the urethra and bladder directly. It's particularly valuable when there is suspicion of structural abnormalities, bladder stones, tumours, or unexplained hematuria.
+Urodynamic studies:
+These are a series of tests that provide detailed information about the storage and flow of urine out of the bladder. They can evaluate causes of incontinence, assess bladder capacity and detrusor muscle function, and identify issues like detrusor overactivity or bladder outlet obstruction. Common urodynamic tests include multichannel cystometry, pressure flow studies, and urethral pressure profilometry.
+Improve
+Differential diagnosis
+The differential diagnosis of BPH includes conditions that present with similar lower urinary tract symptoms (LUTS). In this discussion, we will focus on two other conditions that may present similarly to BPH:
+prostate cancer
+and prostatitis.
+Prostate Cancer
+Prostate cancer is the most common malignancy in men and may present with symptoms that overlap with BPH. Both conditions can lead to LUTS, including
+urinary frequency
+, urgency,
+nocturia
+, weak urinary stream, hesitancy, and incomplete bladder emptying. However, prostate cancer may also present with additional symptoms, such as hematuria, weight loss, bone pain, or elevated serum prostate-specific antigen (PSA) levels.
+Differentiating between BPH and prostate cancer is essential for appropriate management. Digital rectal examination (DRE) can provide valuable information, as prostate cancer may present with a nodular, firm, or asymmetric prostate, whereas BPH typically presents with a symmetrically enlarged, smooth, and rubbery prostate. If the clinical suspicion for prostate cancer is high, further evaluation with serum PSA testing, multiparametric magnetic resonance imaging (mpMRI), and prostate biopsy may be warranted.
+Prostatitis
+Prostatitis is the inflammation of the prostate gland and can be classified into four categories: acute bacterial prostatitis, chronic bacterial prostatitis, chronic pelvic pain syndrome (CPPS, formerly known as chronic nonbacterial prostatitis), and asymptomatic inflammatory prostatitis. The symptoms of prostatitis can overlap with BPH, as both conditions may cause LUTS. However, prostatitis may also present with additional symptoms, such as perineal, penile, or testicular pain, ejaculatory pain, dysuria, or systemic symptoms like fever, chills, and malaise in cases of acute bacterial prostatitis.
+Differentiating between BPH and prostatitis can be challenging due to the overlapping symptoms. In addition to a thorough history and physical examination, laboratory tests, such as urinalysis, urine culture, and expressed prostatic secretions (EPS) analysis, may help identify the presence of infection or inflammation. Treatment for prostatitis depends on the aetiology and may include antibiotics,
+alpha-blockers
+, anti-inflammatory medications, or pain management strategies.
+Improve
+Management
+In 2015, NICE published guidelines on managing LUTS.
+Initially, if patients are experiencing symptoms but their quality of life is unaffected and there is no evidence of complications such as UTIs, they will be encouraged to make
+lifestyle
+alterations. These may include:
+Avoiding fluids right before bed to reduce the likelihood of
+nocturia
+Reducing the consumption of diuretic fluids like alcohol and coffee
+'Double voiding', which involves emptying one's bladder twice whilst at the toilet
+The next stage of management involves
+medication
+. This step may be taken if the patient feels that their symptoms are affecting their quality of life or they have developed complications as a result of BOO. There are several drug options available:
+α-blockers such as
+tamsulosin
+to reduce smooth muscle tone to improve urine flow (for mild-moderate IPSS score)
+These medications act immediately
+If unfortunate side effects are experienced, patients may choose to switch to a different drug
+The next option would be a 5α-reductase inhibitor such as
+finasteride
+. These drugs reduce the conversion of testosterone to DHT
+These medications may take 6-12 months before a therapeutic effect is noted
+For patients with a severe IPSS score, it may be appropriate to begin combined treatment with both an α-blocker and a 5α-reductase inhibitor
+A
+referral
+to a urologist should be made when patients' symptoms are unable to be kept under control or if they develop complications such as hydronephrosis or
+urinary retention
+from BOO which may require invasive therapy. Other indications may include an early-age onset (<45), an abnormal DRE and haematuria.
+Surgery
+(for severe symptoms):
+Transurethral resection of prostate (TURP) to remove prostate tissue
+Transurethral incision of prostate (TUIP) to widen the urethra
+Common side effects:
+α-blockers
+Dizziness, postural hypotension, dry mouth, depression, drowsiness
+5α-reductase inhibitors
+Impotence and reduced interest in sex
+TURP
+Impotence
+Improve
+Complications
+Benign prostatic hyperplasia (BPH) can lead to several complications if left untreated or poorly managed. These include:
+Urinary tract infections (UTIs):
+Retention of urine in the bladder due to incomplete voiding may lead to recurrent UTIs.
+Acute
+urinary retention
+:
+BPH may suddenly obstruct the flow of urine, leading to a painful, urgent need to urinate but inability to do so. This condition often requires catheterisation for relief.
+Bladder stones:
+Chronic urinary retention and stasis can facilitate the formation of bladder stones, which may cause further urinary symptoms or UTIs.
+Bladder damage:
+Over time, increased pressure within the bladder due to incomplete emptying can lead to detrusor muscle hypertrophy and decreased bladder contractility, resulting in further urinary retention and potential renal impairment.
+Kidney damage:
+Prolonged obstruction from BPH can result in hydronephrosis with subsequent chronic kidney disease or acute kidney injury.
+In addition, patients with BPH often experience significant impact on their quality of life due to bothersome lower urinary tract symptoms such as
+nocturia
+, urgency, and frequency. These symptoms can lead to sleep disturbances, anxiety, depression, and decreased overall health-related quality of life.
+Improve
+Prognosis
+- In the past, chronic BPH at a late stage could lead to processes such as renal failure
+Due to advances in medical and surgical management, the complications from BPH are now commonly less severe
+However, with medical management:
+Symptoms may still progress, having a large impact on patients' quality of life and leading to the need for surgical management
+With surgical management:
+There is a risk of bleeding after surgery
+There is the potential for reduced sexual function
+This may take the form of erectile or ejaculatory dysfunction
+Trauma to the ureters may lead to the formation of urethral structures from scar tissue
+Urinary incontinence
+may occur
+Therefore, although end-stage processes such as renal failure are unlikely to occur from BPH, continued or potential new symptoms may have a significant impact on patients' quality of life
+Improve
+References
+NICE - 2010 The management of lower urinary tract symptoms in men
+Clinical Knowledge Summaries - Lower urinary tract symptoms in men
+UKMLA condition
+Benign prostatic hyperplasia

@@ -1,0 +1,133 @@
+Viral meningitis
+Viral meningitis
+Viral
+meningitis
+, also known as aseptic meningitis, is an inflammation of the meninges caused predominantly by non-polio enteroviruses. Other viral aetiologies include herpes simplex virus (HSV), varicella-zoster virus (VZV), mumps and HIV. It's characterised by sudden onset of
+headache
+,
+fever
+,
+photophobia
+,
+neck stiffness
+and sometimes accompanied by rash or gastrointestinal symptoms.
+Diagnosis is confirmed through lumbar puncture with cerebrospinal fluid (CSF) showing lymphocytic pleocytosis, normal glucose levels and mildly elevated protein. Polymerase chain reaction (PCR) testing on CSF can help identify the causative organism. Neuroimaging prior to lumbar puncture may be needed in cases with altered mental status or focal neurological signs.
+Management is largely supportive; antivirals such as acyclovir are used for HSV or VZV infections. Nonsteroidal anti-inflammatory drugs (NSAIDs) and analgesics are often used for symptom relief. Most patients recover fully without specific treatment within 7-10 days.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: more common in females 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Patients at the extremes of age ( children under 5 years and the elderly) and those that are immunocompromised, for example, patients with renal failure, with diabetes, patients using intravenous drugs, are all more susceptible to infection and may experience a more severe and prolonged course of infection.
+Improve
+Pathophysiology
+The process begins when a susceptible individual is exposed to a virus, typically one from the Enterovirus genus (
+Enterovirus
+spp.) or other common causative agents such as
+Herpes simplex
+,
+Mumps virus
+, or
+Arboviruses
+. These viruses initially infect the host through respiratory or gastrointestinal routes.
+The virus then crosses mucosal barriers and enters the bloodstream, leading to viraemia. Once in the bloodstream, the virus can cross the blood-brain barrier (BBB) or blood-cerebrospinal fluid (CSF) barrier. In some cases, neurotropic viruses may reach the CNS via retrograde axonal transport along peripheral nerves.
+Upon crossing these barriers, the virus infects meningeal cells and causes an inflammatory response. This inflammation is mediated by cytokines and chemokines released by infected cells and immune cells such as macrophages and T lymphocytes. The release of these mediators leads to increased permeability of the BBB.
+As a result of this increased permeability, there is an influx of immune cells into the subarachnoid space. This cellular infiltration further amplifies inflammation and contributes to oedema formation within the meninges. The presence of oedema increases intracranial pressure (ICP), which can lead to symptoms such as
+headache
+,
+nausea
+,
+vomiting
+,
+photophobia
+, and
+neck stiffness
+.
+The inflammatory process also results in alterations in CSF dynamics. Increased production of CSF proteins occurs due to disruption of normal blood-CSF barrier functions. Elevated protein levels in CSF are commonly observed during lumbar puncture in patients with viral
+meningitis
+.
+The infection triggers a robust immune response characterised by activation of both innate and adaptive immunity. Pattern recognition receptors (PRRs) on resident glial cells detect viral components leading to downstream signalling pathways that produce interferons and other antiviral molecules.
+On a molecular level, viruses may induce neuronal damage either directly through cytopathic effects or indirectly via immunopathology resulting from an excessive immune response. Neuronal injury can contribute to neurological manifestations including altered mental status or seizures.
+Anatomically, swelling within confined spaces like cranial vault exacerbates ICP elevation causing potential herniation syndromes if not managed promptly.
+Immunologically, persistent antigenic stimulation maintains chronic inflammation potentially leading long-term sequelae despite resolution acute phase illness.
+Improve
+Clinical features
+Patients almost always present with a
+headache
+, evidence of
+neck stiffness
+,
+photophobia
+(often milder than the photophobia experienced by a patient with bacterial
+meningitis
+),
+confusion
+, fevers and may have focal neurological deficits on examination, although again this is less frequently observed in viral as opposed to bacterial meningitis. Rarely, patients may experience seizures, however, these would tend to suggest a meningoencephalitis ( spread of the infection to the encephalon) rather than meningitis. Likewise, a significant change in behaviour, disorientation and or marked deterioration in mental state would be more in keeping with meningoencephalitis.
+Improve
+Investigations
+Investigating a suspected case of viral
+meningitis
+involves an array of investigations that are aimed at confirming the diagnosis, identifying the causative agent, and ruling out other potential differential diagnoses.
+First-line Investigations
+Lumbar Puncture:
+This is the most important investigation in suspected cases of viral meningitis. It allows for collection of cerebrospinal fluid (CSF) which can be analysed for signs suggestive of viral infection such as lymphocytic pleocytosis, normal or slightly elevated protein levels, and normal glucose levels.
+CSF Polymerase Chain Reaction (PCR):
+This test is used to identify specific viral genetic material in the CSF. It has high sensitivity and specificity for detecting common causes of viral meningitis such as
+Enteroviruses
+,
+Herpes simplex virus
+,
+Varicella zoster virus
+, and others.
+Blood Tests:
+Full blood count, C-reactive protein (CRP), and blood cultures may be performed to exclude bacterial infection. Additionally, liver function tests may be useful in evaluating patients with suspected mumps meningitis.
+Further Investigations
+If initial investigations are inconclusive or if there are specific clinical features suggesting other possible diagnoses, further investigations may be warranted.
+Magnetic Resonance Imaging (MRI) or Computed Tomography (CT):
+These imaging studies might be necessary if there are focal neurological signs or symptoms suggestive of complications like cerebral oedema or abscess formation. However, they are not routinely required in uncomplicated cases.
+Serological Testing:
+In some cases where PCR is negative but suspicion remains high, serological testing may be useful. This involves measuring antibody levels against specific viruses in the blood to determine if a recent infection has occurred.
+Viral Culture:
+While CSF PCR is generally more sensitive and faster, viral culture from CSF, throat swabs or faecal samples can still play a role in diagnosis especially for less common viruses not covered by standard PCR tests.
+Improve
+Management
+Generally speaking, viral
+meningitis
+is self-limiting, with symptoms improving over the course of 7 - 14 days and complications are rare in immunocompetent patients.
+Improve
+Complications
+Viral
+meningitis
+, while generally less severe than its bacterial counterpart, can lead to a range of complications. These may be acute or emerge as long-term sequelae.
+Acute Complications:
+Cerebral oedema:
+This is the most immediate and potentially life-threatening complication. Patients may present with altered consciousness, seizures, focal neurological signs or even coma. Prompt identification and management are essential.
+Seizures:
+Seizures can occur secondary to cerebral irritation. Anticonvulsant therapy may be required.
+Syndrome of inappropriate antidiuretic hormone (SIADH):
+SIADH can result in hyponatraemia leading to seizures,
+headache
+and
+nausea
+. Management involves fluid restriction and careful monitoring of electrolyte levels.
+Long-term Complications:
+Cognitive impairment:
+Cognitive deficits including memory loss, difficulty concentrating and behavioural changes can persist post-recovery.
+Hearing loss:
+Sensorineural hearing loss is a recognised complication of viral meningitis due to damage to the auditory nerve. Regular audiological assessments should be conducted in the recovery phase.
+Improve
+Infectious diseases
+Viral meningitis

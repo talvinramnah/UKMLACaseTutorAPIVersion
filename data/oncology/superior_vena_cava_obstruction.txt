@@ -1,0 +1,131 @@
+Superior vena cava obstruction
+Superior vena cava obstruction
+Superior vena cava obstruction (SVCO) is characterised by the partial or complete blockage of the superior vena cava, leading to impaired venous return from the upper body. This condition is most commonly caused by malignancies such as bronchogenic carcinoma and lymphomas, but can also result from benign aetiologies like thrombosis or fibrosing mediastinitis. Clinical manifestations include facial and upper extremity oedema,
+dyspnoea
+,
+cough
+, and distended neck veins. Less common symptoms may involve hoarseness, dysphagia, and stridor due to laryngeal oedema. Diagnostic evaluation typically involves imaging modalities such as contrast-enhanced CT scans, which provide detailed anatomical information regarding the extent of obstruction and underlying pathology. Management strategies depend on the aetiology and severity of symptoms; they may include corticosteroids for inflammation reduction, anticoagulation therapy for thrombotic causes, endovascular stenting to restore patency, or radiotherapy for malignant causes.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 4.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of SVC obstruction is multifactorial, with various risk factors and underlying causes contributing to its development.
+Risk Factors
+Malignancy:
+The majority of SVC obstructions are secondary to malignant diseases. Lung cancer, particularly small cell lung carcinoma and non-small cell lung carcinoma, is the most common cause. Other malignancies include lymphomas and metastatic cancers.
+Thrombosis:
+Thrombotic conditions such as deep vein thrombosis (DVT) can contribute to SVC obstruction. The risk is increased in patients with indwelling central venous catheters or pacemakers.
+Infections:
+In rare cases, infections may lead to SVC obstruction. This typically occurs when an infection leads to mediastinitis or fibrosing mediastinitis.
+Tuberculosis
+: An uncommon but possible cause of SVC syndrome is
+Tuberculosis
+, which can trigger mediastinal fibrosis and consequent compression of the SVC.
+Sarcoidosis
+: This systemic granulomatous disease can involve any organ system but commonly affects the lungs and lymph nodes, potentially leading to SVC obstruction through granuloma formation and subsequent compression.
+Fibrosing Mediastinitis:
+This rare disorder is characterised by the excessive proliferation of fibrous tissue in the mediastinum, which can encase and compress the SVC.
+Behçet's Disease:
+This rare, chronic autoimmune vasculitis can result in inflammation and thrombosis of the large veins, including the SVC.
+Improve
+Pathophysiology
+The sign & symptoms of superior vena cava obstruction are caused by obstruction of venous return from head & neck, upper thorax and upper limbs via superior vena cava. Obstruction can be caused by external compression and or internal blockage by a thrombus.
+The presentation can be either subacute/chronic or acute ( in rapidly growing tumours).
+Most cases are subacute/chronic. In these cases, venous collaterals develop and venous pressure is not extremely raised. Patients in these cases don't need urgent treatment.
+In acute cases, venous pressure increases to dangerous levels and complications can develop.
+Complications:
+Severe laryngeal oedema & airway obstruction
+Cerebral oedema  causes neurological signs
+Low cardiac output leads to hypotension
+Pulmonary embolism if the intravascular thrombus is present
+Acute untreated SVCO can cause sudden death.
+Improve
+Clinical features
+Features
+dyspnoea
+the most common symptom
+may be exacerbated by lying down (orthopnoea)
+swelling of the face, neck and arms -  conjunctival and periorbital oedema may be seen
+chest pain
+: can vary from mild to severe
+headache
+: often worse in the mornings
+visual disturbance
+pulseless jugular venous distension
+collateral vein development: the development of collateral veins on the chest wall, abdomen, or back is a late sign of chronic SVCO
+compressive symptoms
+trachea: stridor
+oesophagus: dysphagia
+recurrent laryngeal nerve: hoarseness
+Improve
+Investigations
+Diagnosis can be made on clinical grounds in patients with overt symptoms and signs. However, further investigations are required to confirm the diagnosis and to identify the underlying aetiology.
+Chest x-ray
+widened mediastinum or mass lesion in the lung
+CT thorax
+Most useful imaging test
+Done with intravenous contrast
+Helps establish the diagnosis; shows the exact location, severity, and associated pathology (e.g., malignancy or intravascular thrombosis)
+Helpful in obtaining a tissue diagnosis by CT-guided biopsy
+MRI chest
+Useful in patients with a history of contrast allergy or those at risk of contrast-induced worsening of renal function
+Contraindicated in patients with pacemakers and defibrillators
+Doppler ultrasound of upper extremities
+Useful non-invasive screening test
+Helps in identification of venous thrombosis or obstruction
+Presence of monophasic flow in the superior vena cava (SVC) or loss of respiratory variation on Doppler ultrasound can suggest superior vena cava  obstruction (SVCO)
+Venography
+Invasive test, usually performed by venous catheterisation through the femoral vein and injection of contrast dye in the SVC
+Defines site and extent of SVC obstruction and collateral pathways
+Does not provide information about lung or mediastinal pathology
+Not usually required for diagnosis due to improvements in CT and MRI, but useful for endoscopic interventions
+Biopsy
+Obtaining tissue diagnosis is important to confirm or out rule the presence of malignancy
+Different techniques can be used to get tissue or cells for diagnosis, for example, bronchoscopy, transthoracic needle-aspiration biopsy, mediastinoscopy or  a biopsy from supraclavicular or cervical lymph nodes
+Improve
+Management
+Once the diagnosis has been established, a malignant or non-malignant cause of SVCO must be determined, as treatment options differ. Treatment usually involves relieving the symptoms of obstruction and treating the underlying aetiology.
+Symptom relief
+Elevation of the head of the bed
+Supplemental oxygen
+Corticosteroids and diuretics are used to relieve symptoms although evidence for their efficacy is lacking
+Radiotherapy or percutaneous stenting can be used  in the emergency situation (eg, reduced cardiac output, cerebral or laryngeal oedema)
+Urgent treatment with radiotherapy and corticosteroids should be used only for life-threatening situations. It should be deferred otherwise, due to interference with subsequent histopathological diagnosis
+Malignant obstructions
+Selection of therapy will depend on the type of malignancy, staging, and histopathology
+Most malignant tumours causing SVCO are sensitive to radiotherapy
+Chemotherapy is an effective option for treatment of lung cancer, lymphomas, and germ cell tumours
+Surgery for tumours resistant to chemo and radiotherapy e.g. thymoma
+Benign obstructions
+Benign causes are managed with percutaneous stenting
+Bypass grafting
+Anticoagulation & intravascular thrombolysis for thrombosis
+Treatment of underlying infectious aetiology
+Palliative therapy
+This includes palliative radiotherapy, chemotherapy or corticosteroids (for lymphomas and thymomas), endovascular stents, or rarely bypass surgery
+Improve
+Prognosis
+Prognosis usually depends on the underlying aetiology, with poor prognosis for malignant conditions.
+Malignant aetiology
+In patients with treatment-responsive malignancies, superior vena cava obstruction does not necessarily signify an adverse outcome
+In patients with cancer resistant to chemotherapy and radiotherapy, development of superior vena cava  obstruction is associated with poor prognosis
+Benign aetiology
+Prognosis is generally very good
+In some cases there might be a need to repeat stenting or surgery
+Improve
+Oncology
+Superior vena cava obstruction

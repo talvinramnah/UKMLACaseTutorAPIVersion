@@ -1,0 +1,149 @@
+Sjogren's syndrome
+Sjogren's syndrome
+Sjogren's syndrome is a chronic, systemic autoimmune condition characterised by lymphocytic infiltration of exocrine glands, primarily the salivary and lacrimal glands. This results in xerostomia and keratoconjunctivitis sicca, commonly referred to as
+dry mouth
+and
+dry eyes
+respectively. Patients may also present with extraglandular manifestations such as
+arthralgia
+, Raynaud's phenomenon, pulmonary involvement, renal tubular acidosis, and neurological complications. The aetiology remains unclear but genetic predisposition appears to play a role.
+The diagnosis often involves a combination of clinical assessment, serological testing for autoantibodies (anti-Ro/SSA and anti-La/SSB), ocular tests for dry eyes (Schirmer’s test or Rose Bengal staining), and labial salivary gland biopsy if indicated. Management is mainly symptomatic with artificial tears for dry eyes, saliva substitutes or stimulants for dry mouth. Systemic immunosuppressive therapy may be necessary in cases with significant systemic involvement.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 10:1
+Condition
+Relative
+incidence
+Salivary gland stones
+1.20
+Sjogren's syndrome
+1
+Systemic lupus erythematosus
+1.00
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Sjogren's syndrome is a chronic autoimmune disorder characterised by lymphocytic infiltration of the exocrine glands, primarily affecting salivary and lacrimal glands. The precise aetiology remains unclear; however, several risk factors and underlying causes have been identified.
+Genetic predisposition:
+Familial clustering and association with specific genetic markers such as HLA-DR and HLA-DQ alleles suggest a genetic component. Polymorphisms in genes related to immune function, including STAT4, IRF5, and TNFAIP3, are also implicated.
+Gender:
+Sjogren's syndrome predominantly affects females, with a female-to-male ratio of approximately 9:1. This gender disparity suggests a role for sex hormones in disease susceptibility.
+Age:
+The incidence increases with age, most commonly presenting in individuals between 40 and 60 years old.
+Environmental factors:
+Viral infections have been proposed as potential triggers. Infections with Epstein-Barr virus (EBV), cytomegalovirus (CMV), hepatitis C virus (HCV), and human T-lymphotropic virus type I (HTLV-I) may initiate or exacerbate the autoimmune response.
+Autoimmunity:
+Presence of autoantibodies such as anti-Ro/SSA and anti-La/SSB is characteristic. These autoantibodies target ribonucleoprotein complexes within cells, contributing to glandular dysfunction.
+The interplay between these factors likely contributes to the development of Sjogren's syndrome through complex mechanisms involving both innate and adaptive immune responses.
+Improve
+Pathophysiology
+Sjögren's syndrome is an autoimmune disorder characterised by lymphocytic infiltration and destruction of the exocrine glands, primarily the salivary and lacrimal glands. This leads to xerostomia (
+dry mouth
+) and keratoconjunctivitis sicca (
+dry eyes
+), respectively.
+The pathogenesis begins with an aberrant immune response. Genetic predisposition coupled with environmental triggers such as viral infections can initiate this process. Autoreactive T cells become activated and infiltrate exocrine glands.
+Within the affected glands, there is a marked increase in pro-inflammatory cytokines including interleukin-1 (IL-1), tumour necrosis factor-alpha (TNF-α), and interferon-gamma (IFN-γ). These cytokines promote further recruitment of immune cells, predominantly CD4+ T cells and B cells. The local inflammatory milieu results in glandular dysfunction through both direct cytotoxic effects on acinar epithelial cells and disruption of normal glandular architecture.
+B cell hyperactivity is another hallmark of Sjögren's syndrome. There is increased production of autoantibodies such as anti-Ro/SSA and anti-La/SSB, which are directed against ribonucleoprotein complexes within the nucleus of glandular epithelial cells. These autoantibodies may contribute to tissue damage either directly or via immune complex formation and deposition within glandular tissues.
+Chronic inflammation leads to fibrosis and atrophy of the exocrine glands over time. The resultant loss of functional acinar cells impairs saliva and tear production, manifesting clinically as dry mouth and dry eyes.
+Xerostomia:
+Reduced salivary flow due to destruction of salivary gland tissue leads to difficulties in speaking, chewing, swallowing, increased dental caries, oral candidiasis, and halitosis.
+Keratoconjunctivitis sicca:
+Decreased tear production results in ocular dryness, irritation, foreign body sensation, photophobia, recurrent conjunctivitis, corneal ulcers or abrasions.
+Beyond the exocrine manifestations, systemic involvement can occur due to widespread immune dysregulation. This includes
+arthralgia
+or arthritis from synovial inflammation; pulmonary involvement such as interstitial lung disease; renal tubular acidosis from tubulointerstitial nephritis; peripheral neuropathy secondary to vasculitis or direct nerve infiltration; cutaneous vasculitis presenting as purpura or urticaria; hepatic involvement like autoimmune hepatitis; gastrointestinal symptoms including dysphagia or pancreatitis; haematological abnormalities like anaemia or thrombocytopenia; lymphoproliferative disorders including an increased risk for non-Hodgkin lymphoma.
+Improve
+Clinical features
+Features
+dry eyes
+: keratoconjunctivitis sicca
+dry mouth
+vaginal dryness
+arthralgia
+Raynaud's, myalgia
+sensory polyneuropathy
+recurrent episodes of parotitis
+renal tubular acidosis (usually subclinical)
+Improve
+Investigations
+Investigation
+rheumatoid factor
+(RF) positive in around 50% of patients
+ANA
+positive in 70%
+anti-Ro (SSA) antibodies in 70% of patients with PSS
+anti-La (SSB) antibodies in 30% of patients with PSS
+Schirmer's test: filter paper near conjunctival sac to measure tear formation
+histology: focal lymphocytic infiltration
+also: hypergammaglobulinaemia, low C4
+Improve
+Diagnosis
+Rheumatology guidelines, are commonly used in the UK.
+Clinical Features
+Dry eyes
+for more than three months, use of tear substitutes more than three times daily or presence of keratoconjunctivitis sicca with ocular staining score ≥3.
+Dry mouth
+, recurrent or persistently swollen salivary glands or need to drink liquids to swallow dry foods.
+Serological Features
+Presence of anti-Ro(SSA) and/or anti-La(SSB) antibodies.
+Elevated IgG levels >1.5 g/L.
+Objective Evidence
+Ocular tests: Schirmer's test showing ≤5 mm/5 minutes wetting and/or Rose Bengal scores ≥4 (or equivalent).
+Sialometry demonstrating unstimulated whole saliva flow rate ≤1.5 ml/15 minutes.
+Sialography showing presence of diffuse sialectasias without obstruction in gland ducts.
+Salivary scintigraphy revealing delayed uptake, reduced concentration and/or delayed excretion of tracer.
+Histopathology
+Lip biopsy exhibiting focal lymphocytic sialadenitis with a focus score ≥1 per 4 mm² glandular tissue area.
+A diagnosis can be made if there is the presence of any two of the three following criteria: positive serum anti-SSA and/or anti-SSB antibodies, characteristic ocular and oral symptoms for more than three months, or presence of focal lymphocytic sialadenitis in minor salivary gland biopsy with a focus score ≥1.
+Exclusion criteria include prior head and neck radiation treatment, hepatitis C infection, Acquired Immunodeficiency Syndrome (AIDS), pre-existing lymphoma, sarcoidosis, graft-versus-host disease and use of anticholinergic drugs (past and present).
+Improve
+Management
+Management
+artificial saliva and tears
+pilocarpine may stimulate saliva production
+Improve
+Complications
+Sjogren's syndrome is an autoimmune condition primarily characterised by
+dry eyes
+(keratoconjunctivitis sicca) and a
+dry mouth
+(xerostomia) due to lymphocytic infiltration and consequent dysfunction of the salivary and lacrimal glands. Although it predominantly affects these exocrine glands, it has systemic implications, which can give rise to various complications.
+Dental Problems
+The reduced saliva production in Sjogren's syndrome affects the protective and antimicrobial properties of saliva, increasing the risk for:
+Dental caries: The lack of adequate saliva predisposes to accelerated tooth decay.
+Oral candidiasis (thrush): A fungal infection that can manifest as painful white patches or redness.
+Ocular Complications
+Chronic dryness and lack of tear production can lead to:
+Keratitis: Inflammation of the cornea, which might cause visual disturbances.
+Corneal ulcers and infections: Potentially sight-threatening conditions.
+Systemic Complications
+The extraglandular manifestations of Sjogren's syndrome can be diverse:
+Arthralgia and arthritis:
+Joint pain
+and inflammation are commonly seen, though unlike rheumatoid arthritis, the joints are typically non-deforming.
+Raynaud's phenomenon: Characterised by episodes of white, blue, and red discolouration of the fingers and toes in response to cold or stress.
+Interstitial lung disease: Manifests with dry cough and shortness of breath.
+Lymphoproliferative Disorders
+Patients with Sjogren's syndrome have an increased risk of developing non-Hodgkin lymphoma, primarily mucosa-associated lymphoid tissue (MALT) lymphoma. It's vital to be vigilant about symptoms like unexplained lymphadenopathy, weight loss, and night sweats.
+Neuropathies
+Peripheral neuropathy, often presenting as sensory disturbances or pain in the extremities, can be a feature. More rarely, central nervous system involvement may occur.
+Renal Complications
+Tubulointerstitial nephritis is the most common renal manifestation. Additionally, renal tubular acidosis and, less frequently, glomerulonephritis can occur.
+Pregnancy and Neonatal Complications
+Women with Sjogren's syndrome might possess antibodies (anti-Ro/SSA and anti-La/SSB) which, if transmitted to the foetus, can lead to neonatal lupus or congenital heart block in the child.
+Improve
+Rheumatology
+Sjogren's syndrome

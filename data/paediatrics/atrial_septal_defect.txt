@@ -1,0 +1,104 @@
+Atrial septal defect
+Atrial septal defect
+Atrial septal defect (ASD)
+is a congenital heart condition characterised by an opening in the interatrial septum, allowing shunting of blood between the left and right atria. This anomaly leads to volume overload of the right atrium and ventricle, pulmonary vasculature, and can result in right-sided heart failure if untreated.
+The defect can be categorised into four types: ostium secundum (most common), ostium primum, sinus venosus and coronary sinus defects. The diagnosis typically involves echocardiography, revealing the defect and associated cardiac changes such as right ventricular hypertrophy or dilatation.
+Management depends on the size of the defect and presence of symptoms. Small ASDs may close spontaneously or remain asymptomatic requiring no intervention. Larger defects often require closure via cardiac catheterisation or surgical repair to prevent complications including pulmonary hypertension, arrhythmias or stroke.
+Last updated: 25
+th
+July 2024
+Pathophysiology
+Atrial septal defect (ASD) is characterised by an abnormal opening in the atrial septum, allowing blood flow between the left and right atria. The pathophysiology of ASD involves several interconnected mechanisms that lead to its clinical manifestations.
+The presence of an atrial septal defect creates a communication between the left and right atria. Due to higher pressure in the left atrium compared to the right atrium, there is typically a left-to-right shunt. This shunting of oxygenated blood from the left atrium into the right atrium results in increased pulmonary blood flow.
+The augmented volume load on the right side of the heart leads to dilation of both the right atrium and ventricle. Over time, this volume overload can cause right ventricular hypertrophy due to increased workload. The increased pulmonary blood flow also leads to elevated pulmonary artery pressures, which may contribute to pulmonary hypertension if prolonged.
+Increased pulmonary circulation results in enhanced venous return to the left side of the heart, potentially causing enlargement of the left atrium and ventricle as well. However, since a significant portion of oxygenated blood recirculates through the lungs rather than being delivered systemically, systemic cardiac output may be reduced despite overall increased cardiac work.
+Chronically elevated pulmonary pressures can lead to vascular changes within the lungs, including medial hypertrophy and intimal proliferation within small pulmonary arteries. These changes further exacerbate pulmonary hypertension and can eventually lead to Eisenmenger syndrome if untreated, where reversal of shunt direction occurs due to significantly elevated right-sided pressures.
+Haemodynamically significant ASDs can also predispose individuals to arrhythmias such as atrial fibrillation or flutter due to structural remodelling and dilatation of the atria. Additionally, patients with ASD are at risk for paradoxical embolism because thrombi formed in peripheral veins can pass through the defect into systemic circulation instead of being filtered out by pulmonary capillaries.
+Volume overload:
+Increased blood flow through ASD leads to dilation and hypertrophy of right heart chambers
+Pulmonary hypertension:
+Elevated pulmonary artery pressures result from chronic increased flow
+Eisenmenger syndrome:
+Reversal of shunt direction due to severe pulmonary hypertension
+Arrhythmias:
+Atrial dilation predisposes patients to abnormal electrical activity
+Paradoxical embolism:
+Risk of systemic emboli bypassing lung filtration via ASD
+Improve
+Classification
+Atrial septal defects (ASDs) are categorised according to their anatomical location within the atrial septum. The classification includes:
+Ostium secundum ASD:
+This is the most common type, accounting for approximately 70% of all ASDs. It is located in the central part of the atrial septum.
+Ostium primum ASD:
+Also known as an endocardial cushion defect, this type accounts for about 15-20% of cases. Ostium primum defects are located in the lower part of the atrial septum and often occur with abnormalities of the atrioventricular valves.
+Sinus venosus ASD:
+Located near the entry point of the superior or inferior vena cava, these defects make up around 5-10% of cases. Sinus venosus defects can be further subdivided into superior and inferior types.
+Coronary sinus ASD:
+This rare defect involves unroofing of the coronary sinus, creating a communication between it and the left atrium.
+In addition to these primary classes, complex or unclassified ASDs may also occur. These are typically associated with other cardiac anomalies such as persistent left superior vena cava or anomalous pulmonary venous drainage.
+The size of an ASD can also vary significantly, from small (less than 5mm) to large (greater than 15mm). The size and location of a defect will influence both symptomatic presentation and treatment approach.
+Improve
+Investigations
+The investigation of a suspected atrial septal defect (ASD) typically begins with non-invasive imaging modalities. The first-line investigation is often an echocardiogram.
+Echocardiography
+Echocardiography, both transthoracic (TTE) and transesophageal (TEE), plays a pivotal role in the diagnosis and management of ASD. These investigations provide detailed information about the size, location, and number of defects along with associated cardiac anomalies if present.
+Transthoracic Echocardiography (TTE):
+This is the primary diagnostic tool for ASD. It provides two-dimensional images of the heart structures enabling direct visualisation of the septum and potential defect(s). It also allows measurement of shunt magnitude by Doppler flow studies.
+Transesophageal Echocardiography (TEE):
+TEE may be utilised when TTE images are suboptimal or further delineation of anatomy is required. It offers superior resolution compared to TTE and can better characterise complex or multiple defects, especially those located at the superior or inferior margins of the septum.
+Chest X-ray
+A chest X-ray may be performed as part of initial evaluation but its utility in diagnosing ASD is limited. However, it can show signs suggestive of right heart volume overload such as cardiomegaly and increased pulmonary vascular markings.
+Electrocardiogram (ECG)
+An ECG can provide supportive evidence for ASD but is not diagnostic. Common findings include right axis deviation, incomplete right bundle branch block, and atrial arrhythmias including atrial fibrillation or flutter.
+Further Investigations
+If more detail is required, particularly in complex cases or prior to surgical intervention, additional imaging modalities may be considered:
+Cardiac Magnetic Resonance Imaging (MRI):
+Cardiac MRI provides high-resolution images of the heart and great vessels. It can accurately quantify shunt volume and assess right ventricular size and function, aiding in determining the need for closure of the defect.
+Cardiac Computed Tomography (CT):
+Cardiac CT can provide three-dimensional reconstructions of the heart which may be useful in preoperative planning. However, it is less commonly used due to exposure to ionising radiation.
+Finally, cardiac catheterisation is rarely needed for diagnosis but may be performed for haemodynamic assessment or therapeutic interventions such as device closure of ASD.
+Improve
+Management
+Management of atrial septal defect (ASD) requires a comprehensive approach that includes evaluation, decision-making and treatment. The following steps are generally followed:
+Evaluation
+Echocardiography:
+This is the primary diagnostic tool for ASD. It provides details about the size, location and number of defects, as well as right ventricular volume overload.
+Cardiac MRI or CT scan:
+These may be used for further assessment in cases where echocardiographic findings are inconclusive.
+Pulmonary function tests:
+These can help assess pulmonary hypertension.
+Decision-Making
+The decision to close an ASD depends on several factors including the patient's symptoms, size of the defect, presence of right ventricular enlargement, and evidence of significant left-to-right shunt or pulmonary hypertension.
+Percutaneous closure is preferred over surgical repair if anatomy permits due to its less invasive nature and comparable efficacy.
+Treatment
+Percutaneous device closure:
+This is performed under fluoroscopic and echocardiographic guidance. Devices such as Amplatzer septal occluder or Gore Cardioform septal occluder are commonly used.
+Surgical repair:
+Indicated when percutaneous closure is not possible due to unfavourable anatomy or associated cardiac anomalies requiring surgery. Open heart surgery using cardiopulmonary bypass is typically performed with direct suture closure or patch placement.
+Medical management:
+In asymptomatic patients with small defects and no evidence of right ventricular volume overload or pulmonary hypertension, observation with periodic follow-up may be sufficient. Medical therapy may also be required for associated conditions such as arrhythmias or heart failure.
+Post-procedure care
+After device closure, dual antiplatelet therapy (aspirin and clopidogrel) is usually recommended for six months to prevent thrombus formation on the device.
+Endocarditis prophylaxis is not routinely recommended after ASD closure. However, it may be considered in the first six months following device placement or lifelong in those with residual defects adjacent to the device or patch.
+Improve
+Complications
+Complications of atrial septal defect (ASD) can be severe, and often manifest later in life if the condition is left untreated. These complications primarily include:
+Pulmonary hypertension:
+Chronic left-to-right shunting can lead to an increase in pulmonary blood flow, resulting in elevated pulmonary vascular resistance and pulmonary arterial hypertension. This may progress to Eisenmenger syndrome, a serious late complication characterised by irreversible pulmonary vascular disease and cyanosis.
+Right-sided heart failure:
+The increased blood volume that the right side of the heart needs to pump can eventually cause it to enlarge and fail. This condition is known as right ventricular dilatation or heart failure.
+Atrial arrhythmias:
+Atrial fibrillation or atrial flutter are common among adults with ASDs. These arrhythmias are due to atrial enlargement and altered conduction properties.
+Stroke:
+Paradoxical embolism, where a clot travels from the venous system through an ASD to the arterial system, can result in stroke or systemic emboli.
+Migraine with aura:
+There is an association between ASD and migraine with aura, potentially due to paradoxical embolism or altered cerebral haemodynamics.
+Few less common complications include:
+Pulmonary arteriovenous malformations
+: Although rare, these malformations have been reported in patients with ASDs which could result in hypoxaemia.
+Mitral valve prolapse
+: Mitral valve disorders including mitral regurgitation may occur secondary to left ventricular volume overload.
+In addition, closure of an ASD can also give rise to certain complications such as device embolisation or malposition, residual shunts, cardiac perforation or tamponade and thrombus formation on the device requiring anticoagulation.
+Improve
+Paediatric cardiology
+Atrial septal defect

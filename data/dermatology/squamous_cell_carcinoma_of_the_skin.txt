@@ -1,0 +1,66 @@
+Squamous cell carcinoma of the skin
+Squamous cell carcinoma of the skin
+Squamous cell carcinoma is a common variant of
+skin cancer
+. Metastases are rare but may occur in 2-5% of patients.
+Last updated: 24
+th
+July 2024
+Aetiology
+Risk factors include:
+excessive exposure to sunlight / psoralen UVA therapy
+actinic keratoses and Bowen's disease
+immunosuppression e.g. following renal transplant, HIV
+smoking
+long-standing leg ulcers (Marjolin's ulcer)
+genetic conditions e.g. xeroderma pigmentosum, oculocutaneous albinism
+Improve
+Clinical features
+Improve
+Management
+Surgical excision with 4mm margins if lesion <20mm in diameter. If tumour >20mm then margins should be 6mm. Mohs micrographic surgery may be used in high-risk patients and in cosmetically important sites.
+Improve
+Complications
+Squamous cell carcinoma of the skin, despite having a high cure rate when diagnosed early, can lead to several complications if not promptly treated. These complications predominantly include:
+Local recurrence:
+Even after successful treatment, there's a risk of the cancer returning in the same location or nearby areas. This typically occurs within the first two years following therapy.
+Metastasis:
+In advanced stages or aggressive forms, squamous cell carcinoma can spread to local lymph nodes, distant tissues and organs. The most commonly affected sites are lungs, liver and brain.
+Nerve involvement:
+Perineural invasion, where cancer cells invade the nerves surrounding the tumour site, can lead to pain and functional impairment depending on the nerve involved.
+Morbidity from surgical treatment:
+Depending on the size and location of the cancer lesion, surgical removal may result in significant cosmetic and functional deficits. This is particularly relevant for lesions located on the face or other highly visible areas.
+In addition to these direct complications related to squamous cell carcinoma itself, patients may also experience adverse effects from its treatments:
+Radiation dermatitis:
+A common side effect of radiotherapy used for squamous cell carcinoma treatment. It manifests as skin inflammation that ranges from mild redness to severe skin breakdown.
+Cytotoxic chemotherapy side effects:
+Systemic therapies can cause a variety of side effects including nausea, vomiting, hair loss, fatigue and myelosuppression leading to increased susceptibility to infections.
+Immunotherapy-related reactions:
+Immune checkpoint inhibitors can induce immune-related adverse events such as thyroiditis, colitis or pneumonitis due to overactivation of immune responses.
+Improve
+Prognosis
+The prognosis of squamous cell carcinoma (SCC) of the skin largely depends on the stage of the cancer at diagnosis, patient's overall health and presence of risk factors.
+Stage-specific 5-year survival rates
+Localised SCC:
+The 5-year relative survival rate for localised SCC, where the cancer is confined to its origin, is approximately 99%. Prompt detection and treatment are imperative for a favourable outcome.
+Regional SCC:
+For cases where SCC has spread to nearby lymph nodes or tissues, the 5-year survival rate drops to around 63%. This highlights the importance of early detection and intervention.
+Distant metastasis:
+In cases where SCC has metastasised to distant organs or lymph nodes, the 5-year survival rate is significantly reduced to about 16%.
+Good Prognosis
+Poor prognosis
+Well differentiated tumours
+Poorly differentiated tumours
+<20mm diameter
+>20mm in diameter
+<2mm deep
+>4mm deep
+No associated diseases
+Immunosupression for whatever reason
+Risk factors such as immunosuppression can adversely affect prognosis. Patients with a history of organ transplantation have an increased risk of developing aggressive variants of SCC and subsequently poorer outcomes.
+The presence or absence of perineural invasion also influences prognosis. Perineural invasion is associated with higher recurrence rates and decreased survival. It necessitates more aggressive treatment strategies including wider surgical excision margins and consideration for adjuvant radiotherapy.
+Improve
+References
+DermNet NZ - Squamous cell carcinoma
+Dermatology
+Squamous cell carcinoma of the skin

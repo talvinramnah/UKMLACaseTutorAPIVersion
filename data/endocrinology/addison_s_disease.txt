@@ -1,0 +1,149 @@
+Addison's disease
+Addison's disease
+Addison's disease, also known as primary adrenal insufficiency, is a rare endocrine disorder characterized by inadequate production of cortisol and aldosterone by the adrenal cortex. Autoimmune destruction is the most common cause, accounting for nearly 80% of cases. Other aetiologies include infections, such as tuberculosis, genetic disorders, and certain medications.
+Clinical manifestations of Addison's disease vary but often include chronic
+fatigue
+,
+weight loss
+, muscle weakness, orthostatic
+hypotension
+, and
+hyperpigmentation
+. Electrolyte imbalances, such as hyponatremia and hyperkalemia, are common due to insufficient aldosterone. Patients may present with an adrenal crisis, which is life-threatening and requires immediate intervention.
+Diagnosis involves assessing serum cortisol and adrenocorticotropic hormone (ACTH) levels, followed by an ACTH stimulation test to confirm inadequate cortisol response. Imaging may be warranted to evaluate for adrenal abnormalities. Treatment primarily consists of hormone replacement therapy with glucocorticoids, such as hydrocortisone, and mineralocorticoids, such as fludrocortisone. Patient education on stress dosing and crisis prevention is crucial for long-term management.
+Last updated: 14
+th
+December 2023
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Addison's disease, or primary adrenal insufficiency, results from the destruction or dysfunction of the adrenal cortex. The major etiological factors include:
+Autoimmune adrenalitis:
+The most common cause, accounting for 70-90% of cases, involves autoimmune destruction of the adrenal cortex. This can occur as an isolated condition or as part of autoimmune polyglandular syndromes (APS) type 1 or 2.
+Infections:
+Adrenal destruction can be caused by infections, such as tuberculosis (historically a leading cause), fungal infections, HIV, and cytomegalovirus.
+Genetic disorders:
+Mutations in genes like CYP21A2 (congenital adrenal hyperplasia) and AIRE (APS-1) can result in adrenal insufficiency.
+Metastatic infiltration:
+Malignancies, such as lung, breast, or melanoma, can metastasize to the adrenal glands, causing adrenal cortex damage.
+-
+Adrenal haemorrhage:
+Trauma, anticoagulation, and sepsis can lead to adrenal haemorrhage, resulting in acute adrenal insufficiency.
+Medications:
+Prolonged use of glucocorticoids or drugs that inhibit steroidogenesis (e.g., ketoconazole) can suppress the hypothalamic-pituitary-adrenal (HPA) axis, leading to adrenal atrophy and insufficiency.
+Improve
+Pathophysiology
+The pathogenesis of Addison's disease involves the progressive loss of the adrenal cortex's ability to produce essential hormones, primarily cortisol and aldosterone.
+Cortisol deficiency:
+Cortisol is crucial for maintaining glucose homeostasis, immune function, and stress response. Reduced cortisol production results in hypoglycemia, increased susceptibility to infections, and an inadequate response to stressors.
+Aldosterone deficiency:
+Aldosterone is responsible for regulating sodium and potassium balance. Insufficient aldosterone production leads to hyponatremia, hyperkalemia, and volume depletion, causing orthostatic
+hypotension
+and impaired renal function.
+Adrenal androgens deficiency:
+Although their role is less prominent, adrenal androgens (dehydroepiandrosterone [DHEA] and androstenedione) are involved in secondary sexual characteristics and libido. A deficiency may result in reduced body hair and decreased libido.
+The loss of adrenal cortex function leads to increased adrenocorticotropic hormone (ACTH) secretion from the pituitary gland due to a lack of negative feedback. Elevated ACTH levels result in melanocyte-stimulating hormone (MSH) production, causing the characteristic
+hyperpigmentation
+seen in patients with Addison's disease.
+Improve
+Clinical features
+Features
+lethargy
+, weakness,
+anorexia
+,
+nausea & vomiting
+,
+weight loss
+, 'salt-craving'
+hyperpigmentation
+(especially palmar creases)
+ACTH is derived from a larger precursor molecule called proopiomelanocortin (POMC). When POMC is cleaved to produce ACTH, other melanocyte-stimulating hormones (MSH) are also produced. These MSHs have the effect of stimulating melanocytes in the skin to produce more melanin, the pigment responsible for skin colour
+primary Addison's is associated with hyperpigmentation whereas secondary adrenal insufficiency is not
+vitiligo
+loss of pubic hair in women
+hypotension
+hypoglycaemia
+hyponatraemia
+and
+hyperkalaemia
+may be seen
+crisis: collapse, shock, pyrexia
+Improve
+Investigations
+In a patient with suspected Addison's disease the definite investigation is an ACTH stimulation test (short Synacthen test). Plasma cortisol is measured before and 30 minutes after giving Synacthen 250ug IM. Adrenal autoantibodies such as anti-21-hydroxylase may also be demonstrated.
+If an ACTH stimulation test is not readily available (e.g. in primary care) then sending a 9 am serum cortisol can be useful:
+> 500 nmol/l makes Addison's very unlikely
+< 100 nmol/l is definitely abnormal
+100-500 nmol/l should prompt a ACTH stimulation test to be performed
+Adrenal autoantibodies: The presence of 21-hydroxylase autoantibodies supports autoimmune adrenalitis as the underlying etiology.
+Associated electrolyte abnormalities are seen in around one-third of undiagnosed patients:
+hyperkalaemia
+hyponatraemia
+hypoglycaemia
+metabolic acidosis
+Improve
+Differential diagnosis
+When considering Addison's disease, the differential diagnosis typically includes adrenal insufficiency secondary to pituitary disease, adrenal tuberculosis and sepsis.
+Adrenal Insufficiency Secondary to Pituitary Disease
+This condition, often termed secondary adrenal insufficiency, arises from a deficiency in adrenocorticotropic hormone (ACTH) production by the pituitary gland. Unlike primary adrenal insufficiency seen in Addison's disease,
+hyperpigmentation
+does not occur as ACTH levels are low or normal. Furthermore, aldosterone production is preserved in secondary adrenal insufficiency due to direct stimulation of its production by the renin-angiotensin system independent of ACTH.
+Adrenal Tuberculosis
+Tuberculosis (TB) is a common cause of Addison's disease in TB-endemic areas. The clinical presentation may be similar with
+fatigue
+,
+weight loss
+and hyperpigmentation being common features. However, patients with adrenal TB may also present with fever and night sweats typical of systemic TB infection. Adrenal calcification seen on abdominal imaging can suggest this diagnosis.
+Sepsis
+Critical illness-related corticosteroid insufficiency (CIRCI), previously known as relative adrenal insufficiency, is a form of acute adrenal dysfunction which can occur during severe sepsis or septic shock. It differs from Addison’s disease as it is an acute syndrome associated with high mortality rates. Clinical presentation includes
+hypotension
+refractory to fluid resuscitation and vasopressor therapy. A rapid onset cortisol deficiency distinguishes CIRCI from Addison's disease, which typically has a more insidious onset.
+Improve
+Management
+Patients who have Addison's disease are usually given both glucocorticoid and mineralocorticoid replacement therapy.
+This usually means that patients take a combination of:
+hydrocortisone: usually given in 2 or 3 divided doses. Patients typically require 20-30 mg per day, with the majority given in the first half of the day
+fludrocortisone
+Patient education is important:
+emphasise the importance of not missing glucocorticoid doses
+consider MedicAlert bracelets and steroid cards
+patients should be provided with hydrocortisone for injection with needles and syringes to treat an adrenal crisis
+discuss how to adjust the glucocorticoid dose during an intercurrent illness (see below)
+Management of intercurrent illness
+in simple terms the glucocorticoid dose should be doubled, with the fludrocortisone dose staying the same
+the Addison's Clinical Advisory Panel have produced guidelines detailing particular scenarios - please see theNICElink for more details
+Improve
+Complications
+Adrenal crisis:
+An acute life-threatening condition characterized by severe
+hypotension
+, hypoglycemia, and altered mental status. Immediate treatment with intravenous hydrocortisone, fluids, and electrolyte correction is crucial.
+Chronic complications:
+Inadequate hormone replacement can result in persistent
+fatigue
+,
+weight loss
+, and electrolyte imbalances, adversely affecting the quality of life.
+Osteoporosis:
+Long-term glucocorticoid therapy increases the risk of osteoporosis. Monitoring bone mineral density and implementing bone-protective measures are essential.
+Infections:
+Patients with Addison's disease have an increased susceptibility to infections due to impaired immune function. Prompt recognition and treatment of infections are vital.
+Improve
+References
+Clinical Knowledge Summaries - Addison's disease
+Royal College of Physicians - 2017 Adrenal insufficiency â€“ recognition and management
+Endocrinology
+Addison's disease

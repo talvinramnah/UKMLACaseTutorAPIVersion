@@ -1,0 +1,125 @@
+Pityriasis versicolor
+Pityriasis versicolor
+Pityriasis versicolor, also known as tinea versicolor, is a common superficial fungal infection caused by the overgrowth of
+Malassezia
+species on the skin. This yeast is part of normal skin flora but can proliferate under certain conditions such as high humidity, immunosuppression or hormonal changes. Clinically, it presents as hypopigmented or hyperpigmented macules and patches with fine scales, predominantly affecting the trunk and proximal extremities.
+The diagnosis is typically made clinically but can be confirmed by microscopic examination of skin scrapings showing characteristic 'spaghetti and meatballs' appearance due to hyphae and spores. Topical antifungal agents are first-line treatment for limited disease, while oral antifungals may be needed for extensive involvement. Recurrence is common even after successful treatment due to re-colonisation from residual organisms in hair follicles.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Pityriasis versicolor, also known as tinea versicolor, is a common superficial fungal infection of the skin caused by the yeast
+Malassezia
+. This lipophilic yeast is part of the normal skin flora but under certain conditions can proliferate and cause clinical disease. The factors contributing to this transformation are multifactorial and not completely understood.
+Risk Factors
+Immunosuppression:
+Patients with impaired immune function due to diseases such as HIV/AIDS or those receiving immunosuppressive therapy are at an increased risk.
+Climatic Conditions:
+High humidity and warm temperatures favour the proliferation of
+Malassezia
+, making individuals residing in tropical or subtropical regions more susceptible.
+Hormonal influences:
+Increased sebum production during adolescence may contribute to the overgrowth of
+Malassezia
+.
+Skin Barrier Disruption:
+Conditions that disrupt the integrity of the skin barrier such as atopic dermatitis can predispose to infection.
+Underlying Causes
+The pathogenic potential of
+Malassezia
+is attributed to its ability to switch from a commensal to a pathogenic state. Several mechanisms have been proposed for this transition.
+Lipase Activity:
+The yeast produces lipases that hydrolyse triglycerides present in human sebum, leading to release of free fatty acids which can cause inflammation and hyperpigmentation.
+Biofilm formation:
+Some strains of
+Malassezia
+can form biofilms on the skin surface, which may contribute to its pathogenicity by creating a protective environment against host immune responses and antifungal drugs.
+Genetic Factors:
+Certain genetic variants of
+Malassezia
+have been associated with an increased risk of developing Pityriasis versicolor.
+Improve
+Pathophysiology
+Pityriasis versicolor, also known as tinea versicolor, is a common superficial fungal infection caused by the yeast
+Malassezia
+species. The pathophysiology of Pityriasis versicolor can be understood in several steps.
+Colonisation:
+Malassezia
+, a lipophilic yeast, is part of the normal cutaneous flora and colonises the stratum corneum. It exists in two forms: a non-pathogenic yeast form and a pathogenic mycelial form. Under certain conditions such as increased sebum production or immunosuppression, this yeast transforms into its pathogenic mycelial form.
+Proliferation:
+In its mycelial form, the fungus begins to proliferate excessively on the skin surface. This overgrowth disrupts the normal balance of the skin microbiome.
+Invasion:
+The hyphae invade the stratum corneum causing direct damage to keratinocytes through proteolytic enzymes which it produces. This results in scaling and flaking of skin seen clinically.
+Pigment alteration:
+Along with invasion,
+Malassezia
+produces azelaic acid which inhibits tyrosinase enzyme involved in melanin synthesis. This leads to hypopigmentation or hyperpigmentation seen as characteristic lesions on clinical examination.
+Inflammatory response:
+Invasion by
+Malassezia
+triggers an immune response from the host's body leading to inflammation and pruritus associated with this condition.
+Improve
+Clinical features
+A stereotypical presentation of Pityriasis versicolor (PV) often manifests as well-demarcated, oval or irregularly shaped macules that can range from hypopigmented to hyperpigmented. These macules are typically covered with a fine scale and may coalesce to form larger patches. The distribution is usually on the seborrhoeic areas, most commonly the upper trunk, neck and upper arms.
+The clinical features of PV extend beyond this typical presentation and can vary significantly between patients. The following details encompass the broad spectrum of possible presenting features:
+Lesion Characteristics:
+Macules in PV are generally 1-2 cm in diameter but can be smaller or larger. They may appear pink, tan, brown or white depending on the patient's skin colour and the stage of the infection. The macules often become more noticeable after sun exposure when surrounding skin tans.
+Distribution:
+While most common on the upper trunk, PV can also affect other areas such as the abdomen, lower back, underarms, face and even groin area. It rarely affects hands, feet or scalp.
+Symptoms:
+Most patients with PV are asymptomatic although some may experience mild pruritus especially during warm humid conditions.
+Variations in Presentation:
+Atypical presentations include follicular PV characterised by pinpoint papules and pustules within lesions; inverse PV which spares usual sites but involves intertriginous regions; and Pityriasis versicolor alba presenting as widespread hypopigmented lesions more commonly seen in darker skinned individuals.
+In addition to these clinical features, microscopic examination of skin scrapings treated with potassium hydroxide (KOH) can reveal the characteristic 'spaghetti and meatballs' appearance due to a combination of hyphae and yeast forms of the causative organism,
+Malassezia
+spp.
+PV can be differentiated from other skin conditions such as vitiligo, tinea corporis, seborrhoeic dermatitis and post-inflammatory hypopigmentation through its unique clinical features and KOH examination findings.
+In terms of disease course, PV is a chronic condition with frequent recurrences even after successful treatment. This is due to the ubiquitous presence of
+Malassezia
+yeasts on human skin and their propensity for proliferation under favourable conditions such as high humidity and immunosuppression.
+Improve
+Differential diagnosis
+The differential diagnosis of Pityriasis versicolor (PV) primarily involves three conditions: seborrhoeic dermatitis, vitiligo and secondary syphilis. These conditions can mimic the clinical presentation of PV, thus necessitating a careful examination and consideration.
+Seborrhoeic Dermatitis
+Seborrhoeic dermatitis is a common skin condition that primarily affects sebum-rich areas. Although it also presents with scaling similar to PV, there are notable differences:
+The distribution differs significantly. Seborrhoeic dermatitis typically affects the scalp, face, chest, and intertriginous areas while PV often involves the trunk and proximal extremities.
+The scales in seborrhoeic dermatitis are greasy or oily compared to the fine 'branny' scaling observed in PV.
+Erythema is more pronounced in seborrhoeic dermatitis whereas hypopigmentation or hyperpigmentation without inflammation is characteristic of PV.
+Vitiligo
+Vitiligo is an autoimmune condition characterised by well-demarcated white patches due to melanocyte destruction. Despite the colour change similarity with PV, key differences include:
+Vitiligo lesions are depigmented rather than hypopigmented as seen in PV.
+There's absence of scale in vitiligo which is a primary feature in PV.
+Unlike the variable distribution of PV, vitiligo commonly affects areas around body openings such as mouth and genitals along with sites of frequent trauma like hands and knees.
+Secondary Syphilis
+Treponema pallidum
+, the causative organism for syphilis may produce a rash in its secondary stage that can be confused with PV. However, several distinguishing features are present:
+Secondary syphilis may present with systemic symptoms such as fever, malaise and lymphadenopathy which are absent in PV.
+The rash of secondary syphilis is usually symmetrical, maculopapular and involves the palms and soles, unlike the asymmetrical macules or patches seen in PV.
+Mucous patches or condylomata lata are additional signs of secondary syphilis not found in PV.
+Improve
+Management
+Management
+Topical antifungal. NICE advise
+ketoconazole shampoo
+as this is more cost effective for large areas
+If failure to respond to topical treatment then consider alternative diagnoses (e.g. send scrapings to confirm the diagnosis) + oral itraconazole
+Improve
+References
+Clinical Knowledge Summaries - Pityriasis versicolor guidelines
+DermNet NZ - Pityriasis versicolor
+Dermatology
+Pityriasis versicolor

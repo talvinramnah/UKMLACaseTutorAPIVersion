@@ -1,0 +1,119 @@
+Acute urinary retention
+Acute urinary retention
+Acute
+urinary retention
+(AUR) is a urological emergency characterised by the sudden inability to pass urine, often resulting in severe
+lower abdominal pain
+. The pathophysiology involves an obstruction or disruption in the neural control of the bladder. Common precipitants include
+benign prostatic hyperplasia
+, urinary tract infections, constipation and certain medications such as anticholinergics.
+The diagnosis is primarily clinical, confirmed by palpation of a distended bladder. Ultrasonography can provide further evidence and exclude other causes. Immediate management involves catheterisation to relieve symptoms and prevent renal damage.
+Following successful drainage, investigations should focus on identifying underlying causes to guide long-term management strategies. These may involve lifestyle modifications, pharmacological interventions like alpha-blockers or 5-alpha reductase inhibitors for prostatic enlargement, or surgical options in refractory cases.
+Last updated: 1
+st
+July 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 10:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Aetiology
+In men, acute
+urinary retention
+most commonly occurs secondary to
+benign prostatic hyperplasia
+; a condition where the prostate becomes enlarged but non-cancerous. The enlarged prostate presses on the urethra which can make the bladder wall thicker and less able to empty.
+Other urethral obstructions; including urethral strictures, calculi, cystocele, constipation or masses.
+Some medications can cause acute urinary retention by affecting nerve signals to the bladder: these include anticholinergics,  tricyclic antidepressants, antihistamines, opioids and benzodiazepines.
+Less commonly, there may be a neurological cause for the acute urinary retention.
+In patients with predisposing causes, a simple urinary tract infection can be enough to cause acute urinary retention
+Acute urinary retention often occurs postoperatively and in women postpartum: usually secondary to a combination of the above risk factors.
+Improve
+Pathophysiology
+Acute
+urinary retention
+(AUR) is characterised by a sudden inability to pass urine with accompanying discomfort. This condition arises from an intricate interplay of anatomical, physiological and neurological factors which can be traced through the following pathophysiological processes:
+Mechanical Obstruction
+The most common cause of AUR is mechanical obstruction in the lower urinary tract. The obstruction can occur at any point from the bladder neck to the urethra. Prostatic enlargement secondary to
+benign prostatic hyperplasia
+or prostate cancer often leads to bladder outlet obstruction.
+Urethral strictures, either congenital or acquired due to trauma, infection or previous instrumentation, may also lead to AUR by narrowing the lumen of the urethra.
+Neurological Dysfunction
+A functional obstruction can occur due to detrusor underactivity or acontractility. This results from disruption of neural control mechanisms that regulate micturition. Conditions such as multiple sclerosis, spinal cord injury, Parkinson's disease and diabetes mellitus can interfere with the complex coordination between detrusor contraction and sphincter relaxation.
+Certain medications including anticholinergics, opioids and alpha-adrenergic agonists can inhibit detrusor activity leading to AUR.
+Infection and Inflammation
+Urinary tract infections (UTIs), particularly those caused by
+E.coli
+, can lead to AUR through inducing inflammation and swelling in the urinary tract lining, further exacerbating existing obstructions or creating new ones.
+Cystitis may cause bladder wall oedema which reduces its capacity and compliance leading to retention.
+Improve
+Clinical features
+Patients typically present with a subacute onset of:
+Inability to pass urine
+Lower abdominal discomfort
+Considerable pain or distress
+This differs from chronic
+urinary retention
+which is typically painless. In a patient with a background of chronic urinary retention, acute urinary retention may present instead with overflow incontinence.
+Signs:
+Palpable distended urinary bladder either on an abdominal or rectal exam
+Lower abdominal tenderness
+All men and women should have a rectal and neurological examination to assess for the likely causes above. Women should also have a pelvic examination.
+Improve
+Investigations
+Investigations:
+Patients should all be investigated with a urine sample which should be sent for urinalysis and culture. This might only be possible after urinary catheterisation.
+Serum U&Es and creatinine should also be checked to assess for any kidney injury.
+A FBC and CRP should also be performed to look for infection
+PSA is not appropriate in acute
+urinary retention
+as it is typically elevated
+Improve
+Differential diagnosis
+The differential diagnosis of acute
+urinary retention
+(AUR) can be complex, given the broad range of potential underlying causes. Three common conditions that must be considered are
+benign prostatic hyperplasia
+(BPH), urinary tract infection (UTI), and neurogenic bladder.
+Benign Prostatic Hyperplasia
+BPH is a common cause of AUR in men, especially those over the age of 50. The enlarged prostate physically obstructs the urethra, leading to symptoms such as difficulty starting urination, weak urine flow, and incomplete bladder emptying. In contrast to other causes of AUR, BPH often presents with a longer history of lower urinary tract symptoms (LUTS). On examination, a uniformly enlarged and non-tender prostate gland is typically palpable on digital rectal examination.
+Urinary Tract Infection
+A UTI may lead to AUR due to irritation and inflammation of the urinary tract. Unlike BPH where symptoms evolve over time, UTI-related AUR usually occurs suddenly in association with other systemic signs of infection such as fever, malaise and
+lower abdominal pain
+. Dysuria and haematuria might also be present. Laboratory investigation often reveals leukocytosis and positive urine cultures with specific
+bacteria
+.
+Neurogenic Bladder
+In neurogenic bladder disorder, disruption in nerve communication leads to impaired bladder control resulting in AUR. This condition contrasts from BPH and UTI by its association with neurological diseases or injuries such as multiple sclerosis, spinal cord injury or stroke. Patients may exhibit additional neurological signs like limb weakness or altered sensation depending on the underlying issue. The presence of overflow incontinence (involuntary release of urine due to a full bladder) is also more characteristic for neurogenic bladder compared to BPH or UTI.
+Improve
+Management
+Initial Management
+Immediate catheterisation is the primary step in managing acute
+urinary retention
+(AUR). This can be achieved using a urethral or suprapubic catheter, depending on the patient's condition and physician's judgement.
+Analgesia should be administered as per the patient's pain level. Non-steroidal anti-inflammatory drugs (NSAIDs) are commonly used.
+Consider antibiotic prophylaxis to prevent potential urinary tract infection (UTI), especially if instrumentation is anticipated.
+Investigations
+Post-void residual urine volume should be measured after catheterisation to confirm diagnosis and assess severity of AUR.
+A urinalysis should be performed to rule out UTI or haematuria. If there are signs of infection, send a urine sample for culture and sensitivity testing.
+Blood tests including serum creatinine and prostate-specific antigen (PSA) may be useful in identifying underlying causes such as
+benign prostatic hyperplasia
+(BPH) or renal impairment.
+Imaging like ultrasound scan of kidneys, bladder and prostate can help identify structural abnormalities contributing to AUR.
+Long-term Management
+If BPH is identified as the cause, alpha-blockers or 5-alpha reductase inhibitors should be considered for long-term management.
+In case of neurogenic bladder, intermittent self-catheterisation or indwelling catheter may be required for prolonged periods.
+Surgical interventions such as transurethral resection of the prostate (TURP) or urethral stents may be necessary in refractory cases or when medication fails to alleviate symptoms.
+Improve
+Urology
+Acute urinary retention

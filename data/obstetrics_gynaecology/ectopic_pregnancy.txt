@@ -1,0 +1,181 @@
+Ectopic pregnancy
+Ectopic pregnancy
+Ectopic pregnancy is a life-threatening obstetric emergency, in which the fertilized ovum implants outside the uterine cavity, most commonly in the fallopian tube (97%). Other sites include the ovary, cervix, or abdominal cavity.
+Clinical presentation varies, with patients reporting abdominal pain,
+vaginal bleeding
+, and amenorrhea. However, up to 50% may be asymptomatic. The diagnosis relies on a combination of serum human chorionic gonadotropin (hCG) levels, transvaginal ultrasonography, and clinical findings.
+Management options include expectant, medical, or surgical intervention. Methotrexate is the first-line medical treatment for hemodynamically stable patients with unruptured ectopic pregnancies and low hCG levels. Surgical approaches, such as laparoscopic salpingostomy or salpingectomy, are indicated in cases of rupture, haemodynamic instability, or failure of medical therapy. Early diagnosis and treatment are essential to prevent maternal morbidity and mortality.
+Last updated: 12
+th
+July 2023
+Epidemiology
+Incidence: 40.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Condition
+Relative
+incidence
+Miscarriage
+8.75
+Acute appendicitis
+2.75
+Ectopic pregnancy
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+Tubal factors:
+Fallopian tube abnormalities, including scarring, adhesions, or congenital anomalies, increase the risk of ectopic pregnancy. Pelvic inflammatory disease (PID), commonly caused by Chlamydia trachomatis or Neisseria gonorrhoeae, is a significant risk factor, as it leads to tubal inflammation, damage, and impaired motility.
+Previous ectopic pregnancy:
+A history of ectopic pregnancy increases the risk of recurrence, with rates ranging from 10-25%.
+Tubal surgery:
+Procedures such as salpingectomy, tubal ligation, or reconstructive surgery may compromise tubal function, leading to an increased ectopic pregnancy risk.
+Assisted reproductive technology (ART):
+Fertility treatments, particularly in vitro fertilization (IVF), are associated with a higher incidence of ectopic pregnancy due to embryo misplacement during transfer.
+Intrauterine device (IUD) use:
+IUDs decrease the overall risk of pregnancy, but if pregnancy occurs, the likelihood of it being ectopic is increased.
+Endometriosis:
+The presence of endometrial tissue outside the uterine cavity can cause tubal obstruction and inflammation, increasing the risk of ectopic implantation.
+Smoking:
+Tobacco use is linked to impaired tubal function and ciliary beat frequency, which may increase ectopic pregnancy risk.
+Improve
+Pathophysiology
+Implantation outside the uterine cavity occurs when the fertilized ovum is unable to reach the endometrial lining due to impaired tubal transport or abnormal embryo-tubal interactions. The pathogenesis involves three key factors:
+Abnormal embryo migration:
+Disrupted tubal motility, due to factors such as PID, endometriosis, or smoking, may impede the embryo's progress towards the uterus, resulting in ectopic implantation.
+Impaired tubal environment:
+Inflammatory processes, including infection or endometriosis, can alter the tubal milieu, promoting ectopic implantation.
+Embryo-tubal interactions:
+Alterations in the expression of adhesion molecules and chemokines, such as integrins and L-selectin, may affect the embryo-tubal relationship, leading to ectopic pregnancy.
+Improve
+Clinical features
+A typical history is a female with a history of 6-8 weeks
+amenorrhoea
+who presents with
+lower abdominal pain
+and later develops
+vaginal bleeding
+lower abdominal pain
+due to tubal spasm
+typically the first symptom
+pain is usually constant and may be unilateral.
+vaginal bleeding
+usually less than a normal period
+may be dark brown in colour
+history of recent amenorrhoea
+typically 6-8 weeks from the start of last period
+if longer (e.g. 10 wks) this suggest another causes e.g. inevitable abortion
+peritoneal bleeding can cause
+shoulder tip pain
+pain on defecation/
+tenesmus
+secondary to blood pooling in the pouch of Douglas
+dizziness, fainting or
+syncope
+may be seen
+symptoms of pregnancy such as breast tenderness may also be reported
+Improve
+Investigations
+Serum human chorionic gonadotropin (hCG) levels
+Serial hCG measurements are useful for assessing the viability of a pregnancy. A single hCG value is not diagnostic, but a slower-than-expected rise or decline in hCG levels may suggest an ectopic pregnancy. The discriminatory zone (1,500-2,000 mIU/mL) represents the minimum hCG level at which an intrauterine pregnancy should be visible on transvaginal ultrasonography.
+Transvaginal ultrasonography (TVUS)
+TVUS is the first-line imaging modality for evaluating suspected ectopic pregnancy, as it allows for high-resolution visualization of the uterus, adnexa, and surrounding structures. Findings suggestive of an ectopic pregnancy include an adnexal mass, extrauterine gestational sac, or complex adnexal fluid collection. An empty uterine cavity and absence of an intrauterine gestational sac in the presence of an elevated hCG level are also indicative of ectopic pregnancy.
+Abdominal ultrasonography
+This technique may be employed when TVUS is contraindicated or not feasible. However, it has lower sensitivity and specificity compared to TVUS, and may not detect early ectopic pregnancies.
+Doppler ultrasonography
+Colour or power Doppler can supplement TVUS in detecting blood flow in the trophoblastic tissue of ectopic pregnancies, improving diagnostic accuracy.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of ectopic pregnancy, three common alternative diagnoses that may present with similar clinical features include
+miscarriage
+,
+acute appendicitis
+, and ovarian torsion. Differentiating between these conditions is essential for appropriate management and treatment.
+Miscarriage
+The clinical presentation of a miscarriage can closely mimic that of an ectopic pregnancy. Both conditions can present with abdominal pain,
+vaginal bleeding
+, and
+amenorrhoea
+. However, there are key differences in their presentations.
+In a miscarriage, the pain is typically crampy and centralised in the lower abdomen. The vaginal bleeding often progresses from light to heavy within a short period.
+A significant distinguishing feature is the location of tenderness during physical examination. In a miscarriage, there is usually generalised uterine tenderness without any localised adnexal mass or tenderness.
+Acute Appendicitis
+Acute appendicitis also presents with abdominal pain but differs significantly in its localisation and progression. The pain associated with appendicitis initially manifests as epigastric or periumbilical discomfort before shifting to the right lower quadrant.
+Nausea
+,
+vomiting
+and loss of appetite are more characteristic of acute appendicitis than ectopic pregnancy or miscarriage. On physical examination, rebound tenderness or Rovsing's sign may be elicited which is not typical in ectopic pregnancy.
+Ovarian Torsion
+Ovarian torsion shares common symptoms such as sudden onset lower abdominal pain and nausea/vomiting with ectopic pregnancy. However, unlike ectopic pregnancy where the pain is usually unilateral and associated with menstrual irregularities, ovarian torsion often causes severe bilateral
+pelvic pain
+which does not correlate with the menstrual cycle.
+On physical examination, an adnexal mass may be palpable in cases of ovarian torsion. This is not usually present in ectopic pregnancy unless rupture has occurred leading to a haemoperitoneum.
+In all these conditions, accurate diagnosis requires a combination of thorough history taking, careful physical examination and appropriate investigations such as ultrasound scan or diagnostic laparoscopy. The role of serum beta-human chorionic gonadotropin (β-hCG) levels is crucial in differentiating between these conditions. While its presence confirms pregnancy (ectopic or intrauterine), its absence rules out ectopic pregnancy but does not exclude appendicitis or ovarian torsion.
+Improve
+Management
+Women who are stable are typically investigated and managed in an early pregnancy assessment unit. If a woman is unstable then she should be referred to the emergency department.
+There are 3 ways to manage ectopic pregnancies. And the following criteria can help to guide you which method your patient will be able to have.
+Expectant management
+Medical management
+Surgical management
+Size <35mm
+Size <35mm
+Size >35mm
+Unruptured
+Unruptured
+Can be ruptured
+Asymptomatic
+No significant pain
+Pain
+No fetal heartbeat
+No fetal heartbeat
+Visible fetal heartbeat
+hCG <1,000IU/L
+hCG <1,500IU/L
+hCG >5,000IU/L
+Compatible if another intrauterine pregnancy
+Not suitable if intrauterine pregnancy
+Compatible with another intrauterine pregnancy
+Expectant management involves closely monitoring the patient over 48 hours and if B-hCG levels rise again or symptoms manifest intervention is performed.
+Medical management involves giving the patient methotrexate and can only be done if the patient is willing to attend follow-up.
+Surgical management can involve salpingectomy or salpingotomy
+Salpingectomy is first-line for women with no other risk factors for infertility
+Salpingotomy should be considered for women with risk factors for infertility such as contralateral tube damage
+around 1 in 5 women who undergo a salpingotomy require further treatment (methotrexate and/or a salpingectomy)
+Improve
+Complications
+Short-term complications
+Tubal rupture:
+The most severe and life-threatening complication of ectopic pregnancy, tubal rupture occurs when the growing conceptus causes the fallopian tube to burst, leading to severe intraperitoneal haemorrhage. Usually occurs between 6-10 weeks gestation. Clinical manifestations include sudden, severe abdominal pain, signs of hypovolemic shock (
+tachycardia
+,
+hypotension
+, pallor), and peritoneal irritation. Prompt surgical intervention is crucial to prevent maternal mortality.
+Haemoperitoneum:
+Bleeding into the abdominal cavity from trophoblast invasion. Internal bleeding due to ectopic pregnancy can lead to a significant accumulation of blood in the peritoneal cavity, causing hemodynamic instability and potential hypovolemic shock. Hemoperitoneum warrants immediate surgical intervention.
+Intermediate-term complications
+Persistent trophoblastic tissue:
+Following treatment with methotrexate or surgical management, residual trophoblastic tissue may remain and continue to produce hCG. This can necessitate further medical or surgical intervention to ensure complete removal of the ectopic pregnancy.
+Infection:
+Post-surgical infection or an undiagnosed tubo-ovarian abscess may complicate ectopic pregnancy management, requiring antibiotic therapy or additional surgical procedures.
+Longer-term complications
+Damage to reproductive organs:
+Surgical intervention for ectopic pregnancy, particularly salpingectomy, can impact future fertility. Moreover, ectopic pregnancy itself increases the risk of subsequent ectopic pregnancies.
+Psychological sequelae:
+The loss of a pregnancy, the potential impact on future fertility, and the life-threatening nature of an ectopic pregnancy can result in significant psychological distress, including anxiety, depression, and post-traumatic stress disorder. Addressing these issues with appropriate counselling and support is an essential component of comprehensive care.
+Rh sensitization:
+In Rh-negative women with an ectopic pregnancy, there is a risk of developing Rh isoimmunization. Administering Rh immunoglobulin prophylaxis is crucial to prevent complications in future pregnancies.
+Improve
+References
+NICE - 2023 Ectopic pregnancy and miscarriage: diagnosis and initial management
+Clinical Knowledge Summaries - Assessment of ectopic pregnancy
+UKMLA Acute and emergency
+Ectopic pregnancy

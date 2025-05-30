@@ -1,0 +1,213 @@
+Waldenstrom's macroglobulinaemia
+Waldenstrom's macroglobulinaemia
+Waldenstrom's macroglobulinaemia (WM) is a rare, chronic lymphoproliferative disorder characterised by the infiltration of bone marrow with lymphoplasmacytic cells and the presence of an IgM monoclonal gammopathy. Its etiology remains largely unknown, but both genetic factors and environmental exposures have been implicated. Clinically, patients may present with
+fatigue
+,
+weight loss
+, hepatosplenomegaly and hyperviscosity syndrome. Laboratory findings often reveal
+anaemia
+, thrombocytopenia and elevated erythrocyte sedimentation rate (ESR). The diagnostic hallmark is the presence of serum IgM paraprotein.
+Treatment strategies are guided by the severity of symptoms and organ involvement. Asymptomatic individuals may not require immediate treatment whereas symptomatic patients might benefit from chemotherapy or targeted therapies such as rituximab. Plasmapheresis can be used to manage hyperviscosity syndrome. Autologous stem cell transplantation should be considered for younger patients with aggressive disease.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.55 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Myeloma
+18.18
+Chronic lymphocytic leukaemia
+10.91
+Waldenstrom's macroglobulinaemia
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Waldenstrom's macroglobulinaemia (WM) is a rare, low-grade lymphoproliferative disorder characterised by the presence of a monoclonal IgM protein. The precise aetiology of WM remains largely unknown, however, several risk factors and underlying causes have been identified.
+Risk Factors
+Age:
+The median age at diagnosis for WM is around 70 years, suggesting that advanced age is a significant risk factor.
+Sex:
+Males have been observed to be slightly more predisposed to developing WM than females.
+Ethnicity:
+Individuals of Caucasian descent exhibit a higher incidence rate of WM compared to other ethnic groups.
+Underlying Causes
+Genetic factors:
+Familial clustering has been reported in some cases of WM, indicating potential genetic predisposition. Specific gene mutations such as
+MYD88
+L265P and
+CXCR4
+, present in the majority of patients with WM, suggest an inherent genetic component in its pathogenesis.
+Infections:
+Chronic stimulation of the immune system due to persistent infections may play a role in the development of WM. Hepatitis C virus (HCV) infection has specifically been associated with increased risk for developing WM.
+Autoimmune disorders:
+Certain autoimmune conditions like Sjogren’s syndrome and rheumatoid arthritis are often seen concomitantly with WM, implying possible shared immunopathogenic mechanisms.
+IgM Monoclonal Gammopathy of Undetermined Significance (MGUS):
+Patients with IgM MGUS are at an elevated risk of progression to WM, with a rate of approximately 1.5% per year.
+Improve
+Pathophysiology
+The main pathophysiology of WM relates to the abnormal proliferation of lymphoplasmacytes. Malignant cells proliferate and replace the normal architecture of the bone marrow, impairing the synthesis and maturation of several cell types. Impaired production of erythroid cells results in the clinical symptoms of
+anaemia
+and
+fatigue
+. Impaired platelet function may cause mucocutaneous bleeding.
+The other clinical features of WM occur secondary to the production of high levels of monoclonal IgM protein by the malignant lymphoplasmacytes.
+IgM, as a high molecular-weight protein, increases blood viscosity.
+The increased viscosity results in a reduced flow rate, according to Poiseuille's law.
+Reduced blood flow contributes to damage in multiple sites. Microvascular structures, such as those of the eye, kidneys and neurons, are particularly sensitive to this effect.
+As a result, the classic (albeit rare) 'hyperviscosity syndrome' associated with WM is characterised by blurred vision, bleeding diathesis and peripheral neuropathy.
+IgM may act directly as an autoantibody to red blood cells, resulting in a Coombs-positive autoimmune haemolytic anaemia.
+Amorphous parts of IgM molecules may deposit in the glomerulus and lead to the activation of complement and subsequent immune-mediated nephropathy.
+Improve
+Clinical features
+A stereotypical presentation of Waldenstrom's macroglobulinaemia (WM) often involves a triad of constitutional symptoms, cytopenias, and hyperviscosity-related symptoms. However, the clinical picture can vary remarkably between patients.
+Constitutional Symptoms
+Patients may present with nonspecific systemic symptoms such as:
+Fatigue
+Weight loss
+Fever
+Night sweats
+Cytopenias
+Anaemia
+is the most common haematological manifestation in WM, leading to symptoms such as:
+Pallor
+Dyspnoea on exertion
+Angina in those with pre-existing coronary artery disease
+Thrombocytopenia and neutropenia are less common but when present can lead to:
+Bleeding tendencies like mucosal bleeding, petechiae or purpura
+Infections due to neutropenia
+Hyperviscosity-Related Symptoms
+The increased serum viscosity due to high levels of IgM can result in:
+Blurred vision or
+visual loss
+due to retinal vein engorgement or haemorrhage
+Neurological disturbances such as
+headache
+, dizziness, vertigo or even stroke-like syndromes.
+Rarely, congestive heart failure may occur secondary to hyperviscosity.
+Lymphadenopathy
+and Hepatosplenomegaly
+Painless lymphadenopathy and hepatosplenomegaly may be found on physical examination. These are due to infiltration of the disease into lymphoid tissues.
+Neuropathy
+Peripheral neuropathy, often distal and symmetric, may occur in some patients. It is usually sensory but can be motor as well. Neuropathy in WM is typically due to direct nerve infiltration by lymphoplasmacytic cells or to deposition of monoclonal IgM on myelin sheaths.
+Cryoglobulinaemia
+Rarely, patients with WM may present with cryoglobulinaemia which can lead to symptoms such as:
+Purpura
+Raynaud's phenomenon
+Ulcers or gangrene of extremities
+Glomerulonephritis leading to renal failure
+Amyloidosis
+A small subset of patients with WM may develop secondary amyloidosis presenting as:
+Nephrotic syndrome
+Cardiomyopathy
+Hepatomegaly
+with elevated alkaline phosphatase levels
+Note that a significant proportion of patients with WM are asymptomatic at diagnosis, discovered incidentally during routine blood tests showing elevated total protein levels or anaemia.
+Improve
+Investigations
+Full blood count
+40 per cent of patients with recently-diagnosed Waldenstrom's macroglobulinaemia have a detectable
+anaemia
+on a complete blood examination.
+Additionally, lymphocytosis and monocytosis are commonly seen.
+Thrombocytopaenia may occur due to infiltration of the bone marrow by lymphoplasmacytic cells, but the platelet count rarely falls below 50,000µL.
+Coagulation studies
+Generally only necessary in patients with clinical evidence of bleeding.
+The most common abnormality seen in this investigation is the prolongation of the prothrombin time, which is due to IgM paraprotein interfering with the polymerisation of fibrin.
+Prolongation of the bleeding time may be seen, due to interactions between the IgM paraprotein and surface glycoprotein receptors on platelets.
+Plasma viscosity
+IgM, as a high molecular-weight protein, contributes to an increase in plasma viscosity.
+Normal plasma viscosity is usually 1.5 centipoise (CP), but symptoms of hyperviscosity are not often seen below 4 CP.
+Serum protein electrophoresis
+One pathologically necessary component to diagnose WM is the presence of large levels of monoclonal IgM proteins in the peripheral blood. This is detected using serum protein electrophoresis.
+The SPEP should reveal a dense band of monoclonal IgM protein; the so-called spike'.
+Bone marrow biopsy
+Bone marrow biopsy should reveal infiltration of the marrow by lymphoplasmacytic cells with a characteristic immunophenotype. Although the exact list of surface biomarkers of these characteristic cells is extensive, they are unlikely to be tested in medical student final exams.
+Although all of these investigations may provide useful information, the SPEP and bone marrow biopsy are the only two that are technically necessary for meeting the diagnostic criteria for WM.
+Improve
+Diagnosis
+The diagnostic criteria of WM are based largely on the results from a bone marrow biopsy, as well as serum protein analysis:
+IgM monoclonal gammopathy of any size, as determined by serum protein electrophoresis
+Infiltration of >10% of the bone marrow by cells with a typical immunophenotype:
+Surface IgM+
+CD5-
+CD10-
+CD19+
+CD20+
+CD23-
+Although not strictly part of diagnostic criteria per se, common clinical features of WM include:
+Fatigue
+(according to BMJ Best Practice, up to 66% of patients with WM present with fatigue).
+Anorexia. Despite being nonspecific, this is thought to be the second most common symptom in WM.
+Peripheral neuropathy.
+Hepatosplenomegaly.
+It should be noted that there are different international scoring systems used to define the diagnostic criteria of WM. The differences between them are quite minor, in that some of them (Mayo Clinic) specify that there needs to be >10% infiltration of the bone marrow, while others (World Consensus Panel, World Health Organisation) only require that the lymphoplasmacytic cells infiltrate the bone marrow at all. However, this is unlikely to be tested in medical student finals and so is included here for the sake of correctness only.
+Improve
+Differential diagnosis
+Waldenstrom's macroglobulinaemia may present similarly to other haematological malignancies.
+Monoclonal gammopathy of undetermined significance (MGUS)
+Similarities
+MGUS and WM exist on the same pathologic spectrum of increased plasma levels of immunoglobulins.
+Differences:
+The serum m-protein is not as high in MGUS as it is in WM, and does not present with the same symptoms of hyperviscosity as WM.
+MGUS is usually clinically asymptomatic, and a raised serum m-protein is often only detected incidentally.
+The bone marrow biopsy of a patient with MGUS will show less invasion (usually <10%) by lymphoplasmacytic cells than in WM.
+Multiple
+myeloma
+(MM)
+Similarities:
+Fatigue
+occurs commonly in both MM and WM.
+Anaemia
+can be seen in both diseases.
+Both diseases are typically characterised by high levels of monoclonal protein, though multiple myeloma with raised IgM is very rare.
+Neurologic symptoms can develop in both diseases, albeit due to different mechanisms. The hyperviscosity of WM may cause paresthesias and radiculopathy. Bone fragments due to fractured vertebral bodies can cause spinal cord compression in MM.
+Differences:
+WM does not usually present with bony lesions, and MM is not commonly associated with symptoms of hyperviscosity.
+Hepatosplenomegaly is not a common feature of MM, whereas it does frequently occur in WM. The bone marrow biopsy in a patient with MM will show the infiltration of cells that are phenotypically distinct from those in a patient with WM.
+Chronic lymphocytic leukaemia
+Similarities
+Both may present with fatigue and
+hepatomegaly
+.
+Differences
+Immunohistochemistry and flow cytometry will reveal cells that are specific for each type of malignancy. For CLL, these will be CD5+, CD19+ CD23+ cells. In contrast, cells in WM will be CD5Â± and CD23-.
+Improve
+Management
+WM has an indolent clinical course that can be treated, but not cured. The goals of managing the illness focus on improving quality of life, reducing symptoms and prolonging the patient's life. The median disease-specific survival for patients with WM is 10 years, though this is highly variable.
+Since there is little high-quality evidence regarding the long-term survival benefits of particular chemotherapeutic drugs, best practice in managing WM is commonly based on expert opinion. There are several ongoing clinical trials focusing on different regimens. Additionally, young patients with aggressive disease may opt to join clinical trials featuring autologous stem cell transplant, which will affect selection of chemotherapeutic agents so as to avoid damaging stem cells.
+Patients with WM/MGUS can be grouped into different categories depending on two main factors: whether or not they are symptomatic, and whether or not symptomatic patients have evidence of hyperviscosity.
+Asymptomatic Patients
+Asymptomatic patients with WM or MGUS are not recommended to have active treatment due to the potential harms of chemotherapy.
+According to UpToDate, it is recommended to monitor asymptomatic patients who have been diagnosed with WM, through Complete Blood Exams and SPEP studies every four to five months for the first five years following diagnosis and annually thereafter.
+Symptomatic Patients
+Patients with symptoms of hyperviscosity (headaches, blurred vision, oronasal bleeding) require emergency plasmapheresis.
+Of the patients that are symptomatic but without clinical evidence of hyperviscosity, UpToDate recommends a clinical assessment of the symptom burden.
+In patients with a low symptom burden, single-agent Rituximab is recommended as it is likely to be better tolerated than a combined regimen.
+In patients with higher symptom burden, combined chemotherapy with Rituximab and Bendamustine is recommended.
+Improve
+Complications
+Complications for WM may occur as part of the natural disease progression, or secondary to management itself. Complications may include:
+Acute hyperviscosity
+As many as 30 per cent of patients with WM complain of symptoms related to hyperviscosity. This may include: dizziness, blurred vision,
+headache
+, dizziness and in extreme cases even disturbed consciousness and coma.
+Bing-Neel Syndrome
+This is a syndrome secondary to chronic hyperviscosity. Due to increased vascular permeability, there is malignant infiltration of the perineurium, resulting in a variety of neurological symptoms (in addition to the microvascular complications of hyperviscosity initially).
+Transformation to high-grade non-Hodgkin's lymphoma (Richter transformation)
+Since WM is a low-grade B cell lymphoma, it may undergo transformation to high-grade lymphomas such as Diffuse Large B Cell Lymphoma (DLBCL). This transformation is rare, however.
+Improve
+Haematology
+Waldenstrom's macroglobulinaemia

@@ -1,0 +1,153 @@
+Transverse myelitis
+Transverse myelitis
+Transverse myelitis is a rare neuro-immune condition that causes focal inflammation of the spinal cord. A typical patient presents with acute or subacute symptoms below the level of the lesion, including sensory impairment, motor weakness and bladder or bowel dysfunction. The causes of transverse myelitis are heterogeneous. It can occur as an independent post-infectious complication but also as part of the neuroinflammatory disease spectrum that includes
+multiple sclerosis
+and or neuromyelitis optica spectrum disorder. The course and prognosis of transverse myelitis are variable depending on the cause.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.50 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Cervical spondylitic myelopathy
+40.00
+Multiple sclerosis
+20.00
+Guillain-Barre syndrome
+4.00
+Transverse myelitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The underlying cause varies greatly in transverse myelitis.
+This is explored in the section on secondary transverse myelitis includes:
+Infectious disease
+Systemic inflammatory conditions
+Multifocal central nervous system disease
+In around 60% of patients, the cause is idiopathic however in 30-60% of these there is a reported GI, respiratory or systemic illness.
+These are still considered idiopathic as causation can rarely be proven.
+Epidemiology
+Transverse myelitis has an incidence of one to four new cases per million people per year. It affects all ages with a bimodal peak between 10-19 years-old and 30-39 years-old. There are no links to sex or familial predisposition.
+Improve
+Pathophysiology
+Due to the diverse spectrum of transverse myelitis, the pathophysiology greatly depends on the underlying cause.
+This heterogeneity and the involvement of both white and grey matter means that transverse myelitis is classed as a mixed inflammatory disorder.
+Inflammation affects myelin, oligodendrocytes, neurons and axons.
+In the majority of cases, there is perivascular infiltration by lymphocytes and monocytes in the spinal cord lesion.
+This is accompanied by axonal degeneration.
+Improve
+Clinical features
+The presentation of transverse myelitis consists of motor, sensory and autonomic dysfunction with an acute or subacute onset below the level of the lesion. The symptoms are usually bilateral but can be unilateral. The most common first symptom is sensory change (39%), weakness (25%) and pain (22%) with autonomic dysfunction in the form of bladder and bowel symptoms being less frequent first symptoms.
+Symptoms
+Motor symptoms (80%)
+Weakness of lower or all extremities (depending on the level of the lesion)
+Hyperreflexia
+Spasticity
+Very acute cases may initially present with flaccidity and absence of reflexes due to spinal shock
+Sensory symptoms (75%)
+Pain
+Paraesthesia
+Dysaesthesia (unpleasant sensation upon touch)
+Autonomic symptoms (60%)
+Urinary frequency, urgency and retention
+Bladder and bowl incontinence
+Sexual dysfunction
+Improve
+Investigations
+There are no NICE guidelines on transverse myelitis and the BMJ recommendations are based on the guidelines published in 2002 by the Transverse Myelitis Consortium Working Group.
+The diagnostic criteria of transverse myelitis rely on the
+presence
+of motor, sensory and/or autonomic dysfunction localised to a spinal cord segment, in the
+absence
+of spinal cord compression. Investigations are used to rule out compression and then to find the
+underlying cause.
+Investigations
+MRI spinal cord with and without gadolinium
+To exclude spinal cord compression and confirm inflammation
+In transverse myelitis, the cord appears swollen with gadolinium enhancement of the lesion
+Lumbar puncture
+To confirm the inflammation
+CSF analysis for cell count, cell differential, protein level, IgG index and oligoclonal bands
+Abnormal in approximately half of the patients with transverse myelitis.
+After transverse myelitis is confirmed, investigations focus on determining the underlying cause of transverse myelitis which includes infection, systemic inflammatory disease,
+multiple sclerosis
+, neuromyelitis optica spectrum disorders and paraneoplastic myelopathies or, in the absence of these, idiopathic transverse myelitis.
+Improve
+Differential diagnosis
+There are three main subcategories for the differential diagnosis of idiopathic transverse myelitis.
+Other types of myelopathy (non-inflammatory or compressive)
+Secondary transverse myelitis
+Non-myelopathic disorders
+Other types of myelopathy
+Compressive myelopathy e.g. disc herniation, compression fractures, epidural masses
+Similarities: clinical features indistinguishable from transverse myelitis.
+Differences: MRI would show cord compression.
+Noninflammatory myelopathy e.g. vascular, metabolic and radiation myelopathy or neoplasms
+Similarities: clinical features similar to transverse myelitis.
+Differences: symptom onset is important in differentiating between transverse myelitis and non-inflammatory myelopathy. For example, a hyperacute onset favours spinal stroke whereas a chronic onset favours metabolic myelopathy. Leucocytosis in CSF and the presence of gadolinium-enhancing lesions have
+low
+diagnostic accuracy for differentiating between transverse myelitis and non-inflammatory myelopathy.
+Secondary transverse myelitis includes the following:
+CNS inflammatory demyelinating disorders e.g.
+multiple sclerosis
+and neuromyelitis optica spectrum disorders
+Systemic inflammatory disorders e.g. SLE or Sjogren syndrome
+Infectious causes e.g. enteroviruses, herpes virus, HIV
+Paraneoplastic syndromes
+Similarities: clinical features can be indistinguishable from transverse myelitis with the addition of further symptoms relating to each condition mentioned.
+Differences: brain MRI, antibody testing, CSF analysis and infection screens are used to differentiate between all the conditions mentioned.
+Non-myelopathic disorders
+This includes acute inflammatory demyelinating polyneuropathy (
+Guillain-Barre syndrome
+)
+Similarities: present with similar progressive sensory and motor symptoms
+Differences: normal spinal cord MRI with potential enhancement/enlargement of spinal roots in Guillain Barre, CSF has elevated protein but normal WBC. Electromyogram demonstrates peripheral abnormalities that are usually normal in myelopathies.
+Improve
+Management
+A typical patient with acute idiopathic transverse myelitis would be managed in a secondary setting using high dose IV methylprednisolone in conjunction with supportive care and rehabilitation. There are no NICE guidelines for transverse myelitis, the following management approach is based on BMJ and UpToDate recommendations.
+Acute management
+IV methylprednisolone once a day for 3-5 days
+There have not been any controlled trials of corticosteroids in transverse myelitis and the basis for this is extrapolated from the management of
+multiple sclerosis
+flares and there is strong evidence to support its use.
+For patients not responding to glucocorticoids: plasmapheresis of 1.1 to 1.5 plasma volumes exchanged, once every two days for ten days.
+Supportive care
+Patients with cervical transverse myelitis may need critical care team involvement due to a risk of neurogenic respiratory failure.
+Acute urinary retention is managed by catheterization.
+Deep vein thrombosis prophylaxis
+Acute rehabilitation which includes passive and active physiotherapy to maintain range of movement, manage spasms and decrease the risk of contractures.
+For patients with secondary transverse myelitis, acute management is the same with the addition of therapy targeting the underlying condition on an ongoing basis if needed.
+Improve
+Complications
+The following are the main complications for transverse myelitis:
+Multiple sclerosis
+: patients who develop acute complete transverse myelitis have at least a 5-10% chance of developing multiple sclerosis.
+Motor weakness: following the acute phase, approximately 60% of patients are left with a motor deficit that requires physiotherapy and may decrease over time.
+Spasticity: this often accompanies chronic weakness and is managed using oral drugs like baclofen if severe.
+Neuropathic pain: pain that persists is often treated with anticonvulsants or tricyclic antidepressant drugs.
+Bladder dysfunction: this can persist past the acute stage and may include urinary incontinence or retention which may require treatment.
+Improve
+Prognosis
+Recovery
+Most patients make a partial or complete recovery which starts within three months and continues over several years.
+For around 40% of patients, there remains some disability.
+Recurrence
+Most patients with idiopathic transverse myelitis only have one instance of the disease.
+The recurrence rate is between 25-33%.
+In patients with secondary transverse myelitis, the recurrence rate is closer to 70%.
+Improve
+Neurology
+Transverse myelitis

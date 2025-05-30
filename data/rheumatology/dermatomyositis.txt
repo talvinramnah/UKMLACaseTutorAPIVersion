@@ -1,0 +1,110 @@
+Dermatomyositis
+Dermatomyositis
+Dermatomyositis an inflammatory disorder causing symmetrical,
+proximal muscle weakness
+and characteristic skin lesions.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Pathophysiology
+may be idiopathic or associated with connective tissue disorders or underlying malignancy (typically ovarian, breast and lung cancer, found in 20-25% - more if patient older). Screening for an underlying malignancy is usually performed following a diagnosis of dermatomyositis
+polymyositis
+is a variant of the disease where skin manifestations are not prominent
+Improve
+Clinical features
+Skin features
+photosensitive
+macular rash over back and shoulder
+heliotrope rash in the periorbital region
+Gottron's papules - roughened red papules over extensor surfaces of fingers
+'mechanic's hands': extremely dry and scaly hands with linear 'cracks' on the palmar and lateral aspects of the fingers
+nail fold capillary dilatation
+Other features
+proximal muscle weakness
++/- tenderness
+Raynaud's
+respiratory muscle weakness
+interstitial lung disease: e.g. Fibrosing alveolitis or organising pneumonia
+dysphagia
+, dysphonia
+Improve
+Investigations
+Antibodies
+the majority of patients (around 80%) are
+ANA
+positive
+around 30% of patients have antibodies to aminoacyl-tRNA synthetases (anti-synthetase antibodies), including:
+antibodies against histidine-tRNA ligase (also called Jo-1)
+antibodies to signal recognition particle (SRP)
+anti-Mi-2 antibodies
+Creatine kinase is elevated.
+Skin and muscle biopsies may be done to confirm the diagnosis.
+Electromyography
+useful in distinguishing myopathy from neuropathy
+Improve
+Management
+Aims and General Approach
+The principal aims in the management of dermatomyositis are to:
+suppress muscle and skin inflammation
+improve muscle strength and function
+prevent complications such as contractures, aspiration, and interstitial lung disease
+screen for, and manage, any associated malignancy or interstitial lung involvement
+Management should be individualised based on severity, organ involvement, age, comorbidities, and presence of malignancy.
+Multidisciplinary care is essential, involving
+rheumatology
+(or neurology), dermatology, physiotherapy, occupational therapy and respiratory teams where indicated.
+Immunosuppressive Therapy
+Corticosteroids remain the first-line treatment
+for active dermatomyositis. According to
+NICE
+guidelines and expert consensus:
+oral corticosteroids are typically initiated at a high dose until clinical improvement is achieved
+intravenous pulsed corticosteroids may be considered in severe or rapidly progressive cases (e.g.
+dysphagia
+or respiratory compromise)
+Most patients require additional immunosuppressive agents (steroid-sparing agents) due to either inadequate response or adverse effects from long-term steroids. Commonly used agents include:
+methotrexate
+azathioprine
+mycophenolate mofetil (particularly if there is significant lung involvement)
+For refractory disease or intolerance to first-line immunosuppressants:
+intravenous immunoglobulin (IVIG) may be considered; this has particular utility in severe weakness or bulbar involvement (
+BNF/NICE
+)
+rituximab may be used in selected cases with resistant disease
+Additional Considerations
+Cutaneous manifestations often require adjunctive topical therapies alongside systemic treatment:
+topical corticosteroids are commonly prescribed for localised skin lesions
+sun protection is strongly advised due to
+photosensitivity
+of rashes—this should be reinforced at every consultation
+Interstitial lung disease requires early recognition; input from respiratory specialists is recommended for those with pulmonary symptoms or radiological evidence.
+immunosuppression regimens may need adjustment depending on severity of lung involvement
+baseline and interval pulmonary function tests are advised according to
+NICE
+recommendations
+Malignancy screening should be undertaken at diagnosis and repeated periodically thereafter, especially within the first three years following diagnosis when risk is highest.
+Physiotherapy plays an important role in maintaining muscle strength and preventing contractures; early referral for tailored exercise programmes is recommended.
+In children (juvenile dermatomyositis), management follows similar principles but should involve specialist paediatric rheumatology input.
+Early initiation of appropriate immunosuppression improves prognosis
+, reduces long-term disability, and minimises complications.
+Improve
+References
+DermNet NZ - Dermatomyositis
+Primary Care Dermatology Society - Dermatomyositis (including polymyositis)
+Rheumatology
+Dermatomyositis

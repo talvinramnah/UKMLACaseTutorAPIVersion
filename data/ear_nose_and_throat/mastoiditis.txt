@@ -1,0 +1,136 @@
+Mastoiditis
+Mastoiditis
+Mastoiditis is inflammation of the mastoid antrum and the lining of the mastoid air cells. The mastoid process is the area of bone formed of the petrous temporal and occipital bones which is present posterior and inferior to the external auditory meatus.
+Mastoiditis is usually as a result of an infective process within the middle ear and is a medical emergency as if untreated it can rapidly progress and result in intracranial infection.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 4.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Otitis externa
+125.00
+Acute otitis media
+62.50
+Mastoiditis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+It most commonly occurs in children of school age following an untreated episode of
+acute otitis media
+or after recurrent episodes of otitis media. Adults are rarely affected and there is no difference between males and females.
+Risk factors for developing mastoiditis are:
+Immunosuppression.
+Diabetes mellitus.
+Congenital defects of the middle and outer ear.
+Recurrent episodes of acute otitis media
+Cholesteatoma.
+Improve
+Pathophysiology
+The mastoid bone is made up of air spaces within the occipital and petrous temporal bones which are lined with a mucosa and are interconnected. These are called the mastoid air cells. They communicate directly with the cavity of the middle ear and so pus collecting in the middle ear (
+acute otitis media
+) can enter the mastoid air cells.
+This can also occur as a result of a cholesteatoma developing. The cholesteatoma results in excessive collection of keratin and sloughed cells building up in the mastoid air cells and middle ear. The resulting collection can become infected and subsequently spread throughout the air cells.
+Once infection enters the air cells it gains an advantage against the immune system and mastoid osteomyelitis rapidly develops leading to sepsis, erythema and swelling over the mastoid process. As the infection progresses the bone is destroyed and pus can enter the intracranial vault.
+The main pathogens linked with otitis media and mastoiditis are:
+Haemophilus influenzae
+is most common in young children prior to vaccination.
+Streptococcus pyogenes
+and
+Streptococcus pneumoniae
+are the most common in children of school age.
+Streptococcus pneumoniae
+and
+Staphylococcus aureus
+are the most common pathogens in adults.
+Pseudomonas aeruginosa
+can be a less common cause in adults, usually in diabetic patients.
+Gram-negative organisms apart from
+Pseudomonas spp.
+are rarely a cause of mastoiditis.
+Improve
+Clinical features
+There is considerable overlap with the features of a severe acute suppurative otitis media.
+The key features usually found in the history are:
+Recent or concurrent
+acute otitis media
+in around 50% of cases.
+Deep
+otalgia
+on the affected side in nearly all cases.
+Recent loss of hearing (progressive) on affected side.
+Generally unwell with young children often not eating or drinking as normal.
+Seizures and symptoms of intracranial infection are rarely the presenting symptoms.
+They key findings on examination are:
+Fever
+.
+Usually bulging tympanic membrane with clear fluid level or perforation with purulent discharge from the ear.
+Erythema and swelling over mastoid process behind the ear in up to 75% of cases.
+Mastoid tenderness.
+Cervical lymphadenopathy no affected side.
+Improve
+Investigations
+Blood tests
+Inflammatory markers (white cell count and C-reactive protein) will help show if there is an underlying inflammatory process. These are both usually raised in mastoiditis.
+Renal function should be checked to ensure the patient can have imaging with contrast (see below).
+Imaging
+The key investigations required are CT or MRI imagining of the head. Ideally both would be performed, especially when planning surgical management.
+CT scanning is quick and will demonstrate the extent of mastoid air cell opacification.
+A CT scan with contrast can also identify intracranial infection and the extent of this.
+MRI imaging is better for identifying intracranial infection and will give better detail of the soft tissues but struggles to see the bone in as much detail.
+Microbiology
+Blood cultures can indicate which organism is responsible and guide antibiotic therapy.
+If there is discharge from the ear, a swab is not particularly helpful as it will be contaminated with poly-microbial flora from the external ear which may disguise the true organism responsible.
+Improve
+Differential diagnosis
+The differential diagnoses depend on the severity of the infection and progression of disease with related complications:
+Acute suppurative otitis media can cause discharge and pain.
+Severe acute
+otitis externa
+with pinna cellulitis can cause mastoid swelling and tenderness.
+Middle and inner ear trauma can cause
+ear discharge
+, hearing loss and balance disturbances.
+Bell's palsy can result in facial palsy.
+Cholesteatoma and tumours of the ear can cause ear discharge and swelling over the mastoid.
+Improve
+Management
+The mainstay of management is early intravenous antibiotics. The best agents are third-generation cephalosporins (such as ceftriaxone) as these have good bone penetration and are also able to cross the blood-brain barrier. In cases of allergy to penicillins / beta-lactams then vancomycin and gentamicin are suitable alternatives with good bone penetrance.
+Since vaccination against
+Haemophilus influenzae
+and
+Streptococcus pneumoniae
+have become commonplace the incidence of mastoiditis has decreased and the need for surgical management is lessened. However when mastoiditis progresses despite intravenous antibiotic therapy, surgery to drain the infection is indicated.
+The operative options for treating mastoiditis are:
+Myringotomy and grommet insertion in addition to antibiotics to help infection drain via the middle ear.
+Mastoidectomy to drill out the mastoid bone and allow the infection to drain. This can be accomplished in two ways:
+A cortical mastoidectomy is performed through a skin incision behind the ear and involves removing the mastoid without entering the ear canal.
+A radical mastoidectomy involves both removing the mastoid and removing the walls of the auditory canal and clearing the contents of the middle ear. This has a significant risk of affecting hearing compared to a cortical mastoidectomy.
+Improve
+Complications
+The complications of untreated mastoiditis are a result of the infection progressing and causing damage to surrounding neurological structures:
+Conductive hearing loss can be due to a middle ear effusion from co-existing
+acute otitis media
+or due to infection causing destruction of the ossicles.
+Sensorineural hearing loss and vertigo can occur if the inner ear is affected by progressive mastoid destruction.
+If the infection enters the facial canal within the bone it can result in facial nerve damage and ipsilateral facial weakness (without forehead sparing due to the lower motor neurones being affected).
+The most serious complication is erosion of the mastoid into the cranial vault. This can result in any of:
+Meningitis.
+Formation of a subdural empyema.
+Intracerebral abscess formation.
+Improve
+Ear, nose and throat
+Mastoiditis

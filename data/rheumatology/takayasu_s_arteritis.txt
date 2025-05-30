@@ -1,0 +1,164 @@
+Takayasu's arteritis
+Takayasu's arteritis
+Takayasu's arteritis
+is a rare, idiopathic, chronic inflammatory disease characterised by granulomatous inflammation of the aorta and its major branches. Predominantly affecting women of reproductive age, it exhibits geographical variation with higher prevalence in East Asia. Patients often present with nonspecific symptoms such as
+fatigue
+, fever, and
+weight loss
+; however, disease progression can lead to
+limb claudication
+,
+hypertension
+and stroke.
+The diagnosis involves clinical evaluation supported by imaging modalities like angiography or magnetic resonance angiography (MRA), which reveal stenosis or occlusion of large vessels. Laboratory findings typically show raised erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP). The mainstay of treatment includes high-dose corticosteroids for acute phase management followed by immunosuppressive agents to maintain remission.
+Despite advancements in medical therapy, surgical intervention including bypass grafting or percutaneous transluminal angioplasty may be required due to vascular complications.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 0.26 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in females 7:1
+Condition
+Relative
+incidence
+Temporal arteritis
+76.92
+Behcet's syndrome
+3.85
+Kawasaki disease
+3.85
+Takayasu's arteritis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Takayasu's arteritis (TA) is a rare, large-vessel vasculitis primarily affecting the aorta and its primary branches. While the exact aetiology of TA remains unclear, it is generally accepted that both genetic predisposition and environmental factors play crucial roles in disease onset.
+Sex and age
+Female predominance: Approximately 80-90% of cases occur in females.
+Age of onset: Typically affects individuals aged 10 to 40 years.
+Genetic Predisposition
+Several studies have revealed an association between HLA-B52 and increased susceptibility to TA. This allele is commonly found in East Asian populations, which may partially explain the higher prevalence of TA in these groups.
+Other genetic loci such as IL12B and IL6-174G/C have also been implicated in the development of TA. These genes are involved in inflammatory responses and immune regulation, suggesting a potential role for autoimmunity in this disease.
+Environmental Factors
+Infections: Some researchers propose that certain infectious agents may trigger an autoimmune response leading to TA. Potential pathogens include
+Mycobacterium tuberculosis
+,
+Streptococcus sanguinis
+, and Human Herpesvirus 6 (HHV-6). However, further research is needed to establish causality.
+Tobacco usage: Although not definitively established, some evidence suggests a possible link between cigarette smoking and TA. Smoking could potentially contribute to vascular inflammation and damage through oxidative stress mechanisms.
+Hormonal Influence
+The predominance of TA among females, particularly during childbearing years, suggests a potential hormonal influence on disease onset or progression. It has been hypothesized that oestrogen may promote immune responses contributing to arterial inflammation. However, more research is required to elucidate this relationship.
+Improve
+Clinical features
+A stereotypical presentation of Takayasu's arteritis often involves a young woman under the age of 40 who presents with systemic symptoms such as fever,
+malaise
+, night sweats, and
+weight loss
+. These non-specific symptoms may precede vascular manifestations by months or even years.
+As the disease progresses, patients may exhibit specific vascular features due to arterial stenosis, occlusion, or aneurysm formation. Detailed clinical features include:
+Pulselessness
+: Diminished or absent pulses in one or more extremities is a hallmark feature. This is often accompanied by blood pressure discrepancies between limbs.
+Claudication
+: Patients may experience
+limb claudication
+due to reduced blood flow, particularly in the upper extremities.
+Bruits
+: Audible bruits over large arteries such as the carotid, subclavian, and abdominal aorta are common findings.
+Hypertension
+: Renal artery stenosis can lead to secondary hypertension. This is frequently resistant to conventional antihypertensive therapy.
+Neurological symptoms
+: Transient ischaemic attacks (TIAs), strokes, and
+dizziness
+can occur due to involvement of cerebral vessels.
+Visual disturbances
+: Visual impairment can result from ocular ischaemia secondary to carotid artery involvement.
+Aortic regurgitation
+: Involvement of the ascending aorta can lead to dilation and subsequent aortic valve insufficiency.
+Improve
+Investigations
+When investigating a patient with suspected Takayasu's arteritis, it is essential to follow a structured approach. Begin with first-line investigations and proceed to further assessments as necessary.
+First-line Investigations
+Blood tests:
+Perform full blood count (FBC), erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP). These tests help identify inflammation and anaemia which are often present in Takayasu’s arteritis.
+Both ESR and CRP are likely to be raised.
+The sensitivity of CRP is better than ESR but both tests have poor specificity.
+Imaging:
+Initial imaging should include a chest X-ray to evaluate for any mediastinal widening or pulmonary involvement.
+Further Investigations
+MRI Angiography (MRA):
+This is the preferred imaging modality due to its high sensitivity for detecting vessel wall thickening, stenosis, occlusions, and aneurysms. MRA provides detailed images of both the vascular lumen and surrounding structures without ionising radiation.
+CT Angiography (CTA):
+CTA can be used if MRA is contraindicated or unavailable. It offers excellent spatial resolution and can detect similar vascular changes as MRA. However, it involves exposure to ionising radiation and contrast media.
+Doppler Ultrasound:
+Useful for evaluating peripheral arteries such as the carotid, subclavian, renal, and femoral arteries. Doppler ultrasound can assess blood flow abnormalities and vessel wall thickening but has limitations in visualising deeper vessels.
+PET-CT:
+Positron emission tomography-computed tomography may be considered in cases where other imaging modalities are inconclusive. PET-CT helps identify active inflammation by highlighting areas of increased metabolic activity within the arterial walls.
+Addition of Biopsy
+Tissue biopsy is generally not required for diagnosing Takayasu's arteritis due to the disease's segmental nature and difficulty in obtaining appropriate samples from affected large vessels. Diagnosis is typically made based on clinical presentation supported by imaging findings.
+Improve
+Differential diagnosis
+Other vasculitic disorders may present with similar 'vascular' symptoms such as claudication, syncope and
+hypertension
+:
+Giant cell arteritis
+:
+More likely to affect older patients and have temporal artery involvement. CT/MRI imaging will differentiate the diagnoses.
+Behcet's disease:
+More likely to present with arthritis, ulcers and uveitis. Angiography and lumbar puncture (raised protein) will differentiate the diagnoses.
+Kawasaki disease
+:
+More likely to affect young children. Presents with strawberry-tongue, lymphadenopathy and high grade fever. Echocardiogram is the investigation of choice.
+IgG4-related disease:
+A rare chronic inflammatory disease which can affect almost any organ including the heart and aorta. It is most common in middle-aged and older men.
+Infection:
+Syphilis:
+May present with vasculitis of ascending aorta in tertiary disease. Firm painless chancre should be present and serology positive.
+Tuberculosis (TB):
+Both can present with haemoptysis and pleuritis. Chest X-ray and QuantiFERONµ gold test are diagnostic.
+Improve
+Management
+According to the EULAR guideline (updated in 2018) the treatment of Takayasu's arteritis should involve treatment with corticosteroids to induce remission in all patients as well as an immunosuppressive agent for a select group of patients.
+Corticosteroids:
+Oral prednisolone (1mg/kg/day) is usually first line.
+Length of treatment is dependent on factors including severity of disease and comorbidities.
+Glucocorticoids must be tapered to reduce the risk withdrawal effects.
+Steroids should be given alongside low dose aspirin (75mg daily).
+Immunosuppressive agents:
+Considered 2nd line and are utilised when patients relapse during steroid tapering.
+Options include:
+Methotrexate (given with folic acid).
+Azathioprine.
+Mycophenolate mofetil.
+Cyclophosphamide.
+Additional considerations:
+Bone protection is required due to the long-term use of steroids.
+Alendronic acid with calcitriol and calcium carbonate should be used.
+Patients on high dose prednisolone may require pneumocystis pneumonia prophylaxis with trimethoprim.
+If both steroids and immunosuppressive treatments are ineffective, a tumour necrosis factor (TNF)-alpha inhibitor (such as infliximab) may be started.
+Surgical intervention is indicated in patients with severe
+limb claudication
+or organ dysfunction.
+Options include percutaneous angioplasty and vascular bypass surgery.
+Improve
+Complications
+Common:
+Hypertension
+: a long term complication which may result either from renal artery stenosis (causing activation of the renin-angiotensin-aldosterone system), or aortic stenosis (increasing systemic vascular resistance), or both.
+Hypertension should be aggressively treated with antihypertensive medications.
+Peripheral vascular ischaemia: stenosis and occlusions of arteries are common. These should be investigated regularly with vascular imaging studies.
+Less common:
+Aortic aneurysm or regurgitation: structural abnormality to the aortic root and thoracic aorta may occur.
+Angina and congestive heart failure: occurring in about 25% of patients
+Cerebrovascular disease: there is a low risk of both stroke and transient ischaemic attack.
+Improve
+Rheumatology
+Takayasu's arteritis

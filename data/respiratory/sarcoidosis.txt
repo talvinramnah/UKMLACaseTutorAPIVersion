@@ -1,0 +1,168 @@
+Sarcoidosis
+Sarcoidosis
+Sarcoidosis is a systemic granulomatous disease of unknown aetiology, characterized by the formation of non-caseating granulomas, which can affect any organ. However, the lungs and intrathoracic lymph nodes are the most commonly involved sites. The aetiology of sarcoidosis remains unknown, but current theories suggest that it results from an exaggerated immune response to an unidentified antigen in genetically susceptible individuals. Sarcoidosis has a variable clinical presentation and can manifest as an acute, subacute, or chronic condition.
+Last updated: 6
+th
+December 2023
+Epidemiology
+Incidence: 7.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Tuberculosis
+1.29
+Sarcoidosis
+1
+Extrinsic allergic alveolitis
+0.14
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact cause of sarcoidosis remains unclear, but the current consensus suggests that it is likely due to a combination of genetic and environmental factors, which trigger an aberrant immune response in susceptible individuals. Some of the proposed factors include:
+Infectious agents: Various microbial agents, such as mycobacteria and propionibacteria, have been implicated in the development of sarcoidosis. However, no single infectious agent has been consistently identified in sarcoidosis patients.
+Environmental and occupational exposures: Exposure to certain environmental agents, such as inorganic particles, organic antigens, and mould spores, has been linked to the development of sarcoidosis. Additionally, specific occupations with increased exposure to dust, metals, or pesticides have been associated with a higher risk of sarcoidosis.
+Genetic predisposition: There is strong evidence supporting a genetic component to sarcoidosis susceptibility, as demonstrated by familial clustering and higher concordance rates among monozygotic twins. Genome-wide association studies (GWAS) have identified multiple genetic loci associated with sarcoidosis risk, particularly within the human leukocyte antigen (HLA) region.
+Sarcoidosis is around 3 times more common in people of Black African ethnicity.
+Improve
+Pathophysiology
+The pathophysiology of sarcoidosis is characterized by an exaggerated immune response, leading to the formation of non-caseating granulomas. Key mechanisms involved in the pathogenesis of sarcoidosis include:
+Antigen presentation: In genetically susceptible individuals, exposure to a yet unidentified antigenic stimulus triggers the activation of antigen-presenting cells (APCs), such as dendritic cells and macrophages, which present the antigen to CD4+ T-helper cells.
+T-cell activation: The interaction between APCs and CD4+ T-helper cells leads to the activation and differentiation of T-helper cells, primarily into the Th1 and Th17 subsets. Th1 cells secrete cytokines such as interferon-gamma (IFN-Î³) and interleukin-2 (IL-2), while Th17 cells produce IL-17, IL-21, and IL-22.
+Granuloma formation: The cytokines secreted by activated T-helper cells recruit additional immune cells, including macrophages, which transform into epithelioid cells and multinucleated giant cells, ultimately forming the characteristic non-caseating granulomas. These granulomas serve to contain and isolate the antigenic stimulus, limiting tissue damage.
+Fibrosis: In some cases, sarcoid granulomas can progress to fibrosis, which may lead to organ dysfunction and failure. The exact mechanisms underlying this process are not fully understood but may involve the secretion of profibrotic cytokines, such as transforming growth factor-beta (TGF-β), by immune cells within the granulomas.
+Improve
+Classification
+Sarcoidosis is classified based on the organ involvement, radiological findings and clinical presentation. The classification system provides a framework for understanding the disease's progression, prognosis and treatment options.
+Organ Involvement
+Pulmonary sarcoidosis:
+This is the most common form of sarcoidosis, characterised by non-caseating granulomas in the lungs. It can further be divided into acute and chronic forms.
+Extrapulmonary sarcoidosis:
+This refers to sarcoidosis affecting organs other than the lungs. Common sites include skin, eyes, lymph nodes, liver, heart and nervous system. Multisystem involvement is often observed.
+Radiological Classification (Scadding staging)
+This classification is based on chest radiographic findings:
+Stage 0:
+Normal chest X-ray
+Stage 1:
+Bilateral hilar
+lymphadenopathy
+(BHL) alone
+Stage 2:
+BHL with pulmonary infiltrates
+Stage 3:
+Pulmonary infiltrates without BHL
+Stage 4:
+Pulmonary fibrosis
+Note that Scadding staging does not correlate with symptoms severity or predict prognosis but helps in monitoring disease progression.
+Clinical Presentation Classification
+The clinical presentation of sarcoidosis varies widely, which led to a classification based on symptomatology:
+Löfgren's syndrome:
+Characterised by acute onset of
+erythema nodosum
+, bilateral hilar lymphadenopathy and arthralgia or arthritis.
+Heerfordt's syndrome (or uveoparotid fever):
+Characterised by parotitis,
+anterior uveitis
+, fever and facial nerve palsy.
+Chronic sarcoidosis:
+Lasts for more than two years and is often associated with pulmonary fibrosis.
+Silent sarcoidosis:
+Diagnosed incidentally during investigations for other conditions as it lacks specific symptoms.
+The classification of sarcoidosis is not mutually exclusive; a patient may fit into multiple categories. The disease course can also vary from spontaneous remission to chronic progressive illness leading to organ damage. Therefore, regular monitoring of patients is essential to adjust treatment strategies accordingly.
+Improve
+Clinical features
+A stereotypical presentation of sarcoidosis often commences with non-specific systemic symptoms. These may include
+fatigue
+,
+weight loss
+, arthralgia, and fever. The clinical manifestations are highly variable as they are contingent upon the organ systems involved.
+Respiratory
+System:
+The respiratory system is affected in approximately 90% of cases, making pulmonary sarcoidosis the most common form. Patients may present with a persistent
+dry cough
+,
+dyspnoea
+on exertion or chest discomfort.
+Bilateral hilar
+lymphadenopathy
+(BHL) is a characteristic radiological feature seen in two-thirds of patients.
+Pulmonary function tests typically reveal restrictive lung disease but can also demonstrate obstructive patterns due to airway involvement.
+Skin:
+Dermatological involvement occurs in about 25% of patients.
+Erythema nodosum
+, characterised by tender red nodules predominantly on the anterior shins, is the most common cutaneous manifestation.
+Lupus pernio, characterised by violaceous skin lesions on the nose and cheeks, is specific for sarcoidosis but less commonly observed.
+Ocular:
+Up to 80% of patients can have ocular involvement at some point during their disease course. Uveitis is the most frequent manifestation followed by conjunctivitis and scleritis.
+Cardiovascular System:
+Cardiac sarcoidosis affects up to 5% of individuals with sarcoidosis and can lead to conduction abnormalities like heart block or arrhythmias, left ventricular dysfunction or sudden cardiac death.
+Nervous System:
+Neurosarcoidosis is a severe manifestation affecting about 5-15% of patients. It can present with cranial nerve palsies, seizures, headache or psychiatric symptoms.
+Musculoskeletal System:
+Arthralgia and arthritis are common musculoskeletal manifestations. Acute sarcoid arthritis often presents as
+Lofgren's syndrome
+, characterised by erythema nodosum, arthralgia and bilateral hilar lymphadenopathy.
+Endocrine and Renal Systems:
+Sarcoidosis can cause
+hypercalcaemia
+due to increased conversion of vitamin D to its active form by macrophages in granulomas.
+Renal involvement may lead to nephrocalcinosis or nephrolithiasis secondary to hypercalcaemia.
+Hepatic and Splenic Involvement:
+Liver is involved in up to 80% of cases but symptomatic hepatic sarcoidosis is less common. It may present with hepatomegaly or abnormal liver function tests.
+Splenic involvement can lead to splenomegaly but is usually asymptomatic.
+Improve
+Investigations
+Investigation of sarcoidosis involves a stepwise approach, starting with first-line investigations, followed by further investigations if necessary. The aim is to confirm the diagnosis, stage the disease, and assess organ involvement.
+First-Line Investigations
+Blood tests:
+These include full blood count, renal function tests, liver function tests, and serum calcium levels. An elevated serum angiotensin-converting enzyme (ACE) level can support the diagnosis but is neither sensitive nor specific for sarcoidosis. Hence it should not be used as a stand-alone diagnostic test.
+Chest radiography:
+This is an essential first-line imaging investigation in suspected sarcoidosis. It may show bilateral hilar
+lymphadenopathy
+and lung parenchymal changes characteristic of sarcoidosis. A chest x-ray may show the following changes:
+stage 0 = normal
+stage 1 = bilateral hilar lymphadenopathy (BHL)
+stage 2 = BHL + interstitial infiltrates
+stage 3 = diffuse interstitial infiltrates only
+stage 4 = diffuse fibrosis
+Pulmonary function tests (PFTs):
+PFTs are useful in assessing lung involvement. A restrictive pattern with reduced forced vital capacity (FVC), reduced total lung capacity (TLC), and normal or increased ratio of forced expiratory volume in one second to FVC (FEV1/FVC ratio) is typically seen in pulmonary sarcoidosis.
+Further Investigations
+If the initial investigations suggest sarcoidosis but are inconclusive or if organ involvement needs to be assessed, further investigations may be required.
+High-resolution computed tomography (HRCT):
+HRCT of the chest provides more detailed imaging than chest radiography and can detect early or subtle lung changes not visible on chest X-ray. It can also guide biopsy decisions.
+Tissue biopsy:
+Histological confirmation of non-caseating granulomas is crucial for definitive diagnosis. The site for biopsy depends on clinical presentation and may include the lung, skin, or other involved organs. Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) is often used for sampling hilar or mediastinal lymph nodes.
+Other organ-specific investigations:
+These are guided by symptoms and signs suggesting specific organ involvement. For example, slit lamp examination and optical coherence tomography for ocular sarcoidosis, magnetic resonance imaging (MRI) for neurosarcoidosis, or electrocardiogram and echocardiogram for cardiac sarcoidosis.
+Improve
+Management
+The management of sarcoidosis depends on the severity and extent of organ involvement. Asymptomatic patients or those with mild disease may not require treatment, as spontaneous remission is common. However, patients with symptomatic or progressive disease often require systemic corticosteroids as first-line therapy. Prednisone, typically starting at 20-40 mg daily, is the most commonly used agent, with a gradual tapering of the dose based on clinical response. Corticosteroids can effectively control symptoms and inflammation, but they do not cure the disease. Long-term use may be required for some patients, and potential side effects should be carefully monitored.
+In cases where corticosteroids are not effective, poorly tolerated, or contraindicated, second-line agents may be considered. These include immunosuppressive drugs such as methotrexate, azathioprine, and mycophenolate mofetil.
+In refractory cases or severe organ involvement, biologic therapies targeting TNF-α, such as infliximab or adalimumab, may be used. However, these agents carry an increased risk of infections and other side effects.
+Treatment of specific organ involvement varies. For example, topical or systemic corticosteroids may be used for ocular involvement, while calcium channel blockers or implantable devices may be necessary for cardiac arrhythmias. Pulmonary hypertension may require vasodilator therapy, and in severe cases, lung transplantation might be considered.
+Close monitoring of disease progression and organ function is essential during treatment. Pulmonary function tests, imaging studies, and laboratory investigations should be periodically performed to assess the response to therapy and adjust the management plan accordingly.
+Improve
+Prognosis
+Factors associated with poor prognosis
+insidious onset, symptoms > 6 months
+an absence of
+erythema nodosum
+extrapulmonary manifestations: e.g. lupus pernio, splenomegaly
+CXR: stage III-IV features
+people of Black African ethnicity
+Improve
+References
+Radiopaedia - Pulmonary sarcoidosis staging
+Respiratory
+Sarcoidosis
+Lofgren's syndrome

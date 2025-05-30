@@ -1,0 +1,87 @@
+Huntington's disease
+Huntington's disease
+Huntington's disease is an inherited neurodegenerative condition. It is a progressive and incurable condition that typically results in death 20 years after the initial symptoms develop.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 0.70 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Genetics
+autosomal dominant
+trinucleotide repeat disorder: repeat expansion of CAG
+results in degeneration of cholinergic and GABAergic neurons in the striatum of the basal ganglia
+due to defect in huntingtin gene on chromosome 4
+Improve
+Clinical features
+Features typical develop after 35 years of age
+chorea
+personality changes
+(e.g. irritability, apathy,
+depression
+) and intellectual impairment
+dystonia
+saccadic eye movements
+Improve
+Investigations
+The investigation of suspected Huntington's disease (HD) involves a structured approach to confirm the diagnosis and assess the extent of neurological involvement. The following guide outlines first-line and further investigations.
+First-line investigations
+Genetic testing:
+The primary diagnostic tool for HD is genetic testing, which identifies the CAG trinucleotide repeat expansion in the HTT gene on chromosome 4. A positive result with ≥40 repeats confirms a diagnosis of Huntington’s disease. Genetic counselling should be offered before and after testing due to the implications of the results.
+Neuroimaging:
+While not diagnostic, neuroimaging can support the clinical findings. MRI or CT scans may show caudate nucleus atrophy, but these changes are more evident in advanced stages.
+Further investigations
+Cognitive assessment:
+Formal neuropsychological testing can help evaluate cognitive deficits associated with HD. This includes tests for memory, executive function, language skills, and visuospatial abilities.
+Psychiatric evaluation:
+Given the high prevalence of psychiatric symptoms in HD patients, a comprehensive psychiatric assessment is recommended to identify
+depression
+,
+anxiety
+, irritability, or psychosis.
+Molecular genetic analysis:
+For atypical cases or where there is uncertainty about the initial genetic test results, further molecular genetic analysis may be warranted to clarify ambiguous findings or identify other potential genetic contributors.
+Functional imaging studies:
+Although not routinely used for diagnosis, functional imaging such as PET or SPECT scans can provide additional information regarding brain metabolism and dopaminergic system integrity in research settings or complex cases.
+The diagnosis of Huntington's disease is generally confirmed through genetic testing without extensive reliance on other investigations. However, additional assessments are essential for comprehensive patient management and to tailor therapeutic interventions effectively.
+Improve
+Management
+Management of Huntington's disease (HD) is multidisciplinary, requiring a coordinated approach from neurologists, psychiatrists, physiotherapists, occupational therapists, dietitians and social workers.
+Neurological Management
+Tetrabenazine is the first-line treatment for
+chorea
+in HD. Deutetrabenazine and valbenazine are alternatives if tetrabenazine is not tolerated.
+Antipsychotics such as olanzapine or risperidone can be used to manage psychosis and also have anti-chorea effects.
+For patients with bradykinesia or rigidity, consider a trial of levodopa.
+Psychiatric Management
+Selective serotonin reuptake inhibitors (SSRIs) or mirtazapine can be used to manage
+depression
+and irritability in HD patients.
+Cognitive behavioural therapy (CBT) should be considered for managing obsessive-compulsive disorder symptoms.
+Dysphagia Management
+A speech and language therapist should assess swallowing function regularly to minimise risk of aspiration pneumonia. Dietary modifications may be necessary.
+If oral feeding becomes unsafe despite interventions, percutaneous endoscopic gastrostomy (PEG) feeding should be considered.
+Mobility Management
+A physiotherapist should evaluate mobility, balance and coordination issues. A tailored exercise programme can help maintain mobility for as long as possible.
+An occupational therapist can assess home safety and suggest adaptations to prevent falls. They can also provide aids for daily living tasks.
+Nutritional Management
+Patients with HD often have high calorie requirements due to chorea and dysphagia. A dietitian should provide a personalised dietary plan.
+Regular weight checks are important, and nutritional supplements may be required if weight loss occurs.
+Social Support
+Social workers can assist with care planning, benefits advice and psychological support for patients and their families.
+Consider referral to local Huntington's disease support groups for peer support.
+Improve
+Neurology
+Huntington's disease

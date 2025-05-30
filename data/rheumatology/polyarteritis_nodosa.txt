@@ -1,0 +1,186 @@
+Polyarteritis nodosa
+Polyarteritis nodosa
+Polyarteritis nodosa (PAN) is a vasculitis affecting medium-sized arteries with necrotizing inflammation leading to aneurysm formation. PAN is more common in middle-aged men and is associated with hepatitis B infection.
+Last updated: 30
+th
+August 2023
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Infective endocarditis
+1.67
+Polyarteritis nodosa
+1
+Granulomatosis with polyangiitis
+0.33
+Thrombotic thrombocytopenic
+purpura
+0.13
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Idiopathic
+The majority of Polyarteritis Nodosa (PAN) cases are idiopathic, with no identifiable underlying cause.
+Infections
+Hepatitis B: One of the most well-documented associations, present in up to 30% of PAN cases. The immune complex-mediated mechanism is frequently implicated.
+Other Viral Infections: Hepatitis C, HIV, and other viral infections have also been linked but are less common.
+Drugs and Medications
+Certain drugs, such as hydralazine and allopurinol, have been implicated in case reports but are not commonly associated.
+Autoimmune Diseases
+Although uncommon, PAN has been linked with other autoimmune conditions like rheumatoid arthritis and systemic lupus erythematosus.
+Malignancies
+Some studies have shown an association between PAN and haematological malignancies (e.g. hairy cell leukaemia), but the relationship is not yet well-defined.
+Improve
+Pathophysiology
+Vasculitis
+Inflammation of Medium-sized Arteries
+: The hallmark of PAN is necrotising inflammation of the medium-sized arteries, particularly the muscular and elastic types. This inflammation leads to weakening of the arterial wall, aneurysm formation, and organ damage.
+Immune Complex Deposition:
+In cases associated with HBV, immune complexes formed by the viral antigens and corresponding antibodies are thought to be deposited in the arterial walls, leading to inflammation and damage.
+Inflammatory Cell Infiltration
+Infiltration of Neutrophils and Monocytes:
+The inflammatory process in PAN involves infiltration of the arterial wall by neutrophils and monocytes. This leads to the release of inflammatory cytokines and reactive oxygen species, exacerbating the damage.
+Fibrinoid Necrosis:
+The inflammation and infiltration of inflammatory cells lead to fibrinoid necrosis of the arterial wall.
+Organ Damage
+Ischaemia and Infarction:
+The inflammation and damage to the arterial wall can lead to stenosis or occlusion of the vessel, resulting in ischaemia and infarction of the downstream tissues.
+Aneurysm Formation:
+The weakening of the arterial wall can lead to the formation of microaneurysms, which can rupture, causing haemorrhage.
+Improve
+Clinical features
+Features
+fever
+,
+malaise
+, arthralgia
+weight loss
+hypertension
+mononeuritis multiplex, sensorimotor polyneuropathy
+testicular pain
+livedo reticularis
+haematuria
+, renal failure
+perinuclear-antineutrophil cytoplasmic antibodies (ANCA) are found in around 20% of patients with 'classic' PAN
+hepatitis B serology positive in 30% of patients
+© Image used on license from
+DermNet NZ
+Livedo reticularis
+Improve
+Investigations
+Various tests can be performed to diagnose or to ascertain the extent of polyarteritis nodosa (PAN):
+Laboratory testing
+: There is no diagnostic laboratory test for PAN. Basic laboratory tests help ascertain the extent of involvement of different organs. They include:
+Liver function tests
+Hepatitis B and C serologies
+Creatinine kinase
+Serum creatinine
+Urine analysis
+Acute phase proteins (ESR and C reactive protein are significantly elevated, though they are neither sensitive nor specific for the diagnosis)
+Chest radiography
+may be obtained to exclude other forms of vasculitis, which have greater involvement in the lungs.
+Biopsy
+is performed on a
+clinically affected organ
+to
+confirm the diagnosis
+.
+Imaging:
+Arteriography
+(mesenteric or renal) can be used as an alternative to biopsy to confirm the diagnosis (to minimise bleeding risk). It can reveal aneurysms and irregular constrictions in the vessels.
+Computed tomography/Magnetic resonance imaging
+can demonstrate wedge shaped renal infarctions, which are less specific than microaneurysms showed on arteriography.
+Improve
+Differential diagnosis
+PAN is a multisystemic illness, and hence various diseases can be considered in differentials for PAN. They include infectious processes as well as other forms of vasculitis.
+Infectious causes include HBV and HCV, which can also cause secondary PAN that can be differentiated on biopsy.
+Fever
+, murmur, or associated weight loss can also be caused by
+infective endocarditis
+, which should be subsequently ruled out by blood cultures and echocardiogram.
+Atherosclerosis can also cause infarctions in various organs, causing similar symptoms, with similar age of onset as PAN. They can be both differentiated on histology.
+Hypercoagulable states
+Antiphospholipid syndrome may present with a history of multiple abortions, although uterine involvement may also be seen with PAN in some patients.
+Purpuric lesions can mimic those of thrombotic thrombocytopenic
+purpura
+Vasospastic disorders
+Other multisystem inflammatory disorders
+Sarcoidosis, also a multisystemic illness and a diagnosis of exclusion
+Malignancy
+Lymphoma and leukaemia can be diagnosed with bone marrow biopsy.
+Improve
+Management
+General Principles
+Management of Polyarteritis Nodosa (PAN) is generally guided by the severity of the disease. The primary goals are to induce remission, maintain remission, and manage complications.
+Induction of Remission:
+The initial phase of treatment aims at controlling the active disease and inducing remission.
+Maintenance of Remission:
+After achieving remission, the focus shifts to maintaining remission and preventing relapse.
+Management of Complications:
+PAN can lead to various complications such as
+hypertension
+, renal impairment, and peripheral neuropathy which require specific management.
+Induction of Remission
+Corticosteroids:
+High-dose glucocorticoids are the cornerstone of treatment for inducing remission in PAN. Prednisolone at a dose of 1mg/kg/day (maximum 60 mg/day) is usually recommended. The dose should be tapered gradually once the clinical symptoms have improved and inflammatory markers have normalised.
+Cyclophosphamide:
+For patients with severe PAN or organ-threatening disease, cyclophosphamide is usually added. The typical dose is 2 mg/kg/day orally or 15 mg/kg intravenously every 2-3 weeks.
+Maintenance of Remission
+Azathioprine or Methotrexate:
+Once remission is induced, cyclophosphamide can be replaced with azathioprine (2 mg/kg/day) or methotrexate (15-25 mg/week) as maintenance therapy.
+Corticosteroids:
+Continue with a lower dose of corticosteroids and taper gradually.
+Management of Complications
+Hypertension:
+Antihypertensive medications as per standard guidelines.
+Renal Impairment:
+Management includes control of hypertension, avoiding nephrotoxic drugs, and dialysis if necessary.
+Peripheral Neuropathy:
+Neuropathic pain can be managed with medications like gabapentin or amitriptyline.
+Improve
+Complications
+Clinical manifestations of PAN, in the order of decreasing frequency, include:
+Systemic symptoms
+Fever
+,
+malaise
+, weight loss
+Neuropathy
+Mononeuritis multiplex, polyneuropathy
+Arthralgias and/or myalgias
+Cutaneous
+Livedo reticularis,
+purpura
+, ulcers
+Renal disease
+Elevated creatinine, hematuria, glomerulonephritis
+Gastrointestinal symptoms
+Abdominal pain
+, rectal bleeding
+New-onset
+hypertension
+Respiratory manifestations
+Stroke
+Cardiomyopathy, pericarditis
+Peripheral vascular disease
+Claudication, ischemia, necrosis
+Here are important things to keep in mind regarding the morbidity and mortality of PAN.
+There is a substantial rate of relapse with PAN, which requires monitoring disease for an indefinite period.
+Untreated PAN has a five-year survival rate of 13% as compared to 80% in the case of treated PAN.
+HBV-associated PAN has a poorer prognosis than non-HBV-associated PAN.
+Major causes of death include renal failure and mesenteric, cardiac and cerebral infarctions. Aneurysms can cause life-threatening bleeding.
+Improve
+Rheumatology
+Polyarteritis nodosa

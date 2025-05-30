@@ -1,0 +1,306 @@
+Gout
+Gout
+Gout is a rapid onset crystal-induced arthritis and is the most common form of inflammatory arthritis. Characterised by intense pain and swelling, acute attacks typically affect the first metatarsal-phalangeal joint (MTP of the great toe). If chronic, gout may affect other mainly peripheral joints including ankles, knees and fingers amongst others. It is uncommon for gout to affect more central joints such as hips.
+It is triggered following prolonged
+hyperuricaemia
+due to purine breakdown which results in the accumulation of
+monosodium urate (MSU) crystals
+in the joint. When aspirated, this synovial fluid can be viewed under polarizing light microscopy to confirm the diagnosis.
+Gout most commonly affects men with a first attack experienced between the ages of 30 and 50. Increased alcohol intake, being obese, metabolic syndrome, being of African American origin and family history are all well-established risk factors.
+Gout can cause incapacitation during an acute attack and many patients experience repeat attacks, although the frequency of these flares is reduced if a treatment plan is adhered to.
+NSAIDs
+or
+colchicine
+are first-line for an acute attack whilst
+allopurinol
+is used as first-line prophylaxis to reduce occurrence of flares.
+Last updated: 30
+th
+August 2023
+Epidemiology
+Incidence: 155.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 3.5:1
+Condition
+Relative
+incidence
+Gout
+1
+Osteomyelitis
+0.13
+Septic arthritis
+0.08
+Pseudogout
+0.06
+Reactive arthritis
+0.03
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Genetic Factors
+While the precise genetic predisposition remains unclear, family history often plays a significant role in the susceptibility to hyperuricaemia and gout. Certain polymorphisms in the urate transporter genes have been implicated.
+Dietary Factors
+High intake of purine-rich foods (e.g., red meat, shellfish) and high-fructose beverages are associated with increased uric acid levels. Alcohol consumption, particularly beer, can exacerbate hyperuricaemia due to its purine content and diuretic effect.
+Metabolic Syndrome
+Hyperuricaemia is often found in tandem with components of the metabolic syndrome, including obesity, hypertension, and insulin resistance.
+Renal Function
+Impaired renal excretion of uric acid can contribute to hyperuricaemia. Conditions affecting renal function, such as chronic kidney disease, can thus predispose individuals to gout.
+Medications
+Thiazide diuretics, aspirin at low doses, and certain anti-tuberculosis medications can increase uric acid levels and precipitate gout.
+Improve
+Pathophysiology
+Hyperuricaemia:
+When uric acid levels exceed the solubility limit in plasma, monosodium urate (MSU) crystals may form. However, hyperuricaemia alone is not sufficient to cause gout, as many individuals with elevated uric acid levels do not develop the disease.
+MSU Crystal Formation:
+MSU crystals preferentially form in joints and soft tissues, particularly in cooler peripheral joints such as the first metatarsophalangeal joint. Conditions that alter the local environment, such as joint injury or osteoarthritis, can facilitate crystal deposition.
+Inflammatory Response:
+The presence of MSU crystals in the joints triggers an acute inflammatory response. Neutrophils are recruited to the site of deposition and phagocytose the crystals. This leads to the release of inflammatory mediators, such as interleukin-1β (IL-1β), tumour necrosis factor-α (TNF-α), and reactive oxygen species, causing the classical symptoms of gout: intense pain, redness, swelling, and warmth of the affected joint.
+Chronic Gout:
+Repeated episodes of acute gout can lead to chronic gouty arthritis, characterised by tophi formation, joint damage, and chronic pain. Tophi are nodules composed of MSU crystals surrounded by a chronic inflammatory reaction, and can develop in the soft tissues, cartilage, and bones.
+Improve
+Clinical features
+The stereotypical presentation of gout is an acute monoarthritis, most commonly affecting the first metatarsophalangeal joint (MTPJ) — often referred to as podagra. The onset is typically abrupt, occurring over a few hours and characterised by severe pain, redness, swelling and tenderness of the affected joint.
+In addition to the classic presentation of acute monoarthritis, there are various other clinical features that can be associated with gout:
+Asymptomatic hyperuricaemia:
+This refers to an elevated serum urate level without any clinical manifestations. Although it is not considered a disease state in itself, asymptomatic hyperuricaemia can progress to symptomatic gout if left untreated.
+Acute polyarticular gout:
+Although less common than monoarticular gout, this form can affect multiple joints simultaneously or sequentially. It is more likely to occur in patients with longstanding hyperuricaemia or those with co-morbid conditions such as renal impairment or cardiovascular disease.
+Tophaceous gout:
+This chronic stage of gout is characterised by the deposition of monosodium urate crystals in soft tissues forming nodules known as tophi. Tophi are usually painless but can cause deformity and disability if they grow large or occur near joints. They may also ulcerate and discharge chalky material.
+Gouty nephropathy:
+Urate crystals may deposit in the renal tubules leading to interstitial nephritis and eventually chronic kidney disease. Patients may present with reduced glomerular filtration rate (GFR), proteinuria and hypertension.
+Improve
+Investigations
+Diagnosing gout for the first time can be achieved primarily using
+clinical features and patient history.
+If clinical features do not confidently suggest gout, a
+synovial fluid aspiration
+of the affected joint will confirm the diagnosis.
+It appropriate to arrange
+serum uric acid measurements
+4-6 weeks following the first presentation of suspected gout. They are also useful in
+chronic gout
+for monitoring purposes (higher levels correlate to a higher risk of gout). Additionally, radiology may evidence extra-articular features in chronic gout.
+Investigations are outlined in more detail below.
+Clinical diagnosis
+NICE guidelines state that if a patient presents with features suggestive of gout and there are no suspicions of other conditions such as
+septic arthritis
+, a clinical diagnosis can be made with
+no need for investigations.
+The European League Against Rheumatism (EULAR) recommend that the clinical diagnosis be supported by the following features:
+Mono-articular involvement of a foot/ankle joint
+Previous episodes of a similar nature
+Rapid onset
+Erythema
+Male
+They stress that whilst
+suggestive
+of gout, these features are by no means specific.
+If making a clinical diagnosis, screen for
+cardiovascular risk
+and risk of
+kidney disease
+.
+Synovial fluid analysis
+NICE advise aspiration is
+not
+indicated unless:
+Diagnosis of gout is unsure.
+Septic arthritis is suspected.
+Fine-needle aspiration of the affected joint is considered the
+gold standard
+as the presence of MSU crystals is
+100% specific
+for gout. Usually, synovial fluid in gout will contain WBC at a level greater than 2000/µL
+It can also be used to differentiate between gout and
+pseudogout
+.
+Additionally, SF analysis allows the exclusion of an infective arthritis.
+Crystals
+Gout
+Pseudogout
+Birefringence
+Negatively birefringent
+Positively birefringent
+Shape
+Needle shaped
+Rhomboidal
+Crystal type
+Monosodium urate
+Calcium pyrophosphate
+Serum uric acid
+Hyperuricaemia is
+NOT
+diagnostic of gout however, increased levels do correlate with increased risk of developing gout.
+Serum uric acid should be measured
+4-6 weeks
+following an acute gout attack to confirm hyperuricemia.
+Serum uric acid reference ranges vary between trusts and so it would be advisable to look on the trust intranet to be certain. They tend to be around 200-430µmol/L in males and 140-360µmol/L in females.
+It is considered to be
+raised
+when levels are above 360µmol/L
+The absence of hyperuricaemia
+does not exclude gout.
+Given the correlation between higher serum uric acid levels and risk of gout, it can be useful in monitoring response to urate lowering therapy in a patient with chronic gout.
+Other bloods to consider
+U&Es:
+renal function should be measured to ensure appropriate dose of
+allopurinol
+.
+FBC:
+WBC may be raised
+Fasting glucose and lipid profile: gout is associated with metabolic syndrome.
+Radiology - useful in chronic gout
+X-rays
+X-rays are usually normal unless the disease is at an advanced stage.
+In
+chronic gout,
+joint effusion is usually the earliest sign. Later, x-rays show
+punched out lytic lesions
+, sclerotic margins and outlines of
+tophi
+. Tophi are lumps caused by MSU crystal deposition.
+Ultrasound:
+tophi
+present in chronic gout can be observed via ultrasound appearing
+hyperechoic
+(white appearance).
+Improve
+Differential diagnosis
+Pseudogout
+(Calcium Pyrophosphate Deposition Disease, CPPD)
+Clinical Presentation
+Both gout and pseudogout can manifest as acute-onset monoarticular arthritis. While gout frequently affects the first metatarsophalangeal joint, pseudogout more commonly targets larger joints like the knee or wrist.
+Diagnostic Investigations
+Synovial fluid analysis remains the gold standard for diagnosis. In gout, one would find negatively birefringent, needle-shaped monosodium urate crystals. Conversely, in pseudogout, positively birefringent, rhomboid-shaped calcium pyrophosphate crystals are typical.
+Imaging
+Plain radiographs in chronic cases of pseudogout may show chondrocalcinosis, a finding absent in gout.
+Management
+Treatment of acute pseudogout often mirrors that of gout, with
+NSAIDs
+, corticosteroids, or colchicine. However, urate-lowering therapies effective in gout are not applicable to CPPD.
+Septic Arthritis
+Clinical Presentation
+The sudden, severe onset of joint inflammation is common to both gout and septic arthritis. However, septic arthritis may present with accompanying fever and systemic malaise, which are less common in gout.
+Diagnostic Investigations
+Synovial fluid in septic arthritis typically demonstrates a high leukocyte count with neutrophil predominance. Gram stain and culture can identify the causative organism.
+Imaging
+While both conditions can result in joint space narrowing and erosion in chronic stages, early septic arthritis may display soft tissue swelling and effusion without the focal erosions frequently seen in chronic gout.
+Management
+Septic arthritis requires prompt surgical drainage and antibiotic treatment, tailored to the isolated organism, making it crucial to differentiate from gout.
+Improve
+Management
+Gout is typically managed in the community setting with differing approaches for acute and chronic gout. The goal of treatment to manage an acute attack is to
+reduce pain and inflammation
+of the affected joint and ensure its function is rapidly restored, whilst long-term management of gout aims to
+prevent flares and reduce joint erosion
+.
+NICE guidelines for the management of gout are based upon the European League Against Rheumatism's (EULAR) evidence-based recommendations. Management of an acute attack includes
+NSAIDs
+and colchicine as first-line agents and corticosteroids if NSAIDs and colchicine are contraindicated. Long-term control includes lifestyle advice and a range of pharmacological options but most commonly serum urate-lowering therapy
+allopurinol
+as first-line and febuxostat if allopurinol is not tolerated.
+Acute management
+NSAIDs or
+colchicine
+are first-line
+the maximum dose of NSAID should be prescribed until 1-2 days after the symptoms have settled
+gastroprotection (e.g. a proton pump inhibitor) may also be indicated
+colchicine
+inhibits microtubule polymerization by binding to tubulin, interfering with mitosis. Also inhibits neutrophil motility and activity
+has a slower onset of action
+may be used with caution in renal impairment
+: the BNF advises to reduce the dose if eGFR is 10-50 ml/min and to avoid if eGFR < 10 ml/min
+BNF
+the main side-effect is
+diarrhoea
+oral steroids
+may be considered if NSAIDs and colchicine are contraindicated.
+a dose of prednisolone 15mg/day is usually used
+another option is intra-articular steroid injection
+if the patient is already taking allopurinol it should be continued
+Indications for urate-lowering therapy (ULT)
+the British Society of
+Rheumatology
+Guidelines now advocate offering
+urate-lowering therapy to all patients after their
+first attack of gout
+ULT is
+particularly
+recommended if:
+>= 2 attacks in 12 months
+tophi
+renal disease
+uric acid renal stones
+prophylaxis if on cytotoxics or diuretics
+Urate-lowering therapy
+it has traditionally been taught that urate-lowering therapy should not be started until 2 weeks after an acute attack, as starting too early may precipitate a further attack. The evidence base to support this however looks weak
+in 2017 the BSR updated their guidelines. They still support a delay in starting urate-lowering therapy because it is better for a patient to make long-term drug decisions whilst not in pain
+the key passage is:
+'Commencement of ULT is best delayed until inflammation has settled as ULT is better discussed when the patient is not in pain'
+allopurinol is first-line
+initial dose of 100 mg od, with the dose titrated every few weeks to aim for a serum uric acid of < 360 µmol/l
+CKS
+a lower target uric acid level below 300 µmol/L may be considered for patients who have tophi, chronic gouty arthritis or continue to have ongoing frequent flares despite having a uric acid below 360 µmol/L
+a lower initial dose of allopurinol should be given if the patient has a reduced eGFR
+colchicine cover
+should be considered when starting allopurinol.
+NSAIDs
+can be used if colchicine cannot be tolerated. The BSR guidelines suggest this may need to be continued for 6 months
+the second-line agent when allopurinol is not tolerated or ineffective is febuxostat (also a xanthine oxidase inhibitor)
+in refractory cases other agents may be tried:
+uricase (urate oxidase) is an enzyme that catalyzes the conversion of urate to the degradation product allantoin. It is present in certain mammals but not humans
+in patients who have persistent symptomatic and severe gout despite the adequate use of urate-lowering therapy, pegloticase (polyethylene glycol modified mammalian uricase) can achieve rapid control of hyperuricemia. It is given as an infusion once every two weeks
+Lifestyle modifications
+reduce alcohol intake and avoid during an acute attack
+lose weight if obese
+avoid food high in purines e.g. Liver, kidneys, seafood, oily fish (mackerel, sardines) and yeast products
+Other points
+consideration should be given to stopping precipitating drugs (such as
+thiazides
+)
+losartan has a specific uricosuric action and may be particularly suitable for the many patients who have coexistent hypertension
+increased vitamin C intake (either supplements or through normal diet) may also decrease serum uric acid levels
+Improve
+Complications
+If gout is not well controlled, it may result in the development of a range of co-morbidities/presentations. Many of these are a result of the chronically elevated levels of serum uric acid and subsequent systemic effects.
+Complications include:
+Tophi
+As mentioned previously, tophi form when MSU crystals deposit to form hard lumps. They can form in tissues, bone and cartilage and if large and painful may impact a patients ability to perform daily tasks.
+Tophi are usually a sign of
+chronic gout
+, their presence indicates that there are likely to be MSU crystal deposits elsewhere in the body.
+Bone complications
+Repeated attacks of gout and the presence of tophi all contribute to bone erosion and weakening of joints resulting in
+degenerative arthritis
+. In the most serious of cases, surgery will be required to rectify this damage.
+A 2018 population-based study found that gout conferred a
+20% increased risk of osteoporosis.
+Renal complications
+Kidney stones may occur due to deposits of MSU crystals in the urinary tract as a result of hyperuricaemia. They can disrupt the flow of urine, cause pain and make the patient more susceptible to an infection of the urinary tract or kidney.
+Although kidney disease is a risk factor for gout, gout can also
+cause
+kidney disease. Although not fully understood, it is believed kidney disease may result due to the passage of MSU crystals through kidneys causing scarring. This scarring then reduces functionality of the kidneys.
+Mental health conditions
+Resultant from the chronic pain and incapacitation, patients may be unable to work of complete activities of daily living.
+Cumulatively, this may impact a patient's mental well-being and they should be supported appropriately.
+Many of these complications can be avoided if serum uric acid levels are kept within range.
+Improve
+References
+BNF - Colchicine
+NICE - 2022 Gout: diagnosis and management
+Clinical Knowledge Summaries - Gout guidelines
+RCP Clinical Medicine - Crystal arthritis: contemporary approaches to diseases of antiquity
+Annals of the rheumatic diseases - Low-dose aspirin use and recurrent gout attacks
+Genetics home reference - Lesch Nyhan Syndrome
+British Society of Rheumatology - 2017 Gout guidelines
+Crystal arthropathy
+Gout

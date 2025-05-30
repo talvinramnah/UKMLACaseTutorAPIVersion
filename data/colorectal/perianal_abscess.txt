@@ -1,0 +1,120 @@
+Perianal abscess
+Perianal abscess
+Perianal abscess
+refers to an infection resulting in a collection of pus near the anus, typically caused by bacterial invasion into the anal glands. The condition presents with severe
+perianal pain
+, swelling and systemic symptoms like
+fever
+. Aetiology includes conditions that predispose to fissure formation such as constipation or diarrhoea, inflammatory bowel disease, diabetes mellitus and immunosuppression. Diagnosis is primarily clinical, though imaging modalities like ultrasound or MRI can be utilised in complex cases.
+Treatment primarily involves surgical drainage under anaesthesia to relieve symptoms and prevent progression to fistula-in-ano. Antibiotics are usually reserved for patients with cellulitis, systemic symptoms or those who are immunocompromised. Despite treatment, recurrence or development of a chronic fistula is common and may necessitate further surgical intervention. Patient education regarding good hygiene practices can help reduce the risk of recurrence.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 25.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 2.5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Associated conditions
+Any anorectal abscess can be caused by an underlying inflammatory bowel disorder, especially Crohn's;
+Diabetes mellitus is a risk factor due to its ability to affect wound healing;
+Underlying malignancy can cause these abscesses as well as other anorectal lesions due to the risk of bowel perforation.
+Improve
+Pathophysiology
+The pathophysiology of a perianal abscess begins with the obstruction of the anal glands, which are located in the intersphincteric space. These glands secrete mucus that aids in lubrication during defecation. The obstruction can be due to various factors such as local trauma, inflammation, or infection.
+Upon obstruction, secretions from the anal gland accumulate and form a primary intersphincteric abscess. The bacteria present in faecal matter can infiltrate this obstructed gland and initiate an infection. Common organisms involved include
+Escherichia coli
+,
+Bacteroides
+species, and
+Staphylococcus aureus
+.
+This bacterial invasion triggers an immune response leading to inflammation and subsequent formation of pus within the confined space. The accumulation of pus increases pressure within the abscess cavity which subsequently leads to pain.
+As the disease progresses, it may extend through one or more of the sphincters surrounding the rectum causing various types of perianal abscesses: intersphincteric (most common), ischiorectal, perianal and supralevator.
+Intersphincteric Abscess:
+This occurs when infection remains confined within the intersphincteric space.
+Ischiorectal Abscess:
+This develops when infection spreads from the intersphincteric space through external sphincter into ischiorectal fossa.
+Perianal Abscess:
+This type arises when infection breaks through skin around anus directly into perianal space.
+Supralevator Abscess:
+This is less common and happens when infection spreads superiorly from intersphincteric plane or originates from pathology in pelvis.
+If left untreated, the abscess may continue to expand and eventually perforate into the surrounding tissues leading to a fistula. This is termed as an anal fistula, which is a chronic abnormal communication between the epithelialised surface of the anal canal and the skin. This condition can cause chronic discharge, pain and further complications such as recurrent abscesses.
+Improve
+Clinical features
+The stereotypical presentation of a perianal abscess often involves an individual experiencing severe pain in the anal area, which may be exacerbated during bowel movements. This discomfort is typically accompanied by systemic symptoms such as
+fever
+and
+malaise
+. On physical examination, erythema, swelling, and tenderness may be noted in the perianal region.
+Possible Presenting Features
+Anal Pain
+:
+This is usually severe and constant. It is often described as throbbing or stabbing in nature and may be aggravated during defecation or sitting.
+Systemic Symptoms:
+Fever, chills, malaise, and
+fatigue
+are common systemic manifestations. These reflect the body's inflammatory response to the infection.
+Erythema and Swelling:
+The skin surrounding the anus may appear red (erythematous) and swollen due to inflammation and pus accumulation.
+Tenderness:
+The affected area is often sensitive to touch or pressure.
+Anorectal Discharge:
+Some patients may present with purulent or bloody discharge from the anus. This occurs when the abscess begins to drain spontaneously.
+Dyschezia:
+Difficulty in defecation due to pain can occur. In some cases, there might also be constipation or rectal fullness.
+Anorectal Mass:
+A palpable mass can sometimes be felt on digital rectal examination if the abscess is large enough. It is usually tender upon palpation.
+In addition to these primary symptoms, certain secondary features may also arise depending on the severity of the condition and whether it has led to complications such as fistula formation or sepsis. These include:
+Fistula Symptoms:
+A perianal abscess can lead to the formation of a fistula, an abnormal connection between the anal canal and the skin. This may result in chronic discharge, recurrent abscesses, or even faecal soiling.
+Sepsis:
+If the infection spreads into the bloodstream, systemic signs of sepsis such as hypotension, tachycardia, altered mental status, and high fever may be observed.
+Improve
+Investigations
+Investigations
+Most perianal abscesses can be detected through inspection of the anus and digital rectal examination;
+When querying the underlying cause, colonoscopy and blood tests such as cultures and inflammatory markers may be of use;
+Imaging such as MRI and transperineal ultrasound can be useful tools, with the former being the gold standard in imaging anorectal abscesses. They are however rarely used except for cases where the abscess has complications or is part of a more serious underlying process such as IBD.
+Improve
+Differential diagnosis
+As stated above 'perianal abscess' refers to a simple abscess of the subcutaneous tissue. There are numerous other anorectal abscesses which can be classified by the layers and planes that they occupy.
+Ischiorectal abscesses are found between the obturator internus muscles and the external anal sphincter;
+Supralevator abscesses form when infection tracks superiorly from the peri-sphincteric area to above the levator ani;
+Intersphincteric abscesses are rare (2-5% of cases) and as their name suggests are sited between the internal and external anal sphincters;
+The pelvis is notorious for the presence of potential spaces, which can become sites of infection. One such incidence of this is the formation of a horseshoe abscess, a reference to their shape. These are found in a potential space between the coccyx and the anal canal, and can be the result of complication of another type of anorectal abscess, such as a supralevator abscess.
+Improve
+Management
+Treatment
+Treatment is usually surgical, with
+incision and drainage
+being first line, usually under local anaesthetic. The wound can then either be packed or left open, in which case it will heal in around 3-4 weeks;
+Antibiotics can be of use, but are only usually employed if there is systemic upset secondary to the abscess, as they do not seem to help with healing of the wound after drainage.
+Improve
+Complications
+Perianal abscesses can lead to several complications if not promptly and adequately treated. The following are some of the most common complications:
+Fistula-in-ano:
+One of the most frequent complications, occurring in approximately 30-70% of patients with perianal abscesses. This is an abnormal tract connecting the anal canal to the skin around the anus, often resulting from inadequate drainage or recurrent abscess.
+Sepsis:
+A severe systemic response to infection that can lead to multiorgan failure and death if untreated. Although rare, sepsis is a serious complication that requires immediate intervention.
+Necrotising fasciitis:
+A rare but life-threatening bacterial infection causing rapid destruction of soft tissue layers. It's typically caused by
+Streptococcus pyogenes
+, but mixed aerobic and anaerobic bacteria may also be involved.
+Anorectal stricture:
+Chronic inflammation and scarring can cause narrowing of the anal canal or rectum, leading to constipation, painful defecation, and in severe cases, bowel obstruction.
+Incontinence:
+Damage to the anal sphincters during surgical intervention may lead to faecal incontinence. This complication is more common in complex or recurrent abscesses requiring extensive surgery.
+Improve
+Colorectal surgery
+Perianal abscess

@@ -1,0 +1,298 @@
+Osteoporosis
+Osteoporosis
+Osteoporosis is a complex, progressive skeletal disease that leads to an increased risk of fragility fractures. It can be characterised by a reduced bone mineral density and defects in bone tissue micro-architecture.
+Postmenopausal osteoporosis (type I) and age-related osteoporosis (type II) are the most common
+primary
+forms of osteoporosis.
+Secondary osteoporosis
+can arise due to:
+Hyperthyroidism
+Hyperparathyroidism
+Alcohol abuse
+Immobilisation
+Osteoporosis is more common in women than men, highlighting that men have greater bone mass than women at any age and that men exhibit no physiological menopause equivalent. Due to the fact that post-menopausal women experience increased degradation of bone tissue as a result of decreased levels of oestrogen.
+Fractures due to osteoporosis are a major cause of morbidity and mortality in elderly populations, with vertebral compression fractures causing acute pain, postural back pain and deformity.
+Oral
+bisphosphonates
+and lifestyle modification, including exercises and vitamin D supplements, are the mainstays of management. Some patients may require monoclonal antibody treatment to prevent further reduction in bone mineral density.
+Last updated: 30
+th
+November 2023
+Aetiology
+Significantly, bone strength can be divided into
+bone density
+(determined by the amount of bone present) and
+bone quality
+(determined by the trabeculization of bone).
+Many factors contribute to the risk of osteoporotic fractures, which should be taken into account in the assessment of fracture risk in patients.
+Using the
+FRAX tool
+, the major risk factors associated with osteoporosis can be listed as:
+Age (between 40 and 90 years)
+Gender
+Previous fracture
+Parent fractured hip
+Smoking
+Glucocorticoids (more than 3 months at a dose of prednisolone 5mg daily)
+Rheumatoid arthritis
+Secondary osteoporosis
+Alcohol consumption
+BMD
+Improve
+Pathophysiology
+Osteoporosis results from
+increased
+bone breakdown by
+osteoclasts
++
+decreased
+bone formation by
+osteoblasts
+â→ loss of bone mass.
+Bone mass typically decreases with age in all populations but the degree of osteoporosis depends on the
+'peak' mass
+attained in adult life and the
+rate of loss
+in later life.
+Multiple genes are involved including:
+Collagen type 1A1
+Vitamin D receptor
+Oestrogen receptor genes
+Not all causes of osteoporosis alter bone micro-architecture and remodelling in the same way:
+Oestrogen deficiency
+Increased numbers of remodelling units
+Premature arrest of osteoblastic synthetic activity and perforation of trabeculae
+Loss of resistance to fracture
+Glucocorticoids
+Induce a high-turnover state initially
+(with increased fracture risk evident within 3 months of therapy initiation)
+Prolonged use leads to a reduced-turnover rate with a net loss due to reduced synthesis by osteoblasts
+Typically occurs with equivalent corticosteroid use of
+10mg prednisolone once daily for 3 months
+or more
+Ageing
+Increased turnover at the bone / vascular interface within cortical bone â→ weak structure for stresses in long bones
+(trabeculazation of cortical bone)
+Improve
+Clinical features
+Osteoporosis often has a long latent period where it remains asymptomatic and bone mineral density continues to fall before fragility fractures occur, in contrast to many other bone disease.
+Increasing age and female sex are significant risk factors for osteoporosis. The prevalence of osteoporosis rises from 2% at 50 years to 25% at 80 years in women.
+Pathological or fragility fractures
+, often the result of a fall, are traditionally the first clinical presentation. Pervasive sequelae include fractures of the proximal femur, humerus, distal radius and compression fractures of the vertebral bodies.
+The most common pathological fractures seen include:
+Vertebral compression fractures
+Often a sudden episode of acute back pain occurring at rest, bending or lifting
+Restricted spinal flexion and intensified pain with prolonged standing
+Anterior compression fractures in the thoracic spine may lead to thoracic kyphosis (
+Dowager's hump
+)
+Paravertebral muscle spasm and tender upon deep palpation
+Only about 1 in 3 vertebral fractures are symptomatic
+Appendicular fractures
+(fracture of the proximal femur or distal radius following a fall)
+Often occur in those with several pre-existing co-morbidities that complicate post-operative recovery (such as pneumonia and DVT)
+Neck of femur
+fractures present as hip pain, inability to bear weight and upon physical examination there is a shortened and externally rotated leg
+Colles fractures
+present after a fall on an outstretched arm, wrist pain and reduced range of movement
+Improve
+Investigations
+The diagnostic work-up of osteoporosis aims to evaluate the extent of bone density loss, exclude secondary causes of bone loss and prevent further bone destruction.
+It is clinically warranted to assess bone density in patients at high risk of fractures or deformity using
+serial bone density measurements
+, to monitor the effectiveness of therapy or preventative interventions.
+This can be achieved using
+dual-energy x-ray absorptiometry (DXA)
+using low doses of radiation to measure bone mineral density. Diagnosis is based on history of prior fragility fracture or low bone mineral density, which is defined as a
+T-score â≤-2.5
+.
+T score:
+based on bone mass of young reference population. A score of -1.0 means bone mass of one standard deviation below that of young reference population.
+> -1.0 = normal
+-1.0 to -2.5 = osteopaenia
+< -2.5 = osteoporosis
+Plain radiographs
+will highlight any fractures and reveal previously asymptomatic vertebral deformities.
+Investigations to exclude any
+secondary causes of osteoporosis
+include:
+Quantitative CT and US of the heel
+History and physical examination
+FBC
+U&Es (serum calcium, creatinine, phosphate)
+LFTs (ALP, transaminases)
+TFTs
+25-OH vit D & 1,25-OH vit D
+Serum testosterone & prolactin
+Lateral radiographs of lumbar and thoracic spine
+Protein immunoelectrophoresis and urinary Bence-Jones protein
+Improve
+Diagnosis
+The World Health Organisation (WHO) have published diagnostic criteria for osteoporosis. This is based on bone density measurements determined by dual-energy x-ray absorptiometry (DXA).
+Group
+Diagnostic Criteria
+Normal
+Bone mineral density within 1 SD of the mean of a young adult reference population
+Osteopenia - low bone mass
+Bone mineral density between 1.0 and 2.5 SD below the mean of a young adult reference population
+Osteoporosis
+Bone mineral density 2.5 or more SD below the mean of a young adult reference population
+Severe osteoporosis
+Osteoporosis with one or more fragility fractures
+According to the criteria, by 75 years-old, an estimated 38% of women will have osteoporosis and 94% will have low bone mass. Although this tool is useful to establish prevalence of osteoporosis, it should not guide treatment. As the risk of osteoporotic fractures in many elderly patients during their lifetime is sufficiently low to avoid intensive treatment.
+Therefore, the
+FRAX tool
+can be used to evaluate fracture risk of patients and guide clinical treatment. It is based on patient models that integrate clinical risk factors and bone mineral density (BMD) at the femoral neck to give the 10-year probability of fracture at the hip or major osteoporotic fracture.
+Clinical risk factors used in FRAX include:
+Age (between 40 and 90 years)
+Gender
+Previous fracture
+Parent fractured hip
+Smoking
+Glucocorticoids (more than 3 months at a dose of prednisolone 5mg daily)
+Rheumatoid arthritis
+Secondary osteoporosis
+Alcohol consumption
+BMD
+Improve
+Differential diagnosis
+Osteoporosis may easily be confused with other metabolic or neoplastic bone disease.
+Possible differential diagnoses:
+Osteomalacia
+Osteoporosis is associated with a decreased density of normally mineralized bone matrix
+Osteomalacia may have increased, normal, or
+(most commonly)
+decreased bone mineral density, but there is insufficient bone mineralisation
+In contrast to osteoporosis
+(which remains asymptomatic until fractures occur)
+osteomalacia may cause generalised bone pain, tenderness and myopathy.
+Osteomalacia may caused by vitamin D deficiency due to malabsorption or medication so it is important to measure levels of Calcidiol (25-hydroxyvitamin D) and Calcitriol (1,25-dihydroxyvitamin D)
+Paget disease of bone
+Increased osteoclastic bone resorption and compensatory increase in osteoblast bone formation
+Formation exceeds resorption but new woven bone
+('mosaic' architecture)
+is weaker than trabecular bone, leading to an increased fracture risk
+In contrast to osteoporosis, patients with Paget's disease may have bone pain, joint pain, bone deformities
+(such as bowed tibia and skull changes)
+and neurological complications from nerve compression
+It is also important to consider other bone disease, including neoplastic bone disease such as
+myeloma, primary and metastatic bone tumours, lymphoma
+As well as secondary causes of osteoporosis such as:
+Hyperparathyroidism
+Mastocytosis
+Sickle cell anaemia
+Disorder
+Serum Ca
+2+
+PO
+4
+3-
+ALP
+PTH
+Osteoporosis
+-
+-
+-
+-
+Osteomalacia
+â↓
+â↓
+â↑
+â↑
+Paget disease of bone
+-
+-
+â↑
+-
+Osteopetrosis
+â↓
+-
+-
+-
+Improve
+Management
+Diagnostic investigations should be completed in order to guide the management of osteoporosis.
+Lifestyle modification
+for the prevention of osteoporotic fractures is the mainstay initial management, this includes:
+Falls risk assessment
+Weight-bearing and muscle strengthening exercises
+Optimum daily calcium (800-1200mg) and vitamin D (400-800 IU) intake through sunlight and diet or supplements
+Calculation of 10-year probability of osteoporotic fragility fracture
+Pharmacological therapy
+using oral
+bisphosphonates
+should be reserved for those with a 10-year probability of osteoporotic fragility fracture > 1%, or :
+A hip or vertebral fracture
+T-score <2.5 or less at the femoral neck
+T-score between -1.0 and -2.5 and a 10-year probability of a hip fracture >3% using FRAX
+Bisphosphonates
+:
+First line medication to treat osteoporosis
+Adhere to hydroxyapatite and inhibits osteoclasts thereby reducing bone resorption
+Oral
+Alendronate
+and
+risedronate
+are given as 1-weekly doses, whilst
+zoledronic acid
+as a 1-yearly infusion
+They should be taken fasting, with water whilst standing or sitting upright for 30 minutes
+May be associated with upper-GI side effects such as oesophagitis
+Careful monitoring is required in those with CKD4 or 5
+Denosumab
+, a monoclonal antibody, should only be used in extensive osteoporosis:
+Given as a subcutaneous injection every 6 months
+Anti-resorptive agent that increases BMD and reduces fracture risk at the spine
+Adverse effects are infrequent but serious:
+Dysuria
+Cellulitis
+Osteonecrosis of the jaw
+Hormone replacement therapy (HRT) is reserved for early postmenopausal women due to its adverse effects on breast cancer and cardiovascular disease risk.
+New
+vertebral fractures
+may require:
+Bed rest for 1-2 weeks
+Strong analgesia
+Muscle relaxants (i.e. diazepam 2mg TDS)
+Gradual physiotherapy
+There are also treatments for specific patient demographics:
+Glucocorticoid-induced osteoporosis
+Osteoporosis in men
+Greatest rate of bone loss occurs early after initiation of glucocorticoids so bone-protection treatment should be started at onset of therapy
+Alendronic acid or Risedronate are first-line treatments for men
+Women >70 years-old taking more than 7.5mg prednisolone daily or equivalent are high risk and should have prophylactic bone-protection
+Men having long-term androgen deprivation therapy for prostate cancer have an increased fracture risk
+IV zolendronic acid or teriparatide are alternatives in those intolerant of oral bisphosphonates
+Denosumab is an alternative in those intolerant of bisphosphonates
+Testosterone replacement can be used in those with clinical hypogonadism
+Improve
+Complications
+In addition to the increased risk of fractures, osteoporosis can lead to other
+direct or indirect complications
+, such as:
+Limited mobility
+Osteoporosis can limit physical activity that may result in weight gain and increase the risk of the long-term sequelae of heart disease and diabetes
+Depression
+Commonly seen with the loss of independence and isolation
+Pain
+Fractures of osteoporosis in the spine in particular can lead to a loss of heigh, stooping posture and persistent back pain
+Complications of medication
+Oral
+bisphosphonates
+can lead to
+oesophagitis
+Teriparatide increases the risk of
+osteonecrosis of the jaw
+and atypical femoral fractures
+Improve
+References
+NICE - 2012 Osteoporosis: assessing the risk of fragility fracture
+NICE - 2008 Osteoporosis: secondary prevention
+NICE - 2008 Alendronate, etidronate, risedronate, raloxifene and strontium ranelate for the primary prevention of osteoporotic fragility fractures in postmenopausal women
+Clinical Knowledge Summaries - Osteoporosis guidelines
+Royal College of Physicians - 2012 Recent advances in the risk assessment and treatment of osteoporosis
+The National Osteoporosis Guideline Group - NOGG Pocket Guide for Healthcare Professionals
+Postgraduate Medical Journal - Review of osteoporosis
+The National Osteoporosis Guideline Group - 2021 Clinical guideline for the prevention and treatment of osteoporosis
+Rheumatology
+Osteoporosis

@@ -1,0 +1,137 @@
+Alopecia areata
+Alopecia areata
+Alopecia
+areata is a presumed autoimmune condition causing localised, well demarcated patches of hair loss.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 21.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Alopecia
+areata is a complex condition with an aetiology that encompasses both genetic and environmental factors. The precise cause remains elusive, but various risk factors and underlying causes have been identified.
+Genetic Factors
+HLA Associations:
+Alopecia areata has been linked with certain human leukocyte antigen (HLA) alleles, particularly HLA-DQB1*03:01 and HLA-DRB1*11:04. These associations suggest a genetic predisposition to the disease.
+Family History:
+Individuals with a first-degree relative suffering from alopecia areata have an increased risk of developing the condition, indicating a hereditary component.
+Autoimmunity
+The role of autoimmunity in alopecia areata is well-established. The disease is frequently associated with other autoimmune conditions such as thyroiditis, vitiligo, lupus erythematosus and rheumatoid arthritis. This suggests that common immunological pathways may underlie these conditions.
+Environmental Triggers
+Infections:
+Certain microbial infections have been implicated in triggering alopecia areata. For instance,
+Hepatitis C virus
+,
+Helicobacter pylori
+, and
+Borrelia burgdorferi
+infections have all been reported in patients with this disorder.
+Stress:
+Psychological stress can act as a trigger for alopecia areata by dysregulating immune response mechanisms. However, the exact relationship between stress and hair loss remains unclear due to conflicting study results.
+Vaccinations:
+Some reports suggest that vaccinations could potentially trigger alopecia areata in susceptible individuals through immune activation, although further research is needed to confirm this association.
+Hormonal Factors
+Evidence suggests that hormonal factors may play a role in alopecia areata. For example, the condition often manifests after puberty and can be influenced by hormonal changes such as those occurring during pregnancy or menopause.
+Atopy
+A higher prevalence of atopic diseases such as asthma, allergic rhinitis and eczema has been observed among patients with alopecia areata, suggesting an association between these conditions.
+Improve
+Pathophysiology
+Alopecia
+areata is an autoimmune condition characterised by non-scarring hair loss. The pathophysiology involves a complex interplay between genetic predisposition, immune dysregulation, and environmental factors.
+Genetic susceptibility plays a pivotal role in the development of alopecia areata. Specific alleles in genes related to immune regulation, such as
+HLA-DRB1
+, have been identified. These genetic variations may lead to an aberrant presentation of self-antigens to T cells.
+Immune dysregulation is central to the disease process. In individuals with alopecia areata, there is a breakdown in immune tolerance leading to the activation of autoreactive T cells. Both CD4+ and CD8+ T lymphocytes infiltrate the peribulbar region of hair follicles, forming what is known as a 'swarm of bees' appearance on histological examination.
+The hair follicle itself functions as an immune-privileged site under normal conditions. This privilege is maintained by local secretion of immunosuppressive cytokines such as transforming growth factor-beta (TGF-β) and interleukin-10 (IL-10), alongside low expression of major histocompatibility complex (MHC) class I molecules. However, in alopecia areata, this immune privilege is disrupted due to upregulated expression of MHC class I and II molecules on follicular keratinocytes.
+Cytokine milieu alteration further propagates the autoimmune attack on hair follicles. Pro-inflammatory cytokines such as interferon-gamma (IFN-γ) and tumour necrosis factor-alpha (TNF-α) are elevated within affected areas, enhancing antigen presentation and promoting T cell recruitment and activation.
+The anatomical manifestation includes well-demarcated patches of hair loss predominantly affecting the scalp but can also involve other body areas such as eyebrows, eyelashes, and beard region. Hair follicles enter a premature catagen phase followed by telogen phase without progressing through the typical anagen phase cycle.
+In summary, alopecia areata results from genetic predisposition leading to immune dysregulation where autoreactive T cells target hair follicles due to loss of their immune privilege status. This results in inflammation-driven disruption of normal hair cycling manifesting clinically as patchy non-scarring hair loss.
+Improve
+Clinical features
+The stereotypical presentation of
+alopecia
+areata is an individual presenting with one or more round or oval patches of non-scarring hair loss, typically on the scalp. The skin in these areas usually appears normal without any signs of inflammation, erythema, scaling or atrophy. The extent and pattern of hair loss can vary greatly among individuals and even within the same person over time.
+Clinical Features
+Pattern of Hair Loss:
+Alopecia areata most commonly presents as a single patch of hair loss on the scalp, but multiple patches may also occur. In some cases, it may progress to involve the entire scalp (alopecia totalis) or all body hair (alopecia universalis).
+Nails:
+Nail changes can occur in approximately 10-66% of patients and may precede, follow or occur concurrently with hair loss. These changes include pitting (small dents), ridges, white spots and lines.
+Exclamation Mark Hairs:
+These are short, broken hairs that taper at the base and are often found at the margins of the bald patch.
+Regrowth:
+Regrowth typically starts as fine white hairs that gradually darken with time. However, this process can be slow and unpredictable.
+Improve
+Investigations
+Alopecia
+areata is typically diagnosed clinically, based on the characteristic appearance of hair loss in patches. However, certain investigations may be carried out to confirm the diagnosis and rule out other causes of hair loss.
+First-line Investigations
+Dermatoscopy:
+This non-invasive technique provides a magnified view of the skin, allowing for the identification of specific features associated with alopecia areata such as yellow dots, black dots, broken hairs, and exclamation mark hairs.
+Blood Tests:
+While not routinely required for diagnosis, blood tests may be useful in identifying associated autoimmune conditions such as thyroid disease or vitiligo. These could include full blood count (FBC), thyroid function tests (TFTs), antinuclear antibody (ANA), erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP).
+Hair Pull Test:
+A positive pull test can indicate active disease. This involves gently pulling a group of hairs (approximately 50-60) to see how many come out. If more than 10% of hairs are pulled out easily, it suggests active hair shedding.
+Further Investigations
+If the clinical presentation is atypical or if there's suspicion of an underlying systemic disease, further investigations may be necessary:
+Skin Biopsy:
+In rare cases where diagnosis is uncertain, a skin biopsy may be performed. Histopathological findings consistent with alopecia areata include peribulbar lymphocytic infiltrate ('swarm of bees'), decreased number of terminal hairs and increased telogen-to-anagen ratio.
+Patch Testing:
+This can help exclude allergic contact dermatitis which can occasionally mimic alopecia areata.
+It is important to note that while these investigations can aid in the diagnosis and management of alopecia areata, they are not always necessary.
+Improve
+Differential diagnosis
+The differential diagnosis of
+alopecia
+areata primarily includes tinea capitis, androgenetic alopecia, and telogen effluvium. These conditions can be differentiated based on their clinical presentation as follows:
+Tinea Capitis:
+Tinea capitis is a fungal infection caused by dermatophytes, usually
+Trichophyton
+or
+Microsporum
+species. It typically presents with patchy hair loss with scaling and erythema.
+In contrast to alopecia areata, which is characterised by well-defined circular patches of hair loss without scalp inflammation, tinea capitis often involves the presence of broken-off hairs, scale and erythema within the area of hair loss.
+KOH examination or culture for fungi can confirm the diagnosis.
+Androgenetic Alopecia (AGA):
+Androgenetic alopecia is a patterned hair loss condition that occurs due to genetic predisposition and the effects of dihydrotestosterone on susceptible hair follicles.
+The onset is gradual in AGA unlike the sudden onset in alopecia areata. In men, it typically presents as bitemporal recession or vertex balding while women present with diffuse thinning over the crown.
+This condition lacks the exclamation mark hairs seen at the margins of patches in alopecia areata.
+Telogen Effluvium:
+Telogen effluvium results from an increased proportion of hairs shifting from anagen (growth) phase to telogen (resting) phase, leading to diffuse hair shedding.
+Unlike alopecia areata which presents with patchy hair loss, telogen effluvium is characterised by a general thinning of hair without clear patches of baldness or broken hairs.
+The onset often follows a triggering event such as severe illness, major surgery or emotional stress approximately 2-3 months prior to the onset of hair shedding.
+Improve
+Management
+Management of
+Alopecia
+areata typically involves a stepwise approach, with the aim to induce hair regrowth and prevent further hair loss. The choice of treatment depends on the patient's age, extent of hair loss, and their personal preference.
+Topical corticosteroids
+: This is the first-line treatment for adults and children with less than 50% scalp involvement. Potent or very potent topical corticosteroids are generally recommended.
+Intralesional corticosteroids
+: Recommended for adults with less than 50% scalp involvement who have not responded to topical treatments, or where rapid response is desired. It can also be used for small areas of alopecia in other body parts.
+Systemic corticosteroids
+: Considered in adults with more than 50% scalp involvement or rapidly progressing disease. However, due to potential side effects, they should be used under specialist supervision.
+Topical immunotherapy
+: Diphencyprone (DPCP) is recommended as a second-line treatment for adults and children over 10 years old with extensive or rapidly progressive alopecia areata who have not responded to other treatments.
+Minoxidil
+: May be considered in conjunction with other therapies to stimulate hair growth.
+Psychological support should also be offered to patients as Alopecia areata can significantly impact mental wellbeing. Referral to
+dermatology
+specialists should be considered if initial treatments do not lead to satisfactory improvement or if there is significant psychological distress associated with the condition.
+Improve
+References
+Clinical Knowledge Summaries - Alopecia areata guidelines
+British Assocaition of Dermatologists - Alopecia areata guidelines
+Dermatology
+Alopecia areata

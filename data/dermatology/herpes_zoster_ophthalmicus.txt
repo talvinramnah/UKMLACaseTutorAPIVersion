@@ -1,0 +1,168 @@
+Herpes zoster ophthalmicus
+Herpes zoster ophthalmicus
+Herpes zoster ophthalmicus
+(HZO) is a serious, vision-threatening infection caused by the reactivation of the varicella-zoster virus within the ophthalmic division of the trigeminal nerve. Clinically, HZO presents with preherpetic neuralgia, followed by a vesicular rash in the distribution of the first division of the trigeminal nerve. It can lead to various ocular complications such as keratitis, uveitis, glaucoma and retinal necrosis.
+The diagnosis is primarily clinical but can be supported by laboratory tests such as direct fluorescent antibody staining or polymerase chain reaction for
+varicella-zoster virus
+. Management involves systemic antiviral therapy to reduce viral shedding and prevent new lesion formation, along with adjunctive topical treatments for ocular involvement. Steroids may be used in certain cases to decrease inflammation and scarring but should be used cautiously due to potential side effects.
+Patient education regarding signs of ocular complications and regular follow-up are key components of managing HZO.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Herpes zoster ophthalmicus (HZO) is a manifestation of herpes zoster in the ophthalmic division of the trigeminal nerve. The primary risk factor for HZO is varicella-zoster virus (
+Varicella-zoster
+) infection, either as a primary infection or reactivation of latent infection.
+Risk Factors
+Age:
+The incidence of HZO increases with age, particularly after 60 years. This increase coincides with waning cell-mediated immunity to
+Varicella-zoster
+.
+Immunosuppression:
+Individuals with compromised immune systems are at higher risk for HZO. This includes patients with HIV/AIDS, malignancies, and those on immunosuppressive therapy such as corticosteroids or chemotherapy.
+Past history of chickenpox:
+A history of chickenpox, caused by primary
+Varicella-zoster
+infection, predisposes individuals to HZO due to the virus’s ability to remain dormant within sensory ganglia.
+Aetiology
+The underlying cause of HZO is reactivation of latent
+Varicella-zoster
+. After primary infection (chickenpox), the virus migrates to neuronal cells in sensory ganglia where it remains dormant. Upon reactivation, typically triggered by factors such as age-related decline in cellular immunity or immunosuppression, the virus travels down sensory nerves causing inflammation and damage resulting in herpes zoster (
+shingles
+). When this occurs in the ophthalmic division of the trigeminal nerve, it results in HZO.
+The exact mechanisms leading to viral reactivation are not fully understood. However, it is believed that a decline in
+Varicella-zoster
+-specific T-cell-mediated immunity plays a significant role. Other potential contributing factors include psychological stress, physical trauma to the sensory ganglia, and exposure to people with varicella or herpes zoster.
+Improve
+Pathophysiology
+Herpes zoster ophthalmicus involves the reactivation of the varicella-zoster virus, which lies dormant in the sensory ganglia after primary infection with varicella (chickenpox). Reactivation typically occurs in the ophthalmic division of the trigeminal nerve. Viral particles travel along the sensory nerves to the skin and eye, leading to inflammatory responses in affected tissues.
+The initial event involves viral replication in the affected ganglion, leading to intense inflammation. This inflammation can cause necrosis of ganglionic neurons. From here, the virus spreads centrifugally along the ophthalmic branch of the trigeminal nerve, reaching the skin and ocular structures.
+The subsequent inflammatory response in the skin manifests as the characteristic dermatomal rash. The rash typically presents with erythematous macules and papules, which progress to vesicles and pustules, eventually crusting over. The cutaneous eruption is usually unilateral and respects the midline.
+In the eye, the virus can infect the cornea, conjunctiva, sclera, and other ocular tissues. Viral replication in the corneal epithelium leads to punctate epithelial keratitis. Inflammatory cells infiltrate the corneal stroma, causing stromal keratitis. Vascularisation and scarring may occur in chronic cases, potentially compromising vision.
+The inflammation can extend to other ocular structures, including the uveal tract, leading to anterior uveitis. Intraocular pressure may increase due to trabeculitis and secondary glaucoma. The optic nerve can be involved, resulting in optic neuritis and potential vision loss.
+The trigeminal nerve involvement often causes significant pain, described as burning or throbbing, along the affected dermatome. Postherpetic neuralgia can develop, characterised by persistent pain even after the rash resolves, due to sustained nerve damage and altered pain processing.
+Immunological mechanisms play a significant role in the disease's progression. The reactivation triggers a robust immune response, including the activation of T-cells and production of cytokines. This response aims to control viral replication but also contributes to tissue damage and inflammation.
+Neurotropic and immunotropic properties of the varicella-zoster virus enable its persistence and reactivation. Latency in the trigeminal ganglion and subsequent reactivation involve complex interactions between viral factors and host immunity. Factors influencing these interactions can determine the severity and extent of Herpes zoster ophthalmicus.
+Improve
+Clinical features
+A stereotypical presentation of Herpes zoster ophthalmicus (HZO) often commences with a pre-eruptive phase, characterised by
+malaise
+,
+fever
+, headache and pain along the distribution of the ophthalmic division of the trigeminal nerve. This is followed by an eruptive phase where a vesicular rash appears in the same dermatomal distribution.
+Pre-eruptive Phase
+Malaise:
+Patients may experience general discomfort or unease, often described as feeling 'out of sorts'.
+Fever:
+A rise in body temperature is common, although it may not be present in all cases.
+Headache:
+Often severe and located in the forehead region corresponding to the affected dermatome.
+Pain along the Trigeminal Nerve:
+Unilateral
+facial pain
+along the course of V1 distribution can be a significant early symptom. It may precede other symptoms by several days and can range from mild tingling to severe lancinating pain.
+Eruptive Phase
+Vesicular Rash:
+A unilateral vesicular rash appears in the distribution of V1. Initially, erythematous macules develop into clusters of clear vesicles which later become pustular and crust over within 7-10 days. The forehead, upper eyelid and tip of nose (Hutchinson's sign) are commonly involved sites.
+Beyond these typical features, HZO can also manifest ocular involvement which may appear concurrently with skin lesions or even weeks after resolution of cutaneous symptoms. Ocular manifestations are varied and can involve any part of the eye leading to potentially sight-threatening complications.
+Ocular Manifestations
+Keratitis:
+Presents as decreased vision,
+photophobia
+, redness and ocular discomfort. Examination may reveal dendritic or pseudodendritic keratitis, disciform keratitis or nummular keratitis.
+Conjunctivitis:
+Characterised by redness, irritation and watery discharge. Follicular conjunctivitis is a common finding.
+Uveitis:
+Anterior uveitis can occur leading to
+eye pain
+, sensitivity to light and blurred vision. It may be granulomatous or non-granulomatous.
+Glaucoma:
+Secondary glaucoma can occur due to inflammation-induced changes in the trabecular meshwork or from steroid response.
+Cranial Nerve Involvement:
+Cranial nerves III, IV, VI and VII can be affected resulting in ophthalmoplegia or facial palsy.
+The presence of any ocular symptoms warrants immediate referral to an ophthalmologist for comprehensive examination and management to prevent permanent visual impairment. Neurological complications such as postherpetic neuralgia (PHN), meningoencephalitis, myelitis and stroke may also occur but are less common. PHN is the most frequent complication and causes persistent neuropathic pain beyond the healing phase of skin lesions.
+Neurological Complications
+Postherpetic Neuralgia:
+Persistent pain in the affected area after rash has healed characterises this condition. Pain may be severe and debilitating affecting quality of life significantly.
+Meningoencephalitis:
+Symptoms may include headache, fever, altered mental status or focal neurological deficits.
+Myelitis:
+Transverse myelitis can present with back pain, weakness and urinary incontinence.
+Stroke:
+HZO has been associated with an increased risk of stroke, particularly in the elderly population.
+Improve
+Differential diagnosis
+Herpes zoster ophthalmicus (HZO) presents with a unique constellation of symptoms, including vesicular rash in the distribution of the ophthalmic division of the trigeminal nerve, ocular involvement, and post-herpetic neuralgia. However, it shares overlapping clinical features with certain conditions, which must be considered in the differential diagnosis. Three such conditions are herpes simplex keratitis (HSK), bacterial keratitis and episcleritis.
+Herpes Simplex Keratitis:
+Herpes simplex virus
+(HSV) is known to cause recurrent infection affecting the cornea. Compared to HZO, HSK typically presents unilaterally without any dermatomal rash.
+The hallmark symptom of HSK is a red, painful eye with decreased vision. The pain often precedes the visible signs of disease.
+Hutchinson's sign, indicative of nasociliary nerve involvement seen in HZO, is absent in HSK.
+Dendritic ulcers on slit-lamp examination are characteristic for HSK but not seen in HZO.
+Bacterial Keratitis:
+Bacterial keratitis characteristically presents as a rapid onset painful
+red eye
+with purulent discharge and
+photophobia
+. This contrasts with the more gradual onset of symptoms in HZO.
+The absence of dermatomal vesicular rash differentiates bacterial keratitis from HZO.
+Corneal infiltrates and ulcers are common findings on slit-lamp examination in bacterial keratitis but are not typical for HZO unless secondary bacterial infection occurs.
+Episcleritis:
+Episcleritis presents as a unilateral or bilateral red eye without any associated vesicular rash or visual loss, distinguishing it from HZO.
+The pain in episcleritis is typically mild and non-radiating, contrasting with the severe and radiating pain seen in HZO.
+On examination, episcleral injection or 'salmon-patch' appearance is typical for episcleritis, which is not a feature of HZO.
+Improve
+Management
+Initial Management
+Consider immediate referral to ophthalmology if Herpes zoster ophthalmicus is suspected. Prompt treatment can prevent serious complications.
+Start oral antiviral therapy, such as aciclovir, within 72 hours of rash onset. Treatment should be continued for 7 days.
+Ophthalmic Assessment and Management
+An urgent slit lamp examination is required to assess corneal involvement.
+Topical antiviral therapy may be prescribed in addition to systemic therapy if there's corneal involvement.
+Corticosteroids are often used in conjunction with antiviral therapy to reduce inflammation and prevent scarring, but only under the guidance of an ophthalmologist due to potential side effects.
+Intraocular pressure should be monitored regularly as raised intraocular pressure and glaucoma are potential complications.
+Pain Management
+Manage acute pain with regular paracetamol or a non-steroidal anti-inflammatory drug (NSAID). Codeine or tramadol can be added if necessary.
+If the patient has severe pain despite these measures, consider early introduction of a tricyclic antidepressant such as amitriptyline or a gabapentinoid like gabapentin or pregabalin.
+Prevention of Postherpetic Neuralgia (PHN)
+The risk of PHN can be reduced by early initiation of antiviral therapy and effective management of acute pain.
+If PHN develops, refer the patient to a pain specialist for further management options including topical lidocaine or capsaicin cream, or further systemic treatment such as opioids or a gabapentinoid.
+Improve
+Complications
+Herpes zoster ophthalmicus (HZO) can lead to several complications, some of which are more frequent and severe than others. These complications can be categorised into ocular, neurological and systemic.
+Ocular Complications:
+Keratitis:
+This inflammation of the cornea is a common complication and can manifest as punctate, dendritic or disciform keratitis. It may result in corneal scarring, thinning or perforation.
+Uveitis:
+Anterior uveitis often accompanies HZO. If untreated, it can lead to glaucoma, cataract formation or even blindness.
+Retinitis and Optic neuritis:
+Though less common, these inflammatory conditions affecting the retina and optic nerve respectively can have serious implications for vision.
+Neurological Complications:
+Postherpetic Neuralgia (PHN):
+The most frequent neurological complication of HZO is PHN, characterised by persistent pain in the affected area after resolution of the rash.
+Cranial Nerve Involvement:
+Cranial nerves III, IV and VI may become involved leading to ophthalmoplegia. Less commonly, cranial nerve VII involvement may cause facial palsy.
+Systemic Complications:
+Meningoencephalitis:
+Rarely,
+Varicella zoster virus
+, the causative agent of HZO can spread to involve the central nervous system causing meningoencephalitis.
+Ramsay Hunt Syndrome (RHS):
+Though typically associated with herpes zoster oticus, RHS characterised by facial palsy and vesicles in the ear or mouth can also occur with HZO.
+Improve
+Shingles
+Herpes zoster ophthalmicus

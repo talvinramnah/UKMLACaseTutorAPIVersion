@@ -1,0 +1,140 @@
+Cervical spondylosis
+Cervical spondylosis
+Cervical spondylosis is a term used to describe degeneration of the vertebral column in the cervical (neck) region. It is otherwise known as cervical osteoarthritis. It most commonly presents in clinical practice as
+neck pain
+.
+Risk factors for developing cervical spondylosis include:
+Ageing (degeneration typically begins in the second or third decade of life).
+An occupation involving repetitive neck movement, or overhead work (e.g. painting/decorating).
+Previous traumatic neck injury (which accelerates the natural ageing process).
+Family history of the condition.
+A minority of patients with cervical spondylosis present and/or develop associated radiculopathy and/or myelopathy.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 300.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Cervical spondylosis
+1
+Carpal tunnel syndrome
+0.67
+Polymyalgia rheumatica
+0.28
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Cervical spondylosis, also known as cervical osteoarthritis, is a degenerative condition affecting the intervertebral discs and facet joints in the cervical spine. The aetiology of this condition is multifactorial, with both intrinsic and extrinsic factors contributing to its development.
+Risk Factors
+Age:
+Ageing is the most significant risk factor for cervical spondylosis. As individuals age, there is a progressive wear and tear of the intervertebral discs and facet joints. This degeneration leads to disc dehydration, reduction in disc height, and osteophyte formation.
+Gender:
+Males are more prone to developing cervical spondylosis than females. The reason for this gender predisposition remains unclear but may be related to differences in neck anatomy and usage patterns.
+Genetic predisposition:
+Certain genetic factors contribute to an individual's susceptibility to cervical spondylosis. These include polymorphisms in genes associated with collagen synthesis and metabolism.
+Occupational factors:
+Jobs involving repetitive neck movements, heavy lifting or prolonged periods of sitting or standing can increase the risk of developing cervical spondylosis.
+Underlying Causes
+Mechanical stress:
+Mechanical stress on the cervical spine due to poor posture or occupational activities can lead to disc degeneration over time. This increased load on the intervertebral discs accelerates their wear and tear process.
+Inflammation:
+Inflammatory processes can contribute to the development of cervical spondylosis by inducing changes in disc composition and structure. This inflammation can be triggered by various factors, including trauma, infection or autoimmune conditions.
+Improve
+Pathophysiology
+The pathophysiology of cervical spondylosis is multifactorial, involving both mechanical and biological factors. The process can be divided into several stages.
+Initial Degeneration:
+This process begins with the degeneration of the intervertebral disc. The nucleus pulposus loses its water content due to ageing, leading to a decrease in disc height. This results in increased load on the annulus fibrosus, causing it to fissure and tear.
+Osteophyte Formation:
+As the disc degenerates further, there is an increase in segmental motion at that level. This increased mobility stimulates osteophyte formation at the vertebral endplates and facet joints as a compensatory attempt to stabilise the spine.
+Degenerative Changes:
+Concurrently, hypertrophic changes occur in the ligamentum flavum and posterior longitudinal ligament due to mechanical stress. These ligaments calcify and ossify over time which narrows down the spinal canal leading to spinal stenosis.
+Neural Compression:
+The combination of disc protrusion, osteophyte formation, and hypertrophy of spinal ligaments reduces space for neural elements. This leads to compression of nerve roots or spinal cord manifesting as radiculopathy or myelopathy respectively.
+Vascular Compromise:
+Additionally, these pathological changes can compromise blood flow through vertebral arteries or radicular vessels supplying nerve roots resulting in ischaemia.
+The above-mentioned processes are not sequential but rather overlap each other. The clinical manifestations depend on the location and severity of these changes along with individual variations in anatomy and pain perception.
+It's important to note that cervical spondylosis is a normal part of ageing and many individuals with radiological evidence of the condition remain asymptomatic. Symptoms only occur when these degenerative changes lead to neural or vascular compromise.
+Improve
+Clinical features
+Patients will generally present in primary care with
+neck pain
+.
+Characteristics of pain associated with cervical spondylosis:
+Pain and/or stiffness in cervical region
+Referred pain: retro-orbital, temporal, occipital, interscapular, upper limbs.
+Examination findings:
+Reduced range of movement of neck (in all directions)
+Poorly localised tenderness
+Signs of radiculopathy (most commonly affecting nerve roots C5 to C7)
+Unilateral neck, shoulder or
+arm pain
+, paraesthesia, or hyperaesthesia
+Diminished arm reflexes (triceps: C7, biceps: C5/C6, supinator: C5/C6).
+A small number (<0.1% of patients with cervical spondylosis) of patients with associated acute myelopathy can develop quadriplegia.
+It is worth noting that many patients with degenerative change in the cervical region are asymptomatic.
+Improve
+Investigations
+Generally cervical spondylosis is diagnosed clinically.
+Plain cervical X-Ray:
+Can demonstrate changes associated with the condition
+Osteophyte formation
+Narrowed disc spaces
+Narrowing of intervertebral foramina
+These findings do not change clinical management unless associated with symptoms.
+Magnetic resonance imaging (MRI):
+Patients suspected of having cervical spondylosis with neurological involvement should undergo MRI.
+Many patients with radiographic evidence of cervical spondylosis are asymptomatic.
+Improve
+Differential diagnosis
+The differential diagnosis for cervical spondylosis primarily includes three conditions: cervical radiculopathy, cervical myelopathy, and fibromyalgia. Each condition presents with distinct clinical features which can aid in accurate diagnosis.
+Cervical Radiculopathy
+Characterised by nerve root compression leading to pain that radiates along the course of the affected nerve. This is often accompanied by sensory or motor deficits specific to the compressed nerve root.
+Clinically, patients may present with a positive Spurling's test (neck extension and lateral rotation towards the symptomatic side exacerbates symptoms).
+The pain pattern in cervical radiculopathy is typically more localised compared to cervical spondylosis, which often manifests as diffuse
+neck pain
+.
+Cervical Myelopathy
+This condition results from spinal cord compression and is characterised by signs of upper motor neuron lesion such as hyperreflexia, clonus, and positive Babinski sign.
+Patients may also exhibit gait disturbances and hand clumsiness due to proprioceptive loss.
+In contrast to cervical spondylosis where symptoms are predominantly due to degenerative changes, cervical myelopathy is characterised by neurological deficits secondary to spinal cord compression.
+Fibromyalgia
+It is a chronic syndrome associated with widespread musculoskeletal pain and tenderness at multiple specific sites known as tender points. These points are not typically seen in cervical spondylosis.
+Additional systemic features like fatigue, sleep disturbances, cognitive changes distinguish fibromyalgia from cervical spondylosis, which is primarily a structural and localised condition.
+Unlike cervical spondylosis, the pain in fibromyalgia is not related to physical activity or posture.
+Improve
+Management
+Management of cervical spondylosis involves a combination of conservative and surgical interventions, depending on the severity of symptoms and response to initial treatment. The primary goals are to alleviate pain, improve function, and prevent neurological impairment.
+Conservative Management
+Initial management should include patient education on the nature of the condition, lifestyle modifications such as ergonomic adjustments at work or home, and encouragement of regular physical activity.
+Physiotherapy is often beneficial for improving posture, neck stability and flexibility. Techniques may include manual therapy, exercises for strengthening neck muscles, and stretching.
+Pain relief can be achieved with non-steroidal anti-inflammatory drugs (NSAIDs), paracetamol or opioids if necessary. Neuropathic pain medications like gabapentin or amitriptyline may be useful in cases with radicular symptoms.
+Cervical collars can provide temporary relief but should not be used long-term due to risk of muscle atrophy.
+Surgical Management
+Surgery is considered when conservative measures fail to provide relief or if there's progression of neurological deficits. It's also indicated in patients with myelopathy or cord compression.
+The choice between anterior cervical discectomy and fusion (ACDF), cervical disc arthroplasty (CDA) or posterior decompression depends on factors such as location and extent of disease, age, comorbidities etc.
+Follow-up
+Regular follow-ups are important to monitor progression of symptoms and response to treatment. Imaging studies may be repeated if there's worsening of symptoms or new neurological signs.
+Improve
+Complications
+Cervical spondylosis is a chronic condition that tends to progress slowly.
+Neurological complications:
+The incidence of radiculopathy and myelopathy is estimated at: 100 per 100 000 males and 60 per 100 000 females, and 4 per 100 000 patients respectively.
+Without decompressive surgery significant neurological damage can occur.
+Surgical complications:
+Reduced range of movement of the cervical spine (secondary to fusion).
+Accelerated progression of degeneration of adjacent levels (those not operated on).
+Improve
+Orthopaedic surgery
+Cervical spondylosis

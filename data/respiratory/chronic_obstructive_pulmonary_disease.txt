@@ -1,0 +1,336 @@
+Chronic obstructive pulmonary disease
+Chronic obstructive pulmonary disease
+Chronic obstructive pulmonary disease (COPD) is one of the most common diagnoses encountered in medical practice. COPD is an umbrella term encompassing the older terms chronic bronchitis and emphysema. In the vast majority of cases, COPD is caused by smoking. Some patients with more mild disease may just need to use a bronchodilator occasionally whereas other patients may have several hospital admissions a year secondary to infective exacerbations.
+Last updated: 28
+th
+November 2023
+Epidemiology
+Incidence: 230.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.1:1
+Condition
+Relative
+incidence
+Chronic obstructive pulmonary disease
+1
+Bronchiectasis
+0.07
+Extrinsic allergic alveolitis
+0.004
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of Chronic Obstructive Pulmonary Disease (COPD) is multifaceted, encompassing environmental, genetic, and molecular factors. Understanding these risk factors helps in the classification and management of COPD.
+Environmental Exposures
+Cigarette Smoking:
+Smoking is the predominant risk factor for COPD. Numerous studies have demonstrated a strong correlation between cigarette smoking and the development of COPD. For instance, individuals who smoked for 25 years had a significantly higher likelihood of developing COPD compared to non-smokers (36% vs. 8%) . The risk is particularly pronounced in those with a history of more than 40 pack-years of smoking.
+Other Tobacco Products:
+Using alternative smoking methods such as the Chinese water pipe (narghile) also significantly increases the risk of COPD. Smoking both tobacco and marijuana has a synergistic effect, further heightening the risk.
+Pollution and Occupational Exposures:
+Exposure to particulate matter, dust, vapours, fumes, and organic antigens is another significant risk factor. Occupational exposure to dust has been linked to higher COPD prevalence. Indoor pollution, particularly from biomass smoke, is a notable risk factor for women. Outdoor pollution, especially PM2.5, is strongly associated with COPD incidence.
+Genetic and Molecular Influences
+Genetic Susceptibility:
+Certain genetic factors can enhance susceptibility to COPD. For example, individuals with a family history of severe early-onset COPD show increased bronchodilator responsiveness, indicating a higher risk for lung function decline.
+Gene Polymorphisms:
+Several gene polymorphisms have been identified as potential risk factors for COPD. Notable genes include those encoding for transforming growth factor beta 1, Serpine2, and the cystic fibrosis transmembrane conductance regulator (CFTR) .
+Antioxidant Enzymes:
+Variations in genes related to antioxidant enzymes, such as glutathione S-transferases and superoxide dismutase, have been linked to COPD susceptibility.
+Metalloproteinase Dysregulation
+: Abnormal activity of matrix metalloproteinases (MMPs) and their inhibitors (TIMPs) has been associated with COPD. Increased activity of MMPs, particularly MMP-12, correlates with reduced lung function and emphysema development.
+Other Clinical Factors
+Airway Responsiveness and Atopy
+: Increased airway responsiveness and atopy (allergic predisposition) are risk factors for COPD. Individuals with heightened airway responsiveness are at greater risk, particularly when combined with smoking. Atopy has been associated with an accelerated decline in lung function.
+Asthma
+: Persistent asthma, especially from childhood, significantly increases the risk of developing COPD. Studies have shown that individuals with a history of asthma have a higher likelihood of meeting COPD diagnostic criteria in middle age.
+Abnormal Lung Development
+: Conditions like bronchopulmonary dysplasia, a result of preterm birth, can lead to airflow limitation and increased COPD risk in adulthood.
+Infections
+:
+Respiratory
+infections in early childhood, particularly respiratory syncytial virus and tuberculosis, can lead to persistent airflow obstruction and increased COPD risk . HIV infection also heightens COPD risk, even in patients with controlled viral loads.
+Other Risk Factors
+: Females appear more susceptible to COPD, potentially due to differences in smoking patterns and biological factors. Deficiencies in antioxidant vitamins, such as vitamins C and E, may also increase COPD risk.
+Molecular Risk Factors
+Molecular factors play a critical role in COPD development. Research has identified several genetic polymorphisms and molecular mechanisms that contribute to COPD risk:
+Gene Polymorphisms
+: Multiple single nucleotide polymorphisms (SNPs) have been associated with COPD, affecting genes related to cellular growth, differentiation, and response to environmental exposures.
+Antioxidant Enzymes
+: Genetic variations in enzymes involved in oxidative stress response, such as glutathione S-transferases and superoxide dismutase, are linked to increased COPD susceptibility.
+Metalloproteinase Dysregulation
+: Abnormal activity of MMPs and TIMPs has been implicated in COPD. Increased MMP activity can lead to extracellular matrix degradation, contributing to lung tissue damage and emphysema.
+Excess Elastase
+: An imbalance between elastases and their inhibitors, such as alpha-1 antitrypsin, can lead to premature emphysema and COPD development. Macrophage elastase-deficient mice do not develop emphysema despite cigarette smoke exposure, highlighting the role of elastases in COPD.
+Risk Reduction
+Most clinical risk factors for COPD are modifiable. Key strategies for reducing COPD risk include:
+Smoking Cessation
+: Quitting smoking significantly reduces the accelerated decline in lung function associated with smoking and decreases the likelihood of developing COPD.
+Exposure Avoidance
+: Reducing exposure to environmental pollutants, occupational hazards, and indoor smoke can slow lung function decline. Improved ventilation and the use of clean fuels in households are recommended.
+Physical Activity
+: Regular physical activity may mitigate lung function decline in smokers, though further studies are needed to confirm its effectiveness in reducing COPD incidence.
+Anti-inflammatory and Antioxidant Therapy
+: While inhaled glucocorticoids and antioxidants like (N)-acetylcysteine have been explored, their impact on preventing COPD onset remains limited and requires further research.
+Improve
+Pathophysiology
+Inflammation
+Chronic inflammation plays a central role in the pathogenesis of COPD. Inhalation of noxious particles or gases, such as cigarette smoke or occupational irritants, triggers an inflammatory response in the airways and lung parenchyma. This inflammation is characterized by infiltration of neutrophils, macrophages, and lymphocytes, leading to the release of pro-inflammatory cytokines and chemokines.
+Protease-Antiprotease Imbalance
+COPD is associated with an imbalance between proteases (e.g., neutrophil elastase, matrix metalloproteinases) and antiproteases (e.g., alpha-1 antitrypsin, tissue inhibitors of metalloproteinases). The excess protease activity degrades extracellular matrix components, leading to the destruction of lung parenchyma and the development of emphysema.
+Oxidative Stress
+Inhaled pollutants, such as cigarette smoke, can induce the production of reactive oxygen species (ROS) in the lung, resulting in oxidative stress. This oxidative stress can cause direct cellular damage, impair antiprotease activity, and promote inflammation, contributing to the pathogenesis of COPD.
+Airway Remodeling
+Chronic inflammation in COPD can lead to structural changes in the airways, including thickening of the airway wall, increased mucus production, and goblet cell hyperplasia. These changes result in airflow obstruction and reduced lung function.
+Alveolar Destruction
+Emphysematous changes in COPD involve the destruction of alveolar walls, leading to the formation of larger, less efficient airspaces and a reduction in the surface area available for gas exchange.
+Improve
+Clinical features
+A typical patient with Chronic Obstructive Pulmonary Disease (COPD) presents with progressive breathlessness, chronic
+cough
+, and
+sputum
+production, usually with a significant smoking history. Symptoms often develop insidiously over many years, with patients frequently adapting their lifestyle to accommodate declining
+respiratory
+function before seeking medical attention.
+Cardinal Symptoms
+Breathlessness:
+Initially occurs with exertion but progresses to affect activities of daily living. Characteristically described as increased effort to breathe, heaviness, air hunger, or gasping.
+Typically worse during exertion and respiratory infections
+Often the primary reason patients seek medical attention
+May be quantified using the Medical Research Council (MRC)
+Dyspnoea
+Scale
+Chronic cough:
+Often the first symptom to develop, may precede breathlessness by many years.
+Typically productive, worse in the mornings
+May be dismissed by patients as 'smoker's cough'
+Can be intermittent and may vary seasonally
+Sputum production:
+Regular production of sputum for three or more months in two consecutive years suggests chronic bronchitis.
+Usually mucoid but becomes purulent during exacerbations
+Volume typically increases during exacerbations
+Changes in colour (yellow/green) suggest infection
+Wheeze
+and chest tightness:
+Variable symptoms that may fluctuate throughout the day and between days.
+Wheeze may be absent in some patients despite significant airflow limitation
+Chest tightness often follows exertion
+Advanced Disease Features
+Exacerbations:
+Acute worsening of respiratory symptoms beyond normal day-to-day variations.
+Characterised by increased breathlessness, cough, sputum volume and purulence
+Frequency increases with disease severity
+May be triggered by respiratory infections or environmental pollutants
+Systemic manifestations:
+Reflect the chronic inflammatory state and impact of the disease.
+Weight loss and muscle wasting (particularly of respiratory and peripheral muscles)
+Fatigue and reduced exercise capacity disproportionate to lung function impairment
+Depression and anxiety are common comorbidities
+Features of cor pulmonale:
+Develop in advanced disease due to pulmonary hypertension.
+Peripheral oedema, particularly of the ankles
+Raised jugular venous pressure
+Right ventricular heave and loud pulmonary component of second heart sound
+Clinical Signs
+General appearance:
+May reveal clues to disease severity and chronicity.
+Barrel-shaped chest due to hyperinflation
+Use of accessory respiratory muscles and pursed-lip breathing
+Cachexia in advanced disease
+Central cyanosis in severe cases with chronic hypoxaemia
+Respiratory examination:
+Findings vary with disease severity.
+Reduced chest expansion
+Hyperresonant percussion note due to hyperinflation
+Diminished breath sounds with prolonged expiratory phase
+Polyphonic expiratory wheeze and coarse crackles may be present
+Signs of hypercapnia:
+Develop in very severe disease with respiratory failure.
+Warm peripheries with bounding pulse
+Flapping tremor (asterixis)
+Confusion and drowsiness in acute settings
+NICE guidelines emphasise that clinical features alone cannot reliably differentiate COPD from asthma, and objective confirmation with spirometry is essential for diagnosis.
+Improve
+Investigations
+The investigation of Chronic Obstructive Pulmonary Disease (COPD) follows a structured approach, starting with first-line investigations before progressing to further investigations if necessary. The process aims to confirm the diagnosis, determine the severity and assess for complications or comorbidities.
+First-Line Investigations
+Spirometry:
+This is the gold standard for diagnosing COPD. It measures the volume and speed of air that can be inhaled and exhaled. A post-bronchodilator FEV1/FVC ratio less than 0.7 confirms persistent airflow limitation thus COPD.
+Chest X-ray:
+While not specific, it may show hyperinflation, bullae or signs of alternative diagnoses such as heart failure or lung cancer.
+Blood tests:
+Full blood count can identify
+polycythaemia
+which may indicate chronic hypoxaemia. Renal function tests are useful as renal impairment could influence drug choice.
+Further Investigations
+If initial investigations are inconclusive or there are features suggesting an alternative diagnosis, further investigations should be considered.
+High-resolution computed tomography (HRCT):
+This is more sensitive than a chest X-ray in detecting emphysema and
+bronchiectasis
+. It can also identify other lung pathologies such as fibrosis or malignancy.
+Echocardiogram:
+Useful in assessing right ventricular function and pulmonary hypertension, especially when cor pulmonale is suspected.
+Sputum
+culture:
+If there's a history of frequent exacerbations or symptoms suggestive of bronchiectasis, sputum should be sent for culture to identify potential pathogens including
+Pseudomonas aeruginosa
+.
+Alpha-1 antitrypsin deficiency screening:
+Consider in patients with early onset COPD (< 45 years), non-smokers, or those with a family history of the disease.
+Pulmonary Rehabilitation Assessment
+All individuals diagnosed with COPD should be assessed for pulmonary rehabilitation. This is a comprehensive intervention based on patient assessment followed by tailored therapies including, but not limited to, exercise training, education and behaviour change.
+Oxygen Assessment
+Long-term oxygen therapy (LTOT) can improve survival in hypoxaemic COPD patients. LTOT should be considered if the arterial partial pressure of oxygen (PaO2) is consistently ≤7.3 kPa or ≤8 kPa with evidence of peripheral oedema, polycythaemia or pulmonary hypertension.
+Improve
+Diagnosis
+NICE recommend considering a diagnosis of COPD in patients over 35 years of age who are smokers or ex-smokers and have symptoms such as exertional
+breathlessness
+, chronic
+cough
+or regular
+sputum
+production.
+The following investigations are recommended in patients with suspected COPD:
+post-bronchodilator spirometry to demonstrate airflow obstruction: FEV1/FVC ratio less than 70%
+chest x-ray: hyperinflation, bullae, flat hemidiaphragm. Also important to exclude lung cancer
+full blood count: exclude secondary
+polycythaemia
+body mass index (BMI) calculation
+The severity of COPD is categorised using the FEV1*:
+Post-bronchodilator FEV1/FVC
+FEV1 (of predicted)
+Severity
+< 0.7
+> 80%
+Stage 1 - Mild**
+< 0.7
+50-79%
+Stage 2 - Moderate
+< 0.7
+30-49%
+Stage 3 - Severe
+< 0.7
+< 30%
+Stage 4 - Very severe
+Measuring peak expiratory flow is of limited value in COPD, as it may underestimate the degree of airflow obstruction.
+*note that the grading system has changed following the 2010 NICE guidelines. If the FEV1 is greater than 80% predicted but the post-bronchodilator FEV1/FVC is < 0.7 then this is classified as Stage 1 - mild
+**symptoms should be present to diagnose COPD in these patients
+Improve
+Management
+NICE updated its guidelines on the management of chronic obstructive pulmonary disease (COPD) in 2018.
+General management
+>smoking cessation advice: including offering nicotine replacement therapy, varenicline or bupropion
+annual influenza vaccination
+one-off pneumococcal vaccination
+pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually Medical Research Council [MRC] grade 3 and above)
+Bronchodilator therapy
+a short-acting beta2-agonist (SABA) or short-acting muscarinic antagonist (SAMA) is first-line treatment
+for patients who remain breathless or have exacerbations despite using short-acting bronchodilators the next step is determined by whether the patient has
+'asthmatic features/features suggesting steroid responsiveness'
+There are a number of criteria NICE suggest to determine whether a patient has asthmatic/steroid responsive features:
+any previous, secure diagnosis of asthma or of atopy
+a higher blood eosinophil count - note that NICE recommend a full blood count for all patients as part of the work-up
+substantial variation in FEV1 over time (at least 400 ml)
+substantial diurnal variation in peak expiratory flow (at least 20%)
+Interestingly NICE do not recommend formal reversibility testing as one of the criteria. In the guidelines they state that
+'routine spirometric reversibility testing is not necessary as part of the diagnostic process or to plan initial therapy with bronchodilators or corticosteroids. It may be unhelpful or misleading...'
+. They then go on to discuss why they have reached this conclusion. Please see the guidelines for more details.
+No asthmatic features/features suggesting steroid responsiveness
+add a long-acting beta2-agonist (LABA) + long-acting muscarinic antagonist (LAMA)
+Asthmatic features/features suggesting steroid responsiveness
+LABA + inhaled corticosteroid (ICS)
+if patients remain breathless or have exacerbations offer triple therapy i.e. LAMA + LABA + ICS
+NICE recommend the use of combined inhalers where possible
+Oral theophylline
+NICE only recommends theophylline after trials of short and long-acting bronchodilators or to people who cannot used inhaled therapy
+the dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed
+Oral prophylactic antibiotic therapy
+azithromycin prophylaxis is recommended in select patients
+patients should not smoke, have optimised standard treatments and continue to have exacerbations
+other prerequisites include a CT thorax (to exclude
+bronchiectasis
+) and
+sputum
+culture (to exclude atypical infections and tuberculosis)
+LFTs and an ECG to exclude QT prolongation should also be done as azithromycin can prolong the QT interval
+Mucolytics
+should be 'considered' in patients with a chronic productive
+cough
+and continued if symptoms improve
+Phosphodiesterase-4 (PDE-4) inhibitors
+NICE
+oral PDE-4 inhibitors such as roflumilast reduce the risk of COPD exacerbations in patients with severe COPD and a history of frequent COPD exacerbations
+NICE recommend if:
+the disease is severe, defined as a forced expiratory volume in 1 second (FEV1) after a bronchodilator of less than 50% of predicted normal, and
+the person has had 2 or more exacerbations in the previous 12 months despite triple inhaled therapy with a long-acting muscarinic antagonist, a long-acting beta-2 agonist and an inhaled corticosteroid
+Cor pulmonale
+features include peripheral oedema, raised jugular venous pressure, systolic parasternal heave, loud P2
+use a loop diuretic for oedema, consider long-term oxygen therapy
+ACE-inhibitors, calcium channel blockers and alpha blockers are not recommended by NICE
+Factors which may improve survival in patients with stable COPD
+smoking cessation - the single most important intervention in patients who are still smoking
+long term oxygen therapy in patients who fit criteria
+lung volume reduction surgery in selected patients
+Long-term oxygen therapy
+The 2018 NICE guidelines on COPD clearly define which patients should be assessed for and offered long-term oxygen therapy (LTOT). Patients who receive LTOT should breathe supplementary oxygen for at least 15 hours a day. Oxygen concentrators are used to provide a fixed supply for LTOT.
+Assess patients if any of the following:
+very severe airflow obstruction (FEV1 < 30% predicted). Assessment should be 'considered' for patients with severe airflow obstruction (FEV1 30-49% predicted)
+cyanosis
+polycythaemia
+peripheral oedema
+raised jugular venous pressure
+oxygen saturations less than or equal to 92% on room air
+Assessment is done by measuring arterial blood gases on 2 occasions at least 3 weeks apart in patients with stable COPD on optimal management.
+Offer LTOT to patients with a pO2 of < 7.3 kPa or to those with a pO2 of 7.3 - 8 kPa and one of the following:
+secondary polycythaemia
+peripheral oedema
+pulmonary hypertension
+In terms of smoking, NICE advise the following:
+do not offer LTOT to people who continue to smoke despite being offered smoking cessation advice and treatment, and referral to specialist stop smoking services.
+NICE suggest that a structured risk assessment is carried out before offering LTOT, including:
+the risks of falls from tripping over the equipment
+the risks of burns and fires, and the increased risk of these for people who live in homes where someone smokes (including e-cigarettes)
+Improve
+Complications
+Chronic obstructive pulmonary disease (COPD) often leads to various complications, some of which can be life-threatening. These complications may require additional medical interventions and significantly impact the patient's quality of life.
+Respiratory
+Complications:
+Pneumonia:
+COPD increases susceptibility to infections such as pneumonia due to a compromised immune system and impaired lung function. Pneumonia in COPD patients can exacerbate symptoms and lead to hospitalisation.
+Acute exacerbations:
+Characterised by sudden worsening of symptoms, acute exacerbations can lead to respiratory failure if not promptly managed.
+Hypoxia and hypercapnia:
+Due to poor gas exchange, patients with severe COPD may develop chronic hypoxemia leading to secondary
+polycythaemia
+and pulmonary hypertension. Hypercapnia could also occur due to hypoventilation.
+Cardiovascular Complications:
+Pulmonary hypertension:
+Chronic hypoxia can result in pulmonary vasoconstriction, leading to increased pulmonary artery pressure or pulmonary hypertension. This complication is associated with poorer prognosis.
+Cor pulmonale:
+Long-standing pulmonary hypertension can cause right heart failure or cor pulmonale, characterised by peripheral oedema and raised jugular venous pressure.
+IHD and arrhythmias:
+COPD patients have a higher risk of developing ischaemic heart disease (IHD). Arrhythmias are also common, particularly during acute exacerbations.
+Musculoskeletal and Metabolic Complications:
+Osteoporosis:
+Long-term use of corticosteroids for managing COPD, combined with reduced physical activity, increases the risk of osteoporosis.
+Weight loss and malnutrition:
+COPD can lead to increased energy expenditure and decreased appetite, resulting in weight loss and malnutrition which further impair respiratory muscle function.
+Mental Health Complications:
+Anxiety and depression:
+The chronic nature of the disease, coupled with
+breathlessness
+and reduced quality of life, can contribute to anxiety and depression in COPD patients. These mental health issues can further reduce patient's adherence to treatment.
+Improve
+References
+NICE - 2018 COPD guidelines
+NICE - 2018 COPD management diagram
+Clinical Knowledge Summaries - Chronic obstructive pulmonary disease
+Respiratory
+Chronic obstructive pulmonary disease

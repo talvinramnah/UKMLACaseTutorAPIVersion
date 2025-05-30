@@ -1,0 +1,48 @@
+Transposition of the great arteries
+Transposition of the great arteries
+Transposition of the great arteries (TGA) is a congenital cardiac malformation characterised by an abnormal arrangement of the primary blood vessels, namely the pulmonary artery and aorta. In TGA, these vessels arise from inappropriate ventricles resulting in two separate circulatory systems - systemic and pulmonary. The pathophysiology involves parallel rather than serial circulation which leads to cyanosis.
+The condition can be classified into two types: dextro-TGA (d-TGA) where the aorta arises from the right ventricle and the pulmonary artery from the left ventricle, and levo-TGA (l-TGA), also known as congenitally corrected transposition of the great arteries (ccTGA). The latter is less common but more complex due to associated intracardiac abnormalities.
+Symptoms typically present immediately post-birth with severe cyanosis and respiratory distress. Diagnosis is confirmed via echocardiography while treatment primarily involves surgical correction via arterial switch operation or atrial switch procedure depending on type.
+Last updated: 25
+th
+July 2024
+Aetiology
+Transposition of the great arteries (TGA) is a congenital cardiac anomaly characterised by the reversal of the primary arterial trunks. This condition results in the aorta arising from the right ventricle and the pulmonary artery emerging from the left ventricle. The precise aetiology remains multifactorial, involving genetic, environmental, and maternal factors.
+Risk Factors
+Genetic predisposition:
+Familial clustering suggests a genetic component. Mutations in genes such as NKX2-5, ZIC3, and GATA4 have been implicated.
+Maternal diabetes:
+Pre-existing maternal diabetes mellitus significantly increases the risk of TGA due to teratogenic effects during embryogenesis.
+Maternal age:
+Advanced maternal age (>35 years) has been associated with an elevated risk for congenital heart defects including TGA.
+Environmental exposures:
+Maternal exposure to certain medications (e.g., lithium), alcohol, or illicit drugs during pregnancy can contribute to abnormal cardiac development.
+Nutritional deficiencies:
+Inadequate intake of folic acid and other essential nutrients during pregnancy may increase susceptibility to congenital heart anomalies.
+Underlying Causes
+Abnormal cardiac looping:
+During early embryonic development, improper looping of the primitive heart tube can lead to malpositioning of major vessels.
+Failure in septation processes:
+Defects in atrioventricular or conotruncal septation can result in misalignment of great arteries relative to ventricles.
+Situs inversus totalis:
+: This rare condition involves complete mirror-image reversal of thoracic and abdominal organs, which may co-occur with TGA due to disrupted laterality signalling pathways.
+Improve
+Investigations
+The investigation of Transposition of the Great Arteries (TGA) requires a systematic and thorough approach. This typically initiates with non-invasive investigations, progressing to more advanced imaging modalities as necessary.
+First-Line Investigations
+Echocardiography:
+Echocardiography is the first-line investigation for suspected TGA. It provides real-time images of the heart's structure and function, enabling direct visualisation of the great arteries and their connections. It can identify associated cardiac abnormalities such as ventricular septal defects, atrial septal defects, or patent ductus arteriosus.
+Chest X-ray:
+Although not diagnostic, a chest X-ray can provide supportive evidence for TGA by demonstrating a characteristic 'egg on side' or 'snowman' appearance of the heart due to malpositioning of the great arteries.
+Pulse oximetry:
+Pulse oximetry screening in newborns can detect desaturation indicative of cyanotic congenital heart disease like TGA.
+Further Investigations
+If initial investigations support a diagnosis of TGA but additional information is needed for surgical planning or if echocardiographic views are suboptimal, further investigations may be warranted.
+Cardiac MRI:
+Cardiac MRI can provide detailed anatomical information about the coronary artery origins and course which is crucial in planning for arterial switch operation. It also allows assessment of associated lesions and evaluation of ventricular function.
+Cardiac catheterisation:
+While largely supplanted by non-invasive imaging techniques, cardiac catheterisation may still be utilised in certain circumstances. It provides precise haemodynamic data and allows for interventions such as balloon atrial septostomy if necessary.
+It should be noted that while these investigations can confirm the diagnosis and provide essential anatomical detail for surgical planning, TGA is often suspected clinically in neonates presenting with cyanosis and differential oxygen saturations.
+Improve
+Paediatric cardiology
+Transposition of the great arteries

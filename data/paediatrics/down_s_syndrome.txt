@@ -1,0 +1,87 @@
+Down's syndrome
+Down's syndrome
+Down's syndrome is a genetic disorder caused by the presence of an extra copy of chromosome 21. It is the most common chromosomal abnormality, affecting approximately 1 in 700 live births. Individuals with Down's syndrome have characteristic physical features, such as a flattened facial profile, upward slanting eyes, and a single crease across the palm of the hand. They may also have intellectual disability, developmental delays, and an increased risk of certain medical conditions, such as congenital heart defects, hearing loss, and thyroid problems.
+Management of Down's syndrome involves a multidisciplinary approach, including regular health check-ups, early intervention services, and ongoing support for families. Treatment may include surgery for medical conditions, speech and language therapy, and educational programs tailored to the individual's needs.
+Last updated: 13
+th
+December 2023
+Pathophysiology
+Risk of Down's syndrome with increasing maternal age
+Age (years)
+Risk
+20
+1 in 1,500
+30
+1 in 800
+35
+1 in 270
+40
+1 in 100
+45
+1 in 50 or greater
+One way of remembering this is by starting at 1/1,000 at 30 years and then dividing the denominator by 3 (i.e. 3 times more common) for every extra 5 years of age
+Cytogenetics
+Mode
+% of cases
+Risk of recurrence
+Nondisjunction
+94%
+1 in 100 if under mother < 35 years
+Robertsonian translocation
+(usually onto 14)
+5%
+10-15% if mother is translocation carrier
+2.5% if father is translocation carrier
+Mosaicism*
+1%
+The chance of a further child with Down's syndrome is approximately 1 in 100 if the mother is less than 35 years old. If the trisomy 21 is a result of a translocation the risk is much higher
+*Mosaicism is defined as the presence of two genetically different populations of cells in the body
+Improve
+Clinical features
+Clinical features
+face: upslanting palpebral fissures, epicanthic folds, Brushfield spots in iris, protruding tongue, small low-set ears, round/flat face
+flat occiput
+single palmar crease, pronounced 'sandal gap' between big and first toe
+hypotonia
+congenital heart defects (40-50%, see below)
+duodenal atresia
+Hirschsprung's disease
+Cardiac complications
+multiple cardiac problems may be present
+endocardial cushion defect (most common, 40%, also known as atrioventricular septal canal defects)
+ventricular septal defect (c. 30%)
+secundum atrial septal defect (c. 10%)
+tetralogy of Fallot (c. 5%)
+isolated patent ductus arteriosus (c. 5%)
+Later complications
+subfertility: males are almost always infertile due to impaired spermatogenesis. Females are usually subfertile, and have an increased incidence of problems with pregnancy and labour
+learning difficulties
+short stature
+repeated respiratory infections (+hearing impairment from glue ear)
+acute lymphoblastic leukaemia
+hypothyroidism
+Alzheimer's disease
+atlantoaxial instability
+Individuals with Down's syndrome are more likely to suffer from vision and hearing problems, as detailed below:
+Vision
+refractive errors are more common
+strabismus: seen in around 20-40%
+cataracts: congenital and acquired are both more common
+recurrent blepharitis
+glaucoma
+Hearing
+otitis media and glue ear are very common resulting in hearing problems
+Improve
+Screening and prevention
+NICE issued guidelines on antenatal care in March 2008 including advice on screening for Down's syndrome
+the combined test is now standard: nuchal translucency measurement + serum B-HCG + pregnancy associated plasma protein A
+these tests should be done between 11 - 13+6 weeks
+if women book later in pregnancy either the triple* or quadruple test** should be offered between 15 - 20 weeks
+*alpha-fetoprotein, unconjugated oestriol, human chorionic gonadotrophin
+**alpha-fetoprotein, unconjugated oestriol, human chorionic gonadotrophin and inhibin-A
+Improve
+References
+NICE - 2021 Antenatal care guidelines
+Public Health England - 2021 NHS Fetal Anomaly Screening Programme (FASP): programme overview
+Congenital abnormalities
+Down's syndrome

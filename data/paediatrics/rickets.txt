@@ -1,0 +1,162 @@
+Rickets
+Rickets
+Rickets is a rare but serious condition that affects the bones of children. It is caused by a deficiency in vitamin D, calcium, or phosphorus, which leads to weakened bones and deformities. The most common symptoms of rickets include
+bone pain
+, muscle weakness, delayed growth, and skeletal deformities such as bowed legs or a curved spine.
+Rickets can be diagnosed through a combination of physical examination, blood tests, and X-rays. Treatment typically involves increasing the intake of vitamin D, calcium, and phosphorus through diet or supplements. In severe cases, surgery may be necessary to correct bone deformities.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 0.50 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Rickets, a skeletal disorder primarily resulting from vitamin D deficiency, is characterised by impaired mineralisation and bone deformity. The aetiology of rickets is multifactorial with numerous risk factors contributing to its onset.
+Vitamin D Deficiency
+The primary cause of rickets is a deficiency in vitamin D, which can occur due to inadequate dietary intake, insufficient exposure to sunlight or malabsorption syndromes. Certain genetic conditions can also lead to defects in the metabolism or action of vitamin D, predisposing individuals to rickets.
+Calcium and Phosphorus Imbalance
+Low dietary intake of calcium and phosphorus can contribute to the development of rickets. This is particularly prevalent in regions where diets are predominantly cereal-based, as phytates present in cereals bind dietary calcium and inhibit its absorption.
+Renal loss of phosphorus due to hereditary hypophosphatemic conditions or acquired renal tubular disorders can also lead to rickets.
+Lifestyle Factors
+Certain lifestyle factors including limited sun exposure due to cultural practices or geographical location, prolonged exclusive breastfeeding without vitamin D supplementation, and obesity can increase the risk for developing rickets.
+Genetic Factors
+Mutations in genes involved in the regulation of vitamin D metabolism (such as
+CYP27B1
+,
+CYP2R1
+, and
+VDR
+) or phosphate homeostasis (like
+PHEX
+,
+DMP1
+, and
+FGF23
+) can result in hereditary forms of rickets.
+Medications
+Some antiepileptic drugs, glucocorticoids, and antiretroviral therapies can interfere with the metabolism or action of vitamin D, thereby increasing the risk for rickets.
+Disease Conditions
+Rickets can also be secondary to certain disease conditions that affect the absorption of dietary calcium or phosphorus, such as coeliac disease, inflammatory bowel disease, and renal diseases.
+Improve
+Pathophysiology
+Rickets, a metabolic bone disorder predominantly affecting children, is characterised by impaired mineralisation and ossification of growth plates. The pathophysiology of this condition can be understood through several key steps that lead to its common manifestations.
+Insufficient Vitamin D
+The primary cause of rickets is deficiency in vitamin D, which plays a pivotal role in the regulation of calcium and phosphate homeostasis. This deficiency can occur due to inadequate dietary intake, insufficient sunlight exposure leading to decreased cutaneous synthesis, or malabsorption syndromes.
+Disturbed Calcium and Phosphate Homeostasis
+Vitamin D deficiency results in decreased intestinal absorption of calcium and phosphate. This leads to
+hypocalcaemia
+and hypophosphataemia, triggering an increased secretion of parathyroid hormone (PTH). PTH acts on the kidneys to increase renal reabsorption of calcium while decreasing phosphate reabsorption, exacerbating hypophosphataemia.
+Increased Parathyroid Hormone Secretion
+Elevated levels of PTH stimulate osteoclastic activity leading to increased bone resorption in an attempt to normalise serum calcium levels. However, this process further depletes phosphate levels as it is released into the bloodstream during bone resorption but subsequently excreted via the kidneys under the influence of PTH.
+Impaired Bone Mineralisation
+The resultant state of hypocalcaemia and severe hypophosphataemia disrupts normal bone mineralisation. In particular, low levels of phosphate prevent hydroxyapatite crystals from forming properly within the collagenous matrix, resulting in soft and pliable bones which are prone to deformities.
+Growth Plate Changes
+In the growth plates of long bones, chondrocytes proliferate and differentiate to facilitate longitudinal bone growth. However, hypophosphataemia inhibits apoptosis of hypertrophic chondrocytes leading to an accumulation of these cells. This results in widening and disorganisation of the growth plate, contributing to the characteristic skeletal deformities seen in rickets.
+Clinical Manifestations
+The pathophysiological changes discussed above manifest as common clinical features of rickets such as bowing of the legs, enlarged joints, delayed closure of fontanelles, dental problems and muscle weakness. The severity and range of these manifestations may vary based on the duration and extent of vitamin D deficiency.
+Improve
+Clinical features
+Skeletal deformities:
+One of the most prominent features of rickets is skeletal deformities resulting from undermineralized and weakened bones. These may include:
+Craniotabes:
+Softening and thinning of the skull bones that may present as a palpable depression.
+Frontal bossing:
+Prominent forehead with an exaggerated curvature.
+Rachitic rosary:
+Swelling at the costochondral junctions resembling beads along the rib cage.
+Harrison's groove: Horizontal depression along the lower border of the rib cage due to inward pulling by diaphragmatic attachments.
+Bowing deformities:
+Curvature abnormalities in long bones such as genu varum (bowlegs) or genu valgum (knock-knees).
+Pectus carinatum (pigeon chest) or pectus excavatum (funnel chest):
+Deformities in the anterior chest wall.
+Growth retardation and short stature:
+Impaired bone growth can lead to delayed milestones and overall reduced growth velocity.
+Dental manifestations:
+Delayed dentition, enamel hypoplasia, and increased susceptibility to dental caries are commonly observed in children with rickets.
+Muscular weakness and hypotonia:
+Generalized muscle weakness may be present due to decreased muscle tone and strength.
+Tetany and seizures:
+Hypocalcemia associated with rickets can cause neuromuscular irritability, leading to carpopedal spasms, laryngospasms, and generalized seizures.
+Fractures:
+Children with rickets have an increased risk of fractures due to weakened bones, even with minimal trauma.
+7. Respiratory complications: Chest wall deformities and muscle weakness can cause respiratory distress and increase the risk of pneumonia and other respiratory infections.
+8. Pain and tenderness:
+Bone pain
+, especially in the lower extremities or spine, may be reported by older children or observed as irritability in younger children during handling or movement.
+9.
+Improve
+Investigations
+The investigation of suspected rickets primarily involves biochemical investigations, radiological assessments, and in some cases, genetic testing. The aim is to confirm the diagnosis, identify the type of rickets (nutritional or inherited), and determine the severity of the disease.
+First-Line Investigations
+Biochemical Tests:
+These are essential first-line investigations. Serum calcium, phosphate, alkaline phosphatase (ALP), and parathyroid hormone (PTH) levels should be measured. In most cases of rickets, serum calcium and phosphate levels are low while ALP and PTH levels are elevated. Additionally, 25-hydroxyvitamin D [25(OH)D] levels should be assessed to evaluate vitamin D status. Levels below 30 nmol/L suggest deficiency.
+Radiographic Examination:
+X-ray imaging of the wrists and knees can reveal classic signs of rickets such as cupping, fraying, and widening of the metaphysis. However, these changes may not be present in all patients with rickets.
+Further Investigations
+If first-line investigations confirm a diagnosis of rickets but do not clearly indicate its cause, further investigations may be necessary.
+Serum 1,25-dihydroxyvitamin D [1,25(OH)2D] Levels:
+Measurement of this active form of vitamin D can provide insight into whether the condition is due to nutritional deficiency or an inherited disorder affecting vitamin D metabolism.
+Genetic Testing:
+This may be considered if there is suspicion for inherited forms of rickets such as X-linked hypophosphatemic rickets or autosomal dominant or recessive hypophosphatemic rickets. Genetic testing can help confirm the diagnosis and guide treatment strategies.
+Urinary Phosphate Excretion:
+Increased urinary phosphate excretion can indicate renal tubular disorders, which can cause rickets. This test involves measuring the ratio of phosphate to creatinine in urine samples.
+Detailed Discussion on Biochemical Tests
+Biochemical tests serve as the mainstay for diagnosing rickets. Abnormalities in these tests reflect the underlying pathophysiological changes occurring in rickets.
+Serum Calcium and Phosphate:
+Rickets often presents with
+hypocalcaemia
+and hypophosphatemia due to impaired mineralisation of bone. However, these levels may be normal in early or mild disease.
+Serum ALP:
+Elevated ALP is a sensitive marker for active rickets as it reflects increased osteoblastic activity. However, it lacks specificity and may be elevated in other conditions such as liver disease.
+Serum PTH:
+Secondary hyperparathyroidism is common in rickets due to chronic hypocalcaemia stimulating parathyroid hormone secretion. Therefore, an elevated PTH level supports a diagnosis of rickets but is not diagnostic on its own.
+Serum 25(OH)D:
+Low levels of 25(OH)D are indicative of nutritional vitamin D deficiency, which is the most common cause of rickets worldwide. It is important to note that this test measures both ergocalciferol (vitamin D2) and cholecalciferol (vitamin D3), thereby providing a comprehensive assessment of vitamin D status.
+The combination of biochemical abnormalities along with clinical presentation and radiographic findings typically allows for a diagnosis without invasive investigations such as bone biopsy, which is rarely required.
+Improve
+Differential diagnosis
+The differential diagnosis for rickets primarily includes osteomalacia, familial hypophosphatemia and hypophosphatasia. These conditions can present similarly to rickets but have distinct clinical features that aid in their differentiation.
+Osteomalacia
+Unlike rickets which affects the growth plate in children, osteomalacia is a metabolic bone disease that occurs in adults when mineralisation of the osteoid (newly formed bone tissue) is impaired. The primary symptom is diffuse skeletal pain, especially in the lower back and hips.
+Clinically, patients may present with muscle weakness and tenderness, particularly proximal muscle weakness. Bone tenderness may also be noted on physical examination.
+Radiographic findings in osteomalacia often demonstrate Looser's zones or pseudofractures - areas of decreased bone density surrounded by sclerotic borders - which are not typically seen in rickets.
+Familial Hypophosphatemia (X-linked Hypophosphatemic Rickets)
+This genetic disorder leads to phosphate wasting at the renal level resulting in hypophosphatemia. It shares many clinical features with nutritional rickets including stunted growth, bowing of the legs, and dental anomalies.
+However, unlike nutritional rickets where serum phosphate levels normalise with supplementation, familial hypophosphatemia does not respond to vitamin D therapy alone due to renal phosphate wasting.
+Another distinguishing feature is that it presents with normal or even slightly elevated levels of alkaline phosphatase as opposed to the significantly increased levels seen in nutritional rickets.
+Hypophosphatasia
+This rare inherited disorder is caused by a deficiency in tissue-nonspecific alkaline phosphatase. It can present at any age and often mimics the symptoms of rickets including
+bone pain
+, fractures, and skeletal deformities.
+A key distinguishing feature is that hypophosphatasia presents with low serum levels of alkaline phosphatase, which is opposite to the elevated levels seen in rickets.
+Additional clinical features unique to hypophosphatasia include premature loss of deciduous teeth and, in severe cases, respiratory complications due to poor rib cage development.
+Improve
+Management
+Management of rickets primarily involves replenishing the deficient nutrients and treating any underlying cause.
+Replacement Therapy:
+The first line of treatment is vitamin D and calcium supplementation. Ergocalciferol or cholecalciferol can be used for vitamin D replacement, while calcium lactate or calcium carbonate are used to correct
+hypocalcaemia
+.
+Treatment of Underlying Cause:
+If the rickets is due to an underlying condition such as renal disease or malabsorption syndromes, these should be treated concurrently. For instance, in renal tubular acidosis, bicarbonate supplements may be required along with vitamin D therapy.
+Surgical Intervention:
+In severe cases where there are bone deformities, surgical correction might be necessary. This includes procedures like osteotomies and epiphysiodesis.
+Dietary Advice:
+Patients should be advised on dietary modifications to ensure adequate intake of vitamin D and calcium. This includes consumption of oily fish, fortified cereals and dairy products.
+Sunlight Exposure:
+Encourage safe sunlight exposure as ultraviolet B rays from sunlight stimulate the production of vitamin D in the skin.
+In resistant cases or those associated with genetic disorders like X-linked hypophosphatemic rickets (XLH), phosphate supplements and calcitriol may be needed. Monitoring serum concentrations of calcium, phosphate and alkaline phosphatase alongside radiological assessment helps guide treatment efficacy and duration.
+Improve
+Musculoskeletal deformities
+Rickets

@@ -1,0 +1,67 @@
+Femoroacetabular impingement
+Femoroacetabular impingement
+Femoroacetabular impingement (FAI) is a condition that affects the hip joint, causing pain and discomfort. It occurs when there is abnormal contact between the femoral head and the acetabulum, leading to damage of the labrum and cartilage. Patients with FAI typically present with
+groin pain
+, limited range of motion, and stiffness.
+Diagnosis is made through a combination of physical examination, imaging studies, and arthroscopy. Treatment options include conservative management, such as physical therapy and anti-inflammatory medications, as well as surgical intervention, such as arthroscopic or open surgery. It is important for doctors to be aware of FAI and its treatment options to provide appropriate care for their patients.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Femoroacetabular impingement
+1
+Acetabular labral tear
+0.25
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Cam impingement
+occurs due to an aspherical femoral head or reduced head-neck offset, resulting in shearing forces on the acetabular labrum and cartilage during hip flexion. Clinically, patients with cam-FAI may present with:
+Anterior
+groin pain
+exacerbated by hip flexion activities such as squatting, sitting for extended periods, or climbing stairs.
+Decreased range of motion in flexion, adduction, and internal rotation of the affected hip joint.
+Positive impingement tests including FADIR (Flexion-Adduction-Internal Rotation) test where pain is elicited upon passive hip flexion beyond 90 degrees followed by adduction and internal rotation.
+Painful clicking or locking sensation in the hip joint during specific movements.
+Pincer impingement
+results from an overcoverage of the acetabulum causing direct compression on the labrum during terminal hip motions. Patients with pincer-FAI often exhibit:
+Deep-seated groin pain that may radiate to the lateral thigh or buttock region.
+Stiffness and limited range of motion in hip extension and external rotation.
+Pain provoked by prolonged standing or walking activities.
+Positive FABER (Flexion-ABduction-External Rotation) test where discomfort arises when placing the ankle on contralateral knee and applying gentle downward pressure on the ipsilateral knee.
+Mixed impingement
+is a combination of both cam and pincer mechanisms, leading to simultaneous labral and cartilage damage. Clinical features of mixed-FAI include:
+A combination of symptoms from both cam and pincer impingements.
+Painful snapping, clicking, or locking sensations in the hip joint.
+Decreased range of motion in multiple planes, including flexion, adduction, internal rotation, extension, and external rotation.
+Positive FADIR and FABER tests.
+Improve
+Management
+Initial management should focus on conservative measures such as activity modification, physiotherapy-led rehabilitation programmes focusing on core stability exercises, hip muscle strengthening, flexibility training; and analgesia including nonsteroidal anti-inflammatory drugs (NSAIDs). Intra-articular corticosteroid injections may be considered for short-term relief but should be used cautiously due to potential risks associated with repeated injections.
+Operative Management
+Surgical intervention is indicated if conservative measures fail or if there is evidence of significant joint damage. The choice between arthroscopic surgery or open surgical dislocation depends on the surgeon's expertise and patient-specific factors. The goals of surgery are to correct bony abnormalities, repair or debride damaged labrum and cartilage, and restore normal hip biomechanics.
+Arthroscopic Surgery
+Hip arthroscopy is a minimally invasive technique used for the management of FAI. It allows for direct visualisation of intra-articular pathology, assessment of joint stability, and treatment of associated lesions such as labral tears and chondral damage. Osteochondroplasty can be performed to reshape the femoral head-neck junction in cam impingement, while acetabular rim trimming is done for pincer impingement.
+Open Surgical Dislocation
+Open surgical dislocation provides excellent exposure of the hip joint and allows for more extensive correction of complex deformities. This approach may be preferred in cases with severe bony abnormalities or when arthroscopic access is limited due to previous surgery or anatomic constraints. Potential complications include avascular necrosis, trochanteric non-union, and nerve injury.
+Postoperative Rehabilitation
+A structured postoperative rehabilitation programme is crucial for optimal recovery following FAI surgery. Early passive range-of-motion exercises are initiated within the first few days after surgery to prevent joint stiffness. Gradual progression to active range-of-motion exercises, weight-bearing activities, and strengthening exercises should be tailored according to individual patient progress and surgeon recommendations.
+Long-term Management
+Regular follow-up assessments are necessary to monitor clinical outcomes following FAI management interventions. Patients should be advised on maintaining a healthy lifestyle by engaging in low-impact physical activities that do not exacerbate hip symptoms. In some cases, additional interventions may be required for persistent symptoms or recurrent impingement.
+Improve
+Orthopaedic surgery
+Femoroacetabular impingement

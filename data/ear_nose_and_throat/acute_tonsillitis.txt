@@ -1,0 +1,249 @@
+Acute tonsillitis
+Acute tonsillitis
+Acute tonsillitis is an acute infection of the palatine tonsils resulting in a
+sore throat
+. It can be of viral or bacterial cause. Viral causes are more common. Most cases are self-limiting and don't require antibiotics. Children aged 5-15 years are more commonly affected. However, it is important to remember that the majority of sore throats are not caused by tonsillitis.
+Last updated: 1
+st
+December 2023
+Epidemiology
+Incidence: 500.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Viral upper respiratory tract infections
+60.00
+Acute tonsillitis
+1
+Peritonsillar abscess (quinsy)
+0.06
+Acute epiglottitis
+0.004
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute tonsillitis is predominantly caused by both viral and bacterial infections, with the most common pathogens being
+Streptococcus pyogenes
+(group A beta-haemolytic streptococcus), adenoviruses, influenza viruses, parainfluenza viruses, enteroviruses, and Epstein-Barr virus.
+Risk Factors:
+Age:
+Acute tonsillitis is more prevalent in children and adolescents due to their immature immune systems. However, it can occur at any age.
+Contact with infected individuals:
+The condition is highly contagious. Close contact with an infected individual increases the likelihood of transmission.
+Crowded environments:
+Schools, day-care centres or other crowded settings facilitate the spread of infectious agents responsible for acute tonsillitis.
+Poor hygiene practices:
+Lack of regular hand washing and sharing personal items like utensils increase the risk of infection.
+Bacterial Causes:
+The most common bacterial cause of acute tonsillitis is
+Streptococcus pyogenes
+. Other bacteria such as
+Mycoplasma pneumoniae
+,
+Chlamydia pneumoniae
+,
+Bordetella pertussis
+,
+Fusobacterium sp.
+, and
+Treponema pallidum
+may also be implicated. Bacterial tonsillitis tends to be more severe than viral tonsillitis and often presents with systemic symptoms such as
+fever
+and malaise.
+Viral Causes:
+Viral causes account for approximately 70% of acute tonsillitis cases. Adenoviruses are the most common viral cause, followed by rhinoviruses, influenza virus, parainfluenza viruses, and Epstein-Barr virus. Viral tonsillitis typically presents with milder symptoms than its bacterial counterpart but can still result in significant discomfort.
+Immunodeficiency:
+Patients with compromised immune systems due to conditions such as HIV/AIDS or those receiving immunosuppressive therapy for conditions like cancer or organ transplantation are at increased risk of developing severe or recurrent episodes of acute tonsillitis.
+Allergies:
+Chronic allergies can cause inflammation and swelling of the tonsils which may predispose to bacterial superinfection leading to acute tonsillitis.
+Tobacco smoke exposure:
+Both active smoking and passive exposure to tobacco smoke irritate the throat and can increase susceptibility to acute tonsillitis.
+Gastroesophageal reflux disease (GERD):
+Acid reflux from GERD can lead to chronic irritation and inflammation of the throat and tonsils, potentially predisposing individuals to acute tonsillitis.
+Improve
+Pathophysiology
+Acute tonsillitis is the inflammatory infection of the palatine tonsils:
+Micro-organisms which successfully penetrate the tonsillar epithelium are phagocytosed by macrophages.
+Macrophages then process and present them to B and T cells within the tonsils, thus stimulating cellular and humoral immune responses.
+Inflammatory cytokines (e.g. phospholipase A2) are produced.
+Such local inflammatory pathways destroy the virus or bacteria, cause
+pyrexia
+and result in oropharyngeal swelling, pain and erythema.
+Improve
+Clinical features
+Patients typically present with a combination of an acute onset of:
+Sore throat
+(99%)
+Fever
+>38ÂºC (82%)
+Dysphagia (66%)
+Nasal congestion, headache, earache, cough (47%)
+These 4 symptoms may be present if
+viral
+aetiology.
+If no cough is present, this is more likely
+bacterial
+cause.
+Examination of the pharynx may reveal:
+Severely inflamed tonsils (87%)
+Painfully enlarged anterior cervical lymph nodes (49%)
+Purulent tonsils (41%)
+Pus on the tonsils is suggestive of
+bacterial
+cause.
+Do
+not
+examine if
+epiglottitis
+suspected.
+Additional features suggestive of epiglottitis:
+A young child
+A muffled voice
+Excessive drooling and pooling of saliva.
+Call for an anaesthetist and an ENT surgeon.
+Improve
+Investigations
+Acute tonsillitis is usually a
+clinical diagnosis
+.
+Investigations are only used if confirmation of group A streptococcal (GAS) infection is required (e.g. in patients on immunosuppression, very old or young, with severe symptoms).
+In these patients, the
+NICE 2018
+Clinical Knowledge Summary suggests performing a rapid antigen test for GAS.
+If this antigen test is negative, a throat culture should be performed.
+In all other patients, clinical examination in combination with a clinical prediction score (FeverPAIN or Centor - see 'Management' section) should be used to establish the likelihood of GAS infection.
+This is important, as GAS aetiology requires antibiotic treatment.
+Improve
+Differential diagnosis
+In the differential diagnosis of acute tonsillitis, the three most likely alternative diagnoses to consider are peritonsillar abscess, infectious mononucleosis (IM) and viral pharyngitis. These conditions can present with similar symptoms to acute tonsillitis, but there are key differences in their clinical presentation that aid in their differentiation.
+Peritonsillar Abscess
+Symptoms:
+Peritonsillar abscess typically presents with more severe symptoms than acute tonsillitis. Patients may have intense throat pain that is often unilateral, dysphagia, trismus (limited mouth opening due to spasms of the masticatory muscles), drooling and a 'hot potato' voice (muffled and indistinct).
+Fever
+is also common.
+Clinical findings:
+On examination, there may be uvular deviation away from the side of the abscess, asymmetric swelling of the tonsils and soft palate, erythema and exudate.
+Infectious Mononucleosis (IM)
+Symptoms:
+IM caused by
+Epstein-Barr virus
+commonly presents with fatigue, fever,
+sore throat
+and lymphadenopathy. The sore throat may mimic that seen in acute tonsillitis. In addition to these symptoms patients often report malaise or general discomfort/unease which lasts longer than typical viral infections.
+Clinical findings:
+Physical examination can reveal posterior
+cervical lymphadenopathy
+, hepatosplenomegaly and a rash especially after administration of amoxicillin or ampicillin for presumed bacterial infection.
+Viral Pharyngitis
+Symptoms:
+Viral pharyngitis often presents with a sore throat, mild fever, fatigue and cough. These symptoms are similar to those seen in acute tonsillitis. However, the onset is usually more gradual and the course of illness is typically shorter.
+Clinical findings:
+Examination may reveal erythematous pharynx without exudate or swelling of the tonsils. There might be concurrent signs of viral infection such as rhinorrhoea, conjunctivitis or a rash.
+In all three conditions, laboratory tests can further aid in differentiation. For example, a positive Monospot test suggests IM while an aspirate culture positive for bacteria supports PTA diagnosis. In viral pharyngitis, throat swabs are typically negative for group A beta-haemolytic streptococci (GABHS), the most common bacterial cause of acute tonsillitis.
+Improve
+Management
+Reassurance and symptomatic relief advise should be offered to all patients (NICE 2018 guidelines).
+Reassure
+- symptoms can last for around 1 week, but most people get better within this time without treatment.
+Paracetamol or ibuprofen
+- for pain or
+fever
+.
+Fluids
+- adequate intake maintained.
+Other treatment
+antibiotics are not routinely indicated, but may be indicated if certain criteria are met as below
+if antibiotics are indicated then either
+phenoxymethylpenicillin
+or erythromycin (if the patient is penicillin allergic) should be given. Either a 7 or 10 day course should be given
+there is some evidence that a single dose of oral corticosteroid may reduce the severity and duration of pain, although this has not yet been incorporated into UK guidelines
+NICE indications for antibiotics
+features of marked systemic upset secondary to the acute
+sore throat
+unilateral peritonsillitis
+a history of rheumatic fever
+an increased risk from acute infection (such as a child with diabetes mellitus or immunodeficiency)
+patients with acute sore throat/acute pharyngitis/acute tonsillitis when 3 or more Centor criteria are present
+Scoring systems
+The
+Centor criteria
+are: score 1 point for each (maximum score of 4)
+presence of tonsillar exudate
+tender anterior
+cervical lymphadenopathy
+or lymphadenitis
+history of fever
+absence of cough
+Centor score
+Likelihood of isolating
+Streptococci
+0 or 1 or 2
+3 to 17%
+3 or 4
+32 to 56%
+The
+FeverPAIN criteria
+are: score 1 point for each (maximum score of 5)
+Fever over 38Â°C.
+Purulence (pharyngeal/tonsillar exudate).
+Attend rapidly (3 days or less)
+Severely Inflamed tonsils
+No cough or coryza
+FeverPAIN score
+Likelihood of isolating
+Streptococci
+0 or 1
+13 to 18%
+2 or 3
+34% to 40%
+4 or 5
+62% to 65%
+Special patient groups:
+If on DMARDs or carbimazole, check FBC urgently.
+If immunosuppressed (eg leukaemia, HIV/AIDS), seek urgent specialist advice.
+Improve
+Complications
+Complications of acute tonsillitis are rare.
+Potential complications include:
+Acute otitis media
+Common, benign and self-limiting.
+Antibiotics reduce the risk.
+Peritonsillar abscess (quinsy) or neck abscess
+Usually in the first 2 months after acute tonsillitis episode.
+Presents with spiking
+fever
+, neck pain and dysphagia.
+Antibiotics reduce the risk. Drainage required.
+Acute sinusitis
+In 0.4% of untreated patients.
+Antibiotics reduce the risk.
+These very rare complications usually only occur if an underlying bacterial infection is untreated, and include:
+Scarlet fever
+Presents as a blanching erythematous papular rash, a strawberry tongue and circumoral pallor.
+Acute rheumatic fever
+Extremely rare (<1:100,000).
+Causes widespread inflammation throughout the body.
+Presents with arthritis, subcutaneous nodules, erythema marginatum, chorea and carditis.
+Antibiotics reduce the risk.
+Acute post-streptococcal glomerulonephritis
+:
+Exceedingly rare.
+Presents with haematuria, oedema, vomiting and anorexia.
+Streptococcal toxic shock syndrome
+:
+Very rare but life-threatening.
+Presents with progressive multiple organ failure and shock.
+Due to exaggerated inflammatory response to streptococcal antigens.
+Improve
+Ear, nose and throat
+Acute tonsillitis

@@ -1,0 +1,110 @@
+Dressler's syndrome
+Dressler's syndrome
+Dressler's syndrome
+, also known as post-
+myocardial infarction
+syndrome, is a secondary form of pericarditis that typically occurs within weeks to months following myocardial infarction. It is characterised by pleuritic chest pain and evidence of pericardial effusion. The pathogenesis of Dressler's syndrome remains unclear but is thought to be related to an autoimmune response triggered by necrotic myocardial tissue.
+Key clinical features include fever, malaise, leukocytosis, and elevated erythrocyte sedimentation rate (ESR) or C-reactive protein (CRP). Electrocardiogram often shows widespread ST elevation and PR depression due to the underlying inflammation. Echocardiography can confirm the presence of pericardial effusion.
+The mainstay treatment is non-steroidal anti-inflammatory drugs (NSAIDs), with colchicine added for refractory cases or corticosteroids in NSAID-intolerant patients. Despite its potential severity, Dressler's syndrome has become less common in the era of early reperfusion therapy for acute myocardial infarction.
+Last updated: 1
+st
+January 2025
+Aetiology
+Dressler's syndrome is a secondary form of pericarditis that typically occurs in the weeks to months following
+myocardial infarction
+(MI) or cardiac surgery. The exact aetiology remains unclear, but it is thought to be an autoimmune response triggered by necrotic myocardial tissue.
+Post-myocardial Infarction (PMI):
+The most common risk factor for Dressler's syndrome is a recent history of MI. This association has been reported in 1-3% of patients post-MI. The necrosis of the myocardium exposes intracellular antigens to the immune system, which may incite an autoimmune reaction causing inflammation and fibrosis of the pericardium.
+Cardiac Surgery:
+Similarly, patients who have undergone cardiac surgery are at increased risk due to potential damage and exposure of cardiac antigens during surgical procedures. This includes coronary artery bypass grafting (CABG), valve replacement or repair, and heart transplant surgeries.
+Percutaneous Interventional Procedures:
+Percutaneous interventional procedures such as percutaneous coronary intervention (PCI) or catheter ablation can also increase the risk of developing Dressler's syndrome due to mechanical irritation or thermal injury to the pericardium.
+Radiation Therapy:
+Patients receiving radiation therapy for thoracic malignancies are at an elevated risk due to radiation-induced damage to the pericardium and subsequent inflammatory response.
+In addition, certain demographic factors have been associated with increased incidence. These include male gender and age over 50 years. However, these associations require further study for validation.
+Dressler's syndrome is less commonly observed in the current era due to early and aggressive management of acute MI, including reperfusion therapies and widespread use of anti-inflammatory agents. However, it remains a potential complication that clinicians should be aware of in patients presenting with chest pain following MI or cardiac surgery.
+Improve
+Pathophysiology
+Dressler's syndrome
+, also known as post-
+myocardial infarction
+syndrome, is a secondary form of pericarditis that typically occurs weeks to months after a myocardial infarction (MI). The pathophysiology of Dressler's syndrome involves intricate immunological responses and inflammatory processes.
+The initial event in the development of Dressler's syndrome is an acute myocardial infarction leading to necrosis of the myocardium. This necrotic tissue triggers an immune response, which sets off a series of events:
+The necrotic cardiac tissue releases self-antigens that were previously hidden from the immune system. These self-antigens are recognised as foreign due to their previous sequestration within the cells.
+These antigens trigger an autoimmune reaction, leading to production of autoantibodies against heart antigens such as myosin and troponin I. This process is facilitated by antigen-presenting cells (APCs) which present these antigens to T lymphocytes.
+The activated T lymphocytes proliferate and differentiate into effector T cells, further amplifying the immune response. These effector T cells release various cytokines, promoting inflammation and recruitment of other immune cells to the site.
+Simultaneously, B lymphocytes are stimulated to produce antibodies against these cardiac antigens. The formation of antigen-antibody complexes leads to activation of complement system which enhances inflammation and tissue injury.
+This localised inflammation results in pericarditis characterised by chest pain and friction rub on auscultation. In some cases, it can progress to pericardial effusion or even constrictive pericarditis if left untreated.
+While this describes the primary mechanism behind Dressler's syndrome, it is worth noting that the exact pathophysiology is still not fully understood and may vary between individuals. Furthermore, the syndrome is less common now due to early reperfusion therapy for MI which limits myocardial necrosis.
+Improve
+Clinical features
+Title: Clinical Features of Dressler's Syndrome
+Dressler's syndrome, also known as post-
+myocardial infarction
+The clinical features of Dressler's syndrome are characterized by the following manifestations:
+Chest pain: Pleuritic chest pain is the most common presenting symptom, often exacerbated by inspiration and relieved by leaning forward or sitting up. The pain may be sharp, stabbing, or burning in nature and is typically located retrosternally or left precordial region.
+Pericardial friction rub: A pathognomonic sign of pericarditis, the pericardial friction rub can be auscultated in patients with Dressler's syndrome. It is a high-pitched, scratchy sound best heard at the left lower sternal border with the patient sitting up and leaning forward during end-expiration.
+Fever: Low-grade fever (usually below 38.5Â°C) may be present in some cases but is not universally observed in all patients with Dressler's syndrome.
+Dyspnoea: Patients may experience shortness of breath due to pleural effusion or restrictive pericarditis resulting from inflammation and adhesions between the visceral and parietal layers of the pericardium.
+Tachycardia: An increased heart rate may be observed in patients with Dressler's syndrome due to systemic inflammation, fever, or anxiety related to chest pain.
+Pericardial effusion: Echocardiography may reveal a pericardial effusion ranging from mild to moderate in size. In some cases, large effusions can lead to cardiac tamponade, presenting as hypotension and pulsus paradoxus.
+Pleural effusion: A concurrent pleural effusion may be present in up to 50% of patients with Dressler's syndrome, typically ipsilateral to the side of the surgical incision in post-pericardiotomy cases. This can be detected on chest radiography or computed tomography (CT) scan.
+Recurrence: In some cases, Dressler's syndrome may recur after initial resolution despite appropriate treatment, presenting with similar clinical features as the initial episode.
+Improve
+Investigations
+Electrocardiographic changes:
+Diffuse ST-segment elevations with PR-segment depression can be seen on electrocardiogram (ECG) in patients with acute pericarditis, including Dressler's syndrome. However, these findings may be obscured by underlying
+myocardial infarction
+or postoperative changes.
+Laboratory abnormalities:
+Elevated erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), and leukocytosis may be observed in patients with Dressler's syndrome due to the ongoing inflammatory process.
+Improve
+Differential diagnosis
+The clinical presentation of Dressler's syndrome often overlaps with other cardiac and pulmonary conditions, making the differential diagnosis a critical aspect of patient evaluation. The most common alternative diagnoses to consider are acute pericarditis, pulmonary embolism, and acute
+myocardial infarction
+.
+Acute Pericarditis
+Like Dressler's syndrome, acute pericarditis presents with chest pain that worsens in supine position and alleviates upon leaning forward. However, the onset is more abrupt in acute pericarditis compared to the delayed onset (weeks to months post-cardiac injury) seen in Dressler's syndrome.
+Pericardial friction rub can be appreciated on auscultation in both conditions but it is typically more consistent in acute pericarditis.
+Elevated inflammatory markers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR) are common to both conditions but a lack of preceding cardiac injury or surgery favours a diagnosis of acute pericarditis over Dressler's syndrome.
+Pulmonary Embolism
+Pulmonary embolism may also present with pleuritic chest pain similar to Dressler's syndrome. However, symptoms such as shortness of breath, tachypnoea, and hypoxia are usually more prominent in pulmonary embolism.
+Troponin levels may be elevated in both conditions; however, this is generally due to right ventricular strain in pulmonary embolism as opposed to myocardial inflammation or injury seen in Dressler's syndrome.
+A sudden onset of symptoms combined with risk factors for venous thromboembolism (VTE) such as recent surgery, immobilisation, or malignancy would lean towards a diagnosis of pulmonary embolism.
+Acute Myocardial Infarction (AMI)
+Both AMI and Dressler's syndrome can present with chest pain and elevated troponin levels. However, the pain associated with AMI is typically more severe, may radiate to the jaw or left arm, and is often accompanied by diaphoresis, nausea or vomiting.
+Unlike Dressler's syndrome, electrocardiogram (ECG) changes in AMI are indicative of myocardial necrosis and include ST-segment elevation or new-onset left bundle branch block. In contrast, Dressler's syndrome usually presents with diffuse ST-segment elevation reflecting pericardial inflammation.
+The absence of a recent cardiac event favours AMI over Dressler's syndrome.
+Improve
+Management
+The management of Dressler's syndrome primarily focuses on the alleviation of symptoms and prevention of recurrent pericarditis. This typically involves pharmacological intervention, with the mainstay therapy being non-steroidal anti-inflammatory drugs (NSAIDs).
+NSAIDs:
+As first-line treatment, NSAIDs are used to reduce inflammation and alleviate chest pain. Ibuprofen or high-dose aspirin may be employed.
+Corticosteroids:
+In cases where NSAID treatment is contraindicated or ineffective, corticosteroids such as prednisolone may be considered. It should be noted that their use is generally reserved due to potential side effects.
+Colchicine:
+Colchicine can be added to the therapeutic regimen for patients who do not respond adequately to NSAIDs or in those with recurrent episodes. This medication helps prevent recurrence of pericarditis.
+In addition to medical therapy, it is important to consider anticoagulation in these patients. Dressler's syndrome can increase the risk of thromboembolic events, particularly in post-
+myocardial infarction
+patients.
+Anticoagulation:
+Warfarin or direct oral anticoagulants (DOACs) may be used for prophylaxis against thromboembolic events. However, caution must be exercised when using anticoagulants alongside NSAIDs due to an increased risk of gastrointestinal bleeding.
+In refractory cases where medical management fails or complications arise such as cardiac tamponade or constrictive pericarditis, surgical intervention might become necessary.
+Surgical Intervention:
+Pericardiectomy may be required in severe cases resistant to medical therapy. This procedure involves the surgical removal of a part or the entire pericardium.
+Improve
+Complications
+The complications of Dressler's syndrome can be severe and life-threatening, hence warranting prompt diagnosis and management. These complications can be categorised into cardiac and non-cardiac complications.
+Cardiac Complications:
+Pericardial effusion:
+This is the accumulation of excess fluid in the pericardial cavity which may lead to cardiac tamponade, a situation that requires immediate intervention.
+Constrictive pericarditis:
+Chronic inflammation can cause the pericardium to become thickened and calcified, leading to impaired diastolic filling and subsequently heart failure.
+Non-Cardiac Complications:
+Pleural effusion:
+Inflammation can extend to the pleura causing fluid accumulation in the pleural space potentially leading to breathlessness and hypoxia.
+Pulmonary embolism:
+The hypercoagulable state associated with systemic inflammation increases the risk of thromboembolic events such as pulmonary embolism.
+Improve
+Cardiology
+Dressler's syndrome

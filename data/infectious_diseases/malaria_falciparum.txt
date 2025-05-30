@@ -1,0 +1,176 @@
+Malaria (Falciparum)
+Malaria (Falciparum)
+Malaria
+(Falciparum) is a life-threatening parasitic infection caused by the
+Plasmodium falciparum
+species, transmitted via the
+Anopheles
+mosquito vector. It represents the most severe form of malaria, accounting for significant morbidity and mortality worldwide, particularly in sub-Saharan Africa.
+The pathogenesis involves erythrocyte invasion by merozoites, leading to intraerythrocytic replication and subsequent haemolysis. This process results in clinical manifestations such as
+fever
+, chills,
+headache
+,
+myalgia
+, and
+malaise
+. Severe complications include cerebral malaria, acute kidney injury (AKI), severe
+anaemia
+, respiratory distress due to pulmonary oedema or acute respiratory distress syndrome (ARDS), hypoglycemia, metabolic acidosis, and disseminated intravascular coagulation (DIC).
+Diagnosis relies on microscopic examination of Giemsa-stained thick and thin blood smears to detect intraerythrocytic parasites. Rapid diagnostic tests (RDTs) detecting P. falciparum-specific antigens are also available but may have limited sensitivity.
+Management entails prompt initiation of antimalarial therapy with artemisinin-based combination therapies (ACTs), such as artemether-lumefantrine or artesunate-amodiaquine. In severe cases or treatment failure with oral ACTs, parenteral artesunate is recommended. Adjunctive measures encompass supportive care including fluid management, antipyretics, analgesics, and transfusions when indicated.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 2.10 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 1.5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The protection from
+malaria
+that sickle-cell trait offers is well documented. Other protective factors include
+G6PD deficiency
+HLA-B53
+absence of Duffy antigens
+Improve
+Pathophysiology
+Key points
+following inoculation parasites (termed sporozoites) pass to the liver
+in the liver they divide asexually over around 10 days, maturing into schizonts, following which they emerge from the liver (as merozoites) and infect red blood cells, appearing as tiny rings
+as the parasites mature the infected red blood cells are sequestered by various tissues of the body
+Plasmodium
+vivax
+and
+Plasmodium
+ovale
+(but not
+Plasmodium
+falciparum
+) lay down hypnozoites in the liver
+these dormant forms are not affected by conventional antimalarial drugs and can hence reactivate after months or years
+An illustration of the life cycle of the
+malaria
+parasite. Credit: NIAID
+Although there is no hypnozoite stage in Falciparum, resurgences may occur due to asexual parasites resistant to quinine. Falciparum may be resistant to pyrimethamine + sulfadoxine (Fansidar) therefore doxycycline is often given
+Improve
+Clinical features
+The incubation period for
+P. falciparum
+malaria
+typically ranges from 7 to 30 days but may be prolonged in individuals with partial immunity or those taking antimalarial prophylaxis. The onset of symptoms can be abrupt or gradual and often presents as an undifferentiated febrile illness.
+Fever
+:
+High-grade fever with chills and rigors is a cardinal feature of
+P. falciparum
+infection. The fever pattern may initially be irregular but can evolve into a more regular periodicity every 48 hours as parasitemia increases.
+Headache
+:
+A prominent frontal headache is frequently reported by patients suffering from
+P. falciparum
+malaria.
+Gastrointestinal symptoms:
+Anorexia
+, nausea, vomiting, abdominal pain, and diarrhoea are common gastrointestinal manifestations that may contribute to dehydration and electrolyte imbalances.
+Fatigue
+and
+myalgia
+:
+Generalized weakness and muscle pain are frequent complaints associated with
+P. falciparum
+infection.
+Splenomegaly
+and
+hepatomegaly
+:
+Enlargement of the spleen (splenomegaly) is almost universally present in acute malaria infections, while hepatomegaly may also occur due to hepatic dysfunction or congestion from hemolysis.
+P. falciparum
+malaria can progress rapidly to severe disease and death if not promptly diagnosed and treated. The following complications are characteristic of severe
+P. falciparum
+infection:
+Cerebral malaria:
+Characterized by altered consciousness, ranging from
+confusion
+to deep coma, seizures, and neurological deficits. This is a medical emergency that requires urgent intervention.
+Severe
+anaemia
+:
+Haemolysis, dyserythropoiesis, and splenic sequestration contribute to the development of severe anaemia in
+P. falciparum
+malaria.
+Acute kidney injury (AKI):
+This may result from acute tubular necrosis due to hemoglobinuria, hypovolemia, or sepsis.
+Acute respiratory distress syndrome (ARDS):
+Non-cardiogenic pulmonary oedema can occur as a complication of
+P. falciparum
+infection, leading to ARDS and respiratory failure.
+Hypoglycemia:
+Both increased glucose consumption by parasites and impaired hepatic gluconeogenesis can lead to life-threatening hypoglycemia in patients with
+P. falciparum
+malaria.
+Coagulopathy:
+Disseminated intravascular coagulation (DIC) may develop secondary to endothelial activation by parasitized erythrocytes or as a result of systemic inflammatory response syndrome (SIRS).
+Multi-organ dysfunction syndrome (MODS):
+Severe
+P. falciparum
+infection can cause multiple organ systems to fail, including cardiovascular collapse and shock.
+Improve
+Investigations
+The gold standard for diagnosis of
+malaria
+remains the blood film. Rapid diagnostic tests (detecting plasmodial histidine-rich protein 2) are currently being trialled and have shown sensitivities from 77-99% and specificities from 83-98% for falciparum malaria
+Blood film - if doubt about diagnosis should be repeated
+thick: more sensitive
+thin: determine species
+Other tests
+thrombocythaemia is characteristic
+normochromic normocytic
+anaemia
+normal white cell count
+reticulocytosis
+Improve
+Management
+Uncomplicated falciparum
+malaria
+strains resistant to chloroquine are prevalent in certain areas of Asia and Africa
+the 2010 WHO guidelines recommend artemisinin-based combination therapies (ACTs) as first-line therapy
+examples include artemether plus lumefantrine, artesunate plus amodiaquine, artesunate plus mefloquine, artesunate plus sulfadoxine-pyrimethamine, dihydroartemisinin plus piperaquine
+Feature of severe malaria
+schizonts on a blood film
+parasitaemia > 2%
+hypoglycaemia
+acidosis
+temperature > 39 Â°C
+severe
+anaemia
+complications as below
+Severe falciparum malaria
+a parasite counts of more than 2% will usually need parenteral treatment irrespective of clinical state
+intravenous artesunate is now recommended by WHO in preference to intravenous quinine
+if parasite count > 10% then exchange transfusion should be considered
+shock may indicate coexistent bacterial septicaemia - malaria rarely causes haemodynamic collapse
+Improve
+Complications
+Complications
+cerebral
+malaria
+: seizures, coma
+acute renal failure: blackwater
+fever
+, secondary to intravascular haemolysis, mechanism unknown
+acute respiratory distress syndrome (ARDS)
+hypoglycaemia
+disseminated intravascular coagulation (DIC)
+Improve
+Malaria
+Malaria (Falciparum)

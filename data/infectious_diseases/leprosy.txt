@@ -1,0 +1,113 @@
+Leprosy
+Leprosy
+Leprosy, also known as Hansen's disease, is a chronic infectious disease caused by the bacterium
+Mycobacterium leprae
+. The disease primarily affects the skin, peripheral nerves, upper respiratory tract, and eyes. Clinical manifestations range from hypopigmented or erythematous macules to severe nodular lesions. Peripheral neuropathy often leads to sensory loss and muscle weakness.
+Diagnosis is confirmed through clinical examination supported by skin smears or biopsies demonstrating acid-fast bacilli. Leprosy is classified into paucibacillary (PB) and multibacillary (MB) forms based on bacterial load. PB leprosy involves five or fewer skin lesions with no bacilli in skin smears, whereas MB leprosy presents with more than five lesions and positive smears.
+Multidrug therapy (MDT), typically comprising dapsone, rifampicin, and clofazimine for MB cases, remains the cornerstone of treatment. MDT aims to eliminate infection and prevent disability. Regular monitoring for drug resistance and adverse effects is essential.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 0.02 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Leprosy, also known as Hansen's disease, is a chronic infectious disorder primarily caused by the bacillus
+Mycobacterium leprae
+. The aetiology of leprosy is multifactorial and involves a complex interplay between host genetic factors, environmental conditions, and pathogen characteristics.
+Risk Factors:
+Close Contact:
+Prolonged close contact with individuals harbouring
+Mycobacterium leprae
+is one of the primary risk factors for leprosy. This includes cohabitation or frequent interaction with untreated patients.
+Genetic Susceptibility:
+Certain genetic polymorphisms have been associated with an increased likelihood of developing leprosy. These include variations within genes related to innate and adaptive immunity such as PARK2/PACRG, TNF-α, HLA-DRB1/HLA-DQB1 among others.
+Socioeconomic Status:
+Poor socioeconomic conditions including overcrowding, malnutrition and inadequate healthcare access can increase susceptibility to infection.
+Immunosuppression:
+Individuals with compromised immune systems are at greater risk. This can be due to HIV/AIDS, use of immunosuppressive drugs or other underlying health conditions.
+Causative Agent:
+The primary causative agent in the aetiology of leprosy is
+Mycobacterium leprae
+, an acid-fast, rod-shaped bacterium. It has an extremely slow replication rate and prefers cooler areas of the body such as skin and peripheral nerves where it primarily resides. Another species,
+Mycobacterium lepromatosis
+, has more recently been identified as causing diffuse lepromatous leprosy, particularly in Mexico and the Caribbean.
+Transmission:
+The exact mode of transmission remains uncertain. However, respiratory droplets from untreated, infected individuals are believed to be the primary route. Other potential routes include direct skin contact with lesions or through breaks in the skin, and possibly through insects acting as mechanical vectors.
+Despite its infectious nature, it is important to note that leprosy is not highly contagious. A majority of people exposed to
+Mycobacterium leprae
+do not develop the disease due to innate resistance, which may be attributed to genetic factors and/or previous exposure conferring immunity.
+Improve
+Pathophysiology
+The degree of cell mediated immunity determines the type of leprosy a patient will develop.
+Low degree of cell mediated immunity → lepromatous leprosy ('multibacillary')
+extensive skin involvement
+symmetrical nerve involvement
+High degree of cell mediated immunity → tuberculoid leprosy ('paucibacillary')
+limited skin disease
+asymmetric nerve involvement
+Improve
+Clinical features
+Features
+patches of hypopigmented skin typically affecting the buttocks, face, and extensor surfaces of limbs
+sensory loss
+Improve
+Investigations
+First-line investigations for suspected leprosy should be aimed at confirming the diagnosis and assessing the extent of the disease. The following steps outline the primary approaches:
+Skin smears:
+Skin smears from slit-skin smears are a key diagnostic test. Samples should be taken from multiple sites, including earlobes, elbows, and lesions. These samples are then stained using Ziehl-Neelsen staining to detect
+Mycobacterium leprae
+.
+Skin biopsy:
+A skin biopsy is often performed to obtain a definitive diagnosis. The biopsy specimen should be taken from an active edge of a lesion and sent for histopathological examination. Typical findings include granulomas with or without acid-fast bacilli (AFB), depending on the type of leprosy.
+If initial investigations are inconclusive or further assessment is required, consider the following additional investigations:
+Polymerase chain reaction (PCR):
+PCR testing can detect
+M. leprae
+DNA in tissue samples and may be particularly useful in paucibacillary cases where AFB are not readily visible on smear or biopsy.
+Nerve conduction studies:
+These studies can help assess nerve function in patients presenting with neurological symptoms suggestive of leprosy-related neuropathy.
+Lepromin test:
+Although not diagnostic, this intradermal test can provide information about the patient's immune response to
+M. leprae
+. It is generally used more for epidemiological purposes than for individual diagnosis.
+The diagnosis of leprosy is primarily clinical but supported by these investigations to confirm the presence of
+M. leprae
+, assess bacterial load, and determine the extent of peripheral nerve involvement.
+Improve
+Differential diagnosis
+The differential diagnosis of leprosy primarily involves three conditions: cutaneous sarcoidosis, lupus vulgaris and granuloma annulare. These conditions can present with similar clinical manifestations as leprosy, making the diagnostic process challenging.
+Cutaneous Sarcoidosis
+Unlike leprosy which typically presents with hypopigmented or erythematous macules, cutaneous sarcoidosis usually manifests as red-brown papules or plaques which are often symmetrically distributed over the body.
+Leprosy is characterised by loss of sensation in the affected areas whereas cutaneous sarcoidosis does not typically result in sensory loss.
+While both conditions may cause nerve enlargement, in leprosy this tends to be asymmetric and focal while in sarcoidosis it is usually symmetric and more diffuse.
+The presence of systemic symptoms such as fever, fatigue and weight loss could suggest sarcoidosis rather than leprosy.
+Lupus Vulgaris
+This form of cutaneous tuberculosis can mimic leprosy due to its chronic course and skin lesions. However, lupus vulgaris tends to present with reddish-brown plaques that have a characteristic apple jelly nodules on diascopy, unlike the patches seen in leprosy.
+Sensory loss is not a feature of lupus vulgaris as it is in leprosy.
+A history of contact with an individual infected with
+Mycobacterium tuberculosis
+should raise suspicion for lupus vulgaris rather than leprosy.
+Granuloma Annulare
+This condition is characterised by ring-shaped lesions that can be confused with the annular lesions seen in lepromatous leprosy. However, granuloma annulare lesions are typically flesh-coloured or erythematous and do not exhibit the sensory loss associated with leprosy.
+Granuloma annulare lesions are usually localised to the extremities and do not show the nerve involvement seen in leprosy.
+Improve
+Management
+Management
+WHO-recommended triple therapy: rifampicin, dapsone and clofazimine
+Improve
+References
+DermNet NZ - Leprosy
+Infectious diseases
+Leprosy

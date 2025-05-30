@@ -1,0 +1,52 @@
+Liver cirrhosis
+Liver cirrhosis
+Liver cirrhosis
+is a late stage of fibrosis of the liver, characterised by replacement of normal liver tissue with non-functioning scar tissue. Aetiology includes chronic alcohol abuse, viral
+hepatitis B
+and C, and fatty liver disease related to obesity and diabetes. Pathophysiology involves disruption of normal liver architecture leading to impaired blood flow, reduced metabolic function and eventually hepatic failure.
+Clinically, patients may present with jaundice,
+ascites
+, variceal haemorrhage or hepatic encephalopathy. Diagnosis is typically confirmed via imaging studies such as ultrasound or CT scan and liver biopsy. Management focuses on treating underlying causes, preventing complications and managing symptoms. Advanced cases may require consideration for liver transplantation.
+Prognosis varies widely depending on stage at diagnosis and effectiveness of management strategies. The Model for End-Stage Liver Disease (MELD) score is often used to predict survival in patients with end-stage liver disease.
+Last updated: 1
+st
+January 2025
+Pathophysiology
+Fibrosis and Architectural Distortion
+Cirrhosis arises from chronic liver injury, resulting in progressive fibrosis due to activation of hepatic stellate cells.
+These cells transform into myofibroblast-like cells, producing excess collagen and extracellular matrix proteins.
+The accumulation of fibrous tissue disrupts normal lobular architecture, forming regenerative nodules surrounded by bands of scar tissue.
+This architectural distortion impairs sinusoidal blood flow and leads to both portal hypertension and diminished hepatocellular function.
+Portal Hypertension
+Increased resistance to portal venous inflow is a direct consequence of fibrotic remodelling and nodule formation within the liver parenchyma.
+Portal hypertension results in the development of portosystemic collateral vessels (e.g., oesophageal varices), splenomegaly, and
+ascites
+.
+Splanchnic vasodilatation further exacerbates portal pressure and contributes to circulatory dysfunction.
+Impaired Hepatic Function
+Loss of functional hepatocyte mass leads to reduced synthetic capacity (e.g., hypoalbuminaemia, coagulopathy) and impaired metabolic processes (e.g., detoxification of ammonia).
+Disruption of bile excretion may cause cholestasis and contribute to jaundice.
+Impaired immune surveillance increases susceptibility to infections such as spontaneous bacterial peritonitis.
+Improve
+Diagnosis
+- Traditionally a liver biopsy was used. This procedure is however associated with adverse effects such as bleeding and pain
+Other techniques such as transient elastography and acoustic radiation force impulse imaging are increasingly used and were recommended by NICE in their 2016 guidelines
+For patients with NAFLD, NICE recommend using the enhanced liver fibrosis score to screen for patients who need further testing
+What is transient elastography?
+Brand name 'Fibroscan'
+Uses a 50-MHz wave is passed into the liver from a small transducer on the end of an ultrasound probe
+Measures the 'stiffness' of the liver which is a proxy for fibrosis
+In terms of screening for cirrhosis NICE made a specific recommendation, suggesting to offer transient elastography to:
+People with
+hepatitis C
+virus infection
+Men who drink over 50 units of alcohol per week and women who drink over 35 units of alcohol per week and have done so for several months
+People diagnosed with alcohol-related liver disease
+Further investigations
+NICE recommend doing an upper endoscopy to check for varices in patient's with a new diagnosis of cirrhosis
+Liver ultrasound every 6 months (+/- alpha-feto protein) to check for hepatocellular cancer
+Improve
+References
+NICE - 2016 Liver cirrhosis guidelines
+Gastroenterology
+Liver cirrhosis

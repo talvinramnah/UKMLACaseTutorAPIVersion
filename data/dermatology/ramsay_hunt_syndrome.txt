@@ -1,0 +1,142 @@
+Ramsay Hunt syndrome
+Ramsay Hunt syndrome
+Ramsay Hunt syndrome (herpes zoster oticus) is caused by the reactivation of the varicella zoster virus in the geniculate ganglion of the seventh cranial nerve.
+Last updated: 28
+th
+June 2024
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Bell's palsy
+7.67
+Ramsay Hunt syndrome
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Ramsay Hunt syndrome (RHS) is a neurologic condition caused by reactivation of the latent
+Varicella zoster
+virus (VZV), which also causes chickenpox and
+shingles
+. The syndrome primarily affects the facial nerve, often leading to facial palsy and associated symptoms.
+Risk Factors
+Age:
+RHS is more common in adults than in children, with the risk increasing with age. It is particularly prevalent among individuals aged 60 years and above.
+Past exposure to VZV:
+Anyone who has had chickenpox can develop RHS. After an individual recovers from chickenpox, VZV remains dormant in their sensory nerve ganglia. Reactivation of this latent virus leads to RHS.
+Weakened immune system:
+People with compromised immune systems are at higher risk. This includes individuals living with HIV/AIDS, those undergoing cancer treatments such as chemotherapy or radiation therapy, transplant recipients taking immunosuppressive drugs, and those with autoimmune disorders.
+Stress or trauma:
+Physical or emotional stressors can trigger a VZV reactivation leading to RHS.
+The exact mechanisms that lead to VZV reactivation are not fully understood but may involve decreased cell-mediated immunity due to ageing or immunosuppression.
+In rare cases, RHS can occur without previous exposure to VZV. This suggests that other factors may contribute to its development; however, these are not yet well-defined.
+The presence of one or more risk factors does not guarantee that an individual will develop RHS; it merely increases the probability. Conversely, it is possible for an individual with no known risk factors to develop the syndrome.
+Improve
+Pathophysiology
+Ramsay Hunt syndrome (RHS), also known as herpes zoster oticus, is primarily caused by the reactivation of varicella-zoster virus (VZV) within the geniculate ganglion. This is the same virus responsible for chickenpox in childhood and it remains dormant in nerve cells after initial infection.
+Reactivation of VZV
+The exact mechanism behind the reactivation of VZV remains unknown, but it's generally agreed that a decline in cell-mediated immunity to the virus plays a significant role. This can occur due to ageing, stress or immunosuppressive conditions such as HIV/AIDS or cancer.
+Spread of VZV
+Upon reactivation, VZV travels down sensory nerves and causes inflammation and damage. In RHS, this typically involves the facial nerve (cranial nerve VII), which contains sensory fibres from the geniculate ganglion supplying taste to the anterior two-thirds of the tongue and parasympathetic fibres to lacrimal, submandibular and sublingual glands.
+Clinical Manifestations
+The inflammation and damage caused by VZV leads to characteristic clinical features of RHS. Facial palsy results from inflammation of facial nerve fibres causing motor dysfunction. Vesicular rash commonly seen on external ear (herpes zoster oticus) or oral cavity arises due to cutaneous distribution along sensory branches of facial nerve.
+Taste disturbance or loss (dysgeusia or ageusia) occurs due to involvement of chorda tympani branch supplying taste sensation from anterior two-thirds of tongue. Additionally, reduced salivation and lacrimation are observed owing to compromised parasympathetic supply to salivary and lacrimal glands.
+Patients may also present with
+otalgia
+(
+ear pain
+) and
+vertigo
+, which are attributed to sensory branch involvement of the facial nerve supplying external ear and possible spread of virus along vestibulocochlear nerve (cranial nerve VIII).
+Immunological Response
+The body mounts an immune response against VZV, leading to further inflammation and damage. This immune-mediated response is believed to contribute significantly to the clinical manifestations of RHS, particularly facial palsy. Corticosteroids are often used in treatment to reduce this inflammatory response.
+Improve
+Clinical features
+A typical case of Ramsay Hunt Syndrome (RHS) begins with the abrupt onset of severe
+otalgia
+(
+ear pain
+), followed by the appearance of a vesicular rash in the external auditory canal, auricle, or mucous membrane of the oropharynx. This condition is caused by reactivation of the varicella-zoster virus (VZV) in the geniculate ganglion of the facial nerve. Patients often present with ipsilateral facial paralysis, which is sudden in onset and can be complete or partial. Accompanying symptoms may include altered taste perception on the anterior two-thirds of the tongue, decreased lacrimation, hyperacusis, and vestibular disturbances such as
+vertigo
+and
+tinnitus
+.
+Detailed Features
+Facial Nerve Palsy
+:
+The hallmark of RHS is the peripheral facial nerve paralysis. This paralysis is typically unilateral and affects all muscles of facial expression on the affected side, including the forehead, which helps distinguish it from central causes of facial palsy. Patients may present with an inability to close the eye, drooping of the mouth, loss of the nasolabial fold, and drooling.
+Vesicular Rash
+: The vesicular rash is another critical feature and typically involves the ear (zoster oticus), but it may also appear on the hard palate, anterior two-thirds of the tongue, or the external auditory canal. The rash precedes or coincides with the onset of facial palsy and consists of grouped vesicles on an erythematous base.
+Otalgia:
+Severe ear pain often precedes the rash and facial paralysis. The pain can be persistent and debilitating, significantly impacting the patient's quality of life.
+Auditory and Vestibular Symptoms:
+Patients frequently experience
+hearing loss
+, tinnitus, and vertigo due to the involvement of the vestibulocochlear nerve (cranial nerve VIII). Hearing loss can be sensorineural, varying in severity, and may be temporary or permanent.
+Taste Disturbances:
+Dysgeusia or ageusia can occur, particularly involving the anterior two-thirds of the tongue, due to the involvement of the chorda tympani branch of the facial nerve. Patients may report a metallic or bitter taste or a complete loss of taste sensation.
+Dry Eye and Keratitis:
+Due to impaired lacrimation and the inability to close the eye completely, patients are at risk for exposure keratitis and dry eye syndrome. The affected eye may become red, painful, and sensitive to light.
+Other Cranial Neuropathies:
+Although rare, Ramsay Hunt Syndrome can involve other cranial nerves. This can result in symptoms such as hoarseness or dysphagia if the glossopharyngeal (cranial nerve IX) or vagus nerve (cranial nerve X) are involved.
+Systemic Symptoms:
+Fever, malaise, and lymphadenopathy can accompany the more localized symptoms, reflecting the systemic reactivation of VZV.
+Neuralgia:
+Postherpetic neuralgia can develop in the affected dermatomes, characterized by persistent, often severe pain that persists after the resolution of the acute rash.
+Improve
+Differential diagnosis
+The differential diagnosis of Ramsay Hunt syndrome (RHS) is essential to ensure accurate and effective treatment. Three common conditions often considered in the differential diagnosis include
+Bell's palsy
+, herpes simplex oticus, and acute peripheral facial palsy.
+Bell's Palsy
+The most common condition that can be confused with RHS is Bell's palsy. Both conditions present with sudden onset unilateral facial paralysis. However, unlike RHS, Bell's palsy does not typically exhibit vesicular eruptions or
+ear pain
+. Furthermore, patients with Bell's palsy usually have a more rapid onset of symptoms within 48 hours while RHS has a more gradual onset over several days.
+Herpes Simplex Oticus
+Herpes simplex oticus caused by
+Herpes simplex virus
+(HSV) is another condition to consider in the differential diagnosis. Similar to RHS, it presents with ear pain and facial paralysis. However, the key differentiating factor lies in the absence of vesicular eruptions within the auditory canal or on the auricle in HSV infection. Additionally, HSV oticus may present with other systemic signs such as fever or malaise which are less common in RHS.
+Acute Peripheral Facial Palsy
+This condition presents similarly to RHS with sudden onset unilateral
+facial weakness
+or paralysis but lacks the characteristic herpetic rash associated with RHS. Acute peripheral facial palsy also tends not to have associated ipsilateral ear pain which is a typical feature of RHS.
+Improve
+Management
+Management
+oral aciclovir and corticosteroids are usually given
+Improve
+Complications
+The complications associated with Ramsay Hunt syndrome (RHS) are diverse and may range from mild to severe. These can be broadly categorised into neurological, ophthalmological, audiological, and systemic complications.
+Postherpetic Neuralgia:
+This is one of the most common and debilitating complications of RHS. It manifests as persistent pain in the area previously affected by the herpes zoster rash long after the acute episode has resolved.
+Facial Nerve Palsy
+:
+RHS often leads to facial nerve palsy which can result in incomplete recovery and permanent sequelae such as synkinesis, crocodile tears or hemifacial spasm.
+Hearing Loss
+:
+Sensorineural hearing loss is a frequent complication of RHS, occurring in up to two-thirds of patients. It may be temporary or permanent and ranges from mild to profound.
+Vestibular Dysfunction:
+The involvement of the vestibulocochlear nerve can lead to
+vertigo
+, nystagmus and balance disturbances which may persist even after other symptoms have resolved.
+Ocular Complications:
+If the ophthalmic division of the trigeminal nerve is involved, complications such as keratitis, uveitis, secondary glaucoma and optic neuritis can occur. These may lead to visual impairment if not promptly managed.
+Cerebrovascular Events:
+Patients with RHS are at increased risk for cerebrovascular events like stroke due to
+Varicella zoster
+-induced vasculopathy.
+Improve
+Shingles
+Ramsay Hunt syndrome

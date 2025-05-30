@@ -1,0 +1,338 @@
+Hodgkin's lymphoma
+Hodgkin's lymphoma
+Hodgkin's
+lymphoma
+is a rare haematological malignancy (accounts for<1% of all cancers in the UK) caused by the uncontrolled proliferation of B-lymphocytes. These cells travel through the lymphatic system and build up in the lymph nodes causing lymphadenopathy. They can also spread to other organs such as the spleen or bone marrow. Hodgkin's lymphoma is differentiated from
+non-Hodgkin's lymphoma
+based on its histological appearance of huge multinucleated lymphocytes called Reed-Sternberg cells. Chemotherapy +/- radiotherapy are the main treatments of Hodgkin's lymphoma, and overall patients have a good prognosis with a 5-year survival rate of 80-90% in the early stages and 40-80% in the advanced stages.
+Last updated: 24
+th
+December 2023
+Epidemiology
+Incidence: 3.30 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 1.3:1
+Condition
+Relative
+incidence
+Non-Hodgkin's
+lymphoma
+6.36
+Hodgkin's lymphoma
+1
+Castleman's disease
+0.45
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact aetiology of Hodgkin's
+lymphoma
+is still being investigated, but it is thought to be multifactorial:
+Epstein-Barr virus (EBV) infection (40%)
+: EBV infection (infectious mononucleosis) often precedes Hodgkin's lymphoma by a median time of 4 years. It is thought that a history of EBV infection greatly increases the risk of Hodgkin's lymphoma.
+Immunosuppression
+Organ transplantation
+Immunosuppressant therapies
+Patients with HIV
+Autoimmune conditions
+e.g. rheumatoid arthritis, systemic lupus erythematosus and sarcoidosis
+Familial (5%)
+: same-sex siblings of patients with Hodgkin's lymphoma are 10 times more likely to develop the condition
+Improve
+Pathophysiology
+Reed-Sternberg (RS) cells are a distinctive histological feature in Hodgkin's
+lymphoma
+. They are post-germinal B lymphocytes that have undergone transformations and are intended for apoptosis. However, several mechanisms are thought to play a role in escaping apoptosis which then leads to unchecked proliferation:
+Epstein-Barr virus (EBV)-positive Hodgkin's lymphoma takes up around 40% of all Hodgkin's lymphoma. Several EBV-induced proteins e.g. Epstein-Barr nuclear antigen 1 (EBNA1), latent membrane protein 1 (LMP1), and LMP2 are found in EBV-positive RS cells.
+EBV infects naive B lymphocytes and adapts to their normal B-cell signalling pathway â→ activated naive B-cells undergo germinal centre reaction â→ EBV changes between various latency programmes during this reaction (from latency programmes IIIâ→IIâ→Iâ→0 with different protein expressions) â→ ensures the presence of EBV DNA in memory B cells without being detected by cytotoxic T cells. The genes expressed in RS cells during latency II also promote proliferation and survival of the cells.
+EBNA1 protein is responsible for episome replication and attachment of viral episome to mitotic chromosomes â→ presence of EBV DNA in RS cells.
+LMP1 protein increases the turnover of IκBα and activates nuclear factor-κB (NF-κB) â→ up-regulates >200 genes in the nucleus, including apoptotic regulators and intracellular signalling â→ promotes the transformation of RS cells.
+An abundant amount of inflammatory infiltrates is found in Hodgkin's lymphoma, often occupying 99% of the tumour mass. The inflammatory infiltrates consist of various cytokines and chemokines â→ inhibit T-helper type 1 (Th1) response and promote activation of Th2 phenotypes â→ immunosuppression and proliferation of B lymphocytes by binding to interleukin-13 and its receptor.
+Human leukocyte antigen (HLA) class 1 inhibits the antigen presentation to CD8+ cytotoxic T-lymphocytes. In EBV-negative cases, HLA class 1 is down-regulated â→ escaping cytotoxicity. Whereas in patients with EBV-positive Hodgkin's lymphoma, rarer haplotypes of HLA class 1 are often up-regulated â→ inhibit the normal anti-EBV immune response.
+Improve
+Classification
+There are two types of Hodgkin's
+lymphoma
+:
+Classical Hodgkin's lymphoma (95%)
+Nodular lymphocyte-predominant Hodgkin's lymphoma (5%)
+More commonly affects males (75%)
+Not associated with EBV
+Absence of Reed-Sternberg (RS) cells, and is characterised by LP ('popcorn') cells
+Presents with peripheral adenopathy, and is the only type of Hodgkin's lymphoma that affects the mesenteric lymph nodes
+In classical Hodgkin's lymphoma, there are four subtypes:
+Nodular sclerosing
+Mixed cellularity
+Lymphocyte-rich
+Lymphocyte-depleted
+Sclerosing fibrotic tissue surrounding lacunar variants of RS cells in a nodular pattern
+Multiple RS cells in a mixed inflammatory background with lymphocytes, plasma cells, eosinophils and histiocytes
+RS cells are found mainly in the marginal zone, with a background of numerous lymphocytes and a lack of neutrophils and eosinophils
+Some of the RS cells are of atypical features, with a background of abundant histiocytes and few lymphocytes
+70%, good prognosis
+20-25%, worse prognosis
+5%, best prognosis
+<1%, worst prognosis
+Mediastinal lymphadenopathy in 80%, and bulky nodes in 50%
+Peripheral adenopathy and spleen involvement are common
+Peripheral adenopathy. Bulky nodes and mediastinal involvements are uncommon
+Retroperitoneal and abdominal lymphadenopathy
+10-40% associated with EBV
+75% associated with EBV
+Affects the older age group
+75% associated with EBV. This subtype is also more common in HIV patients
+Improve
+Clinical features
+Hodgkin's
+lymphoma
+can affect patients of any age, but it has a bimodal distribution in age groups: 20-30 years and >50 years. 30% of the patients diagnosed with Hodgkin's lymphoma are between the 20-34 age group.
+Patients with Hodgkin's lymphoma commonly present with
+lymphadenopathy
+which is:
+Painless
+Asymmetrical
+Cervical nodes or mediastinal involvement in 60%
+If mediastinal lymph nodes are involved, this can compress the airway and lead to
+dyspnoea
+,
+chest pain
+, and dry cough. It may also cause superior vena cava obstruction.
+Can also occur in the spleen (27%), and the axillary (14%), abdominal (11-14%), hilar (12%) or inguinal-femoral (1-3%) lymph nodes
+Alcohol-induced pain at lymph node regions is a non-specific symptom as it can also occur in patients with alcohol intolerance and carcinoid syndrome. There's a lack of research regarding alcohol-induced pain in Hodgkin's lymphoma, but a paper published in 1983 estimated the incidence to be 1.5-5%.
+B symptoms
+are presented in up to 30% of patients:
+Fever
+>38ÂºC
+Night sweats
+Unintentional
+weight loss
+of >10% over 6 months
+Other clinical features include
+Pel-Ebstein fever - cyclical fever followed by periods of being afebrile for 1-2 weeks (rare)
+Abdominal pain (if abdominal lymphadenopathy is involved)
+Pruritus
+(30%)
+Clinical hepato/
+splenomegaly
+is rare (although liver and spleen involvement determined by laparoscopy/laparotomy occurs in up to 30% of the patients)
+Bone marrow involvement (5-8%)
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for Hodgkin's
+lymphoma
+suggest the following:
+Hodgkin's lymphoma in adults
+Consider a suspected cancer pathway referral (for an appointment within 2 weeks) for Hodgkin's lymphoma in presenting with unexplained lymphadenopathy. When considering referral, take into account any associated symptoms, particularly
+fever
+,
+night sweats
+,
+shortness of breath
+,
+pruritus
+,
+weight loss
+or alcohol-induced lymph node pain.
+Hodgkin's lymphoma in children and young people
+Consider a very urgent referral (for an appointment within 48 hours) for specialist assessment for Hodgkin's lymphoma in children and young people presenting with unexplained lymphadenopathy. When considering referral, take into account any associated symptoms, particularly fever, night sweats, shortness of breath, pruritus or weight loss.
+Improve
+Investigations
+The investigations suggested below form part of the workup for patients with suspected Hodgkin's
+lymphoma
+:
+Blood tests
+Full blood count (FBC): Patients with Hodgkin's lymphoma are often anaemic, lymphopenic and thrombocytopenic, which can be associated with bone marrow involvement. Evidence of neutrophilia and
+anaemia
+indicate a poorer prognosis.
+There is inadequate research on the sensitivity and specificity of FBC in Hodgkin's lymphoma. However studies have shown that an abnormally low absolute lymphocyte count at the point of diagnosis is a negative prognostic factor in patients with Hodgkin's lymphoma.
+Baseline renal and liver function
+Erythrocyte sedimentation rate (ESR): Non-specific but tends to be elevated and indicates a poorer prognosis when the ESR level is >50 mm/hour in patients without B symptoms or >30 mm/hour in those with B symptoms.
+Lactate dehydrogenase (LDH): correlates with disease activity
+Viral screen e.g. Hepatitis B, C and HIV
+Lymph node excision biopsy
+is the
+definitive diagnosis
+for Hodgkin's lymphoma.
+It reveals the characteristic Reed-Sternberg cells (owl's eye appearance), or other distinctive Hodgkin's cells such as lacunar cells or popcorn cells.
+Core biopsy and fine-needle aspiration can rarely confirm the diagnosis due to inadequate Hodgkin's cells within the specimens
+PET or PET-CT scans
+The BMJ Best Practice (Oct 2019) recommends PET scans (93% sensitivity, 87% specificity) for both staging and assessing treatment response post-chemotherapy.
+Fluorodeoxyglucose (FDG)-PET scans can also be used for detecting bone marrow involvement.
+Contrast CT chest, abdominal and pelvis, chest x-rays and gallium scans
+can also help with staging
+Bone marrow biopsy
+can be considered in patients with B symptoms or advanced (stage III-IV) Hodgkin's lymphoma
+Improve
+Differential diagnosis
+Possible differential diagnoses:
+Non-Hodgkin's
+lymphoma
+Similarities:
+cervical lymphadenopathy
+, B symptoms
+Differences:
+Non-Hodgkin's lymphoma
+Hodgkin's lymphoma
+Median age 60s
+Bimodal age group - 15-24 and >60
+6th commonest type of cancers in adults and accounts for 4% of all cancers
+Much rarer, <1% of all cancers diagnosed
+Can arise in T or B-lymphocytes or natural killer cells
+Presence of
+Reed-Sternberg cells
+Risk factors include patients with autoimmune disorders, HIV or those taking immunosuppressants post organ transplant
+Affects younger patients, those with a history of Epstein-Barr virus infection or family history of Hodgkin's lymphoma
+Lymphadenopathy occurs anywhere in the body but sometimes also in the groin and abdomen
+Lymphadenopathy usually limited to the upper body (neck, chest or axilla)
+Lymphadenopathy spreads discontinuously
+Spreads continuously from one group to the other
+Extra-nodal involvement such as skin (e.g. rash) or the central nervous system is more common
+Other carcinomas
+Similarities: head and neck cancers can present with cervical lymphadenopathy; breast cancers with
+axillary lymphadenopathy
+; anal
+cancer
+with
+inguinal lymphadenopathy
+Differences: present with other clinical features e.g. pain at specific sites or abnormal discharge
+Infectious mononucleosis (Epstein-Barr virus)
+Similarities: cervical or axillary lymphadenopathy
+Differences: tender lymphadenopathy, sore throat
+Reactive lymphadenopathy resulted from other infections
+Similarities: lymphadenopathy at similar sites
+Differences: often self-limiting and without B-symptoms
+Improve
+Staging
+The Lugano classification system is used to stage lymphomas. It was developed to update and replace the older Ann Arbor staging system, with the aim of incorporating modern imaging techniques, particularly positron emission tomography (PET) scans, into the staging process.
+Stage
+Stage I: Involvement of a single lymph node region (I) or a single extralymphatic organ or site (IE).
+Stage II: Involvement of two or more lymph node regions on the same side of the diaphragm (II) or localized involvement of an extralymphatic organ or site and one or more lymph node regions on the same side of the diaphragm (IIE).
+Stage III: Involvement of lymph node regions on both sides of the diaphragm (III), which may also be accompanied by localized involvement of an extralymphatic organ or site (IIIE), involvement of the spleen (IIIS), or both (IIIE+S).
+Stage IV: Diffuse or disseminated involvement of one or more extralymphatic organs, with or without associated lymph node involvement.
+In addition to these stages, the classification includes the following:
+A/B Symptom Designation: The absence of significant symptoms is designated as 'A', while the presence of
+fever
+,
+night sweats
+, or
+weight loss
+is designated as 'B'.
+E: The presence of extranodal disease is denoted by the letter 'E'.
+S: Involvement of the spleen is denoted by the letter 'S'.
+X: Bulky disease (large tumour mass) is denoted by the letter 'X'.
+The Lugano classification also emphasizes the role of PET scans in determining the stage of the disease, particularly in assessing whether the
+lymphoma
+is metabolically active in different parts of the body.
+Improve
+Management
+Chemotherapy alone or in combination with radiotherapy are the main types of treatment for Hodgkin's
+lymphoma
+. This depends on the staging and type of lymphoma.
+Stage I/II classical Hodgkin's lymphoma
+Certain prognostic factors subdivide stage I/ II lymphoma into favourable and unfavourable groups, including the presence of B symptoms, extra-nodal involvement and high erythrocyte sedimentation rate (ESR) levels.
+Chemotherapy followed by radiotherapy
+Main treatment regimen:
+ABVD
+(doxorubicin, bleomycin, vinblastine, dacarbazine)
++ radiotherapy
+BEACOPP
+(bleomycin, etoposide, doxorubicin, cyclophosphamide, vincristine, procarbazine, prednisolone)
+followed by ABVD and radiotherapy
+can sometimes be considered in
+stage I/II unfavourable group
+. However BEACOPP is found to have a higher risk of secondary leukaemia than ABVD.
+Chemotherapy alone
+may be useful in patients with
+non-bulky
+Hodgkin's lymphoma (mediastinal mass ratio <1/3).
+Stage I/ II nodular lymphocyte-predominant Hodgkin's lymphoma
+Involved-field radiotherapy alone
+is the main treatment for this group of patients with excellent clinical benefit.
+Stage III/ IV classical Hodgkin's lymphoma
+Chemotherapy alone
+ABVD or BEACOPP
+A randomized phase 3 trial published on the New England Journal of Medicine in 2017 (updated in 2018) showed that
+brentuximab vedotin with ABD
+is shown to have 5% greater 2-year modified progression-free survival rates than ABVD alone (82.1% vs 77.2%).
+Stanford V chemotherapy
+(doxorubicin, vinblastine, chlormethine, vincristine, bleomycin, etoposide, prednisolone) may be used to minimise the risk of bleomycin pulmonary toxicity.
+Stage III/ IV nodular lymphocyte-predominant Hodgkin's lymphoma
+Regular monitoring
+is adequate in
+asymptomatic
+patients.
+R-CHOP
+(rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone) is administered in
+symptomatic
+patients or those with
+rapid disease progression
+.
+Relapsed or refractory Hodgkin's lymphoma
+Management of relapsed or refractory Hodgkin's lymphoma varies between patients based on certain factors including age, past medical history, disease progression and previous treatments.
+Chemotherapy followed by autologous stem cell transplantation (ASCT)
+may be useful if chemotherapy and radiotherapy aren't successful.
+Immunotherapeutic agents
+can be considered:
+Brentuximab vedotin
+is approved for relapsed and refractory Hodgkin's lymphoma. NICE guidelines stated in 2018 that, for patients with CD30-positive Hodgkin's lymphoma, brentuximab vedotin is only recommended if: they have already had ASCT, or they have already had 2 other treatments and can't undergo ASCT or chemotherapy.
+NICE recommended in 2017 that
+nivolumab
+can be used for treating this group of patients
+after ASCT and brentuximab vedotin treatment
+In 2018 NICE published further guidelines regarding the use of
+pembrolizumab
+in patients with relapsed or refractory Hodgkin's lymphoma: it is recommended in those who have already received brentuximab vedotin and can't undergo ASCT, only if pembrolizumab is taken for less than 2 years if the patient has an ASCT. However, pembrolizumab is not recommended in patients who have received both ASCT and brentuximab vedotin treatments.
+The use of allogeneic transplantation in relapsed patients following ASCT remains limited and debatable.
+Improve
+Complications
+Treatment-Related Complications
+Myelosuppression
+The most immediate and common complication arising from chemotherapy is myelosuppression, leading to
+anaemia
+, thrombocytopenia, and neutropenia, thereby increasing susceptibility to infections and bleeding.
+Cardiotoxicity
+Anthracycline-based regimens, commonly used in Hodgkin's
+lymphoma
+, can result in cardiotoxicity, manifesting as heart failure, arrhythmias, or myocardial ischemia.
+Secondary Malignancies
+Long-term survivors of Hodgkin's lymphoma are at a significantly elevated risk of developing secondary cancers, particularly acute myeloid leukaemia, non-Hodgkin lymphomas, and solid tumours including breast and lung
+cancer
+.
+Complications Related to Disease Progression
+Hyperviscosity Syndrome
+Although rare, hyperviscosity can occur in advanced stages, leading to neurological symptoms such as headache, vision changes, and even stroke-like symptoms.
+Superior Vena Cava Syndrome
+Mediastinal involvement can cause compression of the superior vena cava, leading to facial swelling,
+shortness of breath
+, and upper extremity oedema.
+Lymph Node Compression
+Extensive lymphadenopathy can lead to compression of adjacent structures such as the trachea or esophagus, causing respiratory distress or dysphagia, respectively.
+End-Stage Complications
+Liver Failure
+In advanced stages, hepatic involvement can lead to jaundice and liver failure, with complications including coagulopathy and encephalopathy.
+Bone Marrow Failure
+Rarely, infiltration of the bone marrow can cause pancytopenia, with severe consequences including severe infections, haemorrhage, and multi-organ failure.
+Improve
+Prognosis
+The Ann Arbor staging system helps determine prognosis and the intensity of treatment, with stage I and II patients having a better prognosis.
+Stage I and II Hodgkin's
+lymphoma
+Certain prognostic factors subdivide stage I and II lymphoma into favourable and unfavourable groups, including the presence of B symptoms, extra-nodal involvement and high erythrocyte sedimentation rate (ESR) levels.
+Patients in stage I/II favourable group have a prognosis of around 85-90%, and that in the unfavourable group 80-90%, after receiving a combination of chemo- and radiotherapy treatments.
+Stage III and IV Hodgkin's lymphoma
+The prognosis of stage III/IV lymphoma is affected by a set of risk factors that correlate with poorer prognoses: male, age >45, leukocytosis, lymphopenia, low haemoglobin, low albumin and high ESR levels. The 5-year survival rate of patients in this group ranges from 42% (with >5 risk factors) to 84% (without any risk factors).
+Improve
+References
+Clinical Knowledge Summaries - Haematological cancers - recognition and referral
+Cancer
+Hodgkin's lymphoma

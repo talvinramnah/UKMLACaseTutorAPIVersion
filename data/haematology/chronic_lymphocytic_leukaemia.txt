@@ -1,0 +1,268 @@
+Chronic lymphocytic leukaemia
+Chronic lymphocytic leukaemia
+Chronic lymphocytic
+leukaemia
+(CLL) is a type of blood
+cancer
+that occurs due to monoclonal proliferation of B-lymphocytes.
+CLL is the most common form of leukemia found in adults in Western countries. It occurs most frequently in
+older adults
+and is exceedingly rare in children. It accounted for 1% of all new cancer cases in the UK annually. The causes of CLL are largely unknown and it is not associated with any environmental or external factors.  It usually develops very slowly and most patients do not have any symptoms in the early stages of the disease.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 6.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.7:1
+Condition
+Relative
+incidence
+Non-Hodgkin's lymphoma
+3.50
+Chronic lymphocytic
+leukaemia
+1
+Waldenstrom's macroglobulinaemia
+0.09
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact cause of most cases of CLL is not known.
+The main aetiological factors are:
+Genetic
+In CLL,  the most common genetic change is the deletion in chromosome 13, but other chromosomes such as 11 and 17 can also be affected.
+Family history
+There is an inherited genetic susceptibility for CLL, with a 6- to 9-fold increased risk for first degree relatives of CLL patients.
+Immunity
+People with low immunity due to HIV or AIDS are three times more likely than the general population to develop
+leukaemia
+.
+Improve
+Pathophysiology
+Chronic lymphocytic
+leukaemia
+(CLL) is a neoplastic disorder characterised by the progressive accumulation of functionally incompetent lymphocytes, which are monoclonal in origin. The pathogenesis of CLL involves a stepwise progression that begins with the development of a monoclonal B-cell
+lymphocytosis
+, followed by clonal expansion and eventual evolution into clinically apparent disease.
+The initial event in the pathogenesis of CLL is thought to be a genetic mutation in a single B-lymphocyte progenitor cell. This mutation confers a survival advantage on the cell, leading to the development of
+monoclonal B-cell lymphocytosis
+(MBL), a pre-leukaemic condition characterised by low levels of circulating monoclonal B cells. MBL can exist for many years without progressing to CLL.
+Molecular events driving CLL progression
+The most common genetic abnormalities associated with CLL include deletion 13q (del[13q]), trisomy 12, deletion 11q (del[11q]) and deletion 17p (del[17p]). These genetic changes are often detected at diagnosis and can provide prognostic information.
+Another key event in the pathogenesis of CLL is the dysregulation of apoptosis, or programmed cell death. In normal lymphocytes, apoptosis serves as a mechanism to remove aged or damaged cells. However, in CLL, apoptotic pathways are disrupted resulting in an overaccumulation of these abnormal cells.
+A further contributor to disease progression is microenvironment interaction. The tumour microenvironment plays an important role in promoting survival and proliferation of malignant B cells. Signals from stromal cells within lymphoid tissues can protect CLL cells from spontaneous and drug-induced apoptosis.
+Ultimately, the accumulation of genetic changes and survival signals from the microenvironment results in clonal expansion and progression to clinically apparent CLL. This is characterised by an increase in lymphocyte count,
+lymphadenopathy
+and often
+splenomegaly
+.
+It's important to note that not all patients with MBL will progress to CLL, and the rate at which this occurs can vary widely. Some patients may remain in a stable MBL phase for many years, while others may rapidly progress to symptomatic disease. This variability is likely due to differences in underlying genetic abnormalities and microenvironment interactions.
+Improve
+Clinical features
+A stereotypical presentation of chronic lymphocytic
+leukaemia
+(CLL) often involves a patient with no apparent symptoms, with the disease being detected incidentally during routine blood tests. The most common finding is persistent
+lymphocytosis
+. However, patients may also present with various symptomatic features that can be broadly categorised into general systemic symptoms, complications due to direct tumour infiltration and autoimmune complications.
+General Systemic Symptoms
+B symptoms:
+These include fever, night sweats and weight loss. Although these are less common in CLL than other lymphomas, they may indicate a more aggressive disease course if present.
+Fatigue
+:
+This is a common symptom and may occur due to
+anaemia
+or as part of the general
+malaise
+associated with CLL.
+Complications Due to Direct Tumour Infiltration
+Lymphadenopathy
+:
+This is a common feature of CLL, often presenting as painless enlargement of peripheral lymph nodes which are usually symmetrical and non-tender.
+Hepatosplenomegaly:
+Enlargement of the liver and spleen due to infiltration by leukaemic cells may occur. Patients may present with abdominal discomfort or fullness.
+Bone marrow failure:
+As CLL progresses, bone marrow infiltration can lead to cytopenias including anaemia, thrombocytopenia and neutropenia resulting in fatigue, increased bleeding tendency and susceptibility to infections respectively.
+Autoimmune Complications
+Autoimmune haemolytic anaemia (AIHA):
+This is characterised by destruction of red blood cells by autoantibodies. Patients may present with symptoms of anaemia such as fatigue, pallor and jaundice.
+Immune thrombocytopenia (ITP):
+Here, autoantibodies destroy platelets leading to thrombocytopenia. This may result in easy bruising, petechiae or more serious bleeding complications.
+In addition to these features, patients may also present with recurrent infections due to hypogammaglobulinaemia and neutropenia associated with CLL. Infections commonly involve the respiratory tract but can also include herpes zoster reactivation.
+Richter's transformation, although rare, is a serious complication where CLL transforms into an aggressive lymphoma. Patients may present with rapidly enlarging lymph nodes,
+splenomegaly
+and B symptoms.
+Improve
+Investigations
+The investigation of chronic lymphocytic
+leukaemia
+(CLL) primarily involves laboratory-based diagnostic tests. The aim is to confirm the diagnosis, stage the disease, and guide treatment decisions.
+First-Line Investigations
+Full Blood Count (FBC):
+This is usually the first test performed when CLL is suspected. It typically reveals
+lymphocytosis
+(>5 x 10^9/L), which may be accompanied by
+anaemia
+or thrombocytopenia in advanced stages. A differential count will show an absolute increase in lymphocytes.
+Blood Film:
+Morphological examination of peripheral blood smear can reveal smudge cells, a characteristic feature of CLL. However, this finding is not specific and cannot be used alone for diagnosis.
+Further Investigations
+If initial tests are suggestive of CLL, further investigations are required for confirmation and staging.
+Immunophenotyping by Flow Cytometry:
+This is the gold standard for diagnosing CLL. Peripheral blood lymphocytes are analysed for expression of various cell surface markers. A typical CLL phenotype shows co-expression of CD19, CD5 and CD23 along with weak expression of surface immunoglobulin and absence or low expression of FMC7 and CD79b.
+Bone Marrow Aspiration/Biopsy:
+Although not necessary for diagnosis if flow cytometry is conclusive, it can provide information about bone marrow infiltration which aids in staging.
+Cytogenetic Analysis:
+Fluorescence in situ hybridisation (FISH) can detect chromosomal abnormalities associated with prognosis. Deletion 17p or TP53 mutation indicates poor prognosis while deletion 13q as a sole abnormality indicates favourable prognosis.
+Serum Immunoglobulins:
+Hypogammaglobulinaemia is common in CLL and can contribute to increased susceptibility to infections. Serum immunoglobulin levels should be assessed at diagnosis and monitored during follow-up.
+Other investigations such as lymph node biopsy, computed tomography (CT) scan or positron emission tomography (PET) scan may be performed based on individual patient symptoms or disease stage. However, these are not routinely required for the diagnosis of CLL.
+The investigations mentioned above not only confirm the diagnosis of CLL but also provide valuable information about disease burden, aggressiveness and prognosis. They form an integral part of the diagnostic workup and management planning for patients with suspected CLL.
+Improve
+Differential diagnosis
+Haematologic disorders that may resemble CLL in their clinical presentation, behavior, and microscopic appearance include mantle cell lymphoma, marginal zone lymphoma, B cell pro-lymphocytic leukemia, and lymphoplasmacytic lymphoma.
+Mantle cell lymphoma
+It is a type of
+non-Hodgkin's lymphoma
+which is very similar to CLL, but more aggressive. Mantle cell lymphoma expresses CD5  but not CD23 antigen, which is expressed in CLL.
+Marginal zone lymphoma
+It has a similar presentation and immunophenotype as CLL, but typically has a bright surface immunoglobulin and CD20, and bone marrow examination often reveals lymphocytes with notched nuclei.
+B-cell pro-lymphocytic leukemia
+It is a very rare and typically aggressive malignancy and has similar clinical features as CLL. Circulating cells are greater than 55% pro-lymphocytes that are often CD5 negative.
+Lymphoplasmacytic lymphoma
+CLL and lymphoplasmacytic lymphoma are lymphoproliferative disorders with similar presentation. However, the later can also manifest as hyperviscosity syndrome associated with macroglobulinemia, where the clinical picture varies.
+Improve
+Management
+It is generally accepted that CLL is not yet curable, but it is very treatable and it is usually possible to control the disease.
+Staging for CLL helps the clinician to both assess how the disease is expected to progress over time and also to develop a treatment plan. The
+Binet staging
+system is commonly used in the UK for CLL staging and it has 3 stages.
+Stage A: Hb at least 10 g/dL, platelets at least 100 x 109/L, and fewer than three lymph node areas involved.
+Stage B: Hb and platelet levels as in stage A and three or more lymph node areas involved.
+Stage C: Hb <10 g/dL, platelets <100 x 109/L, or both.
+In each stage, a group of lymph nodes means lymph nodes in one area of the body, for example, in the neck, underarms or groin. Each area counts as one group even if the nodes on both sides of the body are swollen.
+In the earlier stage of the CLL, many people have no symptoms. The standard treatment of patients with the early disease is a
+watch and wait
+strategy. In this case, blood cell counts and clinical examinations should be performed regularly to determine whether the disease is stable or beginning to progress.
+Chemotherapy
+should only be given to patients with active, symptomatic disease. The main indication of treatment are:
+Evidence of progressive marrow failure
+Massive or progressive or symptomatic
+splenomegaly
+Massive or progressive or symptomatic
+lymphadenopathy
+Progressive
+lymphocytosis
+with an increase of more than 50% over a 2-month period
+Lymphocyte doubling time of  less than 6 months
+Autoimmune
+anaemia
+or thrombocytopenia not responding to prednisolone
+One or more of the following CLL-related symptoms or signs such as
+Night sweats
+High fever
+Extreme
+fatigue
+Unintentional weight loss >10%
+In CLL, molecular assessment prior to treatment is a very essential step. However, measurement of prognostic biomarkers is not currently recommended for patients with early CLL in whom there is no clinical indication for treatment. If required, tests for TP53 disruption (either deletion of chromosome 17p or mutation in the TP53 gene) should be performed on all patients.
+The National Institute for Health and Care Excellence (NICE) recommends
+Fludarabine, cyclophosphamide and rituximab (FCR)
+as the initial therapy for previously untreated patients without TP53 disruption.
+Chemotherapy with
+bendamustine
+is advised by NICE as an option for the first-line treatment of CLL (Binet stage B or C) in patients for whom FCR chemotherapy is not appropriate.
+For adults with FCR  or bendamustine-based therapy unsuitable, NICE recommends
+obinutuzumab in combination with chlorambucil
+as an option.
+Patients with TP53 deletion/mutation have a poor prognosis even after first line FCR combined chemotherapy. In such cases, chemo agents like
+ibrutinib
+can be used.
+Alemtuzumab
+is a monoclonal antibody which has also been shown to be effective in TP53 mutations.
+Complications from CLL are also a  main cause of death in such patients which is independent of age and comorbidities at the time of diagnosis.
+Auto-immune cytopenia is the dominant clinical feature among the complication in CLL, which should be treated with
+corticosteroids
+.
+Steroids can also be used to improve bone marrow function prior to chemotherapy where there is significant bone marrow infiltration.
+Some patients may experience a relapse and may be refractory to initial treatment.
+Relapsed CLL is the term for disease that responded to therapy but, after 6 or more months, stopped responding. Refractory disease is the term for CLL that does not result in a remission (but may be stable) or disease that gets worse within 6 months of the last treatment. Many patients with relapsed but asymptomatic CLL can be monitored with no therapy for a period of time.
+Allogeneic stem-cell transplantation
+provides the best opportunity of achieving long-term disease-free survival for patients with high-risk CLL, including those with TP53 abnormalities.
+Improve
+Complications
+CLL can cause a number of complications. The major complications are:
+Recurrent infections
+People with CLL are more vulnerable to
+infections
+due to hypogammaglobulinaemia, seem to have a higher risk of bacterial infections. The other factors involved are defective complement activity, normal T-lymphocyte dysfunction, and low neutrophils.
+Anemia
+Some people with CLL develop autoimmune complications which primarily cause cytopenia and worsen the existing symptoms. The most common autoimmune complication is a warm antibody type
+autoimmune hemolytic anemia
+which is secondary to CLL.
+Transformation into other type of lymphoma
+For a small number of people, CLL can sometimes transform into a different type of
+cancer
+. This is referred to as
+Richter transformation
+.  It is a serious complication of CLL and is often fatal. It is characterised by the sudden transformation of the CLL into a significantly more aggressive form of large cell lymphoma. The most common symptoms of Richter's syndrome arise from a sudden and dramatic increase in the size of lymph nodes characterised by usually painless areas of swelling in the neck, axilla, abdomen (spleen) or groin. Patients also often experience a dramatic unexplained weight loss, fevers and night sweats (often collectively referred to as B-symptoms).
+Hyperviscosity syndrome
+Extremely high WBC counts may produce a
+hyperviscosity syndrome
+with altered central nervous system function and/or respiratory insufficiency. Symptoms include headache, dizziness, vertigo, hearing loss, visual disturbances and nystagmus.
+Malignancies
+Patients with CLL have a higher risk of developing a
+secondary malignancies
+than the general population. The malignancies that are seen most frequently are melanoma, soft tissue sarcoma, colorectal cancer, lung cancer, squamous cell skin cancer and basal cell carcinoma.
+Improve
+Prognosis
+The prognosis of patients with CLL varies widely at diagnosis. CLL is generally associated with long overall survival. Generally, about 7 out of 10 people will survive CLL for 5 years or more after being diagnosed.
+Factors affecting the prognosis of patients with CLL:
+Patient-related
+Age
+: CLL occurs primarily in middle-aged and elderly adults, with worse prognosis in successive decades of life. In the UK, on average each year around 40% new cases were in people aged 75 and over. About 10% of CLL patients are reported to be younger than 55 years.
+Gender
+: Men are about twice as likely as women to develop CLL. During the initial course of the disease the condition is relatively benign, but followed by a terminal progressive and resistant phase lasting a year or two. In the late phase there is considerable morbidity from the disease itself and from the complications of chemotherapy.
+Disease-related
+Cytogenetic abnormalities
+: Patients with a detectable deletion (17p) and/or TP53 mutations remain associated with the most unfavourable prognostic features, predicting poorer treatment responses and survival in CLL. Trisomy 12 and deletion (17p) are  also suggesting a worse prognosis in CLL.
+Lymphocyte doubling time
+: It is defined as the length of time it takes the absolute lymphocyte count to double from diagnosis, has also been found to have prognostic value in patients with CLL. Those patients whose lymphocyte counts doubled in less than 12 months had a significantly shorter median survival, whereas those with a longer lymphocyte doubling time experienced longer overall survival.
+Disease stage
+: There is a relationship between the stage of the CLL and the prognosis. In general, patients diagnosed at an earlier stage have better long-term survival. Importantly, however, there is a wide range of outcomes even for patients who have the same stage, and the stage alone cannot predict the prognosis with certainty for each person. The Rai staging system divide CLL into 5 stages.
+Rai stage grouping:
+Stage
+Risk group
+Features
+Overall survival
+0
+Low
+Lymphocytosis
+only
+>10 years
+I
+Intermediate
+Lymphadenopathy
+7 years
+II
+Intermediate
+Hepatomegaly or
+splenomegaly
++ lymphocytosis
+7 years
+III/IV
+High
+Haemoglobin < 110 g/l or platelet countâ≤100,000/mmÂ³
+<4 years
+Improve
+References
+British Committee for Standards in Haematology - 2012 CLL guidelines
+Cancer
+Chronic lymphocytic leukaemia

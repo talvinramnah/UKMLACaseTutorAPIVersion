@@ -1,0 +1,200 @@
+Staphylococcal toxic shock syndrome
+Staphylococcal toxic shock syndrome
+Staphylococcus aureus
+is the causative agent of Staphylococcal toxic shock syndrome (STSS), a severe systemic illness. STSS results from the release of superantigens, leading to an overwhelming immune response characterised by
+fever
+,
+hypotension
+, and multisystem involvement. The skin and mucous membranes often exhibit erythroderma and
+desquamation
+during convalescence.
+Diagnosis requires identification of clinical manifestations along with evidence of
+S. aureus
+infection or colonisation. Laboratory findings typically show leukocytosis, thrombocytopenia and elevated liver enzymes. Blood cultures are often negative; thus, diagnosis may hinge on clinical suspicion.
+Management involves supportive care with fluid resuscitation and vasopressors for hypotension. Empirical antibiotic therapy should cover
+S. aureus
+, including methicillin-resistant strains (MRSA). Clindamycin is recommended due to its ability to inhibit toxin production.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Staphylococcal toxic shock syndrome (TSS) is primarily caused by the
+Staphylococcus aureus
+bacterium, specifically strains that produce the toxin TSST-1. This endotoxin is a superantigen that triggers an excessive immune response leading to systemic symptoms.
+Risk Factors
+Nasal Carriage:
+Individuals colonised with
+S. aureus
+, particularly in the nasal passages, have an increased risk of developing TSS. Nasal carriage rates vary among populations but are generally higher in healthcare workers and those with frequent hospital contact.
+Menses and Tampon Use:
+Menstruating women using high-absorbency tampons are at significant risk. It's hypothesised that tampons provide a conducive environment for
+S. aureus
+growth and toxin production.
+Surgical Procedures:
+Any surgical procedure can potentially introduce
+S. aureus
+into the body, increasing the risk of TSS. Procedures involving insertion of foreign bodies or prosthetic devices pose a particular risk due to potential biofilm formation.
+Cuts and Burns:
+Skin wounds such as cuts, burns, or insect bites can serve as entry points for
+S. aureus
+, especially if they're not properly cleaned and cared for.
+Weakened Immune System:
+Individuals with compromised immunity due to conditions like HIV/AIDS, diabetes or cancer are more susceptible to infections including TSS.
+Underlying Causes
+Genetic Susceptibility:
+Certain HLA (Human Leukocyte Antigen) types, specifically HLA-DR3 and HLA-DQw2, have been associated with an increased risk of TSS.
+Lack of Specific Antibodies:
+Individuals lacking specific antibodies against TSST-1 or unable to mount an adequate immune response are at a higher risk for TSS.
+Improve
+Pathophysiology
+Staphylococcus aureus
+, a gram-positive bacterium, is the causative agent of Staphylococcal toxic shock syndrome (TSS). The pathophysiology of this condition is multifaceted, involving bacterial virulence factors, host immune response and systemic effects.
+Bacterial Virulence Factors:
+The primary virulence factor in TSS is the production of superantigens by
+S. aureus
+. Superantigens are exotoxins that have the ability to cross-link major histocompatibility complex class II molecules on antigen-presenting cells with T-cell receptors, leading to polyclonal T-cell activation.
+This interaction results in a massive release of pro-inflammatory cytokines such as tumour necrosis factor-alpha (TNF-α), interleukin-1 (IL-1) and interleukin-2 (IL-2).
+Host Immune Response:
+The surge in pro-inflammatory cytokines triggers an overwhelming systemic inflammatory response syndrome (SIRS). This hyperinflammatory state can result in capillary leak syndrome,
+hypotension
+and eventually multiorgan failure if left unchecked.
+Moreover, superantigen-induced T cell activation also leads to clonal deletion or anergy of specific T cell populations, resulting in immunosuppression and further vulnerability to infection.
+Systemic Effects:
+TSS often presents with high
+fever
+,
+rash
+and hypotension. These clinical manifestations are largely due to the systemic effects of the aforementioned cytokine storm.
+Hypotension results from vasodilatation and increased vascular permeability caused by TNF-α and IL-1.
+The rash, often described as sunburn-like, is thought to be the result of direct capillary damage from circulating toxins, along with the effects of TNF-α and other cytokines on endothelial cells.
+Multiorgan failure can occur due to hypoperfusion secondary to profound hypotension, in addition to direct cytotoxic effects of superantigens and cytokines on organ tissues.
+Understanding the pathophysiology of TSS provides valuable insights into its clinical presentation and informs appropriate management strategies. This includes aggressive fluid resuscitation to counteract hypotension and organ hypoperfusion, antibiotic therapy targeting
+S. aureus
+, and potentially immunomodulatory treatments to dampen the hyperinflammatory response.
+Improve
+Clinical features
+A stereotypical presentation of staphylococcal toxic shock syndrome (TSS) often begins with a sudden onset of high
+fever
+, accompanied by
+hypotension
+and a diffuse, macular erythroderma. This triad is frequently observed in patients. However, the clinical manifestations of TSS can extend far beyond these initial symptoms.
+Systemic Features
+Fever:
+High fever (>38.9°C) is typically one of the first signs and is almost universally present in TSS cases.
+Hypotension:
+Hypotension or shock may be present, often manifesting as systolic blood pressure less than 90 mmHg.
+Rash
+:
+A diffuse, blanching erythroderma resembling sunburn usually appears early in the disease course.
+Desquamation
+, particularly on the palms and soles, typically occurs one to two weeks after the onset of illness.
+Mucous Membrane Involvement
+Hyperaemia of the conjunctival, oral, and vaginal mucous membranes may be noted.
+Gastrointestinal Symptoms
+Nausea, vomiting and diarrhoea are common gastrointestinal manifestations. Abdominal pain may also be reported.
+Musculoskeletal Symptoms
+Myalgias and arthralgias are frequently reported; severe muscle pain can lead to significantly elevated creatine kinase levels suggestive of rhabdomyolysis.
+Improve
+Investigations
+When suspecting a diagnosis of Staphylococcal toxic shock syndrome (TSS), the initial investigations should be aimed at confirming the presence of
+Staphylococcus aureus
+, identifying the source of infection, and assessing the severity of illness.
+First-line Investigations:
+Blood cultures:
+These should be taken prior to the initiation of antibiotic therapy to identify the presence of
+Staphylococcus aureus
+. It is important to note that blood cultures may not always be positive in TSS.
+Serum creatinine and urea levels:
+These tests are used to assess renal function, as acute kidney injury can occur in TSS due to toxin-mediated damage.
+Liver function tests (LFTs):
+Abnormalities in liver function can indicate systemic involvement and potential organ damage.
+C-reactive protein (CRP) and full blood count (FBC):
+Elevated CRP and leukocyte count are common findings in TSS, reflecting systemic inflammation.
+Blood gas analysis:
+This test helps evaluate respiratory status and metabolic disturbances. Metabolic acidosis may suggest severe sepsis or septic shock.
+Further Investigations:
+If first-line investigations support a suspicion of TSS, additional testing may be required to confirm diagnosis, identify source of infection, or guide management.
+Nasal swabs:
+Nasal carriage of
+S. aureus
+, including methicillin-resistant strains (MRSA), is common. Identifying colonisation can guide decolonisation strategies and antibiotic choice.
+Tissue samples from suspected infection sites:
+These should be obtained for culture and sensitivity testing, particularly if a specific focus of infection is identified or suspected.
+Toxic shock syndrome toxin-1 (TSST-1) detection:
+This test can confirm the presence of TSST-1, the toxin commonly associated with Staphylococcal TSS. However, it is not routinely available in all laboratories.
+Echocardiography:
+If endocarditis is suspected as the source of
+S. aureus
+bacteremia, an echocardiogram may be indicated to evaluate for vegetations on heart valves.
+The diagnosis of TSS often relies on clinical criteria (
+fever
+,
+rash
+,
+hypotension
+, and involvement of at least three organ systems), as per the UK guidelines. Therefore, while investigations are important in supporting diagnosis and guiding management, they are not typically definitive in isolation.
+Note that antibiotic therapy should not be delayed while awaiting investigation results if TSS is strongly suspected. Empirical treatment should cover
+S. aureus
+, including MRSA where appropriate.
+Improve
+Differential diagnosis
+The differential diagnosis for
+Staphylococcal toxic shock syndrome (STSS)
+can be challenging due to the overlap in clinical symptomatology. The most likely alternative diagnoses include Streptococcal toxic shock syndrome (StrTSS), septic shock, and Kawasaki disease.
+Streptococcal Toxic Shock Syndrome (StrTSS)
+Similar to STSS, StrTSS is a toxin-mediated, life-threatening illness. However, it is caused by
+Group A Streptococcus
+.
+Clinically, both syndromes present with
+fever
+,
+rash
+,
+hypotension
+and multi-organ dysfunction. However, StrTSS often presents with more prominent localised infection signs such as necrotising fasciitis or cellulitis.
+The rash in StrTSS tends to be erythematous and painful rather than the diffuse macular erythroderma seen in STSS.
+Septic Shock
+This systemic inflammatory response syndrome is triggered by a widespread bacterial infection. The causative organisms are diverse and not limited to staphylococci or streptococci.
+While septic shock shares many features with STTS including fever, hypotension and multi-organ dysfunction, it lacks the characteristic rash seen in STTS.
+Patients with septic shock may also present with altered mental status due to endotoxin release and subsequent inflammation.
+Kawasaki Disease
+This acute febrile illness primarily affects children under 5 years of age, whereas STSS can affect individuals of all ages.
+While both conditions present with fever and rash, Kawasaki disease is characterised by bilateral non-exudative conjunctivitis, erythema of the lips and oral mucosa, changes in extremities, cervical lymphadenopathy and coronary artery abnormalities.
+The rash in Kawasaki disease is polymorphous but non-blanching, contrasting with the diffuse erythroderma seen in STSS.
+Improve
+Management
+Management of
+Staphylococcal
+toxic shock syndrome (TSS) requires a multi-faceted approach, involving both supportive care and targeted antimicrobial therapy.
+Supportive Care:
+Hypotension
+and organ dysfunction necessitate aggressive fluid resuscitation with crystalloids.
+Vasopressors may be required if hypotension persists despite adequate fluid resuscitation.
+Oxygen delivery systems should be utilised if there is evidence of respiratory distress or hypoxia.
+In severe cases, mechanical ventilation or renal replacement therapy may be necessary.
+Antimicrobial Therapy:
+A combination of an anti-staphylococcal penicillin (e.g., flucloxacillin) and clindamycin is the first-line treatment. Clindamycin suppresses toxin production, while flucloxacillin targets the bacterial cell wall.
+If methicillin-resistant
+Staphylococcus aureus
+(MRSA) is suspected, vancomycin or daptomycin can replace flucloxacillin.
+Surgical Intervention:
+Surgical debridement or device removal may be necessary to control the source of infection. This decision should be guided by clinical judgement and consultation with surgical colleagues when appropriate.
+Adjunctive Therapies:
+Intravenous immunoglobulin (IVIG) has been used in severe or refractory cases but its role remains controversial due to limited evidence base.
+Improve
+Dermatology
+Staphylococcal toxic shock syndrome

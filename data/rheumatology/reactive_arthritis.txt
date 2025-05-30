@@ -1,0 +1,299 @@
+Reactive arthritis
+Reactive arthritis
+Reactive arthritis (ReA), previously known as 'Reiter syndrome'  is a rare systemic inflammatory disorder characterized by aseptic arthritis arising 1-6 weeks usually following gastrointestinal (
+Salmonella
+,
+Shigella
+Campylobacter
+) or urogenital pathogens (
+Chlamydia trachomatis
+). ReA belongs to a group of seronegative spondyloarthropathy. Seronegative spondyloarthropathy which includes psoriatic arthritis, ankylosing spondylitis, and arthritis due to inflammatory bowel disease, shares similar clinical and laboratory features and has an association with the HLA-B27 gene.
+This post-infectious spondyloarthropathy is described classically as a triad of asymmetric oligoarthritis, urethritis, and
+conjunctivitis
+but about 70% of patients do not present with the classic triad. The ReA patients are treated symptomatically in an outpatient setting. The prognosis is good with spontaneous remission in the majority of cases.
+Last updated: 28
+th
+September 2023
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Gout
+31.00
+Septic arthritis
+2.60
+Lyme disease
+2.40
+Pseudogout
+2.00
+Psoriatic arthropathy
+1.60
+Reactive arthritis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Reactive arthritis usually affects both young men and women aged 20-40 years. Male to female incidence ratio of reactive arthritis following genitourinary pathogen and the gastrointestinal pathogen is 9:1 and 1:1 respectively. Following risk factors are strongly associated with ReA.
+Human leukocyte antigen (HLA)-B27 genotype
+: present in 30%-50% of patients with reactive arthritis, but rates as high as 70%-80% have been reported in some familial clusters.
+Genitourinary pathogens
+mainly
+Chlamydia trachomatis
+: cause for 35- 70% of cases with Sexually Acquired Reactive Arthritis (SARA)
+Mycoplasma genitalium
+,
+Neisseria gonorrhoeae
+Gastrointestinal pathogens
+mainly gram-negative bacilli members of
+Enterobacteriaceae,
+i.e.
+Salmonella
+,
+Shigella
+,
+Yersinia
+,
+Campylobacter
+Less common pathogens:
+Streptococcus pyogenes
+Clostridium difficile
+Chlamydia pneumoniae
+Improve
+Pathophysiology
+The pathogenesis of ReA is complex and poorly understood. It is unknown if an immune response causing ReA is due to persistent infection or pathogen-triggered autoimmune response (molecular mimicry).
+Possible roles of HLA-B27
+HLA-B27 is positive in the majority of patients with ReA.
+Molecular similarities between HLA-B27 and proteins of infecting pathogens may result in HLA-B27 triggering an immune response after pathogen clearance through molecular mimicry.
+HLA-B27 allele characteristics allowing for the formation of homo-dimer and heterodimers as well as peptide-binding may lead to an anomalous cytotoxic T-cell response.
+HLA-B27 assists as a ligand for some pathogens to attach to synovium cells or not properly eliminating infected macrophages.
+Microbial role in pathogenesis:
+There is evolving evidence that it may be related to the persistence of the underlying infection since some patients who are HLA-B27 negative also develop ReA.
+The presence of bacteria or bacterial products in the joint and the local immune response directed against these bacteria within synovium suggests microbe direct role.
+Some studies demonstrated the presence of metabolically active
+Chlamydia trachomatis
+in the synovial tissue of patients with chronic ReA attributable to the organism.
+Few studies show
+Salmonella
+outer membrane protein is able to stimulate interleukin (IL)-17/IL-23 production in synovial immune cells, possibly contributing to arthropathy.
+One proposed model suggests that the altered microbiota can, in turn, lead to unusual immune responses to gut flora, loss of gut homeostasis, inflammation, and consequently spondyloarthropathy occurs.
+Improve
+Clinical features
+Reactive Arthritis typically manifests as a triad of arthritis, urethritis, and
+conjunctivitis
+, occurring several weeks post an episode of gastrointestinal or genitourinary infection. Classically seen in patients aged 20-40 years, the condition presents more frequently in males, often exhibiting asymmetric oligoarthritis, primarily affecting lower limb joints.
+'Can't see, pee or climb a tree'
+Detailed Presentation Features
+Time course
+typically develops within 4 weeks of initial infection - symptoms generally last around 4-6 months
+Gastrointestinal Manifestations: Patients may have a history of preceding dysentery caused by organisms like Shigella, Salmonella, or Yersinia, which can trigger reactive arthritis. Abdominal pain and
+diarrhoea
+may be reported, correlated to the preceding infection.
+Genitourinary Trigger: Often preceded by Chlamydia trachomatis infection. The patient may report a history of urethral discharge,
+dysuria
+, or other genitourinary symptoms.
+Around 25% of patients have recurrent episodes whilst 10% of patients develop chronic disease
+Arthritis:
+Predominantly involves lower extremity joints, especially knees, ankles, and feet.
+Presents as pain, swelling, and limitation of movement, typically with an asymmetric pattern.
+Enthesitis (inflammation of tendinous insertions) and
+dactylitis
+(sausage digits) may be observed.
+Urethritis:
+Non-gonococcal urethritis can manifest as dysuria, urinary frequency, and discharge.
+It can sometimes be asymptomatic, especially in females, and might be overlooked.
+Eye Manifestations:
+Conjunctivitis:
+Presents with redness, irritation, and tearing of the eyes.
+Seen in 10-30%
+Usually, it is non-purulent and may precede the articular symptoms.
+Anterior uveitis
+Skin Manifestations:
+Keratoderma blennorrhagicum, presenting as hyperkeratotic lesions predominantly on the soles and, less commonly, on the palms.
+Circinate balanitis may occur, presenting as erythematous plaques on the glans penis.
+Musculoskeletal Symptoms:
+Enthesitis affecting the Achilles tendon and plantar fascia causing
+heel pain
+.
+Dactylitis leading to diffuse swelling of fingers or toes.
+Systemic Features:
+Some patients may experience systemic symptoms such as fever, weight loss, and
+fatigue
+.
+Improve
+Investigations
+ReA is a clinical diagnosis based on the clinical findings and exclusion of other diseases. There is no validated diagnostic criteria and no single definitive diagnostic test, but investigations help support the evidence of antecedent or concomitant infection, ongoing inflammatory synovitis, and enthesitis or arthritis.
+Blood tests
+Evidence of ongoing inflammation
+Elevated acute-phase reactants: ESR and CRP are elevated in the acute stage in 50% of the patients and tend to normalise if the disease becomes chronic.
+Genetic and Immunological markers
+Rheumatoid factor and ANA: to rule out other forms of arthritis or other conditions that cause similar symptoms.
+HLA-B27 testing: non-diagnostic test, but positive in around 40% of patients. It is useful as a prognostic marker of ReA.
+Evidence of preceding infection
+Urine test:
+Urinalysis may show increased leukocytes, hematuria, and mild proteinuria during acute disease.
+NAAT to detect
+Chlamydia trachomatis
+Stool test
+Test for
+Salmonella
+,
+Shigella
+,
+Campylobacter
+, and
+Yersinia
+Stool cultures are usually negative by the time arthritis occurs, but should be considered if
+diarrhoea
+present or recently resolved.
+Evidence of inflammatory arthritis, enthesitis or synovitis
+Radiography
+In the early stage, there are no specific abnormalities except for soft tissue swelling.
+Radiographic changes are found in 70% of patients with long-standing disease (chronic ReA).
+Erosive joint damage affects especially small joints of the feet and is found in 12% of patients.
+Radiographic changes of sacroiliac joints, usually unilateral, are found in one-third of patients with chronic ReA
+MRI: Helpful to assess enthesitis and involvement of sacroiliac joints, when radiographs may be negative
+Synovial fluid analysis:
+Joint fluid (when possible) should always be examined to exclude alternative diagnoses like
+septic arthritis
+.
+Synovial fluid cell count is increased, with predominant neutrophils in the early stage of the disease.
+Synovial cultures are always negative.
+Improve
+Diagnosis
+There are no agreed-upon, validated diagnostic criteria for ReA. Assessment of SpondyloArthritis International Society (ASAS) classification criteria, 2009 proposes to classify the SpA according to leading clinical manifestations, axial or peripheral SpA. The clinical criteria have a sensitivity of 77.8% and a specificity of 82.9%.
+ASAS classification criteria for axial SpA
+Back pain for 3 months or longer
+Age at onset < 45 years
+Sacroiliitis on imaging (radiographs or MRI) plus one or more SpA features or HLA-B27 plus two or more other SpA features
+SpA features
+include inflammatory back pain, arthritis, enthesitis, uveitis,
+dactylitis
+, psoriasis, Crohn disease, good response to NSAIDs, family history of SpA, positive HLA-B27 testing, elevated C-reactive protein level.
+ASAS classification criteria for peripheral SpA
+Absence of back pain and the presence, usually in a person under 45 years old, of peripheral arthritis (usually lower limb predominant and asymmetric), enthesitis, or dactylitis, alone or in combination, along with one of two sets of additional features.
+One or more of the following from the
+first set
+consists:
+Psoriasis
+Inflammatory bowel disease
+Preceding infection
+Sacroiliitis on imaging (radiographs or MRI)
+OR
+Two or more features from the
+second set
+:
+Arthritis
+Enthesitis
+Dactylitis
+Past history of inflammatory back pain
+Positive family history of SpA
+Improve
+Differential diagnosis
+Possible differential diagnosis for acute mono-arthritis or oligoarthritis
+Septic arthritis
+Similarities: affects single joints in most cases. The affected joint is often swollen, erythematous, and warm, and patients may have a fever
+Differences: No other extra-articular symptoms similar to ReA and synovial fluid analysis shows increased leukocyte and positive blood culture
+Lyme arthritis
+Similarities: nonspecific constitutional symptoms such as headache, fever, and
+fatigue
+are common in
+Lyme disease
+. Usually, arthritis is present at only 1 joint at a time, primarily large joints such as the knee.
+Difference: Lyme disease produces a characteristic rash called erythema migrans at the site of the tick bite and positive Lyme titre with western blot.
+Gout
+Similarities: usually, presents as inflammatory monoarthritis of primary joints such as the 1st metatarsophalangeal joint or ankle. Elevated acute-phase reactants and leukocytosis are seen in the laboratory tests.
+Difference: involvement of DIP joints is present. Urate crystal deposition in the synovial fluid of affected joint and uric acid tophi commonly in the pinna of ear is seen. There is no extra-articular manifestation seen.
+Pseudogout
+Similarities: It presents are monoarthritis of primarily large joints such as the knee. Elevated acute-phase reactants and leukocytosis are seen in the laboratory tests.
+Difference: calcium pyrophosphate crystal deposition in the synovial fluid of affected joint is seen. There is no extra-articular manifestation seen.
+Possible differential diagnosis for genitourinary symptoms and arthritis:
+Disseminated gonococcal infection (DGI):
+Similarities: genitourinary symptoms followed by inflammatory arthritis. Like reactive arthritis, patients with DGI can also have
+heel pain
+, in this case, caused by Achilles tenosynovitis.
+Differences:  pustular or maculopapular rash is also present in DGI. Nucleic acid amplification of genitourinary samples is used commonly for diagnosis.
+Possible differential diagnosis for
+diarrhoea
+and arthritis
+Inflammatory bowel disease (IBD)
+Similarities: arthritis complicates longer standing diarrhoea.
+Differences: patients with IBD arthritis tend to have bilateral and symmetrical radiographic sacroiliitis, whereas ReA patients tend to have asymmetrical involvement of the sacroiliac joints on plain radiographs.
+Possible differential diagnosis for arthritis/spondyloarthritis/enthesitis without previous infectious symptoms:
+Ankylosing spondylitis (AS)
+Similarities: similar spinal involvement to reactive arthritis (ReA), but in a more symmetrical fashion, particularly in the sacroiliac joints
+Difference: AS has less prominent peripheral joint involvement than ReA and 'bamboo spine' on x-ray is indicative of AS.
+Improve
+Management
+Reactive arthritis is usually self-limited and spontaneously resolves in the majority of cases. Most patients are usually managed in the outpatient setting. The aim of treatment for ReA are :
+Managing the underlying infection
+Reduce pain, swelling, and tenderness and prevent further joint damage.
+Treatment of extra-articular disease manifestations.
+Treatment of arthritis
+NSAIDs:  first-line therapy for acute phase. It usually provides effective relief of pain at nights and morning stiffness.
+Corticosteroids
+Used in patients during an acute flare, or unresponsive to NSAIDs.
+Intra-articular injections in mono-articular and oligoarticular forms, while systemic corticosteroids may be required if many joints are affected.
+Disease-modifying antirheumatic drugs (DMARDs)
+DMARDs are considered second-line agents either when NSAIDs and corticosteroid fails or for those who develop chronic or erosive reactive arthritis
+Sulfasalazine is effective in peripheral disease and has little or no effect on spinal disease. Methotrexate is effective in treating both acute and chronic ReA especially, in patients with spinal involvement.
+Anti-TNF-α therapy:
+Consider treatment with TNF-α inhibitors if symptoms persist after all other treatments exhausted. Etanercept is an emerging therapy, effective in treating chronic ReA on a small series of cases.
+Physiotherapy: physical therapy may help relieve symptoms by increasing muscle strength and improving mobility and function
+Antibiotics
+Antibiotic treatment is recommended for patients with acute
+Chlamydia
+genitourinary infection or with previously documented but untreated infection, but not for patients with established reactive arthritis
+Antibiotics are generally not indicated for uncomplicated gastrointestinal infections.
+Treating with antibiotics does not change the course of reactive arthritis
+Oral regimens of either doxycycline or azithromycin, both combined with rifampin for 6 months have shown significant symptom remission of arthritis symptoms in recent trials.
+Treatment with antibiotics for along term in reactive arthritis is currently being investigated.
+Treatment of other manifestations
+Cutaneous and mucosal involvement
+Circinate balanitis and mild to moderate keratoderma blennorrhagica should be treated with topical steroids.
+Oral lesions resolve spontaneously and require no treatment.
+Eye involvement:
+Eye lesions, especially uveitis, should be managed with ophthalmologic advice.
+Systemic corticosteroids can be helpful in treating ocular manifestations, such as
+anterior uveitis
+.
+Improve
+Complications
+The complications of ReA are principally due to aggressive arthritis and are more common if the individual has HLA-Â­B27 gene. The common complication of ReA is listed below.
+Secondary osteoarthritis
+secondary to erosive cartilage and bone destruction.
+Ankylosing spondylitis
+in around 30-50% of HLA-B27 patients
+Ocular complications:
+Recurrent iritis/uveitis may lead to cataract formation if inadequately treated.
+Cystic macular oedema
+Keratoderma blennorrhagicum, which is pustular or plaque-like lesions, typically on the soles or palms.
+Cardiac complications like proximal aortitis is reported in 1%-2% of patients
+Rarely severe glomerulonephritis and immunoglobulin A nephropathy
+Improve
+Prognosis
+The prognosis of ReA is variable.
+Approximately 50% of patients either remit completely or have little active disease within 3-12 months (average 3-5 months)
+Around 30%-50% of patients, especially those who are HLA-B27 positive develop chronic reactive arthritis, which often has a relapsing/remitting pattern.
+Erosive joint damage can occur in patients with very aggressive arthritis, leading to secondary arthritis and deformity.
+Factor associated with poor outcome:
+Nature of infection: ReA caused due to genitourinary pathogen have a worse outcome than those caused by gastrointestinal pathogens.
+Presence of HLA-B27 gene
+Heel and foot pain at the beginning of the disease is an adverse prognostic factor and is associated with poor functional outcomes and disability.
+Elevated ESR
+Unresponsiveness to nonsteroidal anti-inflammatory drugs (NSAIDs)
+Improve
+References
+DermNet NZ - Reactive arthritis
+Rheumatology
+Reactive arthritis

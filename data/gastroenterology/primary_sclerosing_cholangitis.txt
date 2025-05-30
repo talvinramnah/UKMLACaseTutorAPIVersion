@@ -1,0 +1,179 @@
+Primary sclerosing cholangitis
+Primary sclerosing cholangitis
+Primary sclerosing cholangitis (PSC) is a chronic, progressive liver disease characterised by inflammation and fibrosis of the bile ducts. This leads to multifocal bile duct strictures and can ultimately result in cholestasis, biliary cirrhosis, and hepatic failure. The aetiology of PSC remains unclear but is believed to involve immune-mediated mechanisms, often associated with inflammatory bowel disease, particularly
+ulcerative colitis
+.
+Diagnosis typically involves a combination of cholangiographic imaging techniques such as magnetic resonance cholangiopancreatography (MRCP) or endoscopic retrograde cholangiopancreatography (ERCP), revealing the characteristic 'beaded' appearance of the bile ducts. Liver biopsy may be utilised to assess stage and rule out other conditions. Serum alkaline phosphatase levels are usually elevated.
+There is no definitive medical therapy for PSC; management focuses on symptom relief, managing complications like bacterial cholangitis, and monitoring for hepatobiliary malignancies such as
+cholangiocarcinoma
+. Liver transplantation remains the only curative treatment option for patients with advanced disease.
+Last updated: 12
+th
+July 2023
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Primary biliary cholangitis
+6.00
+Primary sclerosing cholangitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Associations
+ulcerative colitis
+: 4% of patients with UC have PSC, 80% of patients with PSC have UC
+Crohn's (much less common association than UC)
+HIV
+The precise aetiology of PSC remains elusive. Genetic susceptibility, immune-mediated factors, and exposure to environmental triggers are thought to contribute to the disease. Several human leukocyte antigen (HLA) haplotypes have been associated with PSC, suggesting a genetic predisposition. The strong association with UC indicates a possible role of gut-derived antigens in triggering an immune response, leading to bile duct injury. Additionally, there is evidence implicating the gut-liver axis and the role of the microbiome in PSC pathogenesis.
+Improve
+Clinical features
+A stereotypical presentation of primary sclerosing cholangitis (PSC) often involves a middle-aged individual, with a pre-existing diagnosis of
+ulcerative colitis
+. The patient may present with symptoms of chronic cholestasis including
+fatigue
+,
+pruritus
+and
+jaundice
+.
+Clinical Features
+Asymptomatic:
+Many patients with PSC may be asymptomatic in the early stages, with the condition being incidentally diagnosed during investigations for IBD or through abnormal liver function tests.
+Fatigue and Pruritus:
+These are common initial symptoms. Pruritus is particularly bothersome and can be severe enough to impact quality of life. It is caused by accumulation of bile acids in the skin due to impaired biliary secretion.
+Jaundice:
+This is due to conjugated hyperbilirubinaemia resulting from impaired excretion of bilirubin into the bile ducts.
+Right Upper Quadrant Pain
+:
+This may occur due to dilation, inflammation or infection of the biliary tree.
+Hepatosplenomegaly:
+An enlarged liver and spleen may be palpable on physical examination due to ongoing liver disease and portal hypertension.
+Gastrointestinal Manifestations
+Inflammatory Bowel Disease:
+Up to 80% of individuals with PSC have concurrent IBD, most commonly ulcerative colitis. Symptoms related to IBD such as diarrhoea, abdominal pain or rectal bleeding may predominate in these cases.
+Maldigestion and Malabsorption:
+These can occur due to impaired bile flow leading to deficiency of bile acids in the intestine, which are essential for fat digestion and absorption.
+Complications
+Cholangitis:
+Patients with PSC are at risk of recurrent bacterial cholangitis due to stasis and infection of bile. This presents as fever, jaundice and worsening right upper quadrant pain.
+Cirrhosis and Portal Hypertension:
+Chronic inflammation and fibrosis can lead to cirrhosis, resulting in complications such as ascites, variceal haemorrhage and hepatic encephalopathy.
+Hepatobiliary Malignancies:
+There is a significantly increased risk of
+cholangiocarcinoma
+, gallbladder carcinoma and hepatocellular carcinoma in individuals with PSC.
+Improve
+Investigations
+Bloods
+elevated alkaline phosphatase (ALP) and gamma-glutamyl transferase (GGT) levels
+p-ANCA may be positive
+Endoscopic retrograde cholangiopancreatography (ERCP) or magnetic resonance cholangiopancreatography (MRCP) are the standard diagnostic investigations, showing multiple biliary strictures giving a 'beaded' appearance
+There is a limited role for liver biopsy, which may show fibrous, obliterative cholangitis often described as 'onion skin'
+Improve
+Differential diagnosis
+When considering the differential diagnosis for primary sclerosing cholangitis (PSC), three key conditions often present with similar clinical features:
+primary biliary cirrhosis
+(PBC), autoimmune hepatitis (AIH) and
+cholangiocarcinoma
+. Distinguishing between these conditions is essential, as each carries different prognoses and treatment approaches.
+Primary Biliary Cirrhosis
+PBC typically presents in middle-aged women, contrasting with PSC which has a male predominance and can present at any age.
+PBC primarily affects the small intrahepatic bile ducts whereas PSC involves both intra- and extra-hepatic bile ducts.
+The presence of anti-mitochondrial antibodies (AMA) is highly characteristic of PBC but not seen in PSC. In contrast, perinuclear anti-neutrophil cytoplasmic antibodies (p-ANCA) are often found in PSC.
+Clinically,
+pruritus
+and
+fatigue
+are more prevalent in PBC while patients with PSC often present with
+jaundice
+or complications related to cirrhosis.
+Autoimmune Hepatitis
+Like PSC, AIH can occur at any age but it frequently presents in young women. Patients with AIH commonly have other autoimmune disorders which is less common in those with PSC.
+The histological findings differ; interface hepatitis is characteristic of AIH while fibrosis and inflammation of the bile ducts are seen in PSC.
+Serologically, AIH shows elevated immunoglobulin G levels and positive autoantibodies such as anti-smooth muscle antibodies (ASMA) or liver-kidney microsome type 1 antibodies (LKM1), which are not typically seen in PSC.
+AIH often presents with acute hepatitis symptoms, including fatigue, jaundice and
+right upper quadrant pain
+, whereas PSC often has a more insidious onset.
+Cholangiocarcinoma
+Cholangiocarcinoma is a severe complication of PSC and distinguishing between the two can be challenging. It typically presents in older patients while PSC can present at any age.
+Patients with cholangiocarcinoma often have rapid clinical deterioration compared to the slow progression observed in uncomplicated PSC.
+Elevated serum carbohydrate antigen 19-9 (CA 19-9) levels can suggest cholangiocarcinoma but it is non-specific and may also be elevated in benign biliary diseases including PSC.
+Magnetic resonance cholangiopancreatography (MRCP) or endoscopic retrograde cholangiopancreatography (ERCP) findings of focal strictures or mass lesions are suggestive of cholangiocarcinoma rather than PSC.
+Improve
+Management
+Ursodeoxycholic acid (UDCA) is standard medical therapy for PSC. Endoscopic dilation/stenting can be used for dominant strictures. A liver transplant is the only definitive treatment for advanced disease. Supportive care focuses on symptom management and cancer screening.
+Ursodeoxycholic acid
+First-line therapy for PSC patients.
+Improves liver biochemistries and delays histological progression.
+Mechanism of action likely includes promoting bile flow, reducing toxic bile acids, and anti-inflammatory effects.
+Endoscopic therapies
+Endoscopic retrograde cholangiopancreatography (ERCP) with biliary dilation and stenting can be used for dominant strictures.
+Repeated procedures are often needed due to high stricture recurrence rate.
+Reduces cholestasis and
+pruritus
+but no clear evidence for improved transplant-free survival.
+Immunosuppression
+No definitive benefit seen with corticosteroids, azathioprine, or anti-TNF agents.
+Small studies suggest calcineurin inhibitors like tacrolimus may improve liver tests in some PSC patients.
+Overall insufficient evidence to recommend routine immunosuppression.
+Liver transplant
+Definitive treatment for end-stage PSC with cirrhosis and its complications.
+5-year post-transplant survival over 85%.
+PSC recurrence in the graft occurs in 15-25% of patients within 5-10 years. Immunosuppression minimization may reduce recurrence risk.
+Supportive care
+Nutritional support for malabsorption and fat-soluble vitamin deficiencies.
+Osteoporosis management with vitamin D, calcium, and possibly bisphosphonates.
+Pruritus management (bile acid sequestrants, rifampin, opiate antagonists).
+Regular screening for
+cholangiocarcinoma
+with cross-sectional bile duct imaging.
+Improve
+Complications
+Complications of primary sclerosing cholangitis can be severe and multifaceted, often necessitating comprehensive management strategies. The most likely complications include:
+Cholangiocarcinoma
+:
+A significant risk in patients with primary sclerosing cholangitis, with incidence rates ranging from 7% to 15%. Regular surveillance is recommended.
+Cirrhosis:
+Progressive fibrosis of the liver can lead to cirrhosis, resulting in portal hypertension, ascites, variceal bleeding, and hepatic encephalopathy.
+Bacterial cholangitis:
+Recurrent episodes are common due to biliary strictures and stasis. Common pathogens include
+Escherichia coli
+,
+Klebsiella
+, and
+Pseudomonas aeruginosa
+.
+Gallbladder disease:
+Increased risk of gallstones and gallbladder carcinoma. Prophylactic cholecystectomy may be considered in certain cases.
+Liver failure:
+Advanced disease can result in decompensated liver function requiring liver transplantation.
+Nutritional deficiencies:
+Malabsorption of fat-soluble vitamins (A, D, E, K) due to chronic cholestasis.
+Colorectal cancer
+:
+Patients with concomitant inflammatory bowel disease have a higher risk; regular colonoscopic surveillance is advised.
+Osteoporosis:
+Chronic liver disease contributes to bone density loss; dual-energy X-ray absorptiometry (DEXA) scanning is recommended for monitoring.
+Improve
+Prognosis
+PSC has a variable course, with some patients remaining stable for years, while others progress rapidly to cirrhosis and end-stage liver disease. The median survival time from diagnosis to liver transplantation or death ranges from 12-21 years. Factors associated with a worse prognosis include advanced age, elevated bilirubin, and low albumin levels at the time of diagnosis.
+The presence of
+cholangiocarcinoma
+significantly worsens the prognosis, as it is often diagnosed at an advanced stage and has limited treatment options.
+Liver transplantation can improve survival and quality of life in carefully selected patients with end-stage liver disease due to PSC. However, PSC can recur in the transplanted liver, with an estimated recurrence rate of 20-25% at 10 years post-transplantation.
+Improve
+Gastroenterology
+Primary sclerosing cholangitis

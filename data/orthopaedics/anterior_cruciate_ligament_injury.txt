@@ -1,0 +1,113 @@
+Anterior cruciate ligament injury
+Anterior cruciate ligament injury
+Anterior cruciate ligament (ACL) injuries are among the most common and debilitating injuries affecting the knee joint. They are particularly prevalent in athletes participating in sports that involve rapid changes in direction, such as basketball, soccer, and skiing. This chapter aims to provide a comprehensive overview of ACL injury management for physicians, detailing the clinical evaluation, diagnosis, treatment options, and rehabilitation protocols for optimizing patient outcomes.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 50.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Meniscal injury of the knee
+1.30
+Anterior cruciate ligament injury
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of Anterior Cruciate Ligament (ACL) injury is multifactorial and can be classified into intrinsic and extrinsic risk factors.
+Intrinsic Risk Factors:
+Gender:
+Females are more prone to ACL injuries due to differences in anatomical, hormonal, and neuromuscular characteristics. Notably, the intercondylar notch width is narrower in females, which may predispose them to ACL injury.
+Age:
+Younger individuals, particularly those engaged in high-risk sports such as football or skiing, are at an increased risk of ACL injuries.
+Genetics:
+Certain genetic markers have been associated with an increased likelihood of ligamentous laxity and susceptibility to injury.
+Bio-mechanical factors:
+Altered lower limb biomechanics including increased knee abduction angle, anterior tibial shear force and quadriceps dominance increase the risk of ACL injury.
+Extrinsic Risk Factors:
+Sporting activity:
+High-risk sports that involve sudden changes in direction, jumping and landing put significant strain on the ACL. Football, basketball, skiing and rugby are among the sports with a higher incidence of ACL injuries.
+Environmental conditions:
+Surfaces that do not allow for appropriate foot rotation during pivoting movements (e.g., artificial turf) increase torsional stress on the knee joint leading to higher risk for ACL injury.
+Ergonomics:
+Poorly fitted or inappropriate equipment like shoes or ski bindings can contribute to increased risk.
+In addition to these factors, previous history of ligamentous injury significantly increases the likelihood of subsequent ACL damage. It is also important to note that a combination of intrinsic and extrinsic factors often interact to precipitate injury.
+Improve
+Pathophysiology
+The anterior cruciate ligament (ACL) is a key stabilising structure within the knee joint, preventing excessive anterior translation and rotational movement of the tibia relative to the femur. An injury to this ligament disrupts the normal kinematics of the knee, leading to instability and potentially further damage.
+Understanding the pathophysiology of an ACL injury begins with recognising its biomechanical role in the knee. The ACL is subjected to high tensile forces during activities involving sudden deceleration, changes in direction, or landing from a jump. When these forces exceed the ligament's load-bearing capacity, an ACL tear can occur.
+Mechanical Disruption:
+Initially, there is a mechanical disruption of the ACL fibres. This can range from a partial tear, where only some fibres are affected, to a complete rupture where all fibres are torn. The disruption leads to haemarthrosis as blood vessels within and around the ligament are damaged.
+Inflammatory Response:
+Following injury, there is an immediate inflammatory response. Inflammatory cells such as neutrophils and macrophages infiltrate into the area of injury releasing pro-inflammatory cytokines like interleukin-1 (IL-1) and tumour necrosis factor-alpha (TNF-alpha). These cytokines further amplify inflammation by promoting chemotaxis and increasing vascular permeability.
+Tissue Damage and Healing:
+These inflammatory processes lead to tissue damage but also initiate healing. Fibroblasts migrate into the area under influence of growth factors such as transforming growth factor-beta (TGF-beta), beginning synthesis of collagen type III which forms early scar tissue.
+Remodelling Phase:
+Over time this early scar tissue undergoes remodelling where collagen type III is replaced by the stronger collagen type I, forming a mature scar. However, this scar tissue doesn't replicate the original ACL structure or function, leading to long-term instability and altered knee biomechanics.
+Secondary consequences of an ACL injury include damage to other structures within the knee such as menisci and articular cartilage. The altered biomechanics and instability can lead to abnormal loading of these structures resulting in early degenerative changes. This manifests clinically as pain, swelling, instability and potentially development of osteoarthritis.
+Improve
+Clinical features
+ACL injuries typically occur due to a sudden change in direction, deceleration, or landing from a jump with an extended, twisted, or hyperextended knee. Non-contact mechanisms are responsible for the majority of ACL injuries, although direct contact can also lead to tears. Common sports associated with ACL injuries include basketball, soccer, skiing, and football.
+Patients with an ACL injury may present with a range of symptoms, including:
+Acute onset of pain: The pain is often severe and localized to the knee joint, with patients frequently reporting a 'pop' or 'snap' sensation at the time of injury.
+Swelling: Rapid swelling occurs within hours of the injury, usually as a result of hemarthrosis (bleeding into the joint).
+Instability: Patients may experience a sensation of knee 'giving way' or 'shifting' during weight bearing or movement. This instability can persist even after the initial pain and swelling have subsided.
+Limited range of motion: Pain, swelling, and joint effusion may restrict the patient's ability to fully flex or extend the knee.
+Joint tenderness: Localized tenderness may be present along the joint line, particularly over the injured ligament.
+A thorough physical examination should be performed to assess the integrity of the ACL and identify any associated injuries. Key components of the examination include:
+Inspection: Assess for swelling, ecchymosis, and deformity.
+Palpation: Evaluate for joint line tenderness and effusion.
+Range of motion: Compare the injured knee to the contralateral side, noting any limitations in flexion and extension.
+Ligamentous stability tests: Perform the anterior drawer, Lachman, and pivot-shift tests to assess the integrity of the ACL. These tests may be limited by pain or guarding in the acute setting.
+Anterior drawer test: The anterior drawer test is performed with the patient in a supine position and the affected knee flexed to 90 degrees. The examiner stabilizes the foot by sitting on it and places both hands around the proximal tibia. The tibia is then pulled anteriorly relative to the femur, and the amount of anterior translation is compared to the contralateral side. Increased anterior translation, along with a soft or absent endpoint, suggests an ACL injury.
+Lachman test: The Lachman test is considered more sensitive and specific than the anterior drawer test for detecting ACL injuries. The patient is positioned supine with the knee flexed to 20-30 degrees. The examiner stabilizes the femur with one hand and grasps the proximal tibia with the other hand. The tibia is then pulled anteriorly while stabilizing the femur. Increased anterior translation and a soft or absent endpoint compared to the contralateral side indicate an ACL injury.
+Pivot-shift test: This test is performed with the patient supine and the affected knee in full extension. The examiner holds the patient's ankle with one hand while applying a valgus force and internal rotation to the lower leg. The other hand stabilizes the lateral aspect of the knee. As the knee is slowly flexed, a positive test is indicated by a palpable or visible subluxation or reduction of the tibia, which suggests an ACL injury. However, this test can be difficult to perform in an acute setting due to pain and muscle guarding.
+Assess for concomitant injuries: Evaluate the medial and lateral collateral ligaments, as well as the posterior cruciate ligament and menisci, as these structures can be injured concurrently with the ACL.
+Improve
+Investigations
+Obtain plain radiographs to rule out fractures and assess joint alignment. Magnetic resonance imaging (MRI) is the gold standard for diagnosing ACL injuries and assessing concurrent injuries to the meniscus, articular cartilage, and other ligaments.
+Improve
+Differential diagnosis
+The differential diagnosis of an anterior cruciate ligament (ACL) injury can be a complex task due to the overlap in clinical presentation with other knee injuries. The most likely alternative diagnoses include meniscal tears, collateral ligament injuries, and patellar dislocation.
+Meniscal Tears
+Meniscal tears often present similarly to ACL injuries but may have subtle differences. Both conditions can cause pain, swelling and instability. However, meniscal tears are typically associated with a twisting injury or direct impact to the knee while it's flexed and weight-bearing.
+Clinically, patients may report 'locking' of the knee joint or inability to fully extend the knee, which is less common in ACL injuries.
+A positive McMurray’s test - characterised by pain or a palpable click during flexion and rotation of the knee - is suggestive of a
+meniscal tear
+.
+Collateral Ligament Injuries
+Medial collateral ligament (MCL) and lateral collateral ligament (LCL) injuries can also mimic an ACL tear. These injuries usually result from a blow to the outer side of the knee (for MCL) or inner side of the knee (for LCL), causing the knee to buckle towards the opposite side.
+Pain is generally localised specifically over the injured ligament unlike in ACL injuries where it tends to be more diffuse.
+Ligamentous laxity on valgus (for MCL) or varus stress testing (for LCL) at 30 degrees flexion without similar laxity at 0 degree indicates an isolated collateral ligament injury.
+Patellar Dislocation
+This condition often occurs following a non-contact twisting injury or direct blow to the knee, similar to an ACL tear. However, patients with patellar dislocation typically report a visible deformity or 'shifting' of the kneecap which is not seen in ACL injuries.
+Pain is usually located at the anterior aspect of the knee and there may be palpable tenderness over the medial patellofemoral ligament.
+A positive apprehension test - characterised by discomfort or resistance to lateral displacement of the patella - supports this diagnosis.
+Improve
+Management
+Non-operative Management
+Conservative management may be appropriate for patients with low physical demands, partial ACL tears, or those who are unwilling or unable to undergo surgery. This approach includes:
+Rest, ice, compression, and elevation (RICE) to reduce inflammation and pain.
+Nonsteroidal anti-inflammatory drugs (NSAIDs) and analgesics for pain relief.
+Physical therapy to improve range of motion, muscle strength, and proprioception. Emphasis should be placed on quadriceps and hamstring strengthening, as well as neuromuscular re-education.
+Bracing: A functional knee brace may provide support and stability during activity, but its effectiveness remains debatable.
+Activity modification: Patients should avoid high-risk activities that may exacerbate the injury or increase the likelihood of re-injury.
+Operative Management
+Surgical intervention is often recommended for patients with complete ACL tears, especially those who are young, active, and engaged in high-level sports. The two primary surgical techniques are:
+ACL reconstruction: Autograft (using the patient's own tissue) or allograft (using donor tissue) is used to replace the torn ACL. Common autograft sources include the bone-patellar tendon-bone (BPTB) and hamstring tendons.
+ACL repair: In select cases, such as proximal avulsion tears with preserved tissue quality, primary ACL repair may be performed. However, this technique is less common due to higher failure rates compared to reconstruction.
+Improve
+Orthopaedic surgery
+Anterior cruciate ligament injury

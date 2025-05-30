@@ -1,0 +1,212 @@
+Acute cholecystitis
+Acute cholecystitis
+Acute cholecystitis is an inflammatory condition of the gallbladder, typically precipitated by the obstruction of the cystic duct due to gallstones (cholelithiasis).
+Clinically, patients present with right upper quadrant (RUQ) abdominal pain,
+fever
+,
+nausea
+,
+vomiting
+, and a positive Murphy's sign. Laboratory findings may reveal leukocytosis and elevated C-reactive protein (CRP) levels. Ultrasonography remains the diagnostic modality of choice with findings such as gallbladder wall thickening (>3-4mm) and pericholecystic fluid collection.
+Initial management consists of supportive care including fluid resuscitation, analgesia, and empirical antibiotic therapy. Definitive treatment involves laparoscopic cholecystectomy.
+Potential complications associated with acute cholecystitis include gangrenous cholecystitis, emphysematous cholecystitis (secondary to gas-forming organisms) and perforation leading to peritonitis or abscess formation.
+Last updated: 1
+st
+February 2024
+Epidemiology
+Incidence: 140.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Biliary colic
+7.14
+Acute cholecystitis
+1
+Acute appendicitis
+0.79
+Ascending cholangitis
+0.36
+Acute pancreatitis
+0.29
+Perforated peptic ulcer
+0.05
+Cholangiocarcinoma
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute cholecystitis, an inflammation of the gallbladder, typically arises due to obstruction of the cystic duct. The aetiology of this condition is multifactorial, with several risk factors and underlying causes contributing to its onset.
+Risk Factors:
+Cholelithiasis:
+This is the most common risk factor for acute cholecystitis, accounting for 90-95% of cases. Gallstones obstructing the cystic duct lead to inflammation and infection of the gallbladder.
+Age and sex:
+Acute cholecystitis is more prevalent in older adults, particularly women. Females are twice as likely as males to develop this condition, largely due to hormonal influences on bile composition.
+Obesity:
+Overweight individuals have a higher incidence of gallstone formation and consequently, acute cholecystitis.
+Pregnancy:
+Increased levels of progesterone during pregnancy slow down gallbladder motility, increasing the likelihood of stasis and stone formation.
+Underlying Causes:
+Gallstones (cholelithiasis):
+These are formed from imbalances in the substances that make up bile. Stones can block the cystic duct leading to distension, ischemia and secondary infection resulting in acute cholecystitis.
+Bacterial infection:
+In some cases, bacterial infections such as
+E.coli
+,
+Klebsiella
+,
+Enterococcus
+, or
+Bacteroides
+, can directly cause acute cholecystitis through ascending infection.
+Acalculous cholecystitis:
+This is a less common cause of acute cholecystitis, occurring in the absence of gallstones. It often develops in critically ill patients due to gallbladder stasis and impaired perfusion.
+Vascular insufficiency:
+Ischemia or infarction of the gallbladder can lead to inflammation and necrosis, precipitating acute cholecystitis.
+Improve
+Pathophysiology
+The pathophysiology of acute cholecystitis is a complex process that involves various mechanisms. These mechanisms can be divided into three main stages: obstruction, inflammation and infection.
+Obstruction:
+The initial stage in the development of acute cholecystitis is often obstruction of the cystic duct. This is typically caused by gallstones (cholelithiasis), leading to accumulation of bile in the gallbladder.
+This accumulation increases intraluminal pressure, causing distension and ischemia of the gallbladder wall. Ischemia subsequently leads to mucosal disruption and potential necrosis.
+Inflammation:
+The second stage involves inflammation, initiated by chemical irritation due to concentrated bile and ischemic injury. This triggers an inflammatory response characterised by infiltration of neutrophils into the gallbladder wall.
+Release of inflammatory mediators such as cytokines and prostaglandins further exacerbates this response, leading to vasodilation, increased vascular permeability, oedema and pain.
+Infection:
+The final stage is infection. The stagnant bile within the inflamed gallbladder provides an ideal environment for bacterial proliferation.
+Commonly implicated organisms include
+Escherichia coli
+,
+Klebsiella
+,
+Enterococcus
+, and
+Bacteroides
+.
+In severe cases, bacterial invasion can lead to abscess formation or gangrenous cholecystitis. Perforation may occur if these complications are left untreated, potentially resulting in peritonitis or sepsis.
+The pathophysiological process of acute cholecystitis thus explains many of its common manifestations. Gallbladder distension and inflammation account for the characteristic
+right upper quadrant pain
+, while infection can lead to systemic signs such as
+fever
+and tachycardia.
+Improve
+Clinical features
+The typical presentation of acute cholecystitis often involves a patient with a history of
+biliary colic
+who now presents with persistent right upper quadrant (RUQ) pain,
+fever
+and signs of systemic inflammation. The onset is usually abrupt, often following a fatty meal, and the pain may radiate to the right shoulder or interscapular region.
+Clinical features
+Abdominal pain:
+This is typically severe, constant, and located in the RUQ or epigastrium. It can radiate to the right shoulder or back. Movement exacerbates the pain while antispasmodics provide little relief.
+Fever:
+Low-grade fever is common due to systemic inflammation.
+Nausea
+and
+vomiting
+:
+These symptoms are frequently present due to visceral irritation.
+Anorexia:
+Loss of appetite is common as patients generally do not feel like eating.
+Physical examination findings
+Murphy's sign:
+This is elicited by palpating the RUQ during inspiration. A positive sign occurs when this maneuver leads to increased pain and an inspiratory arrest.
+Atypical presentations
+The presentation of acute cholecystitis can be atypical, particularly in elderly or immunocompromised patients. They may present with vague symptoms such as malaise, low-grade fever or delirium without the classic
+RUQ pain
+.
+Complications
+Gallbladder gangrene:
+This is a severe complication that can occur if treatment is delayed. It presents with high-grade fever, tachycardia and persistent severe RUQ pain.
+Gallbladder perforation:
+This is often preceded by gallbladder gangrene and presents with signs of peritonitis.
+Emphysematous cholecystitis:
+This is a rare form caused by gas-forming organisms like
+Clostridium welchii
+,
+E.coli
+. It usually occurs in diabetic or immunocompromised patients and presents with severe sepsis.
+Gallstone ileus:
+Rarely, a large gallstone can erode into the bowel causing obstruction. It typically presents with features of intestinal obstruction and pneumobilia on imaging.
+Improve
+Investigations
+Investigation
+ultrasound is the first-line investigation of choice
+if the diagnosis remains unclear then cholescintigraphy (HIDA scan) may be used
+technetium-labeled HIDA (hepatobiliary iminodiacetic acid) is injected IV and taken up selectively by hepatocytes and excreted into bile
+in acute cholecystitis there is cystic duct obstruction (secondary to odema associated with inflammation or an obstructing stone) and hence the gallbladder will not be visualised
+Improve
+Differential diagnosis
+When considering the differential diagnosis of acute cholecystitis, three primary conditions should be considered:
+acute pancreatitis
+, peptic ulcer disease and
+acute appendicitis
+. These conditions can present with similar symptoms but have distinct clinical presentations.
+Acute Pancreatitis
+Acute pancreatitis primarily presents with severe epigastric pain radiating to the back, often associated with
+nausea
+and
+vomiting
+. This differentiates it from acute cholecystitis, where the pain is typically localised in the right upper quadrant or epigastrium and may radiate to the right shoulder or scapula.
+Laboratory findings may also aid in differentiation. In acute pancreatitis, serum amylase and lipase levels are significantly elevated, a feature not commonly seen in acute cholecystitis.
+The absence of Murphy's sign (inspiratory arrest during palpation of the right hypochondrium) can also indicate towards pancreatitis over cholecystitis.
+Peptic Ulcer Disease
+In peptic ulcer disease, abdominal pain is usually burning in nature and located in the mid-epigastrium. The timing of pain can help distinguish between these two conditions; peptic ulcer pain often occurs when the stomach is empty, particularly at night or a few hours after meals. In contrast, acute cholecystitis pain usually occurs postprandially.
+Dyspepsia, bloating and belching are more commonly associated with peptic ulcers than with acute cholecystitis.
+A history of nonsteroidal anti-inflammatory drug (NSAID) use or
+Helicobacter pylori
+infection may point towards peptic ulcer disease rather than cholecystitis.
+Acute Appendicitis
+While acute appendicitis can present with
+right upper quadrant pain
+, it typically begins as vague periumbilical pain that later localises to the right lower quadrant (McBurney's point). This migration of pain is generally not seen in acute cholecystitis.
+Unlike acute cholecystitis, anorexia often precedes the onset of pain in acute appendicitis.
+Nausea and vomiting
+, if present, usually follow the onset of abdominal pain.
+On physical examination, signs such as Rovsing's sign (pain in the right lower quadrant during left-sided pressure), obturator sign or psoas sign can suggest appendicitis over cholecystitis.
+Improve
+Management
+Management of acute cholecystitis primarily involves antibiotic therapy, pain management, and definitive treatment with cholecystectomy. Early diagnosis and intervention are key to reducing morbidity and mortality. The approach should be tailored according to the patient's age, comorbidities, severity of disease, and surgical risk.
+Initial Management
+Fluid resuscitation: Maintain adequate hydration and electrolyte balance.
+Analgesia: Provide pain relief using a stepwise approach from paracetamol to opioids as needed.
+Antibiotics: Empirical antibiotic therapy should cover gram-negative bacilli and anaerobes such as
+E.coli
+,
+Klebsiella spp.
+, and
+Bacteroides spp.
+Surgical Management
+Laparoscopic cholecystectomy is the treatment of choice. It should be performed within 72 hours of symptom onset for optimal outcomes.
+If surgery is not feasible due to high risk or severe disease, percutaneous cholecystostomy can be considered as a bridge to surgery or palliative measure in non-surgical candidates.
+Special Considerations
+In pregnant women, conservative management is preferred during the first trimester. Surgical management can be safely performed in the second trimester.
+In elderly patients or those with significant comorbidities, an individualised approach balancing risks and benefits should be adopted.
+Prolonged Antibiotic Therapy
+If cholecystectomy is not performed, prolonged antibiotic therapy may be required.
+Improve
+Complications
+Complications
+gangrenous cholecystitis
+occurs in up to 20% of patients
+perforation
+occurs in up to 10% of patients
+may result in either a pericholecystic abscess or peritonitis
+cholecystoenteric fistula
+usually seen with chronic cholecystitis
+results in air in the biliary tree (pneumobilia)
+if a gallstone passes through the fistula may result in gallstone ileus
+Improve
+References
+NICE - 2014 Gallstone disease: diagnosis and management
+UKMLA condition
+Acute cholecystitis

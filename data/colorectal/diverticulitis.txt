@@ -1,0 +1,184 @@
+Diverticulitis
+Diverticulitis
+Diverticulitis is the infection of a diverticulum, an out-pouching of the intestinal mucosa. The presence of diverticula is called diverticulosis and if these cause symptoms then it is referred to as
+diverticular disease
+. Diverticula are thought to be due to increased intra-colonic pressure and usually occur along the weaker areas of the wall such as where the penetrating arteries enter the colonic wall; almost all diverticula are found in the sigmoid colon, although they may be found in the right colon in Asian patients. Diverticula are incredibly common and it is thought that 30% of Westerners will have diverticula by the age of 60. Only about 25% of people with diverticulosis will experience symptoms but 75% of these will experience an episode of diverticulitis.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 250.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Diverticulitis
+1
+Colorectal cancer
+0.26
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Diverticulitis is a gastrointestinal condition characterised by inflammation and infection of diverticula, small pouches that can form in the lining of the digestive system. The aetiology of diverticulitis is multifactorial, involving both genetic predisposition and lifestyle factors.
+Genetic Factors
+There is evidence to suggest a genetic predisposition to
+diverticular disease
+. Familial clustering has been reported, indicating potential hereditary components.
+Certain collagen disorders associated with genetic mutations, such as Ehlers-Danlos syndrome or Marfan syndrome, may increase the risk for developing diverticula due to alterations in connective tissue structure.
+Age
+The prevalence of diverticulitis increases with age, particularly affecting individuals over the age of 50.
+Age-related changes in the strength and elasticity of the colonic wall contribute to the formation of diverticula.
+Lifestyle Factors
+Diet:
+A diet low in fibre and high in refined carbohydrates increases the risk of diverticular disease. Fibre helps to soften stools and decrease colonic pressure, thereby reducing the likelihood of diverticulum formation.
+Obesity:
+Increased body mass index (BMI) has been linked with an increased risk of symptomatic and complicated diverticular disease.
+Physical activity:
+Regular physical activity appears to lower the risk of symptomatic diverticular disease possibly through improved bowel motility.
+Tobacco use:
+Smoking has been identified as a significant risk factor for developing symptomatic and complicated diverticular disease due to its adverse effects on blood vessels and inflammatory response.
+Medications:
+Certain medications including non-steroidal anti-inflammatory drugs (NSAIDs), steroids, and opiates have been associated with an increased risk of developing diverticular complications.
+Infectious Agents
+While the role of specific infectious agents in the development of diverticulitis is not well defined, it has been suggested that changes in gut microbiota may contribute to disease pathogenesis. For example, increased presence of
+Escherichia coli
+and reduced diversity of commensal bacteria have been observed in patients with diverticulitis.
+Improve
+Pathophysiology
+Diverticulitis
+is a condition marked by inflammation of diverticula, pouch-like structures that form in the colon wall. The pathogenesis of diverticulitis is multifactorial and involves several interrelated steps.
+Firstly, the formation of
+diverticula
+occurs due to increased intraluminal pressure within the colon leading to herniation of mucosa and submucosa through the muscularis propria at points of weakness. These points are typically where blood vessels penetrate the colon wall.
+The next step in the pathogenesis involves
+retention of faecal material
+within these diverticula. The narrow necks of these pouches make them prone to obstruction by hard stools or food particles, creating an environment conducive for bacterial proliferation.
+This leads to the third step which is
+bacterial overgrowth
+. The trapped faecal matter provides a rich substrate for colonic bacteria such as
+Bacteroides fragilis
+,
+E.coli
+, and other anaerobic organisms. This results in localised infection and inflammation.
+The fourth step sees an increase in
+inflammatory response
+. The body's immune system responds to this bacterial invasion by releasing inflammatory mediators like cytokines. This causes swelling, redness, and pain associated with diverticulitis.
+The fifth stage is characterised by the development of
+microperforations or macroperforations
+. As inflammation progresses, pressure builds up within the diverticulum leading to rupture. Microperforation may lead to peridiverticular abscess formation whereas macroperforation can cause peritonitis or fistulae formation with adjacent organs.
+Improve
+Clinical features
+Patients with
+diverticular disease
+typically present with a chronic history of:
+Intermittent abdominal pain: particularly in the left lower quadrant
+Bloating
+Change in bowel habit
+: constipation or diarrhoea
+Patients with acute diverticulitis typically present with an acute onset of:
+Severe abdominal pain in the left lower quadrant: this may be in the right lower quadrant in some Asian patients
+Nausea
+and
+vomiting
+(20-60%): this may be due to ileus or complicated diverticulitis with colonic obstruction
+Change in bowel habit: constipation is more common (seen in 50%) but diarrhoea is also reported (25%)
+Urinary frequency, urgency or dysuria (10-15%): this is due to irritation of the bladder by the inflamed bowel.
+PR bleeding (in some cases).
+Symptoms such as pneumaturia or faecaluria may suggest colovesical fistula while vaginal passage of faeces or flatus may suggest a colovaginal fistula.
+Signs:
+Low grade
+pyrexia
+Tachycardia
+Tender LIF: in 20% there will be a tender palpable mass due to inflammation or an abscess
+Possibly reduced bowel sounds
+Guarding, rigidity and rebound tenderness may suggest complicated diverticulitis with  perforation
+Lack of improvement with treatment in seemingly uncomplicated diverticulitis may suggest the presence of an abscess.
+Improve
+Investigations
+Investigating a suspected case of diverticulitis begins with first-line investigations. These primarily include imaging studies and laboratory tests.
+First-Line Investigations
+Imaging Studies:
+Computed Tomography (CT) scan is the imaging modality of choice in acute diverticulitis. It provides detailed information about the extent and severity of the disease, complications such as abscess or perforation, and helps rule out other differential diagnoses. CT scans have a sensitivity and specificity of approximately 95% for diagnosing diverticulitis.
+Laboratory Tests:
+Complete Blood Count (CBC) can reveal leukocytosis which is common in acute diverticulitis but not specific. C-reactive protein (CRP) levels are often elevated in patients with acute diverticulitis, reflecting systemic inflammation.
+In some cases, further investigations may be necessary to confirm the diagnosis, evaluate complications or rule out other conditions.
+Further Investigations
+Sigmoidoscopy or Colonoscopy:
+These are generally avoided during the acute phase due to risk of perforation but may be performed 6 weeks after an episode to confirm the diagnosis and exclude other conditions such as
+colorectal cancer
+. However, colonoscopy should be avoided if there is severe inflammation or abscess formation.
+Magnetic Resonance Imaging (MRI):
+This can be used when CT scanning is contraindicated or inconclusive. MRI has similar sensitivity and specificity rates to CT scanning for diagnosing diverticulitis.
+Microbiological Studies:
+If an abscess is present, aspiration under radiological guidance followed by microbiological analysis can help guide antibiotic therapy. Common organisms associated with diverticulitis include
+Escherichia coli
+,
+Bacteroides
+species, and other gram-negative rods.
+Improve
+Differential diagnosis
+Diverticulitis often presents with a clinical picture similar to other abdominal pathologies, making its diagnosis challenging. A differential diagnosis should include conditions such as colon cancer, inflammatory bowel disease (IBD), and irritable bowel syndrome (IBS).
+Colon Cancer:
+Unlike diverticulitis, which typically presents with acute
+left lower quadrant pain
+, colon cancer often has a more insidious onset. It may present with weight loss, anaemia, or altered bowel habits over weeks to months.
+In contrast to the tenderness on palpation frequently seen in diverticulitis, a palpable mass might be found in patients with colon cancer.
+The presence of occult blood in stool may suggest colon cancer; however, this can also be seen in complicated diverticulitis.
+Inflammatory Bowel Disease (IBD):
+Both Crohn's disease and ulcerative colitis can mimic the symptoms of diverticulitis. However, these conditions often manifest at an earlier age and may present with extraintestinal symptoms like arthritis or uveitis.
+The abdominal pain associated with IBD is usually chronic and recurrent rather than acute and localized as in diverticulitis.
+While diarrhoea mixed with blood or mucus is common in IBD, it is not a typical feature of uncomplicated diverticulitis.
+Irritable Bowel Syndrome (IBS):
+Although both IBS and diverticulitis can cause abdominal discomfort and changes in bowel habits, the pain associated with IBS is often relieved by defecation, which is not the case in diverticulitis.
+IBS does not typically cause systemic symptoms such as
+fever
+or leukocytosis, which are common in acute diverticulitis.
+Pain in IBS is often chronic and fluctuating, while diverticulitis usually presents with an acute onset of pain.
+Improve
+Management
+In the management of diverticulitis, it's essential to classify the severity of the disease. This can be done using Hinchey Classification or Ambrosetti's criteria. The treatment plan is then tailored according to the severity.
+Medical Management
+Uncomplicated diverticulitis can often be managed conservatively with oral antibiotics (e.g., co-amoxiclav, ciprofloxacin plus metronidazole) and analgesics as needed. Ensure patients are adequately hydrated.
+Patients with severe symptoms, unable to tolerate oral intake, or at high risk for complications should be hospitalised for intravenous antibiotics (e.g., piperacillin-tazobactam or meropenem).
+Surgical Management
+Surgery is indicated in complicated diverticulitis such as perforation, abscess formation, fistulae or obstruction. Urgent surgical consultation is necessary in these cases.
+Two main surgical interventions include primary resection with anastomosis and Hartmann's procedure depending on patient stability and intraoperative findings.
+Laparoscopic peritoneal lavage may be considered in selected patients with purulent peritonitis.
+Interventional Radiology
+Percutaneous abscess drainage under radiological guidance may be utilised prior to elective surgery in patients presenting with a diverticular abscess.
+Prophylactic Measures
+After resolution of acute diverticulitis episode, consider prophylactic measures such as high-fibre diet and mesalazine to prevent recurrence.
+Improve
+Complications
+Diverticulitis, an inflammation of the diverticula in the digestive tract, can lead to a variety of complications. These are often serious and require immediate medical attention.
+Complications of Diverticulitis:
+Abscess formation:
+One of the most common complications is the development of an abscess, a pocket of pus that forms around the inflamed diverticula. This can cause severe abdominal pain and
+fever
+. In severe cases, percutaneous drainage may be required.
+Fistula:
+Chronic inflammation can lead to abnormal connections between different parts of the bowel or between the bowel and other organs such as bladder (colovesical fistula) or vagina (colovaginal fistula). Fistulas often present with recurrent urinary tract infections or pneumaturia in case of colovesical fistulas or passage of faeces from vagina in case of colovaginal fistulas.
+Bowel obstruction:
+Repeated bouts of diverticulitis can lead to scarring and narrowing of the lumen causing partial or complete bowel obstruction. Symptoms include cramping abdominal pain, bloating, constipation and
+vomiting
+.
+Peritonitis:
+If an inflamed diverticulum perforates it can spill intestinal contents into the peritoneal cavity leading to peritonitis which is a medical emergency. It presents with acute abdomen - severe abdominal pain, distension, fever and signs of sepsis.
+Sepsis:
+The infection can spread into the bloodstream causing systemic inflammatory response syndrome (
+SIRS
+) leading to sepsis which is life-threatening. Patients may present with high fever, rapid heart rate, rapid breathing rate and confusion.
+Improve
+References
+Clinical Knowledge Summaries - Acute diverticulitis
+Colorectal surgery
+Diverticulitis

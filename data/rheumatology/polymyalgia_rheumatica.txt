@@ -1,0 +1,250 @@
+Polymyalgia rheumatica
+Polymyalgia rheumatica
+Polymyalgia rheumatica (PMR) is an inflammatory condition that causes pain and stiffness in the shoulder and pelvic girdles. It rarely occurs in those under 50 years of age and is more common in women (3:1 female to male ratio).
+The symptoms of patients with PMR usually respond very well and very quickly to treatment with oral
+corticosteroids
+but courses of treatment are often protracted over 2-3 years.
+Although the pathophysiological mechanisms are unclear, 15% of patients with PMR develop
+giant cell arteritis
+(GCA) so it is important to make patients aware of the signs and symptoms of GCA and to seek urgent medical attention if these occur.
+Last updated: 19
+th
+March 2023
+Epidemiology
+Incidence: 84.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 2:1
+Condition
+Relative
+incidence
+Cervical spondylosis
+3.57
+Polymyalgia rheumatica
+1
+Fibromyalgia
+0.71
+Rheumatoid arthritis
+0.48
+Temporal arteritis
+0.24
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+PMR predominantly affects individuals aged 50 and older, with an incidence rate peaking between 70 and 80 years of age.  It is around 3 times more common in women.
+The exact cause for polymyalgia rheumatica is unknown but there is limited evidence to suggest a combination of environmental and genetic factors:
+Environmental factors - studies showing a seasonal variation in the incidence of PMR have suggested the role of an infectious trigger (e.g. adenovirus, respiratory syncytial virus)
+Genetic factors - the observation of higher rates in those of northern European descent and associations between HLA-DRB1*04 and -DRB1*01 alleles have been observed, which may increase susceptibility to developing PMR.
+Improve
+Pathophysiology
+Although PMR is an inflammatory condition, the exact pathophysiology remains unclear. The association that this condition has to
+giant cell arteritis
+(GCA) has led to studies to look for vasculitis in vessels in the neck and shoulder and hip girdles but to date there is no evidence to suggest PMR is a vasculitic process.
+To date, immunochemical studies have shown:
+Increased levels of interleukin (IL)-6 present in the serum in patients with PMR and GCA.
+Interferon (IFN) gamma in patients with GCA but not PMR, suggesting a that IFN gamma may have a role in progression to vasculitis.
+Decreased numbers of B-cells in newly-diagnosed PMR patients when compared to controls. This may imply a regulatory mechanism for B cells in the pathogenesis of PMR.
+Improve
+Clinical features
+The key features that prompt consideration of PMR include a subacute onset (2-6 week history) of:
+Shoulder and/or pelvic girdle pain and stiffness lasting at least 45 minutes (may be initially unilateral but then becomes bilateral).
+Shoulder girdle pain (70-95%). This can be accompanied by tenderness, signs of bursitis and restriction of shoulder movement (e.g. difficulty raising their arms to brush their hair or getting out of bed). Patients may also localise pain and tenderness to the neck muscles.
+Pelvic girdle pain (50-70%). Tenderness and signs of bursitis may be observed and, on observation, patients may have difficulty rising from a chair.
+Improvement in symptoms in one week with a trial of
+corticosteroids
+(usually prednisolone 15mg) (70%).
+Systemic symptoms (40-50%). Includes low grade fever,
+fatigue
+,
+anorexia
+,
+weight loss
+and
+depression
+.
+Peripheral oligoarticular arthritis (50%). The wrists, knees and metacarpophalangeal joints may be affected at presentation. However, other conditions that can mimic PMR (e.g.
+rheumatoid arthritis
+) can also present with these features.
+If the patient is younger than 50, an alternative explanation for the above symptoms should be sought as PMR is very rare in this age group. Normal inflammatory markers would also be very unusual in patients with PMR.
+In the history, it may also be useful to screen for red flags of paraneoplastic conditions that can mimic PMR so a systems review covering respiratory, urinary, haematological and gastrointestinal symptoms can be used to guide further testing.
+On examination, it is also important to consider that patients do not usually present with weakness so if this is detected, other causes should be considered (e.g. polymyositis). However, this recommendation is based on the observation that patients tend not to delay seeking treatment due to the pain and limitation PMR causes. If a patient has delayed treatment for several months then some muscle wasting through reduced activity may have occurred.
+Improve
+Referral criteria
+Most patients with PMR can be managed in primary care.
+Patients requiring referral
+NICE guidelines recommend referring the following people to a rheumatologist who present with atypical features of PMR:
+Those younger than 60 years of age
+Have red flags of serious pathology (including
+weight loss
+, night pain or neurological features) but do not have any other identifiable cause for these
+Do not have the core symptoms of PMR
+Bilateral shoulder/pelvic girdle pain
+>45 minutes of morning stiffness
+Have unusual features of PMR
+Normal, or very high inflammatory markers
+Chronic onset of symptoms
+Limited response to steroids
+Rheumatoid arthritis
+can have an initial phase that presents similarly to PMR and so the presence of synovitis or clinical features suggestive of rheumatoid arthritis should prompt consideration of this as a potential diagnosis and referral to secondary care for confirmation.
+If patients present with PMR present with symptoms of
+giant cell arteritis
+(headache, jaw claudication, visual disturbance) then urgent referral should be sought.
+Improve
+Investigations
+Baseline blood tests
+CRP/ESR - both are usually is elevated at diagnosis. Whilst CRP is more sensitive than ESR (98.9% compared with 91.5%), elevated ESR has been associated with a higher risk of relapse. Localities may differ in terms of policy as to whether you can test for both or whether one is preferred.
+Further blood tests to rule out other conditions are recommended. Below is a suggested list based on NICE guidelines and with reference to the differentials listed (see differential diagnosis section). The following would be expected to be normal in PMR but raised in the conditions listed:
+FBC - infections, leukaemia
+U&E - myeloma, renal failure
+LFT - infections, metastatic disease
+TSH - hypothyroidism
+Calcium - hyperparathyroidism, metastatic disease
+Creatine kinase - polymyositis, statin-induced myopathy.
+Serum protein electrophoresis - myeloma
+Rheumatoid factor and anti-CCP -
+rheumatoid arthritis
+Other cancer biomarkers (e.g. PSA, CA-125) if there are features in the history suggestive of these conditions.
+Additional tests recommended include:
+Urine dip - looking for haematuria as suggestive of cancer.
+Urinary Bence Jones protein - myeloma
+Chest x-ray - lung cancer, also needed as a baseline prior to considering methotrexate, which may be used in secondary care.
+Imaging
+Imaging is rarely needed to diagnose PMR and would rarely be requested in primary care. However, if the diagnosis is unclear, ultrasound can be helpful to screen for bursitis with trochanteric bursitis being the most common bursitis and subacromial bursitis being associated with PMR.
+Improve
+Diagnosis
+There are several different guidelines that have varying inclusion and exclusion criteria for polymyalgia rheumatica (such as the British Society of
+Rheumatology
+, American College of Rheumatology) but the common ground between each guideline can be summarised as:
+Age >50 years
+Acute or subacute onset of symptoms representative of PMR
+Bilateral pelvic and/or shoulder girdle aching
+Morning stiffness lasting >45 minutes
+Response to
+corticosteroids
+(prednisolone)
+A good response to steroids (clinical and inflammatory marker improvement by three to four weeks) is typical of PMR. Clinical features often show earlier improvement than the inflammatory markers (70% within the first week of treatment).
+Acute phase response
+Elevated CRP or ESR adds weight to the diagnosis but normal results do not exclude PMR if the clinical features and response to steroids are typical.
+Exclusion of other conditions that mimic PMR
+BSR guidelines (2009) specify active infection, active cancer and
+giant cell arteritis
+(GCA) as the core exclusion criteria. The presence of other inflammatory rheumatological, endocrine or neurological conditions, chronic pain syndromes and drug induced
+myalgia
+also make the diagnosis of PMR less likely.
+Improve
+Differential diagnosis
+There are a wide range of rheumatological, endocrine, degenerative, paraneoplastic and infective diseases that can present similarly to polymyalgia rheumatica. These are grouped below from most to least common within each group:
+Rheumatological
+Giant cell arteritis
+(GCA)
+Similarities: Bilateral shoulder and hip girdle pain and stiffness, acute or subacute onset, age >50,
+raised inflammatory markers
+.
+Differences: Given the overlap between these conditions the key differentiating features are the primary symptoms of GCA (unilateral headache, jaw claudication, visual disturbance, tender or thickened temporal artery on palpation).
+Rheumatoid arthritis
+Similarities: Bilateral shoulder and hip girdle pain and stiffness, acute or subacute onset, raised inflammatory markers, may have pauci-articular arthritis.
+Differences: Patients with this condition do not respond as well to corticosteroid treatment as those with PMR. Another differentiator is the presence of autoantibodies (e.g. anti-CCP - 100% specific for late onset-RA).
+Fibromyalgia
+Similarities: Bilateral hip and shoulder girdle pain, there may be some systemic symptoms such as
+lethargy
+or low mood. In both conditions, patients may show initial improvement on
+corticosteroids
+.
+Differences: The pain of fibromyalgia tends to be more widespread and would not have the prolonged stiffness that is associated with PMR. Inflammatory markers would also be normal.
+Polymyositis
+Similarities: Bilateral hip and shoulder
+muscle pains
+, systemic symptoms.
+Differences: Patients with polymyositis will often present with weakness associated with pain, which would be more unusual in polymyalgia patients (although if untreated over time then PMR can cause weakness as well). Raised creatine kinase (CK) is much more common with polymyositis.
+Endocrine
+Hypothyroidism
+Similarities: muscle and joint pain and systemic symptoms of fatigue, low mood and generalised weakness.
+Differences: Elevated TSH is the key differentiator. CK may also be elevated with hypothyroidism and, although a rare finding on examination, the delayed relaxation of deep tendon reflexes is associated with hypothyroidism.
+Hyperparathyroidism
+Similarities: muscle pains, low mood, lethargy,
+anorexia
+, weakness.
+Differences: Hypercalcaemia is the main differentiator. Depending on the cause of hyperparathyroidism the phosphate can be elevated or low.
+Degenerative
+Overuse bursitis/tendonitis
+Similarities: pain and stiffness affecting shoulders or hips.
+Differences: patients with this condition would not have systemic symptoms, would have normal inflammatory markers and be more likely to have unilateral involvement and a history suggestive of activity suggestive of overuse.
+Bilateral adhesive capsulitis
+Similarities: bilateral shoulder pains and stiffness.
+Differences: more prolonged onset of adhesive capsulitis and limitation of movement. Normal inflammatory markers would be observed in adhesive capsulitis and the absence of systemic symptoms.
+Paraneoplastic conditions
+Multiple myeloma
+Similarities: bone pain, systemic symptoms, raised ESR.
+Differences: symptoms of night sweats would be less common for PMR than myeloma. Bence Jones protein and/or serum protein electrophoresis are the key differentiators.
+Acute leukaemia
+Similarities: bone pain, systemic symptoms.
+Differences: patients with leukaemia more likely to present with bleeding, bruising, pallor, recurrent infections.
+Lymphoma
+Similarities: pain, systemic symptoms .
+Differences: presence of lymphadenopathy in lymphoma, night sweats, more noticeable
+weight loss
+.
+Lung cancer (Pancoast tumours)
+Similarities: upper back/shoulder pain, systemic symptoms.
+Differences: pain with such tumours would usually be constant, unremitting and not associated with stiffness. Presence of cough, dyspnoea, hoarseness or signs of Horner's syndrome would also be much more indicative of lung cancer.
+Infective diseases
+Viral illness
+Similarities: muscle pains, systemic symptoms, acute or subacute onset.
+Differences: additional upper respiratory tract (e.g. sore throat, cough, coryza) or gastrointestinal symptoms may differentiate as well as the pattern of onset and muscles affected.
+Drug-related
+Statin-induced myopathy
+Similarities: bilateral, symmetrical muscle girdle pains, acute or subacute onset.
+Differences: patients on statins with raised CK should prompt a trial of stopping the statin to exclude this condition.
+Improve
+Management
+The majority of patients with PMR are managed in primary care with referral to secondary care only necessary if patients are not responding to treatment or when there is diagnostic doubt.
+Primary care management
+In primary care patients are treated with oral
+corticosteroids
+and gradually weaned off them with dose adjustments typically being every 4-8 weeks and reviews (telephone or face to face) scheduled for one week after each dose adjustment.
+If patients start to develop symptoms, after a dose reduction, the reduction may need to be slowed and in some cases the dose may need to be increased to the last dose that their symptoms were controlled on.
+Routine blood test monitoring is not required as symptoms should be used to guide dose reductions. Blood test monitoring may be useful for monitoring adverse effects of steroids.
+Other important aspects of primary care management include:
+Safety netting about the signs and symptoms of
+giant cell arteritis
+and ensure patients know to seek urgent medical care if these develop.
+Counselling patients about the adverse risks of steroids including increased susceptibility to infection, effects on blood sugars and blood pressure and advice not to stop treatment suddenly. Clear guidance that advocates starting patients on bisphosphonate treatment is lacking but if using risk assessment tools (e.g. FRAX), it is important to consider that these may underestimate the risk of fractures.
+Secondary care management
+Patients should be referred if they have frequent relapses or are at higher risk of adverse effects from corticosteroid treatment, whether this is due to prolonged duration or treatment or other comorbidities.
+In secondary care, patients may be considered for DMARD treatment as 2nd line therapy (e.g. methotrexate) or tocilizumab as 3rd line.
+Improve
+Complications
+- Chronic relapsing course - where symptoms exacerbate frequently when reducing the dose of
+corticosteroids
+. This prolongs corticosteroid treatment, increasing the risks associated with them.
+Risks of corticosteroids
+Osteoporosis
+Increased risk of infection
+Type 2 diabetes mellitus
+Hypertension
+Cataract
+Glaucoma
+Skin changes - such as thinning or bruising
+Giant cell arteritis
+- the risk of this occurring in patients with PMR is around 15% and it is important to warn patients about the risk of this to reduce their risk of permanent visual impairment.
+Improve
+Prognosis
+The typically dramatic improvement with steroids, observed in symptoms and function, makes PMR a very satisfying condition to treat.
+At the outset, it is worth outlining that as the dose of steroids is gradually reduced, many patients will experience a relapse at some point during the reduction and patients are usually on steroids for 2-3 years.
+Factors that increase the risk of relapse or need for prolonged treatment include:
+Female sex
+High inflammatory markers
+Peripheral arthritis
+Improve
+References
+Clinical Knowledge Summaries - Polymyalgia rheumatica guidelines
+British Society for Rheumatology - BSR and BHPR guidelines for the management of polymyalgia rheumatica
+Rheumatology
+Polymyalgia rheumatica

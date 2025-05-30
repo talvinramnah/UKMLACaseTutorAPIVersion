@@ -1,0 +1,117 @@
+Paroxysmal hemicrania
+Paroxysmal hemicrania
+Paroxysmal hemicrania (PH) is defined by attacks of severe,
+unilateral headache
+, usually in the orbital, supraorbital or temporal region. These attacks are often associated with autonomic features, usually last less than 30 minutes and can occur multiple times a day. PH sits within the group of disorders called trigeminal autonomic cephalgias which also contains
+cluster headache
+, a condition which shares many features with PH. Importantly, PH is completely responsive to treatment with indomethacin.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.20 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Migraine
+25000.00
+Trigeminal neuralgia
+75.00
+Cluster headache
+50.00
+Paroxysmal hemicrania
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Again, the development of PH is poorly understood. Factors associated with diagnosis include;
+There is often a family history of PH in newly-diagnosed patients
+This implies that there may be genetic or environmental causes to PH.
+Around 50% of patients also have a personal history of
+migraine
+This is a higher rate than amongst the general population, meaning there may be an element of shared pathogenesis between the two conditions.
+Improve
+Pathophysiology
+The pathophysiology of PH is poorly understood, in part due to the rarity of the condition. Changes during attacks are similar to those seen during episodes of
+cluster headache
+and include;
+Elevated levels of calcitonin gene-related peptide and vasoactive intestinal polypeptide
+This likely indicates activation of the trigeminal microvascular and cranial parasympathetic systems.
+Functional MRI demonstrates activation in the posterior hypothalamic region, a common feature amongst all trigeminal autonomic cephalgias.
+The complete response of PH to indomethacin compared to the lack of effect in cluster headache remains unexplained. It is thought that the inhibition of nitric oxide production is important, although there are likely to be other factors which might give further clues to the difference in pathophysiology between the two conditions.
+Improve
+Clinical features
+Diagnosis of PH is a clinical one, based on clinical history and normal examination and investigations. With this in mind, it can be helpful to encourage patients to keep a headache diary to monitor any patterns to their symptoms.
+The International Headache Society defines PH as having 20 attacks which fulfil all of the following criteria;
+Severe unilateral orbital, supraorbital and/or temporal pain lasting 2-30 minutes
+Either or both of the following:
+At least one of the following symptoms ipsilateral to the headache: conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, eyelid oedema, forehead or facial sweating,
+miosis
+or
+ptosis
+.
+Restlessness or agitation
+Occurring with frequency >5 times daily
+Prevented absolutely by therapeutic doses of indomethacin
+Not better accounted for by another ICHD-3 diagnosis
+The most common distribution of the headache is temporal and orbital. Some recent studies have advocated for the removal of the headache distribution criteria, noting that some patients complain of occipital, vertex and frontal headache.
+Of autonomic features, lacrimation (87% of patients), conjunctival injection (68% of patients) and rhinorrhoea (58% of patients) are the most common features
+Improve
+Investigations
+With diagnosis being clinical, investigations are only used to exclude other pathologies.
+Blood tests to consider include;
+Erythrocyte sedimentation rate, which might indicate inflammatory pathology such as giant cell arteritis if raised
+Pituitary function tests might be considered if a pituitary tumour is suggested, either by the presence of a visual field deficit or by secondary symptoms such as infertility.
+Imaging of the brain, either CT or MRI, can be used to exclude causes of secondary headache, such as cavernous sinus pathology or space-occupying lesion.
+In any case of severe,
+unilateral headache
+, a diagnostic trial of indomethacin can be considered, sometimes referred to as an 'indotest'. In patients with PH, a 50mg IM injection of indomethacin would be expected to give almost immediate protection from any further attacks for around 12 hours. This response is not seen in other trigeminal autonomic cephalgias, and can secure the diagnosis of PH.
+Improve
+Differential diagnosis
+The main differential diagnosis is other causes of trigeminal autonomic cephalgia, most notably
+cluster headache
+. Other differentials include;
+Other primary headache disorders such as
+migraine
+. Migraine might co-exist with PH
+Trigeminal neuralgia
+, which can present in the same distribution
+As with any headache, it is important to consider sinister causes, such as space-occupying lesions.
+Both PH and cluster headache present with very severe, sharp, throbbing pain in similar distributions, mainly orbital and temporal areas. Features that distinguish PH from cluster headache include;
+Feature
+Paroxysmal hemicrania
+Cluster headache
+Gender distribution
+Male and female equal
+Male:female = 3:1
+Frequency of attacks
+Over 20
+1-8 daily
+Duration of attacks
+2-30 minutes
+30-180 minutes
+Effect of oxygen
+No effect
+Some response
+Effect of indomethacin
+100% response
+No effect
+Improve
+Management
+One of the defining characteristics of paroxysmal hemicrania is its complete resolution with indomethacin treatment. The International Headache Society recommends treatment with;
+150mg of oral indomethacin daily
+This can be increased to 225mg daily if required
+Absence of response to indomethacin should prompt consideration of an alternative diagnosis.
+Improve
+Neurology
+Paroxysmal hemicrania

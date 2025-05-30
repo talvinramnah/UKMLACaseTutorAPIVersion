@@ -1,0 +1,202 @@
+Giardiasis
+Giardiasis
+Giardia lamblia
+, a flagellated protozoan parasite, is the causative agent of giardiasis. This gastrointestinal infection primarily manifests as
+diarrhoea
+accompanied by abdominal cramps,
+flatulence
+and
+weight loss
+. Giardiasis is predominantly contracted through ingestion of cyst-contaminated water or food, or via direct person-to-person transmission in settings with poor sanitation. The diagnosis is confirmed by identifying
+G. lamblia
+cysts or trophozoites in stool samples or duodenal aspirates.
+Management involves rehydration and specific antiparasitic therapy. Metronidazole, tinidazole and nitazoxanide are commonly used treatments, although resistance to these drugs has been reported. Alternative therapies include paromomycin and quinacrine. Despite successful treatment, post-infectious lactose intolerance may persist in some patients.
+Prevention strategies encompass improving water quality, promoting hand hygiene practices and ensuring safe food preparation methods.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 25.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Viral gastroenteritis
+200.00
+Coeliac disease in adults
+4.00
+Giardiasis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Giardiasis is an intestinal infection caused by the protozoan parasite
+Giardia lamblia
+, also known as
+Giardia intestinalis
+. It is a leading cause of diarrhoeal disease worldwide. The following section details its various risk factors and underlying causes.
+Risk Factors:
+Environmental exposure:
+The primary mode of transmission for giardiasis is faecal-oral, often through ingestion of contaminated water or food. This can occur in areas with poor sanitation and hygiene practices, or where water treatment facilities are inadequate.
+Travel:
+Travelling to endemic regions, particularly those lacking adequate sanitation infrastructure, increases the risk of acquiring giardiasis. This includes both developing countries and certain rural or wilderness areas in developed countries.
+Institutional settings:
+Outbreaks have been reported in daycare centres, schools and other institutional settings due to close contact among individuals and possible faecal contamination.
+Socioeconomic status:
+Lower socioeconomic status correlates with higher incidence rates of giardiasis due to factors such as limited access to clean water and sanitation services.
+Contact with infected individuals or animals:
+Close contact with an infected individual or animal can result in transmission. This includes household members, sexual partners, and pets that may carry the parasite.
+Underlying Causes:
+Weakened immunity:
+Individuals with weakened immune systems due to conditions like HIV/AIDS, malnutrition or immunosuppressive therapies are at increased risk of developing severe and prolonged infection.
+Age:
+Children, particularly those in daycare centres or institutions, have a higher risk of infection due to their immature immune systems and likelihood of faecal-oral transmission.
+Gastric acidity:
+Reduced gastric acid levels, whether from antacid use or conditions causing hypochlorhydria, can increase susceptibility by allowing more cysts to survive passage through the stomach.
+Improve
+Pathophysiology
+Giardia lamblia
+, also known as
+Giardia intestinalis
+, is the protozoan parasite responsible for causing Giardiasis. This pathogen primarily infects the small intestine, resulting in a range of gastrointestinal manifestations.
+The life cycle of
+G. lamblia
+begins with ingestion of cysts from contaminated water or food. These hardy cysts can resist harsh environmental conditions and survive outside the host body, thus facilitating transmission.
+In the stomach, gastric acid triggers excystation, releasing trophozoites that quickly move to the small intestine. Here, they attach to enterocytes using a ventral sucking disc and begin replication by binary fission.
+Pathophysiological Mechanisms:
+Trophozoite attachment: The attachment of trophozoites to the intestinal epithelium does not cause direct tissue damage; however, it leads to malabsorption due to disruption of brush border enzymes and transport mechanisms. This results in symptoms such as
+diarrhoea
+and steatorrhea.
+Immune response: The host immune response plays a significant role in determining disease severity. While an effective humoral response can limit infection spread, overactivation may contribute to inflammation and tissue damage.
+Mucosal barrier disruption:
+G. lamblia
+may disrupt tight junction proteins between enterocytes leading to increased intestinal permeability. This can result in loss of fluids and electrolytes contributing further to diarrhoeal symptoms.
+The pathogen's ability to evade host immunity plays a key role in persistent infections. Mechanisms include antigenic variation where the parasite alters its surface antigens making it unrecognisable to previously sensitised immune cells.
+Improve
+Clinical features
+A stereotypical presentation of
+Giardiasis
+often begins with the onset of acute or chronic
+diarrhoea
+, which is typically foul-smelling and greasy in nature. Accompanying symptoms may include
+flatulence
+, abdominal cramps, and
+bloating
+. Some patients may also present with
+nausea
+,
+vomiting
+, and loss of appetite.
+Weight loss
+can be a common feature in cases where the condition has persisted for several weeks.
+Presenting Features:
+Gastrointestinal Symptoms:
+Predominantly, Giardiasis manifests as diarrhoea that is malodorous and fatty (
+steatorrhoea
+). The diarrhoea may be intermittent or continuous. Other gastrointestinal symptoms include flatulence, bloating, and abdominal discomfort or pain. These are due to the parasite's effect on the intestinal mucosa leading to malabsorption.
+Nausea and Vomiting
+:
+Nausea is a common symptom experienced by patients, occasionally accompanied by vomiting. These symptoms are likely due to irritation of the gastric mucosa by the parasite.
+Anorexia and Weight Loss:
+Affected individuals frequently experience a decreased appetite (anorexia), which coupled with malabsorption can result in significant weight loss over time.
+Mild
+Fever
+:
+Although not as common as gastrointestinal symptoms, some patients may present with low-grade fever.
+Lactose Intolerance:
+Temporary lactose intolerance can occur due to damage to the intestinal villi where lactase is produced. This usually resolves once treatment has been completed and healing of the gut lining occurs.
+Beyond these typical features, Giardiasis can sometimes present with extraintestinal manifestations including
+urticaria
+, reactive arthritis and biliary disease. These are thought to be immune-mediated responses to the
+Giardia
+infection.
+In children, chronic Giardiasis can lead to failure to thrive, malnutrition, and cognitive impairment due to poor nutrient absorption and recurrent diarrhoea.
+It is important to note that a significant proportion of patients with Giardiasis may be asymptomatic carriers. This group plays a key role in the spread of the infection within communities or households.
+Improve
+Investigations
+Stool microscopy for trophozoite and cysts are classically negative, therefore duodenal fluid aspirates or 'string tests' (fluid absorbed onto swallowed string) are sometimes needed
+Improve
+Differential diagnosis
+When considering a differential diagnosis for giardiasis, it is essential to evaluate other gastrointestinal infections that present similarly. The three most likely alternate diagnoses include
+Cryptosporidium
+infection,
+Entamoeba histolytica
+infection, and irritable bowel syndrome (IBS).
+Cryptosporidium
+Infection:
+The clinical presentation of
+Cryptosporidium
+can be similar to giardiasis, with symptoms such as
+diarrhoea
+, abdominal cramps,
+nausea
+,
+vomiting
+, and low-grade
+fever
+. However, unlike giardiasis which often presents with foul-smelling stools and
+flatulence
+, these are not typically seen in
+Cryptosporidium
+infection.
+In immunocompetent individuals, the duration of illness in
+Cryptosporidium
+is usually shorter than in giardiasis. While giardiasis can persist for weeks to months if untreated, cryptosporidiosis generally self-resolves within 1-2 weeks.
+Cryptosporidium
+, unlike Giardia lamblia, has a predilection for the biliary tract and may cause acalculous cholecystitis.
+Entamoeba histolytica
+Infection:
+The primary differentiating factor between an
+E. histolytica
+infection and giardiasis lies in their clinical presentation. While both diseases present with diarrhoea and abdominal discomfort, dysentery characterised by bloody stools is more commonly associated with amoebic colitis caused by
+E. histolytica.
+Amebic liver abscess, a complication of
+E. histolytica
+infection, presents with right upper quadrant pain and hepatomegaly, features not typically seen in giardiasis.
+Unlike giardiasis which is often acute or subacute in onset,
+E. histolytica
+infection may remain asymptomatic for years before manifesting clinically.
+Irritable Bowel Syndrome (IBS):
+While both IBS and giardiasis can present with chronic diarrhoea and abdominal discomfort, the nature of these symptoms differ. In IBS, the
+abdominal pain
+is often relieved by defecation and associated with changes in stool frequency or form.
+The presence of systemic symptoms such as
+weight loss
+and fever suggests an infectious aetiology like giardiasis rather than IBS.
+In contrast to infectious causes, the onset of IBS is usually gradual and symptoms are often chronic or recurrent over many years.
+Improve
+Management
+The management of
+Giardiasis
+involves both pharmacological and supportive measures. The primary aim is to eradicate the parasite, alleviate symptoms, and prevent recurrence.
+Pharmacological Management:
+The first-line treatment for
+Giardiasis
+in adults and children over six months is Metronidazole. It should be taken orally for five to seven days.
+Tinidazole and Nitazoxanide are alternative options if Metronidazole cannot be used or if the infection is resistant. These agents also have a shorter course of treatment.
+In cases where the patient cannot tolerate these drugs or if they are contraindicated, Paramomycin can be considered as an alternative.
+Supportive Management:
+Rehydration therapy should be initiated in patients presenting with dehydration due to
+diarrhoea
+. Oral rehydration solutions are preferred unless severe dehydration warrants intravenous fluids.
+Adequate nutrition should be maintained despite diarrhoeal symptoms. Normal diet can usually be continued; however, some patients may benefit from a lactose-free diet during the acute phase of illness.
+Infection Control:
+Patients diagnosed with
+Giardiasis
+should adhere to strict personal hygiene practices to prevent spread of infection. This includes thorough handwashing after using the toilet and before preparing food.
+Patient's household members and close contacts should also receive education on good hygiene practices.
+Treatment Failure:
+In cases where initial treatment fails or reinfection occurs, a second course of the same drug or switch to an alternative agent may be required.
+Stool examination should be performed two weeks post-treatment to confirm eradication of the parasite. If symptoms persist, further investigations should be undertaken to rule out other causes.
+Improve
+Gastroenterology
+Giardiasis

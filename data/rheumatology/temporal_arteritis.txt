@@ -1,0 +1,233 @@
+Temporal arteritis
+Temporal arteritis
+Temporal arteritis, also known as giant cell arteritis, is a vasculitis predominantly affecting medium and large arteries, particularly the branches of the carotid artery.
+It typically presents in patients over 50 years of age with symptoms such as new-onset
+headache
+, scalp tenderness,
+jaw claudication
+, and visual disturbances. Systemic manifestations may include
+fever
+, weight loss, and
+polymyalgia rheumatica
+. The pathophysiology involves granulomatous inflammation leading to arterial wall thickening and luminal narrowing.
+Diagnosis is supported by elevated inflammatory markers such as erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP), but definitive diagnosis requires temporal artery biopsy revealing characteristic histopathological features including multinucleated giant cells. Imaging modalities like Doppler ultrasound or MRI angiography can aid in diagnosis by demonstrating vessel wall oedema and stenosis.
+Corticosteroids are the mainstay of treatment to reduce inflammation and prevent complications like irreversible vision loss.
+Last updated: 30
+th
+August 2023
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Migraine
+250.00
+Polymyalgia rheumatica
+4.20
+Temporal arteritis
+1
+Fibromuscular dysplasia
+0.50
+Takayasu's arteritis
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The precise aetiology of temporal arteritis remains unclear; however, several factors are thought to contribute to its development:
+Genetic predisposition:
+Certain HLA (human leukocyte antigen) alleles, such as HLA-DRB1*04, have been associated with an increased risk of developing GCA.
+Environmental factors:
+Seasonal variations and geographical clustering suggest a potential role of environmental factors, possibly infectious agents, in triggering the disease.
+Age:
+Temporal arteritis is primarily a disease of older adults, with a peak incidence between the ages of 70 and 80. The risk increases with age, and the condition is rare in individuals under 50.
+Sex:
+Women are affected more frequently than men, with a female-to-male ratio of approximately 2-3:1.
+Ethnicity:
+GCA is more common in individuals of Northern European descent, particularly those of Scandinavian origin.
+Improve
+Pathophysiology
+The pathogenesis of temporal arteritis is complex and not yet fully understood. It is believed to involve an interplay between genetic predisposition, environmental factors, and immune dysregulation, leading to vascular inflammation and damage. Key aspects of the pathogenesis include:
+Antigenic trigger:
+An unknown antigenic stimulus, possibly an infectious agent, is thought to initiate an immune response in genetically susceptible individuals.
+T-cell activation:
+The antigenic stimulus activates CD4+ T-cells, which migrate to the arterial wall and initiate an inflammatory cascade.
+Macrophage and giant cell formation:
+Activated T-cells stimulate the production of pro-inflammatory cytokines, such as interleukin-6 (IL-6) and tumour necrosis factor-alpha (TNF-α), leading to the recruitment and activation of macrophages. These macrophages can fuse to form multinucleated giant cells, which are characteristic of GCA.
+Vascular inflammation and damage:
+The ongoing inflammatory process within the arterial wall results in intimal thickening, luminal narrowing, and ischemia. In severe cases, this can progress to vessel occlusion, tissue infarction, and even aneurysm formation.
+Improve
+Clinical features
+Features
+typically patient > 60 years old
+usually rapid onset (e.g. < 1 month)
+headache
+(found in 85%)
+jaw claudication
+(65%)
+vision testing is a key investigation in all patients
+anterior ischemic optic neuropathy
+accounts for the majority of ocular complications. It results from occlusion of the
+posterior ciliary artery
+(a branch of the ophthalmic artery) → ischaemia of the optic nerve head. Fundoscopy typically shows a
+swollen pale disc and blurred margins
+may result in temporary
+visual loss
+- amaurosis fugax
+permanent visual loss is the most feared complication of temporal arteritis and may develop suddenly
+diplopia may also result from the involvement of any part of the oculomotor system (e.g. cranial nerves)
+tender, palpable temporal artery
+around 50% have features of PMR: aching, morning stiffness in proximal limb muscles (not weakness)
+also
+lethargy
+, depression, low-grade
+fever
+,
+anorexia
+,
+night sweats
+According to the American College of
+Rheumatology
+classification criteria, if
+3 or more of the criteria
+are present below, the patient is highly suspected to have temporal arteritis
+Age of onset≥50 years
+New onset of headache
+Temporal artery abnormality: tenderness, thickening or reduced pulsation of temporal artery
+ESR>50mm/hr
+Abnormal artery biopsy
+Improve
+Investigations
+Investigations
+raised inflammatory markers
+ESR > 50 mm/hr (note ESR < 30 in 10% of patients)
+CRP may also be elevated
+temporal artery biopsy
+skip lesions may be present
+note creatine kinase and EMG normal
+Guidelines suggest investigations should be guided by the pre-test probability of temporal arteritis.
+For a
+low clinical probability
+of temporal arteritis (<20%): order a temporal and axillary artery ultrasound scan.
+If the ultrasound result is positive (eg. detection of halo sign, stenosis/occluded vessel), arrange for a biopsy to confirm the diagnosis. It should be carried out within 14 days after commencing steroid therapy
+If the ultrasound result is negative, consider alternative diagnoses
+For a
+medium clinical probability
+of temporal arteritis (20-50%): ultrasound may be performed prior to biopsy to aid in diagnostic certainty in case the biopsy is negative
+For a
+high clinical probability
+of temporal arteritis (>50%): a positive ultrasound alone may be sufficient to make a diagnosis of temporal arteritis
+If an ultrasound scan is unavailable, patients should still have a temporal artery biopsy.
+Treatment should not be delayed whilst investigations are carried out.
+Improve
+Diagnosis
+2022 American College of
+Rheumatology
+/European Alliance of Associations for Rheumatology Classification Criteria for Giant Cell Arteritis
+Considerations when Applying These Criteria
+These classification criteria should be applied to classify the patient as having giant cell arteritis when a diagnosis of medium-vessel or large-vessel vasculitis has been made.
+Alternate diagnoses mimicking vasculitis should be excluded prior to applying the criteria.
+Absolute Requirement
+Age ≥50 years at time of diagnosis
+Additional Clinical Criteria
+Morning stiffness in shoulders/neck
++2
+Sudden
+visual loss
++3
+Jaw or tongue claudication
++2
+New temporal
+headache
++2
+Scalp tenderness
++2
+Abnormal examination of the temporal artery
++2
+Laboratory, Imaging, and Biopsy Criteria
+Maximum ESR ≥50 mm/hour or maximum CRP ≥10 mg/litre
++3
+Positive temporal artery biopsy or halo sign on temporal artery ultrasound
++5
+Bilateral axillary involvement
++2
+FDG-PET activity throughout aorta
++2
+Sum the scores for 10 items, if present. A score of ≥6 points is needed for the classification of giant cell arteritis.
+Improve
+Differential diagnosis
+As a general rule, we should always rule out common conditions and diseases that require urgent treatment before thinking of the rare diagnosis. Here, we should consider causes of sudden loss of vision as well as conditions that may present with worrying symptoms such as
+fever
+, weight loss and pain.
+Possible differential diagnoses include:
+Migraine
+:
+Similarities: severe
+headache
+Differences: No
+visual loss
+but only temporary visual disturbance experience such as photophobia, scotoma in the shape of a jagged crescent, hemianopia or jumbling of lines and dots, no muscle stiffness
+Central retinal artery occlusion:
+Similarities: sudden onset, loss of vision
+Differences: fundoscopy may reveal presence of cherry red spot with retinal whitening, no muscle stiffness
+Acute glaucoma
+Similarities: sudden onset, severe pain within/around the eye,associated headache, blurring of vision, loss of vision
+Differences: redness of eye, hazy cornea, nausea and vomiting
+Trigeminal neuralgia:
+Similarities: sudden onset, jaw pain
+Differences: No vision impairment
+Multiple sclerosis
+Similarities: sudden onset, loss of vision, diplopia, blurring of vision
+Differences: there is pain on eye movements, facial weakness, weakness of lower limb and autonomic dysfunction (eg. Urine incontinence)
+Polymyositis
+Similarities:
+fatigue
+, myalgia
+Differences:
+proximal muscle weakness
+in polymyositis which is not a feature of PMR, raised creatinine kinase, no visual impairment
+Improve
+Management
+Initial management involves the prompt initiation of high-dose corticosteroids to prevent irreversible vision loss. Prednisolone is typically the first-line treatment, and intravenous methylprednisolone may be considered in cases with severe visual impairment or visual symptoms.
+Adjunctive therapy with low-dose aspirin should be considered to reduce the risk of ischemic complications. Proton pump inhibitors (PPIs) may be prescribed to mitigate gastrointestinal side effects associated with corticosteroid therapy.
+Patients should undergo temporal artery biopsy within 14 days of starting corticosteroid treatment to confirm the diagnosis histologically. Imaging modalities such as ultrasound or MRI can be utilised if biopsy is contraindicated or non-diagnostic.
+In patients who cannot tolerate corticosteroids or require long-term steroid-sparing strategies, immunosuppressive agents such as methotrexate or tocilizumab may be employed. Tocilizumab, an IL-6 receptor antagonist, has shown efficacy in reducing relapse rates and maintaining remission.
+Regular ophthalmologic assessments are recommended for monitoring potential complications such as anterior ischemic optic neuropathy. Bone protection strategies including calcium and vitamin D supplementation, and bisphosphonates should be implemented due to the increased risk of osteoporosis from prolonged corticosteroid use.
+Consideration should also be given to cardiovascular risk factors given the association between temporal arteritis and large vessel vasculitis. Regular monitoring for aortic aneurysms and stenoses via imaging studies is advised for comprehensive vascular assessment.
+Improve
+Complications
+If left untreated or inadequately managed, it can lead to various complications, some of which may be severe or irreversible. The following are notable complications associated with temporal arteritis:
+Vision loss:
+The most feared and serious complication of GCA is irreversible vision loss due to anterior ischemic optic neuropathy. This occurs when the inflammation and subsequent occlusion of the posterior ciliary arteries compromise blood flow to the optic nerve, leading to ischemia and irreversible damage.
+Ocular complications:
+GCA can cause other ocular complications, such as retinal artery occlusion, diplopia, and ptosis, as a result of ischemia affecting the ocular muscles or nerves.
+Stroke:
+In rare cases, inflammation and occlusion of cerebral arteries can lead to ischemic stroke. Patients with GCA have a higher risk of cerebrovascular events compared to the general population.
+Aortic aneurysm and dissection:
+GCA can affect the aorta, leading to aortitis, which may progress to aortic aneurysm or dissection. This can result in life-threatening complications, such as rupture or compression of adjacent structures.
+Large vessel involvement:
+In addition to the cranial arteries, GCA can also involve other large vessels, such as the subclavian, axillary, and vertebral arteries, leading to limb claudication, upper extremity ischemia, or vertebrobasilar insufficiency.
+Polymyalgia rheumatica
+(PMR):
+Up to 50% of patients with GCA may develop PMR, an inflammatory condition characterized by pain and stiffness in the shoulders, neck, and pelvic girdle.
+Systemic complications:
+GCA can lead to various systemic complications, such as
+fever
+,
+malaise
+, weight loss, and anaemia. Additionally, the long-term use of corticosteroids for treatment can result in complications like osteoporosis, diabetes, hypertension, and increased susceptibility to infections.
+Improve
+References
+Royal College of Physicians - Temporal arteritis guidelines
+Rheumatology - 2010 BSR and BHPR guidelines for the management of giant cell arteritis
+Rheumatology
+Temporal arteritis

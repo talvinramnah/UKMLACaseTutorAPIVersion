@@ -1,0 +1,180 @@
+Aortic dissection
+Aortic dissection
+Aortic dissection is a severe, life-threatening condition characterized by the separation of the aortic wall layers, resulting in the formation of a false lumen. It frequently occurs due to an intimal tear, allowing blood to enter and dissect through the media layer. The aetiology often involves
+hypertension
+, connective tissue disorders (e.g., Marfan syndrome), or iatrogenic factors such as catheterization or cardiac surgery.
+Clinical presentation varies but may include sudden onset of severe
+chest pain
+radiating to the back, syncope, or neurological deficits. Diagnostic modalities include CT angiography, MRI and transesophageal echocardiography (TEE)
+Management depends on the dissection type; Type A requires emergent surgical intervention due to increased risk of complications like pericardial tamponade, myocardial ischemia, and aortic regurgitation. Type B dissections are primarily managed medically with strict blood pressure control unless exhibiting signs of malperfusion syndromes or impending rupture.
+Last updated: 12
+th
+July 2023
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Acute coronary syndrome
+66.67
+Pulmonary embolism
+23.33
+Myocarditis
+6.67
+Pneumothorax
+5.00
+Aortic dissection
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of aortic dissection is multifactorial and usually involves an interplay of genetic predisposition, environmental factors, and underlying pathological conditions.
+Hypertension
+:
+Chronic hypertension is the most common risk factor, contributing to approximately 75% of cases of aortic dissection. The persistent high pressure exerted on the aortic wall can lead to structural changes and weakening of the wall.
+Connective Tissue Disorders:
+Certain genetic connective tissue disorders predispose to aortic dissection due to inherent weakness in the wall of the aorta. These include Marfan syndrome, Ehlers-Danlos syndrome, Loeys-Dietz syndrome and Turner syndrome.
+3. Atherosclerosis: This condition can lead to weakening of the aortic wall, which makes it susceptible to dissection.
+Inflammatory Conditions:
+Certain conditions, such as Takayasu arteritis and giant cell arteritis, can result in inflammation of the aorta and make it susceptible to dissection.
+Iatrogenic Causes:
+Certain medical and surgical procedures can lead to aortic dissection, particularly procedures involving the aorta itself, such as cardiac surgery or catheterisation.
+Trauma:
+Physical injury, especially blunt chest trauma, can cause an acute aortic dissection.
+Pregnancy:
+Aortic dissection can occur during pregnancy, possibly due to the physiological changes in the body, including changes in blood volume and elasticity of the aorta.
+Bicuspid Aortic Valve:
+Individuals with a bicuspid aortic valve have a higher risk of developing an aortic dissection due to inherent structural abnormalities of the aorta.
+Improve
+Pathophysiology
+Aortic dissection is a life-threatening condition characterised by the formation of a false lumen within the layers of the aortic wall. The pathogenesis begins with an intimal tear or rupture, which can occur spontaneously or due to trauma.
+The initiating event in this process is often damage to the vasa vasorum, the network of small blood vessels that supply the walls of large blood vessels such as the aorta. This can lead to intramural haemorrhage and weakening of the medial layer.
+Intimal Tear Formation
+An intimal tear forms when there is sufficient stress on a weakened area of the aortic wall. This is often located in areas of high shear stress, such as the ascending aorta or just distal to the left subclavian artery.
+The tear allows high-pressure blood from within the lumen of the aorta to enter into and dissect along the media, forming an additional or 'false' lumen.
+Progression and Extension
+The false lumen can extend proximally towards the heart, distally away from it, or both. The direction and extent of propagation depend on various factors including systemic blood pressure, pulse wave velocity, and anatomical variations.
+The false lumen may re-enter into the true lumen through another tear in intima creating so-called 're-entry' sites. Alternatively, it may remain closed off from it completely.
+Complications Arising from Dissection
+As dissection progresses, branches originating from the affected portion of aorta might get occluded leading to end-organ ischemia depending upon which branch gets involved.
+If dissection involves ascending part of aorta (Stanford Type A), it might lead to acute aortic regurgitation, pericardial tamponade or
+myocardial infarction
+depending upon involvement of the aortic valve or coronary ostia.
+When the dissection ruptures into the pleural cavity, pericardium or mediastinum, it leads to haemothorax, cardiac tamponade or mediastinal haemorrhage respectively.
+Understanding this pathogenesis can guide clinical decision making and management. For example, interventions may aim to reduce systemic blood pressure to limit propagation of the false lumen. Furthermore, imaging studies such as computed tomography (CT) and magnetic resonance imaging (MRI) can be used to visualise the extent of dissection and plan for surgical intervention if necessary.
+Improve
+Classification
+Stanford classification
+type A - ascending aorta, 2/3 of cases
+type B - descending aorta, distal to left subclavian origin, 1/3 of cases
+DeBakey classification
+type I - originates in ascending aorta, propagates to at least the aortic arch and possibly beyond it distally
+type II - originates in and is confined to the ascending aorta
+type III - originates in descending aorta, rarely extends proximally but will extend distally
+Improve
+Clinical features
+The clinical picture often depends on the location of the dissection (either type A, involving the ascending aorta, or type B, limited to the descending aorta) and the organs affected by compromised blood supply.
+Chest pain
+Sudden, severe chest or back pain is the most common symptom - described as tearing, ripping, or stabbing in nature.
+Pain may be maximal at onset and then subside, or vary in intensity over time.
+Pain location depends on dissection origin:
+Ascending aortic dissections present with anterior chest pain.
+Descending dissections cause intrascapular back pain.
+Atypical 'painless' dissections can occur, or just nonspecific symptoms like dyspnoea.
+Signs reflect organ malperfusion due to loss of blood flow in the true lumen:
+Stroke from carotid artery involvement
+Myocardial infarction
+from coronary ostia obstruction
+Paraplegia from spinal artery compromise
+Mesenteric ischemia leading to abdominal pain
+Renal failure from renal artery occlusion
+Cardiovascular collapse and sudden death can occur with ascending aortic rupture into the pericardium.
+Improve
+Investigations
+Investigating aortic dissection involves a multi-step approach, starting with first-line investigations and progressing to further investigations when necessary. It's important to note that while clinical suspicion can often lead to diagnosis, confirmatory imaging is essential for the definitive diagnosis and management of this condition.
+First-Line Investigations
+Chest X-ray:
+Although its sensitivity and specificity are not high enough for it to be used as a standalone diagnostic tool, chest X-ray can provide valuable preliminary information. Findings suggestive of aortic dissection may include mediastinal widening, abnormal aortic contour or displacement of calcified intimal flap.
+Serum D-dimer:
+This is a useful initial test in the emergency setting due to its high negative predictive value. A normal D-dimer level can help rule out acute aortic dissection in patients with low clinical probability.
+Further Investigations
+If the initial investigations suggest an aortic dissection or if clinical suspicion remains high despite normal first-line tests, further imaging should be pursued promptly.
+Computed Tomography Angiography (CTA):
+This is often considered the gold standard for diagnosing aortic dissection due to its wide availability, rapid acquisition time and high sensitivity and specificity. CTA provides detailed images of the thoracic and abdominal aorta, allowing for accurate assessment of the extent of dissection, involvement of branch vessels and presence of complications such as rupture or malperfusion syndromes.
+Magnetic Resonance Imaging (MRI):
+While not typically used in the acute setting due to longer scanning times, MRI offers superior soft tissue contrast resolution compared to CTA and does not expose patients to ionising radiation. It may be particularly useful in follow-up imaging or when CTA is contraindicated.
+Transoesophageal Echocardiography (TOE):
+This can be a useful tool in the diagnosis of aortic dissection, particularly in haemodynamically unstable patients where transportation to the CT scanner may not be feasible. TOE offers high sensitivity and specificity for detecting aortic dissection, but its use is limited by operator dependency and patient tolerance.
+Improve
+Differential diagnosis
+Differential diagnosis of aortic dissection can be challenging due to the wide range of symptoms that may mimic other conditions. The three most likely alternative diagnoses include
+myocardial infarction
+(MI),
+pulmonary embolism
+(PE), and pericarditis.
+Myocardial Infarction
+Clinical Presentation:
+MI typically presents with central
+chest pain
+, radiating to the left arm or jaw, associated with nausea, vomiting, diaphoresis, and shortness of breath. Pain is usually severe and sudden in onset. Unlike aortic dissection, it does not typically exhibit migrating pain.
+Distinguishing Features:
+Electrocardiogram (ECG) changes such as ST elevation or depression and T wave inversion are more suggestive of MI. Cardiac enzymes including Troponin I or T will be elevated in MI but not in aortic dissection.
+Pulmonary Embolism
+Clinical Presentation:
+PE often presents with acute onset dyspnea, pleuritic chest pain, cough and sometimes haemoptysis. In contrast to aortic dissection, PE patients may also present with signs of deep vein thrombosis (DVT) such as unilateral leg swelling.
+Distinguishing Features:
+In PE, D-dimer levels are usually elevated while arterial blood gas analysis often shows hypoxaemia and hypocapnia. A computed tomography pulmonary angiogram (CTPA) would confirm the presence of a clot in the pulmonary arteries.
+Pericarditis
+Clinical Presentation:
+Pericarditis presents with sharp retrosternal chest pain that worsens on inspiration and lying flat, and improves with sitting forward. Unlike aortic dissection, pericarditis pain is not tearing or ripping in nature.
+Distinguishing Features:
+ECG changes in pericarditis include diffuse ST elevation and PR segment depression. A pericardial friction rub may be audible on auscultation. Pericardial effusion or thickening can be seen on echocardiography.
+Improve
+Management
+Management of aortic dissection involves immediate stabilisation, prompt diagnosis, risk stratification and definitive treatment. The approach focuses on blood pressure control, pain management, and surgical or endovascular intervention depending upon the type of dissection.
+Immediate Stabilisation:
+Pain relief: Administer analgesia as needed.
+Blood pressure control: Initiate antihypertensive therapy with beta-blockers first line. Consider additional vasodilators if target blood pressure is not achieved.
+Diagnosis:
+Clinical assessment: Evaluate for signs of aortic regurgitation, pericardial effusion or tamponade, and neurological deficits.
+Imaging: Computed tomography angiography (CTA) is the preferred modality. Magnetic resonance angiography (MRA) or transesophageal echocardiography (TEE) may be used when CTA is contraindicated or unavailable.
+Risk Stratification:
+Determine type of dissection: Stanford Type A involves the ascending aorta and requires urgent surgery. Stanford Type B is limited to the descending aorta and can often be managed medically unless there are complications.
+Treatment:
+Type A dissections: Urgent surgical repair is indicated to prevent rupture or other life-threatening complications.
+Type B dissections: Initial medical management with close monitoring. Indications for intervention include persistent pain, uncontrolled
+hypertension
+despite optimal medical therapy, rapid expansion of the dissection, or development of malperfusion syndromes.
+Improve
+Complications
+The range of complications associated with aortic dissection are extensive, potentially life-threatening and can affect multiple organ systems. These include:
+Cardiac tamponade:
+This is one of the most immediate threats to life. Rapid accumulation of blood in the pericardium leads to increased pericardial pressure, impairing ventricular filling and subsequently reducing cardiac output.
+Aortic regurgitation:
+Dissection involving the ascending aorta can disrupt normal leaflet coaptation leading to acute aortic valve incompetence, which may precipitate heart failure.
+Myocardial infarction
+:
+Involvement of the coronary ostia by the intimal tear or compressive effects of the false lumen can lead to myocardial ischaemia or infarction.
+Cerebrovascular accident (CVA):
+Malperfusion syndrome secondary to aortic dissection can cause cerebrovascular insufficiency resulting in stroke.
+In addition to these acute complications, chronic complications may also occur including:
+Aneurysmal dilatation:
+The false lumen may progressively enlarge over time leading to aneurysmal dilatation and increased risk of rupture.
+Retrograde dissection into aortic root:
+This can lead to further valvular dysfunction or coronary ostia involvement with subsequent myocardial ischaemia.
+The presence and extent of these complications often dictate management strategies and prognosis in patients with aortic dissection.
+Improve
+References
+American Heart Association - 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease
+Cardiology
+Aortic dissection

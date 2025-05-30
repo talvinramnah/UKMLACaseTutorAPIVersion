@@ -1,0 +1,134 @@
+Thromboangiitis obliterans (Buerger's disease)
+Thromboangiitis obliterans (Buerger's disease)
+Thromboangiitis obliterans (also known as Buerger's disease) is an inflammatory vasculitis that typically results in thrombosis of medium-sized and small-sized arteries and veins. Smoking tobacco is the strongest risk factor for the development of this condition, and it typically affects men of age <45 years old.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 4:1
+Condition
+Relative
+incidence
+Peripheral arterial disease:
+intermittent claudication
+25.00
+Raynaud's disease
+10.00
+Thromboangiitis obliterans (Buerger's disease)
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Common risk factors for thromboangiitis obliterans include:
+Smoking tobacco (strongest risk factor)
+Up to 95% of patients with thromboangiitis obliterans are smokers.
+Male gender
+Mediterranean or Middle East origins
+Family history of the same condition.
+Acute or chronic periodontal infection
+Present in ~2/3 of patients.
+In one study, anaerobic bacteria have been found in arterial lesions of patients with thromboangiitis obliterans but not in arterial samples from healthy subjects.
+Improve
+Pathophysiology
+Thromboangiitis obliterans is an autoimmune vasculitis leading to inflammatory thrombus that spares internal elastic lamina of vessel wall. This inflammation occurs in three phases:
+Acute phase
+Thrombus (including giant cells and lymphocytes) formation
+Subacute phase
+Progressive organization of thrombus
+Chronic phase
+Cessation of inflammation (no longer shows lymphocytes in thrombus) with completed organization of thrombus leading to vessel occlusion.
+Improve
+Clinical features
+Thromboangiitis obliterans typically presents with symptoms of occlusion/thrombosis of peripheral arteries and veins. It can also affect peripheral nerves. Multiple retrospective cohort studies have shown the following symptoms to occur most commonly with thromboangiitis obliterans:
+Cold feet (in ~90% of patients)
+Changes in skin color of extremities (in ~85% of patients)
+Chronic ulcers (in ~25 - 50% of patients)
+Gangrenous wounds (in ~1/5 of patients according to one study)
+Claudication (in ~5 - 50% of patients)
+Thromboangiitis obliterans most commonly affect lower limbs, but upper limbs can also be affected.
+Other possible presenting complaints include superficial thrombophlebitis, presenting as tender nodules along superficial veins of upper or lower extremities.
+Physical exam findings:
+Raynaud's phenomenon
+Present in up to 40% of patients.
+Absence/weakening of distal pulses.
+Positive Allen's test
+Occlude both radial and ulnar arteries of hand, resulting in hand turning white. After 1 minute, ease pressure on one artery at a time. This should return perfusion to the entire hand if good blood flow and collateral flow are present. The test is positive if one of the arteries fails to perfuse the entire hand.
+This test has a good positive predictive value, but low sensitivity (up to 25% of patients may have a negative test).
+Peripheral sensory deficits/neuropathy.
+Tender nodules of extremities suggesting thrombophlebitis obliterans.
+Improve
+Investigations
+The most commonly used clinical criteria for the diagnosis of thromboangiitis obliterans is the Shinoya criteria:
+Smoking history
+Onset at age <50 years old
+Intrapopliteal arterial occlusion
+Upper limb involvement OR thrombophlebitis migrans
+Absence of atherosclerotic risk factors other than smoking.
+All five criteria must be met in order to diagnose thromboangiitis obliterans.
+Some investigations can further confirm the diagnosis; however, certain investigations must be undertaken to rule out other conditions that may present similarly:
+Arterial duplex US/CT angiography/MR angiography
+Martorell sign: corkscrew-shaped collaterals seen around areas of occlusion.
+Typically see distal medium- or small-vessel occlusion, sparing proximal large vessels.
+Invasive contrast-enhanced angiography
+In situations where CT/MR angiography do not provide clear diagnosis.
+Biopsy
+Rarely required but may be easier to obtain of areas with superficial thrombophlebitis in order to confirm diagnosis.
+Will show inflammatory thrombosis (including neutrophils and giant cells) with sparing of internal elastic lamina.
+Thrombophilia and coagulation screen: to rule out underlying primary hypercoagulable state.
+ESR and CRP to confirm general inflammatory state.
+Serologic testing for other autoimmune conditions (ex: ANA, anticentromere antibody, lupus anticoagulant, etc.)
++/- HgbA1c to rule out diabetes mellitus as cause of peripheral neuropathy.
++/- echocardiogram to rule out embolic disease.
+Improve
+Differential diagnosis
+Thromboangiitis obliterans can be confused with multiple other conditions that present with arterial/venous occlusion. Below are key characteristics that distinguish thromboangiitis obliterans from these conditions:
+Peripheral arterial disease
+Patients typically do not have superficial thrombophlebitis. Upper extremity involvement is less likely. They will have other risk factors for atherosclerotic disease (ex: dyslipidemia, type II diabetes mellitus, etc.). If a biopsy of a thrombosed vessel were obtained, preservation of internal elastic lamina would be characteristic of thromboangiitis obliterans over atherosclerosis.
+Embolic disease
+Patients are more likely to present with single limb involvement than with multiple limbs as in thromboangiitis obliterans. Echocardiogram or venous duplex ultrasound of lower extremities can confirm embolic disease over thromboangiitis obliterans.
+Hypercoagulable conditions
+Patients typically have family history significant for thrombophilia or have other conditions that are associated with thrombophilia (ex: females taking oral contraceptives, lupus, etc.) Laboratory evaluations such as PT, INR, and coagulation factor levels will be abnormal in hypercoagulable conditions but normal in thromboangiitis obliterans.
+Other autoimmune conditions associated with thrombosis (ex: lupus, rheumatoid vasculitis, etc.)
+These conditions will present with characteristic lab findings that are typically absent in thromboangiitis obliterans.
+Improve
+Management
+Smoking cessation is the only definitive therapy for thromboangiitis obliterans.
+Cease smoking entirely
+Avoid nicotine replacement therapy
+This can continue to contribute to disease progression.
+Revascularization therapy
+Given the diffuse nature of the condition, revascularization therapy may be unsuccessful, but should be considered in patients with life- or limb-threatening disease.
+Vasodilators
+Prior study shows decrease in symptoms and rate of amputation, and increase in wound healing with use of iloprost (prostanoid vasodilator).
+Alpha-blockers, calcium channel blockers, or sildenafil have not been studied, but may also be useful.
+Intermittent pneumatic compression
+Improve perfusion to lower extremities.
+Epidural spinal cord stimulation
+Improves regional circulation.
+Therapeutic angiogenesis
+Unclear role in treatment. Small studies have shown improved wound healing and symptomatic relief.
+Improve
+Complications
+Major complications of thromboangiitis obliterans are related to the affected vessel(s). These include:
+Limb ischemia
+According to one study, the risk of amputation of a limb was as high as 46% over a 20-year period.
+The greatest risk factor for amputation is ongoing smoking/tobacco use.
+Small bowel ischemia/colonic ischemia
+Common presenting complaints/symptoms of this would be abdominal pain with eating, weight loss, and melena.
+Transient ischemic attacks or strokes
+Acute myocardial infarction
+This is a very rare complication of thromboangiitis obliterans.
+As a general rule, peripheral vessels feeding limbs are more commonly affected than proximal muscles feeding major organs.
+Improve
+Vascular surgery
+Thromboangiitis obliterans (Buerger's disease)

@@ -1,0 +1,123 @@
+Haemophilia
+Haemophilia
+Haemophilia is a rare clotting disorder that is most commonly inherited in an X-linked recessive pattern. The different types are A, B, C and acquired haemophilias. They are organized based upon which clotting factors are affected, severity and mode of acquisition. Haemophilia can present in a variety of ways and poses difficult long term management options. Typically, haemophilia is diagnosed in infant males with haemorrhage or prolonged bleeding time.
+Last updated: 9
+th
+May 2024
+Aetiology
+Haemophilia is primarily a genetic disorder inherited in an X-linked recessive pattern. Two main types exist based on the deficient clotting factor:
+Haemophilia A:
+Characterised by Factor VIII deficiency and accounts for 80-85% of cases.
+Haemophilia B:
+Arises due to Factor IX deficiency.
+The mutations responsible for these deficiencies are in the F8 gene for Haemophilia A and the F9 gene for Haemophilia B. While males inherit the condition from their mothers, who are often carriers, females can also be affected but this is extremely rare. Notably, about 30% of cases occur due to spontaneous mutations in the relevant genes, even without a family history.
+Improve
+Pathophysiology
+Upon vascular injury, the initial haemostatic mechanisms, such as vasoconstriction and platelet plug formation, are usually intact. However, the deficiency of either Factor VIII or IX interferes with the intrinsic pathway of the coagulation cascade. This leads to a decreased activation of Factor X to Factor Xa, reducing the generation of thrombin. Thrombin is critical for converting fibrinogen to fibrin, a protein that provides the structural integrity of a clot.
+As a result of inadequate thrombin generation, the conversion of soluble fibrinogen to insoluble fibrin is compromised, rendering the clot fragile and susceptible to premature lysis. Therefore, the platelet plug, lacking the stabilising meshwork of fibrin, fails to halt the bleeding effectively. This manifests as prolonged bleeding, which could be spontaneous or triggered by external factors like surgery or trauma.
+With time, repeated episodes of bleeding, especially into joints and muscles, lead to complications like synovitis and joint deformities. This occurs due to the inflammatory response to blood within these tissues, leading to cartilage damage and ultimately, crippling arthropathy if not managed adequately.
+Clinical Implications
+Clinically, haemophilia presents as spontaneous or trauma-induced bleeding episodes that can be life-threatening or debilitating in the long term. Due to the disrupted coagulation cascade, bleeding tends to occur into deep tissues like muscles and joints rather than mucosal surfaces. This is a distinguishing feature compared to acquired coagulopathies. Treatment generally focuses on replacing the deficient clotting factor and implementing prophylactic measures to prevent bleeding episodes.
+The severity of symptoms in haemophilia is generally proportionate to the degree of factor deficiency. Those with severe haemophilia (<1% of normal factor activity) may experience frequent spontaneous bleeds, while those with moderate (1-5% of normal activity) or mild haemophilia (>5-40% of normal activity) typically have bleeding episodes associated with trauma or surgery.
+Improve
+Classification
+Haemophilia can either be inherited in an X-linked recessive pattern or acquired.  Haemophilia can be further classified into A, B or C:
+Haemophilia A (Classic haemophilia) is a deficiency of clotting factor VIII. It affects about 1 in 5000 live male births.
+Haemophilia B (Christmas disease) is a deficiency of clotting factor IX.  It affects about 1 in 20000 live male births.
+Haemophilia C (Rosenthal syndrome) is a deficiency of clotting factor XI that is inherited in an autosomal recessive pattern.  It affects affects roughly 1 in 100000 live births, closely related with Ashkenazi Jewish populations.
+Within those categories, haemophilia can be further classified based upon severity:
+Mild: 5-40% of normal Clotting Factor Level (CFL).
+Moderate: 1-5% of normal CFL.
+Severe: <1% of normal CFL.
+Severe cases make up almost half of all cases.
+Improve
+Clinical features
+Haemophilia A and B have no differences in how they manifest. Disease severity alters patient presentation. Severe haemophilia is more likely to present with spontaneous bleeding and at an earlier age. Most patients will have a bleeding event in the first two years of their lives as they become more mobile and increase their risk of trauma.  The X-linked nature of its inheritance means that men are almost exclusively affected.
+Symptoms and signs:
+Haemarthrosis (bleeding into a joint)
+Up to 80% of haemorrhages in haemophilia patients
+Painful, erythematous, stiff and swollen joint
+Classically the knees, ankles and elbows.
+Easy
+bruising
+(ecchymosis)
+Often no clear trauma
+Prolonged bleeding after dental procedure
+Can be days of oozing after tooth extraction
+Muscular haematomas (15% of all hemorrhages in haemophilia patients)
+Commonly leg muscles (quadriceps, calves)
+Beware of compartment syndrome from increased pressures
+Epistaxis
+Gastrointestinal symptoms, melaena or haematemesis are more common in older patients.
+Neonatal presentation: A significant portion of cases present in the neonatal period (40%)
+Prolonged bleeding after circumcision
+Intracranial bleeding (up to 5% of severe cases)
+Can be due to trauma from delivery ie forceps
+Prolonged bleeding after heel prick testing
+In female carriers, mild symptoms can develop similar to that of mild cases in males where the disease can go unnoticed for a prolonged period of time. Incidences where normal clotting capabilities would be challenged can reveal underlying pathology i.e. a large trauma or surgical procedure.
+Improve
+Investigations
+Haemophilia should be suspected in younger patients with prolonged hemorrhage, ecchymosis or haemarthrosis.
+Blood tests:
+Full Blood Count (FBC): Looking specifically for thrombocytopenia to rule out platelet dysfunction.
+Clotting Studies
+Prolonged activated partial thromboplastin time (aPTT) is one of the hallmarks of haemophilia. This represents a delay in the intrinsic coagulation pathway.
+A normal prothrombin time (PT) can rule out extrinsic and common coagulation pathway pathologies that could present similarly. This includes causes such as liver disease, vitamin K deficiency or disseminated intravascular coagulation.
+Liver function tests (LFTs) to rule out liver synthesis dysfunction.
+Factor VIII and IX assays, these allow comparison with normal clotting factor levels.
+Mixing studies (mixing of sample plasma with normal plasma for two hours)
+APTT should correct if underlying clotting factor deficiency.
+APTT will not correct in acquired haemophilia due to clotting factor antibodies.
+Von Willebrand factor antigen testing.
+Imaging:
+Ultrasound: Useful diagnostic tool for localising site of haemorrhage
+Joint X-ray: Can assess ongoing localised damage.
+CT/MRI: Excellent at identifying haematomas and haemorrhages such as intracranial bleeding or an iliopsoas haematoma
+Genetic mutation testing can also be performed at certain specialist centres following diagnosis. This can help to clarify family member carrier status and future risks.
+Improve
+Differential diagnosis
+Bleeding disorders are a wide range of conditions, differentials for haemophilia include:
+The most common differential diagnosis to consider is von Willebrand disease.
+This would differ from haemophilia in that it would affect both genders and typically has greater mucous membrane involvement.
+Platelet dysfunction disorders are rare but an important differential.
+Can be ruled out with an absence of thrombocytopenia and abnormal platelet aggregation studies.
+Any other coagulation factor deficiency
+Scurvy
+Ehlers-Danlos syndrome
+Disseminated intravascular coagulation (DIC)
+A crucial differential in young patients is child abuse. Be aware of inconsistent stories, delayed presentation or signs of neglect.
+Improve
+Management
+Management of haemophilia is based upon replacing the missing coagulation factors. In haemophilia A, coagulation factor VIII needs to be replaced, where as in haemophilia B, coagulation factor IX needs to be replaced. Varying concentrations can be given dependent on the severity of haemorrhage.
+It is important to note that over time antibodies can develop to the replacement coagulation factors. These are called factor inhibitors. As higher levels of factor inhibitors develop, higher doses of missing coagulation factors are needed for the same effect. Inhibitor development is more common in haemophilia A vs B (up to 30% vs up to 3%).
+Desmopressin (DDAVP) can be used in acute episodes of mild haemophilia A to promote the function of von Willebrand factor and only if bleeding persists would coagulation factor concentrates be used.
+In patients with severe disease, coagulation factors should be given prophylactically and self-administered through intravenous access. Goals of treatment are to have coagulation factor levels (CFL) between 30 and 50% of normal. Patients with severe disease generally need 1-3 infusions per week, for a minimum of 45 weeks out of the year.
+Other mainstays of treatment include:
+Analgesia
+Paracetamol
+Opioids
+Rest, ice, compress and elevate for musculocutaneous injuries
+Physiotherapist involvement
+In severe haemorrhage, antifibrinolytic agents can be considered.
+Lifestyle changes such as avoiding contact sports
+It is important to avoid the use of aspirin and NSAIDs due to their increased risk of bleeding.
+Improve
+Complications
+Complications with haemophilia include:
+Compartment syndrome related to muscular bleeding
+Arthropathy from haemarthrosis
+Severe haemorrhage (Intracranial, GI)
+Complications related to treatment are mainly to do with inhibitor (antibodies to factors VIII and IX) formation which requires higher doses of factor replacement or bypass agents that replace different active parts of the coagulation cascade. Anaphylaxis can occur with factor transfusion.
+Vascular access can become an issue after long courses of treatment. Central venous access such as a Portacath are options.
+Patients are also prone to transfusion associated blood borne infections ie HIV, Hepatitis C.
+Improve
+Prognosis
+With the use of prophylactic factor delivery, most patients see a relatively normal lifespan. Some patients can be started on primary prophylactic factor delivery before symptom onset if they have known disease.
+Issues with prognosis:
+Expensive and resource heavy prophylaxis requirements. Very limited access in developing countries.
+Constraints on social interaction at a young age ie contact sports participation.
+Blood borne virus transmission through coagulation factor transmission. Very rare in this day and age, previously much more common.
+Specifically tailored prophylaxis in mild disease can allow participation in sports with high levels of physical contact or elective surgical operations.
+Improve
+Haematology
+Haemophilia

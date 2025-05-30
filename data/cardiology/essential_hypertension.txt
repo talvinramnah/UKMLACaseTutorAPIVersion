@@ -1,0 +1,268 @@
+Essential hypertension
+Essential hypertension
+Hypertension
+is one of the most common medical conditions encountered in the developed world. Whilst there is a degree of normal variation in blood pressure according to the time of day and whether we are exerting ourselves hypertension describes a chronically raised blood pressure. The main relevance of hypertension lies in the fact that it is an important risk factor for the development of cardiovascular disease such as ischaemic heart disease and stroke. Unless the blood pressure is very high it is unusual for patients to experience any symptoms.
+Last updated: 28
+th
+January 2024
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Patients with
+hypertension
+may be divided into two categories. The vast majority (around 90-95%) have primary, or essential, hypertension. It is believed to result from a complex interplay of genetic, environmental, and lifestyle factors. Common risk factors include age, family history, obesity, high salt intake, sedentary lifestyle, and alcohol consumption.
+Secondary hypertension may be caused by a wide variety of endocrine, renal and other causes. The table below lists some of the conditions that may cause secondary hypertension
+Renal disease
+Endocrine disorders
+Other causes
+• Glomerulonephritis
+• Chronic pyelonephritis
+• Adult polycystic kidney disease
+• Renal artery stenosis
+• Primary hyperaldosteronism
+• Phaeochromocytoma
+• Cushing's syndrome
+• Liddle's syndrome
+• Congenital adrenal hyperplasia (11-beta hydroxylase deficiency)
+• Acromegaly
+• Glucocorticoids
+• NSAIDs
+• Pregnancy
+• Coarctation of the aorta
+• Combined oral contraceptive pill
+Improve
+Pathophysiology
+Genetic Factors
+Several genetic factors have been implicated in the development of
+hypertension
+, including gene polymorphisms that affect the renin-angiotensin-aldosterone system (RAAS), natriuretic peptide system, endothelial function, and sympathetic nervous system.
+Neural Mechanisms
+Increased sympathetic nervous system activity contributes to hypertension by promoting vasoconstriction, increased heart rate, and increased renin release from the kidneys.
+Renal Mechanisms
+The kidneys play a critical role in blood pressure regulation through sodium and water balance. Impaired renal function, reduced glomerular filtration rate, or abnormalities in the RAAS can contribute to the development of hypertension.
+Endocrine and Hormonal Mechanisms
+Dysregulation of the RAAS, including increased production of angiotensin II and aldosterone, can result in vasoconstriction, sodium retention, and hypertension. Additionally, endothelial dysfunction, characterized by reduced nitric oxide production and increased endothelin-1 levels, can cause increased peripheral resistance and elevated blood pressure.
+Vascular Mechanisms
+Structural and functional changes in the vasculature, such as increased arterial stiffness and impaired vasodilation, can contribute to the development of hypertension.
+Lifestyle Factors
+Environmental and lifestyle factors, such as obesity, high salt intake, excessive alcohol consumption, and physical inactivity, can promote the development of hypertension through various mechanisms, including increased sympathetic activity, RAAS dysregulation, and endothelial dysfunction.
+Improve
+Clinical features
+As mentioned earlier,
+hypertension
+does not typically cause symptoms unless it is very high, for example > 200/120 mmHg. If very raised patients may experience:
+headaches
+visual disturbance
+seizures
+In terms of signs hypertension is obviously usually detected when checking someones blood pressure. For diagnosing longstanding blood pressure there has been a move in recent years to using 24 hour blood pressure monitors. These avoid cases of so called 'white coat' hypertension where a patients blood pressure rises when they are in a clinical setting, for example a GP surgery. Studies have shown that readings from 24 hour blood pressure monitors correlate better with clinical outcomes and hence should be used to guide decisions about treatment.
+It also also important when assessing a patient with newly diagnosed hypertension to ensure they do not have any end-organ damage:
+fundoscopy: to check for hypertensive retinopathy
+urine dipstick: to check for renal disease, either as a cause or consequence of hypertension
+ECG: to check for left ventricular hypertrophy or ischaemic heart disease
+Improve
+Investigations
+As mentioned previously 24 hour blood pressure is now recommend for the diagnosis of
+hypertension
+. If 24 hour blood pressure monitoring is not available then home readings using an automated sphygmomanometer are useful.
+Following diagnosis patients typically have the following tests:
+urea and electrolytes: check for renal disease, either as a cause or consequence of hypertension
+HbA1c: check for co-existing diabetes mellitus, another important risk factor for cardiovascular disease
+lipids: check for hyperlipidaemia, again another important risk factor for cardiovascular disease
+ECG
+urine dipstick
+Improve
+Diagnosis
+NICE published updated guidelines for the management of
+hypertension
+in 2019. This builds on the significant guidelines released in 2011 that recommended:
+classifying hypertension into stages
+recommending the use of ambulatory blood pressure monitoring (ABPM) and home blood pressure monitoring (HBPM)
+Flow chart showing simplified schematic for diagnosis hypertension following NICE guidelines
+Why were these guidelines needed?
+It has long been recognised by doctors that there is a subgroup of patients whose blood pressure climbs 20 mmHg whenever they enter a clinical setting, so called 'white coat hypertension'. If we just rely on clinic readings then such patients may be diagnosed as having hypertension when, the vast majority of the time, their blood pressure is normal.
+This has led to the use of both ambulatory blood pressure monitoring (ABPM) and home blood pressure monitoring (HBPM) to confirm the diagnosis of hypertension. These techniques allow a more accurate assessment of a patients' overall blood pressure. Not only does this help prevent overdiagnosis of hypertension - ABPM has been shown to be a more accurate predictor of cardiovascular events than clinic readings.
+Blood pressure classification
+This becomes relevant later in some of the management decisions that NICE advocate.
+Stage
+Criteria
+Stage 1 hypertension
+Clinic BP >= 140/90 mmHg and subsequent ABPM daytime average or HBPM average BP >= 135/85 mmHg
+Stage 2 hypertension
+Clinic BP >= 160/100 mmHg and subsequent ABPM daytime average or HBPM average BP >= 150/95 mmHg
+Severe hypertension
+Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 110 mmHg
+Diagnosing hypertension
+Firstly, NICE recommend measuring blood pressure in both arms when considering a diagnosis of hypertension.
+If the difference in readings between arms is more than 20 mmHg then the measurements should be repeated. If the difference remains > 20 mmHg then subsequent blood pressures should be recorded from the arm with the higher reading.
+It should of course be remember that there are pathological causes of unequal blood pressure readings from the arms, such as supravalvular aortic stenosis. It is therefore prudent to listen to the heart sounds if a difference exists and further investigation if a very large difference is noted.
+NICE also recommend taking a second reading during the consultation, if the first reading is > 140/90 mmHg. The lower reading of the two should determine further management.
+NICE suggest offering ABPM or HBPM to any patient with a blood pressure >= 140/90 mmHg.
+If however the blood pressure is >= 180/110 mmHg:
+immediate treatment should be considered
+if there are signs of papilloedema or retinal haemorrhages NICE recommend same day assessment by a specialist
+NICE also recommend referral if a phaeochromocytoma is suspected (labile or postural hypotension, headache, palpitations, pallor and diaphoresis)
+Ambulatory blood pressure monitoring (ABPM)
+at least 2 measurements per hour during the person's usual waking hours (for example, between 08:00 and 22:00)
+use the average value of at least 14 measurements
+If ABPM is not tolerated or declined HBPM should be offered.
+Home blood pressure monitoring (HBPM)
+for each BP recording, two consecutive measurements need to be taken, at least 1 minute apart and with the person seated
+BP should be recorded twice daily, ideally in the morning and evening
+BP should be recorded for at least 4 days, ideally for 7 days
+discard the measurements taken on the first day and use the average value of all the remaining measurements
+Interpreting the results
+ABPM/HBPM >= 135/85 mmHg (i.e. stage 1 hypertension)
+treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater
+in 2019, NICE made a further recommendation, suggesting that we should
+'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '
+. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease
+ABPM/HBPM >= 150/95 mmHg (i.e. stage 2 hypertension)
+offer drug treatment regardless of age
+Improve
+Management
+NICE published updated guidelines for the management of
+hypertension
+in 2019. Some of the key changes include:
+lowering the threshold for treating stage 1 hypertension in patients < 80 years from 20% to 10%
+angiotensin receptor blockers can be used instead of ACE-inhibitors where indicated
+if a patient is already taking an ACE-inhibitor or angiotensin receptor blocker, then a
+calcium channel blocker
+OR a
+thiazide-like diuretic
+can be used. Previously only a calcium channel blocker was recommended
+Managing hypertension
+Lifestyle advice should not be forgotten and is frequently tested in exams:
+a low salt diet is recommended, aiming for less than 6g/day, ideally 3g/day. The average adult in the UK consumes around 8-12g/day of salt. A recent BMJ paper* showed that lowering salt intake can have a significant effect on blood pressure. For example, reducing salt intake by 6g/day can lower systolic blood pressure by 10mmHg
+caffeine intake should be reduced
+the other general bits of advice remain: stop smoking, drink less alcohol, eat a balanced diet rich in fruit and vegetables, exercise more, lose weight
+ABPM/HBPM >= 135/85 mmHg (i.e. stage 1 hypertension)
+treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater
+in 2019, NICE made a further recommendation, suggesting that we should
+'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '
+. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease
+ABPM/HBPM >= 150/95 mmHg (i.e. stage 2 hypertension)
+offer drug treatment regardless of age
+For patients < 40 years consider specialist referral to exclude secondary causes.
+Flow chart showing the management of hypertension as per current NICE guideliness
+Step 1 treatment
+patients < 55-years-old or a background of type 2 diabetes mellitus:
+A
+CE inhibitor or a
+A
+ngiotensin receptor blocker (
+A
+CE-i or
+A
+RB):
+(A)
+angiotensin receptor blockers should be used where
+ACE inhibitors
+are not tolerated (e.g. due to a cough)
+patients >= 55-years-old or of black African or African-Caribbean origin:
+C
+alcium channel blocker
+(C)
+ACE inhibitors have reduced efficacy in patients of black African or African-Caribbean origin are therefore not used first-line
+Step 2 treatment
+if already taking an
+A
+CE-i or
+A
+RB add a
+C
+alcium channel blocker or a thiazide-like
+D
+iuretic
+if already taking a
+C
+alcium channel blocker add an
+A
+CE-i or
+A
+RB or a thiazide-like
+D
+iuretic
+for patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor
+(A + C) or (A + D)
+or
+(C + A) or (C + D)
+Step 3 treatment
+add a third drug to make, i.e.:
+if already taking an
+(A + C)
+then add a
+D
+if already
+(A + D)
+then add a
+C
+(A + C + D)
+Step 4 treatment
+NICE define step 4 as resistant hypertension and suggest either adding a 4
+th
+drug (as below) or seeking specialist advice
+first, check for:
+confirm elevated clinic BP with ABPM or HBPM
+assess for postural hypotension.
+discuss adherence
+if potassium < 4.5 mmol/l add low-dose
+spironolactone
+if potassium > 4.5 mmol/l add an alpha- or
+beta-blocker
+Patients who fail to respond to step 4 measures should be referred to a specialist. NICE recommend:
+If blood pressure remains uncontrolled with the optimal or maximum tolerated doses of four drugs, seek expert advice if it has not yet been obtained.
+Blood pressure targets
+Clinic BP
+ABPM / HBPM
+Age < 80 years
+140/90 mmHg
+135/85 mmHg
+Age > 80 years
+150/90 mmHg
+145/85 mmHg
+Improve
+Complications
+Cardiovascular Complications
+Coronary Artery Disease (CAD):
+Hypertension
+increases the risk of CAD by accelerating atherosclerosis, which can lead to myocardial infarction (heart attack) and angina pectoris (chest pain).
+Heart Failure:
+Chronic hypertension places an increased workload on the heart, leading to left ventricular hypertrophy (LVH) and eventual heart failure.
+Atrial Fibrillation:
+Hypertension is a significant risk factor for the development of atrial fibrillation, a common cardiac arrhythmia associated with an increased risk of stroke and heart failure.
+Cerebrovascular Complications
+Stroke:
+Hypertension is a leading risk factor for both ischemic and hemorrhagic stroke. It contributes to the development of atherosclerosis, arterial stiffness, and endothelial dysfunction, which can result in reduced blood flow to the brain or cerebral haemorrhage.
+Vascular Dementia:
+Chronic hypertension can lead to vascular dementia due to cerebral small vessel disease and impaired blood flow to the brain.
+Renal Complications
+Chronic Kidney Disease (CKD):
+Hypertension is a leading cause of CKD, as it damages the glomeruli and renal vasculature, ultimately leading to reduced kidney function and potential kidney failure.
+Ocular Complications
+Hypertensive Retinopathy:
+Chronic hypertension can cause retinal arteriolar narrowing, arteriovenous nicking, cotton-wool spots, and retinal haemorrhages, leading to visual impairment or blindness.
+Glaucoma:
+Elevated blood pressure may contribute to increased intraocular pressure, which can cause glaucoma and damage to the optic nerve.
+Peripheral Vascular Complications
+Peripheral Artery Disease (PAD):
+Hypertension is a risk factor for the development of PAD, which results from atherosclerosis in the peripheral arteries, leading to reduced blood flow and potential ischemia in the limbs.
+Aortic Aneurysm:
+Chronic hypertension can weaken the aortic wall and contribute to the development of aortic aneurysms, which carry a risk of rupture and life-threatening bleeding.
+Metabolic Complications
+Metabolic Syndrome:
+Hypertension is a component of metabolic syndrome, which also includes abdominal obesity, dyslipidemia, and insulin resistance. Metabolic syndrome increases the risk of developing type 2 diabetes and cardiovascular disease.
+Improve
+Cardiology
+Essential hypertension

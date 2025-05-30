@@ -1,0 +1,151 @@
+Primary biliary cholangitis
+Primary biliary cholangitis
+Primary biliary cholangitis (previously referred to as primary biliary
+cirrhosis
+) is a chronic liver disorder typically seen in middle-aged females (female:male ratio of 9:1). The aetiology is not fully understood although it is thought to be an autoimmune condition. Interlobular bile ducts become damaged by a chronic inflammatory process causing progressive cholestasis, which may eventually progress to cirrhosis. The classic presentation is itching in a middle-aged woman.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 12.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 8:1
+Condition
+Relative
+incidence
+Primary biliary cholangitis
+1
+Primary sclerosing cholangitis
+0.17
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Associations
+Sjogren's syndrome (seen in up to 80% of patients)
+Rheumatoid arthritis
+Systemic sclerosis
+Thyroid disease
+Improve
+Pathophysiology
+Primary biliary cholangitis (PBC)
+, formerly known as primary biliary
+cirrhosis
+, is a chronic and progressive cholestatic liver disease characterised by destruction of the small intrahepatic bile ducts. The pathogenesis of PBC, although not entirely understood, is believed to be multifactorial involving genetic predisposition, environmental factors and autoimmune response.
+The first step in the pathogenesis of PBC involves
+genetic susceptibility
+. Certain human leukocyte antigen (HLA) haplotypes, particularly HLA-DR8 and HLA-DQB1*0402, are more prevalent in patients with PBC. Non-HLA genes such as IL12A and IL12RB2 have also been implicated in the disease process.
+Environmental triggers then interact with this genetic predisposition to initiate an
+autoimmune response
+. These triggers may include infectious agents or xenobiotics that alter the structure of self-antigens, making them appear foreign to the immune system. This molecular mimicry leads to cross-reactivity between self and foreign antigens.
+In susceptible individuals, these altered self-antigens trigger an
+inappropriate T cell-mediated immune response
+. Autoreactive CD4+ T cells recognise mitochondrial antigens presented on the surface of biliary epithelial cells (BECs), leading to their activation. Activated CD4+ T cells then stimulate B cells to produce
+anti-mitochondrial antibodies
+(AMAs).
+The activated T cells also secrete
+pro-inflammatory cytokines
+such as interferon-gamma and tumour necrosis factor-alpha which further damage BECs. These cytokines induce apoptosis of BECs and promote fibrosis by activating hepatic stellate cells.
+The ongoing immune response leads to a
+chronic inflammatory state
+, resulting in progressive destruction of small intrahepatic bile ducts and cholestasis. This is characterised histologically by portal inflammation, granuloma formation, and ductopenia.
+Cholestasis leads to retention of toxic bile acids in the liver, causing further damage. Over time, this chronic inflammation and injury result in
+biliary fibrosis
+, eventually progressing to cirrhosis and liver failure if left untreated.
+The pathogenesis of PBC is complex and not completely understood. Further research is needed to elucidate the precise mechanisms involved and identify potential targets for therapeutic intervention.
+Improve
+Clinical features
+- Early: may be asymptomatic (e.g. raised ALP on routine LFTs) or
+fatigue
+,
+pruritus
+Cholestatic
+jaundice
+Hyperpigmentation
+, especially over pressure points
+Around 10% of patients have
+right upper quadrant pain
+Xanthelasmas, xanthomata
+Also: clubbing, hepatosplenomegaly
+Late: may progress to liver failure
+Improve
+Investigations
+-
+Anti-mitochondrial antibodies
+(
+AMA
+) M2 subtype are present in 98% of patients and are highly specific
+Smooth muscle antibodies in 30% of patients
+Raised serum IgM
+Improve
+Differential diagnosis
+The differential diagnosis of Primary biliary cholangitis (PBC) can be challenging due to its similar presentation with other hepatobiliary conditions. The most common alternative diagnoses include
+Primary sclerosing cholangitis
+(PSC), Autoimmune hepatitis (AIH) and Cholestatic drug reaction.
+Primary Sclerosing Cholangitis
+PSC is an idiopathic condition characterised by inflammation, fibrosis and stricturing of intrahepatic and extrahepatic bile ducts. It often presents with advanced disease due to its asymptomatic nature in early stages.
+Contrary to PBC, PSC affects both men and women equally and is associated with inflammatory bowel disease, particularly ulcerative colitis.
+Clinically, patients may present with
+right upper quadrant pain
+,
+fatigue
+and
+pruritus
+which are also common in PBC. However,
+jaundice
+is more prevalent in PSC than in PBC.
+Laboratory findings typically show elevated alkaline phosphatase levels similar to PBC. However, serum IgM levels are usually normal unlike the elevated levels seen in PBC.
+Autoimmune Hepatitis
+AIH is a chronic liver disease caused by a dysregulated immune response against hepatocytes leading to inflammation and necrosis.
+Unlike PBC which predominantly affects middle-aged females, AIH has two peaks of onset: one in adolescence and another around the age of 60 years affecting both genders equally.
+The clinical presentation varies from asymptomatic individuals to those presenting with acute liver failure. Common symptoms like fatigue and jaicundice are shared between AIH and PBC but AIH may also present with
+hepatomegaly
+or
+splenomegaly
+not typical for PBC.
+The hallmark of AIH in laboratory findings is the presence of autoantibodies (ANA, ASMA, anti-LKM1) and hypergammaglobulinaemia which are not typical for PBC.
+Cholestatic Drug Reaction
+Several drugs can cause a cholestatic pattern of liver injury mimicking PBC. The list includes antibiotics, antihypertensives and psychotropic medications among others.
+This condition can affect any age group or gender unlike the female preponderance seen in PBC.
+Clinically patients present with jaundice, pruritus and pale stools similar to PBC but the onset is usually related to recent drug exposure.
+Laboratory findings show elevated alkaline phosphatase levels similar to PBC. However, drug-induced liver injury often presents with a more marked elevation in transaminases than seen in PBC.
+Improve
+Management
+-
+Pruritus
+: cholestyramine
+Fat-soluble vitamin supplementation
+Ursodeoxycholic acid
+Liver transplantation e.g. if bilirubin > 100 (PBC is a major indication) - recurrence in graft can occur but is not usually a problem
+Improve
+Complications
+-
+Cirrhosis
+Osteomalacia
+and
+osteoporosis
+Significantly increased risk of
+hepatocellular carcinoma
+Improve
+Prognosis
+The prognosis of primary biliary cholangitis (PBC) is variable and depends on several factors. The primary determinant is the stage at which the disease is diagnosed.
+Early-stage PBC, where there's no evidence of
+cirrhosis
+or significant hepatic fibrosis, generally has a favourable prognosis with a survival rate similar to the general population.
+Advanced-stage PBC, characterised by decompensated cirrhosis or portal hypertension, carries a poorer prognosis with reduced life expectancy.
+The Mayo risk score and the UK-PBC risk scores are widely used prognostic models in PBC, incorporating variables such as bilirubin, albumin levels, age and platelet count. These models can help predict survival without liver transplantation over a 5-year period.
+Progression to
+hepatocellular carcinoma
+(HCC) is relatively rare in PBC patients compared to other chronic liver diseases. However, it does occur and impacts negatively on prognosis.
+Treatment with ursodeoxycholic acid (UDCA) has been shown to improve biochemical parameters and delay histological progression. Patients who respond well to UDCA treatment typically have a better prognosis than non-responders.
+Ultimately, some patients may require liver transplantation. Survival rates post-transplantation are generally high with 1-year survival around 90% and 5-year survival approximately 75-80%.
+Improve
+Gastroenterology
+Primary biliary cholangitis

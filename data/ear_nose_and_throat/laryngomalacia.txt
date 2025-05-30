@@ -1,0 +1,138 @@
+Laryngomalacia
+Laryngomalacia
+Laryngomalacia
+is the most common congenital anomaly of the larynx, characterised by an inward collapse of supraglottic structures during inspiration. This results in partial airway obstruction, presenting clinically with
+stridor
+that typically manifests within the first two weeks of life. The condition is often self-limiting and resolves by 18 to 24 months as the laryngeal cartilage matures.
+The aetiology remains largely idiopathic, although neurologic, gastroesophageal and anatomic factors have been implicated. Diagnosis is confirmed through direct laryngoscopy revealing characteristic findings such as omega-shaped epiglottis and shortened aryepiglottic folds.
+Management primarily involves observation for mild cases whereas moderate to severe cases may necessitate interventions including positional adjustments, medical management of associated conditions like gastroesophageal reflux disease (GERD), or surgical intervention such as supraglottoplasty.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: more common in males 1.6:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Laryngomalacia, the most common cause of
+stridor
+in neonates, is a congenital condition characterised by inward collapse of supraglottic structures during inspiration. The precise aetiology remains elusive due to its multifactorial nature, but several risk factors and underlying causes have been identified.
+Risk Factors:
+Male sex:
+Males are more frequently affected than females. The male-to-female ratio is approximately 2:1.
+Premature birth:
+Preterm infants are at higher risk for laryngomalacia, possibly due to immature neuromuscular control and cartilaginous support.
+Firstborn status:
+A higher incidence has been observed among firstborn children, suggesting possible maternal or environmental factors.
+Underlying Causes:
+Neuromuscular immaturity:
+Inadequate tone or coordination of the arytenoid muscles may contribute to the floppy laryngeal tissues seen in laryngomalacia. This is often associated with prematurity and neurological conditions such as cerebral palsy.
+Gastroesophageal reflux disease (GERD):
+There is ongoing debate about the role of GERD in laryngomalacia. While some studies suggest that acid reflux may exacerbate laryngeal collapse by causing inflammation and oedema, others argue that GERD is a consequence rather than a cause of laryngomalacia.
+Anatomical abnormalities:
+Congenital anomalies such as shortening or malpositioning of the aryepiglottic folds can cause obstruction of the laryngeal inlet and contribute to laryngomalacia.
+Improve
+Pathophysiology
+Laryngomalacia
+is a congenital disorder marked by the malformation of laryngeal cartilage, leading to an inward collapse of supraglottic structures during inspiration. The pathophysiology of this condition involves several key steps:
+The first step in the pathophysiology of laryngomalacia involves
+immaturity and floppiness
+of the arytenoid cartilages and surrounding tissues. This inherent structural weakness is believed to be a primary factor contributing to the abnormal flaccidity and subsequent inward collapse of supraglottic structures during inspiration.
+Next,
+shortening of the aryepiglottic folds
+, which are bands of tissue that connect the arytenoid cartilages to the epiglottis, has been identified in cases of laryngomalacia. This shortening contributes to the inward buckling of these structures during respiration.
+The third step revolves around
+neuromuscular control abnormalities
+. In some patients with laryngomalacia, there appears to be a delay in maturation or dysfunction in neuromuscular control mechanisms responsible for coordinating movements between different parts of the larynx. These disturbances may contribute further to airway obstruction.
+A significant proportion of children with severe laryngomalacia also exhibit
+gastro-oesophageal reflux disease (GORD)
+. The relationship between GORD and laryngomalacia is complex and not fully understood. However, it's hypothesised that acid reflux may cause inflammation and swelling in the larynx, thereby exacerbating airway obstruction.
+The aforementioned pathophysiological mechanisms result in characteristic clinical manifestations such as inspiratory
+stridor
+, feeding difficulties,
+failure to thrive
+, and in severe cases, life-threatening airway obstruction. The stridor is typically high-pitched and squeaky due to the turbulent airflow through the narrowed laryngeal inlet.
+Improve
+Classification
+Laryngomalacia, a common cause of
+stridor
+in neonates and infants, is classified into three types based on the anatomical location of supraglottic collapse.
+Type I Laryngomalacia (Curling Type):
+Characterised by inward curling of the mucosa overlying the arytenoid cartilages during inspiration. This creates an omega-shaped laryngeal inlet instead of the normal V-shape.
+It's the most common type, accounting for approximately 75% of cases.
+Type II Laryngomalacia (Prolapsing Type):
+Involves prolapse of the mucosa overlying the cuneiform and corniculate cartilages into the glottis during inspiration.
+This type accounts for around 15% of laryngomalacia cases.
+Type III Laryngomalacia (Posterior Displacement Type):
+Less common, only observed in about 10% of cases. It involves posterior displacement or malpositioning of the epiglottis and aryepiglottic folds.
+This type is often associated with more severe symptoms and may require early surgical intervention.
+The classification system aids in understanding variations in clinical presentation and guides therapeutic approach. For instance, while mild to moderate laryngomalacia (typically Type I) usually resolves spontaneously by 18-24 months, severe forms (often Types II & III) may necessitate interventions such as supraglottoplasty.
+Improve
+Clinical features
+Features
+Inspiratory
+stridor
+: high-pitched and crowing. This is usually intermittent, occurring in the supine position e.g. when the child lies on its back, when feeding or when agitated
+Symptoms increase in severity during the first 8 months but tend to resolve by 18-24 months
+Respiratory distress,
+failure to thrive
+and cyanosis are rare
+Improve
+Investigations
+Investigations
+Oxygen saturation should be monitored and blood gases taken if there is desaturation
+Laryngoscopy and bronchoscopy are only indicated if there are severe features, or if there is diagnostic difficulty
+Improve
+Differential diagnosis
+Laryngomalacia, characterised by inspiratory
+stridor
+that typically presents within the first few weeks of life, should be differentiated from other conditions that may present similarly. The most likely alternative diagnoses include vocal cord paralysis, subglottic stenosis and tracheomalacia.
+Vocal Cord Paralysis
+Unlike laryngomalacia, vocal cord paralysis often presents with a weak cry or voice, aspiration or feeding difficulties and can cause biphasic stridor or even complete airway obstruction.
+It is commonly unilateral and the result of birth trauma, neurological disorders or iatrogenic injury post-thoracic surgery.
+In contrast to laryngomalacia where endoscopic examination shows omega-shaped epiglottis and floppy arytenoids during inspiration, vocal cord paralysis reveals immobile or poorly mobile vocal cords in a paramedian position.
+Subglottic Stenosis
+This condition usually manifests as biphasic stridor and is not limited to inspiration like laryngomalacia. It may also present with respiratory distress that is disproportionate to the degree of stridor.
+The underlying causes are diverse including congenital malformations, prolonged intubation trauma or systemic diseases like Wegener’s granulomatosis. This differentiates it from laryngomalacia which is believed to be due to neuromuscular immaturity.
+Endoscopic findings show narrowing of the subglottic space compared to supraglottic prolapse seen in laryngomalacia.
+Tracheomalacia
+Tracheomalacia, unlike laryngomalacia, is characterised by expiratory stridor or wheezing, recurrent chest infections and respiratory distress. It may also be associated with oesophageal atresia and tracheo-oesophageal fistula.
+The condition results from a deficiency in cartilaginous support of the trachea leading to dynamic airway collapse during expiration.
+On bronchoscopy, there is excessive collapsibility of the tracheal walls during expiration as opposed to the inspiratory collapse seen in laryngomalacia.
+Improve
+Management
+Management
+99% of cases usually resolve spontaneously by 18-24 months
+Symptomatic relief may be provided by hyperextending the neck during episodes of
+stridor
+Surgical intervention is only required with severe respiratory distress e.g. tracheostomy, laryngoplasty, excision of redundant mucosa, laser epiglottopexy or laser division of the aryepiglottic folds
+Improve
+Complications
+While laryngomalacia is often a self-limiting condition, it can give rise to several complications that require careful management. The most common complications are detailed below:
+Failure to thrive
+:
+This is one of the most frequent complications observed in infants with laryngomalacia. Owing to increased work of breathing and feeding difficulties, affected infants may have inadequate weight gain and growth retardation.
+Respiratory distress:
+Severe laryngomalacia can lead to episodes of apnoea, cyanosis, or even life-threatening respiratory failure. This necessitates immediate intervention such as supplemental oxygen or surgical correction.
+Gastro-oesophageal reflux disease (GORD):
+A significant association has been found between laryngomalacia and GORD. Reflux exacerbates airway obstruction and contributes to symptom severity.
+In addition to these, there are several less common but serious complications associated with laryngomalacia.
+Sleep apnoea:
+Obstructive sleep apnoea syndrome (OSAS) can occur due to the dynamic airway collapse seen in laryngomalacia, leading to disrupted sleep architecture and daytime somnolence.
+Pneumonia:
+Recurrent aspiration due to feeding difficulties can predispose infants with laryngomalacia to recurrent pneumonia or other lower respiratory tract infections.
+Pulmonary hypertension:
+Chronic hypoxaemia from severe untreated laryngomalacia may lead to pulmonary hypertension over time. This is a rare but potentially fatal complication if not promptly recognised and treated.
+Improve
+Ear, nose and throat
+Laryngomalacia

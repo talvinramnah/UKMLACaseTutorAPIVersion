@@ -1,0 +1,251 @@
+Cholangiocarcinoma
+Cholangiocarcinoma
+Cholangiocarcinoma is a
+cancer
+that arises in the bile ducts either within (intrahepatic) or outside the liver (extrahepatic). Understanding where in the bile ducts the cancer is allows us to understand the symptoms and consider management options which vary between the sites.
+Advancing age, sex (more common in males), smoking and chronic inflammation of the bile ducts are a few of the most important risk factors for cholangiocarinoma. These will be discussed in detail below.
+Although relatively rare, cholangiocarinomas are frequently missed as symptoms are often vague. Early diagnosis is key as surgery in the early stage of the disease is the only chance of a cure.
+Once diagnosed, there is a progressive deterioration with average survival of 12-18 months.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.70 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 1.2:1
+Condition
+Relative
+incidence
+Acute cholecystitis
+82.35
+Ascending cholangitis
+29.41
+Pancreatic
+cancer
+8.82
+Hepatocellular carcinoma
+5.29
+Cholangiocarcinoma
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+Primary sclerosing
+cholangitis
+(PSC):
+The most significant risk factor in the UK, with a markedly increased lifetime risk compared to the general population.
+Biliary tract disorders:
+Chronic biliary inflammation or injury, including choledochal cysts and Caroli disease.
+Hepatolithiasis (intrahepatic bile duct stones).
+Parasitic infection:
+Liver fluke infestation (Opisthorchis viverrini, Clonorchis sinensis) is a major cause in endemic regions but rare in the UK.
+Cirrhosis:
+Any cause of cirrhosis, including viral hepatitis (particularly hepatitis B and C), increases risk.
+Toxins and exposures:
+Thorotrast exposure (historical radiological contrast agent).
+Asbestos and nitrosamine exposure.
+Metabolic conditions:
+Diabetes mellitus
+Obesity
+Non-alcoholic fatty liver disease
+Epidemiological associations
+Cholangiocarcinoma is slightly more common in males than females in the UK and globally.
+Incidence increases with age; most cases occur after 50 years.
+Genetic and familial factors
+Familial clustering is rare but has been reported; no specific hereditary syndromes have been clearly established as causative.
+Sporadic cases
+A significant proportion of cases arise without identifiable risk factors.
+Improve
+Pathophysiology
+Like all cancers, cholangiocarcinoma occurs when cells develop mutations in their DNA leading them to grow out of control. Chronic inflammation (for example in patients with PSC) leads to an increased risk that mutations will occur. Most cholangiocarcinomas will arise from biliary epithelium and are considered to be adenocarcinomas.
+Cholangiocarcinomas can metastasise in 2 main ways:
+Through the lymph system
+Through the blood
+The most common places for bile duct
+cancer
+to spread are the lungs, liver, regional lymph nodes and the peritoneum.
+As mentioned previously, cholangiocarcinomas can be divided into intrahepatic and extrahepatic cancers. Extrahepatic bile duct cancers can be further divided into-
+Perihilar bile duct cancers
+Most common
+Develop just outside the liver where the left and right hepatic ducts meet
+Tumours occurring at the junction where the hepatic ducts meet to form the common hepatic duct are known as Klatskin tumours
+Distal bile duct cancers
+Tumours occur where the common bile duct passes through the pancreas and into the small intestine
+Often hard to distinguish from a pancreatic malignancy
+Improve
+Clinical features
+The symptoms of cholangiocarcinoma often depend on the location of the tumour. Intrahepatic bile duct cancers do not usually cause any specific symptoms and therefore diagnosed at a more advanced stage.
+Both intrahepatic and extrahepatic cholangiocarcinomas can present with
+vague
+symptoms including-
+Anorexia
+Weight loss
+Fevers (20%)
+Lethargy
+Abdominal pain (30%)
+Most commonly right upper quadrant
+Symptoms that indicate biliary obstruction and more common in patients with extrahepatic bile duct
+cancer
+-
+Jaundice
+Pruritus
+(65%)
+Pale-coloured stools
+Dark urine
+Courvoisier's law
+States that in the presence of jaundice and a palpable gallbladder, malignancy of the biliary tree or pancreas should be
+strongly
+suspected as the cause is
+unlikely
+to be gallstones
+Improve
+Investigations
+Multiple investigations are used in patients with suspected cholangiocarcinoma.
+Blood tests
+No blood test is diagnostic
+Liver function tests (LFTs)
+An obstructive picture is common (elevated alkaline phosphatase, gamma-GT and bilirubin)
+Aminotransferases are not usually affected
+Prolonged PT time
+Tumour markers
+Carbohydrate antigen (CA) 19-9 and carcinoembryonic antigen (CEA) levels may be elevated
+Imaging
+Ultrasound scan (USS)
+Can be used as to identify obstruction and ductal dilatation
+MRCP (magnetic resonance cholangiopancreatography)
+Gives detailed images of the liver, bile ducts, gallbladder, pancreas, and pancreatic duct
+ERCP (endoscopic retrograde cholangiopancreatography)
+Invasive test
+Allows biopsies to be taken whilst giving a detailed view of the biliary system
+Percutaneous transhepatic cholangiography (PTC)
+Contrast is injected into the bile ducts in the liver and x-rays are taken
+Biopsies can be taken
+Stents can be placed this way if ERCP has failed
+Despite the increased risk of cholangiocarcinoma in patients with primary sclerosing
+cholangitis
+(PSC) , no screening test has been shown to be of benefit. However, due to the recognition of the importance of early detection, the British Society of Gastroenterology suggest patients with a
+new
+diagnosis of PSC should have a CA19-9 tumour marker test and imaging (USS/MRCP). If suspicious lesions are identified, an ERCP and biopsies are needed.
+Patients should have LFTS and tumour markers checked every 6 months and imaging every 12 months. As before, any abnormalities will need further investigation.
+NICE guidelines advise that patients presenting with an upper abdominal mass to be considered for an urgent USS in accordance with the 2 week wait referral system.
+Improve
+Differential diagnosis
+The differential diagnoses for cholangiocarcinoma are wide and include the many causes of post-hepatic
+jaundice
+.
+It is always key to consider malignancies:
+Pancreatic
+cancer
+Courvoisier's sign may be present
+Hepatocellular carcinoma
+Raised tumour marker, alpha-fetoprotein is not associated with cholangiocarcinoma and could indicate a primary liver cancer
+Inflammation and infections need to be considered including:
+Acute cholecystitis
+/
+Ascending cholangitis
+.
+Aminotransferases are usually normal in cholangiocarcinoma but will be elevated in cholangitis
+Acute hepatitis
+Aminotransferases will be markedly raised
+PSC
+Primary biliary cirrhosis
+Raised alkaline phosphatase
+Presence of antimitochondrial antibodies
+Bile duct strictures
+More common in patients with PSC
+Improve
+Staging
+Staging is based on the
+tumour, node and metastasis (TNM)
+classification and knowing this will allow the appropriate treatment to be given. The system is complex and differs for the different types of cholangiocarcinoma. It does not need to be memorised but a broad understanding is important.
+The stage of a
+cancer
+describes its size and whether it has spread beyond its original site-
+T
+Describes the size of the tumour
+N
+Describes if the cancer has spread to the lymph nodes
+M
+Describes if the cancer has metastasised
+Improve
+Management
+Unfortunately most patients with cholangiocarcinoma present late and management options are limited.
+The treatment depends on
+The size and location of the
+cancer
+The stage of the cancer
+The patients general health
+Surgery offers patients the only chance of a cure. However, only around 33% of patients have resectable disease at diagnosis. Furthermore, even patients undergoing curative surgery will have recurrence and survival at 5 years is 10-45%.
+The type of surgery depends on the location of the cancer.
+Removal of the bile duct
+Performed if the cancer is small and localised
+Partial hepatectomy
+If a whole lobe needs to be removed, this may extend to a lobectomy
+Performed for intrahepatic bile duct cancers
+Pancreaticoduodenectomy (Whipple's procedure)
+Highly complex
+Performed for distal bile duct cancers
+If the tumour can be removed surgically, people may receive adjuvant chemotherapy or radiation therapy to reduce the chance of recurrence. It is important to note that bile duct cancers are
+resistant
+to many chemotherapy types and chemotherapy alone
+cannot
+cure the cancer.
+Recently, there have been developments in the use of targeted therapy to treat cholangiocarcinomas. These therapies target the cancer's specific proteins that control its growth thereby blocking the cancer's ability to divide and spread.
+The drug, Pemigatinib has now been licensed for use in patients with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma with certain gene mutations.
+Few patients will meet the criteria for surgery and therefore palliative measures are key. Measures can be put in place to reduce the symptoms caused by the disease. These include-
+Stenting
+ERCP can be used to stent the bile duct relieving obstructive symptoms.
+If ERCP not possible, surgery can also be done for stent insertion
+Chemo/radiotherapy
+Reduce symptoms
+Gemcitabine and Cisplatin are most commonly used
+Improve
+Complications
+Complications can be related to the
+cancer
+itself
+or
+the treatment given:
+Most of the complications related to the cancer are due to biliary obstruction. There are a few conditions to be particularly aware of including:
+Biliary tract sepsis
+Secondary biliary cirrhosis
+Due to longstanding obstruction
+Surgery for cholangiocarinomas is often highly complex. There are the general complications associated with all surgeries to consider including:
+Anaesthetic risk
+Haemorrhage
+Injury to surrounding structures
+Pain
+Infection
+Blood clots
+More specific complications:
+Anastomotic leaks
+Pancreatic fistulas
+Adhesions
+Can lead to subsequent bowel obstruction
+Diabetes
+Delayed gastric emptying
+Associated with nausea and vomiting
+Nutritional problems
+Patients often have to take supplemental enzymes
+ERCP
+Risk of pancreatitis
+Improve
+Prognosis
+Prognosis is often very poor. As discussed previously, patients often present late where the chance of a cure has been missed.
+Most patients are often only suitable for palliative management.
+Prognosis tends to be better for those with extrahepatic tumours which are more likely suitable for surgical intervention.
+30% of patients with localised disease will survive for 5 years or more after diagnosis. This falls to just 2% for those with metastatic disease.
+By comparison, those with intrahepatic tumours:
+Just 5% of patients with localised disease will survive for 5 years or more after diagnosis.
+Improve
+Cancer
+Cholangiocarcinoma

@@ -1,0 +1,161 @@
+Acute bacterial prostatitis
+Acute bacterial prostatitis
+Acute bacterial prostatitis (ABP) is a sudden and severe infection of the prostate gland, primarily caused by bacterial pathogens. It is a relatively uncommon condition but requires immediate attention due to the potential for serious complications if not promptly diagnosed and treated. It is one of the four main categories of prostatitis, which also include chronic bacterial prostatitis, chronic
+pelvic pain
+syndrome, and asymptomatic inflammatory prostatitis.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 30.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute bacterial prostatitis is predominantly caused by gram-negative bacteria, with
+Escherichia coli
+being the most common pathogen. Other organisms implicated include
+Klebsiella
+,
+Proteus
+,
+Pseudomonas aeruginosa
+, and
+Serratia
+. Gram-positive bacteria such as
+Enterococcus faecalis
+and
+Staphylococcus aureus
+are less commonly involved but are still notable contributors.
+Risk Factors:
+Invasive procedures:
+Any procedure that involves instrumentation of the urethra or prostate (e.g., catheterisation, cystoscopy, biopsy) can potentially introduce bacteria into the prostate gland, increasing the risk of infection.
+Bladder outlet obstruction:
+Conditions such as benign prostatic hyperplasia (BPH), urethral strictures or bladder stones can lead to urinary stasis and subsequent bacterial growth.
+Vesicoureteral reflux:
+This condition allows for urine to flow back from the bladder into the prostate gland, potentially carrying bacteria along with it.
+HIV infection:
+HIV-infected individuals have a higher risk of developing acute bacterial prostatitis due to their immunocompromised state.
+Sexual activity:
+Engaging in anal intercourse without a condom or having multiple sexual partners increases exposure to potential pathogens.
+The aforementioned factors contribute significantly to the aetiology of acute bacterial prostatitis. However, it's important to note that this condition can also occur spontaneously without any identifiable risk factors. This highlights the complex interplay between host defence mechanisms and pathogenic factors in the development of acute bacterial prostatitis.
+Furthermore, certain populations may have unique risk factors. For example, men with diabetes mellitus are more susceptible due to impaired immune function and increased urinary glucose levels which can facilitate bacterial growth. Additionally, older men are at higher risk due to age-related changes in prostate tissue and increased likelihood of having undergone urological procedures.
+Improve
+Pathophysiology
+The pathophysiology of acute bacterial prostatitis begins with the entry of bacteria into the prostate gland. This typically occurs through retrograde flow of infected urine from the urethra and bladder into the prostatic ducts, though it may also occur via haematogenous spread or direct inoculation during procedures such as transrectal biopsy.
+Once in the prostate, bacteria adhere to prostatic epithelial cells, facilitated by fimbriae and adhesin proteins.
+Escherichia coli
+, the most common causative organism, utilises type 1 pili for this purpose. The adherence of bacteria triggers an inflammatory response within the prostate tissue.
+In response to bacterial invasion, resident immune cells in the prostate - primarily macrophages and dendritic cells - recognise pathogen-associated molecular patterns (PAMPs) on the invading bacteria using pattern recognition receptors (PRRs). This interaction leads to activation of these immune cells.
+Activated immune cells release a variety of cytokines such as tumour necrosis factor-alpha (TNF-α) and interleukins (IL-1β, IL-6), which promote inflammation and recruit additional immune cells to the site of infection. These cytokines also increase vascular permeability, facilitating migration of neutrophils from blood vessels into affected tissues.
+Neutrophils play a key role in containing bacterial proliferation within the prostate. They achieve this through phagocytosis and subsequent destruction of bacteria using reactive oxygen species (ROS) and antimicrobial peptides stored in their granules.
+The influx of neutrophils and other inflammatory mediators results in swelling and oedema within the prostate gland. This can lead to urinary tract symptoms commonly seen in acute bacterial prostatitis such as dysuria, frequency, urgency, nocturia and potentially urinary retention due to obstruction of the prostatic urethra.
+Furthermore, systemic effects of cytokines can lead to
+fever
+, malaise and other systemic symptoms. If left untreated, infection may spread to adjacent tissues causing complications such as epididymitis or bladder infections. Bacteria may also enter the bloodstream leading to bacteraemia and sepsis.
+It is important to note that the severity of acute bacterial prostatitis symptoms can vary widely, from mild discomfort to severe systemic illness, depending on factors such as the virulence of the infecting organism and host immune response.
+Improve
+Clinical features
+The typical presentation of acute bacterial prostatitis often involves an abrupt onset of symptoms. These primarily include
+fever
+, chills, and malaise coupled with lower urinary tract symptoms such as dysuria, urinary frequency and urgency. Pain is also a common feature, most notably in the perineal and lower back regions.
+It is essential to understand that the clinical presentation can vary significantly amongst patients. The following are the possible features in more detail:
+Fever and Chills:
+High-grade fever with rigours may be present. This systemic manifestation is due to the body's response to infection.
+Lower Urinary Tract Symptoms (LUTS):
+These are often similar to those seen in benign prostatic hyperplasia (BPH). They include dysuria, nocturia, urinary frequency and urgency. In severe cases, there may be acute urinary retention.
+Pain:
+Patients can present with pain in various regions including perineum, lower back, penis, testicles or during defecation. The pain tends to be severe and persistent.
+Systemic Symptoms:
+General malaise, weakness or fatigue may also be reported by patients. Anorexia and weight loss may occur in prolonged cases.
+Gastrointestinal Symptoms:
+Some patients might present with nausea or vomiting due to systemic illness or referred pain from the prostate gland.
+In addition to these symptoms, physical examination findings can further aid diagnosis:
+Digital Rectal Examination (DRE):
+This examination usually reveals a tender and swollen prostate which might feel warm on palpation. However, it should be performed cautiously as it may precipitate bacteremia.
+Genital Examination:
+This can reveal concomitant epididymitis or orchitis in some cases. There might also be
+urethral discharge
+, particularly if a sexually transmitted infection is the underlying cause.
+It is noteworthy that the causative organisms are predominantly Gram-negative bacilli, with
+Escherichia coli
+being the most common. Other organisms include
+Pseudomonas aeruginosa
+,
+Klebsiella pneumoniae
+, and
+Proteus mirabilis
+. In sexually active men, sexually transmitted pathogens such as
+Neisseria gonorrhoeae
+and
+Chlamydia trachomatis
+should also be considered.
+The diagnosis of acute bacterial prostatitis is typically confirmed through urine culture and sometimes blood culture, especially in patients who appear systemically ill. It is important to note that prostate massage should be avoided due to the risk of inducing sepsis.
+Improve
+Investigations
+Urine culture:
+A midstream urine specimen should be collected for culture and antibiotic sensitivity testing.
+This will aid in the identification of the causative organism and guide appropriate antibiotic therapy.
+Blood tests:
+Full blood count (CBC) may reveal leukocytosis (elevated white blood cell count)
+Blood cultures should be obtained in patients with severe illness or suspected bacteremia.
+Imaging:
+Although not routinely required, imaging studies such as transrectal ultrasound (TRUS) or computed tomography (CT) scan may be useful in cases with complications or diagnostic uncertainty.
+Improve
+Differential diagnosis
+Acute bacterial prostatitis (ABP) may present similarly to other urological conditions, making differential diagnosis essential. Three common conditions that mimic ABP include chronic bacterial prostatitis, acute urinary tract infection (UTI), and benign prostatic hyperplasia (BPH).
+Chronic Bacterial Prostatitis:
+Clinical presentation:
+Patients with chronic bacterial prostatitis often present with recurrent UTIs, lower urinary tract symptoms such as dysuria and frequency, and perineal or low back pain. Unlike in ABP,
+fever
+is typically absent.
+Distinguishing features:
+The key differentiating factor is the duration of symptoms. Chronic bacterial prostatitis is characterised by at least three months of
+urinary symptoms
+and/or pain in the pelvic region.
+Acute Urinary Tract Infection:
+Clinical presentation:
+Acute UTI usually presents with dysuria, frequency, urgency, and sometimes haematuria. Systemic signs such as fever are less common than in ABP.
+Distinguishing features:
+On examination, patients with a UTI will not exhibit the extremely tender prostate found in ABP. Moreover, the urine culture will typically reveal a single pathogen in contrast to the polymicrobial flora often seen in ABP caused by organisms such as
+E.coli
+,
+Klebsiella
+, or
+Pseudomonas aeruginosa
+.
+Benign Prostatic Hyperplasia:
+Clinical presentation:
+BPH commonly presents with lower urinary tract symptoms including nocturia, hesitancy, weak stream and incomplete bladder emptying. Systemic symptoms such as fever, chills or malaise are typically absent.
+Distinguishing features:
+Unlike ABP, BPH is a non-inflammatory, non-infectious condition. On digital rectal examination, the prostate will be enlarged but not tender. Symptoms tend to progress slowly over time, in contrast to the acute onset seen in ABP.
+Improve
+Management
+Prompt and appropriate antibiotic therapy is essential in the management of ABP. Empirical treatment should cover the most common causative organisms, with adjustments made based on the results of urine culture and sensitivity testing. Initial treatment may include:
+Fluoroquinolones: Ciprofloxacin or levofloxacin are often used as first-line agents, provided the local resistance patterns allow their use.
+Third-generation cephalosporins: Such as eftriaxone, may be employed in cases of severe infection or allergy to other antibiotic classes.
+NICE currently recommend a 14-day course of a quinolone
+Duration of treatment typically ranges from 2 to 4 weeks, with a reassessment of clinical response and possible adjustment of antibiotics based on culture results. Hospitalization may be necessary in severe cases or when patients are unable to tolerate oral medications.
+Supportive measures, such as adequate hydration, pain management, and
+fever
+control, should be implemented alongside antibiotic therapy. In cases of urinary retention, catheterization may be required. However, a suprapubic catheter is preferred over an indwelling urethral catheter to minimize the risk of exacerbating the infection.
+Improve
+Complications
+If not promptly and adequately treated, ABP can lead to complications, including:
+Bacteremia and sepsis: Systemic spread of the infection may result in life-threatening conditions.
+Prostatic abscess: Formation of pus-filled cavities within the prostate, requiring drainage.
+Epididymitis: Inflammation and infection of the epididymis.
+Chronic bacterial prostatitis: Inadequate treatment of ABP can result in a persistent infection.
+Improve
+References
+Clinical Knowledge Summaries - Acute prostatitis
+Urology
+Acute bacterial prostatitis
