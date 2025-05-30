@@ -1,0 +1,246 @@
+Hypothyroidism
+Hypothyroidism
+Hypothyroidism is a common endocrine disorder characterized by decreased thyroid hormone production. It affects approximately 5% of the population, with women being more commonly affected than men. The most common cause of hypothyroidism is autoimmune thyroiditis, also known as Hashimoto's thyroiditis. Other causes include iodine deficiency, thyroid surgery, and radiation therapy. Symptoms of hypothyroidism can be subtle and nonspecific, including
+fatigue
+,
+weight gain
+,
+constipation
+, and
+cold intolerance
+. Diagnosis is made through measurement of thyroid-stimulating hormone (TSH) and free thyroxine (T4) levels. Treatment involves replacement of thyroid hormone with
+levothyroxine
+, with regular monitoring of TSH levels to ensure adequate dosing.
+Last updated: 1
+st
+July 2024
+Epidemiology
+Incidence: 225.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in females 5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Hypothyroidism can be classified based on the level of dysfunction within the hypothalamic-pituitary-thyroid axis. Understanding the aetiology is crucial for appropriate management.
+Primary Hypothyroidism
+Accounts for approximately 95% of all cases of hypothyroidism
+Autoimmune thyroiditis (Hashimoto's thyroiditis) is the most common cause in iodine-sufficient regions
+Characterised by the presence of anti-thyroid peroxidase (anti-TPO) and anti-thyroglobulin antibodies
+Progressive destruction of the thyroid gland by lymphocytic infiltration
+Iatrogenic causes
+Post-thyroidectomy (partial or total)
+Radioactive iodine therapy for hyperthyroidism or thyroid cancer
+External beam radiotherapy to the neck
+Iodine deficiency remains the most common cause worldwide
+More prevalent in developing countries with inadequate iodine supplementation
+Drug-induced hypothyroidism
+Amiodarone (contains high levels of iodine)
+Lithium (inhibits thyroid hormone release)
+Tyrosine kinase inhibitors
+Immune checkpoint inhibitors
+Post-infectious thyroiditis
+Subacute (de Quervain's) thyroiditis
+Post-partum thyroiditis
+Infiltrative disorders
+Amyloidosis
+Sarcoidosis
+Haemochromatosis
+Congenital hypothyroidism
+Thyroid dysgenesis (agenesis, hypoplasia, ectopia)
+Dyshormonogenesis (defects in thyroid hormone synthesis)
+Secondary Hypothyroidism
+Results from pituitary dysfunction leading to reduced production of thyroid-stimulating hormone (TSH)
+Causes include:
+Pituitary adenomas or other space-occupying lesions
+Pituitary surgery or radiotherapy
+Pituitary apoplexy (infarction or haemorrhage)
+Sheehan's syndrome (postpartum pituitary necrosis)
+Infiltrative disorders (e.g., sarcoidosis, haemochromatosis)
+Hypophysitis (including lymphocytic and IgG4-related disease)
+Tertiary Hypothyroidism
+Results from hypothalamic dysfunction leading to reduced production of thyrotropin-releasing hormone (TRH)
+Causes include:
+Hypothalamic tumours
+Trauma
+Infiltrative disorders
+Radiation therapy
+Peripheral (Consumptive) Hypothyroidism
+Rare form caused by increased degradation of thyroid hormones
+Associated with:
+Haemangiomas expressing high levels of type 3 deiodinase
+Certain malignancies
+Transient Hypothyroidism
+Silent (painless) thyroiditis
+Postpartum thyroiditis
+Recovery phase of subacute thyroiditis
+Withdrawal of exogenous thyroid hormone therapy
+Resistance to Thyroid Hormone
+Rare genetic disorders affecting thyroid hormone receptors
+Variable clinical presentation depending on the specific mutation
+Improve
+Pathophysiology
+Hypothyroidism, a deficiency in the production or action of thyroid hormones, is characterised by a series of pathophysiological events that culminate in its clinical manifestations. The following paragraphs provide an overview of these processes.
+Thyroid Hormone Synthesis and Secretion
+The synthesis and secretion of thyroid hormones are primarily regulated by the hypothalamic-pituitary-thyroid (HPT) axis. In response to low circulating levels of thyroid hormones, thyrotropin-releasing hormone (TRH) is secreted from the hypothalamus. This stimulates the anterior pituitary gland to release thyroid-stimulating hormone (TSH).
+TSH then binds to receptors on the surface of thyroid follicular cells, stimulating endocytosis of thyroglobulin from the colloid, proteolysis and subsequent release of triiodothyronine (T3) and thyroxine (T4).
+Role of Iodine
+Iodide uptake into the follicular cells from plasma is an essential step for thyroid hormone synthesis. The sodium-iodide symporter (NIS), located on the basolateral membrane, mediates this process.
+Once inside the cell, iodide is transported to the apical membrane where it undergoes oxidation to iodine via thyroid peroxidase enzyme. Iodination of tyrosyl residues within thyroglobulin forms monoiodotyrosine (MIT) and diiodotyrosine (DIT). Coupling reactions between MIT and DIT yield T3 and T4.
+Dysfunction at Any Level
+The pathophysiology of hypothyroidism can be traced to dysfunction at any level of the HPT axis or within the thyroid gland itself. Primary hypothyroidism is most common, typically resulting from autoimmune destruction (Hashimoto's thyroiditis) or surgical removal of the thyroid gland.
+Secondary hypothyroidism results from pituitary disease affecting TSH production, while tertiary hypothyroidism is due to hypothalamic disease affecting TRH secretion.
+Clinical Manifestations
+The clinical manifestations of hypothyroidism are largely due to decreased metabolic activity and energy expenditure. Symptoms include
+fatigue
+,
+weight gain
+despite poor appetite,
+cold intolerance
+,
+constipation
+,
+dry skin
+, hair loss and
+bradycardia
+.
+In severe cases or when left untreated for a long period, myxoedema coma may ensue - this is a life-threatening condition characterised by profound hypothermia, hypoventilation and reduced consciousness.
+Improve
+Clinical features
+The stereotypical presentation of hypothyroidism often involves a middle-aged woman who presents with
+fatigue
+,
+weight gain
+,
+cold intolerance
+, and
+constipation
+. However, the clinical manifestations of hypothyroidism are diverse and may vary in severity depending on the degree of thyroid hormone deficiency.
+General Symptoms:
+Fatigue is one of the most common symptoms and can be severe enough to interfere with daily activities.
+Weight gain or difficulty losing weight despite reduced appetite is often reported by patients. However, significant weight gain is not always present.
+Cold intolerance can manifest as increased sensitivity to cold temperatures or a constant feeling of being cold when others are comfortable.
+Musculoskeletal System:
+Patients may experience muscle weakness, cramps, and aches. In severe cases, myopathy may develop.
+Joint pain and stiffness can also occur, mimicking the symptoms of rheumatic diseases.
+Nervous System:
+Cognitive impairment such as memory difficulties or slower thought processes may be present.
+Paresthesia - an abnormal sensation like tingling or numbness - is another possible neurological symptom.
+Skin:
+Dry skin
+(xerosis) is common in hypothyroidism due to decreased sweating. This can lead to pruritus (itching).
+Hair loss (alopecia), particularly diffuse thinning of scalp hair, can occur. Eyebrow hair loss may also be noted.
+Gastrointestinal System:
+Constipation is often reported due to slowed intestinal transit time.
+Cardiovascular System:
+Bradycardia
+(a slow heart rate) is a common finding on examination.
+Patients may also develop pericardial effusion, leading to decreased cardiac output and symptoms of heart failure in severe cases.
+Reproductive System:
+In women, menstrual irregularities such as
+menorrhagia
+(heavy periods) or amenorrhoea (absence of periods) may occur. Infertility can also be a presenting feature.
+In men, hypothyroidism can present with decreased libido and erectile dysfunction.
+Psychiatric Manifestations:
+Hypothyroidism can cause depressive symptoms or exacerbate existing depression. Anxiety disorders can also be associated with thyroid dysfunction.
+Ophthalmological Manifestations:
+Although not as common, periorbital oedema (swelling around the eyes), dry eyes, and loss of the outer third of eyebrows are possible manifestations of hypothyroidism.
+Improve
+Investigations
+Hypothyroidism is a common endocrine disorder that can present with a wide range of clinical manifestations. To confirm the diagnosis and determine the underlying cause, several investigations may be required. The following guide provides an overview of the most relevant investigations in diagnosing hypothyroidism.
+First-Line Investigations
+Serum Thyroid-Stimulating Hormone (TSH) Test:
+This is the initial test for suspected hypothyroidism. An elevated TSH level typically indicates primary hypothyroidism, due to decreased thyroid hormone production resulting in increased pituitary TSH secretion.
+Serum Free Thyroxine (FT4) Test:
+If TSH levels are abnormal, this test should be performed next. A low FT4 level alongside
+high TSH
+confirms primary hypothyroidism. Normal FT4 with high TSH indicates subclinical hypothyroidism.
+Further Investigations
+If first-line tests confirm hypothyroidism but the cause is still unclear, further investigations might be warranted:
+Serum Thyroglobulin (Tg) and Anti-Thyroglobulin Antibody (TgAb) Tests:
+These tests help identify autoimmune thyroid disease, which is a common cause of hypothyroidism. Elevated levels suggest Hashimoto's thyroiditis.
+Serum Thyrotropin Receptor Antibodies (TRAb) Test:
+TRAb can also indicate autoimmune thyroid disease, specifically Graves' disease, although it's more commonly associated with hyperthyroidism.
+Radiological Imaging:
+Ultrasound or nuclear scan may be used if a goitre or nodule is detected during physical examination or if iodine deficiency is suspected.
+It is worth noting that in some cases, hypothyroidism can be diagnosed based on clinical presentation alone, especially when symptoms are severe and characteristic of the disease. However, laboratory investigations are essential to confirm the diagnosis and determine the underlying cause.
+Interpretation of Results
+A comprehensive understanding of thyroid function tests is required for accurate interpretation. In primary hypothyroidism, TSH levels will be elevated while FT4 levels will be low or normal (in subclinical hypothyroidism). If both TSH and FT4 levels are low, this could suggest secondary or tertiary hypothyroidism due to pituitary or hypothalamic dysfunction respectively.
+In patients with positive anti-thyroid antibodies but normal hormone levels, regular monitoring is advised as they have an increased risk of developing overt hypothyroidism in the future.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of hypothyroidism, three conditions that may present similarly include
+Pituitary adenoma
+,
+Cushing's syndrome
+, and
+Myxedema coma
+. These conditions can mimic the clinical presentation of hypothyroidism but possess unique characteristics that differentiate them.
+Pituitary Adenoma:
+The most common type of pituitary adenoma is a prolactinoma, which results in hyperprolactinaemia. This condition may mimic hypothyroidism due to shared symptoms such as fatigue, weakness, depression, and
+weight gain
+. However, unlike hypothyroidism, patients with a prolactinoma often present with galactorrhoea (milk production) and menstrual irregularities in females or reduced libido and infertility in males.
+In contrast to primary hypothyroidism where TSH levels are high, pituitary adenomas may cause secondary hypothyroidism due to decreased TSH secretion. Thus, serum TSH levels would be low or normal despite low free thyroxine (T4) levels.
+Cushing's Syndrome:
+Cushing's syndrome shares several clinical features with hypothyroidism such as weight gain (particularly central obesity), fatigue, muscle weakness and mood changes. However, it also presents with distinct features such as moon facies (rounded face), supraclavicular fat pads and striae (purple-red stretch marks), which are not typically seen in hypothyroid patients.
+Unlike hypothyroidism characterised by low thyroid hormone levels, Cushing's syndrome is caused by prolonged exposure to high cortisol levels. Therefore, laboratory findings will differ significantly between these two conditions.
+Myxedema Coma:
+Myxedema coma is a severe, life-threatening form of hypothyroidism characterised by mental status changes and hypothermia. While it shares many symptoms with typical hypothyroidism such as fatigue,
+lethargy
+,
+cold intolerance
+and weight gain, the distinguishing feature is the altered mental status ranging from confusion to coma.
+In contrast to uncomplicated hypothyroidism, myxedema coma is a medical emergency requiring immediate treatment. Laboratory findings typically reveal profound hypothyroidism with extremely
+low T4
+levels and significantly elevated TSH levels.
+Improve
+Management
+Key points
+initial starting dose of
+levothyroxine
+should be lower in elderly patients and those with ischaemic heart disease. The BNF recommends that for patients with cardiac disease, severe hypothyroidism or patients over 50 years the initial starting dose should be 25mcg od with dose slowly titrated. Other patients should be started on a dose of 50-100mcg od
+following a change in thyroxine dose thyroid function tests should be checked after 8-12 weeks
+the therapeutic goal is 'normalisation' of the thyroid stimulating hormone (TSH) level. As the majority of unaffected people have a TSH value 0.5-2.5 mU/l it is now thought preferable to aim for a TSH in this range
+women with established hypothyroidism who become pregnant should have their dose increased 'by at  least 25-50 micrograms levothyroxine'* due to the increased demands of pregnancy. The TSH should be monitored carefully, aiming for a low-normal value
+there is no evidence to support combination therapy with levothyroxine and liothyronine
+Side-effects of thyroxine therapy
+hyperthyroidism: due to over treatment
+reduced bone mineral density
+worsening of angina
+atrial fibrillation
+Interactions
+iron: absorption of levothyroxine reduced, give at least 2 hours apart
+*source: NICE
+Improve
+Complications
+The complications of hypothyroidism can be severe and varied, often manifesting in cardiovascular, neuropsychiatric, gastrointestinal, musculoskeletal and reproductive systems. These include:
+Cardiovascular complications:
+Hypothyroidism can lead to increased levels of low-density lipoprotein (LDL) cholesterol, causing atherosclerosis and subsequent coronary artery disease. It may also result in diastolic hypertension and pericardial effusion.
+Neuropsychiatric complications:
+Depression is common among patients with hypothyroidism due to decreased metabolic activity in the brain. Cognitive impairment such as memory loss or decreased concentration is also prevalent. More severe cases may present with myxedema coma, a life-threatening condition characterised by altered mental status, hypothermia, and other symptoms related to slowing of function in multiple organs.
+Gastrointestinal complications:
+Hypothyroidism can slow down the gut motility leading to
+constipation
+.
+Musculoskeletal complications:
+Long-standing untreated hypothyroidism can lead to adhesive capsulitis (frozen shoulder), carpal tunnel syndrome and myopathy presenting as muscle weakness and cramps.
+Reproductive system complications:
+Hypothyroidism has been associated with menstrual irregularities including
+menorrhagia
+or amenorrhea. It could also cause infertility due to anovulation. In pregnant women, it increases the risk of miscarriage, pre-eclampsia, placental abruption and postpartum haemorrhage.
+Hypothyroidism also leads to cutaneous manifestations such as
+dry skin
+due to reduced sweating and hair loss from reduced follicular activity. Ocular signs like periorbital oedema are common due to deposition of glycosaminoglycans in the skin.
+Additionally, hypothyroidism can result in anaemia due to reduced erythropoiesis, and hyponatraemia from impaired free water clearance. In severe cases, it may lead to myxedema crisis which is a medical emergency characterised by hypoventilation, hypothermia and cardiovascular collapse.
+Improve
+References
+Clinical Knowledge Summaries - Management of hypothyroidism
+Endocrinology
+Hypothyroidism

@@ -1,0 +1,135 @@
+Carotid artery dissection
+Carotid artery dissection
+Carotid artery dissection is the separation between layers of the carotid artery. This can compromise blood flow to the head and neck and may lead to a stroke. In young adults, it is the leading cause of stroke and making a timely diagnosis is vital to minimise mortality. It usually occurs after physical injuries, strangulation and may develop spontaneously.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+-
+Traumatic:
+Direct neck trauma, often from motor vehicle accidents or strangulation.
+Spontaneous:
+Often associated with structural defects in the arterial wall, such as Ehlers-Danlos syndrome type IV or Marfan syndrome. Additionally, conditions causing systemic inflammation such as arteritis can be predisposing.
+Iatrogenic:
+Arising from medical procedures like catheter angiography, carotid endarterectomy, or chiropractic manipulation of the neck.
+Others:
+Physical activities causing hyperextension or rotation of the neck such as yoga, coughing, vomiting, or childbirth.
+Improve
+Pathophysiology
+The pathogenesis of carotid artery dissection can be understood through the progression of several key events:
+1. Initial Injury:
+The arterial wall sustains an insult, either through direct trauma or spontaneous rupture due to underlying vulnerability.
+2. Intimal Tear:
+The injury leads to a tear in the intima, the innermost layer of the arterial wall.
+3. Blood Entry:
+Blood from the arterial lumen enters the wall through the intimal tear, leading to the formation of an intramural haematoma or pseudoaneurysm.
+4. Progression:
+The intramural haematoma can either extend antegrade (in the direction of blood flow) or retrograde (against the direction of blood flow). This progression can lead to either luminal narrowing, causing reduced blood flow and subsequent cerebral ischaemia, or luminal dilation, potentially resulting in aneurysmal changes.
+5. Neurological Manifestations:
+Luminal narrowing can cause hypoperfusion and embolization. Reduced blood flow may lead to cerebral ischaemia manifesting as transient ischaemic attacks or strokes. Additionally, the stretching of the arterial wall can irritate surrounding structures, including cranial nerves, leading to symptoms such as Horner's syndrome, facial pain, or pulsatile
+tinnitus
+.
+6. Resolution or Complication:
+Over time, the dissection may heal on its own, restoring the arterial lumen. Conversely, ongoing blood flow into the arterial wall can lead to expansion of the haematoma, potentially causing complete arterial occlusion, further luminal narrowing or aneurysm formation.
+Improve
+Clinical features
+Symptoms
+The following signs and symptoms occur in carotid dissection:
+Headache
+(60-75%): usually unilateral, severe and of a gradual onset
+Partial Horner's syndrome (58%)
+Ptosis
+and
+miosis
+can occur if a haematoma of the artery compresses sympathetic nerve fibres to the eye that run along the carotid sheath
+Pulsatile
+tinnitus
+(27%)
+Unilateral
+neck pain
+(25%)
+Transient monocular blindness (25%)
+Cranial nerve palsy (12%): most commonly cranial nerves IX to XII
+These symptoms may occur before patients have a stroke.
+Signs
+Hemiplegia
+Hemisensory loss
+Vascular bruits
+Only present in one-third of patients with carotid dissection
+Ipsilateral neck pain
+Ipsilateral Horner's syndrome
+Improve
+Investigations
+Carotid artery dissection is usually suspected clinically and then confirmed using imaging. The location and severity of the dissection determine the specificity and sensitivity of each type of imaging test.
+There are three main imaging tests that can be used:
+Carotid ultrasound: used as a screening investigation
+Magnetic resonance angiography (MRA) and fat-suppression magnetic resonance imaging (MRI)
+Computed tomography (CT) angiogram
+Carotid ultrasound may be used as a screening investigation as it is non-invasive. It has poor diagnostic value in intracranial carotid dissections but has high sensitivity in diagnosing extracranial carotid dissection and ischaemic symptoms. Luminal narrowing may be observed on ultrasound.
+Magnetic resonance angiography (MRA) and fat-suppression magnetic resonance imaging (MRI) are the preferred methods to diagnose carotid dissection. These techniques have high specificity and sensitivity, lack exposure to ionising radiation and can visualise intramural haematomas. MRA may show narrowing or vessel occlusion in the carotid dissection and there is often a 'string sign' on imaging. A double-lumen sign (a false and true lumen) is seen on fat-suppression MRI in carotid dissection. Intramural haematomas caused by dissection are observed in the presence of luminal narrowing and increased signals.
+A computed tomography (CT) angiogram can be used in patients with no contraindications. This may show a double-lumen sign or flame-like taper of the lumen. It can be completed concurrently with a CT scan of the brain to look for signs of an acute stroke or haemorrhage.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of carotid artery dissection (CAD), three primary alternative diagnoses often arise: cerebrovascular accident (CVA), transient ischaemic attack (TIA) and migraine. These conditions can present similarly to CAD, but there are distinct differences in their clinical presentation which aid in distinguishing between them.
+Cerebrovascular Accident
+The clinical presentation of a CVA is typically sudden onset, with patients experiencing severe
+headache
+, unilateral weakness or numbness, dysarthria or
+aphasia
+. While these symptoms can overlap with CAD, a key distinction lies in the timing and progression of symptoms. In CAD, neurological symptoms may evolve over several hours to days due to progressive thrombosis or embolisation from the dissected vessel.
+Visual disturbances such as homonymous hemianopia are more common in CVA than in CAD. Further differentiation can be made based on cardiovascular risk factors; CVAs are more likely in those with a significant history of hypertension, smoking or hyperlipidaemia.
+Transient Ischaemic Attack
+TIA presents similarly to both CVA and CAD but is distinguished by its brief duration. Symptoms resolve completely within 24 hours without leaving any residual deficits. Unlike CAD where pain (often described as sharp, tearing or pulsating) is a prominent feature, pain is usually absent in TIA.
+In addition to the absence of pain, TIAs do not typically present with Horner's syndrome - partial
+ptosis
+,
+miosis
+and anhidrosis - which is seen in approximately half of all CAD cases due to involvement of the sympathetic fibres running along the internal carotid artery.
+Migraine
+Migraines often mimic CAD due to their associated neurological symptoms such as visual disturbances, sensory changes and unilateral headache. However, migraines are usually episodic in nature with a history of similar attacks and may be associated with triggers such as stress or certain foods.
+Unlike CAD, migraines often have accompanying symptoms like photophobia, phonophobia or nausea. Aura preceding the headache, which is characteristic for migraine, is not seen in CAD.
+Improve
+Management
+Management depends on many factors such as:
+Whether the dissection was spontaneous or caused by trauma
+Whether the patient has had a stroke
+Whether the dissection is extracranial or intracranial
+Whether there is haemorrhage
+Treatment is based on preventing infarction and similar to the treatment of an acute cerebrovascular accident. In patients with no contraindications, thrombolysis can be used within three hours of presentation. Outside of this, anticoagulation and antithrombotic treatments can be used if indicated. If ischaemic symptoms continue, endovascular stenting and surgery are possible options. Asymptomatic patients do not usually require treatment.
+Antiplatelet and anticoagulation medications are used to reduce the risk of a stroke occurring. They are also used to prevent thrombus formation at the injured site and avoid the formation of embolism into other arteries in the brain. These medications help to restore blood flow and improve neurological outcomes.
+The main methods of treatment include:
+Antiplatelet medications such as aspirin
+Anticoagulation with warfarin and heparin
+Thrombolysis
+Endovascular interventions and surgery
+Antiplatelet medications such as aspirin can be used in traumatic cases. They are specifically preferred in intracranial carotid dissections and extensive infarcts.
+Anticoagulation with warfarin and heparin is used to prevent the progression of neurological symptoms. It is only given to patients who have had an intracerebral haemorrhage ruled out using a CT scan of the head. Contraindications to heparin and warfarin include intracranial dissection and extensive infarcts.
+Thrombolysis can be used in patients with a stroke caused by spontaneous extracranial dissection. Contraindications include intracranial dissection and involvement of the aorta due to the risk of aortic rupture.
+Endovascular interventions such as stenting have been found to be beneficial in internal carotid dissection and concurrent proximal intracranial occlusion. Urgent surgical interventions may be used in patients who present with subarachnoid haemorrhage. Surgery can also be performed in symptomatic aneurysmal dilatation and chronic carotid dissections. Medical management is usually the first method of treatment due to the risks involved in surgery.
+Improve
+Complications
+Important complications to note include:
+Strokes
+Transient ischaemic attacks (TIA)
+Pseudoaneurysms
+Subarachnoid haemorrhage (SAH)
+Internal carotid dissections account for 20% of strokes in younger patients. Strokes and TIA can be caused by emboli reducing blood flow to the brain. These emboli form from thrombus at the site of injury. Complete occlusion from thrombus formation in the carotid artery may also cause a stroke.
+Pseudoaneurysms occurs when a pool of blood collects between the tunica adventitia and tunica media, the two outermost layers of an artery. They are more common in tortuous or coiled arterial segments. Saccular pseudoaneurysms are more common in internal carotid dissections and most pseudoaneurysms decrease in size over time and some resolve completely.
+Subarachnoid haemorrhage is a rare complication that occurs in carotid dissection. SAH following internal carotid dissection is more likely after head and neck trauma. In these patients, thin layers in the tunica media and tunica adventitia and an underdeveloped external elastic lamina are the main contributing factors for causing an SAH.
+Improve
+Vascular surgery
+Carotid artery dissection

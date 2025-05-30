@@ -1,0 +1,120 @@
+Placental abruption
+Placental abruption
+Placental abruption or abruptio placenta is a relatively rare and potentially life-threatening situation during the second half of pregnancy. It is one of the major causes of
+antepartum haemorrhage
+and accounts for 30% of all cases.
+It occurs when there is a compromise of the vascular structures supporting the placenta, which results in premature separation of the placenta from the normal lining of the uterus before completion of the second stage of labour. The onset of placental abruption is often acute and it needs immediate resuscitation with IV fluids, oxygen as well as intensive monitoring of mother and fetus.
+Last updated: 22
+nd
+July 2024
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Condition
+Relative
+incidence
+Fibroid degeneration
+2.50
+Placental abruption
+1
+Placenta praevia
+1.00
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact aetiology of placental abruption is
+not known
+. However, a number of factors are associated with its occurrence.
+These include:
+Chorioamnionitis: bacterial colonisation at decidua may initiate inflammation of placental tissues and finally leads to the abruption of the placenta.
+Alcohol ingestion: it accumulates on the fetus and amniotic fluid after crossing the placenta. It causes vasospasm in the placenta and umbilical cord, which might lead to abruption of the placenta.
+Pre-eclampsia: it is primarily a disease of the placenta and results in persistence of high resistance spiral arteries that impede placental perfusion. This compromised placental perfusion leads to a decrease in blood flow to the developing fetus and results in complications like placental abruption.
+Overt hypertension: it causes potential changes in the vasculature of the placenta and leads to placental dysfunction.
+Cigarette smoking:  smoking and smoking by the partner are also an independent risk factor for abruption. It will increase the chance of abruption into multiple times.
+Advanced maternal age: abruption occurs more frequently in older women (≥35 years), but usually this increase has been attributed to multiparity (three or more deliveries) independent of age.
+Cocaine usage during pregnancy: the high blood pressure and increased levels of catecholamines released by cocaine are considered to be responsible for the vasoconstriction in the uterine blood vessels that causes placental separation and abruption.
+Abdominal trauma: injuries cause separation of the placental attachment from decidua.
+Women with placental abruption in their first pregnancy have a greatly increased risk (8%) of placental abruption in a subsequent pregnancy.
+Improve
+Clinical features
+In the majority of patients, placental abruption may present with
+abnormal vaginal bleeding
+during the second half of pregnancy. The amount of vaginal bleeding can vary greatly, and doesn't necessarily indicate how much of the placenta has separated from the uterus. In 20% of cases it is possible for the blood to become trapped inside the uterus (concealed), so even with a severe placental abruption, there might be no visible bleeding.
+The patient may also experience pain over the uterus which is a prominent feature in placental abruption. Uterine contractions may occurs and cause additional, intermittent, pain. On palpation, uterus is extremely hard and tender, and it does not relax. Fetal parts are difficult to palpate and the fetal heart will be inaudible if death has occurred.
+Other possible symptoms include:
+Heavy bleeding leads to faintness and collapse, as may signs of shock.
+Abdominal discomfort
+Back pain
+Improve
+Investigations
+First-line investigations for suspected placental abruption are essential to confirm the diagnosis and assess the severity of the condition. The following outlines a structured approach using relevant investigations:
+Ultrasound Imaging
+Although not always definitive, ultrasound can help identify retroplacental haematoma or other abnormalities. It is particularly useful in ruling out other causes of
+vaginal bleeding
+.
+Doppler studies may be used to evaluate uteroplacental blood flow but are not routinely required.
+Cardiotocography (CTG)
+This is critical for assessing fetal well-being. Continuous electronic fetal monitoring should be initiated promptly to detect signs of fetal distress, such as abnormal heart rate patterns.
+Blood Tests
+Full blood count (FBC)
+: To assess haemoglobin levels and platelet count, which can indicate the degree of maternal blood loss and potential coagulopathy.
+Coagulation profile
+: Including prothrombin time (PT), activated partial thromboplastin time (aPTT), fibrinogen levels, and D-dimers. These tests help identify disseminated intravascular coagulation (DIC), a possible complication of severe abruption.
+Kleihauer-Betke test
+: This test detects fetal red cells in the maternal circulation, which can indicate fetomaternal haemorrhage.
+Liver function tests (LFTs) and renal function tests
+: To monitor for any organ dysfunction secondary to significant haemorrhage or shock.
+Improve
+Differential diagnosis
+Abnormal vaginal bleeding
+during the second half of pregnancy is usually due to either placental abruption or
+placenta praevia
+. It is important to differentiate these two conditions.
+With placental abruption, the placenta partially or completely detaches itself from the uterine wall before delivery. With placenta praevia, the placenta is located over or near the cervix, in the lower part of the uterus. The onset of symptoms is acute and severe for placental abruption but quiet and insidious for the placenta praevia.
+Haemorrhage may be visible or concealed with placental abruption and is external and visible with placenta praevia. Other symptoms like abdominal pain are intense and acute in placental abruption and are unrelated to placenta praevia. Fetal hearts sounds are absent or may show distress in abruption, while it is normal in placenta praevia.
+Other possible differential diagnoses include:
+Chorioamnionitis
+Pre term labour
+Uterine
+fibroid degeneration
+Improve
+Management
+Placental abruption is a sudden unexpected and intense obstetric emergency that usually occurs in pregnancies without any risk factors and requires urgent intervention.
+The main principles of clinical management of women with placental abruption include:
+Initial resuscitation
+: RCOG advises all women with antepartum haemorrhage heavier than spotting and women with ongoing bleeding should remain in hospital until the bleeding has stopped. Adequate analgesia and blood transfusion should be considered during the initial resuscitation.
+Delivery of baby
+: women with antepartum haemorrhage and associated maternal and/or fetal compromise are required to be delivered immediately. While RCOG does not recommend premature delivery of fetus in women with less than 37 weeks of gestation with no fetal and maternal compromise. Likewise, if gestational age is equal to or more than 37 weeks and the bleeding presents as spotting or mucus streaks of blood, active intervention is unlikely needed. In case of minor or major antepartum bleeding, RCOG suggests inducing labour with the aim of achieving vaginal delivery to avoid serious complications related to placental abruption. If fetal death is confirmed, consider vaginal birth as the mode of delivery.
+Post natal
+: it is highly recommended to provide active management of the third stage of labour in these patients for the prevention of postpartum haemorrhage.
+Corticosteroids
+: the risk of preterm births is increased in placental abruption and therefore RCOG suggests a single dose of corticosteroid may offer between 24th and 34th weeks of gestation.
+Anti-D immunoglobulin
+: It should be given to all the non-sensitised RhD negative cases of antepartum haemorrhage independent of whether routine antenatal prophylactic anti-D has been administered.
+Improve
+Complications
+Placental abruption can cause
+life-threatening problems for both mother and baby.
+For the mother, placental abruption can lead to:
+Severe haemorrhage leads to hypovolemic shock
+Hysterectomy to control bleeding from the uterus
+Maternal death
+Transfusion-associated complications
+Fetal demise
+Coagulopathy
+Recurrence in future pregnancies
+Fetal complications include:
+Premature birth
+Stillbirth
+Low birth weight
+Improve
+Complications of labour
+Placental abruption

@@ -1,0 +1,57 @@
+Carpal tunnel syndrome
+Carpal tunnel syndrome
+Carpal tunnel syndrome (CTS) is a common entrapment neuropathy caused by the compression of the median nerve within the carpal tunnel, a narrow passage at the volar aspect of the wrist. CTS is characterized by pain, numbness, tingling, and weakness in the distribution of the median nerve, affecting the thumb, index, middle, and radial half of the ring finger.
+Last updated: 27
+th
+March 2023
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 5:1
+Condition
+Relative
+incidence
+Cervical spondylosis
+1.50
+Carpal tunnel syndrome
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Carpal tunnel syndrome can result from various factors that increase pressure within the carpal tunnel, leading to compression of the median nerve. These factors include:
+Anatomical: Congenital narrow carpal tunnel, wrist fracture, or dislocation.
+Inflammatory: Tenosynovitis, rheumatoid arthritis, or gout.
+Metabolic: Diabetes, hypothyroidism, or pregnancy (fluid retention).
+Work-related: Repetitive hand or wrist movements, forceful gripping, or vibration.
+Improve
+Clinical features
+Patients with CTS typically present with intermittent pain, numbness, and tingling in the affected hand, worsened by activities involving wrist flexion or extension. Symptoms are often more pronounced at night and may cause sleep disturbances. In advanced cases, patients may experience weakness and atrophy of the thenar muscles, leading to reduced grip strength and difficulty in performing fine motor tasks.
+Key physical
+Tinel's sign: Tapping over the volar aspect of the wrist at the carpal tunnel may elicit a tingling sensation or pain radiating into the median nerve distribution.
+Phalen's test: Holding the wrists in full flexion for 60 seconds may reproduce or exacerbate symptoms in the median nerve distribution.
+Durkan's test (compression test): Applying direct pressure over the carpal tunnel for 30-60 seconds may provoke symptoms in the affected hand.
+Improve
+Investigations
+Electrodiagnostic studies, such as nerve conduction studies (NCS) and electromyography (EMG), can be used to confirm the diagnosis, assess the severity, and rule out other peripheral nerve entrapments or neuropathies.
+Improve
+Management
+Treatment options for CTS include conservative measures and surgical intervention, depending on the severity of symptoms and response to conservative therapy.
+Conservative management: Initial treatment includes wrist splinting in a neutral position, particularly at night, to minimize pressure on the median nerve. Nonsteroidal anti-inflammatory drugs (NSAIDs) and oral corticosteroids can be used for pain control and inflammation reduction. Activity modification, ergonomic adjustments, and physical therapy focusing on stretching and strengthening exercises may also be beneficial.
+Corticosteroid injections: Local corticosteroid injections into the carpal tunnel may provide temporary relief for patients with moderate CTS symptoms.
+Surgical management: If conservative measures fail or in cases of transverse carpal ligament, which forms the roof of the carpal tunnel, to decompress the median nerve. Two surgical approaches are commonly used:
+Open carpal tunnel release: This procedure involves making an incision in the palm and overlying the carpal tunnel to expose and release the transverse carpal ligament.
+Endoscopic carpal tunnel release: This minimally invasive technique uses an endoscope and small incisions to visualize and release the transverse carpal ligament.
+Postoperative management includes rehabilitation with hand therapy, splinting, and gradual return to activities.
+Improve
+References
+Clinical Knowledge Summaries - Carpal tunnel syndrome
+Orthopaedic surgery
+Carpal tunnel syndrome

@@ -1,0 +1,192 @@
+Acute mesenteric ischaemia
+Acute mesenteric ischaemia
+Acute mesenteric ischaemia (AMI) is a severe gastrointestinal condition characterised by sudden interruption of blood flow to the mesentery, resulting in bowel necrosis. The four types include arterial embolism, arterial thrombosis, venous thrombosis and non-occlusive mesenteric ischaemia. Arterial embolism, often originating from cardiac sources, is the most common cause.
+Patients typically present with acute onset of
+abdominal pain
+out of proportion to physical findings. Other symptoms may include
+nausea
+,
+vomiting
+and
+diarrhoea
+. Diagnosis can be challenging due to its nonspecific presentation and requires high clinical suspicion.
+Diagnostic modalities encompass laboratory tests showing elevated lactate levels and leukocytosis, along with imaging studies like computed tomography angiography for visualisation of blood flow. Management involves restoring perfusion via surgical or endovascular intervention alongside broad-spectrum antibiotics for infection control.
+Despite advancements in diagnosis and management, AMI carries high morbidity and mortality rates due to delayed recognition and treatment initiation.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 25.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute mesenteric ischaemia (AMI) is a severe and life-threatening vascular emergency that requires prompt recognition and intervention. The aetiology of AMI primarily involves the interruption of blood supply to the intestinal tissue, leading to ischaemic necrosis. This can manifest through different clinical entities, each with its distinct risk factors and underlying causes.
+Arterial Embolism:
+The most common cause of AMI, accounting for approximately 40-50% of cases. It typically originates from a cardiac source, often secondary to
+atrial fibrillation
+or recent myocardial infarction.
+Additional risk factors include valvular disease, left ventricular aneurysms, infective endocarditis and intracardiac tumours such as
+myxomas
+.
+Arterial Thrombosis:
+This accounts for about 25-30% of AMI cases. It usually occurs at the site of pre-existing atherosclerotic disease in the mesenteric vessels.
+Risk factors are similar to those for peripheral arterial disease and include age over 60 years, hypertension, hyperlipidaemia, diabetes mellitus and smoking.
+Nonocclusive Mesenteric Ischaemia (NOMI):
+NOMI represents about 20% of AMI cases. It results from profound splanchnic vasoconstriction which can be precipitated by various systemic conditions such as low-flow states (e.g., congestive heart failure), sepsis or use of vasoactive drugs.
+Patients with advanced age, chronic kidney disease or those undergoing major cardiac or vascular surgery are particularly susceptible.
+Mesenteric Venous Thrombosis:
+This is the least common cause of AMI, accounting for 5-15% of cases. It can occur spontaneously or secondary to intra-abdominal inflammatory conditions (e.g., pancreatitis), malignancy, hypercoagulable states or use of oral contraceptive pills.
+Improve
+Pathophysiology
+Acute mesenteric ischaemia
+(AMI) is a severe medical condition, characterised by a sudden decrease in blood flow to the mesentery, leading to ischaemic injury and potential necrosis of the intestinal mucosa. The pathogenesis of AMI involves several interconnected steps that culminate in this clinical syndrome.
+The initial event in the development of AMI typically involves an abrupt interruption or substantial reduction in perfusion to the mesenteric vasculature. This can occur due to embolic occlusion, thrombotic occlusion, non-occlusive mesenteric ischaemia or venous thrombosis.
+Embolic occlusion most commonly originates from cardiac sources such as
+atrial fibrillation
+or post-myocardial infarction mural thrombus. The emboli predominantly lodge at major arterial branches such as the superior mesenteric artery.
+Thrombotic occlusion tends to occur at sites of pre-existing atherosclerotic disease. The gradual progression of stenosis may allow for collateral circulation development, but acute superimposed thrombosis can precipitate AMI.
+Non-occlusive mesenteric ischaemia results from profound splanchnic vasoconstriction and reduced blood flow without an identifiable obstructive lesion. It often occurs in patients with systemic hypoperfusion states like heart failure or sepsis.
+Venous thrombosis leads to increased pressure within the capillary beds of the bowel wall causing oedema, haemorrhage and eventual transmural infarction if untreated.
+Following vascular compromise, there is a sequence of pathological changes within the affected intestines. Ischaemia leads to disruption of cellular metabolism due to lack of oxygen and nutrients. Anaerobic metabolism ensues, leading to lactic acidosis and further intracellular damage.
+With ongoing ischaemia, the mucosal barrier becomes compromised leading to bacterial translocation from the gut lumen into the systemic circulation. This can result in sepsis and multi-organ failure if not promptly managed.
+The final stage of AMI is necrosis of the intestinal wall. If reperfusion occurs before this stage, there can be a paradoxical increase in tissue injury due to generation of reactive oxygen species and release of inflammatory cytokines, a phenomenon known as 'reperfusion injury'.
+Improve
+Classification
+Acute mesenteric ischaemia (AMI) can be classified into four main types, each with distinct aetiologies and clinical presentations:
+Occlusive arterial AMI
+: This is the most common type, accounting for 50-70% of cases. It occurs when there's an abrupt obstruction in the superior mesenteric artery. Common causes include thrombosis and embolism.
+Nonocclusive mesenteric ischaemia (NOMI)
+: This accounts for 20-30% of cases. NOMI usually occurs due to systemic hypoperfusion states such as congestive heart failure, sepsis or shock. There's no physical obstruction in the mesenteric vessels, but rather a decrease in blood flow due to vasoconstriction.
+Mesenteric venous thrombosis (MVT)
+: MVT contributes to approximately 5-15% of AMI cases. It involves clot formation within the mesenteric venous system, often secondary to conditions that promote hypercoagulability such as malignancy or inherited coagulation disorders.
+Non-thrombotic arterial AMI
+: This rare type of AMI is caused by conditions that lead to arterial dissection or vasculitis, including connective tissue diseases like Marfan syndrome or polyarteritis nodosa.
+Improve
+Clinical features
+A stereotypical presentation of acute mesenteric ischaemia (AMI) often begins with sudden onset, severe
+abdominal pain
+that appears out of proportion to the physical findings. This may be accompanied by
+nausea
+,
+vomiting
+, and
+diarrhoea
+. The patient may initially exhibit normal bowel sounds and tenderness on palpation but as the condition progresses, signs of peritonitis such as guarding and rebound tenderness may develop.
+Presenting Features:
+Abdominal Pain:
+The hallmark feature is sudden onset severe abdominal pain which is often described as sharp or stabbing in nature. It typically does not correlate with the severity of physical examination findings, hence the term 'pain out of proportion'.
+Gastrointestinal Symptoms:
+Nausea, vomiting, diarrhoea or constipation may also occur. In some patients, bloody stools (haematochezia) might be present.
+Peritoneal Signs:
+As AMI progresses and bowel necrosis ensues, signs of peritonitis including guarding and rebound tenderness can develop.
+Vital Signs:
+Patients may present with
+tachycardia
+and hypotension due to systemic inflammatory response syndrome (SIRS).
+Laboratory Findings:
+Leucocytosis
+is common in AMI. Increased serum lactate levels indicate anaerobic metabolism secondary to tissue hypoxia.
+Metabolic acidosis
+may also be observed on arterial blood gas analysis.
+The clinical picture can vary depending on the type of AMI; arterial embolism usually presents abruptly while arterial thrombosis or non-occlusive mesenteric ischaemia might have a more insidious onset.
+Beyond these classic features, it's important to note that elderly patients or those with significant comorbidities may present atypically. They may have vague symptoms such as anorexia, malaise or altered mental status rather than severe abdominal pain.
+Improve
+Investigations
+Acute mesenteric ischaemia (AMI) is a medical emergency that requires immediate investigation to confirm the diagnosis and initiate appropriate treatment. The investigations for AMI are stratified into initial, first-line tests and further, more specific examinations.
+First-line Investigations
+Blood Tests:
+Full blood count, urea and electrolytes, liver function tests, lactate levels and coagulation profile should be obtained. A significantly raised white cell count or lactic acidosis may suggest bowel ischaemia. However, these findings are not specific to AMI.
+Arterial Blood Gas (ABG):
+This test can provide early evidence of
+metabolic acidosis
+which may indicate severe
+intestinal ischaemia
+. However, normal ABG results do not exclude the condition.
+Further Investigations
+If the clinical suspicion remains high after initial investigations, further diagnostic procedures should be considered:
+Multidetector Computed Tomography Angiography (MDCTA):
+MDCTA has become the imaging modality of choice in suspected cases of AMI due to its high sensitivity and specificity. It provides detailed visualisation of both arterial and venous systems along with assessment of bowel wall viability. Findings suggestive of AMI include occlusion or narrowing of mesenteric vessels, bowel wall thickening or pneumatosis intestinalis.
+Mesenteric Angiography:
+Traditionally considered the gold standard for diagnosing AMI, it allows direct visualisation of mesenteric circulation. However, it's invasive nature and requirement for a specialist radiologist have led to its replacement by MDCTA as the first-line imaging study in many centres.
+Surgical Exploration:
+If the patient's condition deteriorates rapidly or if non-invasive tests are inconclusive, exploratory laparotomy may be necessary. This allows direct visualisation and palpation of the bowel, and can provide definitive diagnosis.
+The choice of investigation is guided by the patient's clinical presentation, stability, and local resources. It is important to note that no single investigation has 100% sensitivity or specificity for AMI. Therefore, a high index of suspicion should be maintained throughout the diagnostic process, and treatment should not be delayed while awaiting results if clinical suspicion is high.
+Improve
+Differential diagnosis
+Acute mesenteric ischaemia is a life-threatening condition characterised by sudden onset of intestinal hypoperfusion. Prompt diagnosis is essential, and understanding the differential diagnoses is crucial for appropriate management. The following conditions should be considered:
+Ischaemic colitis
+Typically affects the colon, particularly the watershed areas such as the splenic flexure and sigmoid colon
+Presents with lower
+abdominal pain
+, often left-sided, and bloody
+diarrhoea
+Commonly seen in elderly patients with cardiovascular disease or following hypotensive episodes
+Onset is usually less acute compared to acute mesenteric ischaemia, with symptoms developing over hours to days
+Physical examination may reveal abdominal tenderness, particularly in the lower quadrants
+Mesenteric venous thrombosis
+Involves thrombosis of the superior mesenteric vein or its branches
+Presents with vague abdominal pain, often periumbilical, which can be subacute or chronic in nature
+Symptoms may include
+nausea
+,
+vomiting
+, and sometimes mild diarrhoea
+Typically affects younger patients compared to arterial causes of mesenteric ischaemia
+Often associated with hypercoagulable states, such as malignancy, or conditions like inflammatory bowel disease
+Non-occlusive mesenteric ischaemia
+Results from splanchnic hypoperfusion without arterial or venous occlusion
+Presents with diffuse abdominal pain and symptoms of systemic hypoperfusion such as hypotension and oliguria
+Frequently occurs in critically ill patients, particularly those with heart failure or sepsis
+Symptoms may be insidious and not immediately linked to ischaemia
+Physical examination may reveal signs of shock, including cool extremities and low urine output
+Improve
+Management
+Management of acute mesenteric ischaemia (AMI) involves rapid diagnosis, aggressive resuscitation, early revascularisation and resection of non-viable bowel. The mainstay of treatment is surgical intervention; however, endovascular therapy can be considered in selected patients. Postoperative care includes monitoring for signs of ongoing ischaemia, sepsis and multi-organ failure.
+Initial Management
+Rapid fluid resuscitation with crystalloids to restore intravascular volume and correct acidosis.
+Correct coagulopathy if present.
+Broad-spectrum antibiotics to cover potential translocation of gut bacteria.
+Diagnostic Evaluation
+Computed Tomography Angiography (CTA) is the imaging modality of choice for diagnosis.
+If CTA is not available or contraindicated, consider Mesenteric Duplex Ultrasound or Magnetic Resonance Angiography (MRA).
+Surgical Intervention
+Laparotomy with embolectomy or bypass grafting for arterial AMI.
+Bowel resection for necrotic bowel segments followed by second-look laparotomy within 24-48 hours to assess bowel viability and perform further resection if necessary.
+Endovascular Therapy
+In patients unfit for surgery or with contraindications, consider catheter-directed thrombolysis or angioplasty with stenting as alternative revascularisation strategies.
+Postoperative Management
+Close monitoring in an intensive care setting for signs of ongoing ischaemia, sepsis and multi-organ failure.
+Pain management, nutritional support and prevention of deep vein thrombosis are key components of postoperative care.
+Improve
+Complications
+Acute mesenteric ischaemia (AMI) can lead to a spectrum of complications, ranging from localised intestinal necrosis to systemic multi-organ failure. Understanding these complications is essential for effective patient management.
+Intestinal necrosis:
+AMI can result in irreversible damage and death of intestinal tissues. This complication occurs due to prolonged oxygen deprivation, leading to the breakdown of the mucosal barrier and translocation of bacteria into the bloodstream.
+Sepsis:
+The translocation of gut flora, including
+Escherichia coli
+,
+Bacteroides
+species, and other anaerobic microbes, into the bloodstream can trigger sepsis. This is a severe systemic inflammatory response that could potentially lead to septic shock and multi-organ dysfunction syndrome (MODS).
+Gangrene:
+Ischaemic injury may progress to gangrene if not treated promptly. Gangrenous segments often necessitate surgical resection.
+Short bowel syndrome (SBS):
+Extensive resection of necrotic intestine may leave insufficient functional bowel length, leading to SBS. Patients with SBS might require parenteral nutrition or small bowel transplantation.
+Mesenteric venous thrombosis:
+In some cases, AMI can also cause mesenteric venous thrombosis which further exacerbates tissue hypoxia and increases the risk of bowel infarction.
+Pulmonary complications:
+Acute respiratory distress syndrome (ARDS) may occur secondary to sepsis or MODS in patients with AMI.
+The aforementioned complications are not exhaustive; others such as acute kidney injury or disseminated intravascular coagulation can also occur. The risk of complications increases with delayed diagnosis and treatment, underlying comorbidities, and the extent of ischaemic injury.
+Improve
+Colorectal surgery
+Acute mesenteric ischaemia

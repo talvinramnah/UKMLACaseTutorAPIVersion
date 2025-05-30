@@ -1,0 +1,74 @@
+Polymyositis
+Polymyositis
+Polymyositis is an idiopathic inflammatory myopathy characterized by symmetrical,
+proximal muscle weakness
+and inflammation of skeletal muscles.
+Clinically, it presents with progressive muscle weakness, predominantly affecting the shoulder and pelvic girdles. Patients may also exhibit
+dysphagia
+,
+dyspnea
+, arthralgias, myalgias, and Raynaud's phenomenon. Laboratory investigations typically reveal elevated serum creatine kinase levels, positive anti-synthetase antibodies and myositis-specific autoantibodies such as anti-Jo-1.
+Diagnosis is established through a combination of clinical findings, laboratory results, electromyography, and muscle biopsy.
+Management involves immunosuppressive therapy with corticosteroids as first-line treatment. In cases refractory to steroids or with severe manifestations like interstitial lung disease or rapidly progressive weakness, second-line agents like azathioprine or methotrexate can be employed. Intravenous immunoglobulin (IVIG) and rituximab are reserved for refractory cases or patients intolerant to conventional therapies.
+Last updated: 19
+th
+September 2023
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Polymyositis is believed to result from a combination of genetic predisposition and environmental triggers.
+Genetic Factors:
+Certain human leukocyte antigen (HLA) alleles, such as HLA-DR3 and HLA-DR7, have been associated with an increased risk of developing polymyositis. These genetic markers hint at an autoimmune underpinning to the disease.
+Environmental Triggers:
+Viral infections, particularly those from the picornaviridae and retroviridae families, have been hypothesised as potential triggers. Other postulated environmental factors include drugs, ultraviolet radiation, and exposure to certain chemicals.
+Immune Dysregulation:
+Polymyositis is an autoimmune disorder, and disturbances in immune regulation play a pivotal role. The presence of autoantibodies, such as anti-Jo-1, against intracellular components supports this notion.
+Improve
+Pathophysiology
+Initial Trigger:
+Exposure to an environmental factor (e.g., a viral infection) in a genetically predisposed individual may initiate muscle inflammation. The viral agent or other trigger might activate an immune response in muscle tissue or cause the release of muscle antigens into the circulation.
+Activation of Innate Immunity:
+The exposure results in the activation of the innate immune system, specifically dendritic cells and macrophages. These cells present muscle-derived antigens to T-cells, priming them for a response.
+T-Cell Mediated Muscle Damage:
+CD8+ T-cells, once activated, migrate to the muscle tissue. They recognise and bind to muscle fibres expressing the MHC class I molecule, subsequently releasing perforin and granzymes. This leads to direct muscle cell injury and death.
+B-Cell Activation and Autoantibody Production:
+Concurrently, B-cells are stimulated by muscle-derived antigens and undergo differentiation into plasma cells, producing specific autoantibodies. These antibodies, while not cytotoxic to muscle cells directly, are a hallmark of the disease and can be used for diagnostic purposes.
+Cytokine and Chemokine Release:
+In response to muscle injury, a variety of pro-inflammatory cytokines and chemokines are released, recruiting additional immune cells to the site of injury and perpetuating the inflammatory cycle.
+Muscle Fibre Damage and Regeneration:
+As a consequence of the ongoing inflammation, muscle fibres undergo necrosis. Satellite cells, muscle progenitor cells, are activated in an attempt to regenerate muscle tissue. However, with persistent inflammation, this reparative process is overwhelmed, leading to muscle atrophy and fibrosis.
+Clinical Manifestations:
+The culmination of the aforementioned pathogenic processes is muscle weakness, which characteristically is symmetrical and predominantly affects the proximal muscles in polymyositis.
+Improve
+Clinical features
+Features
+proximal muscle weakness
++/- tenderness
+Raynaud's
+respiratory muscle weakness
+interstitial lung disease: e.g. fibrosing alveolitis or organising pneumonia
+dysphagia
+, dysphonia
+Improve
+Investigations
+Investigations
+elevated creatine kinase
+other muscle enzymes (lactate dehydrogenase (LD), aldolase, AST and ALT) are also elevated in 85-95% of patients
+EMG
+muscle biopsy
+anti-Jo-1 antibodies are seen in pattern of disease associated with lung involvement, Raynaud's and fever
+Improve
+Rheumatology
+Polymyositis

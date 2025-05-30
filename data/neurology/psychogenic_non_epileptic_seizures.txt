@@ -1,0 +1,86 @@
+Psychogenic non-epileptic seizures
+Psychogenic non-epileptic seizures
+Psychogenic non-epileptic seizures (PNES) are a type of
+seizure
+that are not caused by abnormal electrical activity in the brain, but rather by psychological factors. PNES can be difficult to diagnose as they often mimic epileptic seizures, but there are some key differences in the presentation and characteristics of PNES. Patients with PNES may have a history of trauma or other psychological disorders, and their seizures may be triggered by stress or emotional events. Treatment for PNES involves addressing the underlying psychological factors through therapy and counseling, rather than anti-epileptic medications. It is important for doctors to be aware of the possibility of PNES in patients with unexplained seizures, as misdiagnosis and inappropriate treatment can lead to unnecessary harm and delay in appropriate care.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in females 10:1
+Condition
+Relative
+incidence
+Epilepsy: first
+seizure
+16.67
+Psychogenic non-epileptic seizures
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Psychogenic non-epileptic seizures (PNES) are paroxysmal events resembling epileptic seizures, but without the characteristic electroencephalographic changes associated with epilepsy. These events are primarily caused by psychological factors and are considered a form of conversion disorder. The presentation of PNES varies widely, and can often mimic various types of epileptic seizures. However, there are certain clinical features that may help differentiate PNES from epileptic seizures:
+Motor Manifestations
+Asymmetric or asynchronous limb movements:
+PNES often present with irregular, non-rhythmic, and asynchronous motor activity involving one or more extremities.
+Pelvic thrusting:
+This feature is more common in PNES than epileptic seizures and may be accompanied by opisthotonic posturing.
+Prolonged tonic stiffening:
+While tonic stiffening can be seen in both conditions, it tends to be longer in duration in PNES.
+Autonomic Manifestations
+Absence of ictal autonomic symptoms:
+Unlike epileptic seizures, PNES rarely present with autonomic symptoms such as tachycardia, hypertension, or hypersalivation.
+Sensory Manifestations
+Variable responsiveness:
+Patients with PNES may demonstrate inconsistent responsiveness during an event, ranging from complete unresponsiveness to partial awareness of their surroundings.
+Gradual onset and offset:
+In contrast to the abrupt onset and termination seen in epileptic seizures, PNES typically have a more gradual beginning and resolution.
+Cognitive/Emotional Manifestations
+Emotional triggers:
+A history of emotional stressors or psychological trauma preceding the onset of
+seizure
+-like events is commonly reported by patients with PNES.
+Presence of comorbid psychiatric disorders:
+Many patients with PNES have a history of psychiatric disorders, such as anxiety, depression, or post-traumatic stress disorder.
+Improve
+Investigations
+Video-electroencephalographic (vEEG) monitoring is the gold standard for diagnosing PNES. The absence of epileptiform activity during the clinical event confirms the diagnosis of PNES. Additionally, vEEG may reveal certain features that are more suggestive of PNES:
+Ictal eye closure:
+Forced eye closure during the event is more commonly seen in PNES than epileptic
+seizures
+.
+Lack of postictal confusion:
+Patients with PNES typically do not exhibit postictal confusion or disorientation following an event.
+Improve
+Management
+Management of Psychogenic non-epileptic seizures (PNES) requires a multidisciplinary approach, involving psychiatrists, psychologists, neurologists and primary care physicians. The mainstay of treatment is psychotherapy, with cognitive behavioural therapy (CBT) being the most effective modality.
+Initial Management:
+Once PNES diagnosis is confirmed via video EEG monitoring, it's essential to communicate this to the patient in a clear, empathetic manner. Use simple language and avoid medical jargon.
+Emphasise that PNES are genuine episodes and not 'made up'. Explain the psychosomatic nature of PNES and reassure patients that their symptoms can be managed effectively.
+Referral to a mental health professional for further evaluation and management should be made promptly.
+Treatment Modalities:
+Cognitive Behavioural Therapy:
+CBT has shown significant efficacy in reducing
+seizure
+frequency and improving quality of life in PNES patients. It helps patients identify triggers for their seizures, develop coping strategies and challenge unhelpful thinking patterns.
+Psychodynamic Psychotherapy:
+This approach may be beneficial for some individuals by addressing underlying psychological conflicts contributing to PNES manifestation.
+Pharmacological Interventions:
+No specific medication has been approved for the treatment of PNES. However, antidepressants or anxiolytics may be used as adjunctive therapy if co-morbid psychiatric conditions like depression or anxiety disorders are present.
+Treatment Refractory Cases:
+In cases resistant to standard interventions, consider referral to specialist centres offering intensive multidisciplinary programmes involving psychoeducation, physical rehabilitation and individual/group therapy sessions.
+Improve
+References
+Sheffield Teaching Hospitals patient information leafelet - Non-epileptic attacks: A short guide for patients and families
+Neurology
+Psychogenic non-epileptic seizures

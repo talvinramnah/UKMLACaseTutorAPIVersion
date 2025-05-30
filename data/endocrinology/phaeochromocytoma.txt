@@ -1,0 +1,62 @@
+Phaeochromocytoma
+Phaeochromocytoma
+Phaeochromocytoma is a rare neuroendocrine neoplasm arising from chromaffin cells of the adrenal medulla, characterized by catecholamine hypersecretion. These tumours may also develop at extra-adrenal sites, known as paragangliomas. The classic triad of symptoms includes episodic
+headache
+, diaphoresis, and tachycardia; however, clinical presentation can be highly variable.
+The diagnostic workup involves biochemical confirmation with plasma or urinary fractionated metanephrines followed by cross-sectional imaging (CT/MRI) for localization.
+Definitive management entails surgical resection via laparoscopic adrenalectomy or open approach depending on tumour size and location. Preoperative alpha-blockade (phenoxybenzamine) is essential to mitigate perioperative hypertensive crises secondary to catecholamine release.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Fibromuscular dysplasia
+10.00
+Phaeochromocytoma
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+bout 10% are familial and may be associated with MEN type II, neurofibromatosis and von Hippel-Lindau syndrome
+Basics
+bilateral in 10%
+malignant in 10%
+extra-adrenal in 10% (most common site = organ of Zuckerkandl, adjacent to the bifurcation of the aorta)
+Improve
+Clinical features
+Features are typically episodic
+hypertension
+(around 90% of cases, may be sustained)
+headaches
+palpitations
+sweating
+anxiety
+Improve
+Investigations
+Biochemical confirmation
+24 hr urinary collection of metanephrines (sensitivity 97%)
+this has replaced a 24 hr urinary collection of catecholamines (sensitivity 86%)
+Cross-sectional imaging (CT/MRI) for localization.
+Functional imaging modalities like MIBG scintigraphy or PET scans may be employed in cases of metastatic or extra-adrenal disease.
+Genetic testing is recommended given the high rate of heritable mutations associated with these tumours (e.g., RET, VHL, NF1).
+Improve
+Management
+Surgery is the definitive management. The patient must first however be stabilized with medical management:
+alpha-blocker (e.g. phenoxybenzamine), given before a
+beta-blocker (e.g. propranolol)
+Improve
+Endocrinology
+Phaeochromocytoma

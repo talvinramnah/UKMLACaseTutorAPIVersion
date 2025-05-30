@@ -1,0 +1,199 @@
+Shingles
+Shingles
+Shingles is an acute, unilateral, painful
+blistering rash
+caused by reactivation of the
+Varicella Zoster
+Virus (VZV).
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 180.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Impetigo
+1.39
+Shingles
+1
+Dermatitis herpetiformis
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Shingles is caused by re-activation of the varicella-zoster virus (VZV), a double-stranded DNA herpes virus. It is only possible to develop shingles if a person has been previously infected with VZV, otherwise known as chickenpox, which tends to occur in childhood. The VZV is spread via air droplets.
+After initial infection with VZV, the virus lays dormant in the dorsal root or cranial nerve ganglia, causing no clinical symptoms. It remains silent and unnoticed in these nerves for many years, often until late adulthood, before re-activating and causing shingles. It is unknown what exactly causes the virus to re-activate, however there are some known triggers:
+Emotional stress
+Immunosuppression
+Chemotherapy
+High dose steroid therapy
+Recent illness or surgery
+Skin injury
+Sunburn
+Trauma)
+However, in majority of people who develop shingles, there is no identifiable cause or trigger.
+As the VZV affects the dorsal and/or cranial nerve ganglia, the sensory nerves are what are affected in the course of the disease, hence the characteristic single dermatome distribution. The virus continues to multiply and move along the affected sensory nerve, eventually reaching the skin. The continuing inflammation and destruction of the sensory nerves leads to the characteristic shingles rash and neuropathic pain.
+Improve
+Clinical features
+Shingles characteristically presents in three phases; the prodromal phase, the infectious rash, and the resolution phase.
+Prodrome
+Acute neuralgia (70-80% of patients)
+Tingling, burning, itching or occasionally stabbing in nature
+Non-specific symptoms such as
+malaise
+,
+fatigue
+, headache (approximately <20% of patients)
+Enlarged lymph nodes in region of affected area
+Typically 2-3 days long, may last up to a week
+Infectious phase
+Rash
+Usually affecting a single dermatome in a band-like distribution
+Unilateral, rarely crossing the midline
+Initially is erythematous and macular in nature
+Progression to erythematous papules, and eventually vesicles or bullae by day 7
+Vesicles become pustular or haemorrhagic near the end of this phase, right before crusting over
+Pain
+Often, pain will be located around the region where the rash is located
+Very rarely, the rash is painless (typically this occurs in children)
+Lasts approximately 7-10 days
+Resolution phase
+The vesicular rash crusts over within 10-12 days of rash onset
+The crusted lesions can take up to one month to completely disappear
+Improve
+Differential diagnosis
+Usually shingles is diagnosed clinically due to its characteristic presentation; prodromal pain phase, and then eruption of a painful, vesicular, unilateral rash. However, other important differential diagnoses should be considered, particularly because an atypical presentation of shingles is common.
+Possible differential diagnoses
+Herpes simplex virus
+Similarities
+: may be recurrent, individual lesions appear similar (vesicular, erythematous, ulcers)
+Differences
+: shingles appears in dermatomal band-like distribution, herpes simplex virus appears in clusters
+Impetigo
+Similarities
+: initially both appear as erythematous sores which become blisters and then burst
+Differences
+: usually painless and itchy, more common in school aged children, more common around nose and mouth
+Dermatitis herpetiformis
+Similarities
+: both appear as small, clustered papules and vesicles
+Differences
+: dermatitis herpetiformis is symmetrical and bilateral (commonly affecting the elbows, knees, buttocks, back or scalp), exists in patients alongside gluten-sensitive enteropathies
+Drug eruptions
+Similarities
+: similar rash appearance (can be erythematous small lesions, blisters, or vesicles)
+Differences
+: causative agent (often antibiotics, NSAIDs, anti-epileptic drugs), usually symmetrical and bilateral
+Contact dermatitis
+Similarities
+: rash appearance can be similar (erythematous, blistering, crusting)
+Differences
+: usually a distinguishable cause (e.g. new clothing, metals, drugs, creams, latex), typically not painful, can be severely itchy
+Improve
+Management
+Most commonly, the management of shingles is supportive, as the infections are typically self-limiting.
+Supportive management
+Analgesia
+NICE recommend beginning with common mild analgesics, such as paracetamol alone or in combination with codeine or a non-steroidal anti-inflammatory such as ibuprofen
+In cases of moderate-severe pain, NICE recommend addition of either amitriptyline, duloxetine, gabapentin or pregabalin, chosen based on side-effect profile and co-morbidities
+BMJ best practice suggest that calamine lotion application to affected skin can provide relief to both pain and pruritis, if present
+Topical capsaicin can be considered and can provide some pain relief
+Cool compresses on affected area a few times a day
+Anti-viral therapy
+NICE recommend prescription of an oral antiviral within 72 hours of rash onset if:
+Immunocompromised patients
+Non-truncal rash involvement (e.g. affecting face, neck, limbs, perineum)
+Moderate-severe pain or rash
+Consider prescribing anti-viral therapy if aged >50-years-old (NICE suggest this is with the aim to reduce the incidence of post-herpetic neuralgia)
+Oral aciclovir, famciclovir, or valaciclovir
+Most benefit if treatment started <72 hours after onset of rash
+NICE recommend that if it is
+not
+possible to start within 72 hours, it can still be considered up to one week after onset of the rash
+Intravenous can be considered, only if oral therapy is not tolerated
+Corticosteroids
+If a patient is on anti-viral treatment, NICE further recommend consideration of a course of oral corticosteroids
+Used in the first 2 weeks following the onset of the rash
+This should only be used in conjunction with anti-viral treatment, and in immunocompetent adults with localised shingles if the pain is severe
+Post-herpetic neuralgia
+As the most common complication of shingles, post-herpetic neuralgia must be treated effectively to reduce the debilitating consequences
+Begin with mild analgesics (NSAIDs +/- paracetamol)
+Opioid analgesics can be added if mild pain relief is not sufficient
+As the pain is neuropathic in nature, it may respond to a tricyclic anti-depressant or anti-convulsant
+Specialist advice
+NICE guidelines recommend that specialist advice should be sought, or people should be admitted to hospital if:
+Serious complications
+Herpes zoster ophthalmicus
+or eye involvement
+Immunocompromised people
+Prevention
+A vaccination against herpes zoster is available for adults over the age of 50-years-old as primary prevention
+Not usually used in those aged 50-69 years old, but NICE suggest offering the vaccine to people who are not eligible for the national program
+if
+they would benefit due to underlying conditions that may predispose them to shingles infection
+NICE recommend the shingles vaccine should be offered to people if:
+Aged >70-years-old, on or after their 70th birthday
+Aged >78-years-old, on or after their 78th birthday
+Eligible for vaccination in the previous immunisation programme but have not been vaccinated yet
+Given as a single subcutaneous dose
+Contraindicated in immunocompromised people, pregnant women, and children, as it is a live vaccination
+Improve
+Complications
+Post-herpetic neuralgia
+Most common complication of shingles
+Persistent pain in region of rash, even after rash and acute illness is resolved (lasting >1 month)
+Burning, shooting or tingling pain
+Hyperalgesia or allodynia over region affected
+Increased risk
+Older age (affects >33% of patients over 40-years-old)
+Greater severity of rash in acute infectious phase
+Herpes zoster ophthalmicus
+Occurs when shingles involves the trigeminal nerve (cranial nerve 5), specifically the ophthalmic branch
+May result in irreversible vision loss and cranial nerve 5 palsy
+If present, requires urgent referral to ophthalmology
+Ramsay-Hunt syndrome
+Occurs if shingles affects the facial nerve (cranial nerve 7)
+Clinical features:
+Vesicular lesions in ear
+Facial and/or tongue paralysis
+Encephalitis
+Rare complication that may occur 3-4 days after the rash onset
+Patients at increased risk
+Immunocompromised
+Shingles in cranial nerve dermatome
+Clinical features:
+Delirium (confusion, restlessness, hallucinations, drowsiness)
+Headache
+Fever
+Seizures
+Improve
+Screening and prevention
+The 'shingles vaccine'
+In 2013 the NHS introduced a vaccine to boost the immunity of elderly people against herpes zoster. Some important points about the vaccine:
+offered to all patients aged 70-79 years*
+is
+live-attenuated
+and given
+sub-cutaneously
+As it is a live-attenuated vaccine the main contraindications are immunosuppression.
+Side-effects
+injection site reactions
+less than 1 in 10,000 individuals will develop chickenpox
+Improve
+References
+Clinical Knowledge Summaries - Shingles guidelines
+Dermatology
+Shingles
+Herpes zoster ophthalmicus
+Ramsay Hunt syndrome

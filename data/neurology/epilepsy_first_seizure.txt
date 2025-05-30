@@ -1,0 +1,312 @@
+Epilepsy: first seizure
+Epilepsy: first seizure
+Epilepsy
+is characterised by recurrent, unprovoked seizures. A first
+seizure
+can be an alarming event, both for the patient and the clinician. Its management requires a thorough history-taking and physical examination to identify potential causes such as structural abnormalities, metabolic disturbances or genetic predispositions. The initial diagnostic workup typically includes blood tests, EEG and neuroimaging studies like MRI or CT scan.
+While not all individuals who experience a single seizure will develop epilepsy, determining the risk of recurrence is important in guiding treatment decisions. Factors influencing this include the presence of neurological deficit before the seizure, an abnormal EEG and a significant brain lesion identified on imaging. Antiepileptic drug (AED) therapy may be considered after a first seizure if the recurrence risk is high.
+The psychosocial impact of a first seizure should not be overlooked; it can cause considerable anxiety and affect quality of life. Education about seizure recognition, safety measures and lifestyle modifications are integral to patient care.
+Last updated: 30
+th
+September 2023
+Epidemiology
+Incidence: 50.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Febrile convulsion
+42.00
+Epilepsy
+: first
+seizure
+1
+Psychogenic non-epileptic seizures
+0.06
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of
+epilepsy
+, specifically in the context of first
+seizure
+occurrence, is multifactorial. It encompasses both genetic and environmental risk factors that contribute to its onset.
+Genetic Factors
+Idiopathic Epilepsies:
+These are primarily genetic in origin. Specific gene mutations have been identified in some idiopathic epilepsies. For instance, mutations in genes encoding for sodium channels (
+SCN1A
+,
+SCN1B
+) or GABA receptors (
+GABRG2
+,
+GABRA1
+) have been implicated.
+Syndromic Epilepsies:
+Certain syndromes such as Dravet syndrome, Lennox-Gastaut syndrome and West syndrome are associated with specific genetic mutations and present with seizures as part of their clinical manifestations.
+Environmental Factors
+Prenatal and Perinatal Risk Factors:
+These include maternal drug use, infections during pregnancy, preterm birth, low birth weight and neonatal seizures. Hypoxic-ischaemic encephalopathy is also a significant perinatal risk factor.
+CNS Infections:
+Central nervous system infections like meningitis or encephalitis caused by organisms such as
+Borrelia burgdorferi
+,
+Mycobacterium tuberculosis
+, or viruses can lead to epilepsy.
+Cerebrovascular Disease:
+Stroke is a leading cause of epilepsy in adults over 35 years old. The risk is particularly high in the first year following an ischaemic stroke.
+Traumatic Brain Injury (TBI):
+The risk of epilepsy increases with the severity of TBI. Post-traumatic seizures can occur immediately following injury or may develop years later.
+Brain Tumours:
+Both benign and malignant brain tumours can cause seizures due to increased intracranial pressure, direct invasion or irritation of the cerebral cortex.
+Mixed Genetic and Environmental Factors
+Neurocutaneous Syndromes:
+Conditions such as tuberous sclerosis complex (TSC), neurofibromatosis type 1 (NF1) and Sturge-Weber syndrome have both genetic and environmental contributions to seizure onset.
+Improve
+Pathophysiology
+Epilepsy
+, characterised by recurrent, unprovoked seizures, is a complex neurological disorder with diverse aetiology. The pathogenesis of the first
+seizure
+and subsequent development of epilepsy involves several intertwined processes.
+Neuronal Excitability:
+The balance between excitatory and inhibitory neuronal activity in the brain is critical for normal function. This equilibrium can be disrupted by various mechanisms leading to increased neuronal excitability and propensity for seizure generation. Factors influencing this include alteration in ion channel function, changes in neurotransmitter levels or their receptors, and modifications to synaptic plasticity.
+Neural Network Reorganisation:
+Following an initial insult such as head trauma, stroke or infection, there may be reorganisation within neural networks. This process of
+epileptogenesis
+, involves alterations to synaptic connectivity leading to formation of hyperexcitable neuronal circuits. These reorganised networks can generate and propagate abnormal electrical discharges across the brain manifesting as seizures.
+Gliosis:
+Reactive gliosis following injury or inflammation contributes significantly to epileptogenesis. Astrocytes and microglia undergo morphological and functional changes leading to altered neurotransmitter homeostasis, increased extracellular potassium levels, enhanced glutamate release and reduced gamma-aminobutyric acid (GABA) uptake; all contributing towards a pro-convulsive environment.
+Mossy fibre sprouting:
+In temporal lobe epilepsy specifically, aberrant sprouting of hippocampal granule cell axons (mossy fibres) forms recurrent excitatory circuits contributing to seizure propagation.
+Inflammation:
+Inflammatory processes play a significant role in epileptogenesis. Following an insult, there is activation of the innate immune system leading to release of pro-inflammatory cytokines, chemokines and other inflammatory mediators. These substances can modulate neuronal excitability, promote gliosis and induce blood-brain barrier disruption; all contributing to a seizure-prone state.
+Genetic Factors:
+Whilst epilepsy has a strong genetic component with many monogenic forms identified, it is more commonly polygenic and multifactorial. Genetic mutations affecting ion channels (channelopathies), neurotransmitter receptors or associated with synaptic function can all predispose to increased neuronal excitability and seizure susceptibility.
+Environmental Triggers:
+Finally, environmental factors such as sleep deprivation, stress or specific drug use can lower the seizure threshold in an individual already predisposed to seizures. These do not directly contribute to the pathogenesis but play a significant role in precipitating the first clinical event.
+Improve
+Classification
+Over the years, numerous classifications have been proposed, and the taxonomy has evolved. The classification provided here is based on the latest consensus and insights from the International League Against
+Epilepsy
+(ILAE).
+Classification Based on
+Seizure
+Type
+Focal Onset Seizures
+Focal Aware Seizures (previously Simple Partial Seizures):
+The individual remains conscious and can recall events during the seizure. Symptoms depend on the brain region affected.
+Focal Impaired Awareness Seizures (previously Complex Partial Seizures):
+Involves alteration in consciousness. They may start as focal aware seizures and then progress.
+Focal to Bilateral Tonic-Clonic Seizures:
+Begin in one hemisphere and spread to involve both, resulting in a tonic-clonic seizure.
+Generalised Onset Seizures
+These arise at some point within, and rapidly engage, bilaterally distributed networks.
+Tonic-Clonic Seizures
+: Characterised by stiffening (tonic phase) followed by rhythmic muscle jerking (clonic phase).
+Absence Seizures:
+Brief lapses in consciousness, often with staring. They can be sub-classified into typical and atypical absence seizures.
+Tonic Seizures:
+Cause stiffening.
+Atonic Seizures:
+Lead to loss of muscle control, often resulting in falls ('drop attacks').
+Clonic Seizures:
+Involves repetitive jerking movements.
+Myoclonic Seizures:
+Quick, sudden jerks of a muscle or group of muscles.
+Unknown Onset Seizures
+When the onset of a seizure is not observed or known, it falls under this category
+They can later be reclassified to either focal or generalised when more information becomes available.
+Classification Based on Epilepsy Syndromes
+An epilepsy syndrome is determined by a group of features observed together, such as the type of seizure, age of onset, EEG findings, and often prognosis.
+Some examples include:
+Childhood Absence Epilepsy (CAE):
+Characterised by typical absence seizures, with onset usually between 4-10 years.
+Juvenile Myoclonic Epilepsy (JME):
+Marked by myoclonic jerks, typically shortly after waking.
+Dravet Syndrome:
+Severe epilepsy beginning in infancy, initially presenting as prolonged seizures with fever.
+Lennox-Gastaut Syndrome:
+Characterised by multiple seizure types, cognitive dysfunction, and a specific EEG pattern.
+Classification Based on aetiology
+Genetic:
+Caused by specific gene mutations known to contribute to the risk of epilepsy.
+Structural:
+Due to an identifiable lesion or structural abnormality in the brain, such as traumatic brain injury, stroke, or congenital malformation.
+Metabolic:
+Result from metabolic disorders that may lead to seizures, such as mitochondrial diseases.
+Immune:
+Resulting from autoimmune or inflammation-induced brain dysfunction.
+Infectious:
+Secondary to an infectious agent affecting the brain, e.g., bacterial meningitis or viral encephalitis.
+Unknown:
+Despite evaluation, the cause of epilepsy remains unknown in a proportion of cases.
+Improve
+Clinical features
+As well as the
+seizure
+activity described above patients who have had generalised seizures may
+bite their tongue
+experience incontinence of urine
+Asking about such features can be useful way of detecting epileptic seizures when taking a history from a patient who presents with a 'blackout' or 'collapse'.
+Following a seizure patients typically have a
+postictal
+phase where they feel drowsy and tired for around 15 minutes.
+Improve
+Investigations
+Investigating a first
+seizure
+involves a strategic approach, primarily focusing on ruling out other conditions that may mimic
+epilepsy
+and identifying potential underlying causes. The investigations are divided into first-line and further investigations.
+First-Line Investigations
+Blood tests:
+These include full blood count, electrolytes, calcium, glucose, liver function tests and renal function tests. These help to rule out metabolic or systemic causes of seizures such as hypoglycaemia or hyponatraemia.
+Electroencephalogram (EEG):
+An EEG is essential in the investigation of a first seizure. It records electrical activity in the brain and can demonstrate typical epileptiform discharges even between seizures. However, a normal EEG does not exclude epilepsy as some patients may have normal interictal EEGs.
+Magnetic Resonance Imaging (MRI):
+This is the imaging modality of choice for investigating structural causes of seizures. It has superior resolution compared to computed tomography (CT) and can identify lesions such as tumours, vascular malformations or hippocampal sclerosis which could be responsible for the seizure.
+Further Investigations
+If the cause of the seizure remains unclear after first-line investigations, further investigations may be necessary. These should be guided by clinical suspicion based on history and examination findings.
+Prolonged EEG monitoring:
+If initial EEG is inconclusive but there is high suspicion of epilepsy, prolonged video-EEG monitoring can be performed. This increases the chance of capturing epileptiform discharges or an actual seizure event.
+Lumbar puncture:
+In cases where infection or inflammation such as encephalitis or meningitis is suspected, a lumbar puncture may be performed to examine the cerebrospinal fluid.
+Genetic testing:
+For patients with a family history suggestive of genetic epilepsy syndromes, genetic testing can be considered. This can help confirm the diagnosis and guide treatment decisions.
+The choice of investigations should always be tailored to the individual patient, considering factors such as age, clinical presentation and comorbidities. It is important to note that while these investigations can support the diagnosis of epilepsy, they cannot definitively confirm it. The diagnosis of epilepsy remains a clinical one, based on the history of recurrent unprovoked seizures.
+Improve
+Differential diagnosis
+The diagnosis of
+epilepsy
+requires careful differentiation from other conditions that may present with similar clinical features. The most likely conditions to consider in the differential diagnosis include
+syncope
+, psychogenic nonepileptic seizures (PNES), transient ischaemic attacks (TIAs), alcohol withdrawal seizures, and seizures secondary to metabolic/toxic disturbances.
+Syncope
+Clinical Presentation:
+Syncope often presents with a sudden loss of consciousness due to transient global cerebral hypoperfusion. Patients may experience prodromal symptoms such as lightheadedness, palpitations, or visual disturbances.
+Onset:
+Typically, syncope has a rapid onset and short duration, usually less than one minute.
+Post-event Symptoms:
+Patients usually recover quickly and do not experience post-ictal confusion or prolonged drowsiness, unlike epilepsy.
+Triggers:
+Common triggers include standing up quickly, emotional stress, or pain. Positional changes often play a significant role.
+Associated Movements:
+Jerky movements can occur during syncope, but they are usually brief and less pronounced compared to epileptic seizures.
+Investigations:
+Cardiovascular examination, tilt-table testing, and ECG are essential for identifying underlying cardiac causes.
+Psychogenic Nonepileptic Seizures (PNES)
+Clinical Presentation:
+PNES are events resembling epileptic seizures but are of psychological origin. Patients may display a variety of motor, sensory, or behavioural phenomena.
+Onset:
+The onset of PNES is often gradual, with a duration that can be longer than typical epileptic seizures.
+Post-event Symptoms:
+Post-ictal confusion is uncommon. Patients may exhibit emotional distress or recall the events during the episode.
+Triggers:
+PNES can be triggered by stress, emotional trauma, or psychological conflict. They often occur in the presence of an audience.
+Associated Movements:
+Movements are typically more variable and may include side-to-side head movements, asynchronous thrashing, or pelvic thrusting, which are uncommon in epileptic seizures.
+Investigations:
+Video-EEG monitoring is crucial for differentiating PNES from epilepsy by capturing typical episodes and correlating them with EEG findings.
+Transient Ischaemic Attacks (TIAs)
+Clinical Presentation:
+TIAs present with transient neurological deficits due to focal cerebral ischaemia. Symptoms can include weakness, numbness, speech disturbances, or visual changes.
+Onset:
+TIAs have a sudden onset, and symptoms typically last less than 24 hours, often resolving within minutes to hours.
+Post-event Symptoms:
+There is no post-ictal phase. Recovery is usually rapid without significant residual symptoms.
+Triggers:
+TIAs are often associated with vascular risk factors such as hypertension, diabetes, and atrial fibrillation. They are not typically triggered by specific actions or situations.
+Associated Movements:
+TIAs do not generally present with convulsive movements or loss of consciousness, differentiating them from epileptic seizures.
+Investigations:
+Neuroimaging (CT or MRI), carotid Doppler studies, and cardiac evaluation (ECG, echocardiography) are important for identifying underlying vascular pathology.
+Alcohol Withdrawal Seizures
+Clinical Presentation:
+Alcohol withdrawal seizures occur in individuals with a history of chronic alcohol use who abruptly reduce or stop their alcohol intake. They usually present with generalised tonic-clonic seizures.
+Onset:
+These seizures typically occur within 6 to 48 hours after the last drink.
+Post-event Symptoms:
+Post-ictal confusion and drowsiness can occur, similar to epileptic seizures.
+Triggers:
+The primary trigger is the cessation or significant reduction of alcohol consumption.
+Associated Movements:
+Movements are generally typical of tonic-clonic seizures, with no distinguishing features from other generalised seizures.
+Investigations:
+Detailed history of alcohol use is crucial. Blood tests may reveal signs of chronic alcohol use, such as elevated liver enzymes and macrocytosis.
+Seizures Secondary to Metabolic/Toxic Disturbance
+Clinical Presentation:
+Seizures secondary to metabolic or toxic disturbances can present similarly to epileptic seizures, including generalised tonic-clonic seizures or focal seizures with secondary generalisation.
+Onset:
+The onset is usually acute and linked to the underlying metabolic or toxic cause.
+Post-event Symptoms:
+Post-ictal symptoms may include confusion and drowsiness, depending on the severity and duration of the
+seizure
+.
+Triggers:
+Common triggers include electrolyte imbalances (e.g., hyponatraemia, hypoglycaemia), renal or hepatic failure, drug toxicity, and withdrawal from certain medications or substances.
+Associated Movements:
+Seizure movements do not differ significantly from those of primary epileptic seizures.
+Investigations:
+Comprehensive metabolic panel, toxicology screen, and assessment of renal and hepatic function are critical for identifying the underlying cause.
+Improve
+Management
+Most neurologists now start antiepileptics following a
+second
+epileptic
+seizure
+.
+Antiepileptics are one of the few drugs where it is recommended that we
+prescribe by brand
+, rather than generically, due to the risk of slightly different bioavailability resulting in a lowered seizure threshold.
+It is useful when thinking about the management of
+epilepsy
+to consider certain groups of patients:
+patients who drive:
+generally patients cannot drive for 6 months following a seizure. For patients with established epilepsy they must be fit free for 12 months before being able to drive
+patients taking other medications
+: antiepileptics can induce/inhibit the P450 system resulting in varied metabolism of other medications, for example warfarin
+women wishing to get pregnant:
+antiepileptics are generally teratogenic, particularly sodium valproate. It is important that women take advice from a neurologist prior to becoming pregnant, to ensure they are on the most suitable antiepileptic medication. Breastfeeding is generally considered safe for mothers taking antiepileptics with the possible exception of the barbiturates
+women taking contraception:
+both the effect of the contraceptive on the effectiveness of the anti-epileptic medication and the effect of the anti-epileptic on the effectiveness of the contraceptive need to be considered
+Most neurologists now start antiepileptics following a second epileptic seizure. NICE guidelines suggest starting antiepileptics after the first seizure if any of the following are present:
+the patient has a neurological deficit
+brain imaging shows a structural abnormality
+the EEG shows unequivocal epileptic activity
+the patient or their family or carers consider the risk of having a further seizure unacceptable
+Sodium valproate is considered the first line treatment for patients with generalised seizures with carbamazepine used for focal seizures.
+Generalised tonic-clonic seizures
+sodium valproate
+second line: lamotrigine, carbamazepine
+Absence seizures* (Petit mal)
+sodium valproate or ethosuximide
+sodium valproate particularly effective if co-existent tonic-clonic seizures in primary generalised epilepsy
+Myoclonic seizures**
+sodium valproate
+second line: clonazepam, lamotrigine
+Focal seizures
+carbamazepine or lamotrigine
+second line:  levetiracetam, oxcarbazepine or sodium valproate
+*
+carbamazepine may exacerbate absence seizures
+**
+carbamazepine may exacerbate myoclonic seizures
+Acute management of seizures
+Most seizures terminate spontaneously. When seizures don't terminate after 5-10 minutes then it is often appropriate to administer medication to terminate the seizure. Patients are often prescribed these so family members may administer them in this eventuality, often termed 'rescue medication'.
+Benzodiazepines
+such as diazepam are typically used are may be administered rectally or intranasally/under the tongue.
+If a patient continues to fit despite such measures then they are termed to have
+status epilepticus
+. This is a medical emergency requiring hospital treatment. Management options include further benzodiazepine medication, infusions of antiepileptics or even the use of general anaesthetic agents.
+Improve
+Epilepsy
+Epilepsy: first seizure

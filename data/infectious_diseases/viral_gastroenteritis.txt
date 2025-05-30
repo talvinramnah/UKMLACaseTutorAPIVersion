@@ -1,0 +1,248 @@
+Viral gastroenteritis
+Viral gastroenteritis
+Viral gastroenteritis is an acute inflammation of the lining of the stomach and small intestine, resulting from viral infection. The most common causative organism in adults is
+norovirus
+, while in children it is
+rotavirus
+. It is very common, being the most frequent cause of acute
+diarrhoea
+in the general population.
+Viral gastroenteritis is a
+clinical diagnosis
+which presents with a self-limiting episode of diarrhoea,
+nausea
+and
+vomiting
+lasting <14 days. Risk factors for infection include exposure to contaminated food and water sources, close contact with infected individuals and poor hygiene.
+The most important aspect of treatment is preventing, or correcting dehydration. Fluid balance should be assessed and oral rehydration solutions may be useful in replacing lost fluid and electrolytes.
+Last updated: 13
+th
+December 2023
+Epidemiology
+Incidence: 5000.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Viral gastroenteritis
+1
+Campylobacter infection
+0.01
+Giardiasis
+0.01
+Non-typhoidal
+Salmonella
+0.01
+Shigellosis
+0.001
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The most common cause of viral gastroenteritis in
+children
+is
+rotavirus
+, which rarely affects adults due to long lasting immunity.
+In the UK, almost every child will have had infection before their 5th birthday.
+Transmission is person to person, by the faecal-oral route or from environmental contamination.
+Since 2013, an oral rotavirus vaccine was added as part of the UK national childhood immunisation programme.
+This is >85% effective at preventing severe rotavirus infection in the first two years of life.
+The most common cause of viral gastroenteritis in
+adults
+is
+norovirus
+, which is easily transmitted between one person to another.
+Transmission is usually by the faecal-oral route, but can also be caused by contact with an infected person, or with contaminated food or water.
+Norovirus can spread rapidly in semi-closed spaces such as in hospitals, residential homes or schools.
+Unlike
+rotavirus
+infection, there is no long lasting immunity.
+Other less common viral agents include:
+Adenovirus
+(in children)
+Sapovirus
+(in adults)
+Risk factors include:
+Exposure to contaminated food and water sources
+Close contact with an infected individual
+Poor hygiene
+Immunocompromise
+Improve
+Pathophysiology
+The clinical manifestation of viral gastroenteritis are due to the effects of the virus itself, along with cytotoxins on the
+enterocytes
+of the small intestine.
+Viruses use the enterocytes to replicate
+Replication within the enterocytes results direct damage and structural changes to the villous epithelium
+This causes a disruption to the secretion/absorption function of the villous epithelium in the small bowel.
+Viral ingestion â→ colonisation of the intestinal enterocytes â→ viral replication within the enterocyte â→ interference of the intestinal brush border enzyme production â→ transudation of fluid and electrolytes into the intestinal lumen â→ secretion of viral enterotoxins â→ transient chloride secretion into the intestinal lumen â→ malabsorption and osmotic
+diarrhoea
+.
+Infectious viral particles are then shed in the faeces after 24 hours of symptoms and may continue to be excreted for over a week in some cases.
+Improve
+Clinical features
+Viral gastroenteritis is a self-limiting condition which lasts
+<14 days.
+The most common symptoms include:
+Acute
+diarrhoea
+This is the passage of 3 or more stools per day, for a duration of less than 14 days.
+Watery and non-bloody
+The presence of blood in the stool should raise suspicion of an alternative diagnosis, such as Shiga-toxin producing
+E-coli
+or
+Campylobacter
+infection.
+Vomiting
+(80%)
+Mild
+fever
+(40%)
+A temperature >39Â°C in adults or >38Â°C in children under 3 months old should raise suspicion of bacterial pathology.
+Any child under 3 months old with a temperature >38Â°C should be
+urgently
+admitted to hospital.
+Abdominal pain
+A short viral prodrome may occur before the onset of diarrhoea, consisting of mild fever and
+nausea
+or vomiting.
+The findings on examination largely depend on the level of dehydration that the patient is suffering. Some clinical signs of
+significant dehydration
+might include:
+Dry mucous membranes
+Tachycardia
+Hypotension
+A thin, thready pulse
+Reduced urine output
+Improve
+Investigations
+The diagnosis of viral gastroenteritis is
+clinical
+and thus investigations are not usually warranted.
+If the patient shows signs of fluid depletion then blood tests should be taken before commencing IV fluid therapy:
+Full blood count
+Urea and electrolytes
+Usually stool samples are
+not required
+in cases of acute, viral gastroenteritis. However, NICE recommend that a stool sample for microbiological diagnosis might be required in
+some
+patients when there is:
+Diarrhoea
+which is persistent, lasting  >14 days
+Blood or pus in the stool
+High suspicion of non-viral gastroenteritis
+Recent history of hospitalisation and antibiotic therapy
+Recent foreign travel history
+Improve
+Differential diagnosis
+Bacterial gastroenteritis
+: usually presents with high
+fever
+and severe
+diarrhoea
+, which is commonly bloody.
+The most common causative bacteria in the UK is
+Campylobacter jejuni
+, but other pathogens frequently associated include
+Salmonella
+species,
+E-coli
+and
+Shigella
+.
+Campylobacter
+typically contaminates undercooked meat (especially poultry), unpasteurised milk and untreated water.
+E-coli
+is usually harmless, but it is important to be aware that
+E-coli
+O157:H7 infection can progress to haemolytic uraemia syndrome. Typically
+E-coli
+is acquired from undercooked beef products (such as beef burgers) and can be transmitted from person to person by direct contact.
+Suspicion of bacterial infection warrants stool microscopy and culture to differentiate.
+Typically episodes are self-limiting and do not require antibiotic therapy.
+Food poisoning
+is also usually caused by bacterial contamination of food products, but symptoms are caused primarily by toxins produced by the organism, rather than the organism itself. Diarrhoea and
+vomiting
+begin much more quickly (with 12 hours of ingestion) and common organisms include:
+Staphylococcus aureus:
+from undercooked meats and cream products.
+Bacillus cereus:
+from reheated rice.
+Clostridium difficile
+infection:
+causes diarrhoea, significant
+abdominal pain
+and leukocytosis in patients with a history of recent antibiotic use. Diagnosis should be confirmed with a stool sample and treatment is with metronidazole for the first episode, and vancomycin for any subsequent recurrences.
+Inflammatory bowel disease
+: a first time presentation of IBD is often with bloody diarrhoea but there is usually no vomiting and a fever is unlikely.
+Irritable bowel syndrome
+: usually presents with periods of diarrhoea, abdominal pain and
+bloating
+related to consumption of food and often relieved by defecation.
+Coeliac disease
+: causes bloody diarrhoea and abdominal pain, usually in children. It is associated with the consumption of gluten and symptoms are relieved by its eradication from the diet.
+Hyperthyroidism
+: may cause diarrhoea in adults and is often associated with other features such as weight loss, insomnia, heat intolerance and sweating.
+Improve
+Management
+The NICE guidelines on managing suspected viral gastroenteritis are based on:
+Assessing for features of dehydration and shock
+Fluid resuscitation if severe
+Considering the need for hospital admission
+Enabling rehydration and electrolyte replacement
+Preventing the spread of infection
+First there should be an assessment of whether urgent
+fluid resuscitation
+may be required. Indicators include:
+Systolic blood pressure <100
+Heart rate >90
+Cool peripheries
+Respiratory rate >20
+NEWS score >5
+There may also be other indicators that a patient should be
+admitted to hospital
+for management, such as:
+If they are unable to to maintain oral intake due to
+vomiting
+Some elderly individuals >60 years old, who are more at risk of severe dehydration
+Abdominal tenderness
+Diarrhoea
+lasting 10 days or more
+If the above don't apply then the majority of healthy patients can be managed
+at home
+.
+The management of viral gastroenteritis is based on
+symptomatic support
+and fluid/electrolyte replacement. Advice for patients should include encouraging a good level of oral intake, including fruit juices and soups and eating small, non-fatty meals as per their appetite.
+Oral rehydration salts can be recommended if a patient is at high risk of poor outcomes.
+These patients are generally those in whom hypovolaemia could pose a significant problem such as those with cardiovascular disease or thrombotic disease.
+In order to try to combat viral spread, it is important that patients are given good advice on hygiene at home such as washing the hands thoroughly with soap and water, not sharing towels or flannels, washing soiled clothing separately and disinfecting high contact surfaces such as doorhandles regularly.
+Patients who work in institutional settings such as in hospitals, schools or care homes should
+not return to work
+until at least 48 hours after vomiting and diarrhoea have stopped.
+Improve
+Complications
+Patient at risk of complications from viral gastroenteritis tend to be those at the extremities of age, with multiple co-morbidities or the immunocompromised.
+Dehydration and electrolyte disturbances
+: this can occur if the fluid lost in the stool is not replaced.
+If not managed appropriately, severe dehydration can result in renal injury, persistent acidosis and circulatory failure.
+The most common electrolyte disturbances include sodium abnormalities and hypokalaemia.
+Severe dehydration can also potentiate other problems, such as thrombotic phenomena.
+Acute kidney injury
+: can be caused by severe hypotension and a reduction in renal perfusion. This can result in dialysis in a small number of patients.
+Lactose intolerance
+: may occur transiently after a viral gastroenteritis, due to a loss of brush border enzymes.
+This can last for several weeks or be permanent in some cases
+Management involves removing lactose from the diet and slowly reintroducing it after a few weeks, if tolerated.
+Improve
+Infectious diarrhoea
+Viral gastroenteritis

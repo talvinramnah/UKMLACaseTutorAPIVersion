@@ -1,0 +1,156 @@
+Neuroleptic malignant syndrome
+Neuroleptic malignant syndrome
+Neuroleptic malignant syndrome (NMS) is a rare, life-threatening condition triggered by neuroleptic or antipsychotic medication. It represents a neurological emergency characterised by
+hyperthermia
+, altered mental status, muscle
+rigidity
+and autonomic dysregulation. The pathophysiology remains uncertain; however, dopamine receptor blockade in the basal ganglia and hypothalamus is implicated.
+Differential diagnosis
+includes serotonin syndrome, malignant hyperthermia, acute psychosis and anticholinergic toxicity.
+NMS typically develops within two weeks of initiating or increasing the dose of a neuroleptic drug but can occur at any time during treatment. Management entails immediate discontinuation of the offending agent and supportive care with attention to hydration and thermoregulation. Pharmacological interventions such as dantrolene or bromocriptine may be considered in severe cases.
+Despite advances in recognition and management, NMS carries significant morbidity and mortality rates due to complications including respiratory failure, cardiovascular collapse and renal failure.
+Last updated: 30
+th
+August 2023
+Epidemiology
+Incidence: 0.50 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Pharmacological Agents
+Antipsychotics:
+Both typical (e.g., haloperidol) and atypical (e.g., risperidone) antipsychotics are primary offenders.
+Other Medications:
+Antiemetics like metoclopramide, which have dopamine-blocking effects, may also trigger the syndrome.
+Risk Factors
+Rapid Titration:
+Quick escalation of antipsychotic dosage.
+Dehydration:
+Increases susceptibility to neuromuscular complications.
+Concurrent Illness:
+Physical illness, particularly infections or metabolic imbalances, may potentiate the risk.
+Previous Episodes:
+Individuals with a history of neuroleptic malignant syndrome (NMS) have increased susceptibility.
+Genetic Predisposition
+Polymorphisms:
+Variations in genes encoding for dopamine receptors or the cytochrome P450 system may contribute to susceptibility.
+Improve
+Pathophysiology
+Dopamine Receptor Blockade
+Central to the pathogenesis is the blockade of dopamine D2 receptors, affecting thermoregulatory, neuroendocrine, and extrapyramidal pathways. This blockade is thought to disrupt the hypothalamic regulation of heat, leading to
+hyperthermia
+.
+Muscular
+Rigidity
+The dopamine blockade also influences the basal ganglia, leading to increased muscle tone and rigidity. The ensuing muscular hyperactivity contributes to rhabdomyolysis, myoglobinuria, and acute kidney injury.
+Autonomic Dysregulation
+Dopamine receptor blockade may result in adrenergic and cholinergic imbalance, contributing to autonomic dysregulation manifested by unstable blood pressure,
+tachycardia
+, and altered sweating.
+Cytokine Release
+Some theories propose that neuroinflammation and cytokine release may be involved, although this remains an area of active research.
+Oxidative Stress
+Increased muscle activity and hyperthermia contribute to oxidative stress, causing cellular injury and multi-organ dysfunction.
+Neuroendocrine Changes
+Alterations in the release of pituitary hormones, like prolactin, may occur, although the clinical significance of this in NMS is not fully understood.
+Improve
+Clinical features
+It occurs within hours to days of starting an antipsychotic (antipsychotics are also known as neuroleptics, hence the name) and the typical features are:
+pyrexia
+muscle
+rigidity
+autonomic lability: typical features include hypertension,
+tachycardia
+and tachypnoea
+agitated delirium with
+confusion
+Improve
+Investigations
+Neuroleptic malignant syndrome (NMS) is primarily a clinical diagnosis, based on the presence of cardinal symptoms: hyperthermia, autonomic dysregulation, altered mental status, and lead-pipe
+rigidity
+. However, investigations can be useful to support the diagnosis and rule out other conditions that may mimic NMS.
+First-line Investigations
+Blood Tests:
+A full blood count (FBC), renal function test (RFT), liver function test (LFT), creatine kinase (CK) level, and electrolyte panel are essential first-line investigations. Leukocytosis is commonly observed in NMS. Elevated CK levels (>1000 IU/L) due to rhabdomyolysis are characteristic but not exclusive to NMS. Hyponatremia may occur secondary to inappropriate secretion of antidiuretic hormone or dehydration.
+Urine Analysis:
+Myoglobinuria from muscle breakdown can be detected through urine dipstick analysis for blood without corresponding red cells on microscopy.
+Further Investigations
+Cerebrospinal Fluid Analysis:
+This may be necessary if there is a high suspicion for central nervous system infection or neuroinflammatory condition which might mimic NMS. Typically it shows normal findings in NMS.
+Imaging:
+Brain imaging with computed tomography (CT) scan or magnetic resonance imaging (MRI) can exclude structural abnormalities such as stroke or space-occupying lesions that could present with altered mental status.
+Serum Iron Levels:
+Low serum iron levels have been associated with NMS and their measurement can provide supporting evidence for the diagnosis.
+Chest X-ray:
+To exclude pneumonia which may present with
+fever
+and altered mental status.
+Specialised Investigations
+Electroencephalogram (EEG):
+EEG findings in NMS are non-specific but can help rule out other causes of altered mental status such as non-convulsive status epilepticus.
+Polysomnography:
+This may be useful if there is a suspicion of malignant catatonia, a differential diagnosis for NMS. The presence of rapid eye movement (REM) sleep without atonia supports this diagnosis.
+In summary, while the diagnosis of NMS is primarily clinical, investigations play an important role in ruling out other conditions that may mimic NMS and to monitor potential complications such as rhabdomyolysis and renal failure. It is also important to note that no single investigation can confirm or exclude the diagnosis of NMS, but rather it's the combination of clinical assessment and supportive investigations that lead to its diagnosis.
+Improve
+Differential diagnosis
+Venn diagram showing contrasting serotonin syndrome with neuroleptic malignant syndrome. Note that both conditions can cause a
+raised creatine kinase
+(CK) but it tends to be more associated with NMS.
+Improve
+Management
+Management of Neuroleptic Malignant Syndrome (NMS) is mainly supportive and involves the following steps:
+Discontinuation of the offending agent:
+The first and foremost step in managing NMS is to immediately stop the causative neuroleptic medication. This helps to prevent further progression of symptoms.
+Intensive Care Unit (ICU) admission:
+Most patients with NMS require ICU admission due to severe autonomic instability, altered mental status, or other life-threatening complications. Continuous monitoring of vital signs is essential.
+Hydration and Electrolyte Management:
+Prompt hydration with intravenous fluids is crucial to prevent acute renal failure secondary to rhabdomyolysis.
+Careful monitoring and correction of electrolyte imbalances, particularly potassium and phosphate levels, are also important.
+Treatment of
+Hyperthermia
+:
+Physical cooling measures such as fans, cooling blankets, and ice packs can be used along with pharmacological interventions like paracetamol or nonsteroidal anti-inflammatory drugs (NSAIDs).
+Dopamine Agonists:
+If symptoms persist despite supportive care, consider using dopamine agonists like bromocriptine or amantadine. These agents work by increasing dopamine activity in the brain.
+Dantrolene:
+Dantrolene can be considered for severe cases resistant to other treatments. It works by inhibiting calcium release from the sarcoplasmic reticulum in skeletal muscle cells, thereby reducing muscle
+rigidity
+and hyperthermia.
+Evaluation for alternative diagnoses:
+Concurrently evaluate for other conditions that may mimic NMS such as serotonin syndrome, malignant hyperthermia, anticholinergic toxicity, and withdrawal states.
+Reintroduction of Antipsychotics:
+Reintroduction of antipsychotic therapy should be done cautiously after the complete resolution of NMS symptoms. A different class of antipsychotic is preferred, and it should be initiated at a low dose with gradual titration.
+Improve
+Complications
+Complications associated with Neuroleptic malignant syndrome (NMS) can be severe and life-threatening, requiring immediate medical attention. The most common complications include:
+Cardiovascular complications:
+These are amongst the most serious and frequent complications. They include arrhythmias, hypotension, myocardial infarction and cardiac arrest.
+Pulmonary complications:
+Acute respiratory distress syndrome (ARDS), aspiration pneumonia, pulmonary oedema and respiratory failure may occur due to dysphagia and altered consciousness.
+Renal complications:
+Acute kidney injury is a common complication of NMS. It is typically caused by rhabdomyolysis leading to myoglobinuria.
+Musculoskeletal complications:
+Severe muscle
+rigidity
+can lead to rhabdomyolysis which can further cause renal impairment or failure.
+Hepatic complications:
+Hepatotoxicity or liver dysfunction may occur due to drug-induced liver injury or secondary to systemic inflammatory response syndrome (SIRS).
+Besides these major systems, other areas of concern include neurological damage such as seizures or coma, electrolyte abnormalities like hyponatraemia or hyperkalaemia, coagulation disorders resulting in disseminated intravascular coagulation (DIC), metabolic derangements including
+hyperthermia
+and dehydration.
+Improve
+References
+Patient.info - Neuroleptic Malignant Syndrome
+Medsafe - Neuroleptice malignant syndrome Vs serotonin syndrome
+Neurology
+Neuroleptic malignant syndrome

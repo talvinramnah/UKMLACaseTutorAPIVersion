@@ -1,0 +1,85 @@
+Preseptal cellulitis
+Preseptal cellulitis
+Preseptal cellulitis is sometimes also referred to as periorbital cellulitis. It is an infection of the soft tissues anterior to the orbital septum - this includes the eyelids, skin and subcutaneous tissue of the face, but not the contents of the orbit. This is in contrast to
+orbital cellulitis
+, which is an infection of the soft tissues behind the orbital septum, and is a much more serious infection.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Preseptal cellulitis
+1
+Orbital cellulitis
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Infection usually spreads to the structures surrounding the orbit from other nearby sites, most commonly from breaks in the skin or local infections such as sinusitis or other respiratory tract infections. The most frequently causative organisms are
+Staph. aureus
+,
+Staph. epidermidis
+, streptococci and anaerobic bacteria.
+Improve
+Clinical features
+Symptoms
+The patient presents with a red, swollen, painful eye of acute onset. They are likely to have symptoms associated with
+fever
+.
+Signs
+Erythema and oedema of the eyelids, which can spread onto the surrounding skin
+Partial or complete ptosis of the eye due to swelling
+Orbital signs (pain on movement of the eye, restriction of eye movements, proptosis, visual disturbance, chemosis, RAPD) must be absent in preseptal cellulitis - their presence would indicate
+orbital cellulitis
+Improve
+Investigations
+Investigations
+Bloods - raised inflammatory markers
+Swab of any discharge present
+Contrast CT of the orbit may help to differentiate between preseptal and
+orbital cellulitis
+. It should be performed in all patients suspected to have orbital cellulitis
+Improve
+Differential diagnosis
+Significant differentials
+Orbital cellulitis
+Allergic reaction
+Improve
+Management
+Management of preseptal cellulitis primarily involves antibiotic therapy, typically oral antibiotics for mild to moderate cases and intravenous antibiotics for severe cases or those unresponsive to oral treatment. The choice of antibiotic should cover common causative organisms such as
+Staphylococcus aureus
+and
+Streptococcus pneumoniae
+.
+Oral Antibiotics:
+For mild to moderate cases, oral antibiotics are usually sufficient. Amoxicillin with clavulanic acid is commonly used. In patients allergic to penicillins, clarithromycin or erythromycin can be used.
+Intravenous Antibiotics:
+Severe cases may necessitate hospital admission for intravenous antibiotics. Ceftriaxone or cefotaxime are often chosen. In the presence of methicillin-resistant
+Staphylococcus aureus
+(MRSA) risk factors, vancomycin or teicoplanin should be added.
+Surgical Intervention:
+Although rare, surgical intervention may be required in the case of an abscess formation that does not respond to medical management alone.
+Clinical improvement should be seen within 48 hours of initiating appropriate antibiotic therapy. If no improvement is observed, reassess the patient and consider alternative diagnoses such as
+orbital cellulitis
+.
+Improve
+Complications
+Complications
+Bacterial infection may spread into the orbit and evolve into
+orbital cellulitis
+Improve
+Ophthalmology
+Preseptal cellulitis

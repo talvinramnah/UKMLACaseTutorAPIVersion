@@ -1,0 +1,156 @@
+Tetralogy of Fallot
+Tetralogy of Fallot
+Tetralogy of Fallot
+is a congenital heart condition characterised by four anatomical abnormalities: ventricular septal defect, right ventricular hypertrophy, pulmonary stenosis, and an overriding aorta. The primary pathophysiological consequence is right-to-left shunting of blood due to the pressure gradient favouring flow through the ventricular septal defect. This results in deoxygenated blood bypassing the lungs and entering systemic circulation, leading to cyanosis.
+Clinically, patients may present with 'tet spells' - episodes of deepening cyanosis and syncope triggered by crying or feeding. On examination, a characteristic harsh systolic ejection murmur can be heard at the left upper sternal border. Echocardiography confirms diagnosis.
+Management involves initial palliative procedures such as Blalock-Taussig shunt placement to improve pulmonary blood flow. Definitive correction with intracardiac repair is typically performed within the first year of life. Postoperative complications include arrhythmias and residual pulmonary stenosis requiring further interventions.
+Last updated: 1
+st
+January 2025
+Aetiology
+The aetiology of Tetralogy of Fallot (TOF) is multifactorial, involving both genetic and environmental factors. The underlying causes can be broadly categorised into chromosomal abnormalities, single gene disorders, and environmental influences.
+Chromosomal Abnormalities
+Trisomy 21 (Down Syndrome)
+: There is an increased prevalence of TOF in individuals with Down syndrome. Approximately 2-3% of all individuals with Down syndrome have TOF.
+DiGeorge Syndrome (22q11.2 deletion syndrome)
+: This is the most common deletion syndrome associated with TOF. It is characterised by deletions on chromosome 22 at the q11.2 locus.
+Single Gene Disorders
+JAG1 mutations (Alagille syndrome)
+: This autosomal dominant disorder affects multiple organ systems including the heart, liver, and skeletal system. Approximately 87% of individuals with Alagille syndrome have cardiac defects, with TOF being one of them.
+NKX2-5 mutations
+: Mutations in this gene are associated with various congenital heart diseases including TOF.
+ZFPM2/FOG2 mutations
+: These are rare causes of TOF but have been identified in some cases.
+Environmental Influences
+Maternal Diabetes Mellitus:
+Uncontrolled maternal diabetes during pregnancy increases the risk for several congenital heart defects including TOF.
+Gestational Alcohol Exposure:
+Prenatal exposure to alcohol can increase the risk for numerous birth defects including congenital heart diseases such as TOF.
+Maternal use of Retinoic Acid:
+Use of retinoic acid during pregnancy has been associated with an increased risk for TOF.
+Maternal Phenylketonuria (PKU):
+Uncontrolled maternal PKU can lead to multiple congenital anomalies including TOF.
+Improve
+Pathophysiology
+Tetralogy of Fallot is a congenital heart disorder characterised by four anatomical abnormalities: ventricular septal defect (VSD), pulmonary stenosis, right ventricular hypertrophy, and an overriding aorta. The pathophysiology of this condition is best understood by examining each component in the order that they typically occur.
+Ventricular Septal Defect
+The initial abnormality in Tetralogy of Fallot is the formation of a VSD. This is due to faulty alignment and fusion of the interventricular septum during embryonic development. The resultant defect allows for communication between the left and right ventricles, leading to shunting of blood.
+Pulmonary Stenosis
+Concurrently with VSD development, there's malformation of the pulmonary outflow tract. Pulmonary stenosis involves narrowing at or below the pulmonary valve level. This creates an obstacle for blood flow from the right ventricle into the pulmonary artery, increasing resistance to right ventricular ejection.
+Right Ventricular Hypertrophy
+The increased resistance caused by pulmonary stenosis leads to higher pressure load on the right ventricle. In response to this increased workload and in an attempt to maintain adequate blood flow into the lungs, the muscle wall of the right ventricle thickens, resulting in right ventricular hypertrophy.
+Overriding Aorta
+The final component is an overriding aorta, which essentially straddles both ventricles above the VSD. This occurs due to anterior malalignment of conotruncal septum during embryogenesis. As a result, it receives blood from both ventricles; oxygen-rich blood from left and oxygen-poor blood from right.
+Clinical Manifestations
+Right-to-left shunting of blood: The combination of a VSD and pulmonary stenosis facilitates right-to-left shunting of blood, bypassing the lungs. This leads to deoxygenated blood entering systemic circulation, causing cyanosis.
+Hypoxemia and polycythemia: Chronic hypoxemia due to right-to-left shunt stimulates erythropoiesis, leading to increased haematocrit or polycythemia. This increases blood viscosity and risk for thromboembolic events.
+Tet Spells/Tetralogy spells: Sudden exacerbations of cyanosis can occur, known as 'tet spells'. These are typically triggered by any event that either decreases systemic vascular resistance or increases right ventricular outflow tract obstruction.
+Improve
+Classification
+The classification of Tetralogy of Fallot (TOF) primarily rests on anatomical variations and clinical manifestations. It is categorised into the following types:
+Classic or Complete Tetralogy of Fallot:
+This is characterised by four key features - ventricular septal defect (VSD), pulmonary stenosis, aorta dextroposition, and right ventricular hypertrophy. The severity of pulmonary stenosis determines the degree of cyanosis.
+Pink or Atypical Tetralogy of Fallot:
+Also known as 'TOF with minimal pulmonary stenosis', this variant presents with mild cyanosis due to less severe obstruction to pulmonary blood flow.
+Tetralogy of Fallot with Pulmonary Atresia:
+In this severe form, there is a complete lack of formation of the pulmonary valve, leading to no blood flow from the heart to the lungs via this route. Collateral arteries often develop to compensate for the impaired blood flow.
+Tetralogy of Fallot with Absent Pulmonary Valve Syndrome:
+This rare variant involves an absent or dysplastic pulmonary valve causing significant dilation and distortion in the pulmonary arteries and branches.
+In addition to these primary classifications, TOF may present with additional anomalies such as double outlet right ventricle (DORV), atrial septal defects (ASD), patent ductus arteriosus (PDA), and various chromosomal abnormalities like DiGeorge syndrome (22q11 deletion).
+Improve
+Clinical features
+The stereotypical presentation of Tetralogy of Fallot often involves a cyanotic infant with dyspnoea and failure to thrive. These infants typically display a characteristic murmur, which is harsh sounding and heard best at the left sternal border due to right ventricular outflow tract obstruction.
+Cyanosis
+Central cyanosis, noticeable in the lips and mucous membranes, is a hallmark feature of Tetralogy of Fallot. It results from the shunting of deoxygenated blood from the right ventricle into the systemic circulation due to overriding aorta.
+'Tet spells' or hypercyanotic episodes can occur, characterised by sudden worsening of cyanosis accompanied by irritability and increased respiratory effort. These are often precipitated by crying, feeding or defecation.
+Dyspnoea
+Infants may present with tachypnoea and exertional dyspnoea due to limited pulmonary blood flow resulting from right ventricular outflow tract obstruction and ventricular septal defect.
+Failure to Thrive
+Growth retardation is commonly observed in these patients due to chronic hypoxia. This leads to poor weight gain despite adequate caloric intake.
+Murmur
+The classic murmur associated with Tetralogy of Fallot is a harsh systolic ejection murmur heard best at the left upper sternal border. It is caused by turbulent flow through the narrowed right ventricular outflow tract.
+A single second heart sound (S2) may also be audible due to pulmonary valve atresia.
+Other Physical Findings
+Clubbing of the fingers and toes may be present due to chronic hypoxia.
+A right ventricular heave may be palpable on cardiac examination due to right ventricular hypertrophy.
+Polycythaemia is often seen in these patients as a compensatory response to chronic hypoxia.
+Clinical Course
+The severity and timing of symptom onset can vary widely among patients with Tetralogy of Fallot, depending largely on the degree of right ventricular outflow tract obstruction. In severe cases, cyanosis may be apparent shortly after birth, while in milder forms, cyanosis may not become evident until several months of age.
+Improve
+Investigations
+The initial suspicion of Tetralogy of Fallot (TOF) often arises from the clinical presentation, including cyanosis, dyspnoea, and failure to thrive. However, definitive diagnosis requires a series of investigations.
+First-line Investigations
+Echocardiography:
+This is the primary investigation for suspected TOF. It provides detailed information about cardiac anatomy and function, which helps confirm the diagnosis and plan surgical intervention if necessary. The echocardiogram can identify the four characteristic defects: ventricular septal defect, right ventricular hypertrophy, overriding aorta and pulmonary stenosis.
+Chest X-ray:
+Although not diagnostic, it gives supportive evidence by showing a 'boot-shaped' heart due to right ventricular hypertrophy and decreased pulmonary vascular markings indicative of reduced blood flow to the lungs.
+Electrocardiogram (ECG):
+It may show right axis deviation and right ventricular hypertrophy but these findings are non-specific.
+Further Investigations
+Cardiac MRI:
+In cases where echocardiographic images are suboptimal or further details are required before surgery, cardiac MRI can provide additional anatomical detail. It is particularly useful in assessing right ventricular function and quantifying pulmonary regurgitation.
+Cardiac Catheterisation:
+While no longer routinely performed in TOF due to advancements in non-invasive imaging techniques like echocardiography and MRI, it may still be used in certain scenarios such as when there's doubt about coronary artery anatomy or associated lesions that might impact surgical planning.
+Genetic Testing:
+Given that TOF can be associated with certain genetic syndromes (e.g., 22q11.2 deletion syndrome), genetic testing may be considered, especially if there are other clinical features suggestive of a syndromic cause.
+Improve
+Differential diagnosis
+Differential diagnosis of Tetralogy of Fallot involves distinguishing it from other congenital heart diseases that present with similar symptoms. Three such conditions include transposition of the great arteries, truncus arteriosus, and pulmonary atresia with ventricular septal defect.
+Transposition of the Great Arteries
+The clinical presentation can be similar to Tetralogy of Fallot, particularly in terms of cyanosis and dyspnoea. However, a key difference lies in the heart murmur. While Tetralogy of Fallot typically presents with a harsh systolic ejection murmur heard best at the left upper sternal border due to pulmonic stenosis, transposition often presents with a single second heart sound and no murmur unless an associated lesion is present.
+Transposition also tends to present earlier than Tetralogy of Fallot, often within the first days or weeks of life once the ductus arteriosus begins to close.
+Truncus Arteriosus
+This condition is characterised by a single arterial trunk arising from both ventricles, supplying systemic, pulmonary and coronary circulations. Like Tetralogy of Fallot, truncus arteriosus can present with cyanosis and failure to thrive.
+However, while patients with Tetralogy of Fallot may exhibit clubbing due to chronic hypoxia, this feature is less commonly observed in truncus arteriosus. Furthermore, unlike the typical systolic murmur observed in Tetralogy of Fallot due to pulmonic stenosis, truncus arteriosus often presents with a systolic ejection click followed by a high-pitched early diastolic decrescendo murmur due to truncal valve regurgitation.
+Pulmonary Atresia with Ventricular Septal Defect
+Similar to Tetralogy of Fallot, this condition can present with cyanosis and dyspnoea. However, the severity of these symptoms is often greater in pulmonary atresia due to complete obstruction of right ventricular outflow.
+The murmur characteristics also differ. Pulmonary atresia typically presents with a continuous murmur heard best over the left upper sternal border due to flow through systemic to pulmonary collaterals, whereas Tetralogy of Fallot presents with a harsh systolic ejection murmur.
+Improve
+Management
+Management of Tetralogy of Fallot (TOF) involves a multidisciplinary approach, encompassing both surgical and non-surgical strategies. The primary aim is to optimise oxygen saturation levels, reduce symptoms and prevent long-term complications.
+Surgical Management
+Primary complete repair: This is the preferred surgical intervention for TOF patients, typically performed between 3-6 months of age. It involves closure of the ventricular septal defect (VSD) and relief of right ventricular outflow tract obstruction (RVOTO). Post-operative care includes monitoring for arrhythmias, heart block, residual VSDs or RVOTO.
+Palliative surgery: In infants who are not suitable candidates for primary repair due to prematurity or severe comorbidities, palliative procedures like Blalock-Taussig shunt or modified Blalock-Taussig shunt may be performed. These procedures create an alternate pathway for blood flow to the lungs, improving oxygenation until definitive repair can be carried out.
+Non-Surgical Management
+Prostaglandin E1 infusion: This is used in neonates with cyanosis from duct-dependent pulmonary circulation to maintain ductus arteriosus patency until surgery can be arranged.
+Beta-blockers: These agents may be used to control symptoms associated with hypercyanotic ('blue') spells by reducing infundibular spasm.
+Long-Term Management
+Lifelong cardiology follow-up is necessary due to potential late complications such as pulmonary regurgitation, right ventricular dysfunction, arrhythmias and residual shunts or stenosis.
+Regular echocardiography is required to monitor right ventricular function and pulmonary valve status. Cardiac magnetic resonance imaging (MRI) may be beneficial in certain cases for detailed evaluation.
+Exercise restriction may be necessary depending on the severity of residual defects and the patient's functional status.
+Endocarditis prophylaxis: Patients with TOF are at increased risk of infective endocarditis, thus antibiotic prophylaxis is recommended for certain dental procedures, respiratory tract incisions, or procedures involving infected skin or musculoskeletal tissue.
+Improve
+Complications
+Patients diagnosed with Tetralogy of Fallot (TOF) are predisposed to several complications, some of which can be life-threatening. These complications can occur at any age and often require medical intervention or surgical correction.
+Cardiac Complications
+Pulmonary regurgitation:
+This is a common complication following corrective surgery for TOF. Chronic severe pulmonary regurgitation can lead to right ventricular dilatation and dysfunction, arrhythmia, and exercise intolerance.
+Right ventricular outflow tract obstruction (RVOTO):
+Residual or recurrent RVOTO may occur after repair. This may necessitate reoperation or percutaneous intervention.
+Atrial and ventricular arrhythmias:
+These are common in adults with repaired TOF due to surgical scars and myocardial damage. They can result in palpitations, dizziness, syncope or sudden cardiac death.
+Endocarditis:
+Patients with TOF are at risk of developing infective endocarditis. It is imperative that they follow strict dental hygiene practices and receive antibiotic prophylaxis where indicated.
+Non-cardiac Complications
+Growth retardation:
+Children with unrepaired TOF often experience growth retardation. However, post-surgical catch-up growth does generally occur.
+Cyanosis:
+Persistent cyanosis after repair may result from residual intracardiac shunts or pulmonary arteriovenous malformations.
+Cerebrovascular accidents:
+The chronic hypoxaemia associated with TOF increases the risk of thromboembolic events such as stroke.
+Pulmonary issues:
+Chronic lung disease may develop due to longstanding cyanosis and repeated respiratory infections.
+Improve
+Prognosis
+The prognosis for patients with Tetralogy of Fallot (TOF) has significantly improved over the past few decades due to advances in diagnostic techniques, surgical interventions and postoperative care. The following factors influence the prognosis:
+Early Diagnosis and Intervention:
+Timely detection and prompt surgical correction during infancy, typically within the first year of life, greatly improves survival rates. This also prevents the development of severe cyanosis and its associated complications.
+Surgical Outcomes:
+Complete repair surgery involving patch closure of ventricular septal defect (VSD) and relief of right ventricular outflow tract obstruction (RVOTO), results in excellent long-term survival rates. However, residual defects or complications such as pulmonary regurgitation or arrhythmias may necessitate further surgeries or interventions in adulthood.
+Postoperative Care:
+Long-term follow-up including regular echocardiograms and electrocardiograms is essential to monitor for potential complications like pulmonary regurgitation, right ventricular dysfunction, arrhythmias and endocarditis.
+The overall long-term survival rate for TOF patients post-surgery is high; more than 90% survive into adulthood with a good quality of life. However, despite successful repair, these individuals require lifelong medical follow-up due to potential late complications related to the initial anomaly or its surgical correction. A small subset may develop severe sequelae requiring reintervention.
+The five-year survival rate after complete repair surgery is over 95%, but this can vary depending on individual risk factors such as age at diagnosis, presence of additional cardiac anomalies, genetic syndromes or chromosomal abnormalities.
+Improve
+Paediatric cardiology
+Tetralogy of Fallot

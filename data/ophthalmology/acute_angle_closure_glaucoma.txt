@@ -1,0 +1,130 @@
+Acute angle closure glaucoma
+Acute angle closure glaucoma
+Acute angle closure glaucoma (AACG) is a sight-threatening ophthalmic emergency characterized by a rapid rise in intraocular pressure (IOP) due to the sudden obstruction of aqueous humour outflow. It predominantly affects the elderly, females, and hyperopic individuals. Predisposing factors include a shallow anterior chamber, thick peripheral iris, and family history. Patients typically present with severe
+ocular pain
+, headache,
+nausea
+,
+vomiting
+, and a
+red eye
+with a hazy, steamy cornea. Visual acuity may be significantly reduced, and the affected eye may exhibit a fixed, mid-dilated pupil.
+Early diagnosis is crucial in preventing permanent vision loss. Gonioscopy is essential for definitive diagnosis, revealing a closed iridocorneal angle. Initial management includes topical and systemic IOP-lowering medications, such as beta-blockers, alpha agonists, prostaglandin analogues, and carbonic anhydrase inhibitors. Systemic hyperosmotic agents like intravenous mannitol can rapidly lower IOP. Definitive treatment involves laser peripheral iridotomy (LPI) to alleviate pupillary block and restore aqueous outflow. Prompt referral to an ophthalmologist is critical.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Anterior uveitis
+4.00
+Acute angle closure glaucoma
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Predisposing anatomical factors:
+AACG is commonly associated with a shallow anterior chamber, a narrow iridocorneal angle, and a thick peripheral iris
+These anatomical features increase the risk of angle closure, particularly in hyperopic individuals and the elderly.
+Demographics:
+AACG is more common in females and those of Asian descent.
+Genetic factors may play a role in the susceptibility to this condition.
+Triggers:
+Situations that induce pupil dilation, such as dim lighting or medications with mydriatic properties, can precipitate AACG in predisposed individuals.
+Improve
+Pathophysiology
+The primary mechanism underlying AACG is pupillary block, which occurs when the lens and iris come into close apposition, obstructing the flow of aqueous humour from the posterior to the anterior chamber. This causes a pressure gradient, pushing the peripheral iris against the trabecular meshwork and closing the angle.
+Other factors
+Plateau iris syndrome: In some cases, AACG may result from plateau iris syndrome, a condition characterized by an anteriorly positioned ciliary body and a flat iris plane, causing the peripheral iris to bunch up and occlude the trabecular meshwork despite the presence of a patent iridotomy.
+Malignant glaucoma (also known as aqueous misdirection): This rare form of angle closure occurs due to the posterior misdirection of aqueous humour into or behind the vitreous, resulting in an anteriorly displaced lens-iris diaphragm and subsequent angle closure.
+Secondary causes: These include neovascular glaucoma, lens-related causes (phacomorphic glaucoma), and uveitis. In these cases, the angle closure results from other pathologies that obstruct the trabecular meshwork or lead to synechial closure of the angle.
+Improve
+Clinical features
+Features
+severe pain: may be ocular or headache
+decreased visual acuity
+symptoms worse with mydriasis (e.g. watching TV in a dark room)
+hard, red-eye
+haloes around lights
+semi-dilated non-reacting pupil
+corneal oedema results in dull or hazy cornea
+systemic upset may be seen, such as
+nausea
+and
+vomiting
+and even abdominal pain
+Improve
+Investigations
+Ocular examination: A comprehensive eye examination should include:
+Visual acuity: Reduced visual acuity may be present in the affected eye.
+Pupil assessment: A mid-dilated, non-reactive pupil is characteristic of AACG.
+Slit-lamp examination: A hazy, steamy cornea and a shallow anterior chamber can be observed.
+Intraocular pressure (IOP): Elevated IOP is a hallmark of AACG, typically exceeding 40 mmHg. Tonometry is used to measure IOP, with Goldmann applanation tonometry being the gold standard.
+Gonioscopy:
+This examination provides a direct view of the iridocorneal angle, allowing assessment of its width and configuration.
+A closed angle is diagnostic of angle closure glaucoma.
+Fundus examination:
+Optic nerve head evaluation, using direct ophthalmoscopy or fundus photography, may reveal optic disc cupping or pallor, indicating glaucomatous damage.
+However, in the acute phase, disc changes may not be apparent due to elevated IOP and the need for urgent intervention.
+Optical coherence tomography (OCT):
+While not routinely used in the acute setting, OCT can be employed to assess the retinal nerve fibre layer (RNFL) and the optic nerve head for glaucomatous damage once the IOP is stabilized.
+Ultrasound biomicroscopy (UBM) and anterior segment OCT (AS-OCT):
+These imaging modalities can be useful for evaluating the anterior chamber angle, iris, and ciliary body, particularly in cases of secondary angle closure or plateau iris syndrome.
+However, they are not commonly used during an acute attack.
+Ancillary tests:
+In cases where a secondary cause is suspected, further investigations may be required, such as fluorescein angiography for neovascular glaucoma or B-scan ultrasonography for posterior segment evaluation.
+Improve
+Differential diagnosis
+Acute angle closure glaucoma (AACG) has a distinctive clinical presentation, however, it can sometimes be confused with other ocular conditions that present with acute
+red eye
+and vision loss.
+Anterior Uveitis
+While both AACG and anterior uveitis can present with a red, painful eye, the pain in anterior uveitis is usually described as dull or throbbing rather than the severe pain often associated with AACG.
+The vision loss in anterior uveitis tends to be less sudden than in AACG. It may also be accompanied by photophobia which is typically absent in AACG.
+Ciliary flush (circumcorneal injection) is often seen in anterior uveitis but not typically observed in AACG.
+Keratitis
+Keratitis presents with a red, painful eye similar to AACG. However, the pain is usually described as sharp or stabbing and may be associated with foreign body sensation which is not typical of AACG.
+Visual acuity may be reduced but this change tends to occur more gradually than the rapid onset of
+visual loss
+seen in AACG.
+A key distinguishing feature is the presence of corneal epithelial defects or infiltrates on slit lamp examination which are not characteristic of AACG.
+Improve
+Management
+The management of AACG is an emergency and should prompt urgent referral to an ophthalmologist. Emergency medical treatment is required to lower the IOP with more definitive surgical treatment given once the acute attack has settled.
+Medical treatment: The initial goal is to lower the intraocular pressure (IOP) using a combination of topical and systemic medications:
+a. Topical agents: beta-blockers, alpha agonists, and prostaglandin analogs help lower IOP by reducing aqueous humor production or increasing outflow.
+b. Carbonic anhydrase inhibitors: Both topical (e.g., dorzolamide) and oral (e.g., acetazolamide) forms can be used to decrease aqueous humour production.
+c. Systemic hyperosmotic agents: Intravenous mannitol rapidly lowers IOP by drawing fluid out of the eye.
+Definitive treatment: Laser peripheral iridotomy (LPI) is the procedure of choice to alleviate pupillary block and restore aqueous outflow. A small hole is created in the peripheral iris, allowing the aqueous humour to bypass the blocked area and flow into the anterior chamber. LPI should be performed as soon as the cornea clears enough for laser application. Close monitoring of IOP and the iridocorneal angle is necessary after LPI to ensure successful treatment. Patients should be re-evaluated to confirm that the angle has opened and the IOP has normalized.
+Management of the other eye: a high risk of developing AACG. Prophylactic LPI is often recommended to prevent future attacks.
+In cases where IOP remains elevated or LPI is contraindicated or unsuccessful, surgical interventions may be required, such as trabeculectomy, glaucoma drainage devices, or lens extraction (phacoemulsification with intraocular lens implantation).
+If the angle closure is due to a secondary cause, such as neovascular glaucoma or uveitis, appropriate management of the underlying condition is crucial to prevent further episodes.
+Patients should receive regular follow-up examinations, including IOP measurements, optic nerve head assessments, visual field testing, and, if necessary, OCT imaging, to monitor for progressive glaucomatous damage and ensure optimal management.
+NICE guidelines
+There are no guidelines for the initial medical treatment emergency treatment. An example regime would be:
+combination of eye drops, for example:
+a direct parasympathomimetic (e.g. pilocarpine, causes contraction of the ciliary muscle → opening the trabecular meshwork → increased outflow of the aqueous humour)
+a beta-blocker (e.g. timolol, decreases aqueous humour production)
+an alpha-2 agonist (e.g. apraclonidine,  dual mechanism, decreasing aqueous humour production and increasing uveoscleral outflow)
+intravenous acetazolamide
+reduces aqueous secretions
+Definitive management
+laser peripheral iridotomy
+creates a tiny hole in the peripheral iris → aqueous humour flowing to the angle
+Improve
+References
+Patient.info - Acute angle closure glaucoma review
+Ophthalmology
+Acute angle closure glaucoma

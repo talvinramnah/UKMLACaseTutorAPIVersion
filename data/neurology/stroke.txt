@@ -1,0 +1,284 @@
+Stroke
+Stroke
+Strokes represent an important cause of morbidity and mortality. In the UK alone there are over 150,000 strokes per year, with over 1.2 million stroke survivors. Stroke is the fourth largest cause of death in the UK and kills twice as many women than breast cancer each year.
+The prevention and treatment of strokes has undergone significant changes over the past decade. What was previously considered a devastating but untreatable condition is now viewed more as a 'brain attack', a condition which requires emergency assessment to see if patients may benefit from new treatments such as thrombolysis.
+Last updated: 14
+th
+May 2024
+Epidemiology
+Incidence: 230.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Stroke
+1
+Bell's palsy
+0.10
+Central venous thrombosis
+0.004
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Ischemic Stroke
+Ischemic stroke, which accounts for approximately 87% of all strokes, occurs when blood flow to a part of the brain is disrupted due to a blockage in the blood vessels. The main causes of ischemic stroke include:
+Thrombotic Stroke
+Thrombotic stroke occurs when a blood clot (thrombus) forms within an artery supplying blood to the brain, usually due to atherosclerosis.
+Embolic Stroke
+Embolic stroke occurs when a blood clot or other debris (embolus) from another part of the body travels through the bloodstream and becomes lodged in an artery supplying blood to the brain.
+Hemorrhagic Stroke
+Hemorrhagic stroke, which accounts for approximately 13% of all strokes, occurs when a blood vessel ruptures and bleeds into the brain tissue. The main causes of hemorrhagic stroke include:
+Intracerebral Hemorrhage
+Intracerebral haemorrhage is caused by the rupture of a blood vessel within the brain parenchyma, often due to hypertension, cerebral amyloid angiopathy, or vascular malformations.
+Subarachnoid Haemorrhage
+Subarachnoid haemorrhage is caused by bleeding into the subarachnoid space, typically due to the rupture of an intracranial aneurysm or arteriovenous malformation.
+Improve
+Pathophysiology
+Cerebral Ischemia
+In ischaemic stroke, the reduction in blood flow to the affected brain region leads to inadequate oxygen and glucose delivery, resulting in energy failure and the disruption of cellular ion homeostasis. This initiates a cascade of events, including excitotoxicity, oxidative stress, inflammation, and apoptosis, leading to irreversible neuronal damage.
+Cerebral Haemorrhage
+In haemorrhagic stroke, the rupture of a blood vessel causes blood to accumulate within the brain tissue or subarachnoid space. This can lead to increased intracranial pressure, compression of brain tissue, and disruption of cerebral blood flow. Additionally, the accumulation of blood can trigger a local inflammatory response, resulting in further neuronal injury.
+Cerebral Oedema
+Both ischemic and hemorrhagic strokes can lead to the development of cerebral oedema, which is the accumulation of fluid within the brain tissue. This can increase intracranial pressure, further compromise cerebral blood flow, and cause secondary neuronal damage.
+In summary, the aetiology of stroke is broadly categorized into ischaemic and haemorrhagic forms, with ischemic stroke being the most common type. The pathogenesis of stroke involves a complex interplay of events following the disruption of blood flow to the brain or the rupture of a blood vessel, ultimately leading to neuronal injury and neurological deficits. Understanding the underlying causes and mechanisms of stroke is crucial for the development of effective preventive strategies, as well as acute management and long-term rehabilitation of affected individuals.
+Improve
+Classification
+The
+Oxford Stroke Classification
+(also known as the Bamford Classification) classifies strokes based on the initial symptoms.  A summary is as follows:
+The following criteria should be assessed:
+1. unilateral hemiparesis and/or hemisensory loss of the face, arm & leg
+2. homonymous hemianopia
+3. higher cognitive dysfunction e.g.
+dysphasia
+Total anterior circulation infarcts (TACI, c. 15%)
+involves middle and anterior cerebral arteries
+all 3 of the above criteria are present
+Partial anterior circulation infarcts (PACI, c. 25%)
+involves smaller arteries of anterior circulation e.g. upper or lower division of middle cerebral artery
+2 of the above criteria are present
+Lacunar infarcts (LACI, c. 25%)
+involves perforating arteries around the internal capsule, thalamus and basal ganglia
+presents with 1 of the following:
+1. unilateral weakness (and/or sensory deficit) of face and arm, arm and leg or all three.
+2. pure sensory stroke.
+3. ataxic hemiparesis
+Posterior circulation infarcts (POCI, c. 25%)
+involves vertebrobasilar arteries
+presents with 1 of the following:
+1. cerebellar or brainstem syndromes
+2. loss of consciousness
+3. isolated homonymous hemianopia
+Other recognised patterns of stroke:
+Lateral medullary syndrome (posterior inferior cerebellar artery)
+aka Wallenberg's syndrome
+ipsilateral:
+ataxia
+,
+nystagmus
+, dysphagia,
+facial numbness
+, cranial nerve palsy e.g. Horner's
+contralateral: limb sensory loss
+Weber's syndrome
+ipsilateral III palsy
+contralateral weakness
+Improve
+Clinical features
+Stroke is defined by the World Health Organization as a clinical syndrome consisting of 'rapidly developing clinical signs of focal (at times global) disturbance of cerebral function, lasting more than 24 hours or leading to death with no apparent cause other than that of vascular origin'. In contrast, with a
+TIA
+the symptoms and signs resolve within 24 hours.
+Features include:
+motor weakness
+speech problems (
+dysphasia
+)
+swallowing problems
+visual field defects (homonymous hemianopia)
+balance problems
+Cerebral hemisphere infarcts may have the following symptoms:
+contralateral
+hemiplegia
+: initially flaccid then spastic
+contralateral sensory loss
+homonymous hemianopia
+dysphasia
+Brainstem infarction
+may result in more severe symptoms including quadriplegia and lock-in-syndrome
+Lacunar infarcts
+small infarcts around the basal ganglia, internal capsule, thalamus and pons
+this may result in pure motor, pure sensory, mixed motor and sensory signs or
+ataxia
+Whilst symptoms alone cannot be used to differentiate haemorrhagic from ischaemic strokes, patients who've suffered haemorrhages are more likely to have:
+decrease in the level of consciousness: seen in up to 50% of patients with a haemorrhagic stroke
+headache
+is also much more common in haemorrhagic stroke
+nausea
+and
+vomiting
+is also common
+seizures occur in up to 25% of patients
+Improve
+Investigations
+The investigation of stroke primarily involves imaging modalities, laboratory tests and cardiac investigations to confirm the diagnosis, identify the type and cause of stroke, evaluate for complications and guide treatment strategies. The approach to these investigations is systematic starting with first-line investigations followed by further investigations if necessary.
+First-Line Investigations
+Brain Imaging:
+This is the cornerstone in diagnosing stroke. Non-contrast computed tomography (CT) scan of the brain is often performed initially due to its rapid availability and reliability in ruling out haemorrhagic stroke. It can also show early signs of ischaemic stroke such as loss of insular ribbon or hyperdense middle cerebral artery sign but may be normal in the first few hours after onset. Magnetic resonance imaging (MRI) with diffusion-weighted imaging (DWI) sequence is more sensitive for detecting acute ischaemia especially in the posterior fossa and should be considered if CT findings are inconclusive.
+Blood Tests:
+Full blood count, coagulation profile including prothrombin time/international normalized ratio (PT/INR), activated partial thromboplastin time (APTT), renal function tests, electrolytes, liver function tests, fasting lipid profile and glucose level are routinely performed. These help rule out mimics like hypoglycaemia or metabolic disturbances, assess risk factors such as dyslipidaemia or diabetes mellitus, evaluate for contraindications to thrombolysis like coagulopathy and monitor for complications.
+Further Investigations
+If initial investigations confirm a diagnosis of stroke further investigations are warranted to identify the underlying cause.
+Echocardiography:
+Transthoracic echocardiography (TTE) or transesophageal echocardiography (TEE) is used to identify potential cardiac sources of emboli such as atrial fibrillation, patent foramen ovale, valvular heart disease or left ventricular thrombus. TEE is more sensitive for detecting atrial septal abnormalities and aortic arch atheroma.
+Carotid Imaging:
+Carotid Doppler ultrasound or CT/MR angiography of the neck vessels can identify significant carotid stenosis or occlusion that may be amenable to carotid endarterectomy or stenting in patients with anterior circulation stroke.
+24-Hour ECG Monitoring:
+This can detect paroxysmal atrial fibrillation which is a common and treatable cause of stroke. If initial monitoring is negative but clinical suspicion remains high, prolonged cardiac rhythm monitoring may be warranted.
+Cerebral Angiography:
+This invasive procedure may be required in certain cases like suspected cerebral vasculitis, arterial dissection or venous sinus thrombosis where non-invasive imaging modalities are inconclusive.
+Improve
+Differential diagnosis
+Stroke is a significant cause of morbidity and mortality worldwide. In the process of making a diagnosis, it's vital to consider other conditions that may present in a similar manner. The three most likely alternative diagnoses include:
+Migraine with Aura
+Migraine with aura can often mimic stroke symptoms due to its neurological presentation. However, there are key differences to note. Migraines typically have a gradual onset, escalating over several minutes to hours, as opposed to the sudden onset seen in strokes. Additionally, migraines often present with accompanying symptoms such as photophobia, phonophobia or
+nausea
+which are less common in stroke presentations. A history of similar episodes also leans towards a migraine diagnosis.
+Bell's Palsy
+Bell's palsy is another condition that can be mistaken for stroke due to its presentation with
+facial weakness
+. However, Bell's palsy typically affects only the lower motor neurones of the facial nerve leading to unilateral facial weakness including the forehead - this differentiates it from stroke where forehead sparing is more common due to bilateral upper motor neuron innervation. Moreover, patients with Bell's palsy may also experience hyperacusis or altered taste on the anterior two-thirds of their tongue.
+Hypoglycaemia
+Hypoglycaemia can mimic stroke symptoms due to impaired glucose supply leading to neuronal dysfunction. Unlike stroke, hypoglycaemic events usually have rapid onset and resolution once glucose levels are corrected. Symptoms tend not to follow neuroanatomical pathways and patients may present with sweating, tremor or palpitations related to compensatory adrenaline release.
+Improve
+Management
+The National Clinical Guideline for Stroke was published in 2023 and is a partial update of the 2016 Royal College of Physicians (RCP) guidelines.
+Selected points relating to the management of acute stroke include:
+blood glucose, hydration, oxygen saturation and temperature should be maintained within normal limits
+blood pressure
+blood pressure should not be lowered in the acute phase of ischaemic stroke unless there are complications e.g. Hypertensive encephalopathy or they are being considered for thrombolysis (see below)
+blood pressure control should be considered for patients who present with an acute ischaemic stroke, if they present within 6 hours and have a systolic blood pressure > 150 mmHg
+aspirin 300mg orally or rectally should be given as soon as possible if a haemorrhagic stroke has been excluded
+with regards to atrial fibrillation, the RCP state: 'anticoagulants should not be started until brain imaging has excluded haemorrhage, and usually not until 14 days have passed from the onset of an ischaemic stroke'
+if the cholesterol is > 3.5 mmol/l patients should be commenced on a
+statin
+. Many physicians will delay treatment until after at least 48 hours due to the risk of haemorrhagic transformation
+Thrombolysis for acute ischaemic stroke
+Thrombolysis is now given to around 10% of patients who present with an acute ischaemic stroke in the UK. It requires a dedicated team to determine eligibility, ensure timely delivery and provide hyperacute stroke services to patients afterwards.
+The standard criteria for thrombolysis with
+alteplase
+or
+tenecteplase
+are as follows:
+it is administered within 4.5 hours of onset of stroke symptoms
+haemorrhage has been definitively excluded (i.e. Imaging has been performed)
+The 2023 National Clinical Guideline for Stroke broadened the potential inclusion criteria.
+it recommends that patients with an acute ischaemic stroke, regardless of age or stroke severity, who were last known to be well more than 4.5 hours earlier, should be considered for thrombolysis with alteplase if:
+treatment can be started between 4.5 and 9 hours of known onset, or within 9 hours of the midpoint of sleep when they have woken with symptoms, AND
+they have evidence from CT/MR perfusion (core-perfusion mismatch) or MRI (DWI-FLAIR mismatch) of the potential to salvage brain tissue
+this should be irrespective of whether they have a large artery occlusion and require mechanical thrombectomy.
+there are specific criteria in the guidelines that determine the imagine criteria that determine whether thrombolysis should be performed
+Blood pressure should be lowered to 185/110 mmHg before thrombolysis.
+Contraindications to thrombolysis
+Absolute
+Relative
+- Previous intracranial haemorrhage
+- Seizure at onset of stroke
+- Intracranial neoplasm
+- Suspected subarachnoid haemorrhage
+- Stroke or traumatic brain injury in preceding 3 months
+- Lumbar puncture in preceding 7 days
+- Gastrointestinal haemorrhage in preceding 3 weeks
+- Active bleeding
+- Oesophageal varices
+- Uncontrolled hypertension >200/120mmHg
+- Pregnancy
+- Concurrent anticoagulation (INR >1.7)
+- Haemorrhagic diathesis
+- Active diabetic haemorrhagic retinopathy
+- Suspected intracardiac thrombus
+- Major surgery / trauma in the preceding 2 weeks
+Thrombectomy for acute ischaemic stroke
+Mechanical thrombectomy is an exciting new treatment option for patients with an acute ischaemic stroke. NICE incorporated recommendations into their 2019 guidelines. It is important to remember the significant resources and senior personnel to provide such a service 24 hours a day. NICE recommend that all decisions about thrombectomy take into account a patient's overall clinical status:
+NICE recommend a pre-stroke functional status of less than 3 on the modified Rankin scale and a score of more than 5 on the National Institutes of Health Stroke Scale (NIHSS)
+Offer thrombectomy as soon as possible and within 6 hours of symptom onset, together with intravenous thrombolysis (if within 4.5 hours), to people who have:
+acute ischaemic stroke and
+confirmed occlusion of the
+proximal anterior circulation
+demonstrated by computed tomographic angiography (CTA) or magnetic resonance angiography (MRA)
+Offer thrombectomy as soon as possible to people who were last known to be well between 6 hours and 24 hours previously (including wake-up strokes):
+confirmed occlusion of the
+proximal anterior circulation
+demonstrated by CTA or MRA and
+if there is the potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume
+Consider
+thrombectomy together with intravenous thrombolysis (if within 4.5 hours) as soon as possible for people last known to be well up to 24 hours previously (including wake-up strokes):
+who have acute ischaemic stroke and confirmed occlusion of the
+proximal posterior circulation (that is, basilar or posterior cerebral artery)
+demonstrated by CTA or MRA and
+if there is the potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume
+Secondary prevention
+Recommendations from NICE include:
+clopidogrel
+is now recommended by NICE ahead of combination use of aspirin plus modified-release (MR) dipyridamole in people who have had an ischaemic stroke
+aspirin is recommended after an ischaemic stroke only if clopidogrel is contraindicated or not tolerated
+Carotid endarterectomy is recommend if the patient has suffered a stroke or
+TIA
+in the carotid territory and is not severely disabled
+should only be considered if the stenosis > 50% according to North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria
+- it should be noted that previous guidelines have used other reporting methods, that have resulted in different cut-offs, e.g. European Carotid Surgery Trial (ECST) with a cut-off of 70%
+it should be performed as soon as possible within 7 days
+Improve
+Complications
+Neurological Complications
+Hemiparesis and
+hemiplegia
+:
+Partial or complete paralysis affecting one side of the body is a common outcome following a stroke.
+Aphasia
+:
+Patients may experience difficulties with speech and language comprehension. Broca's aphasia results in non-fluent, effortful speech, while Wernicke's aphasia leads to fluent but nonsensical speech and impaired comprehension.
+Dysphagia:
+Swallowing difficulties can increase the risk of aspiration pneumonia. Assessment and management by a speech and language therapist are often necessary.
+Cognitive impairment:
+Post-stroke cognitive impairment can range from mild cognitive changes to severe dementia, impacting memory, attention, spatial awareness, and executive function.
+Physical Complications
+Falls:
+Due to muscle weakness, balance problems or altered spatial perception, patients are at an increased risk of falls post-stroke.
+Pain:
+Central post-stroke pain (CPSP) due to thalamic lesions can be challenging to manage. Other types of pain include shoulder pain due to immobility or spasticity.
+Incontinence:
+Both urinary and faecal incontinence can occur after stroke. Bladder training programmes and continence promotion strategies can be beneficial.
+Vascular Complications
+Venous thromboembolism (VTE):
+Immobility following a stroke increases the risk of deep vein thrombus (DVT) and subsequent pulmonary embolism (PE). Prophylactic anticoagulation should be considered.
+Cardiovascular events:
+Stroke patients are at an increased risk of myocardial infarction, congestive heart failure, and arrhythmias. Regular cardiovascular monitoring is essential.
+Psychological Complications
+Depression and anxiety:
+Post-stroke depression (PSD) and anxiety disorders can occur. Psychological interventions and pharmacotherapy may be necessary for treatment.
+Emotional lability:
+Characterised by rapid, often exaggerated changes in mood, emotional lability can cause significant distress for patients and caregivers.
+Infection Complications
+Pneumonia:
+Aspiration pneumonia is a common complication due to dysphagia. Early mobilisation, good oral hygiene, and swallow assessment can reduce this risk.
+Urinary tract infections (UTIs):
+These are frequent in stroke patients due to catheter use or urinary retention. Strict aseptic technique during catheterisation can minimise UTI occurrence.
+Improve
+References
+NICE - 2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+Clinical Knowledge Summaries - Stroke and TIA guidelines
+Clinical Knowledge Summaries - Stroke and TIA guidelines
+Royal College of Physicians -  Thrombolysis and thrombectomy for acute ischaemic stroke
+National Clinical Guideline for Stroke - 2023 National Clinical Guideline for Stroke
+Age and Ageing - Interesting article on managing blood pressure during acute stroke
+Neurology
+Stroke

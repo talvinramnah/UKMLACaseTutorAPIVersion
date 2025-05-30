@@ -1,0 +1,150 @@
+Toxic multinodular goitre
+Toxic multinodular goitre
+Toxic multinodular
+goitre
+, also known as Plummer's disease, describes a thyroid gland that contains several autonomously functioning thyroid nodules resulting in hyperthyroidism. These nodules function independent of thyroid-stimulating hormone (TSH) and are often benign. However, non-functioning thyroid nodules in the same goitre could be malignant.
+Toxic nodular goitre accounts for up to 15% of cases of hyperthyroidism, second only to
+Graves' disease
+. This percentage is higher in iodine-deficient regions, and evidence of this must be sought in the clinical history. It is common among women, especially among the elderly, but can present as early as in their 40s. Accidental or previous exposure to radiation, sudden increase in iodine intake - either via diet, or iodine-containing agents (amiodarone, contrast, etc) may also be risk factors.
+Patients usually present with a long history of goitre, and a few typical symptoms of hyperthyroidism i.e.
+weight loss
+,
+tremor
+, cardiac arrhythmias. Management involves irradiation or surgical treatment.
+Last updated: 25
+th
+May 2023
+Epidemiology
+Incidence: 7.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Graves' disease
+7.14
+Toxic multinodular
+goitre
+1
+Toxic thyroid nodule (adenoma)
+0.29
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+- The history of a multinodular
+goitre
+involves variable growth of individual nodules, which may progress to haemorrhage and degeneration, then followed by healing and fibrosis. Calcification may be found in areas of previous haemorrhage.
+Some nodules may develop autonomous function, which is conferred by thyroid cell germline mutations of the thyrotropin (or TSH) receptor. This leads to hyperfunctioning nodules. Non-functioning nodules in the same goitre, lack these mutations.
+Iodine deficiency, head & neck irradiation and an age >40 are key risk factors.
+Improve
+Pathophysiology
+The pathophysiology of toxic MNG and toxic adenoma is similar, in terms of the germline mutations that cause them.
+Germline mutations â→  Increased cAMP levels â→  cAMP is the thyroid effector cell, which transduces TSH receptor signals â→ Increased stimulation of thyroid cell growth and function â→ Growth and excess function of thyrocytes
+Other mechanisms include altered G protein signalling, thyrocyte heterogeneity, as well as, genetic and environmental influences like iodine deficiency.
+Improve
+Clinical features
+Patients may present with sub-clinical hyperthyroidism, accompanied by swelling of the thyroid gland.
+Younger patients may present with classic hyperthyroid symptoms i.e. hyperphagia,
+weight loss
+,
+sweating
+,
+heat intolerance
+, nervousness,
+palpitations
+, oligomenorrhoea or hyperdefecation.
+Older patients may present with mood change, weight loss, or atrial fibrillation alone.
+Physical findings may include warm skin, stare and/or
+tremor
+.
+Excess thyroid hormone results in increased contraction of the levator palpebrae muscle of the eyelid, causing lid lag.
+Occasionally, patients present with dysphagia, hoarseness, dyspnoea, cough or a choking sensation caused by neck compression. However, in most people, these symptoms are often caused by oesophageal disorders, heart disease and pulmonary disease, and should, therefore, be excluded early on.
+The nodular nature of the
+goitre
+helps differentiate it from
+Graves' disease
+which is more diffuse.
+Improve
+Investigations
+A diagnosis of toxic MNG is made based on
+signs & symptoms, biochemical evidence of hyperthyroidism,
+and a
+radioisotope scan with *typical* uptake and appearance.
+Biochemistry
+TSH
+is the initial screening test.
+If TSH is suppressed, T3/T4 should be measured. The preferred tests are:
+Free T4
+, and
+Total T3 plus a measure of binding.
+Generally, Free T4 is elevated. Some patients may have sub-clinical hyperthyroidism with suppressed TSH and normal level of thyroid hormones.
+In the absence of
+Graves' disease
+stigmata and TSH receptor antibodies, and when biochemical hyperthyroidism is confirmed, thyroid scan and uptake are indicated.
+Radioisotope scan
+In toxic MNG, the
+scan shows multiple hot and cold areas
+, consistent with areas of autonomy and suppression.
+I-123 is the preferred isotope, and its
+uptake
+is typically lower than Graves' disease, and is often within
+normal range.
+Tc-99 pertechnetate scan is an alternative for thyroid imaging, but it carries the risk of false-positives and uptake cannot be measured.
+Others
+ECG may be necessary for suspected dysrhythmia.
+CT non-contrast Neck may be indicated for pre-operative evaluation.
+goitre
+- Âe Image used on license from Radiopaedia">
+Improve
+Differential diagnosis
+Toxic MNGs primarily present with hyperthyroid symptoms and a
+goitre
+. The list of differentials below share these symptoms but can be excluded by specific investigations.
+Simple (non-toxic) goitre
+Normal TFTs, whereas Toxic MNG has abnormal TFTs.
+Graves' disease
+Graves' is an autoimmune condition and usually presents with more marked hyperthyroid symptoms than toxic MNG.
+A positive TSH receptor antibody assays is specific to, and diagnostic of Graves' disease.
+Toxic adenoma
+Single
+, generally large, palpable, benign nodule which presents in
+younger
+(<40-50 y/o) patients.
+Diagnosed by uptake scan showing single hot area and suppressed extra-nodular thyroid tissue.
+Thyroiditis
+May be associated with
+anterior neck pain and tenderness
+or present post-partum. Absent or low uptake on the scan.
+CRP and ESR are raised.
+Iodine-associated hyperthyroidism
+History of iodine load, low uptake on I-123 scan.
+Functional thyroid cancer (rare)
+Hyperthyroidism is only rarely caused by bulky metastatic follicular thyroid cancer.
+Total body scan would show radioactive iodine uptake over metastases.
+Improve
+Management
+Since the hyperthyroidism doesn't remit spontaneously, the aim of treatment is to reduce these effects. A reduction in
+goitre
+size would also be achieved by these treatment modalities.
+Surgery
+and
+radioactive iodine (RI)
+are both supported by level IV evidence in the treatment of solitary toxic nodules and toxic multinodular goitre. NICE guidelines (2019) suggest offering anti-thyroid treatment (carbimazole) and supportive care while awaiting specialist assessment.
+Beta-blockers may be used for symptomatic relief while waiting for definitive treatment plans - note that they are contraindicated in those with bradycardia and heart block. Pregnant women are managed by a multi-disciplinary team, who would commence anti-thyroid medication.
+Radioactive iodine
+Radioactive iodine therapy (I-131) is 1st line treatment in non-lactating, non-pregnant adults with no evidence of mass-effect. It should be used in caution in older people, especially those with heart disease.
+Surgery (Thyroidectomy)
+Swelling of the thyroid gland may obstruct breathing or swallowing, necessitating surgery to remove the excess tissue. The cardiac symptoms may also result in congestive heart failure.
+Total thyroidectomy is an option for those who are resistant to, or decline radioactive iodine or simply prefer surgery. Note that recurrent hyperthyroidism is possible, and subsequent hypothyroidism is likely. Hypocalcaemia due to hypoparathyroidism may be transient or permanent.
+Thyroid disease: assessment & management. NICE [NG145] 2019
+Improve
+Endocrinology
+Toxic multinodular goitre

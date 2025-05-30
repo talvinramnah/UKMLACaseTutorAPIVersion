@@ -1,0 +1,176 @@
+Lichen sclerosus
+Lichen sclerosus
+Lichen sclerosus is a chronic, inflammatory dermatosis of unknown aetiology that predominantly affects the anogenital region. It can occur in all age groups but is most common in postmenopausal women. The clinical presentation includes white, atrophic patches and plaques that may be associated with pruritus,
+dyspareunia
+, and discomfort.
+Extragenital lichen sclerosus
+typically presents as porcelain-white papules and plaques on the upper body. Histologically, it is characterised by hyperkeratosis, epidermal atrophy, and a band-like lymphocytic infiltrate in the dermis.
+Malignant transformation to squamous cell carcinoma occurs in 3-5% of cases; therefore regular follow-up is essential. Treatment primarily involves potent topical corticosteroids or calcineurin inhibitors for symptom control and disease progression prevention. Surgical intervention may be necessary for meatal stenosis or phimosis in males or severe introital stenosis preventing sexual intercourse in females.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Condition
+Relative
+incidence
+Vaginal candidiasis
+40.00
+Atrophic vaginitis
+10.00
+Lichen sclerosus
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Lichen sclerosus (LS) is a chronic inflammatory dermatosis characterised by porcelain-white atrophic patches. The precise aetiology remains unclear, but several potential risk factors and underlying causes have been identified.
+Genetic Predisposition
+There is evidence to suggest that LS may have a genetic component. It has been observed to occur in families, suggesting possible autosomal dominant inheritance with variable penetrance.
+Hormonal Factors
+The role of hormonal factors in the development of LS is supported by its predilection for postmenopausal women. However, it can also occur in prepubertal girls and males of all ages, indicating that hormones are not the sole factor involved.
+Autoimmunity
+LS is often associated with autoimmune diseases such as thyroid disease, vitiligo, pernicious anaemia and diabetes mellitus. This suggests an autoimmune pathogenesis for LS.
+The presence of anti-extracellular matrix protein 1 autoantibodies (anti-ECM1) in patients with LS further supports this theory.
+Infections
+Certain infections have been proposed as potential triggers for LS. For instance, spirochaetes (
+Borrelia burgdorferi
+) have been implicated in some cases but their role remains controversial.
+Koebner Phenomenon
+Some cases of LS are thought to be caused by the Koebner phenomenon, where skin lesions appear at the site of injury or trauma.
+Occlusion and Friction
+LS predominantly affects the anogenital area which is subject to occlusion and friction, suggesting these may be contributing factors.
+The multifactorial nature of LS aetiology necessitates a comprehensive approach to patient history taking and examination. Further research is required to fully elucidate the complex interplay between genetic, hormonal, autoimmune, infectious, mechanical and environmental factors in LS pathogenesis.
+Improve
+Pathophysiology
+Lichen sclerosus is a chronic inflammatory dermatosis of unknown aetiology, predominantly affecting the anogenital area. Its pathophysiology is complex and multifactorial, involving genetic predisposition, autoimmunity, hormonal influences and local factors.
+Genetic Predisposition
+There is evidence suggesting the role of genetic susceptibility in lichen sclerosus. Patients with family history of lichen sclerosus are at increased risk, implying a hereditary component.
+Autoimmunity
+The association between lichen sclerosus and autoimmune diseases such as thyroid disease, vitiligo and alopecia areata suggests an autoimmune component to its pathogenesis. This is further supported by the presence of circulating autoantibodies against extracellular matrix protein 1 (ECM1).
+Inflammation is initiated by T cell-mediated immune response. Activated CD4+ T cells infiltrate into the dermis leading to inflammation and sclerosis. This process is mediated by various cytokines including interleukin-2 (IL-2), interferon-gamma (IFN-γ) and tumour necrosis factor-alpha (TNF-α).
+Hormonal Influences
+Lichen sclerosus often manifests post-menopausally in women suggesting hormonal influence on its pathogenesis. However, the exact role of hormones remains unclear.
+Local Factors
+Mechanical trauma or irritation may trigger lichen sclerosus in genetically predisposed individuals due to koebnerisation phenomenon.
+Infections may also play a role in triggering immune response leading to inflammation and sclerosis. However, this theory remains controversial.
+These mechanisms lead to characteristic histological features of lichen sclerosus which include hyperkeratosis, epidermal atrophy, basal cell vacuolisation and a band-like lymphocytic infiltrate in the upper dermis. This results in clinical manifestations such as white patches with a porcelain-like appearance, telangiectasia, easy bruising and fissuring.
+Complications
+Long-standing inflammation and scarring can lead to significant anatomical changes such as phimosis in males and fusion of labia minora in females.
+Lichen sclerosus carries a small risk of malignant transformation to squamous cell carcinoma due to chronic inflammation and cellular atypia.
+Improve
+Clinical features
+The stereotypical presentation of Lichen sclerosus often involves a middle-aged or elderly woman presenting with pruritus, discomfort, or pain in the vulvar region. However, it is important to note that this condition can affect individuals of any age and gender. While the anogenital area is most commonly affected, extragenital lichen sclerosus can also occur.
+Anogenital Lichen Sclerosus
+Pruritus:
+This is typically the earliest and most common symptom. It may be severe and unresponsive to topical treatments.
+Dyspareunia
+:
+Pain during sexual intercourse is a common complaint due to atrophic changes leading to skin fragility and fissures.
+Pain and discomfort:
+These are frequently reported symptoms which may be exacerbated by secondary infection or trauma.
+Physical changes:
+The skin may appear pale or white with a shiny surface. There may be visible thinning (atrophy) or thickening (hyperkeratosis). Wrinkling of the skin may disappear (effacement), especially noticeable on the labia minora in women or foreskin in men.
+Anatomic alterations:
+Chronic disease can lead to significant architectural distortion including phimosis in males, narrowing of the vaginal introitus, adhesions, fusion of labia minora, clitoral hood obliteration and burying of the clitoris in females.
+Extragenital Lichen Sclerosus
+This form typically presents as asymptomatic white patches with follicular delling (plugging). The plaques might have a smooth surface but hyperkeratotic papules could also be present.
+Most common sites of involvement are the trunk, proximal extremities and scalp. However, any part of the body can be affected excluding the palms and soles.
+Associated Symptoms
+Lichen sclerosus may coexist with other autoimmune conditions such as thyroid disease, vitiligo, alopecia areata and pernicious anaemia. Therefore, associated symptoms related to these conditions may also be present.
+A small proportion of patients with longstanding lichen sclerosus might develop squamous cell carcinoma (SCC). Thus, any changes in an existing lesion like rapid growth or ulceration should raise suspicion for malignant transformation.
+Improve
+Diagnosis
+The diagnosis is usually made on clinical grounds but a biopsy may be performed if atypical features are present.
+The RCOG advises the following
+Skin biopsy is not necessary when a diagnosis can be made on clinical examination. Biopsy is required if the woman fails to respond to treatment or there is clinical suspicion of VIN or cancer.
+and the British Association of Dermatologists state the following:
+A confirmatory biopsy, although ideal, is not always practical, particularly in children. It is not always essential when the clinical features are typical. However, histological examination is advisable if there are atypical features or diagnostic uncertainty and is mandatory if there is any suspicion of neoplastic
+change. Patients under routine follow-up will need a biopsy if:
+(i) there is a suspicion of neoplastic change, i.e. a persistent area of hyperkeratosis, erosion or erythema, or new warty or papular lesions;
+(ii) the disease fails to respond to adequate treatment;
+(iii) there is extragenital LS, with features suggesting an overlap with morphoea;
+(iv) there are pigmented areas, in order to exclude an abnormal melanocytic proliferation;
+and
+(v) second-line therapy is to be used.
+Improve
+Differential diagnosis
+The differential diagnosis of lichen sclerosus (LS) can be challenging due to its diverse clinical manifestations. However, three conditions that may mimic LS include lichen planus (LP), vitiligo and psoriasis. These entities are distinguished based on their unique clinical features and histopathological findings.
+Lichen Planus
+Clinical Presentation:
+LP presents with violaceous, flat-topped papules often accompanied by Wickham's striae - fine, reticular white lines seen on the surface of the papules. Unlike LS, it typically involves mucous membranes such as oral and genital areas causing erosive lesions. Pruritus is common but usually less intense than in LS.
+Histopathology:
+The histopathological examination of LP reveals a band-like lymphocytic infiltrate at the dermoepidermal junction along with hypergranulosis and increased melanin in the basal layer. In contrast, LS is characterised by a homogenised collagen layer beneath an atrophic epidermis.
+Vitiligo
+Clinical Presentation:
+Vitiligo is characterised by well-demarcated, depigmented macules or patches that can occur anywhere on the body. It lacks the pruritus and textural changes commonly seen in LS.
+Histopathology:
+Histologically, vitiligo displays a complete absence of melanocytes in affected areas, while LS shows hyperkeratosis, epidermal atrophy and a band-like inflammatory infiltrate in the upper dermis.
+Psoriasis
+Clinical Presentation:
+Psoriasis often manifests as well-defined erythematous plaques with silvery scales, typically on extensor surfaces and the scalp. Genital involvement can occur but is less common. Unlike LS, it rarely causes significant pruritus or pain.
+Histopathology:
+The histology of psoriasis is characterised by parakeratosis, acanthosis and elongation of rete ridges, which are not observed in LS.
+Improve
+Management
+Topical corticosteroids
+The mainstay of treatment for lichen sclerosus (LS) is high-potency topical corticosteroids (TCS), specifically clobetasol propionate 0.05% ointment. Apply once daily for four weeks then reduce frequency to alternate days for four weeks followed by twice weekly application for maintenance therapy.
+Consider additional therapies based on individual patient needs:
+Emollients:
+Apply regularly to alleviate dryness and pruritus associated with LS.
+Sexual health:
+Address sexual dysfunction by referring patients to a specialist, if necessary.
+Psychological support:
+Offer counselling or psychotherapy for patients experiencing anxiety, depression, or body image issues related to LS.
+Second-line Treatment
+In cases where topical corticosteroids are contraindicated or not tolerated, consider alternative treatments:
+Topical calcineurin inhibitors:
+Tacrolimus 0.1% ointment or pimecrolimus 1% cream can be used as alternatives
+Topical retinoids:
+Tretinoin 0.025-0.1% cream may be considered but should be used cautiously due to potential irritation.
+Monitoring and Follow-up
+Regular review:
+Schedule follow-up appointments every three to six months initially, then annually once the disease is stable.
+Monitoring for complications:
+Perform regular clinical assessments for scarring, phimosis, and malignancy (e.g., vulvar intraepithelial neoplasia in women and penile intraepithelial neoplasia in men).
+Biopsy:
+Consider biopsy if there is suspicion of malignancy or if the diagnosis of LS remains uncertain.
+Surgical Management
+Circumcision:
+Indicated in males with phimosis due to LS that does not respond to medical management.
+Vulvar surgery:
+Reserved for cases with significant scarring or distortion causing functional impairment; reconstructive surgery may be considered but should be performed by an experienced surgeon.
+Excision of malignant lesions:
+Perform surgical excision with clear margins for any confirmed malignancies arising within LS-affected areas.
+Improve
+Complications
+Lichen sclerosus, despite being a benign condition, can lead to a variety of complications if left untreated or unmanaged. These complications can significantly impact the quality of life and may potentially increase the risk for malignancies.
+Sexual Dysfunction
+Due to repeated inflammation and scarring in genital lichen sclerosus, patients may experience sexual dysfunction. This can manifest as
+dyspareunia
+or loss of libido. In men, urethral stricture may occur leading to urinary difficulties.
+Squamous Cell Carcinoma (SCC)
+There is an increased risk for developing squamous cell carcinoma in patients with long-standing lichen sclerosus. Although the overall risk remains low, it is critical to monitor these patients closely for any signs of malignant transformation.
+Anogenital Malignancy
+In women with vulvar lichen sclerosus, there is an associated increased risk for vulvar squamous cell carcinoma. Regular gynaecological examinations are recommended.
+Psychological Impact
+The chronic nature of the disease coupled with its symptomatic presentation like pruritus and pain can have a significant psychological impact on patients leading to anxiety and depression.
+Fissuring and Scarring
+Persistent inflammation can lead to fissuring and scarring in affected areas. In severe cases, this could result in architectural changes in female genitalia such as phimosis, clitoral hood fusion and introital stenosis leading to difficulties during intercourse or urination.
+Complications in Children
+In prepubescent girls, lichen sclerosus can lead to labial adhesion or agglutination. Regular follow-up is necessary to prevent long-term complications and monitor for any signs of sexual abuse as the condition can mimic its signs.
+Improve
+References
+British Association for Sexual Health and HIV - 2014 UK National Guideline on the Management of Vulval Conditions
+British Association of Dermatologists - 2018 Lichen sclerosus guidelines
+DermNet NZ - Lichen sclerosus
+Dermatology
+Lichen sclerosus

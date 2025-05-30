@@ -1,0 +1,158 @@
+Glue ear
+Glue ear
+Glue ear, also known as otitis media with effusion, is a common condition in children that occurs when fluid accumulates in the middle ear. This can cause
+hearing loss
+, speech and language delays, and behavioural problems. The condition is usually self-limiting and resolves within a few months, but in some cases, it can persist for longer periods and require intervention.
+The diagnosis of glue ear is based on clinical examination and audiometry. Treatment options include watchful waiting, antibiotics, and surgical intervention such as myringotomy or grommet insertion. The choice of treatment depends on the severity and duration of symptoms, age of the child, and parental preference.
+It is important to educate parents about the condition and its potential impact on their child's development. Regular follow-up appointments are necessary to monitor the child's hearing and speech progress. Referral to an audiologist or speech therapist may be necessary in some cases.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Glue ear
+1
+Acute otitis media
+0.25
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Glue ear, medically referred to as otitis media with effusion (OME), is a common condition characterised by the accumulation of fluid in the middle ear. Its aetiology is multifactorial and complex, involving both environmental and genetic factors.
+Risk Factors
+Age:
+OME predominantly affects children between 1-3 years of age, with prevalence decreasing significantly after six years. The Eustachian tubes' structure and function in younger children predispose them to OME.
+Seasonality:
+There's an increased incidence during winter and early spring months, correlating with upper respiratory tract infection rates.
+Atopy:
+Atopic conditions like asthma, eczema, and allergic rhinitis have been linked to increased risk of developing OME due to shared pathophysiological mechanisms involving mucosal inflammation.
+Craniofacial abnormalities:
+Conditions such as cleft palate or Down syndrome that affect the anatomy or function of the Eustachian tube can increase susceptibility to OME.
+Underlying Causes
+The primary cause of glue ear is Eustachian tube dysfunction leading to negative pressure in the middle ear, promoting transudation of fluid from the surrounding tissues. Several factors contribute to this dysfunction:
+Infections:
+Upper respiratory tract infections caused by organisms like
+Streptococcus pneumoniae
+,
+Haemophilus influenzae
+, and
+Moraxella catarrhalis
+, can cause inflammation and obstruction of the Eustachian tube, predisposing to OME.
+Passive smoking:
+Exposure to tobacco smoke can cause mucosal inflammation and impair the ciliary function of the Eustachian tube, leading to poor drainage and ventilation of the middle ear.
+Bottle feeding:
+Infants fed in a supine position may have formula enter their Eustachian tubes, causing inflammation and blockage. This is less likely with breastfeeding due to differences in sucking mechanisms and maternal antibodies' protective effect.
+Improve
+Pathophysiology
+The pathophysiology of glue ear, medically termed as otitis media with effusion (OME), is a multifactorial process, primarily involving Eustachian tube dysfunction, inflammatory processes, and alterations in middle ear pressure.
+Eustachian Tube Dysfunction:
+The Eustachian tube facilitates ventilation and drainage of the middle ear. In OME, functional or anatomical abnormalities lead to Eustachian tube dysfunction. This results in impaired equalisation of air pressure within the middle ear cavity relative to atmospheric pressure. The negative pressure created can cause retraction of the tympanic membrane and pooling of secretions within the middle ear.
+Inflammatory Processes:
+OME often follows an episode of
+acute otitis media
+(
+Streptococcus pneumoniae
+,
+Haemophilus influenzae
+, and
+Moraxella catarrhalis
+are common pathogens). Persistent inflammation post-infection leads to increased mucus production by goblet cells and hypertrophy of mucosal glands in the middle ear. This overproduction outpaces drainage capacity, leading to an accumulation of fluid.
+Osmotic Gradient:
+The accumulated fluid contains high concentrations of glycoproteins and ions which create an osmotic gradient that draws water into the middle ear from surrounding tissues, further exacerbating effusion.
+Biofilm Formation:
+Chronicity is often associated with biofilm formation by bacteria on the mucosal surface. Biofilms can resist antibiotic treatment and host immune responses, contributing to persistence or recurrence of OME.
+This sequence results in a viscous fluid-filled middle ear - hence 'glue ear'. The fluid dampens the vibrations of the tympanic membrane and ossicles, leading to conductive
+hearing loss
+. If left untreated, chronic OME can cause structural changes in the tympanic membrane such as atrophy or retraction pockets, and may lead to complications including cholesteatoma or permanent hearing loss.
+Improve
+Clinical features
+The stereotypical presentation of glue ear, also known as otitis media with effusion (OME), often involves a child between the ages of two to five years who presents with hearing difficulties. This is often noticed by parents or teachers who observe that the child is not responding to sounds or instructions as expected. The affected child may also exhibit speech and language delay due to impaired auditory input.
+Clinical Features
+Patients with glue ear may present with a range of symptoms, which can be broadly categorised into auditory and non-auditory manifestations:
+Auditory symptoms:
+These are the most common presenting features. They include:
+Hearing loss
+: This is typically mild to moderate, bilateral and conductive in nature. It may be fluctuating depending on the severity and chronicity of middle ear effusion.
+Tinnitus: Some patients, especially older children and adults, may complain of ringing or buzzing noises in the ears.
+Non-auditory symptoms:
+These are less specific but can provide additional clues towards the diagnosis:
+Speech and language delay: Particularly in younger children where early detection and intervention are paramount for normal development.
+Behavioural changes: Including reduced attention span, frustration or irritability due to difficulty in hearing.
+Balance problems: Rarely, patients might report episodes of imbalance or clumsiness due to vestibular involvement.
+Otoscopic Examination
+An otoscopic examination will typically reveal a dull or retracted tympanic membrane with limited mobility on pneumatic otoscopy. There may be visible bubbles or an air-fluid level behind the tympanic membrane indicating the presence of middle ear effusion.
+Improve
+Differential diagnosis
+The differential diagnosis for glue ear, or otitis media with effusion (OME), primarily includes
+acute otitis media
+(AOM), chronic suppurative otitis media (CSOM), and Eustachian tube dysfunction (ETD). These conditions can present similarly to OME but have distinct clinical features that differentiate them.
+Acute Otitis Media (AOM)
+: Unlike OME, which is characterised by a non-infected effusion in the middle ear, AOM involves an active infection. Patients with AOM typically present with sudden onset of symptoms such as ear pain, fever, and general malaise. On otoscopic examination, the tympanic membrane appears red and bulging. Pus may be visible behind the eardrum or draining from the ear canal in case of perforation. In contrast, glue ear presents with
+hearing loss
+or speech delay without signs of acute inflammation.
+Chronic Suppurative Otitis Media (CSOM)
+: CSOM is defined as persistent purulent otorrhoea through a perforated tympanic membrane for more than two weeks. It differs from OME in its chronicity and presence of active infection. The most common symptom is a continuous foul-smelling discharge from the affected ear. Hearing loss may also occur due to damage to the ossicles or cochlea but it's typically more severe than in glue ear. Otoscopic findings include a perforated tympanic membrane and purulent discharge within the middle ear or external auditory canal.
+Eustachian Tube Dysfunction (ETD)
+: This condition results from abnormal patency or function of the Eustachian tube leading to negative pressure within the middle ear. Symptoms often include aural fullness, tinnitus, and fluctuating hearing loss. Some patients may also experience vertigo or imbalance. Unlike OME, ETD does not typically cause a persistent middle ear effusion. On otoscopic examination, the tympanic membrane may appear retracted but is otherwise normal.
+It is essential to differentiate between these conditions as their management strategies vary significantly. While OME often resolves spontaneously or requires conservative management, AOM might necessitate antibiotic therapy and CSOM often requires surgical intervention. Similarly, ETD is primarily managed through manoeuvres to equalise pressure in the middle ear or treatment of underlying nasal conditions.
+Improve
+Management
+Conservative Management
+Watchful waiting:
+In the majority of cases, glue ear resolves spontaneously within three months without intervention. Therefore, watchful waiting is often recommended as the initial management approach for uncomplicated cases. During this period, it is essential to monitor the patient's symptoms and provide regular follow-up appointments to assess changes in hearing status.
+Medical treatment:
+While there is limited evidence supporting pharmacological interventions for glue ear, some studies suggest that systemic or topical nasal corticosteroids may have a modest effect on resolution rates. However, these benefits should be weighed against potential side effects before prescribing such treatments.
+Autoinflation:
+Encouraging patients to perform autoinflation techniques such as Valsalva manoeuvre or Politzerisation may help improve Eustachian tube function and promote resolution of glue ear; however, further research is needed to confirm their efficacy.
+Surgical intervention may be considered if conservative management fails or if there are complications such as persistent
+hearing loss
+or recurrent
+acute otitis media
+episodes.
+Myringotomy and grommet insertion:
+This procedure involves making a small incision in the tympanic membrane (myringotomy) and inserting a ventilation tube (grommet) into the middle ear to equalise pressure and facilitate drainage of accumulated fluid. Grommets typically fall out spontaneously after 6-12 months, during which time they must be monitored for complications such as otorrhoea, tympanic membrane perforation or scarring.
+Adenoidectomy:
+In cases of recurrent glue ear or when concurrent adenoidal hypertrophy is present, adenoidectomy may be beneficial in reducing the frequency of otitis media episodes by improving Eustachian tube function.
+Tympanostomy and balloon dilation:
+This procedure involves inserting a tympanostomy tube through the eardrum and inflating a small balloon to dilate the Eustachian tube. While some studies have shown promising results, further research is required to establish its efficacy and safety profile.
+Improve
+Complications
+Glue ear, also known as otitis media with effusion (OME), can lead to several complications if left untreated. It's important to recognise these potential complications and manage them appropriately.
+Most likely complications:
+Hearing loss
+:
+The presence of a thick, sticky fluid in the middle ear can cause conductive hearing loss. This is usually temporary but chronic OME may result in permanent damage to the middle ear structures leading to long-term hearing impairment.
+Speech and language delay:
+Prolonged periods of hearing loss in children can lead to delays in speech and language development. This may have further impacts on academic performance and social interaction.
+Less common complications:
+Tympanic membrane atrophy or retraction:
+Chronic OME can lead to changes in the tympanic membrane, including atrophy or retraction pockets, which may predispose patients to recurrent episodes of
+acute otitis media
+or cholesteatoma formation.
+Bacterial superinfection:
+Although OME is often sterile, it can become secondarily infected by bacteria such as
+Streptococcus pneumoniae
+,
+Haemophilus influenzae
+, or
+Moraxella catarrhalis
+. This results in acute otitis media (AOM) with symptoms including pain, fever and irritability.
+Mastoiditis or meningitis:
+In rare cases, infection can spread from the middle ear to surrounding structures leading to serious conditions like mastoiditis (inflammation of the mastoid bone) or meningitis (inflammation of the meninges).
+Improve
+References
+Clinical Knowledge Summaries - Otitis media with effusion
+Ear, nose and throat
+Glue ear

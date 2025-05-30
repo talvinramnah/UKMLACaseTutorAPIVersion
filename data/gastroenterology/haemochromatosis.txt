@@ -1,0 +1,309 @@
+Haemochromatosis
+Haemochromatosis
+Haemochromatosis is an iron storage disorder in which iron depositions in multiple organs (such as the liver, skin, pituitary, heart and pancreas) leading to oxidative damage. It is the most common genetic condition in the UK but may initially present with non-specific symptoms, leading to under-diagnosis.
+Haemochromatosis can be primary (hereditary) or secondary (acquired) and classically presents in white, middle-aged males. Progressive iron deposition and organ damage leads to a clinical spectrum beginning with non-specific symptoms of
+fatigue
+, arthralgias, hypogonadism and skin bronzing. Development of further organ dysfunction can lead to complications such as
+cirrhosis
+and
+hepatocellular carcinoma
+,
+diabetes mellitus
+,
+cardiomyopathy
+and heart failure.
+Last updated: 16
+th
+May 2024
+Epidemiology
+Incidence: 1.25 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Non-alcoholic fatty liver disease
+264.00
+Alcoholic liver disease
+16.00
+Haemochromatosis
+1
+Wilson's disease
+0.08
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The major cause of hereditary haemochromatosis is due to
+autosomal recessive
+mutations to the haemochromatosis (HFE) gene on chromosome 6.
+The two main mutant alleles are C282Y and H63D.
+Approximately 85-90% of HFE patients are homozygous for the C282Y allele
+HFE mutations exhibit
+low penetrance
+:
+Estimated 14% penetrance for homozygous males
+Penetrance is even lower for females, attributed to menstruation and genetic variation in HLA subtypes (HFE is a HLA protein)
+In addition, the multifactorial nature of the disease complications (such as
+diabetes
+,
+cirrhosis
+and osteoporosis) may account for the fact that less than half of C282Y homozygotes develop significant clinical problems.
+Improve
+Pathophysiology
+Haemochromatosis is hallmarked by increased iron storage and deposition in organs and joints. The underlying reason for increased iron storage determines the specific cause (i.e., primary or secondary).
+Primary haemochromatosis is due to mutations in the HFE gene, each of which alter the regulatory pathways involved in
+hepcidin
+, an acute phase reactant protein that regulates iron stores.
+HFE mutation→decreased hepcidin activity→ increased duodenal/jejunal iron absorption
+and
+release of iron from bone marrow macrophages → iron deposition in cells → Fenton reaction* and hydroxyl free radicals → DNA, lipid and protein damage → organ dysfunction
+*Fenton reaction
+Iron freely undergoes oxidation in cells from Fe2+ to Fe3+ as part of the
+Fenton reaction
+In this process,
+hydroxyl free radicals
+are generated which then cause oxidative damage
+A major mechanism of cell injury is free radical-induced lipid peroxidation which triggers apoptosis
+The classic 'bronze' pigmentation is from iron deposition in skin.
+Improve
+Classification
+Broadly speaking haemochromatosis can be primary (genetic) or secondary (non-genetic).
+Primary haemochromatosis
+Classification is based on the mechanism of inheritance. All mechanisms interfere with the process of macrophage-liver communication, leading to decreased activity of hepcidin.
+Type 1: Hereditary (HFE genotype) haemochromatosis
+The cause over 90% of cases
+Autosomal-recessive mutation to HFE gene (chromosome 6)
+Only present in white populations
+Type 2: Juvenile haemochromatosis: Presents in early adulthood (second and third decades) versus classic middle-aged patients of hereditary haemochromatosis.
+Type 2A mutation of the haemojuvelin gene.
+Type 2B mutation of the hepcidin gene A
+Patients often have hypogonadism and
+cardiomyopathy
+.
+Type 3: Transferrin receptor 2 haemochromatosis
+Autosomal-recessive mutation in transferrin receptor 2 (chromosome 7)
+Condition mimics HFE haemochromatosis clinically
+Type 4: Ferroportin disease
+Type 4A: low transferrin saturation and macrophage iron deposits
+Type 4B: clinically similar to type 1 (HFE) haemochromatosis- high transferrin saturation and iron deposition in liver.
+Other rare forms exist as a result of mutations in the ceruloplasmin gene, transferrin gene, or divalent metal transporter 1 gene.
+Secondary haemochromatosis
+Frequent blood transfusions: each new transfusion introduces new iron which is recycled and stored
+Iron supplementation: over-supplementing, particularly with concurrent vitamin C.
+Diseases of erythropoiesis: ineffective erythropoiesis leads to iron accumulation
+Improve
+Clinical features
+The clinical manifestation of haemochromatosis is often subtle and can span a broad spectrum, often leading to a delay in diagnosis.
+Early Clinical Manifestations
+In the early stages of the disease, symptoms are non-specific and can often be overlooked. The initial signs and symptoms may include:
+Fatigue
+:
+This is one of the most common presenting symptoms, and often the most debilitating. It is usually chronic, non-refreshing and unrelieved by rest.
+Arthralgia:
+Joint pain
+is another common symptom. This typically involves the metacarpophalangeal joints, wrists, knees, and ankles.
+Impaired sexual function:
+Men may experience loss of libido or
+impotence
+due to gonadal failure, while women may experience menstrual irregularities or early menopause.
+Abdominal pain:
+Patients may present with a non-specific, often chronic, abdominal pain. This can be due to
+hepatomegaly
+or pancreatic involvement.
+Mood disturbances:
+Depression and irritability may be early manifestations of the condition.
+Later Clinical Manifestations
+As iron accumulation continues, damage to organs can lead to more severe and characteristic signs of haemochromatosis. These include:
+Skin
+hyperpigmentation
+:
+The skin may become bronzed or greyish due to increased melanin production. This sign is often mistaken for a tan, but is actually due to the combination of iron deposits and increased melanin in the skin.
+Hepatomegaly and
+Cirrhosis
+:
+As iron accumulates in the liver, it can lead to liver enlargement (hepatomegaly) and eventually, cirrhosis. This can present as jaundice, ascites, and signs of portal hypertension.
+Diabetes mellitus
+:
+Damage to pancreatic beta cells can result in insulin deficiency, leading to a form of diabetes known as 'bronze diabetes'.
+Cardiac disease:
+Cardiomyopathy
+due to iron deposition in the myocardium can present as congestive heart failure with signs such as dyspnea, orthopnea, and lower extremity oedema.
+Arthropathy:
+A distinctive form of arthritis can develop, commonly affecting the second and third metacarpophalangeal joints. This can lead to the characteristic 'iron fist' sign, an important clue to the diagnosis.
+Hypogonadism:
+Persistent gonadal dysfunction can lead to signs of hypogonadism in men and women.
+Improve
+Investigations
+The 2018 British Haematology Society guidelines recommend the following investigations for any patient with:
+Clinical features of haemochromatosis
+First degree relatives of hereditary haemochromatosis patients:
+Test
+Positive result
+Serum ferritin
+Raised; >674 picomols/L in men; >449 picomols/L in women
+Transferrin saturation
+> 45%
+Liver function tests
+Raised AST and ALT, likely not more than 2x normal
+Full blood count
+Normal*
+Patients with clinical features, raised transferrin saturation and/or raised serum ferritin should then undergo molecular testing for
+HFE gene mutation
+. A C282Y mutation on the HFE gene (chromosome 6) is the most common cause of hereditary haemochromatosis.
+Clinical evidence of liver involvement and/or serum ferritin >2247pmol/L must be referred to hepatology for
+liver biopsy
+to estimate hepatocyte iron content and assess extent of fibrosis or
+cirrhosis
+.
+Depending on the presenting complaints, alternative tests include:
+Fasting blood sugar (may be raised in liver/pancreatic involvement)
+ECG (may show arrhythmia or decreased QRS amplitude)
+Echocardiogram (assess iron deposition in conduction pathway and
+cardiomyopathy
+)
+Testosterone, FSH, LH (may be low in gonadal/pituitary involvement)
+*Note: An FBC should be normal but is useful to rule out alternative diagnoses that could account for non-specific symptoms such as
+fatigue
+and arthralgias. For example:
+Low haemoglobin concentration pointing to anaemia
+Raised white cell count and inflammatory markers in infectious/inflammatory conditions
+Improve
+Differential diagnosis
+1. Chronic Hepatitis
+Clinical Presentation:
+Similar to haemochromatosis, chronic hepatitis may present with
+hepatomegaly
+,
+fatigue
+, and
+arthralgia
+. However, jaundice is more prominently observed in chronic hepatitis.
+Laboratory Findings:
+Elevated liver enzymes such as AST and ALT are typically more pronounced in chronic hepatitis than in haemochromatosis. Ferritin levels may be elevated in both conditions but are usually secondary to liver inflammation in chronic hepatitis.
+Diagnostic Tests:
+Serology for hepatitis viruses and liver biopsy showing inflammatory infiltrates distinguish chronic hepatitis from hemochromatosis.
+2.
+Alcoholic Liver Disease
+Clinical Presentation:
+Patients may present with hepatomegaly and elevated liver enzymes. Histories of significant alcohol intake are critical for diagnosis, which might not be the case in haemochromatosis.
+Laboratory Findings:
+AST to ALT ratio greater than 2:1 is suggestive of alcoholic liver disease, unlike in haemochromatosis where this ratio is typically reversed.
+Diagnostic Tests:
+Liver biopsy in alcoholic liver disease often shows fatty changes, ballooning degeneration, and varying fibrosis, which are less characteristic of hemochromatosis.
+3. Wilson’s Disease
+Clinical Presentation:
+Wilson’s disease can present with liver dysfunction and neurological symptoms, which are not typical of haemochromatosis. Kayser-Fleischer rings in the cornea may also be present.
+Laboratory Findings:
+Low serum ceruloplasmin levels and high urinary copper levels are indicative of Wilson’s disease, contrasting with high ferritin and transferrin saturation seen in haemochromatosis.
+Diagnostic Tests:
+Liver biopsy revealing copper accumulation and genetic testing confirm Wilson’s disease.
+4. Porphyria Cutanea Tarda
+Clinical Presentation:
+This condition often manifests with blistering skin lesions following minor trauma, typically on sun-exposed areas, which is not a feature of haemochromatosis.
+Laboratory Findings:
+Elevated urine porphyrins and plasma porphyrin profiles help in diagnosing porphyria cutanea tarda.
+Diagnostic Tests:
+Skin biopsy and direct testing for porphyrins can aid in differentiating from haemochromatosis, where such findings are absent.
+Each of these conditions shares some overlapping symptoms with haemochromatosis but can be distinguished with a combination of clinical history, physical examination findings, and targeted diagnostic tests. Accurate differentiation is crucial for appropriate management and treatment strategies.
+Improve
+Management
+Management is guided by the serum transferrin saturation, ferritin levels and clinical symptoms which determine the severity of disease. The aims of treatment are to reduce the iron burden and treat complications of advanced disease.
+All patients
+should receive advice on the following:
+Avoid iron and iron-containing supplements
+Avoid vitamin C supplements (which increases the bioavailability of iron for enteric absorption), except in iron chelation therapy where it may increase therapeutic value
+Limit or avoid alcohol
+Consider hepatitis A and B vaccinations if no previous encounter.
+Specific management, as per the British Society for Haematology 2018 guidelines, is as follows:
+Stage
+Criteria
+Management
+Stage 0
+Normal transferrin saturation and ferritin with no clinical symptoms
+Monitoring iron labs and symptoms every 3 years
+Stage 1
+Transferrin saturation > 45%, normal ferritin, no clinical symptoms
+Monitoring iron labs and symptoms every 1 year
+Stage 2, 3, 4
+Transferrin saturation > 45%, raised ferritin and/or clinical symptoms
+Phlebotomy
+Stage 0 and 1 can be managed in primary care and patients should receive counselling and support for their condition.
+Phlebotomy
+, or venesection, is the process by which blood is removed from the patient to stimulate haematopoiesis, thereby utilising some of the excess iron for haem synthesis. It is performed in two stages:
+Induction
+: weekly phlebotomy sessions in the secondary care setting to reduce iron levels to
+<50% transferrin saturation
+. This should be under the guidance of haematology or hepatology depending on the extent of liver disease). Induction can take several months or even longer depending on the iron burden.
+Maintenance
+: infrequent (less than monthly) phlebotomy sessions to maintain normal iron levels (<50% transferrin saturation).
+It is encouraged for maintenance phlebotomy to occur at blood donation banks under the NHS Blood & Transplant service if patients are 'fit' and do not have liver disease.
+Iron chelation therapy
+is indicated for stage 2, 3 or 4 patients for whom phlebotomy is contraindicated (such as anaemia, cardiac disease or venous access issues). Both oral agents (
+Deferasirox
+) and parenteral agents (
+Desferrioxamine
+) are available dependent on the patient's likelihood of compliance and response.
+Patients with end-stage cirrhotic liver disease due to haemochromatosis are candidates for
+liver transplantation
+. It is important to note that transplant outcomes are worse compared to other causes of
+cirrhosis
+.
+Improve
+Complications
+The main complications are a result of oxidative damage to organs. In addition, deranged
+iron scavenging
+increases susceptibility to certain organisms such as
+Listeria monocytogenes
+and haemochromatosis patients exhibit increased bone loss and
+osteoporosis
+which is multifactorial in nature.
+Direct organ damage complications include:
+Liver:
+Fibrosis or
+cirrhosis
+Hepatocellular carcinoma
+: cirrhosis patients have a 100 fold increased risk of developing liver cancer
+Diabetes mellitus
+:
+The risk is
+not significantly raised
+in these patients compared to population but this is due to the overwhelming obesity prevalence rather than iron overload itself not being a risk for progression of diabetes mellitus
+Heart:
+Arrhythmia due to iron deposition in conduction pathway
+Cardiomyopathy
+: either dilated or dilated-restrictive
+Chronic congestive heart failure
+Hypogonadism:
+Hypogonadotrophism can result from iron depositing in the pituitary
+direct damage
+to gonads
+Improve
+Prognosis
+Prognosis is dependent on severity of disease at diagnosis.
+Patients without clinical symptoms of organ damage (such as
+cirrhosis
+or
+diabetes mellitus
+) at the time of diagnosis often have
+unchanged life expectancy from healthy individuals
+However, large studies put the relative risk at over 2 and the mean survival at 21 years for patients who have cirrhosis at the time of diagnosis
+Life-limiting complications
+Cirrhosis at the time of diagnosis increases the risk of life-limiting complications such as
+hepatocellular carcinoma
+, diabetes mellitus and cardiac disease
+Liver disease is exacerbated by additional liver injury (for example from alcohol and hepatitis infection).
+Liver transplant is indicated for cirrhosis and cancer development but post-transplant prognosis (1- and 5-year survival) is significantly worse for haemochromatosis compared to other diseases that necessitate liver transplant
+Improve
+References
+European Association for the Study of the Liver - 2010 Haemochromatosis guidelines
+Medcomic - Hereditary Hemochromatosis vs. Wilson Disease
+Gastroenterology
+Haemochromatosis

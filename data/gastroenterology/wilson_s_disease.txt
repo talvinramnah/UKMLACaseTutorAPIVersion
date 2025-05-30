@@ -1,0 +1,64 @@
+Wilson's disease
+Wilson's disease
+Wilson's disease is an autosomal recessive disorder characterised by excessive copper deposition in the tissues.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.10 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Alcoholic liver disease
+200.00
+Haemochromatosis
+12.50
+Wilson's disease
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Metabolic abnormalities include increased copper absorption from the small intestine and decreased hepatic copper excretion. Wilson's disease is caused by a defect in the ATP7B gene located on chromosome 13.
+Improve
+Clinical features
+The onset of symptoms is usually between 10 - 25 years. Children usually present with liver disease whereas the first sign of disease in young adults is often neurological disease
+Features result from excessive copper deposition in the tissues, especially the brain, liver and cornea:
+liver: hepatitis,
+cirrhosis
+neurological: basal ganglia degeneration, speech, behavioural and psychiatric problems are often the first manifestations. Also: asterixis,
+chorea
+,
+parkinsonism
+,
+dementia
+Kayser-Fleischer rings
+renal tubular acidosis (esp. Fanconi syndrome)
+haemolysis
+blue nails
+Improve
+Investigations
+Diagnosis
+reduced serum caeruloplasmin
+reduced serum copper (counter-intuitive, but 95% of plasma copper is carried by ceruloplasmin)
+increased 24hr urinary copper excretion
+Improve
+Management
+Management
+penicillamine (chelates copper) has been the traditional first-line treatment
+trientine hydrochloride is an alternative chelating agent which may become first-line treatment in the future
+tetrathiomolybdate is a newer agent that is currently under investigation
+Improve
+References
+Medcomic - Hereditary Hemochromatosis vs. Wilson Disease
+Gastroenterology
+Wilson's disease

@@ -1,0 +1,229 @@
+Bone metastases
+Bone metastases
+Bone metastases occur as a result of
+cancer
+cells from a primary site or tumour spreading to bone. Cancer cells can spread throughout the body by travelling via the blood or lymphatic system. The most common cancers that metastasise to bone include breast, bronchus, thyroid, prostate and kidney. Up to 50% of patients who die from cancer have bone metastases.
+Bone metastases can be classified as osteoblastic, osteolytic or mixed. Osteoblastic metastases are due to the deposition of new bone. This type of metastases are found as a consequence of prostate cancer, Hodgkin's lymphoma and small cell lung cancer. Osteolytic metastases are due to the destruction of healthy bone and are found in renal cell cancer, thyroid cancer, melanoma, non-small cell lung cancer and non-Hodgkin's lymphoma. Mixed metastases occur when both osteoblastic and osteolytic lesions are presents and tend to be due to gastrointestinal and breast cancers.
+Last updated: 3
+rd
+September 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Lower
+back pain
+: prolapsed disc
+5.00
+Bone metastases
+1
+Osteoporotic vertebral fracture
+0.50
+Osteomyelitis
+0.20
+Lumbar spinal stenosis
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Bone metastases arise from a
+primary cancerous tumour
+. Therefore, the risk factors for bone metastases are
+similar to those that cause the primary tumour
+. The most common primary cancers that lead to bone metastases are:
+Breast
+Bronchus
+Thyroid
+Prostate
+Kidney
+Improve
+Clinical features
+Bone metastases can be asymptomatic if small. However, bone metastases can present in a variety of ways:
+Pain
+.
+Characteristically, bone metastases cause severe pain that often wakes a patient from sleep.
+Classically, the pain caused by metastases is described as a gnawing pain, similar to toothache.
+In one study, 91.6% of patients with metastatic bone disease experienced pain
+Weight loss
+.
+Symptoms of
+hypercalcaemia
+Bone pain
+, muscle weakness, thirst, excessive urination, confusion,
+malaise
+.
+When hypercalcaemia is found, 80% of patients are found to have metastases.
+Reduced mobility
+.
+Pathological fracture
+.
+Rarely,
+paralysis and weakness
+if in the spine and compressing a spinal nerve root.
+Rarely, presents as an acute-onset spinal cord compression
+If bone metastases are suspected from a clinical history, it is important to examine the patient to find the primary site or tumour.
+Improve
+Investigations
+If a clinical history and examination lead you to suspect the patient may have bone metastases, it is an important differential to confirm or rule out. If there is only one small area that causes pain, a plain x-ray may be best as the pathology may or may not be linked to the original
+cancer
+. However, if there is widespread pain or the patient is newly diagnosed with cancer, a whole-body
+bone scintigraphy scan
+may be more appropriate.
+Bone scintigraphy
+uses nuclear medicine to visualise areas of increased bone turnover. Technetium-99m is injected intravenously and a gamma camera is used to visualise areas of
+increased osteoblastic activity
+. It is normal for there to be symmetrical areas of osteoblastic activity in a healthy adult, but if there is
+increased uptake
+of the Technetium-99 or it is
+asymmetrical
+, it can indicate pathological processes such as
+fractures, malignancy and Paget's disease
+, amongst others. On the scan, there should also be darker areas at the kidneys  and bladder as the Technetium-99 is excreted via the kidneys. If the kidneys and bladder are not seen on the scan, this is a worrying sign and may be due to a severe bone disease or bone metastases which are taking up all of the Technetium-99 so none is needed to be excreted.
+If the patient presents with
+pain and features of nerve involvement
+such as weakness or paralysis, it would be more appropriate to consider a CT or MRI scan as it is easier to visualise soft tissues and if there is any nerve compression.
+If bone metastases are found in one area, the
+whole body should be scanned using bone scintigraphy
+to find any other areas affected.
+Other investigations to consider include
+blood tests
+, particularly if the primary site is unknown. Depending on the patient's symptoms, you may wish to consider:
+FBC (may show anaemia)
+U&Es
+LFTs
+ALP is present in bone and released during the breakdown of bone. It is very likely that a patient with bone metastases will have an increased level of ALP on their blood test, but an isolated rise in ALP does not necessary mean that they have bone metastases.
+Other causes of an ALP rise include: recent fracture, vitamin D deficiency or a primary bone tumour.
+CRP
+Serum calcium
+Hypercalcaemia
+can be caused by the primary malignancy or be due to bone metastases, caused by increased osteoclastic activity.
++It is necessary to treat the patient urgently with IV
+bisphosphonates
+.
+Multiple myeloma screen
+Tumour markers: depending on the demographic of the patient, these may include Ca125, PSA, alpha-fetoprotein and lactate dehydrogenase.
+If the primary site is unknown, consider a
+CT chest/abdomen/pelvis
+.
+Improve
+Differential diagnosis
+When evaluating a patient for suspected bone metastases, it's essential to consider alternative diagnoses that may present similarly. The three most prevalent conditions in this context are osteoporosis-related fractures, multiple myeloma, and primary bone tumours like osteosarcoma.
+Osteoporosis-Related Fractures
+Osteoporosis is a systemic skeletal disorder characterised by diminished bone mass and deterioration of bone architecture, leading to increased bone fragility.
+Comparison
+Symptoms
+: Both bone metastases and osteoporotic fractures can present with localised pain and compromised mobility.
+Radiology
+: Both conditions may reveal lytic or mixed lesions on imaging studies.
+Contrast
+Radiology
+: Osteoporotic fractures usually involve the vertebral column and are generally not associated with periosteal reaction, unlike metastatic lesions.
+Clinical
+: Osteoporosis typically lacks systemic symptoms like weight loss and anorexia, which are commonly associated with malignancies.
+Multiple Myeloma
+Multiple myeloma is a haematological malignancy originating from plasma cells, commonly affecting the bone marrow.
+Comparison
+Symptoms
+: Both conditions may present with
+bone pain
+, fractures, and
+hypercalcaemia
+.
+Radiology
+: Both multiple myeloma and bone metastases can present with lytic lesions
+Contrast
+Laboratory Findings
+: Multiple myeloma typically demonstrates monoclonal proteins in serum or urine and abnormal plasma cells on bone marrow biopsy.
+Radiology
+: Multiple myeloma may display a 'salt and pepper' skull appearance, not typically seen in metastatic bone disease.
+Primary Bone Tumours (e.g., Osteosarcoma)
+Primary bone tumours such as osteosarcoma are rare malignancies that arise directly from bone tissue.
+Comparison
+Symptoms
+: Both primary bone tumours and bone metastases can present with localised bone pain and may exhibit similar radiological findings.
+Radiology
+: Both may demonstrate destructive lesions with a periosteal reaction.
+Contrast
+Age
+: Primary bone tumours tend to occur in younger populations, whereas bone metastases are more common in older adults.
+Histology
+: Diagnosis of primary bone tumours requires biopsy showing tumour cells of osseous origin, unlike metastatic lesions which consist of cells from the primary malignancy (e.g., lung, breast).
+Improve
+Management
+Once the diagnosis of bone metastases has been confirmed, it is important to establish where the primary tumour is. Once this has found,
+referral to the appropriate specialist teams and
+oncology
+is necessary
+.
+Oncology management will depend on the stage of the primary tumour and extent of metastases.
+Treatment may include surgery to stabilise affected bones, radiotherapy, chemotherapy, or hormone therapy
+, but this will depend on the primary tumour and be decided by the specialists involved.
+Radiotherapy can be used palliatively
+on bone metastases to reduce pain and improve quality of life.
+Denosumab
+is a monoclonal antibody that helps to slow the progression of bone metastases. It works by
+inhibiting osteoclasts
+and therefore slowing the rate of bone turnover and bone loss.
+Other management will include:
+Adequate analgesia
+to relieve pain and increase mobility
+Start with simple analgesia like NSAIDs and paracetamol, before moving onto weak and strong opioids.
+Pain relief can be given orally, subcutaneously via a syringe driver or some patients may prefer transdermal patches.
+Bisphosphonates
+Reduce risk of fracture and bone destruction
+Can improve
+bone pain
+Physiotherapists and Occupational Therapists
+may be involved to improve mobility and help with adaptations needed.
+Improve
+Complications
+Complications of bone metastases include:
+Pain
+The pain caused by bone metastases can be
+severe
+and needs to be addressed.
+As above, management of pain caused by metastases can be lessened by a combination of
+analgesia,
+bisphosphonates
+, radiotherapy or denosumab
+.
+Pathological fractures
+Particularly in the spine, bone metastases can cause
+fractures
+which may require
+surgery
+to treat.
+There may be an increase in intensity of pain shortly before the bone fractures. There may also be
+no-to-little trauma
+preceding the fracture.
+Hypercalcaemia
+Hypercalcaemia is a
+poor prognostic factor
+and
+requires immediate treatment
+, even if not symptomatic.
+Symptoms generally
+do not correlate to severity of hypercalcaemia
+, with some patients remaining asymptomatic with high serum concentrations of calcium and others becoming very symptomatic with only a small rise in serum calcium.
+Spinal cord compression
+Can be caused by direct extension of the metastases into the spinal cord or by collapse of a vertebra.
+Symptoms of spinal cord compression include:
+weakness or numbness of limbs, bladder and bowel dysfunction, sensory loss and nocturnal spinal pain
+.
+Patients with signs of spinal cord compression should be treated as a
+medical emergency and require an urgent MRI
+.
+Improve
+Cancer
+Bone metastases

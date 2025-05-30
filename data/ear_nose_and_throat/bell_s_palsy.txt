@@ -1,0 +1,147 @@
+Bell's palsy
+Bell's palsy
+Bell's palsy is an acute neurological condition presenting with rapid onset of unilateral facial paralysis. The exact cause is unknown but it has been linked to the herpes simplex virus.
+It usually presents in 15 to 45-year-olds. There are no specific diagnostic tests to confirm Bell's palsy; it is a clinical diagnosis made from the history and examination findings.
+Patients should be treated with corticosteroid therapy. There is an ongoing debate about the benefit of adding antiviral medication. Patients can be reassured that the majority of people make a full recovery within 4 months.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 23.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Stroke
+10.00
+Bell's palsy
+1
+Ramsay Hunt syndrome
+0.13
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Although the aetiology is not fully understood, several risk factors have been identified for developing Bell's palsy:
+Pregnancy
+Severe pre-eclampsia
+Hypertension
+Obesity
+Diabetes mellitus
+Upper respiratory tract infections
+Improve
+Pathophysiology
+The facial nerve is the 7th cranial nerve, which arises from the pons. It carries several modalities of nerve fibres:
+Motor fibres which innervate the muscles of facial expression
+Sensory fibres
+Somatic sensation
+Special sensory fibres to the anterior tongue for taste
+Autonomic nerve fibres
+Parasympathetic fibres to the lacrimal and salivary glands
+The exact pathology of Bell's palsy is not fully understood. However, the general consensus is that the herpes simplex virus is implicated in the aetiology.
+Possible mechanism:
+Inflammation and oedema of the facial nerve â→ compression and damage to the nerve in the facial canal (passage of the nerve through the temporal bone) â→ symptoms of facial paralysis on the affected side.
+Improve
+Clinical features
+Patients with Bell's palsy present with unilateral facial paralysis which is:
+Acute onset (within 72 hours)
+Involves the forehead and lower parts of the face on the affected side
+Upper facial signs include the inability to wrinkle forehead and close eye fully on the affected side
+Lower facial signs include the loss of the nasolabial labial fold, and drooping of the mouth, which is more pronounced when the patient tries to smile
+The severity of the paralysis can be quantified by the House-Brackmann facial paralysis scale, which is graded from 1 (normal) to 6 (complete paralysis).
+Pain in the ear and surrounding area
+Loss of taste in the anterior tongue in 35% of patients
+Hyperacusis
+(increased sensitivity to noise) is a rarer symptom
+Improve
+Investigations
+Bell's palsy is usually a diagnosis of exclusion (i.e. in the presence of typical clinical features and where there is no concern for another pathological process to be the cause, a clinical diagnosis can be made). The 2019 NICE guidelines state that diagnostic investigations such as blood tests and imaging are not required in primary care to make a diagnosis.
+Therefore a comprehensive clinical review is required:
+Examination
+Forehead sparing suggests an upper motor neurone cause and therefore not Bell's palsy, which is a lower motor neurone pathology.
+Any masses, particularly parotid swelling may suggest a tumour.
+Any other cranial nerve abnormalities or neurology of the upper or lower limbs may suggest a central or systemic pathology.
+If there is uncertainty regarding the diagnosis, further investigation (and referral to secondary care) is required to confirm or rule out differentials:
+Imaging should be used if clinical features are not in keeping with Bell's palsy or the patient is not recovering as expected.
+MRI Head is the modality of choice to view the facial nerve.
+CT Head with contrast can also be used if MRI is contraindicated.
+Electrodiagnostic testing can be used where there is complete unilateral facial paralysis to help identify the small percentage of patents who do not fully recover.
+Improve
+Differential diagnosis
+Possible differential diagnoses include:
+Stroke
+or TIA
+TIA differs from a stroke where symptoms resolve within 24 hours, whereas neurology persists in stroke.
+Similarities - present with unilateral
+facial droop
+.
+Differences - there will be sparing of the forehead (patient will still be able to frown) as this is an upper motor neurone lesion and may also be accompanied by weakness of the arm/leg on the affected side, slurred speech and visual disturbances.
+Brain tumour (primary or metastases)
+Similarities - unilateral facial drop but like stroke, there will be forehead sparing.
+Differences - there may be symptoms such as headache, confusion or behavioural change, along with other neurology and constitutional symptoms such as weight loss.
+Infections (includes viral infections such as herpes zoster and bacterial infections such as
+Borrelia burgdorferi
+)
+Ramsey Hunt syndrome is due to reactivation of the varicella-zoster virus which can cause unilateral facial paralysis, but typically also presents with a painful, vesicular rash around the ear.
+Borrelia burgdorferi
+infection causes Lyme disease which can present with unilateral facial paralysis (can be bilateral); there is usually a history of a tick bite and erythema migrans may be present.
+Improve
+Management
+Bell's palsy is managed in the primary care setting by a combination of supportive care and pharmacological treatment. The aim of treatment is to support facial nerve recovery and to prevent complications such as corneal ulcers as described below.
+The NICE 2019 guidelines recommend:
+Good eye care is very important on the affected side as the inability to completely close the eyelid can cause dry eyes and other complications.
+Artificial tears or ocular lubricants to prevent dry eyes.
+Using tape (e.g.micropore) to close the eye overnight.
+Wearing sunglasses and avoiding irritants to the eye such as dust.
+If a patient has eye pain or irritation, they should be referred to ophthalmology (secondary care) for review as these patients are at risk of problems such as corneal ulceration which can lead to visual loss if not treated correctly.
+Supporting nutrition by using straws and a soft diet.
+Prednisolone for patients who present within 72 hours of symptom onset.
+Antivirals can be considered for use in conjunction with prednisolone (should not be used as monotherapy).
+Greatest benefit is seen in patients with severe neurology (i.e. higher House-Brackmann score).
+Patients may require psychological support if they have found the experience distressing.
+The majority of patients will recover with the acute management measures listed above. However, if no signs of recovery are seen after 3 weeks of initial symptoms (i.e. no improvement in House-Brackmann score), NICE recommends referral to secondary care (either to ENT or neurology) for further investigation and management. Therefore it is very important that all patients diagnosed with Bell's Palsy have a follow-up appointment arranged to monitor recovery.
+Other indications for referral to secondary care for further investigation and management include:
+Worsening neurology or new neurology developing despite treatment initiation.
+Any signs of an upper motor neurone lesion.
+Signs of abnormal reinnervation of the facial nerve as the patient recovers.
+Improve
+Complications
+While the majority of Bell's palsy cases resolve spontaneously, a number of complications can occur. The most common complications are:
+Synkinesis:
+This is characterised by involuntary muscular movements accompanying voluntary movements. It occurs due to aberrant regeneration of the facial nerve and may present as crocodile tears syndrome (lacrimation during eating), gustatory sweating or hemifacial spasm.
+Persistent
+facial weakness
+:
+Despite treatment, some patients may experience persistent facial weakness which can lead to functional impairment and cosmetic concerns. Severity varies from mild to severe disfigurement.
+Bell's palsy can also lead to several ocular complications including:
+Corneal keratitis:
+Due to impaired eyelid closure, corneal exposure may result in desiccation, ulceration or even perforation if not managed promptly.
+Lagophthalmos:
+Inability to close the eye completely could lead to exposure keratopathy.
+Abrasive keratopathy:
+This results from irregular blinking leading to trauma on the corneal surface.
+In rare instances, Bell's palsy might be associated with more serious neurological disorders such as Guillain-Barré syndrome or multiple sclerosis. Therefore, any atypical presentation warrants further investigation.
+The psychological impact of Bell's palsy should not be underestimated. Patients often experience significant psychosocial distress, including depression and anxiety. Early recognition and management of these complications can significantly improve patient outcomes.
+Improve
+Prognosis
+Patients should be reassured that recovery from Bell's palsy is good, even if no treatment is initiated. Most patients can expect to see signs of recovery within 3 weeks and complete recovery within 4 months.
+There are some factors which influence recovery:
+A good recovery is likely if there is an improvement in symptoms within the first 2 weeks.
+The severity of the initial paralysis influences prognosis.
+> 90% of patients with partial paralysis will make a full recovery.
+around 70% of patients with complete paralysis at presentation will make a full recovery.
+Younger patients are more likely to have a favourable outcome.
+Initiation of treatment with corticosteroids within 72 hours of symptom onset also confers a better prognosis.
+Improve
+References
+Clinical Knowledge Summaries - Bell's palsy guidelines
+Ear, nose and throat
+Bell's palsy

@@ -1,0 +1,340 @@
+Breast cancer
+Breast cancer
+Breast
+cancer
+is a malignant neoplasm originating from breast tissue, most commonly from the inner lining of milk ducts or the lobules that supply these ducts with milk. It is categorised into different types based on its histological features, including ductal carcinoma in situ (DCIS), invasive ductal carcinoma (IDC), and lobular carcinoma in situ (LCIS) among others. Hormonal status of tumours, such as oestrogen receptor (ER), progesterone receptor (PR) and HER2/neu can significantly influence management strategies.
+The pathogenesis involves genetic mutations leading to uncontrolled cellular proliferation. Risk factors include female sex, age, family history, certain genetic mutations like BRCA1/BRCA2, early menarche or late menopause and exogenous hormone therapy. Clinical presentation varies but may include palpable mass, skin changes or
+nipple discharge
+.
+Diagnosis involves triple assessment: clinical examination, imaging (mammography or ultrasound) and biopsy for histopathological confirmation. Management options encompass surgery, radiation therapy, chemotherapy and hormonal therapy.
+Last updated: 6
+th
+December 2023
+Epidemiology
+Incidence: 95.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in females 100:1
+Condition
+Relative
+incidence
+Breast abscess
+1.32
+Breast
+cancer
+1
+Fat necrosis of the breast
+0.04
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Breast
+cancer
+, a multifactorial disease, has a range of risk factors and underlying causes that contribute to its development. These can be categorised into genetic, hormonal, environmental and lifestyle factors.
+Genetic Factors:
+Approximately 5-10% of breast cancers are hereditary, primarily related to mutations in the BRCA1 and BRCA2 genes. Other genes implicated include TP53, PTEN, STK11/LKB1, CDH1 and CHEK2.
+Women with a first-degree relative (mother, sister or daughter) with breast cancer have approximately double the risk compared to those without this familial link.
+Hormonal Factors:
+Prolonged exposure to oestrogen is a recognised risk factor for breast cancer. This includes early menarche (before age 12), late menopause (after age 55), late age at first birth (over age 30) or nulliparity.
+Exogenous hormone use such as combined oral contraceptives or hormone replacement therapy can also increase risk.
+Environmental Factors:
+Radiation exposure to the chest area for treatment of other conditions increases the risk of developing breast cancer later on.
+Certain benign breast conditions such as atypical hyperplasia or lobular carcinoma in situ may predispose women to subsequent malignant transformation.
+Lifestyle Factors:
+Alcohol consumption has been linked with an increased risk of breast cancer. The risk appears to increase linearly with the amount consumed.
+Obesity, particularly postmenopausal obesity, has been associated with an increased risk of breast cancer. The exact mechanism is unclear but may involve insulin resistance or increased oestrogen production by adipose tissue.
+Physical inactivity can also contribute to an elevated risk of breast cancer.
+It's important to note that these factors are not mutually exclusive and often interact in complex ways. For instance, the combination of genetic susceptibility with certain lifestyle choices can significantly increase a woman’s risk compared to either factor alone. Moreover, some factors such as age are non-modifiable whereas others such as alcohol consumption or physical activity levels can be modified to reduce risk.
+Improve
+Pathophysiology
+The pathogenesis of breast
+cancer
+, like many other cancers, is a multi-step process involving both genetic and epigenetic changes. These alterations lead to the transformation of normal mammary epithelial cells into aggressive cancer cells.
+Initiation
+The initial step in the pathogenesis of breast cancer is the acquisition of genetic mutations in the DNA of mammary epithelial cells. These alterations can occur spontaneously during cell division or as a result of exposure to carcinogens. The most common mutations implicated are those affecting tumour suppressor genes such as BRCA1 and BRCA2, and oncogenes such as HER2.
+Promotion
+Following initiation, promotion occurs where mutated cells proliferate due to selective growth advantage over normal cells. This phase often involves dysregulation of cell cycle control mechanisms leading to uncontrolled cell growth. In particular, alterations in proteins regulating apoptosis, like Bcl-2 family members, contribute to this process by allowing survival of these aberrant cells.
+Progression
+The progression stage involves further genetic instability and accumulation of mutations leading to increasing heterogeneity within the tumour. Cells acquire invasive properties through processes such as epithelial-to-mesenchymal transition (EMT), facilitated by transcription factors including Snail and Twist.
+In addition, angiogenesis is triggered within the tumour microenvironment aiding in supplying nutrients for rapid growth. Vascular endothelial growth factor (VEGF) plays a key role in this process.
+Around this time metastasis may occur; cancerous cells intravasate into blood vessels or lymphatics and travel to distant sites establishing secondary tumours. Key steps in metastasis include adhesion, migration, and invasion which are facilitated by various molecules such as integrins and matrix metalloproteinases (MMPs).
+Immune Evasion
+The final stage in the pathogenesis of breast cancer involves evasion of the immune system. Cancer cells employ several mechanisms to avoid detection and destruction by immune cells. These include downregulation of major histocompatibility complex (MHC) molecules, secretion of immunosuppressive cytokines like transforming growth factor-beta (TGF-β), and induction of regulatory T-cells.
+Improve
+Classification
+The terminology surrounding breast
+cancer
+can sometimes be confusing and has changed over recent years. It is useful to start by considering basic breast anatomy
+Image sourced from
+Wikipedia
+Basic breast anatomy
+Most breast cancers arise from duct tissue followed by lobular tissue, described as
+ductal
+or
+lobular carcinoma
+respectively. These can be further subdivided as to whether the cancer hasn't spread beyond the local tissue (described as
+carcinoma-in-situ
+) or has spread (described as
+invasive
+). Therefore, common breast cancer types include:
+Invasive ductal carcinoma
+. This is the most common type of breast cancer. To complicate matters further this has recently been renamed '
+No Special Type (NST)
+'. In contrast, lobular carcinoma and other rarer types of breast cancer are classified as 'Special Type'
+Invasive lobular carcinoma
+Ductal carcinoma-in-situ (DCIS)
+Lobular carcinoma-in-situ (LCIS)
+Rarer types of breast cancer are shown in the following list. These are classed as 'Special Type' but as noted previously remember that a relatively common type of breast cancer (lobular) is also Special Type:
+Medullary breast cancer
+Mucinous (mucoid or colloid) breast cancer
+Tubular breast cancer
+Adenoid cystic carcinoma of the breast
+Metaplastic breast cancer
+Lymphoma of the breast
+Basal type breast cancer
+Phyllodes or cystosarcoma phyllodes
+Papillary breast cancer
+Other types of breast cancer include the following (although please note they may be associated with the underlying lesions seen above, rather than completely separate subtypes):
+Paget's disease of the nipple
+is an eczematoid change of the nipple associated with an underlying breast malignancy and it is present in 1-2% of patients with breast cancer. In half of these patients, it is associated with an underlying mass lesion and 90% of such patients will have an invasive carcinoma. 30% of patients without a mass lesion will still be found to have an underlying carcinoma. The remainder will have carcinoma in situ.
+Inflammatory breast cancer
+where cancerous cells block the lymph drainage resulting in an inflamed appearance of the breast. This accounts for around 1 in 10,000 cases of breast cancer.
+Improve
+Clinical features
+The prototypical presentation of breast
+cancer
+often involves a woman aged over 50 years presenting with a unilateral, hard, painless lump in the upper outer quadrant of her breast. This lump may be associated with skin or nipple changes and
+axillary lymphadenopathy
+. However, this is not an exhaustive representation as the disease can present in myriad ways.
+Local Symptoms:
+Painless Lump:
+The most common presenting symptom, typically hard and irregularly shaped. It is usually non-mobile due to invasion into surrounding tissues.
+Skin Changes:
+These include erythema, induration (peau d'orange appearance), ulceration or dimpling (due to fibrosis pulling on Cooper's ligaments).
+Nipple Changes:
+Alterations such as inversion, deviation, eczema-like changes (Paget's disease), discharge (especially if bloody or from one duct) should raise suspicion.
+Regional Symptoms:
+Axillary Lymphadenopathy:
+Breast malignancies commonly metastasise to axillary lymph nodes leading to palpable lumps in the armpit.
+Chest Wall Invasion:
+Advanced cases may involve the chest wall causing pain or discomfort.
+Distant Metastasis Symptoms:
+Bone Metastases:
+Patients may present with bone pain or pathological fractures. Common sites include spine, pelvis and ribs.
+Lung Metastases:
+Presenting features can include shortness of breath, cough or pleuritic chest pain.
+Liver Metastases:
+Right upper quadrant pain, hepatomegaly and jaundice are potential indicators.
+Brain Metastases:
+Symptoms can range from headaches, seizures to focal neurological deficits.
+It's important to note that breast cancer can also present with non-specific systemic symptoms such as weight loss, fatigue or anorexia. Additionally, a significant proportion of breast cancers are detected through screening programmes before they become symptomatic.
+Inflammatory Breast Cancer:
+This is a rare but aggressive form of the disease presenting with rapid onset erythema, edema and warmth of the breast, often without a palpable lump. The skin may take on an orange peel appearance (peau d'orange). It is often mistaken for infection initially.
+Paget's Disease of the Nipple:
+This is another unique presentation where patients exhibit eczema-like changes around the nipple-areolar complex. This may be associated with underlying ductal carcinoma in situ or invasive ductal carcinoma.
+Occult Primary Breast Cancer:
+In some cases, patients may present with axillary lymphadenopathy while mammography and physical examination of the breasts are normal. Further investigation usually reveals an occult primary tumour within the glandular tissue.
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for breast cancer suggest the following:
+Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for breast cancer if they are:
+aged 30 and over and have an unexplained
+breast lump
+with or without pain or
+aged 50 and over with any of the following symptoms in one nipple only:
+discharge
+retraction
+other changes of concern.
+Consider a suspected cancer pathway referral (for an appointment within 2 weeks) for breast cancer in people:
+with skin changes that suggest breast cancer or
+aged 30 and over with an unexplained lump in the axilla.
+Consider non-urgent referral in people aged under 30 with an unexplained breast lump with or without pain.
+Improve
+Investigations
+When investigating a patient with a diagnosis of breast
+cancer
+, the first-line investigations comprise of imaging studies and tissue sampling. These provide valuable information about the presence, size, location, and extent of the disease, which is crucial for staging and treatment planning.
+Imaging Studies:
+Mammography:
+This remains the gold standard for initial evaluation. It provides detailed images of internal structures of the breast and can reveal microcalcifications or mass lesions that may not be palpable.
+Ultrasound:
+Ultrasound is particularly useful in differentiating cystic from solid masses and can guide fine-needle aspiration or core biopsy procedures. It is also used to evaluate axillary lymph nodes.
+Magnetic Resonance Imaging (MRI):
+MRI has high sensitivity but lower specificity compared to mammography. It is recommended in certain situations such as in patients with lobular carcinoma or dense breasts where mammographic detection can be limited. Additionally, it's beneficial for assessing multifocal or multicentric disease.
+Tissue Sampling:
+Fine Needle Aspiration (FNA):
+FNA allows cells to be aspirated from suspicious areas identified on imaging for cytological examination. However, it cannot differentiate between invasive and non-invasive cancers.
+Core Biopsy:
+Core biopsy provides more tissue than FNA allowing both histological grading and receptor status determination. It's considered superior to FNA due to its ability to provide architectural details required for definitive diagnosis.
+Surgical Biopsy:
+Surgical biopsy should only be considered when needle biopsies are inconclusive because it is invasive and can lead to complications such as infection or scarring.
+If these first-line investigations suggest malignancy, further investigations are necessary to stage the disease and guide treatment decisions.
+Further Investigations:
+Blood tests:
+Full blood count, liver function tests, and renal function tests can give an overall picture of the patient's health status. Specific tumour markers such as
+CA 15-3
+or CEA may be elevated in advanced breast cancer but are not recommended for routine use due to their low sensitivity and specificity.
+Chest X-ray:
+A chest x-ray can detect pulmonary metastases or pleural effusions.
+Liver ultrasound/CT/MRI:
+These imaging studies are used to evaluate hepatic metastases.
+Bone Scan:
+A bone scan is used to detect osseous metastases. However, if there are specific bone symptoms or abnormal biochemistry suggesting bone involvement, a positron emission tomography (PET) scan might be more appropriate.
+Improve
+Differential diagnosis
+The differential diagnosis of breast
+cancer
+primarily involves three conditions: fibroadenoma, mastitis and ductal carcinoma in situ (DCIS). It is paramount to distinguish between these entities as they have different prognostic implications and require distinct therapeutic approaches.
+Fibroadenoma
+Fibroadenomas are benign tumours that typically present as smooth, round, mobile masses within the breast tissue. They are most common in young women and can increase in size during pregnancy or with hormone therapy.
+Unlike breast cancer, fibroadenomas do not usually cause skin changes such as dimpling or nipple retraction. They are also less likely to be associated with
+axillary lymphadenopathy
+.
+On imaging, fibroadenomas often appear as well-circumscribed solid masses on mammography and ultrasound. In contrast, invasive breast cancers are typically spiculated or irregularly shaped with indistinct margins.
+Mastitis
+Mastitis is an infection of the breast tissue resulting in breast pain, swelling, warmth and redness. It can also cause flu-like symptoms including fever and chills. Mastitis commonly affects women who are breastfeeding (lactational mastitis).
+Unlike malignant tumours, mastitis tends to present acutely with rapid onset of symptoms over several hours to days. The affected area is usually diffuse rather than localised to a discrete mass.
+Cultures from expressed breast milk may reveal causative organisms such as
+Staphylococcus aureus
+. Imaging findings are nonspecific but can aid in ruling out abscess formation or concurrent malignancy.
+Ductal Carcinoma In Situ (DCIS)
+DCIS represents a pre-invasive form of breast cancer and is often considered a precursor lesion. It is characterised by the proliferation of malignant cells within the ductal system, without invasion into the surrounding stroma.
+DCIS may be asymptomatic or present with
+nipple discharge
+, but it rarely forms a palpable mass. This differentiates DCIS from invasive breast cancers which typically present as a lump.
+On mammography, DCIS often presents as microcalcifications. Biopsy is necessary for definitive diagnosis and to rule out concurrent invasive disease.
+Improve
+Management
+The management of breast
+cancer
+depends on the staging, tumour type and patient background. It may involve any of the following:
+Surgery
+Radiotherapy
+Hormone therapy
+Biological therapy
+Chemotherapy
+Surgery
+The vast majority of patients who have breast cancer diagnosed will be offered surgery. An exception may be a very frail, elderly lady with metastatic disease who may be better managed with hormonal therapy.
+Prior to surgery, the presence/absence of
+axillary lymphadenopathy
+determines management:
+women with no palpable axillary lymphadenopathy at presentation should have a pre-operative axillary ultrasound before their primary surgery
+if negative then they should have a sentinel node biopsy to assess the nodal burden
+in patients with breast cancer who present with clinically palpable lymphadenopathy, axillary node clearance is indicated at primary surgery
+this may lead to arm lymphedema and functional arm impairment
+Depending on the characteristics of the tumour women either have a wide-local excision or a mastectomy. Around two-thirds of tumours can be removed with a wide-local excision. The table below lists some of the factors determining which operation is offered:
+Mastectomy
+Wide Local Excision
+Multifocal tumour
+Solitary lesion
+Central tumour
+Peripheral tumour
+Large lesion in small breast
+Small lesion in large breast
+DCIS > 4cm
+DCIS < 4cm
+Women should be offered the option of breast reconstruction to achieve a cosmetically satisfactory result, irrespective of whether they undergo mastectomy or wide-local excision. Reconstruction can be performed either during the initial surgery or at a later stage.
+Radiotherapy
+Radiotherapy is a critical component of breast cancer treatment, particularly following surgery:
+Post-Wide-Local Excision: Whole breast radiotherapy is recommended to reduce the risk of recurrence by approximately two-thirds.
+Post-Mastectomy: Radiotherapy is indicated for patients with T3-T4 tumours or those with four or more positive axillary nodes.
+Hormonal therapy
+Adjuvant hormonal therapy is utilised for tumours that are hormone receptor-positive:
+Tamoxifen
+: Typically used in pre- and peri-menopausal women for a duration of 5 years post-diagnosis. Notable side effects include an increased risk of endometrial cancer, venous thromboembolism, and menopausal symptoms.
+Aromatase Inhibitors
+(e.g., Anastrozole): Preferred in post-menopausal women, as aromatisation is the primary source of oestrogen production in this group. Aromatase inhibitors are thus employed for ER-positive breast cancer in post-menopausal women
+Biological therapy
+The most common type of biological therapy used for breast cancer is trastuzumab (Herceptin). It is only useful in the 20-25% of tumours that are HER2 positive.
+Trastuzumab cannot be used in patients with a history of heart disorders.
+Chemotherapy
+Chemotherapy is utilised in various contexts in breast cancer treatment:
+Neoadjuvant Therapy: To downstage a primary lesion before surgery.
+Adjuvant Therapy: After surgery, particularly in cases with axillary node involvement or other high-risk features.
+In summary, the management of breast cancer is tailored to the individual patient, considering tumour characteristics and patient-specific factors. The multidisciplinary approach ensures that each patient receives the most appropriate and effective treatment strategy.
+Improve
+Complications
+Local Complications
+Lymphoedema:
+A common complication post-mastectomy or axillary lymph node dissection, characterised by swelling of the arm due to impaired lymphatic drainage.
+Seroma:
+Fluid accumulation in the surgical site, often requiring aspiration. It may increase the risk of infection and delay wound healing.
+Mastectomy flap necrosis:
+This occurs due to inadequate blood supply to the remaining breast tissue after surgery. It can lead to skin loss and need for further surgical intervention.
+Systemic Complications
+Distant metastasis:
+The most severe complication is the spread of
+cancer
+cells from the breast to other parts of the body via bloodstream or lymphatic system. Common sites include bone, liver, lungs and brain.
+Oncological emergencies:
+These include hypercalcaemia, spinal cord compression, superior vena cava syndrome and neutropenic sepsis. Prompt recognition and management are essential.
+Treatment-related Complications
+Radiation pneumonitis:
+Inflammation of lung tissue following radiotherapy can present with cough, fever, dyspnoea and chest pain.
+Cardiotoxicity:
+Certain chemotherapeutic agents (e.g., anthracyclines) can cause cardiomyopathy leading to heart failure. Trastuzumab also carries a risk of cardiac dysfunction.
+Osteoporosis:
+Aromatase inhibitors
+used in hormone receptor-positive breast cancer increase the risk of osteoporosis and fractures due to their effect on bone mineral density.
+Neutropenia:
+A common side effect of chemotherapy, increasing the risk of infection.
+Psychosocial Complications
+Depression and anxiety:
+Diagnosis and treatment of breast cancer can have significant psychological impact, affecting quality of life and compliance with treatment.
+Improve
+Prognosis
+The prognosis of breast
+cancer
+is influenced by several factors including the stage of disease at diagnosis, tumour characteristics, patient's age and overall health status.
+Stage at diagnosis
+Localized breast cancer (confined to the breast) has a 5-year survival rate of nearly 99%.
+Regional breast cancer (spread to regional lymph nodes) shows a 5-year survival rate of about 86%.
+Distant metastatic disease (spread to distant organs) has a considerably lower 5-year survival rate, approximately 27%.
+Tumour characteristics
+The histological grade of the tumour significantly affects prognosis. High-grade tumours are associated with poorer outcomes compared to low-grade tumours.
+Hormone receptor status also plays an important role. Tumours that are oestrogen or progesterone receptor positive typically have better prognoses than those which are hormone receptor negative.
+Human epidermal growth factor receptor 2 (HER2) positive cancers tend to be more aggressive, but targeted therapies have improved outcomes for these patients significantly in recent years.
+Patient factors
+Elderly patients often present with comorbid conditions that can impact their ability to tolerate treatment and thus influence prognosis.
+Patient's overall health status and performance status can affect treatment tolerability and hence the outcome.
+Improve
+Screening and prevention
+The NHS Breast Screening Programme is being expanded to include women aged 47-73 years from the previous parameter of 50-70 years. Women are offered a mammogram every 3 years. After the age of 70 years women may still have mammograms but are 'encouraged to make their own appointments'.
+The effectiveness of breast screening is regularly debated although it is currently thought that the NHS Breast Screening Programme may save around 1,400 lives per year.
+Familial breast
+cancer
+NICE published guidelines on the management of familial breast cancer in 2013, giving guidelines on who needs referral.
+If the person concerned only has one first-degree or second-degree relative diagnosed with breast cancer they do NOT need to be referred unless any of the following are present in the family history:
+Age of diagnosis < 40 years
+Bilateral breast cancer
+Male breast cancer
+Ovarian cancer
+Jewish ancestry
+Sarcoma in a relative younger than age 45 years
+Glioma or childhood adrenal cortical carcinomas
+Complicated patterns of multiple cancers at a young age
+Paternal history of breast cancer (two or more relatives on the father's side of the family)
+Women who are at an increased risk of breast cancer due to their family history may be offered screening from a younger age. The following patients should be referred to the breast clinic for further assessment:
+One first-degree female relative diagnosed with breast cancer at younger than age 40 years, or
+One first-degree male relative diagnosed with breast cancer at any age, or
+One first-degree relative with bilateral breast cancer where the first primary was diagnosed at younger than age 50 years, or
+Two first-degree relatives, or one first-degree and one second-degree relative, diagnosed with breast cancer at any age, or
+One first-degree or second-degree relative diagnosed with breast cancer at any age and one first-degree or second-degree relative diagnosed with ovarian cancer at any age (one of these should be a first-degree relative), or
+Three first-degree or second-degree relatives diagnosed with breast cancer at any age
+Improve
+References
+NICE - 2013 Familial breast cancer guidelines
+NICE - Cancer referral guidelines - breast
+NICE - Early and locally advanced breast cancer: Diagnosis and treatment
+Clinical Knowledge Summaries - Guidance on suspected breast cancer referral
+Breast surgery
+Breast cancer

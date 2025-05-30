@@ -1,0 +1,116 @@
+Paralytic ileus
+Paralytic ileus
+Often referred to as a postoperative ileus, a paralytic ileus is a common consequence of abdominal surgery. It occurs due to reduced motility of the gastrointestinal tract, secondary to a failure of peristalsis. Failure occurs due to (either full or partial) paralysis of the intestinal muscles which subsequently leads to a functional bowel obstruction. In most cases, it resolves within 2-7 days with conservative management and correction of any underlying/contributory causes such as electrolyte abnormalities.
+Last updated: 3
+rd
+July 2023
+Epidemiology
+Incidence: 50.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Paralytic ileus
+1
+Small bowel obstruction
+0.40
+Large bowel obstruction
+0.12
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology can be grouped into categories based on their mechanism of action:
+Postoperative:
+It is a common complication following abdominal or pelvic surgery, due to the handling or manipulation of the bowel. It's often transient and resolves within a few days.
+Medications:
+Certain medications can lead to decreased bowel motility, including opioids, anticholinergics, and certain types of muscle relaxants.
+Metabolic/Electrolyte Abnormalities:
+Electrolyte imbalances such as hypokalaemia, hyponatraemia, and hypocalcaemia can affect smooth muscle function and lead to ileus. Additionally, severe dehydration or malnutrition can predispose to the condition.
+Systemic Medical Conditions:
+Conditions such as sepsis, myocardial infarction, or pneumonia can cause a paralytic ileus as part of a systemic response.
+Neurological Conditions:
+Diseases affecting the nerves to the gut, such as Parkinson's disease, spinal cord injuries, or autonomic neuropathy in diabetes, can cause a paralytic ileus.
+Intra-abdominal Conditions:
+Conditions such as peritonitis, pancreatitis, or an inflamed appendix can cause a reflex reduction in bowel motility.
+Improve
+Pathophysiology
+The pathogenesis of paralytic ileus involves disruption of the coordinated muscular contractions of the bowel, known as peristalsis, which propels contents through the digestive tract. This can occur due to a variety of factors, as mentioned in the aetiological considerations.
+Neurogenic Factors:
+A critical element in the pathogenesis of paralytic ileus involves the disruption of the complex neural networks that control bowel motility, including the enteric nervous system (ENS), the autonomic nervous system (sympathetic and parasympathetic divisions), and pain receptors in the gut.
+Inflammatory Mediators:
+In certain conditions like postoperative ileus, surgical manipulation of the bowel triggers an inflammatory response, leading to the release of mediators like nitric oxide and prostaglandins that inhibit smooth muscle contraction.
+Effects of Medications:
+Drugs such as opioids directly affect the ENS and reduce the secretion of acetylcholine, a neurotransmitter essential for muscle contraction, leading to decreased bowel motility.
+Metabolic and Electrolyte Abnormalities:
+Abnormal levels of essential electrolytes, such as potassium, sodium, and calcium, disrupt the normal electrical activity of the smooth muscle cells in the bowel wall, thereby impairing peristalsis.
+Improve
+Clinical features
+Abdominal Pain and Distention:
+Patients with paralytic ileus often present with diffuse, mild to moderate abdominal discomfort that may be colicky or constant in nature. On physical examination, there may be generalized abdominal distention due to gas accumulation within the bowel lumen resulting from impaired peristalsis.
+Nausea and Vomiting:
+As a consequence of disrupted intestinal transit, patients may experience nausea and vomiting. The vomitus usually contains gastric contents initially but may progress to bilious or feculent emesis if the small bowel is significantly involved.
+Absent Bowel Movements:
+A hallmark feature of paralytic ileus is the absence of passage of flatus and faeces due to decreased bowel activity. This can lead to obstipation (severe
+constipation
+) and an inability to pass gas.
+Bowel Sounds:
+On auscultation, bowel sounds may be hypoactive or absent altogether in patients with paralytic ileus. However, it is essential to note that diminished bowel sounds are not specific for this condition and could be present in other gastrointestinal disorders.
+Dehydration and Electrolyte Imbalances:
+Prolonged vomiting coupled with reduced oral intake can result in dehydration and subsequent electrolyte imbalances such as hypokalemia or hyponatremia which exacerbate the existing motility dysfunction.
+Improve
+Investigations
+In cases where a paralytic ileus is suspected and not responding to conservative management, a combination of clinical judgement and imaging investigations should be used to investigate further to exclude more serious pathologies.
+Bedside investigations:
+Blood tests
+Blood glucose
+FBC and CRP - to check inflammatory markers
+U&E including magnesium, phosphate and calcium - to check electrolytes
+Radiological investigations:
+CT scanning
+The gold standard
+Often a distinct transition point can be seen where bowel calibre changes from normal to abnormal
+Dilated bowel loops proximal to the transition point (small bowel >3.0 cm, large bowel >5 cm)
+Abdominal X-Ray
+Sensitivity is 50-60%, therefore less preferable to CT scanning
+Features of bowel obstruction - either small bowel, large bowel or both
+Ultrasound scanning
+Not routinely used in adults at present but has been shown to reliably exclude the condition in up to 89% of patients
+Commonly used in a paediatric setting
+Improve
+Differential diagnosis
+The two most common differentials for paralytic ileus are pseudo-obstruction (AKA Ogilvie syndrome) and mechanical bowel obstruction. These are less likely to occur immediately post surgery than a paralytic ileus. The typical time course of a paralytic ileus is 48-72 hours post operatively.
+Mechanical bowel obstruction:
+May be caused by adhesions, volvulus, hernias, intussusception, foreign bodies or neoplasms
+Similar to paralytic ileus, it may present with abdominal pain,
+constipation
+, nausea and vomiting
+In contrast to paralytic ileus, auscultation may reveal high-pitched, tinkling sounds unlike the absent bowel sounds of paralytic ileus. A mechanical bowel obstruction is also more likely to show a definitive transition point on CT imaging and show definitive air fluid levels
+Pseudo-obstruction:
+Acute distension of the colon
+Similarly to paralytic ileus, electrolyte abnormalities, trauma, drugs and sepsis may contribute to its occurrence
+In contrast to paralytic ileus, pseudo-obstruction effects only the large bowel and does not involve the small bowel, as can be seen on imaging (Abdominal X-Ray).
+Improve
+Management
+The mainstay of treating a paralytic ileus is bowel rest and hydration.
+Management of a paralytic ileus may involve the following:
+Intravenous fluid and bowel rest (nil by mouth) initially. Sips of clear fluid for comfort may be permitted
+A nasogastric tube on free drainage
+Avoidance of opioid analgesia
+Correction of the underlying cause e.g. electrolyte abnormalities
+Discontinue medications known to cause ileus
+Mobilisation
+Prophylactic management:
+Enhanced recovery after surgery pathways are increasingly being utilised in an attempt to expedite the recovery of intestinal function
+Such pathways involve minimising opioid analgesia, chewing gum, laparoscopic surgery and early post operative mobilisation
+Improve
+Colorectal surgery
+Paralytic ileus

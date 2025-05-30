@@ -1,0 +1,97 @@
+Gallbladder cancer
+Gallbladder cancer
+Malignancy of the gallbladder is rare, with less than 1000 new diagnoses being made in the UK each year. Due to its mostly non-specific symptoms, it is commonly diagnosed incidentally and at a late stage, leaving patients with a generally poor prognosis.
+The majority of gallbladder cancers (GBC) are adenocarcinomas (90% of cases).
+Last updated: 10
+th
+October 2023
+Aetiology
+Risk Factors:
+Risk factors for GBC can be separated into pathologies of the gallbladder and biliary tree, and environmental/lifestyle factors:
+Gallbladder and biliary tree pathology
+Environmental/lifestyle factors
+Gallstones or a history of gallstone disease (75% of GBC cases)
+Obesity: most likely as this is a risk factor for gallstone development
+Porcelain gallbladder
+: intramural gallbladder wall calcification which occurs as a result of chronic cholecystitis
+Infection causing chronic cholangitis: most commonly
+salmonella typhi
+and
+Helicobacter
+infections
+Gallbladder adenoma (polyps)
+Carcinogen exposure: cigarette smoking and exposure to industrial chemicals
+Abnormal bile duct anatomy: certain people have a congenital defect of the bile ducts which allows reflux of pancreatic secretions into the biliary tree, which can cause damage
+Primary sclerosing cholangitis (PSC)
+Improve
+Clinical features
+Early-stage GBC is often asymptomatic and is usually found incidentally during surgery (20% of GBC diagnoses). Of patients undergoing a routine cholecystectomy, around 1% will have GBC.
+GBC becomes symptomatic as the tumour increases in size and/or invades other surrounding structures. Symptoms are typically non-specific and can mimic cholecystitis or cholelithiasis:
+Right upper quadrant pain
+Anorexia, nausea, and vomiting
+Malaise and weight loss: usually in later stages of disease
+Palpable right upper quadrant mass
+Depending on the tumour location, patients may also present with obstructive jaundice:
+Yellowing of the skin and sclera
+Pale stools and dark urine
+Pruritus
+Jaundice can be the only sign of GBC if the tumour is small, but its location is obstructing bile drainage.
+Improve
+Staging
+TNM staging
+GBC is staged using the TNM staging system.
+Tis
+Carcinoma in situ
+T1
+Tumour invades the lamina propria and/or the muscular layer of the gallbladder
+T2
+Tumour invades the perimuscular connective tissue without involvement of the visceral peritoneum or liver
+T3
+Tumour invades the visceral peritoneum and/or the liver and/or one adjacent organ (e.g. the stomach, pancreas, bile ducts or intestines)
+T4
+Tumour invades the vascular structures (hepatic artery or portal vein) and/or invades two or more adjacent organs
+Improve
+Management
+The only curative therapy for GBC is surgical resection. Resection is contraindicated if the patient also has:
+Metastatic disease: the liver, peritoneum, and intestines are most commonly affected, but this includes distant metastasis.
+Malignant ascites
+Vascular invasion: superior mesenteric artery, celiac artery, hepatic artery, and portal vein are common sites
+Patients who have surgically unresectable disease often receive chemoradiotherapy, but this has mixed success and is mainly useful for palliation. If patients develop obstructive jaundice, endoscopic common bile duct stents are useful for symptomatic relief.
+If deemed resectable, the surgical method used varies depending upon the diseases T stage:
+TNM stage
+Method
+explanation
+Tis & T1
+Simple cholecystectomy
+Removal of the gallbladder
+T2
+Extended cholecystectomy
+Resection of the gallbladder with a surrounding 2cm resection of adjacent tissue. This also includes the removal of surrounding lymph nodes.
+T3
+Extended cholecystectomy plus resection of affected adjacent organ
+Resection of the gallbladder with a surrounding 2cm resection of adjacent tissue. This also includes the removal of surrounding lymph nodes. If the adjacent affected organ is resectable, this will also be removed either as a whole or in part (e.g. liver resection)
+T4
+Typically unresectable
+Chemoradiotherapy
+N1/2
+Local lymph node resection
+Removal of all surrounding lymph nodes (cystic duct, common bile duct, hepatic artery, portal vein, hepatoduodenal ligaments)
+M1
+Unresectable
+Palliative therapy
+Improve
+Prognosis
+Unfortunately, as most patients are diagnosed at a late stage of disease, the overall prognosis for GBC is poor.
+T Stage
+Survival at 3 years
+T1
+87%
+T2
+34%
+T3
+10%
+T4
+0%
+Improve
+Upper GI and hepatobiliary surgery
+Gallbladder cancer

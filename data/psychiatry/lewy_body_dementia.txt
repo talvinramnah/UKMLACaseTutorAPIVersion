@@ -1,0 +1,97 @@
+Lewy body dementia
+Lewy body dementia
+Lewy body
+dementia
+is an increasingly recognised cause of dementia, accounting for up to 20% of cases. The characteristic pathological feature is alpha-synuclein cytoplasmic inclusions (Lewy bodies) in the substantia nigra, paralimbic and neocortical areas.
+The relationship between
+Parkinson's disease
+and Lewy body dementia is complicated, particularly as dementia is often seen in Parkinson's disease. Also, up to 40% of patients with Alzheimer's have Lewy bodies.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 60.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Alzheimer's disease
+5.00
+Lewy body
+dementia
+1
+Parkinson's disease
+0.22
+Frontotemporal lobar degeneration
+0.05
+Multiple system atrophy
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Lewy body
+dementia
+(LBD)
+represents a spectrum of cognitive disorders characterised by the presence of Lewy bodies, which are intracellular inclusions composed primarily of misfolded alpha-synuclein proteins. The pathophysiology of LBD is complex and multifactorial, involving both molecular and physiological mechanisms.
+The first step in the pathogenesis is the abnormal accumulation of alpha-synuclein, a protein found predominantly in neurons. Under normal circumstances, this protein contributes to synaptic function and plasticity. However, in LBD it aggregates to form insoluble fibrils within neuronal cell bodies, resulting in Lewy bodies.
+The formation of these Lewy bodies leads to neurodegeneration through several mechanisms:
+Direct toxicity: Accumulated alpha-synuclein can disrupt cellular functions by impairing mitochondrial function and promoting oxidative stress, leading to cell death.
+Impaired proteostasis: Alpha-synuclein aggregation impairs the ubiquitin-proteasome system - an essential pathway for protein degradation - leading to further accumulation of toxic proteins.
+Synaptic dysfunction: Alpha-synuclein aggregates interfere with synaptic vesicle trafficking and neurotransmitter release, disrupting neuronal communication.
+The distribution pattern of Lewy bodies correlates with the clinical manifestations seen in LBD. In particular:
+Cognitive impairment
+: Predominantly results from Lewy body formation and subsequent neurodegeneration in cortical regions including the frontal and temporal lobes.
+Parkinsonism: Occurs due to involvement of substantia nigra pars compacta, causing dopaminergic neuron loss which leads to motor symptoms such as
+bradykinesia
+,
+rigidity
+and tremor.
+Visual
+hallucinations
+: Likely related to involvement of occipital cortex and other visual processing areas.
+Autonomic dysfunction: Results from involvement of the peripheral autonomic nervous system, including cardiac sympathetic denervation and enteric nervous system degeneration.
+Furthermore, many patients with LBD also show signs of
+Alzheimer's disease
+pathology, such as amyloid plaques and neurofibrillary tangles. This suggests a potential synergistic effect between alpha-synuclein, beta-amyloid and tau proteins in the pathogenesis of LBD.
+In summary, the pathophysiology of LBD involves abnormal alpha-synuclein accumulation leading to Lewy body formation, neurodegeneration through various mechanisms, and clinical manifestations correlating with the distribution pattern of Lewy bodies. The presence of concurrent Alzheimer's disease pathology may further contribute to cognitive impairment in LBD.
+Improve
+Clinical features
+Features
+progressive
+cognitive impairment
+in contrast to Alzheimer's, early impairments in attention and executive function rather than just memory loss
+cognition may be fluctuating, in contrast to other forms of
+dementia
+usually develops before parkinsonism
+parkinsonism
+visual
+hallucinations
+(other features such as delusions and non-visual hallucinations may also be seen)
+Improve
+Investigations
+Diagnosis
+usually clinical
+single-photon emission computed tomography (SPECT) is increasingly used. It is currently commercially known as a DaTscan. Dopaminergic iodine-123-radiolabelled 2-carbomethoxy-3-(4-iodophenyl)-N-(3-fluoropropyl) nortropane (123-I FP-CIT) is used as the radioisotope. The sensitivity of SPECT in diagnosing Lewy body
+dementia
+is around 90% with a specificity of 100%
+Improve
+Management
+Management
+both acetylcholinesterase inhibitors (e.g. donepezil, rivastigmine) and memantine can be used as they are in Alzheimer's. NICE have made detailed recommendations about what drugs to use at what stages. Please see the link for more details
+neuroleptics should be avoided in Lewy body
+dementia
+as patients are extremely sensitive and may develop irreversible parkinsonism.
+Improve
+References
+NICE - 2018 Dementia guidelines
+Psychiatry
+Lewy body dementia

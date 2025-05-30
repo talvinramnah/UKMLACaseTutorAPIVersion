@@ -1,0 +1,169 @@
+Glucose-6-phosphate dehydrogenase deficiency
+Glucose-6-phosphate dehydrogenase deficiency
+Glucose-6-phosphate dehydrogenase deficiency (G6PD) is an X-linked recessive hereditary disease characterised by the body's inability to protect red blood cells against oxidative stress. This deficiency leads to
+haemolytic anaemia
+, which may be triggered by certain medications, foods such as fava beans, and infections. The
+G6PD
+gene mutation results in a reduced activity of glucose-6-phosphate dehydrogenase enzyme, impairing the pentose phosphate pathway and thus limiting production of NADPH. Absence of sufficient NADPH means red blood cells are unable to neutralise oxidative damage effectively.
+Patients often remain asymptomatic until exposure to triggers initiates haemolysis. Clinical manifestations range from jaundice and pallor to severe anaemia requiring hospitalisation. Diagnosis is confirmed through enzymatic assay demonstrating decreased G6PD activity. Management primarily involves avoidance of known triggers. In severe episodes, supportive care including transfusions may be necessary.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Glucose-6-phosphate dehydrogenase deficiency
+1
+Hereditary spherocytosis
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive hereditary disease, characterised by abnormally low levels of G6PD, a critical enzyme involved in the pentose phosphate pathway. This deficiency can lead to non-immune
+haemolytic anaemia
+under oxidative stress.
+Genetic Factors:
+The most significant risk factor for G6PD deficiency is having a family history of the condition. More than 400 different types of genetic mutations have been identified that can cause G6PD deficiency. Most are single base substitutions leading to amino acid changes.
+Ethnicity and Geography:
+Certain ethnic groups and geographical locations have higher prevalence rates of G6PD deficiency. These include people of African, Mediterranean or Asian descent and those living in malarial regions due to a protective effect against malaria conferred by this condition.
+Sex:
+As an X-linked recessive disorder, males are more likely to express symptomatic G6PD deficiency as they possess only one X chromosome. Females with one mutated gene may become symptomatic depending on the pattern of X-chromosome inactivation.
+Risk factors related to oxidative stress:
+Oxidative stress can trigger haemolysis in individuals with G6PD deficiency. Several factors contribute to increased oxidative stress including:
+Favism:
+Ingestion of fava beans (Vicia faba) has been associated with acute haemolytic crisis in some individuals with G6PD deficiency due to their high content of divicine and isouramil, which generate oxidative stress.
+Medications:
+Several drugs can induce haemolysis in G6PD-deficient individuals. These include antimalarial drugs (such as primaquine and quinidine), sulfonamides, nitrofurantoin, quinolones, and certain analgesics like aspirin (high dose).
+Infections:
+Viral or bacterial infections can cause oxidative stress leading to haemolytic anaemia in G6PD-deficient individuals.
+Improve
+Pathophysiology
+Pathophysiology
+↓ G6PD → ↓ glutathione → increased red cell susceptibility to oxidative stress
+Improve
+Clinical features
+A stereotypical presentation of Glucose-6-phosphate dehydrogenase (G6PD) deficiency often revolves around a patient who, after exposure to certain triggers such as fava beans or specific medications, experiences an episode of
+haemolytic anaemia
+. This is characterised by pallor, fatigue, tachycardia, and possible jaundice. Intravascular haemolysis may lead to haemoglobinuria, causing dark or 'cola' coloured urine.
+However, the presenting features of G6PD deficiency can vary significantly and are largely dependent on the degree of enzyme deficiency and the nature of oxidative stress encountered. These include:
+Asymptomatic state:
+Many individuals with G6PD deficiency remain asymptomatic throughout their lives unless exposed to oxidative stressors. Routine blood tests may show no abnormalities.
+Acute haemolytic anaemia:
+This is the most common clinical manifestation in patients with G6PD deficiency. It typically occurs within hours to days following exposure to an oxidative stressor. Symptoms can range from mild fatigue and pallor to severe anaemia with back pain, jaundice and dark urine due to haemoglobinuria.
+Favism:
+A subset of individuals with G6PD deficiency develop acute haemolysis following ingestion of fava beans (Vicia faba). The reaction typically occurs within 24-48 hours and includes symptoms such as fever, abdominal pain and jaundice.
+Chronic non-spherocytic haemolytic anaemia:
+This is a rare manifestation seen in individuals with very low or absent G6PD activity. Patients present with lifelong persistent haemolysis leading to chronic anaemia and splenomegaly.
+Neonatal hyperbilirubinaemia and kernicterus:
+Newborns with G6PD deficiency can develop severe jaundice within the first few days of life, which can progress to kernicterus if untreated. This condition is characterised by a yellowish staining of the basal ganglia and certain other brain areas caused by bilirubin deposition.
+Methaemoglobinaemia:
+Although rare, some variants of G6PD deficiency have been associated with methaemoglobinaemia, leading to cyanosis and dyspnoea.
+In addition to the clinical manifestations described above, laboratory findings in patients with active haemolysis may include reticulocytosis, indirect hyperbilirubinaemia, decreased haptoglobin levels, increased lactate dehydrogenase (LDH) levels and presence of Heinz bodies on a peripheral blood smear post episode. Notably, during an acute episode, G6PD activity assay may be misleadingly normal due to reticulocytosis; thus it is recommended to perform this test several weeks after resolution of symptoms.
+Improve
+Investigations
+Investigating a patient with suspected Glucose-6-phosphate dehydrogenase (G6PD) deficiency involves a structured approach, beginning with first-line investigations and proceeding to more specific tests if necessary. The aim is to confirm the diagnosis and assess the severity of the enzyme deficiency.
+First-Line Investigations
+Full Blood Count (FBC):
+An initial FBC provides an overview of the patient's haematological status. In G6PD deficiency, there may be evidence of
+haemolytic anaemia
+with decreased haemoglobin levels, elevated reticulocyte count indicating increased red blood cell production, and possibly abnormal red cell indices such as increased mean corpuscular volume (MCV).
+Blood Film:
+A peripheral blood smear can help identify 'bite cells' or 'blister cells', which are characteristic of oxidative damage in G6PD deficiency during a haemolytic episode.
+Lactate Dehydrogenase (LDH) and Bilirubin Levels:
+These markers will be elevated in cases of intravascular haemolysis. Indirect bilirubin predominates due to increased breakdown of red blood cells.
+Haptoglobin Level:
+This protein binds free haemoglobin released from ruptured red blood cells and its level is usually reduced during a hemolytic crisis.
+Further Investigations
+If initial investigations suggest G6PD deficiency, further testing is warranted for confirmation:
+G6PD Enzyme Assay:
+This is the definitive diagnostic test for G6PD deficiency. It measures the activity of the G6PD enzyme in red blood cells. However, it should not be performed during an acute haemolytic episode or immediately after, as newly produced red cells (reticulocytes) have normal enzyme activity which can lead to a false-negative result. It is recommended to wait for at least 3 months post-haemolytic crisis before performing this test.
+Molecular Genetic Testing:
+This is not typically performed in the routine clinical setting but may be useful in certain circumstances such as prenatal diagnosis or when enzyme assay results are inconclusive. It involves identifying mutations in the G6PD gene that cause the deficiency.
+It's important to note that G6PD deficiency is often diagnosed without investigations in populations where the condition is prevalent and the clinical presentation is typical. However, laboratory confirmation of the diagnosis is still recommended whenever possible.
+Improve
+Differential diagnosis
+Comparing G6PD deficiency to
+hereditary spherocytosis
+:
+Comparison of G6PD deficiency to hereditary spherocytosis
+G6PD deficiency
+Hereditary spherocytosis
+Gender
+Male (X-linked recessive)
+Male + female (autosomal dominant)
+Ethnicity
+African + Mediterranean descent
+Northern European descent
+Typical history
+• Neonatal jaundice
+• Infection/drugs precipitate haemolysis
+• Gallstones
+• Neonatal jaundice
+• Chronic symptoms although haemolytic crises may be precipitated by infection
+• Gallstones
+• Splenomegaly is common
+Blood film
+Heinz bodies
+Spherocytes (round, lack of central pallor)
+Diagnostic test
+Measure enzyme activity of G6PD
+Osmotic fragility test
+Improve
+Management
+Management of Glucose-6-phosphate dehydrogenase (G6PD) deficiency involves the avoidance of triggers known to cause haemolytic crises. This includes certain medications, foods and stressors.
+Medications:
+Avoid drugs such as dapsone, primaquine, sulphonamides, nitrofurantoin and quinolones. A comprehensive list can be found on the UK G6PD Deficiency Association's website.
+Foods:
+Fava beans (also known as broad beans) should be avoided due to their high vicine and convicine content which can trigger oxidative stress in patients with G6PD deficiency.
+Infections:
+Ensure prompt treatment of infections as they can precipitate haemolysis. Vaccinations should be kept up-to-date to prevent infection.
+During a haemolytic crisis, management is primarily supportive:
+Treatment during crisis:
+Maintain hydration to support renal function and aid in the clearance of free haemoglobin.
+Oxygen therapy may be necessary if severe anaemia leads to hypoxia.
+Blood transfusion may be required in severe cases where there is life-threatening anaemia. Both packed red blood cells and exchange transfusion have been used depending on the severity of the condition.
+In patients who are asymptomatic carriers or who have chronic non-spherocytic
+haemolytic anaemia
+, splenectomy may reduce the frequency of crises but this approach must be balanced against the risk of overwhelming post-splenectomy infection (OPSI).
+Pregnancy requires careful management due to an increased risk of neonatal jaundice and kernicterus in the newborn. Mothers should be counselled about the risks and neonatologists should be alerted to the baby's G6PD status.
+Genetic counselling may be beneficial for affected individuals and their families, as G6PD deficiency is an X-linked disorder. This can help family members understand the risk of transmission to future generations.
+Improve
+Complications
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency, a common enzymopathy, can lead to several complications. The severity and frequency of these complications can vary depending on the type of G6PD mutation and other environmental factors.
+Haemolytic Anaemia
+The most frequent complication is acute haemolytic anaemia, which generally occurs following exposure to oxidative stress. Triggers can include certain medications (e.g., antimalarials like primaquine), infections, or ingestion of fava beans.
+Intravascular haemolysis:
+This is less common but more severe. It involves the destruction of red blood cells within the blood vessels resulting in haemoglobinuria and potentially leading to acute renal failure.
+Extravascular haemolysis:
+More commonly, G6PD deficiency leads to extravascular haemolysis where red blood cells are destroyed in the spleen.
+Neonatal Jaundice
+G6PD deficiency is one of the causes of neonatal jaundice and kernicterus. Early detection and treatment are essential to prevent bilirubin encephalopathy.
+Infections
+Patients with G6PD deficiency may have an increased susceptibility to certain infections due to impaired leukocyte function, although this remains controversial. Infections like
+Pneumocystis jirovecii
+,
+Mycobacterium tuberculosis
+, and
+Salmonella typhi
+, among others have been associated with G6PD deficiency.
+Methaemoglobinaemia
+Rarely, patients with G6PD deficiency may develop methaemoglobinaemia, a condition characterised by an increased level of methaemoglobin in the blood, which can lead to cyanosis and hypoxia.
+Chronic Nonspherocytic Haemolytic Anaemia (CNSHA)
+A small subset of G6PD-deficient individuals may present with CNSHA. This is a rare and severe form of haemolytic anaemia that persists throughout life.
+X-linked Mental Retardation
+Some research suggests a potential link between G6PD deficiency and X-linked mental retardation, although this association remains under investigation.
+Improve
+Haematology
+Glucose-6-phosphate dehydrogenase deficiency

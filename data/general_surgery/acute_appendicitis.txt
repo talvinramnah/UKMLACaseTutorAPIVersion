@@ -1,0 +1,209 @@
+Acute appendicitis
+Acute appendicitis
+Acute appendicitis describes the acute inflammation of the vermiform appendix. It is typically caused by infection secondary to luminal obstruction with faecolith, impacted normal stool, lymphoid hyperplasia or a tumour, and is most common between the ages of 10 and 20. It is the most common abdominal surgical emergency worldwide, with a lifetime risk of approximately 7-8%.  Definitive treatment is surgical removal of the appendix.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 110.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Pelvic inflammatory disease
+2.73
+Acute cholecystitis
+1.27
+Acute appendicitis
+1
+Ectopic pregnancy
+0.36
+Small bowel obstruction
+0.18
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors for the development of acute appendicitis are:
+Male sex
+Lifetime risk for acute appendicitis is
+8.6% in males and 6.9% in females
+However, studies have shown that females are
+twice as likely
+to undergo an appendicectomy
+Age 10-20 years
+Appendicitis affects adolescents and young adults most commonly
+Positive family history
+Studies have shown that the risk of acute appendicitis is approximately
+3 times higher
+in those with a positive family history
+No causative gene has been identified
+Caucasian ethnicity: the reason for this is largely unknown
+Improve
+Pathophysiology
+The primary cause of appendicitis is believed to be luminal obstruction of the appendix. Obstruction can result from various factors, including:
+Faecaliths
+: Hardened faecal matter (fecaliths) are the most common cause of luminal obstruction, particularly in adults.
+Lymphoid hyperplasia
+: In children and adolescents, lymphoid hyperplasia, often secondary to viral or bacterial infections, can cause luminal obstruction by enlarging lymphoid follicles.
+Foreign bodies
+: Ingested foreign bodies can become lodged within the appendix, causing obstruction.
+Tumours
+: Neoplastic growths, such as carcinoid tumours or adenocarcinomas, can cause luminal obstruction, although this is relatively rare.
+Bacterial infections may play a role in the development of appendicitis. In some cases, pathogens can invade the appendix directly or be introduced through the bloodstream or lymphatic system. Common bacteria implicated in appendicitis include Escherichia coli, Bacteroides, Streptococcus, and Enterobacter species.
+The pathogenesis of appendicitis involves a series of events initiated by luminal obstruction or infection, ultimately leading to inflammation, ischemia, and potential perforation.
+Luminal obstruction and increased intraluminal pressure
+: Luminal obstruction causes an increase in intraluminal pressure within the appendix. As the pressure rises, venous and lymphatic drainage becomes compromised, resulting in tissue ischemia and hypoxia.
+Bacterial overgrowth and invasion
+: The obstruction also promotes bacterial overgrowth within the appendix. The increased intraluminal pressure and hypoxia facilitate bacterial invasion of the appendiceal wall, leading to inflammation and further exacerbating ischemia.
+Inflammation and ischemia
+: The inflammatory response within the appendix, driven by bacterial invasion and tissue ischemia, results in the release of pro-inflammatory cytokines, leukocyte infiltration, and edema. The increasing pressure within the appendix compromises arterial blood flow, further exacerbating ischemia and inflammation.
+Necrosis and perforation
+: As the ischemic and inflammatory processes progress, tissue necrosis may occur, leading to appendiceal wall weakening and potential perforation. Perforation can result in the release of bacteria and inflammatory contents into the peritoneal cavity, causing peritonitis, an abscess, or even sepsis, which can be life-threatening.
+Improve
+Clinical features
+Abdominal pain is seen in the vast majority of patients:
+peri-umbilical abdominal pain (visceral stretching of appendix lumen and appendix is midgut structure) radiating to the right iliac fossa (RIF) due to localised parietal peritoneal inflammation.
+the migration of the pain from the centre to the RIF has been shown to be one of the strongest indicators of appendicitis
+patients often report the pain being worse on coughing or going over speed bumps. Children typically can't hop on the right leg due to the pain.
+Other features:
+vomit once or twice but marked and persistent
+vomiting
+is unusual
+diarrhoea
+is rare. However, pelvic appendicitis may cause localised rectal irritation of some loose stools. A pelvic abscess may also cause diarrhoea
+mild pyrexia is common - temperature is usually 37.5-38
+o
+C. Higher temperatures are more typical of conditions like mesenteric adenitis
+anorexia
+is very common. It is very unusual for patients with appendicitis to be hungry
+around 50% of patients have the typical symptoms of anorexia, peri-umbilical pain and
+nausea
+followed by more localised
+right lower quadrant pain
+Examination
+generalised peritonitis if perforation has occurred or localised peritonism
+rebound and percussion tenderness, guarding and rigidity
+retrocaecal appendicitis may have relatively few signs
+digital rectal examination may reveal boggy sensation if pelvic abscess is present, or even right-sided tenderness with a pelvic appendix
+classical signs
+Rovsing's sign (palpation in the LIF causes pain in the RIF) is now thought to be of limited value
+psoas sign: pain on extending hip if retrocaecal appendix
+Improve
+Investigations
+Diagnosis
+typically raised inflammatory markers coupled with compatible history and examination findings should be enough to justify appendicectomy
+a neutrophil-predominant
+leucocytosis
+is seen in 80-90%
+urine analysis: useful to exclude pregnancy in women, renal colic and urinary tract infection. In patients with appendicitis, urinalysis may show mild leucocytosis but no nitrites
+there are no definite rules on the use of imaging and its use is often determined by the patient's gender, age, body habitus and the likelihood of appendicitis
+thin, male patients with a high likelihood of appendicitis may be diagnosed clinically
+ultrasound is useful in females where pelvic organ pathology is suspected. Although it is not always possible to visualise the appendix on ultrasound, the presence of free fluid (always pathological in males) should raise suspicion
+CT scans are widely used in patients with suspected appendicitis in the US but this practice has not currently reached the UK, due to the concerns regarding excessive ionising radiation and resource limitations
+Improve
+Differential diagnosis
+There are several conditions which can present with symptoms and signs similar to those of acute appendicitis. They can be categorised into gynaecological, gastrointestinal and urological disorders.
+Many
+gynaecological disorders
+can mimic appendicitis and it is important to perform a
+pregnancy test
+in any female of child-bearing age. An
+ultrasound scan
+is often used to differentiate between appendicitis and gynaecological conditions.
+Ectopic pregnancy
+Similarities: both can cause right iliac fossa pain,
+nausea
+/
+vomiting
+and fever
+Differences: ectopic pregnancies typically present with a 6-8 week history of amenorrhoea with or without vaginal bleeding and a positive pregnancy test
+Ovarian torsion
+Similarities: both can cause right iliac fossa pain and
+nausea and vomiting
+Differences: a palpable adnexal mass is felt in
+50-70%
+of cases of ovarian torsion
+Pelvic inflammatory disease
+Similarities: both can cause lower abdominal pain, nausea/vomiting and fever
+Differences: in pelvic inflammatory disease pain is typically bilateral, there is vaginal/cervical discharge and cervical motion tenderness on examination
+Mittelschmerz  (ruptured Graafian follicle)
+Similarities: both can cause lower abdominal pain
+Differences: Mittelschmerz does not cause localised pain or nausea/vomiting
+Gastrointestinal disorders
+which share common symptoms with acute appendicitis include:
+Acute mesenteric adenitis (in children)
+Similarities: both can cause lower abdominal pain with guarding
+Differences: mesenteric adenitis typically occurs in
+children
+after a
+viral upper respiratory tract infection
+and it does not cause localised tenderness
+Meckel's diverticulitis
+Similarities: both can cause periumbilical pain which localises to the right iliac fossa and peritonitis
+Differences: Meckel's diverticulitis is
+clinically indistinguishable
+from acute appendicitis and is often identified when a normal appendix is found during laparoscopic appendicectomy
+Inflammatory bowel disease (Crohn's)
+Similarities: both typically present in young adults and can cause
+right lower quadrant pain
+, fever and nausea/vomiting and raised inflammatory markers
+Differences: Crohn's disease often presents with chronic
+diarrhoea
+and there may be a positive family history
+Acute cholecystitis
+Similarities: both present with right-sided abdominal pain with or without guarding and raised inflammatory markers
+Differences: In cholecystitis pain is typically in the right upper quadrant region and there may be a palpable gallbladder
+Urological disorders
+which should be excluded:
+Testicular torsion
+Similarities: both can cause abdominal pain and nausea/vomiting and affect children and young adults most commonly
+Differences: in testicular torsion, there is typically
+severe testicular pain and testicular oedema
+Ureteric stones (especially on right side)
+Similarities: both can cause right-sided abdominal pain and nausea/vomiting
+Differences: in nephrolithiasis, pain is typically in the flank, colicky in nature and
+radiates to the groin
+Urinary tract infection
+Similarities: both can present with lower abdominal pain and fever
+Differences: urinary tract infections typically present with dysuria, urgency and frequency and affect older adults more commonly
+Improve
+Management
+Management
+appendicectomy
+can be performed via either an open or laparoscopic approach
+laparoscopic appendicectomy is now the treatment of choice
+administration of prophylactic intravenous antibiotics reduces wound infection rates
+patients with perforated appendicitis (typical around 15-20%) require copious abdominal lavage.
+patients without peritonitis who have an appendix mass should receive broad-spectrum antibiotics and consideration given to performing an interval appendicectomy
+be wary in the older patients who may have either an underlying caecal malignancy or perforated sigmoid diverticular disease.
+trials have looked at the use of intravenous antibiotics alone in the treatment of appendicitis. The evidence currently suggests that whilst this is successful in the majority of patients, it is associated with a longer hospital stay and up to 20% of patients go on to have an appendicectomy within 12 months.
+Improve
+Complications
+Perforation
+Perforation is a significant complication of appendicitis, occurring when the inflamed appendix ruptures due to increasing intraluminal pressure and tissue necrosis. It occurs in around 20% of cases. Perforation can lead to the release of bacteria and inflammatory contents into the peritoneal cavity, causing localized or generalized peritonitis. Prompt surgical intervention, intravenous antibiotics, and supportive care are necessary to manage perforation and prevent further complications.
+Abscess Formation
+Appendiceal abscesses can develop as a result of perforation or localized infection within the appendix. Abscesses may present as a palpable mass or be detected via imaging modalities such as ultrasound or computed tomography (CT) scans. Treatment options include percutaneous drainage guided by imaging, intravenous antibiotics, and delayed appendectomy, depending on the size and location of the abscess and the patient's clinical status.
+Phlegmon
+A phlegmon is an inflammatory mass formed by a localized infection and oedema, often seen in the early stages of appendiceal perforation. It can cause localized tenderness, and fever. Treatment typically includes intravenous antibiotics, bowel rest, and supportive care. In some cases, surgical intervention may be necessary, either through an interval appendectomy or an immediate appendectomy, depending on the clinical presentation and response to conservative management.
+Peritonitis
+Peritonitis, a diffuse inflammation of the peritoneum, can occur as a result of appendiceal perforation and subsequent contamination of the peritoneal cavity with bacteria and inflammatory contents. Signs of peritonitis include severe abdominal pain, tenderness, guarding, and fever. Management involves prompt surgical intervention (appendectomy and peritoneal lavage), intravenous antibiotics, and supportive care, including fluid resuscitation and analgesia.
+Postoperative Complications
+Postoperative complications can arise following appendectomy, including wound infection, intra-abdominal abscess, and postoperative ileus. Wound infections may present as erythema, warmth, and discharge at the incision site, while intra-abdominal abscesses can cause persistent fever, abdominal pain, and leukocytosis. Postoperative ileus, characterized by the temporary cessation of bowel function, may result in abdominal distention,
+nausea
+, and
+vomiting
+. Management of these complications includes appropriate wound care, antibiotics, and supportive measures such as bowel rest and analgesia. pain,
+Sepsis
+In severe cases, untreated or inadequately managed appendicitis can progress to sepsis, a life-threatening systemic inflammatory response to infection. Sepsis can lead to organ dysfunction, shock, and ultimately, death. Clinical manifestations of sepsis include fever or hypothermia, tachycardia, tachypnea, hypotension, and altered mental status. Management involves prompt surgical intervention, broad-spectrum intravenous antibiotics, fluid resuscitation, vasopressors if necessary, and organ support as needed.
+Improve
+General surgery
+Acute appendicitis

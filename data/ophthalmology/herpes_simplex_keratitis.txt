@@ -1,0 +1,77 @@
+Herpes simplex keratitis
+Herpes simplex keratitis
+Herpes simplex
+keratitis
+(HSK) is a common and potentially sight-threatening ocular infection caused primarily by herpes simplex virus type 1 (HSV-1) and, less frequently, by herpes simplex virus type 2 (HSV-2). Timely diagnosis and appropriate treatment are essential to prevent complications and preserve visual function.
+Last updated: 17
+th
+June 2024
+Epidemiology
+Incidence: 14.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Microbial keratitis
+1.43
+Herpes simplex keratitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Herpes simplex virus, a double-stranded DNA virus, belongs to the Herpesviridae family. HSV-1 is the most common cause of HSK, although HSV-2 may also be implicated, particularly in neonates. The virus typically enters the host through mucosal surfaces or small skin abrasions, establishing latency in the trigeminal ganglion. Reactivation of the virus can lead to recurrent HSK.
+Improve
+Clinical features
+General features
+red, painful eye
+photophobia
+epiphora
+visual acuity may be decreased
+fluorescein staining may show an epithelial ulcer
+The most common manifestations include:
+Epithelial
+keratitis
+- superficial corneal involvement presenting as a branching dendritic or geographic ulcer with fluorescein staining, eye redness, foreign body sensation, photophobia, and blurred vision.
+Stromal keratitis - deeper corneal involvement, characterized by inflammation and corneal oedema, which may lead to scarring and vision loss. Patients may experience severe pain, redness, and photophobia.
+Endotheliitis - inflammation of the corneal endothelium, leading to corneal oedema and reduced vision.
+Improve
+Investigations
+Several diagnostic tools are available to confirm the diagnosis of HSK, including:
+Slit-lamp examination - A comprehensive eye examination using a slit-lamp to visualize ocular structures is the first step in diagnosing HSK. Characteristic findings include dendritic ulcers or geographic ulcers, stromal inflammation, and endothelial changes.
+Fluorescein staining - This test helps visualize epithelial defects, such as dendritic or geographic ulcers, which stain with fluorescein and appear bright green under cobalt blue light.
+Confocal microscopy - This non-invasive imaging modality provides high-resolution images of the cornea's layers and may aid in diagnosing HSK when the clinical presentation is atypical.
+Polymerase chain reaction (PCR) - PCR is a highly sensitive and specific method to detect HSV DNA in corneal scrapings or tear samples. It is particularly useful in atypical cases or when a definitive diagnosis is necessary.
+Viral culture - Although less sensitive than PCR, viral culture can also confirm the presence of HSV in corneal or conjunctival samples.
+Improve
+Management
+Herpes simplex
+keratitis
+(HSK) is a leading cause of corneal blindness, necessitating prompt and effective management. The mainstays of treatment include antiviral therapy, suppression of inflammation, and prevention of recurrence. Clinical management must differentiate between epithelial and stromal disease, as the treatment approaches differ.
+Management of Epithelial Keratitis:
+Topical antiviral therapy is the primary treatment.
+Avoid topical steroids as they can exacerbate the viral infection.
+Consider debridement in cases of resistant epithelial keratitis.
+Management of Stromal Keratitis:
+Topical corticosteroids to reduce stromal inflammation.
+Concurrent antiviral cover to prevent viral replication.
+Frequent monitoring for potential complications, such as increased intraocular pressure or secondary infection.
+Management of Endothelial Keratitis:
+Topical corticosteroids combined with antiviral therapy.
+Regular monitoring of intraocular pressure.
+Long-term Management:
+Prophylactic oral antiviral therapy to prevent recurrence.
+Regular follow-up to monitor for recurrence and manage complications.
+Improve
+References
+American Acadamy of Ophthalmology - What is Herpes Keratitis?
+Infective keratitis
+Herpes simplex keratitis

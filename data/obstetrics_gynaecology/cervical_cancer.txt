@@ -1,0 +1,240 @@
+Cervical cancer
+Cervical cancer
+Cervical
+cancer
+is a malignant neoplasm arising from the transformation of cervical epithelial cells, primarily affecting the squamous cells lining the cervix. It is the fourth most common cancer in women globally, with human papillomavirus (HPV) infection as the primary risk factor. HPV types 16 and 18 are responsible for approximately 70% of cases. Other risk factors include smoking, long-term oral contraceptive use, and immunosuppression.
+Cervical cancer typically develops gradually, progressing from precancerous lesions (cervical intraepithelial neoplasia, CIN) to invasive carcinoma. Screening through Papanicolaou (Pap) smears and HPV testing aids early detection and intervention, significantly reducing morbidity and mortality. Vaccination against HPV further decreases the risk.
+Symptoms, such as abnormal vaginal bleeding, discharge, and pelvic pain, typically present in advanced stages. Diagnosis involves colposcopy, biopsy, and imaging. Treatment options include surgery, radiation, and chemotherapy, depending on the stage and individual patient factors.
+Last updated: 24
+th
+April 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Cervical
+cancer
+is primarily linked to persistent infection with high-risk subtypes of the human papillomavirus (HPV). HPV is a sexually transmitted virus, and its role as an aetiological agent has been well established. The following factors are implicated in the development of cervical cancer:
+Human Papillomavirus (HPV) Infection:
+Persistent infection with certain oncogenic strains, notably
+HPV 16
+and
+HPV 18
+, is considered the most significant risk factor. These strains account for approximately 70% of all cervical cancers.
+Sexual Behaviour:
+Early sexual activity, multiple sexual partners, or having a partner who has had multiple sexual partners increases the likelihood of HPV exposure.
+Tobacco Use:
+Smoking may increase the risk by facilitating HPV persistence and progression to precancerous lesions.
+HIV Infection:
+HIV-infected women have an increased risk due to immunosuppression which enhances susceptibility to HPV infection.
+Socioeconomic Factors:
+Lower socioeconomic status can affect access to screening services leading to late-stage diagnosis or inadequate treatment.
+In addition to these primary risk factors, several other elements have been associated with elevated cervical cancer risks. These include long-term use of oral contraceptives, multiparity (having given birth to two or more children), co-infection with Chlamydia trachomatis or herpes simplex virus type-2 (HSV-2), poor diet and obesity.
+The understanding that almost all cases of cervical cancer are caused by persistent infection with high-risk types of HPV has led to substantial advances in cervical cancer prevention. This includes HPV vaccination and HPV testing as part of cervical screening programmes.
+Improve
+Pathophysiology
+Cervical
+cancer
+is the result of a complex, multi-step process that begins with infection by the
+Human Papillomavirus (HPV)
+. The virus targets basal epithelial cells in the transformation zone of the cervix, which are particularly susceptible due to their high mitotic activity.
+HPV Infection and Integration
+The viral proteins E6 and E7 play key roles in cervical carcinogenesis. Following infection, these oncoproteins are overexpressed, leading to inhibition of tumour suppressor proteins p53 and retinoblastoma (Rb) respectively.
+E6 promotes degradation of p53, impeding its ability to trigger apoptosis in response to DNA damage. Concurrently, E7 binds to Rb, releasing transcription factor E2F which then initiates cell cycle progression.
+This uncontrolled cell proliferation coupled with impaired apoptosis creates an environment conducive for genetic instability and accumulation of additional mutations.
+Progression from CIN to Carcinoma
+Cervical Intraepithelial Neoplasia (CIN) represents a spectrum of pre-malignant changes that precede invasive disease. CIN lesions are classified into three grades based on extent of abnormal cellular differentiation and proportion of epithelium involved.
+CIN1 lesions are usually self-limiting and often regress without intervention. However, persistent HPV infection can lead to progression to higher grade lesions - CIN2 or CIN3.
+While most CIN2/3 lesions remain stable or regress over time, a subset may progress to invasive carcinoma if left untreated. This transition is characterised by invasion of malignant cells through the basement membrane into underlying stroma.
+Role of Immune Response
+The host immune response plays a significant role in determining the outcome of HPV infection. An effective immune response can clear the virus and promote regression of CIN lesions.
+However, HPV has developed strategies to evade immune detection, including downregulation of antigen presentation and induction of immunosuppressive cytokines.
+Persistent infection and disease progression are often associated with an insufficient or ineffective local immune response.
+Molecular Alterations in Carcinogenesis
+Additional genetic changes are usually required for progression from pre-malignant lesions to invasive cancer. These may include activation of oncogenes such as PIK3CA, or inactivation of tumour suppressor genes other than p53/Rb.
+Epigenetic alterations also contribute to cervical carcinogenesis. DNA methylation, histone modification and microRNA dysregulation can alter gene expression without changing the underlying DNA sequence.
+Improve
+Clinical features
+Cervical
+cancer
+may be detected during routine cervical cancer screening.
+The stereotypical symptomatic presentation of cervical cancer often involves a woman, usually post-coital, presenting with painless vaginal bleeding. This is typically associated with advanced disease and occurs due to the invasion of the tumour into surrounding tissues.
+Local Symptoms
+Vaginal Bleeding:
+As mentioned earlier, this is a common symptom and may occur after sexual intercourse (post-coital), between menstrual periods (intermenstrual), or in post-menopausal women.
+Vaginal Discharge
+:
+An abnormal discharge, often foul-smelling due to necrosis of tumour tissue, may be reported by patients.
+Pelvic Pain:
+This may occur due to advanced local disease causing nerve invasion or obstruction of pelvic structures.
+Improve
+Differential diagnosis
+The differential diagnosis of cervical
+cancer
+includes a number of conditions that may present with similar symptoms. Three of the most common are cervical dysplasia, endometrial polyps, and pelvic inflammatory disease (PID).
+Cervical Dysplasia
+Unlike cervical cancer, which is characterised by invasive malignant cells, cervical dysplasia refers to pre-cancerous changes in the cells on the surface of the cervix. These changes are not invasive but can potentially develop into cancer over time if not treated.
+While both conditions may be asymptomatic in early stages, symptomatic presentation differs. Cervical cancer often presents with abnormal bleeding (intermenstrual or post-coital), discharge or advanced symptoms such as pelvic pain and urinary symptoms. In contrast, cervical dysplasia is usually asymptomatic and typically detected during routine Pap smear screening.
+Endometrial Polyps
+Endometrial polyps are benign growths in the lining of the uterus that can extend into the uterine cavity. They differ from cervical cancer in their location; while endometrial polyps arise from the uterine lining, cervical cancer originates in the cervix.
+In terms of clinical presentation, both conditions may cause irregular or
+heavy menstrual bleeding
+. However, endometrial polyps can also cause infertility issues which is not a typical presentation for early-stage cervical cancer.
+Pelvic Inflammatory Disease (PID)
+PID is an infection of a woman's reproductive organs, typically caused by sexually transmitted bacteria moving upward from the vagina into other reproductive organs. It differs from cervical cancer in its etiology as it's infectious rather than neoplastic.
+Clinically, PID often presents with lower abdominal pain, fever, abnormal
+vaginal discharge
+and painful urination. These symptoms are not typical of early-stage cervical cancer but may be seen in advanced stages.
+Improve
+Staging
+FIGO Staging
+FIGO Stage
+Description
+IA
+Confined to cervix, only visible by microscopy and less than 7 mm wide:
+A1 = < 3 mm deep
+A2 = 3-5 mm deep
+IB
+Confined to cervix, clinically visible or larger than 7 mm wide:
+B1 = < 4 cm diameter
+B2 = > 4 cm diameter
+II
+Extension of tumour beyond cervix but not to the pelvic wall
+A = upper two thirds of vagina
+B = parametrial involvement
+III
+Extension of tumour beyond the cervix and to the pelvic wall
+A = lower third of vagina
+B = pelvic side wall
+NB: Any tumour causing hydronephrosis or a non-functioning kidney is considered stage III
+IV
+Extension of tumour beyond the pelvis or involvement of bladder or rectum
+A = involvement of bladder or rectum
+B = involvement of distant sites outside the pelvis
+Improve
+Management
+The management of cervical
+cancer
+is determined by the FIGO staging and the wishes of the patient to maintain fertility.
+Management by Stage 1
+Management of stage IA tumours
+Gold standard of treatment is hysterectomy +/- lymph node clearance
+Nodal clearance for A2 tumours
+For patients wanting to maintain fertility, a cone biopsy with negative margins can be performed
+Close follow-up of these patients is advised
+For A2 tumours, node evaluation must be performed
+Radical trachelectomy is also an option for A2
+Management of stage IB tumours
+For B1 tumours: radiotherapy with concurrent chemotherapy is advised
+Radiotherapy may either be bachytherapy or external beam radiotherapy
+Cisplatin is the commonly used chemotherapeutic agent
+For B2 tumours: radical hysterectomy with pelvic lymph node dissection
+Management of stage II and III tumours
+Radiation with concurrent chemotherapy
+See above for choice of chemotherapy and radiotherapy
+If hydronephrosis, nephrostomy should be considered
+Management of stage IV tumours
+Radiation and/or chemotherapy is the treatment of choice
+Palliative chemotherapy may be best option for stage IVB
+Management of recurrent disease
+Primary surgical treatment: offer chemoradiation or radiotherapy
+Primary radiation treatment: offer surgical therapy
+Improve
+Complications
+Fertility and Pregnancy
+Treatment for cervical
+cancer
+, particularly surgery and radiation therapy, can have significant consequences on fertility and pregnancy outcomes. Hysterectomy and radical trachelectomy render future pregnancies impossible, while radiation therapy can lead to premature ovarian failure and uterine damage, increasing the risk of infertility, miscarriage, and preterm labour.
+Urinary Dysfunction
+Complications involving the urinary system may arise from the local invasion of the tumour or as a consequence of treatment:
+Ureteral obstruction:
+Advanced cervical cancer can infiltrate the ureters, causing obstruction and hydronephrosis.
+Urinary incontinence and retention:
+Surgery and radiation therapy can damage nerves and muscles controlling urinary function, leading to urinary incontinence or retention.
+Bowel Dysfunction
+Cervical cancer and its treatments can also result in bowel dysfunction:
+Obstruction:
+Direct invasion of the tumour into the rectum, or radiation-induced fibrosis, can cause bowel obstruction.
+Radiation proctitis:
+Radiation therapy can induce inflammation and damage to the rectum, causing symptoms such as diarrhoea, urgency, and rectal bleeding.
+Lymphedema
+Lymph node dissection and radiation therapy can disrupt the lymphatic system, leading to lymphedema. This condition typically presents as painless swelling of the lower extremities and may be associated with an increased risk of infection.
+Lymphocyst Formation
+Lymphocysts are fluid-filled cavities that can develop following lymph node dissection. They are usually asymptomatic but may cause discomfort, infection, or compression of adjacent structures.
+Sexual Dysfunction
+Treatments for cervical cancer, such as surgery and radiation, can affect sexual function by causing changes in anatomy, vaginal dryness, pain during intercourse, and a decrease in sexual desire.
+Psychological Impact
+A cervical cancer diagnosis and its subsequent treatments can have profound psychological implications, leading to anxiety, depression, and feelings of loss related to fertility and sexual function. Adequate emotional and psychological support is crucial for patients during and after treatment.
+Fistula Formation
+Advanced cervical cancer or treatment-related damage can lead to the development of fistulas, abnormal connections between organs, such as vesicovaginal (bladder and vagina) or rectovaginal (rectum and vagina) fistulas.
+Recurrence and Metastasis
+Despite successful initial treatment, cervical cancer can recur locally or metastasize to distant sites, such as the lungs, liver, and bones, leading to additional complications and challenges in management.
+Improve
+Prognosis
+The prognosis of cervical
+cancer
+is largely contingent on the stage at diagnosis, with early detection significantly improving survival rates. The International Federation of Gynaecology and Obstetrics (FIGO) staging system is typically used to categorise cervical cancer.
+Five-Year Survival Rates
+Stage 0:
+Also known as carcinoma in situ, this non-invasive stage has a near 100% five-year survival rate.
+Stage I:
+Localised to the cervix, Stage I has a high five-year survival rate ranging from 80-93% depending on substage.
+Stage II:
+With spread beyond the uterus but not to pelvic walls or lower third of vagina, five-year survival rate decreases to approximately 58-63%.
+Stage III:
+Cancer extends to pelvic wall or lower third of vagina, causing hydronephrosis or non-functioning kidney. Five-year survival rate drops further to around 32-39%.
+Stage IV:
+Characterised by spread beyond true pelvis or clinically evident into bladder or rectum mucosa. This advanced stage has a poor prognosis with a five-year survival rate falling to approximately 15-16% for Stage IVA and less than 10% for Stage IVB.
+Patient's age, general health status, histological type and grade of tumour can also influence prognosis. Squamous cell carcinomas have slightly better outcomes compared to adenocarcinomas or adenosquamous carcinomas. High-grade tumours are associated with poorer prognosis due to higher risk of lymph node metastasis and recurrence after treatment.
+The presence of lymphovascular space invasion (LVSI), positive surgical margins and lymph node involvement are other significant prognostic factors. Patients with these features often have a poorer prognosis due to increased risk of recurrence and distant metastasis.
+Despite advances in screening and vaccination, cervical cancer remains a significant global health issue. Early detection through regular screening and prompt treatment significantly improve survival outcomes.
+Improve
+Screening and prevention
+The cervical
+cancer
+screening programme has undergone a significant evolution in recent years. For many years the smears were examined for signs of dyskaryosis which may indicate cervical intraepithelial neoplasia -  management was based solely on the degree of dyskaryosis. The introduction of HPV testing allowed patients with mild dyskaryosis to be further risk-stratified, i.e. as HPV is such a strong risk factor patients who were HPV negative could be treated as having normal results.
+The NHS has now moved to an
+HPV first system
+, i.e. a sample is tested for high-risk strains of human papillomavirus (hrHPV) first and cytological examination is only performed if this is positive.
+Management of results
+Negative hrHPV
+return to normal recall, unless
+the test of cure (TOC) pathway: individuals who have been treated for CIN1, CIN2, or CIN3 should be invited 6 months after treatment for a test of cure repeat cervical sample in the community
+the untreated CIN1 pathway
+follow-up for incompletely excised cervical glandular intraepithelial neoplasia (CGIN) / stratified mucin producing intraepithelial lesion (SMILE) or cervical cancer
+follow-up for borderline changes in endocervical cells
+Positive hrHPV
+samples are examined cytologically
+if the cytology is abnormal → colposcopy
+this includes the following results:
+borderline changes in squamous or endocervical cells.
+low-grade dyskaryosis.
+high-grade dyskaryosis (moderate).
+high-grade dyskaryosis (severe).
+invasive squamous cell carcinoma.
+glandular neoplasia
+if the cytology is normal (i.e. hrHPV +ve but cytologically normal) the test is repeated at 12 months
+if the repeat test is now hrHPV -ve → return to normal recall
+if the repeat test is still hrHPV +ve and cytology still normal → further repeat test 12 months later:
+If hrHPV -ve at 24 months → return to normal recall
+if hrHPV +ve at 24 months → colposcopy
+If the sample is 'inadequate'
+repeat the sample within 3 months
+if two consecutive inadequate samples then → colposcopy
+The follow-up of patients who've previously had CIN is complicated but as a first step, individuals who've been treated for CIN1, CIN2, or CIN3 should be invited 6 months after treatment for a test of cure repeat cervical sample in the community.
+Improve
+References
+Clinical Knowledge Summaries - Cervical cancer management guidelines
+Cancer Research UK - Cervical cancer
+Cancer
+Cervical cancer

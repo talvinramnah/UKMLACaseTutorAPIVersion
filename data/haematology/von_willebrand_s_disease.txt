@@ -1,0 +1,185 @@
+Von Willebrand's disease
+Von Willebrand's disease
+Von Willebrand disease (VWD) is the commonest inherited clotting disorder, occurring in approximately 1% of the population, though the number of those who are symptomatic is estimated at 0.01%. Individuals are commonly asymptomatic, however, some may present with recurrent bleeding episodes, typically epistaxis, post-dental procedures and in women, heavy menstrual bleeding.
+It affects men and women equally and is primarily a congenital condition though there are acquired forms of the disease. This is caused by a deficiency in von Willebrand factor (VWF), which plays a main role in primary haemostasis.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+VWD is caused by a deficiency (either in function of level) of VWF. Its role is in:
+Mediating platelet adhesion to sites of damaged vascular endothelium
+As a bridging molecule for platelet aggregation.
+Indirectly it acts as a carrier for FVIII in its inactive form.
+Factor VIII works by interacting with factor IX and the intrinsic pathway.
+Improve
+Classification
+The most common cause for VWD is due to an inherited gene mutation (~95-99%). This can be classified as:
+VWD type 1 (~70-80%):
+Functionally normal VWF, but reduced levels
+May have low levels of factor VIII (FVIII)
+Typically autosomal dominant (AD) inheritance pattern.
+The most common form of the disease
+Typically manifests as mild mucocutaneous bleeding, however symptoms can be more severe when VWF levels of <0.15 IU/ml.
+Epistaxis and
+bruising
+are the most common presentation in children
+Menorrhagia is the most common finding in women of child bearing age
+ABO blood group shown to influence VWF levels: individuals with non-O blood groups have higher levels than O blood group
+VWD type 2 (~20%):
+Normal levels of VWF, but functionally defective
+Sub types include A, B, M and N
+Type 2A: VWF multimers not the right size
+Type 2B: VWF not the right size and too active, leading to shortage of both VWF and platelets.
+Type 2M: low or absent binding to platelet receptors. FVIII still binds normally
+Type 2N: VWF has reduced affinity for FVIII, leading to reduced levels. Typically autosomal recessive inheritance.
+VWD type 3 (~5%):
+Virtually complete deficiency of VWF
+Typically autosomal recessive inheritance
+Remaining cases (~1-5%) are due to acquired von Willebrand syndrome (AVWS) Typically presents in people >40 years old and with no prior bleeding history. This is mainly due to underlying conditions and not pathogenic variants of VWF such as:
+Lymphoproliferative disease
+Myeloproliferative disease
+Malignancy: due to aberrant binding of VWF to tumour cells
+Shear induced VWF conformational changes (e.g. aortic valve stenosis, ventricular septal defect)
+Autoimmune conditions
+Improve
+Clinical features
+Symptoms of VWD can vary greatly between individuals and can start at any age. The main symptoms include:
+In women, menorrhagia (93-95%)
+If left untreated the former may lead to anaemia and iron deficiency
+Frequent or prolonged nosebleeds (53-74%)
+Excessive
+bruising
+(45-50%)
+Prolonged bleeding post surgery (40-47%)
+Bleeding gums (29-34%)
+Other serious rarer complications (more commonly seen in VWD type 3) include:
+Haemarthrosis (2-30%)
+Gastrointestinal bleeding (~4%)
+Improve
+Investigations
+Diagnosing VWD starts with a thorough clinical evaluation, taking into consideration the personal and familial history of bleeding. The use of a standardised bleeding assessment tool (BAT) such as the International Society on Thrombosis and Haemostasis (ISTH), can be helpful to evaluate likelihood of a bleeding disorder being present.
+Initial lab investigations would include:
+FBC
+Typically normal
+Platelets: patients with Type 2B can develop a thrombocytopenia
+Activated partial thromboplastin time (APTT):
+Can be normal or increased
+In VWD, VWF is a carrier for FVIII, therefore APTT will only be prolonged if the FVIII level is sufficiently reduced
+Prothrombin Time
+Typically normal
+Fibrinogen
+Typically normal
+If VWD is suspected, the following tests can be used for primary diagnosis based on the British Society of
+Haematology
+Guidelines:
+FVIII assay
+Typically low but can be normal
+VWF antigen (Ag):
+Diagnosis of VWD can be made when VWF levels are <0.30 IU/ml in the context of a previous mucocutaneous bleeding history
+If levels undetectable= Type 3
+VWF activity:
+Assessed by measuring ristocetin cofactor (RCo) and collagen binding (CB) as ratios of VWF antigen levels
+RCo/Ag and CB/Ag is >0.6= Type 1
+RCo/Ag or CB/Ag is <0.6= Type 2
+Improve
+Differential diagnosis
+DIfferential Diagnosis
+History
+Exam
+Investigations
+Purpura Simplex
+F>M
+No bleeding history
+Ecchymosis on exposed areas
+No active bleeding or haematoma
+Normal platelets, PT and APTT
+Medication induced
+Anticoagulants
+Antiplatelets
+NSAIDs
+Steroids
+Anti depressants
+Chemotherapy
+Anti convulsants
+Antibiotics
+Bruising
+at injection sites
+GI bleeding
+Haemarthrosis
+Elevated INR (warfarin)
+Elevated APTT (heparin)
+Low platelets (chemo, anti convulsants, NSAIDs, antibiotics)
+Alcohol abuse/liver cirrhosis
+Significant alcohol history
+Signs of cirrhosis or liver failure (e.g. jaundice, ascites, hepatosplenomegaly)
+Abnormal LFTs
+Prolonged PT and APTT
+Low albumin
+Malignancy with bone marrow involvement
+Younger (ALL) or older (AML)
+Fatigue
+Infections
+Mucocutaneous bleeding
+Ecchymoses
+Fever
+Lymphadenopathy
+Thrombocytopenia
+Neutropenia
+Anaemia
+Leukocytosis
+Haemophilia
+Family history
+Mostly male
+Abnormal bleeding from procedures
+Similar to VWD
+Prolonged APTT
+Reduced FVIII or factor IX levels
+DIC
+Underlying condition (malignancy, sepsis, obstetric complications)
+Mucocutaneous bleeding
+Haematuria
+Oliguria
+Fever
+Delirium
+Thrombocytopenia
+Anaemia
+Prolonged PT and APTT
+Decreased fibrinogen
+Improve
+Management
+There is currently no cure for VWD. Measures include prevention, simple lifestyle changes and medications to manage the symptoms:
+7
+Informing doctor or dentist prior to any procedure that may cause bleeding (surgery, vaccination, dental extraction)
+Avoid aspirin, anti-inflammatory or anticoagulant medication (unless prescribed)
+Discuss with doctor about avoiding activities that may increase your risk of bleeding
+First line management in all confirmed VWD patients:
+Desmopressin:
+A trial should be carried out with VWF antigen, activity and FVIII measured at baseline, 30-60 mins and 4-6 h
+This should be given preference over blood derived products if possible
+For treatment of bleeding episodes:
+1st line
+: administration of tranexamic acid and desmopressin
+Both can be used as prophylaxis prior to surgery
+2nd line
+: if the patient is non responsive to desmopressin, a VWF-FVIII concentrate should be used
+Also used as prophylaxis prior to surgery
+In menorrhagia, hormonal management and use of IUD can be considered
+Improve
+References
+British Committee for Standards in Haematology - 2014 Von Willebrand's disease guidelines
+Haematology
+Von Willebrand's disease

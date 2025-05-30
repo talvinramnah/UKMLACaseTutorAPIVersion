@@ -1,0 +1,252 @@
+Cystic fibrosis
+Cystic fibrosis
+Cystic fibrosis (CF) is a life-limiting, autosomal recessive disorder caused by mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. This gene encodes a protein responsible for regulating the transport of chloride and sodium ions across epithelial surfaces. Dysfunction of CFTR leads to the production of thick, sticky mucus that obstructs organs, primarily affecting the respiratory and gastrointestinal systems.
+Pulmonary manifestations include chronic bronchitis,
+bronchiectasis
+, and recurrent infections, often with
+Pseudomonas aeruginosa
+. Gastrointestinal complications involve pancreatic insufficiency, malabsorption, and liver disease. CF also causes male
+infertility
+due to congenital bilateral absence of the vas deferens.
+Diagnosis involves newborn screening, sweat chloride testing, and genetic analysis. Management focuses on improving lung function, preventing and treating infections, and addressing nutritional deficiencies. Treatments include airway clearance techniques, antibiotics, pancreatic enzyme replacement, and CFTR modulator therapies. Despite advances in care, CF patients still face reduced life expectancy, with the median survival age in the early 40s.
+Last updated: 13
+th
+September 2023
+Epidemiology
+Incidence: 0.20 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Asthma in children
+4000.00
+Cystic fibrosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Cystic fibrosis (CF) is an autosomal recessive genetic disorder resulting from mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene, located on chromosome 7.
+Over 2,000 CFTR mutations have been identified, with the F508del mutation being the most common, accounting for approximately 70% of CF cases.
+Improve
+Pathophysiology
+Defective CFTR Protein:
+The principal defect in CF centres on the dysfunctional or absent CFTR protein on the cell membrane of epithelial cells, leading to impaired ion transport.
+Ion Imbalance:
+The primary role of CFTR is to regulate the transport of chloride ions and bicarbonate across epithelial cell membranes. A malfunctioning CFTR results in a chloride and water retention inside cells. This imbalance establishes a sodium-rich environment outside the cell, prompting sodium and water reabsorption. Consequently, mucus becomes dehydrated and thickened.
+Respiratory System Implications:
+Mucus Accumulation:
+In the bronchi and bronchioles, the thick, sticky mucus hinders mucociliary clearance, fostering a conducive environment for bacterial colonisation.
+Chronic Infections:
+Persistent bacterial infections stimulate a chronic inflammatory response. This inflammation, combined with the physical obstruction from mucus, exacerbates airway damage.
+Progressive Lung Damage:
+Over time, repeated cycles of infection and inflammation result in structural changes, including
+bronchiectasis
+, and ultimately culminate in respiratory failure.
+Gastrointestinal System Implications:
+Pancreatic Blockage:
+Thick secretions can obstruct pancreatic ducts, hindering the release of essential digestive enzymes into the small intestine. This blockage leads to malabsorption,
+steatorrhoea
+, and malnutrition.
+Intestinal Obstruction:
+Viscous mucus in the intestines can result in obstructions, like meconium ileus in neonates or distal intestinal obstruction syndrome in older individuals.
+Liver Involvement:
+The biliary ducts can become obstructed, leading to liver diseases such as focal biliary cirrhosis.
+Reproductive System Implications:
+Males:
+The congenital bilateral absence of the vas deferens often renders males with CF infertile.
+Females:
+Thickened cervical mucus can pose challenges for sperm migration, potentially leading to reduced fertility. Women with CF might also experience irregular menstrual cycles, further complicating conception.
+Salt Imbalance:
+The malfunctioning CFTR in sweat ducts results in diminished reabsorption of chloride, and consequently sodium. This imbalance leads to a characteristically salty sweat in CF patients, posing risks of dehydration and electrolyte imbalances, particularly during increased sweating.
+Improve
+Clinical features
+Every baby that is born in the UK usually has the newborn blood spot test on day 5 of his/her life according to the
+newborn blood spot screening programme
+. One of the 9 rare genetic conditions that is screened with the blood spot test is cystic fibrosis. A positive blood spot test for cystic fibrosis is not necessarily diagnostic and every child needs to be referred to a cystic fibrosis specialist clinic for further investigations as it is described below. The majority of children with cystic fibrosis most commonly present via this pathway.
+In the case of an infant child, the primary sign of CFTR dysfunction is the gastrointestinal tract with the presentation of symptomatic
+meconium ileus
+, a form of intestinal obstruction, that usually presents prior to the results of the newborn screening test.
+In an older child, the most common clinical features that lead to the diagnosis of cystic fibrosis are:
+Chronic cough
+Recurrent wheezing
+Chronic respiratory infections
+Malabsorption in the gastrointestinal tract
+Failure to thrive
+As has been described above cystic fibrosis can present with an array of signs and symptoms and in order to better understand them it is easier to categorise them into organ systems.
+Respiratory manifestations:
+Persistent cough:
+Productive or non-productive, often exacerbated by mucus accumulation and infections.
+Wheezing and dyspnea:
+Resulting from airway obstruction and bronchospasm.
+Recurrent respiratory infections:
+Commonly caused by pathogens such as
+Staphylococcus aureus
+,
+Haemophilus influenzae
+, and
+Pseudomonas aeruginosa
+.
+Nasal polyps and chronic sinusitis:
+Due to mucus buildup and chronic inflammation in the sinuses.
+Gastrointestinal manifestations:
+Meconium ileus:
+Neonates with CF may present with intestinal obstruction due to thickened meconium.
+Pancreatic insufficiency:
+Steatorrhea, weight loss, and malabsorption of fat-soluble vitamins due to pancreatic duct obstruction.
+Distal intestinal obstruction syndrome (DIOS):
+Partial or complete intestinal obstruction due to inspissated faecal material.
+Biliary cirrhosis:
+Impaired bile flow leading to liver damage, portal hypertension, and potential liver failure.
+Gastroesophageal reflux disease (GERD):
+Increased prevalence in CF patients may exacerbate pulmonary complications.
+Endocrine manifestations:
+Cystic fibrosis-related diabetes (CFRD):
+Insulin deficiency and impaired glucose tolerance caused by progressive pancreatic damage.
+Growth failure:
+Delayed growth and pubertal development due to malabsorption, chronic inflammation, and increased energy expenditure.
+Reproductive manifestations:
+Male
+infertility
+:
+Congenital bilateral absence of the vas deferens (CBAVD) results in obstructive azoospermia and infertility.
+Female fertility:
+Thick cervical mucus, irregular menstrual cycles, and decreased fertility may necessitate assisted reproductive technologies.
+Other clinical features:
+Clubbing:
+Chronic hypoxia may lead to digital clubbing, a sign of advanced lung disease.
+Salt loss syndrome:
+Excessive sodium chloride loss in sweat can lead to hyponatremic dehydration and metabolic alkalosis, particularly in infants.
+Bone disease:
+Reduced bone density due to malabsorption of calcium and vitamin D, inflammation, and steroid use may increase the risk of fractures.
+Improve
+Investigations
+Screening and diagnostic tests
+Newborn screening:
+Most cases of cystic fibrosis (CF) are identified through newborn screening programs, which typically involve measuring immunoreactive trypsinogen (IRT) in blood samples. An elevated IRT level warrants further testing, such as sweat chloride testing or genetic analysis.
+Sweat chloride test:
+The gold standard diagnostic test for CF, this measures the concentration of chloride in sweat. Elevated chloride levels (>60 mmol/L) are diagnostic of CF, while intermediate levels (30-59 mmol/L) require further investigation.
+Genetic testing:
+Identifying mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene can confirm the diagnosis, provide prognostic information, and guide treatment decisions. However, not all CFTR mutations are detectable through current testing methods.
+Monitoring tests
+Sputum culture:
+Regular microbiological analysis of sputum samples is essential for identifying pathogens, guiding antibiotic therapy, and monitoring for emerging multidrug-resistant organisms.
+Pulmonary function tests (PFTs):
+Spirometry and lung volume measurements help assess lung function, monitor disease progression, and evaluate treatment efficacy in CF patients.
+Chest radiography and computed tomography (CT): These imaging modalities aid in evaluating lung disease severity, identifying complications such as
+bronchiectasis
+or pneumothorax, and guiding treatment decisions.
+Blood tests:
+Screening for cystic fibrosis-related diabetes with oral glucose tolerance tests
+Bone density assessment:
+Dual-energy X-ray absorptiometry (DXA) scans are useful for evaluating bone mineral density and identifying osteopenia or osteoporosis in CF patients.
+Improve
+Diagnosis
+Cystic fibrosis can be diagnosed based on the three following situations according to 2017 NICE guidelines [NG78]:
+A child or young adult with no symptoms but with a positive test results, for example blood spot immunoreactive trypsin test (infant screening) followed by sweat chloride and gene test for the confirmation of the result.
+A child or young adult with clinical features of cystic fibrosis, confirmed by sweat chloride or gene test results.
+A child or young adult with solely clinical features of cystic fibrosis, in the rare case where sweat chloride or gene test results are normal.
+The typical clinical features of cystic fibrosis include: chronic respiratory infections and obstructive lung disease, gastrointestinal and nutritional abnormalities as well as obstructive azoospermia.
+It is however very important that a child or a young adult that fits into one of three situations above is referred to a specialist cystic fibrosis centre.
+Improve
+Management
+Cystic fibrosis is a genetic disease with no available cure. According to 2017 NICE guidelines, cystic fibrosis is managed by offering airway clearance techniques, chest physiotherapy, early start of antibiotics for respiratory infections, nutritional supplements and regular monitoring. In order to fully comprehend the management options of cystic fibrosis it is better to consider them according to the different organ systems affected.
+Airway clearance:
+Chest physiotherapy:
+Techniques such as active cycle of breathing, autogenic drainage, and positive expiratory pressure devices help mobilize and clear mucus from the airways, reducing infection risk and improving lung function.
+High-frequency chest wall oscillation:
+Devices like the Vestµ Airway Clearance System use rapid oscillations to loosen and clear mucus from the airways.
+Exercise:
+Regular physical activity promotes airway clearance, enhances lung function, and improves overall health.
+Pharmacologic interventions:
+Mucolytics:
+Agents like dornase alfa and hypertonic saline reduce mucus viscosity, improving airway clearance and lung function.
+Bronchodilators:
+Inhaled β2-agonists and anticholinergics help relax airway smooth muscle, improving airflow and lung function.
+Anti-inflammatories:
+Inhaled corticosteroids and oral nonsteroidal anti-inflammatory drugs (e.g., ibuprofen) help reduce airway inflammation and improve lung function.
+Antibiotics:
+Regular use of inhaled antibiotics (e.g., tobramycin, aztreonam) helps manage chronic infections, particularly with Pseudomonas aeruginosa. Systemic antibiotics may be required for acute exacerbations.
+CFTR modulators:
+Small molecule drugs like ivacaftor, lumacaftor, and elexacaftor target specific CFTR mutations, improving protein function and clinical outcomes. Selection depends on the patient's specific CFTR genotype.
+Nutritional management:
+Pancreatic enzyme replacement therapy (PERT):
+Oral administration of pancreatic enzymes with meals assists digestion and absorption of nutrients.
+Fat-soluble vitamin supplementation:
+Ensuring adequate intake of vitamins A, D, E, and K helps prevent deficiencies due to malabsorption.
+High-energy diet:
+A high-calorie, high-fat diet addresses increased energy requirements and compensates for malabsorption, promoting growth and weight maintenance.
+Management of complications:
+Cystic fibrosis-related diabetes (CFRD):
+Regular screening and early intervention with insulin therapy and dietary modifications help manage CFRD.
+Liver disease:
+Close monitoring of liver function, early intervention with ursodeoxycholic acid, and consideration of liver transplantation in severe cases.
+Bone health:
+Vitamin D and calcium supplementation, weight-bearing exercise, and bisphosphonate therapy, when indicated, can help maintain bone health and prevent fractures.
+Fertility:
+Assisted reproductive technologies may be necessary for patients with fertility challenges.
+Lung transplantation
+In advanced lung disease with significantly reduced lung function, lung transplantation may be considered as a life-extending treatment option.
+Psychosocial support
+Addressing the psychological and emotional well-being of patients and their families is an essential component of comprehensive CF care.
+Improve
+Complications
+Pulmonary complications:
+Bronchiectasis
+:
+Chronic inflammation and recurrent infections cause airway damage and permanent dilation of bronchi, leading to impaired mucus clearance, further infections, and progressive loss of lung function.
+Pneumothorax:
+The destruction of lung tissue increases the risk of spontaneous pneumothorax, which may require chest tube insertion or surgical intervention.
+Haemoptysis:
+Bronchial wall erosion due to inflammation and infection can result in coughing up blood, which may necessitate bronchial artery embolization or surgical intervention in severe cases.
+Respiratory failure:
+Progressive lung damage may lead to respiratory failure, requiring supplemental oxygen or lung transplantation.
+Gastrointestinal complications:
+Pancreatic insufficiency:
+Obstruction of pancreatic ducts results in malabsorption of nutrients, necessitating pancreatic enzyme replacement therapy and dietary supplementation.
+Liver disease:
+Bile duct obstruction can progress to cirrhosis, portal hypertension, and hepatic encephalopathy, requiring liver transplantation in severe cases.
+Meconium ileus:
+Neonates with CF may present with meconium ileus due to thickened intestinal secretions, which may require surgical intervention.
+Distal intestinal obstruction syndrome (DIOS):
+Partial or complete intestinal obstruction due to inspissated faecal material can occur, necessitating medical or surgical management.
+Gastroesophageal reflux disease (GERD):
+Increased prevalence in CF patients may exacerbate pulmonary complications and require acid-suppression therapy or fundoplication.
+Endocrine complications:
+Cystic fibrosis-related diabetes (CFRD):
+Progressive pancreatic damage can lead to insulin deficiency and impaired glucose tolerance, necessitating insulin therapy and dietary modifications.
+Growth failure:
+Nutrient malabsorption, chronic inflammation, and increased energy expenditure contribute to delayed growth and pubertal development, which may require nutritional intervention and hormone therapy.
+Reproductive complications:
+Male
+infertility
+:
+Congenital bilateral absence of the vas deferens (CBAVD) results in obstructive azoospermia and infertility.
+Female fertility:
+Thick cervical mucus, irregular menstrual cycles, and decreased fertility may necessitate assisted reproductive technologies.
+Other complications:
+Sinusitis and nasal polyps:
+Chronic inflammation can lead to recurrent sinusitis and nasal polyp formation, requiring medical or surgical management.
+Bone disease:
+Malabsorption of calcium and vitamin D, inflammation, and steroid use contribute to reduced bone density and an increased risk of fractures.
+Nephrolithiasis:
+Dehydration, alkaline urine, and hyperoxaluria increase the risk of kidney stones, which may require medical or surgical management.
+Improve
+Prognosis
+The prognosis of CF has improved significantly over the past few decades due to advances in management strategies, early diagnosis, and the development of targeted therapies. However, the disease remains chronic and life-limiting.
+Survival and life expectancy: The median predicted survival age for individuals with CF has steadily increased and now exceeds 40 years in many countries. Factors influencing survival include genotype, pancreatic status, pulmonary function, nutritional status, and the presence of complications such as cystic fibrosis-related diabetes (CFRD) and liver disease.
+Death usually occurs as a result of respiratory complications.
+Improve
+References
+NICE - 2017 Cystic fibrosis: diagnosis and management
+Cystic Fibrosis Trust - Nutrition for adults
+Genetic disorders and birth defects
+Cystic fibrosis

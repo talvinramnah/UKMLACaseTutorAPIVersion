@@ -1,0 +1,176 @@
+Campylobacter infection
+Campylobacter infection
+Campylobacter jejuni
+is a gram-negative, spiral-shaped bacterium primarily responsible for campylobacteriosis, a common cause of gastroenteritis in humans. Transmission typically occurs through the consumption of contaminated food or water, particularly undercooked poultry. The incubation period ranges from 2 to 5 days post-exposure.
+Patients often present with
+diarrhoea
+,
+abdominal pain
+,
+fever
+,
+nausea
+and
+vomiting
+. The diarrhoea may be bloody due to invasive damage to the intestinal lining. Extra-intestinal manifestations such as
+reactive arthritis
+and Guillain-Barré syndrome can occur.
+Diagnosis is confirmed via stool culture or molecular methods like PCR. Most cases are self-limiting and resolve within a week without specific treatment. However, severe or prolonged cases may necessitate antibiotic therapy with erythromycin or ciprofloxacin.
+Preventive measures include proper food handling and cooking practices to avoid cross-contamination. Despite these precautions,
+Campylobacter
+infections remain prevalent due to the bacterium's widespread presence in the environment and food supply chain.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 50.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Viral gastroenteritis
+100.00
+Campylobacter infection
+1
+Non-typhoidal
+Salmonella
+0.60
+Shigellosis
+0.12
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+The pathophysiology of
+Campylobacter
+infection involves several stages, each contributing to the development of clinical manifestations. These stages include bacterial ingestion, colonisation, invasion, toxin production, and host immune response.
+Bacterial Ingestion:
+The infection begins when
+Campylobacter jejuni
+, the most common species causing human disease, is ingested through contaminated food or water. The bacterium survives gastric acid by producing urease which neutralises stomach acid.
+Colonisation:
+After surviving the acidic environment of the stomach, the bacteria reach the small intestine and colon where they adhere to intestinal epithelial cells.
+Campylobacter
+'s spiral shape and flagella aid in its motility and ability to penetrate mucus layers covering intestinal epithelium.
+Invasion:
+Post-colonisation,
+Campylobacter
+invades intestinal epithelial cells using various virulence factors. These include cytolethal distending toxin (CDT), which interferes with cell cycle progression leading to cell death, and Campylobacter invasion antigens (Cia), which promote bacterial entry into cells.
+Toxin Production:
+Within host cells,
+Campylobacter
+produces toxins that damage cellular structures and induce inflammatory responses. CDT induces DNA damage in host cells, leading to cell cycle arrest and apoptosis. Additionally, lipooligosaccharides on the bacterial surface mimic human gangliosides leading to autoimmune responses in genetically predisposed individuals.
+Host Immune Response:
+The body responds to
+Campylobacter
+infection through both innate and adaptive immunity. Innate immune responses include secretion of pro-inflammatory cytokines, recruitment of neutrophils to the site of infection, and production of reactive oxygen species. Adaptive immune responses involve B-cell-mediated antibody production and T-cell-mediated cytotoxicity. However, these immune responses can contribute to tissue damage and inflammation.
+The pathophysiological processes described above result in clinical manifestations such as
+diarrhoea
+,
+abdominal pain
+,
+fever
+, and
+nausea
+. In rare cases,
+Campylobacter
+infection can lead to more severe complications like Guillain-Barré syndrome or
+reactive arthritis
+due to molecular mimicry between bacterial antigens and host tissues.
+Improve
+Clinical features
+A stereotypical presentation of
+Campylobacter
+infection typically begins with a prodromal period of
+malaise
+and anorexia, followed by symptoms of gastroenteritis. The illness usually manifests within 2-5 days post-exposure and can last up to ten days.
+Gastrointestinal symptoms:
+Diarrhoea
+:
+This is the most common symptom. It often starts as watery diarrhoea but may become bloody within 24-48 hours. In severe cases, it can resemble inflammatory bowel disease with mucous and pus.
+Abdominal pain
+:
+Patients often describe colicky abdominal pain, which can be severe. The pain is typically in the lower quadrants or periumbilical region.
+Nausea
+and
+vomiting
+:
+These are less common but can occur, particularly in severe infections.
+Systemic symptoms:
+Fever
+:
+A moderate to high fever is common, often preceding the onset of diarrhoea.
+Muscle aches (
+myalgia
+):
+This can accompany the fever in the prodromal phase.
+In addition to these typical features, there are several atypical presentations and complications associated with
+Campylobacter
+infection that clinicians should be aware of.
+Rare presentations and complications include:
+Bacteremia:
+This is rare but more likely in immunocompromised patients or those with underlying conditions such as liver disease or malignancy.
+Pancreatitis, cholecystitis, or appendicitis-like syndrome:
+These can occur when the infection spreads beyond the gastrointestinal tract.
+Post-infectious complications:
+These include
+reactive arthritis
+, Guillain-Barré syndrome, and irritable bowel syndrome. The risk of these complications is low but they can result in significant morbidity.
+Improve
+Management
+Management
+usually self-limiting
+the BNF advises treatment if severe or the patient is immunocompromised. Clinical Knowledge summaries also recommend antibiotics if severe symptoms (high
+fever
+, bloody
+diarrhoea
+, or more than eight stools per day) or symptoms have last more than one week
+the first-line antibiotic is clarithromycin
+ciprofloxacin is an alternative although the BNF states that
+'Strains with decreased sensitivity to ciprofloxacin isolated frequently'
+Improve
+Complications
+The complications associated with
+Campylobacter
+infection can be severe and multi-systemic, affecting both the gastrointestinal tract and other organ systems. The most common complications include:
+Gastrointestinal complications:
+These primarily encompass dehydration due to acute
+diarrhoea
+, which may necessitate intravenous fluid replacement in severe cases. Furthermore, post-infectious irritable bowel syndrome (PI-IBS) is a recognised sequela, characterised by chronic
+abdominal pain
+and altered bowel habits persisting after resolution of acute infection.
+Bacteraemia:
+Although rare, invasive disease leading to bacteraemia can occur, particularly in immunocompromised patients or those with underlying health conditions. This can lead to serious systemic illness requiring hospitalisation and antibiotic treatment.
+Reactive arthritis
+:
+This is an inflammatory condition that may develop following infection, typically presenting as joint pain and inflammation several weeks post-infection.
+In addition to these common complications, there are several severe but rare neurological complications associated with
+Campylobacter
+infections:
+Guillain-Barré syndrome (GBS):
+A significant proportion of GBS cases worldwide are precipitated by prior
+Campylobacter
+infection. GBS is an acute polyneuropathy leading to rapidly progressive limb weakness and potential respiratory compromise.
+Milker's nodule:
+This is a viral skin condition caused by the parapoxvirus that can be transmitted from infected cows to humans. While not directly related to
+Campylobacter
+, it is a potential occupational hazard for those in contact with infected cattle, which are often concurrently affected by
+Campylobacter
+.
+Miller Fisher syndrome (MFS):
+This is a variant of GBS characterised by ophthalmoplegia, ataxia and areflexia. A significant association has been identified between MFS and preceding
+Campylobacter
+infection.
+Improve
+References
+Clinical Knowledge Summaries - Gastroenteritis
+Infectious diseases
+Campylobacter infection

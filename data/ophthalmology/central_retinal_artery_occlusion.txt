@@ -1,0 +1,145 @@
+Central retinal artery occlusion
+Central retinal artery occlusion
+Central retinal artery occlusion (CRAO) is an ophthalmic emergency requiring urgent medical intervention.
+It is a rare form of ocular stroke resulting from occlusion of central retinal artery blood flow, which is most commonly caused by an atheroma related carotid artery thrombus. Resulting retinal ischaemia presents as sudden onset, painless monocular
+visual loss
+.
+Last updated: 30
+th
+August 2023
+Aetiology
+Central retinal artery occlusion (CRAO) can have varying aetiology depending upon the patient and their risk factors (age, cardiovascular and cerebral disease, ethnicity):
+Carotid artery atherosclerosis (80%):
+this is the most common cause of CRAO. This is often secondary to hypertension or diabetes and is more common in patients over 40
+Cardiac emboli:
+the most common cause of CRAO in patients under 40. Patients at risk are those with cardiac disease predisposing to embolisms such as atrial fibrillation, valvular disease, infection endocarditis and congenital heart disease
+Small artery disease:
+local atheroma within the central retinal artery itself can cause CRAO, this is commonly the cause in older diabetic or hypertensive patients with a normal carotid doppler
+Less common causes:
+Inflammatory disease:
+autoimmune vasculitis
+Giant cell arteritis
+Systemic lupus erythematosus
+Polyarteritis nodosa
+Sarcoidosis
+Granulomatosis with polyangiitis
+Haematological disease:
+hypercoagulopathic and hyper-viscosity states such as:
+Sickle cell disease
+Antiphospholipid syndrome
+Factor V leiden mutation
+Protein S and protein C deficiency
+Leukaemia and lymphoma
+Infection
+Pharmacological (oral contraception and cocaine)
+Severely raised intraocular pressure
+Ocular trauma
+Retinal vasospasm/migraine
+Improve
+Pathophysiology
+Ischaemic Insult
+The central retinal artery is the primary vessel supplying blood to the inner retinal layers. Occlusion leads to an acute ischaemic insult, causing immediate loss of function in the affected tissues.
+Metabolic Derangement
+Within seconds to minutes after the onset of occlusion, the retinal cells begin to undergo metabolic derangements. As anaerobic metabolism sets in, lactic acid accumulates, resulting in cytotoxic oedema.
+Infarction and Cell Death
+Continued deprivation of oxygen and nutrients leads to the death of retinal ganglion cells and nerve fibre layer, resulting in an irreversible loss of vision if not promptly treated.
+Collateral Circulation
+Unlike other vascular beds, the retina has limited potential for developing collateral circulation. Some protective effect may arise from the ciliary circulation, but this is generally insufficient to prevent substantial loss of vision.
+Endothelial Damage
+Endothelial cell injury triggers a cascade of events, including platelet aggregation and leukocyte adhesion, exacerbating the original occlusion and promoting further vascular compromise.
+Immune-mediated Damage
+In cases where CRAO is a manifestation of systemic vasculitis, immune cells target vascular endothelium, worsening ischaemia and contributing to cell death.
+Improve
+Clinical features
+Patients with central retinal artery occlusion (CRAO) present with
+visual loss
+which is:
+Sudden onset (within seconds)
+Monocular
+Painless
+Severely reduced visual acuity
+Visual acuity is usually reduced to hand movements, but some patients may only be able to see light, or may see nothing
+For the small group of patients with collateral macular supply via the cilioretinal artery, fovea sparing may preserve central visual acuity to some extent
+In 10% of patients, CRAO may be preceded by episodes of transient monocular visual loss known as amaurosis fugax. This phenomenon is also caused by retinal ischaemia, but when blood flow is restored it resolves fully.
+Examination of the affected eye may show a variety of signs:
+Swinging light test
+will show a complete or relative afferent papillary defect
+Fundoscopy
+reveals a 'cherry-red' spot at the centre of the macula. Some patients may also have white retinal areas due to ischaemia
+In a small number of patients retinal emboli can be seen on fundoscopy as either shiny plaques (cholesterol), grey/white platelet plugs or white fragments (calcium)
+It is also important to perform a systemic examination to look for possible causes:
+Carotid auscultation may reveal bruits indicative of turbulent flow and possible atherosclerotic disease
+Auscultation of heart sounds may reveal a murmur which could indicate a possible cardiac embolism
+Palpation of the radial pulse may indicate atrial fibrillation, which is a risk factor for cardiac emboli
+Improve
+Investigations
+Central retinal artery occlusion (CRAO) is usually a clinical diagnosis, and investigation is typically aimed at determining the underlying cause.
+In a small number of cases where the diagnosis is unclear on fundoscopy (for example there is absence of a 'cherry-red' macula spot and/or no retinal ischaemic whitening), then fluorescein angiography can be performed. Absent filling of the central retinal artery with fluorescein angiography is diagnostic for CRAO.
+Diagnosis of aetiology:
+Serum CRP & ESR:
+raised in patients with giant cell arteritis, and should be performed urgently in all patients aged over 50 with suspected CRAO. Although giant cell arteritis is a rare cause of CRAO,
+visual loss
+is reversible with rapid administration of IV corticosteroids
+Carotid artery duplex ultrasound/doppler:
+as carotid atherosclerosis is the most common cause of CRAO this test is ordered urgently to look for underlying carotid artery atherosclerosis
+Echo-cardiogram and/or Holter monitoring:
+looking for a possible cause of cardiogenic embolism
+Blood tests:
+coagulation studies, full blood count, vasculitis screen, lipid profile and fasting blood sugars are all useful to look for underlying causes
+Improve
+Differential diagnosis
+Central retinal artery occlusion (CRAO) may easily be confused with other causes of sudden onset
+visual loss
+.
+Possible differential diagnoses:
+Retinal detachment
+:
+Similarities: sudden onset, painless monocular visual loss described as a 'dark curtain' coming down
+Differences: Visual loss is progressive, starting at the peripheries of the visual field and working its way in. Unilateral floaters and flashes may precede visual loss
+Vitreous haemorrhage:
+Similarities: sudden onset, painless monocular visual loss
+Differences: visual acuity is variable and may not be so severely reduced as in CRAO. Patients may also experience new floaters or 'cobwebs' in their visual fields
+Retinal vein occlusion:
+Similarities: Sudden onset, painless monocular visual loss
+Differences: Visual acuity is variable and may not be so severely reduced as in CRAO. On examination the fundus will have widespread do-blot and flame haemorrhages not ischaemia
+Acute closed angle glaucoma:
+Similarities: Monocular visual loss
+Differences: Visual loss progresses rapidly rather than being sudden, and it is also painful and associated with systemic malaise and haloes around lights
+Acute optic neuritis:
+Similarities: Monocular visual loss
+Differences: Visual impairment varies in severity and develops over hours or days. There is normally pain around the eyes, which is worst on movement and dyschromatopsia (impaired colour vision)
+Improve
+Management
+Central retinal artery occlusion (CRAO) is an ocular emergency as ischaemic retinal damage will rapidly result in irreversible
+visual loss
+. Patients must be treated quickly (ideally within 6 hours of visual loss onset) once CRAO is diagnosed.
+Acute management:
+Re-perfusion techniques should be started as quickly as possible. There are various methods which have been adopted, but there is no one universally recommended therapy:
+Intra-arterial thrombolysis:
+typically urokinase is administered via direct ophthalamic artery catheterisation
+There is a great deal of debate surrounding the use thrombolysis for CRAO due to the small benefit shown in various clinical trials and the high risk of complications including intracranial and systemic haemorrhage. Despite this, it is still widely used for CRAO
+Ocular massage:
+may be useful in patients who present within 90 minutes of symptom onset to try and dislodge the obstruction. Involves intermittent massage of the globe over a closed eyelid for 10 seconds with small interludes. Only works in a small number of cases
+Reduction of intra-ocular pressure:
+done by anterior chamber paracentesis which involves withdrawal of a small amount of fluid from the anterior chamber under local anaesthetic. This can be used alongside acetazolamide, a pharmacological agent which also lowers intra-ocular pressure
+Vasodilatory therapy:
+sublingual isosorbide dinitrate, inhaled carbogen (95% oxygen with 5% carbon dioxide) or hyperbaric oxygen can all be used to reperfuse the retina, with varying effect
+If a patient is suspected to have giant cell arteritis they should receive urgent intravenous steroids.
+Even with early treatment, over 70% of patients will have permanent visual loss. The remaining patients may show some improvement in visual acuity, but this is usually minimal.
+Secondary prevention:
+CRAO is a form of ischaemic end-organ damage. Hence patients who have experienced CRAO are at increased risk of future ischaemic events such as myocardial infractions and ischaemic cerebral strokes. These patients require long term management to reduce this risk, which is known as secondary prevention.
+Long term management depends on the underlying cause of CRAO:
+Carotid source of emboli:
+carotid endarterectomy to correct stenosis of the carotid arteries. Stenosis of greater than 50% is classed as moderate to severe and requires surgery.
+Cardiac source of emboli:
+long term anticoagulation is usually recommended
+Uncertain aetiology:
+anti-platelet therapy and atherosclerosis risk factor modification (e.g. statins, smoking cessation and diet changes)
+All patients should be referred to
+ophthalmology
+for long term follow-up. They may also benefit from referral to clinics or support groups for individuals with reduced vision.
+Improve
+References
+American Academy of Ophthalmology - Central Retinal Artery Occlusion
+Ophthalmology
+Central retinal artery occlusion

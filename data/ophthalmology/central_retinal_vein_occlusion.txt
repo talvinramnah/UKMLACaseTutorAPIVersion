@@ -1,0 +1,170 @@
+Central retinal vein occlusion
+Central retinal vein occlusion
+Retinal vein occlusion (RVO) is a common cause of painless loss of vision, affecting an estimated 16 million people worldwide. Central retinal vein occlusion (CRVO) is around 4 times less common than branch retinal vein occlusion (BRVO) and typically results from thrombus occlusion of the central retinal vein. This mostly occurs unilaterally, although 10% of patients may subsequently develop contralateral RVO. CRVO can be further classified into ischaemic and non-ischaemic groups, delineating distinct prognoses and treatment strategies.
+Last updated: 9
+th
+May 2024
+Epidemiology
+Incidence: 35.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors for systemic thrombosis all are important risk factors for the development of retinal vein occlusion, as well as glaucoma. Risk factors for developing ischaemic and non-ischaemic CRVO are the same.
+Both thrombus formation in the lumen of the central retinal vein, and thrombus in the central retinal artery compressing on the adjacent retinal vein, can cause CRVO.
+However, development of retinal vein occlusion has not been shown to be a predictor of subsequent stroke.
+No difference in prevalence of CRVO between men and women has been demonstrated.
+The prevalence of CRVO increases with age.
+Disorders of coagulation and systemic auto-inflammatory conditions (e.g. (Bechet's disease, polyarteritis nodosa, sarcoidosis) are also risk factors.
+Rarely, retrobulbar compression of the retinal vein can cause compression e.g. from thyroid eye disease, orbital tumour or retrobulbar haemorrhage.
+Improve
+Pathophysiology
+Visual loss
+in CRVO is secondary to the development of macular oedema. This develops following the venous occlusion.
+Thrombosis in the retinal vein causes increased pressure in the vessels draining from the eye
+This causes transudation of blood products into the retina from the venous capillary beds, leading to increased interstitial oncotic pressure that results in macular oedema and capillary ischaemia.
+Retinal ischaemia induces vascular endothelial growth factor (VEGF) and other soluble cytokine production from retinal pigment epithelial cells.
+These factors promote vascular permeability and neovascularization, contributing to macular oedema and further exacerbating retinal ischaemia.
+The degree to which collateral vessels form, allowing for alternative venous drainage routes and the degree to which macular oedema has developed at presentation determines categorisation into ischaemic or non-ischaemic CRVO.
+For example, total CRVO in a patient with well-developed collaterals may present with only mild visual acuity deficits and macular oedema.
+Any patient with CRVO that has developed neovascularization at the angle has by definition already developed ischaemic CRVO.
+Improve
+Clinical features
+Typical Clinical Presentation
+CRVO characteristically presents with sudden, painless loss of vision in one eye.
+The visual impairment is often noticed on waking or develops over several hours.
+Pain is generally absent; the presence of ocular pain suggests an alternative diagnosis (e.g. acute angle-closure glaucoma).
+Visual loss
+may range from mild to severe and can be described as blurred or dimmed vision.
+Some patients report a scotoma or patchy areas of missing vision.
+Rarely, there may be transient visual obscurations prior to permanent loss.
+Ophthalmic Findings
+On examination, the following signs are typical:
+Decreased visual acuity in the affected eye.
+Relative afferent pupillary defect (RAPD), especially in ischaemic CRVO.
+Fundoscopy reveals classic features:
+Diffuse retinal haemorrhages ("blood and thunder" appearance)
+Dilated and tortuous retinal veins
+Optic disc swelling
+Cotton wool spots
+Macular oedema (may be subtle or pronounced)
+Occasionally, neovascularisation of the iris or retina in advanced/ischaemic cases
+Differentiating Ischaemic and Non-Ischaemic CRVO
+Non-ischaemic CRVO (approximately 70% of cases):
+Typically presents with milder reduction in visual acuity
+Fewer cotton wool spots and less extensive retinal haemorrhage
+Lower risk of neovascular complications at presentation
+Ischaemic CRVO:
+Presents with severe, sudden visual loss
+RAPD usually present
+Extensive retinal haemorrhage, numerous cotton wool spots, marked optic disc swelling
+High risk for early neovascularisation and secondary neovascular glaucoma
+Improve
+Investigations
+Although largely a clinical diagnosis, blood tests can help guide ongoing risk-factor management, and imaging can determine the degree of severity.
+Blood tests:
+FBC
+May indicate hyperviscosity, e.g. thrombocytosis
+Lipid profile
+Identification of modifiable risk factors
+ESR
+A raised ESR prompts suspicious of systemic inflammatory disorder and auto-antibody screen
+Fasting glucose, Hba1c
+Diabetic screen or assessment of glycaemic control
+Imaging:
+Fundus fluorescein angiography (FFA) will be done to at presentation measure areas of capillary non-perfusion. This confirms the diagnosis and can assess the severity of the condition.
+Distinguishes between subtypes of CRVO.
+Non-ischaemic CRVO = presence of <10 areas of non-perfusion
+Ischaemic CRVO = presence of >=10 areas of non-perfusion
+Optical coherence tomography (OCT)
+Confirms extent of macular oedema
+Can be used to monitor the response of macular oedema to treatment
+Further ophthalmological clinical examination:
+Slit-lamp examination
+To further assess the anterior and posterior segments of the eye
+Neovascularisation of the iris indicates severe ischaemic CRVO
+Gonioscopy
+To evaluate for the angle for glaucoma and neovascularisation
+Improve
+Differential diagnosis
+There are multiple differentials for sudden painless loss of vision. If there is any accompanying peripheral or central neurological deficit, cerebral vascular accident should be ruled out.
+Otherwise, the key ophthalmological differentials are:
+Branch retinal venous occlusion
+A key differential is branch retinal vein occlusion (BRVO) - this occurs when a vein in the distal retinal venous system is occluded and is thought to occur due to blockage of retinal veins at arteriovenous crossings. It results in a more limited area of the fundus being affected.
+Differentiated by clinical examination (macular oedema is infrequently seen on fundoscopy) and imaging (fundus fluorescein angiography demonstrates only single-quadrant non-perfusion areas)
+Treatment goals are similar, monitoring for signs of ischaemic changes warranting anti-VEGF or PRP treatment.
+Retinal detachment
+Sudden, painless, usually central loss of vision
+Patients often experience floaters or photopsia, which are very unusual in CRVO
+Area of detachment seen on fundoscopy
+Diabetic retinopathy
+Key risk factors present in clinical history, higher risk amongst patients with diabetes with suboptimal glycaemic control
+Bilateral signs in diabetic retinopathy, important differentiating factor from CRVO in which unilateral symptoms are far more common
+Fundoscopy demonstrates micro-aneurysms
+Ischaemic optic syndrome (IOS)
+Carotid artery stenosis leads to ocular hypoperfusion.
+Rarer but important differential as risk of
+visual loss
+and hypoperfusion of other cerebral areas
+Key differentiating factors on fundoscopy are microaneurysms on (common in IOS), and macular oedema (rare in IOS).
+Improve
+Management
+Initial Management
+Prompt referral to
+ophthalmology
+is essential for all suspected cases of CRVO
+Patients should be seen within 24 hours if possible
+Delay in treatment may result in irreversible
+visual loss
+Risk factor modification should be initiated
+Hypertension control
+Diabetes management
+Lipid-lowering therapy where indicated
+Smoking cessation
+Antiplatelet therapy may be considered
+Aspirin is commonly used unless contraindicated
+No strong evidence for anticoagulation unless specific thrombophilia identified
+Treatment of Macular Oedema
+Intravitreal anti-VEGF therapy is the
+first-line treatment
+for macular oedema secondary to CRVO
+Ranibizumab, aflibercept, or bevacizumab may be used according to local protocols
+Treatment typically involves a loading phase of monthly injections followed by a treat-and-extend regimen
+Regular OCT monitoring guides retreatment decisions
+Intravitreal corticosteroids are considered second-line therapy
+Dexamethasone implant (Ozurdex) may be used in patients unresponsive to anti-VEGF therapy
+Particularly useful in pseudophakic patients or those unsuitable for frequent injections
+Requires monitoring for steroid-induced glaucoma and cataract progression
+Laser therapy has a limited role in macular oedema management
+Grid laser photocoagulation is generally not recommended as primary therapy
+Management of Ischaemic CRVO
+Regular monitoring for neovascularisation is essential
+Review every 4-6 weeks initially, then every 2-3 months if stable
+Gonioscopy to assess for angle neovascularisation
+Panretinal photocoagulation (PRP) is indicated for:
+Neovascularisation of the iris (NVI)
+Neovascularisation of the angle (NVA)
+Neovascular glaucoma
+Anti-VEGF therapy may be used as an adjunct to PRP
+Can provide rapid regression of neovascularisation
+May be used as a temporising measure before PRP
+Neovascular glaucoma management
+Topical IOP-lowering medications
+Cyclodiode laser therapy for refractory cases
+Glaucoma drainage surgery may be required in severe cases
+Long-term follow-up is required for all CRVO patients
+Non-ischaemic CRVO may convert to ischaemic CRVO (up to 30% of cases)
+Regular monitoring for development of complications
+Ongoing assessment of the fellow eye (10% risk of bilateral involvement)
+Improve
+Ophthalmology
+Central retinal vein occlusion

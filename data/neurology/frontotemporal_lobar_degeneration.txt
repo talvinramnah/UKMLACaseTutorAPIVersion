@@ -1,0 +1,233 @@
+Frontotemporal lobar degeneration
+Frontotemporal lobar degeneration
+Frontotemporal lobar degeneration (FTLD) is a primary neurodegenerative condition resulting in 2% of dementia cases. It is the second most common cause of dementia in patients under 65 and it is characterised by a progressive illness leading to behavioural changes and language problems. The aetiology is poorly understood however some genetic causes have been identified. There is currently no treatment and management follows a supportive approach.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Alzheimer's disease
+100.00
+Vascular dementia
+23.33
+Lewy body dementia
+20.00
+Frontotemporal lobar degeneration
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of frontotemporal lobar degeneration is poorly characterised but is likely to be due to a combination of genetics and lifestyle factors.
+Up to 50% of patients have a positive family history of dementia and 10% of cases show autosomal dominant inheritance.
+Known genetic mutations have been identified in the following genes:
+MAPT
+Resulting in tau inclusion bodies
+Progranulin gene (PGRN)
+Resulting in TDP-43 inclusion bodies
+C9orf72
+Repeat expansions within this gene are commonly found in FTLD and amyotrophic lateral sclerosis.
+Improve
+Pathophysiology
+The pathophysiology of FTLD includes degenerative change in the frontal and temporal lobes at both a macroscopic and microscopic level.
+Macroscopic changes
+The macroscopic changes differ between the different types as summarised below:
+Behavioural variant FTD
+MRI or CT shows symmetrical atrophy predominantly affecting the frontal lobes with some evidence of temporal lobes being affected.
+Nonfluent/agrammatic variant PPA
+MRI or CT shows variable atrophy most commonly in the posterior frontal lobe, insular cortex and temporal lobe, including the hippocampus. This is seen to affect the left side to a greater extent.
+Semantic variant PPA
+MRI or CT shows left sided temporal lobe and hippocampus atrophy. Frontal lobes are relatively spared early in disease.
+Histological changes
+Histopathology shows axonal injury and inclusion bodies concentrated in the frontal and temporal lobes. The two main variants are:
+Tau inclusion bodies (also known as tauopathies, pick bodies or FTD-tau)
+Tau is a microtubule-associated protein coded for by the microtubule-associated protein tau gene (MAPT)
+Inclusions of immunoreactive ubiquitin (FTLD-U)
+This subset is commonly associated with a mutation in the progranulin gene (PGRN) resulting in TAR-DNA binding protein (TDP)-43.
+Improve
+Classification
+Frontotemporal lobar degeneration (FTLD) is characterised into three primary clinical syndromes: behavioural variant frontotemporal dementia (bvFTD), semantic dementia (SD), and progressive nonfluent aphasia (PNFA). Each subtype exhibits distinct symptomatology, yet they share overlapping pathophysiological features.
+Behavioural variant Frontotemporal Dementia (bvFTD):
+This is the most common form of FTLD. It is marked by changes in personality and behaviour, including disinhibition, apathy, loss of empathy or compulsive behaviours. Neuroimaging often reveals frontal and anterior temporal lobe atrophy.
+Semantic Dementia (SD):
+Also known as semantic variant primary progressive aphasia, it presents with loss of semantic knowledge - patients have difficulty understanding words or recognising familiar people or objects. Neuroimaging shows selective left anterior temporal lobe atrophy.
+Progressive Nonfluent Aphasia (PNFA):
+Characterised by progressive language disorder with non-fluent speech and grammatical errors. Patients may also show signs of agrammatism or apraxia of speech. Neuroimaging typically reveals left perisylvian or insular atrophy.
+The neuropathological classification of FTLD relies on the predominant protein found in inclusion bodies:
+Tau-positive FTLD:
+In this type, tau proteins accumulate abnormally within neurons leading to neurofibrillary tangles. Three major types exist based on the morphology and distribution of tau inclusions: Pick's disease, corticobasal degeneration, and progressive supranuclear palsy.
+TDP-43 positive FTLD:
+Characterised by the accumulation of transactive response DNA binding protein 43 (TDP-43). Four subtypes exist (A to D) based on the distribution and morphology of TDP-43 inclusions.
+FUS-positive FTLD:
+Less common, characterised by the presence of fused in sarcoma (FUS) protein within inclusion bodies. These are typically seen in younger patients and often associated with a more aggressive disease course.
+Improve
+Clinical features
+Patients with FTLD and their relatives may describe behaviours with an
+insidious onset
+showing
+progressive deterioration
+and associated with a
+function decline.
+Symptoms described may include:
+Behavioural changes
+- predominant feature in behavioral variant FTLD
+Early apathy (85%)
+Decline in social interpersonal conduct (80%)
+Early disinhibition (75%)
+Early loss of empathy (70%)
+Early perseverative (65%)
+Hyperorality (50%)
+Decline in hygiene (50-60%)
+Primitive reflexes (25%)
+Difficulties with speech
+- predominant feature in PPA
+Language difficulty as the predominant feature
+Aphasia
+Decrease in speed of speech
+Difficulties with comprehension
+Syntax
+Object naming
+Decline in executive functioning and cognition
+Difficulty planning
+Poor concentration
+Memory problems
+Short term memory problems
+Difficulty with recall
+An important aspect of the presentation is that behaviour or speech changes are noticed prior to memory problems and this can help distinguish it from other
+dementias
+. Up to 40% of patients have a positive family history with 10% showing an autosomal pattern of inheritance.
+Examination
+Patients may exhibit features of behavioural change and speech difficulties as above during the consultation.
+Neurological exam is often grossly normal but they may present with:
+Parkinsonism - tremor, rigidity and bradykinesia
+Signs of ALS such as progressive muscle weakness including bulbar muscles (10-15%)
+Cognitive testing may show impairment but may be normal.
+Improve
+Investigations
+This condition is a clinical diagnosis. If FTLD is suspected based on history and examination it is important to perform the following investigations:
+Dementia screening bloods to exclude organic causes:
+FBC - to rule out anaemia
+ESR & CRP - signs of infection or vasculitis
+T4 and TSH - to rule out hypothyroidism
+U&Es - evidence of renal failure or electrolyte disturbances (e.g. hypercalcaemia, hypocalcemia etc)
+B12 and folate - vitamin deficiencies may cause dementia
+Coagulation screen and albumin - assess liver function
+Glucose
+Midstream urine - if concerned about delirium
+Syphilis serology and HIV testing if clinically indicated
+Formal cognitive testing
+Mini-mental state examination (MMSE)
+Montreal clinical assessment (MoCA)
+If FTLD is still suspected patients should be referred to specialist psychiatric or memory services.
+Further investigations include:
+Structural imaging such as MRI or CT scan
+This may show atrophy in the frontal and temporal regions.
+May also exclude other structural or reversible causes.
+FDG-PET or SPECT scan
+Only performed if the diagnosis is still unclear.
+Genetic testing
+Only performed if positive family history.
+Improve
+Differential diagnosis
+FTLD may present similarly to other conditions that also affect behaviour, memory and cognitive functioning.
+Possible differential diagnoses may include:
+Alzheimer's disease
+(AD)
+Similarities:
+Loss of apathy
+Subtle
+personality changes
+and loss of interest in daily activities
+Grossly unremarkable physical exam
+Differences:
+Memory loss
+predominates in AD
+CT brain shows global atrophy in AD
+Vascular dementia
+Similarities:
+Loss of apathy
+Loss of executive functions
+Impulsivity and irritability
+Relative preservation of memory
+Differences:
+Presence of cardiovascular risk factors
+CT brain will show evidence of infarcts
+Dementia with Lewy bodies (DLB)
+Similarities:
+Loss of apathy
+Cognitive fluctuations
+Differences:
+Visual hallucinations and motor signs are key features in DLB
+Personality is relatively preserved
+Depression
+Similarities:
+Loss of apathy
+Loss of empathy
+Psychomotor retardation
+Memory loss
+Differences:
+Anhedonia in depression
+Patient reports feeling depressed
+Less common differentials may also include:
+Delirium
+B12 deficiency
+Hypothyroidism
+Bipolar
+OCD
+Normal pressure hydrocephalus
+Brain tumour
+CJD
+Syphilis
+HIV
+Improve
+Management
+There are no disease modifying treatments currently recommended for FTLD and therefore management is focused on supportive care and symptom management.
+Management approach should include:
+Supportive management
+Referral to specialist psychiatry or
+neurology
+services
+Patient and carer education
+Explain the disease course and progression
+Discuss driving - advise they are legally required to inform DVLA of diagnosis
+Consider care needs and develop a care plan
+Physiotherapy and occupational therapy assessment
+Present day needs
+Anticipated future needs
+Follow up 6-12 monthly
+Consider end of life care planning early on.
+Symptomatic control
+Non-drug therapy - this is recommended as first line therapy
+Group therapy
+Support groups
+Pharmacological therapies - these should only be used if non-drug therapies have failed.
+Benzodiazepines - for acute agitation and distress.
+SSRIs - for associated depression, anxiety, irritability and disinhibition.
+Antipsychotics - very low doses should be used and as a last resort.
+Oxytocin - emerging evidence suggests this may help with improving empathy but is not yet approved.
+Acetylcholinesterase inhibitors or memantine hydrochloride are
+not
+recommended in patients with FTLD.
+Improve
+Prognosis
+FTLD is a progressive condition with no known cause. It is also an umbrella term for a group of heterogeneous conditions and therefore some variation between different subtypes may exist.
+Clinical cohorts show survival of 7-13 years from diagnosis
+Neuropathology series show survival from 6-8 years.
+If associated with ALS survival is shorter at about 3-5 years.
+.
+As the disease progresses patients may require increasing support and care and end of life planning short be carried out early to ensure the patient can participate in this.
+Improve
+Dementias
+Frontotemporal lobar degeneration

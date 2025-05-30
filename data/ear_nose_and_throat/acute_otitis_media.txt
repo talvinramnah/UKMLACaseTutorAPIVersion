@@ -1,0 +1,277 @@
+Acute otitis media
+Acute otitis media
+Otitis media
+(OM) is a common infection of the middle ear, that may be bacterial or viral in nature. It is found predominantly in children under the age of four, although it may less commonly be found in adults of all ages. In the majority of cases OM self resolves and results in no lasting effects. There are, however, several important complications and differential diagnoses to be aware of and exclude at presentation.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 250.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Glue ear
+4.00
+Otitis externa
+2.00
+Acute
+otitis media
+1
+Cholesteatoma
+0.04
+Mastoiditis
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute
+otitis media
+(AOM) is primarily a bacterial or viral infection of the middle ear. The aetiology is multifactorial and includes various risk factors that contribute to its development.
+Microbial Pathogens
+The primary cause of AOM are microbial pathogens, particularly bacteria and viruses. The most common bacterial pathogens include
+Streptococcus pneumoniae
+,
+Haemophilus influenzae
+, and
+Moraxella catarrhalis
+. Viruses, such as respiratory syncytial virus (RSV), influenza virus, and rhinoviruses also play a significant role in the aetiology of AOM.
+Risk Factors
+Eustachian Tube Dysfunction:
+The Eustachian tube allows ventilation and drainage of the middle ear. Any dysfunction can lead to negative middle ear pressure, fluid accumulation, and subsequent infection.
+Age:
+AOM is more prevalent in children than adults due to the anatomical differences in their Eustachian tubes which are shorter, more horizontal, and floppier, making them more susceptible to infections.
+Immunodeficiency:
+Individuals with impaired immune systems are at higher risk due to decreased ability to fight off infections.
+Allergies:
+Allergic rhinitis can cause inflammation and obstruction of the Eustachian tubes leading to increased susceptibility for AOM.
+Tobacco Smoke Exposure:
+Passive smoking can impair mucociliary function leading to increased risk of upper respiratory tract infections including AOM.
+Bottle Feeding:
+Infants who are bottle-fed while supine have an increased risk compared to those who are breastfed due to the potential for milk to enter the Eustachian tube.
+Daycare Attendance:
+Children attending daycare centres have a higher risk of AOM due to increased exposure to respiratory pathogens.
+-
+Conditions affecting ciliary motility
+Cystic fibrosis
+Primary ciliary dyskinesia
+Kartagener's syndrome
+Improve
+Pathophysiology
+OM occurs secondary to oedema and narrowing of the eustachian tube.  An oedematous eustachian tube prevents the middle ear from draining, predisposing it to the colonisation of bacteria. The eustachian tube serves to equalise pressure in the middle ear, when the tube is blocked this cannot happen. A low pressure in the middle is the primary cause of
+earache
+. Rupture of the TM will resolve the pressure differential and relieve pain.
+Children are predisposed to OM several reasons
+Their eustachian tubes are narrower and more prone to blockage
+Their eustachian tubes are more horizontal, inhibiting drainage
+This is why the pinna is pulled down for paediatric examination, and up for adults
+Children have less developed immune systems are are more prone to upper respiratory tract infections, a common cause of eustachian tube oedema
+The role of pathogens in OM
+The presence of a middle ear microbiome has been contested. However, latest evidence would suggest that the middle ear is a sterile environment with no bacterial commensals. The route of infection is therefore proposed to be the eustachian tube communicating the middle ear with the rich microbial flora of the oral cavity.
+OM may have bacterial or viral causes, varying relative frequencies have been reported, studies are particularly limited by difficulty sampling the middle ear.
+Causative agent
+Percent
+Virus only
+20-30%
+Bacteria only
+35-55%
+Mixed
+28-70%
+Biofilms
+Biofilms are a diverse community of bacteria that adhere to a solid surface and form an extracellular matrix of polymeric secretions. Biofilms are challenging to treat owing in part to poor antibiotic penetrance. In one study biofilms were demonstrated in 92% of children with
+otitis media
+with effusion.
+95% of bacteria isolated from infected middle ears are the following three pathogens
+Streptococcus pneumoniae
+Moraxella catarrhalis
+Haemophilus influenzae
+The most commonly isolated viruses
+Respiratory syncytial virus
+41%-56%
+Coronavirus
+50%
+Adenovirus
+17%-46%
+Rhinovirus
+30%-44%
+Influenza (all types)
+23%-35%
+Enterovirus
+34%
+Parainfluenza (all types)
+33%
+Improve
+Classification
+OM can be categorised in accordance with its duration and the presence or absence of effusion. OM with effusion may also be referred to as secretory or serous.
+Acute
+Acute
+otitis media
+Acute otitis media with effusion
+May progress to chronic OM with effusion or chronic suppurative.
+This is a collection of fluid in the middle ear that is traditionally thought to be non-infected, however recent studies have suggested biofilms may play a role.
+It is the most common cause of hearing impairment in childhood owing to its high incidence.
+Chronic
+Chronic OM with effusion
+Characterised by a build up of fluid behind an intact TM.
+Must be present for >3 months to support diagnosis.
+Also known as
+glue ear
+.
+Less common than acute otitis media with effusion, but more likely to result in hearing impairment.
+Chronic suppurative
+Discharge present for >2 weeks can support a diagnosis, however some specialists will only diagnose after 6 weeks.
+Presents with persistent
+ear discharge
+through a perforated tympanic membrane (TM).
+Improve
+Clinical features
+Features
+otalgia
++ some children may tug or rub their ear
+fever
+occurs in around 50% of cases
+hearing loss
+recent viral URTI symptoms are common (e.g. coryza)
+ear discharge
+may occur if the tympanic membrane perforates
+Possible otoscopy findings:
+bulging tympanic membrane → loss of light reflex
+opacification or erythema of the tympanic membrane
+perforation with purulent otorrhoea
+decreased mobility if using a pneumatic otoscope
+Improve
+Investigations
+OM is a clinical diagnosis. Measuring vital signs alongside a thorough clinical examination is important to exclude systemic infection and serious complications, such as;
+Mastoiditis
+Meningitis
+Intracranial abscesses
+Tympanometry
+Tympanometry can be useful as an aid for the diagnosis of middle ear conditions. The procedure involves changing the pressure in the outer ear, playing a tone and analysing the reflected sound waves. The degree of reflection gives a good proxy measurement for the admittance of the TM (the amount of energy transmitted through the TM). The admittance will be at its maximal point when the pressures on either side of the TM are equal.
+Tympanometry findings
+There are many permeation of waveform findings, however the 3 more common for non specialists to understand are
+A) Normal
+A symmetrical tented 'teepee-like' graph is seen.
+B) Flat waveform
+Suggestive of fluid in the middle ear, or rupture of the TM.
+C) Similar shaped graph to normal, but the peak is shifted negatively (to the left).
+This indicates a negative pressure in the middle ear.
+Improve
+Diagnosis
+Whilst guidelines vary, the majority use the following criteria to diagnose
+otitis media
+:
+acute onset of symptoms
+otalgia
+or ear tugging
+presence of a middle ear effusion
+bulging of the tympanic membrane, or
+otorrhoea
+decreased mobility on pneumatic otoscopy
+inflammation of the tympanic membrane
+i.e. erythema
+Improve
+Differential diagnosis
+There are several possible differential diagnoses for OM, the below history and examination findings can help delineate the diagnosis.
+Condition
+Features and findings
+Impacted cerumen
+Examination may be difficult, large quantities of cerumen may be seen, in cases of impaction the wax will more likely be dry.
+Otitis externa
+Erythematous ear canal +/- exudate. Ensure visualisation of the entirety of the TM to exclude perforated OM or other signs of concurrent OM.
+Foreign body
+The foreign body or a tympanic perforation may be seen.
+Cholesteatoma
+Several different pictures may be seen on otoscopy.
+A 'crust' of epithelial cell overgrowth on the upper pole of the TM.
+A small retraction of the TM in the early stages of the disease.
+In its congenital form, a white mass may be seen behind an intact TM.
+Bullous myringitis
+One or more pus filled blisters may be seen on the tympanic membrane. Other symptoms are similar to OM such as hearing impairment,
+fever
+and aural fullness. OM may happen concurrently.
+Mastoiditis
+Ensure the mastoid bone is palpated and visualised - tenderness and erythema point towards this diagnosis.
+Labyrinthitis
+Dizziness and nausea are classic features of labyrinthitis and are not commonly found in OM.
+Conditions causing referred pain
+Dental pain and tonsillitis are two common conditions, especially in children, that can cause referred pain similar in nature to OM. Examining the oral cavity for evidence of poor dentition and tonsillar signs can help exclude these.
+Improve
+Management
+Acute
+otitis media
+Following a Cochrane review in 2015, NICE recommends that most cases of OM will self resolve without antibiotics. Management is conservative and focussed upon managing symptoms with simple analgesia. A prescription for antibiotics may be given with the advice to take in 3 days if symptoms do not being to improve, or the patient becomes systemically unwell.
+In the following groups it is recommended to prescribe antibiotics
+Children under the age of two with bilateral OM
+Children younger than 3 months with a temperature over 38ÂºC
+OM with
+ear discharge
+Those who are systemically unwell
+Those at high risk of complication
+First line antibiotics
+Amoxicillin (5-7 day course)
+Erythromycin or clarithromycin
+If antibiotics do not resolve symptoms
+Consider an alternative diagnosis
+Consider a referral to secondary care
+If neither of these are appropriate and symptoms are worsening despite 2-3 days of first line antibiotics, consider adding co-amoxiclav.
+Conservative managements to prevent recurrence
+Avoid passive smoking
+Avoid flat or supine feeding
+Acute and chronic otitis media with effusion (
+glue ear
+)
+In primary care, management is started conservatively, with observation for a period of 6-12 weeks, as the condition often spontaneously resolves. Pure tone audiometry should be performed in this time. A referral to secondary care should be made if
+There is concern with the child's development
+The
+hearing loss
+persists after other symptoms have resolved
+There is severe hearing loss
+The child has Down's syndrome or cleft palate
+Management in secondary care
+Hearing aids
+Often offered to patients with persistent bilateral symptoms
+Eustachian tube autoinflation
+This involves blowing up a balloon with the nostrils several times a day
+Surgical; myringotomy with grommet insertion
+A grommet is a tube, surgically inserted in the TM, that allows middle ear ventilation and the drainage of excess secretions. They are ordinarily a temporary measure lasting around 12 months.
+Chronic suppurative otitis media
+In primary care, carefully assess for signs and symptoms of serious complications. In the case of serious complications refer for urgent review in secondary care.
+Refer all other suspected cases for ENT review routinely. Management in secondary care usually involves the use of topical antibiotics and steroids.
+Improve
+Complications
+Common
+Chronic OM
+In 8% of children, acute OM will progress to chronic OM.
+Tympanic membrane perforation
+This is a common occurrence and will ordinarily heal within a few weeks. Patients should be advised to avoid swimming and to be careful when in the shower. Assessing the site of perforation is important, as perforations in the upper portion of the drum are more likely to lead to
+mastoiditis
+and will require closer monitoring.
+Hearing loss
+More common with recurrent
+otitis media
+In most cases, this will resolve with healing of the TM.
+Tinnitus
+Uncommon
+Mastoiditis
+Mastoiditis is a serious complication of OM requiring IV antibiotics. In some cases surgery is necessary. Surgical options include a myringotomy (surgically draining the middle ear) and mastoidectomy (removing affected part of the mastoid bone).
+Bacterial meningitis
+Extradural abscess
+Subdural abscess
+Labyrinthitis
+Facial paralysis
+The corda tympani branch of the facial nerve runs through the middle ear - several mechanisms by which facial paralysis occurs have been suggested, including osteitis, retrograde infections and elevated pressures.
+Improve
+References
+NICE - 2008 Respiratory tract infection guidelines
+Clinical Knowledge Summaries - Otitis media guidelines
+Ear, nose and throat
+Acute otitis media

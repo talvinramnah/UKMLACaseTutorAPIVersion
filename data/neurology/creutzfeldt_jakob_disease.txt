@@ -1,0 +1,116 @@
+Creutzfeldt-Jakob disease
+Creutzfeldt-Jakob disease
+Creutzfeldt-Jakob disease (CJD) is rapidly progressive neurological condition caused by prion proteins. These proteins induce the formation of amyloid folds resulting in tightly packed beta-pleated sheets resistant to proteases.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.10 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Classification
+Sporadic CJD
+accounts for 85% of cases
+10-15% of cases are familial
+mean age of onset is 65 years
+New variant CJD
+younger patients (average age of onset = 25 years)
+psychological symptoms such as anxiety, withdrawal and dysphonia are the most common presenting features
+the 'prion protein' is encoded on chromosome 20 - it's role is not yet understood
+methionine homozygosity at codon 129 of the prion protein is a risk factor for developing CJD - all patients who have so far died have had this
+median survival = 13 months
+Other prion diseases
+kuru
+fatal familial
+insomnia
+Gerstmann Straussler-Scheinker disease
+Improve
+Clinical features
+Typical Presentation
+Creutzfeldt-Jakob disease (CJD) typically presents as a rapidly progressive dementia with neurological deterioration, with most patients progressing from first symptoms to death within 4-6 months
+The clinical presentation varies depending on the CJD subtype (sporadic, variant, familial, or iatrogenic)
+Sporadic CJD typically presents in older adults (mean age 65) with rapidly progressive cognitive decline and
+myoclonus
+Variant CJD (vCJD) typically affects younger individuals (mean age 25-30) and often begins with psychiatric and sensory symptoms
+Common Clinical Features
+Cognitive impairment
+Rapidly progressive dementia is the hallmark feature
+Memory loss, confusion, and disorientation
+Language difficulties including dysphasia and mutism in later stages
+Movement disorders
+Myoclonus (sudden, brief, involuntary jerking movements) is present in approximately 90% of cases
+Ataxia and gait disturbances
+Pyramidal and extrapyramidal signs (rigidity, spasticity)
+Visual disturbances
+Visual hallucinations
+Cortical blindness
+Oculomotor abnormalities
+Psychiatric symptoms
+Depression
+, anxiety, apathy
+Behavioural changes and personality alterations
+Psychosis (more common in vCJD)
+Terminal stage
+Akinetic mutism (awake but unresponsive)
+Loss of voluntary movements
+Autonomic dysfunction
+Variant CJD-Specific Features
+Psychiatric symptoms often predominate early in vCJD, including depression, anxiety, withdrawal, and behavioural changes
+Persistent painful sensory symptoms (paraesthesia, dysaesthesia)
+Later development of cerebellar ataxia, dementia and involuntary movements
+More prolonged clinical course (median 13-14 months) compared to sporadic CJD
+The "pulvinar sign" on MRI (bilateral high signal in the posterior thalamus) is highly characteristic
+NICE CJD Guideline [NG200] notes that "healthcare professionals should be aware that CJD is a rare but important differential diagnosis in people with rapidly progressive neurological symptoms, particularly when associated with psychiatric symptoms, sensory symptoms including pain, visual symptoms, or ataxia."
+Improve
+Investigations
+The diagnosis of Creutzfeldt-Jakob disease (CJD) is primarily clinical, supported by characteristic findings on investigations.
+No single test is diagnostic for CJD, and a combination of investigations is typically required.
+First-line investigations should include:
+Cerebrospinal fluid (CSF) analysis
+Magnetic resonance imaging (MRI) of the brain
+Electroencephalography (EEG)
+Exclusion of treatable causes of rapidly progressive dementia
+CSF Analysis
+CSF is typically acellular with normal or mildly raised protein
+Absence of pleocytosis helps distinguish CJD from encephalitis
+CSF Real-Time Quaking-Induced Conversion (RT-QuIC) assay is highly specific (99%) and sensitive (92%) for CJD
+RT-QuIC detects the presence of abnormal prion proteins
+The National CJD Research & Surveillance Unit recommends RT-QuIC as the preferred diagnostic test for sporadic CJD
+Traditional CSF biomarkers include:
+14-3-3 protein (elevated in CJD but lacks specificity)
+S100B protein
+Tau protein
+These have been largely superseded by RT-QuIC testing
+Neuroimaging
+MRI is the imaging modality of choice
+Diffusion-weighted imaging (DWI) sequences are most sensitive for CJD-related changes
+Characteristic findings include:
+Hyperintensity in the basal ganglia (particularly caudate and putamen)
+Cortical ribboning (hyperintensity along the cerebral cortex)
+Thalamic hyperintensity (particularly in variant CJD - "pulvinar sign")
+FLAIR sequences may show similar but less sensitive changes
+CT brain has limited value but may be used to exclude other pathologies
+Electroencephalography
+EEG has moderate sensitivity and specificity for CJD
+Classical finding is generalised periodic sharp wave complexes (PSWCs)
+PSWCs typically appear in the middle and late stages of disease
+Absent in approximately 30% of sporadic CJD cases
+Rarely seen in variant CJD
+Serial EEGs may be required as abnormalities can evolve over time
+In cases where diagnosis remains uncertain:
+Brain biopsy may be considered, though rarely performed ante-mortem
+Genetic testing for PRNP mutations in suspected familial cases
+The National Prion Clinic and National CJD Research & Surveillance Unit should be consulted for guidance on complex cases
+Improve
+Neurology
+Creutzfeldt-Jakob disease

@@ -1,0 +1,117 @@
+Malignant otitis externa
+Malignant otitis externa
+Basics
+Uncommon type of
+otitis externa
+that is found in immunocompromised individuals (90% cases found in diabetics)
+Infective organism is usually
+Pseudomonas aeruginosa
+Infection commences in the soft tissues of the external auditory meatus, then progresses to involve the soft tissues and into the bony ear canal
+Progresses to temporal bone osteomyelitis
+Last updated: 23
+rd
+July 2024
+Aetiology
+Malignant
+otitis externa
+, also known as necrotising otitis externa, is a severe infection of the external auditory canal and surrounding structures. It is typically caused by
+Pseudomonas aeruginosa
+, although other organisms such as
+Staphylococcus aureus
+and fungi may also be implicated.
+Risk Factors
+Diabetes Mellitus:
+This is the most common underlying condition associated with malignant otitis externa. The hyperglycaemic environment in diabetes mellitus compromises the immune system, reducing its ability to combat infections.
+Aged Population:
+Malignant otitis externa predominantly affects elderly individuals. Age-related changes such as decreased immunity and increased prevalence of chronic diseases like diabetes contribute to this risk.
+Immunosuppression:
+Patients with immunocompromised states due to conditions such as HIV/AIDS, malignancies or use of immunosuppressive drugs are at an increased risk.
+Otologic Procedures:
+Previous ear surgeries or trauma to the ear can disrupt the natural barrier of the external auditory canal, facilitating bacterial invasion.
+Underlying Causes
+The primary cause of malignant otitis externa is infection by
+Pseudomonas aeruginosa
+. This gram-negative bacterium thrives in moist environments like the external auditory canal and has multiple virulence factors that aid in tissue invasion and destruction. Other less common causative agents include
+Staphylococcus aureus
+, Proteus species and fungi like Aspergillus and Candida.
+The pathogenicity of these organisms coupled with host factors such as impaired immunity (from diabetes or immunosuppression) and anatomical disruption (from previous otologic procedures or trauma) leads to the development of malignant otitis externa. The infection begins in the external auditory canal and can progress to involve the temporal bone and adjacent structures, leading to serious complications if not promptly addressed.
+Improve
+Pathophysiology
+The process begins with an initial bacterial or fungal infection of the external ear canal, often precipitated by local trauma or inflammation. The organisms invade the periosteum and bone of the skull base, leading to osteomyelitis.
+Microbial invasion:
+The infective organisms, most commonly
+Pseudomonas aeruginosa
+, exploit breaches in the skin barrier of the external auditory canal to establish an infection. Other less common pathogens include
+Staphylococcus aureus
+and various fungal species such as
+Aspergillus
+.
+Inflammatory response:
+In response to this microbial invasion, local inflammatory processes are triggered. This includes release of cytokines and recruitment of immune cells which leads to oedema, erythema, pain and granulation tissue formation in the ear canal.
+Tissue destruction:
+The persistent inflammation coupled with direct microbial invasion results in progressive tissue destruction including necrosis of soft tissues and erosion of underlying bone structures. This leads to osteomyelitis at the base of skull.
+Disease progression:
+If left untreated, further progression occurs due to contiguous spread along fascial planes leading to involvement of adjacent structures such as temporomandibular joint, parotid gland, facial nerve and even intracranial structures resulting in serious complications like
+mastoiditis
+, abscess formation or cranial nerve palsies.
+Systemic response:
+Systemic signs of infection may also be present, including fever and elevated inflammatory markers. In severe cases, sepsis can occur.
+Improve
+Clinical features
+Key features in history
+Diabetes (90%) or immunosuppression (illness or treatment related)
+Severe, unrelenting, deep-seated otalgia
+Temporal headaches
+Purulent otorrhea
+Possibly dysphagia, hoarseness, and/or facial nerve dysfunction
+Improve
+Investigations
+The investigation of malignant
+otitis externa
+(MOE) requires a systematic and comprehensive approach, starting with first-line investigations and proceeding to further diagnostic procedures if necessary. The primary aim is to confirm the diagnosis, identify the causative organism, and assess any potential complications.
+First-Line Investigations
+Clinical Assessment:
+Although not an investigation in the traditional sense, a thorough clinical assessment is essential. Clinical signs such as persistent otalgia, otorrhoea resistant to treatment, granulation tissue in the ear canal, cranial nerve palsies or facial palsy may suggest MOE.
+Microbiological Swab:
+A swab from the external auditory canal for microbiology is crucial to identify the causative pathogen.
+Pseudomonas aeruginosa
+is most commonly implicated; however, other organisms can also cause MOE.
+Blood Tests:
+Full blood count (FBC), C-reactive protein (CRP), erythrocyte sedimentation rate (ESR) and blood cultures should be performed. Raised inflammatory markers are often found but are non-specific. Blood cultures may identify bacteraemia associated with MOE.
+Further Investigations
+If initial investigations support a suspected diagnosis of MOE and/or if there is lack of response to empirical antibiotic therapy, further investigations should be considered.
+Audiometry:
+Conductive hearing loss on audiometry may indicate involvement of middle ear structures or osteomyelitis of the base of skull.
+Computed Tomography (CT):
+CT scan of temporal bones can show evidence of soft tissue inflammation/infection in external auditory canal or bone erosion suggestive of osteomyelitis. However, it is less sensitive for early changes and may not detect soft tissue involvement.
+Magnetic Resonance Imaging (MRI):
+MRI is superior to CT in detecting early changes of MOE and identifying the extent of disease, especially intracranial or vascular complications. It can show inflammation extending beyond the external auditory canal into surrounding tissues.
+Gallium or Technetium Bone Scan:
+These nuclear medicine scans are used when there is a high suspicion of MOE but imaging studies are inconclusive. They have high sensitivity for osteomyelitis; however, they lack specificity and cannot differentiate between infection and other causes of bone turnover such as malignancy or trauma.
+Biopsy:
+Biopsy of granulation tissue in the ear canal can confirm invasive infection and rule out malignant transformation. However, this is usually reserved for cases where diagnosis remains uncertain after other investigations.
+Improve
+Management
+Treatment
+Intravenous antibiotics that cover pseudomonal infections
+Improve
+Complications
+Complications of Malignant
+otitis externa
+:
+Cranial Nerve Involvement:
+The most common complication, often starting with the facial nerve (cranial nerve VII), leading to facial palsy. Other cranial nerves such as IX, X, XI, and XII may also be affected.
+Osteomyelitis:
+Extension of infection into the temporal bone and skull base can result in osteomyelitis, which is challenging to treat and requires prolonged antibiotic therapy.
+Meningitis:
+Spread of infection to the meninges can occur, resulting in bacterial meningitis. This necessitates immediate intervention with intravenous antibiotics.
+Intracranial Abscess:
+Formation of epidural or brain abscesses due to contiguous spread from the infected ear canal or adjacent structures.
+Dural Sinus Thrombosis:
+Infection can lead to thrombosis of dural venous sinuses such as the sigmoid sinus or cavernous sinus, presenting with symptoms like headache, fever, and neurological deficits.
+Pseudomonas aeruginosa
+: The primary pathogen implicated in malignant otitis externa is typically resistant to multiple antibiotics, complicating treatment regimens.
+The above complications necessitate a multidisciplinary approach involving otolaryngology, neurology, infectious disease specialists, and radiology for optimal patient outcomes.
+Improve
+Ear, nose and throat
+Malignant otitis externa

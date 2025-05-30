@@ -1,0 +1,288 @@
+Rheumatoid arthritis
+Rheumatoid arthritis
+Rheumatoid arthritis (RA) is a chronic, systemic autoimmune disorder characterized by symmetrical inflammation of the synovial joints, leading to progressive joint destruction, disability, and extra-articular manifestations. The exact aetiology is unknown, but genetic factors, such as HLA-DRB1, environmental triggers, and dysregulated immune responses contribute to its pathogenesis. RA primarily affects women, with a peak incidence in the fourth and fifth decades of life.
+Clinically, RA presents with persistent joint pain, swelling, and stiffness, predominantly in the hands, wrists, and feet. Morning stiffness lasting more than 30 minutes is a hallmark symptom. Extra-articular manifestations include rheumatoid nodules, interstitial lung disease, vasculitis, and increased cardiovascular risk.
+Diagnosis relies on clinical criteria, laboratory tests (e.g.,
+rheumatoid factor
+, anti-citrullinated protein antibodies), and imaging (e.g., X-ray, ultrasound). Management involves a multidisciplinary approach, with pharmacotherapy (e.g., NSAIDs, DMARDs, biologics), physical therapy, and patient education. Early diagnosis and treatment are crucial to prevent irreversible joint damage and reduce morbidity.
+Last updated: 29
+th
+November 2023
+Epidemiology
+Incidence: 40.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Osteoarthritis of the hand
+37.50
+Polymyalgia rheumatica
+2.10
+Rheumatoid arthritis
+1
+Psoriatic arthropathy
+0.20
+Systemic lupus erythematosus
+0.13
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Rheumatoid arthritis (RA) is a complex, multifactorial autoimmune disease with a largely unknown aetiology. However, several risk factors and underlying causes have been identified which contribute to its development.
+Genetic Factors
+Human Leukocyte Antigen (HLA) genes: The HLA-DRB1 locus is strongly associated with RA susceptibility, particularly the shared epitope alleles.
+Non-HLA genes: Other genetic loci linked to RA include PTPN22, STAT4, TRAF1, C5-TRAF1 and CTLA4 among others. These genes are involved in immune regulation and inflammatory response mechanisms.
+Environmental Factors
+Cigarette smoking:
+This is the most consistent environmental risk factor linked to RA. Smokers with specific HLA genotypes have an increased risk of developing seropositive RA.
+Infections:
+Various infectious agents such as
+Epstein-Barr virus
+,
+Parvovirus B19
+, and
+Porphyromonas gingivalis
+have been proposed as potential triggers for RA but conclusive evidence remains elusive.
+Silica exposure:
+Occupational exposure to silica dust has been associated with an increased risk of developing RA.
+Hormonal Factors
+Pregnancy:
+Pregnancy appears to reduce the risk of onset of RA but may also lead to post-partum flare-ups in women who already have the disease.
+Menses and menopause:
+Early menarche, irregular menses or early menopause may increase the risk of developing RA. Post-menopausal women also have a higher risk, suggesting a protective role of endogenous hormones.
+Lifestyle Factors
+Obesity:
+Obesity is associated with an increased risk of developing RA and may affect disease severity and response to treatment.
+Diet:
+Certain dietary factors such as high intake of red meat or low intake of fruits, vegetables and vitamin D may increase the risk of RA.
+Improve
+Pathophysiology
+Immune Dysregulation
+RA is characterized by a complex interplay of innate and adaptive immune responses, leading to chronic inflammation and joint destruction:
+Autoantibodies:
+Rheumatoid factor
+(RF) and anti-citrullinated protein antibodies (ACPA) are commonly detected in RA patients, and ACPA-positive RA has distinct genetic and environmental risk factors
+T cells:
+CD4+ T helper (Th) cells, particularly Th1 and Th17 subsets, contribute to synovial inflammation by producing pro-inflammatory cytokines and activating other immune cells
+B cells:
+Produce autoantibodies, act as antigen-presenting cells, and secrete cytokines, further propagating the inflammatory response
+Macrophages and neutrophils:
+Release cytokines, such as tumor necrosis factor-alpha (TNF-α) and interleukin-6 (IL-6), and contribute to synovial inflammation and joint damage
+Synovial Inflammation and Joint Damage
+The inflammatory milieu in the synovial joint results in synovial hyperplasia, pannus formation, and subsequent joint destruction:
+Synoviocytes:
+Fibroblast-like synoviocytes (FLS) and macrophage-like synoviocytes (MLS) undergo hyperplasia, contributing to synovial thickening and producing matrix-degrading enzymes
+Pannus formation:
+The invasive pannus, composed of FLS, macrophages, and other immune cells, contributes to cartilage and bone destruction
+Angiogenesis:
+Neovascularization supports the growth of the pannus and increases the influx of immune cells into the synovium
+Bone erosion:
+Osteoclasts, activated by receptor activator of nuclear factor-kappa B ligand (RANKL) and other factors, resorb bone at sites of pannus invasion
+Improve
+Clinical features
+Symmetrical Joint Involvement
+Rheumatoid arthritis (RA) typically manifests as symmetrical polyarthritis, with joint pain, swelling, and stiffness. The small joints of the hands and feet, such as metacarpophalangeal (MCP), proximal interphalangeal (PIP), and metatarsophalangeal (MTP) joints, are predominantly affected. Larger joints, including the knees, shoulders, and elbows, can also be involved.
+Morning Stiffness
+A characteristic feature of RA is morning stiffness lasting more than 30 minutes, which may improve with activity. Stiffness can also occur after periods of inactivity, known as 'gelling.'
+Joint Swelling
+The affected joints may exhibit soft tissue swelling due to synovitis, joint effusion, and periarticular inflammation.
+Fatigue
+Patients with RA often report fatigue, which can be attributed to the chronic inflammatory state, anaemia of chronic disease, sleep disturbances, or medication side effects.
+Constitutional Symptoms
+Systemic symptoms such as low-grade
+fever
+, weight loss, and general
+malaise
+may accompany the joint manifestations in some patients.
+Onset and Progression
+RA typically has an insidious onset, with symptoms developing over weeks to months. However, some patients may present with a more acute onset. The course of the disease can be variable, ranging from intermittent flares to persistent, unremitting inflammation.
+Extra-articular Manifestations
+Although extra-articular manifestations are more common in established RA, they can occasionally present early in the disease course. These may include rheumatoid nodules, interstitial lung disease, keratoconjunctivitis sicca, and anemia of chronic disease.
+Improve
+Investigations
+Rheumatoid factor
+Rheumatoid factor (RF) is a circulating antibody (usually IgM) which reacts with the Fc portion of the patients own IgG
+RF can be detected by either
+Rose-Waaler test: sheep red cell agglutination
+Latex agglutination test (less specific)
+RF is positive in 70-80% of patients with rheumatoid arthritis, high titre levels are associated with severe progressive disease (but NOT a marker of disease activity)
+Other conditions associated with a positive RF include:
+Sjogren's syndrome (around 100%)
+Felty's syndrome (around 100%)
+infective endocarditis (= 50%)
+SLE
+(= 20-30%)
+systemic sclerosis (= 30%)
+general population (= 5%)
+rarely: TB, HBV, EBV, leprosy
+Anti-cyclic citrullinated peptide antibody
+Anti-cyclic citrullinated peptide antibody may be detectable up to 10 years before the development of rheumatoid arthritis. It may therefore play a key role in the future of rheumatoid arthritis, allowing early detection of patients suitable for aggressive anti-TNF therapy. It has a sensitivity similar to rheumatoid factor (around 70%) with a much higher specificity of 90-95%.
+NICE recommends that patients with suspected rheumatoid arthritis who are rheumatoid factor negative should be test for anti-CCP antibodies.
+X-ray changes
+Early x-ray findings
+loss of joint space
+juxta-articular osteoporosis
+soft-tissue swelling
+Late x-ray findings
+periarticular erosions
+subluxation
+Improve
+Diagnosis
+NICE have stated that clinical diagnosis is more important than criteria such as those defined by the American College of
+Rheumatology
+.
+2010 American College of Rheumatology criteria
+Target population. Patients who
+1) have at least 1 joint with definite clinical synovitis
+2) with the synovitis not better explained by another disease
+Classification criteria for rheumatoid arthritis (add score of categories A-D;
+a score of 6/10 is needed definite rheumatoid arthritis)
+Key
+RF =
+rheumatoid factor
+ACPA = anti-cyclic citrullinated peptide antibody
+Factor
+Scoring
+A. Joint involvement
+1 large joint
+0
+2 - 10 large joints
+1
+1 - 3 small joints (with or without involvement of large joints)
+2
+4 - 10 small joints (with or without involvement of large joints)
+3
+10 joints (at least 1 small joint)
+5
+B. Serology (at least 1 test result is needed for classification)
+Negative RF and negative ACPA
+0
+Low-positive RF or low-positive ACPA
+2
+High-positive RF or high-positive ACPA
+3
+C. Acute-phase reactants (at least 1 test result is needed for classification)
+Normal CRP and normal ESR
+0
+Abnormal CRP or abnormal ESR
+1
+D. Duration of symptoms
+< 6 weeks
+0
+> 6 weeks
+1
+Improve
+Differential diagnosis
+The differential diagnosis of rheumatoid arthritis (RA) can be challenging due to its overlap with various other conditions. Three key differential diagnoses include osteoarthritis (OA), psoriatic arthritis (PsA), and
+systemic lupus erythematosus
+(SLE).
+Osteoarthritis
+Unlike RA, OA is a degenerative joint disease primarily affecting the cartilage. It does not exhibit the systemic inflammation characteristic of RA.
+Clinically, OA usually presents with asymmetric joint involvement, typically in weight-bearing joints like knees and hips, or hands’ distal interphalangeal joints. Morning stiffness in OA generally lasts less than 30 minutes which contrasts with the prolonged morning stiffness seen in RA.
+On examination, Heberden's and Bouchard's nodes may be observed in OA which are not typical features of RA.
+Psoriatic Arthritis
+PsA is another inflammatory arthritis that may mimic RA. However, it is typically associated with psoriasis and often affects skin and nails as well as joints.
+Unlike the symmetrical polyarticular pattern commonly seen in RA, PsA often demonstrates an asymmetric oligoarticular pattern. Dactylitis (sausage digits) and enthesitis are also unique features of PsA that help differentiate from RA.
+Radiographic findings such as pencil-in-cup deformity or periostitis could aid differentiation; these are not typical for RA.
+Systemic Lupus Erythematosus
+SLE is a chronic autoimmune disease that may present with arthralgia similar to RA but usually exhibits a wider range of systemic symptoms including malar rash, photosensitivity, oral ulcers, serositis, renal and neurological involvement.
+SLE arthritis is typically non-erosive and does not lead to the joint deformities commonly observed in RA. Joint involvement in SLE is often migratory and transient.
+Presence of autoantibodies such as antinuclear antibodies (ANA), anti-double stranded DNA (anti-dsDNA) or anti-Smith (anti-Sm) are more suggestive of SLE than RA.
+Improve
+Management
+The management of rheumatoid arthritis (RA) has been revolutionised by the introduction of disease-modifying therapies in the past decade.
+Patients with evidence of joint inflammation should start a combination of disease-modifying drugs (DMARD) as soon as possible. Other important treatment options include analgesia, physiotherapy and surgery.
+Initial therapy
+In 2018 NICE updated their rheumatoid arthritis guidelines. They now recommend DMARD
+monotherapy
++/- a short-course of bridging
+prednisolone
+. In the past dual DMARD therapy was advocated as the initial step.
+Monitoring response to treatment
+NICE recommends using a combination of CRP and disease activity (using a composite score such as DAS28) to assess response to treatment
+DMARDs
+methotrexate
+is the most widely used DMARD. Monitoring of FBC & LFTs is essential due to the risk of myelosuppression and liver cirrhosis. Other important side-effects include pneumonitis
+sulfasalazine
+leflunomide
+hydroxychloroquine
+TNF-inhibitors
+the current indication for a TNF-inhibitor is an inadequate response to at least two DMARDs including methotrexate
+etanercept: recombinant human protein, acts as a decoy receptor for TNF-α, subcutaneous administration, can cause demyelination, risks include reactivation of tuberculosis
+infliximab: monoclonal antibody, binds to TNF-α and prevents it from binding with TNF receptors, intravenous administration, risks include reactivation of tuberculosis
+adalimumab: monoclonal antibody, subcutaneous administration
+Rituximab
+anti-CD20 monoclonal antibody, results in B-cell depletion
+two 1g intravenous infusions are given two weeks apart
+infusion reactions are common
+Abatacept
+fusion protein that modulates a key signal required for activation of T lymphocytes
+leads to decreased T-cell proliferation and cytokine production
+given as an infusion
+not currently recommend by NICE
+Improve
+Complications
+A wide variety of extra-articular complications occur in patients with rheumatoid arthritis (RA):
+respiratory: pulmonary fibrosis, pleural effusion, pulmonary nodules, bronchiolitis obliterans,
+methotrexate
+pneumonitis, pleurisy
+ocular: keratoconjunctivitis sicca (most common), episcleritis, scleritis, corneal ulceration, keratitis, steroid-induced cataracts, chloroquine retinopathy
+osteoporosis
+ischaemic heart disease: RA carries a similar risk to type 2 diabetes mellitus
+increased risk of infections
+depression
+Less common
+Felty's syndrome (RA + splenomegaly + low white cell count)
+amyloidosis
+Respiratory complications
+A variety of respiratory problems may be seen in patients with rheumatoid arthritis:
+pulmonary fibrosis
+pleural effusion
+pulmonary nodules
+bronchiolitis obliterans
+complications of drug therapy e.g. methotrexate pneumonitis
+pleurisy
+Caplan's syndrome - massive fibrotic nodules with occupational coal dust exposure
+infection (possibly atypical) secondary to immunosuppression
+Ocular complications
+Ocular manifestations of rheumatoid arthritis are common, with 25% of patients having eye problems
+Ocular manifestations
+keratoconjunctivitis sicca (most common)
+episcleritis (erythema)
+scleritis (erythema and pain)
+corneal ulceration
+keratitis
+Iatrogenic
+steroid-induced cataracts
+chloroquine retinopathy
+Improve
+Prognosis
+A number of features have been shown to predict a poor prognosis in patients with rheumatoid arthritis, as listed below
+Poor prognostic features
+rheumatoid factor
+positive
+poor functional status at presentation
+HLA DR4
+X-ray: early erosions (e.g. after < 2 years)
+extra articular features e.g. nodules
+insidious onset
+anti-CCP antibodies
+In terms of gender there seems to be a split in what the established sources state is associated with a poor prognosis. However both the American College of
+Rheumatology
+and the recent NICE guidelines (which looked at a huge number of prognosis studies) seem to conclude that female gender is associated with a poor prognosis.
+Improve
+References
+NICE - 2018 Rheumatoid arthritis guidelines
+National Rheumatoid Arthritis Society - Making a Diagnosis of Rheumatoid Arthritis
+American College of Rheumatology - 2010 Rheumatoid arthritis classification criteria
+Medicines in pregnancy - Methotrexate use in fathers
+Rheumatology
+Rheumatoid arthritis

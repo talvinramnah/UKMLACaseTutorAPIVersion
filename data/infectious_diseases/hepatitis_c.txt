@@ -1,0 +1,214 @@
+Hepatitis C
+Hepatitis C
+Hepatitis
+C is likely to become a significant public health problem in the UK in the next decade. It is thought around 200,000 people are chronically infected with the virus. At risk groups include intravenous drug users and patients who received a blood transfusion prior to 1991 (e.g. haemophiliacs).
+Last updated: 20
+th
+September 2023
+Epidemiology
+Incidence: 16.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Alcoholic liver disease
+1.25
+Hepatitis
+C
+1
+Hepatitis A
+0.08
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Aetiology of
+Hepatitis
+C
+Hepatitis C, caused by the
+Hepatitis C virus (HCV)
+, is a significant public health problem globally. The virus is primarily transmitted through parenteral routes, with several risk factors and underlying causes associated with its acquisition.
+Risk Factors
+Injecting Drug Use:
+The main risk factor for HCV infection in developed countries is injecting drug use, accounting for a high proportion of new cases. Shared paraphernalia among people who inject drugs significantly increases the risk of HCV transmission.
+Blood Transfusion and Organ Transplantation:
+Prior to widespread screening of blood products in the 1990s, blood transfusion and organ transplantation were common routes of HCV transmission. In countries where blood products are not routinely screened for HCV, these remain significant risk factors.
+Healthcare Exposure:
+Occupational exposure in healthcare settings can occur through needlestick injuries or other forms of contact with infected blood. Inadequate sterilisation procedures can also lead to HCV transmission during medical and dental procedures.
+Sexual Transmission:
+While less efficient than other modes of transmission, sexual contact can transmit HCV particularly in men who have sex with men and those with multiple sexual partners or co-existing sexually transmitted infections.
+Vertical Transmission:
+Mother-to-child transmission can occur during childbirth if the mother is infected with HCV. This risk is increased if the mother has high viral loads or co-infection with Human Immunodeficiency Virus (HIV).
+Underlying Causes
+The primary cause of Hepatitis C is infection with
+Hepatitis C virus
+. The virus, a small, enveloped, positive-sense single-stranded RNA virus, is a member of the Flaviviridae family. There are seven major genotypes and numerous subtypes of HCV, with varying geographical distributions and responses to therapy.
+Individual susceptibility to HCV infection and disease progression can be influenced by several factors including age at infection, sex, alcohol consumption, co-infections such as HIV or Hepatitis B Virus (HBV), and host genetic factors.
+Improve
+Pathophysiology
+Pathophysiology
+hepatitis
+C is a RNA flavivirus
+incubation period: 6-9 weeks
+Transmission
+the risk of transmission during a needle stick injury is about 2%
+the vertical transmission rate from mother to child is about 6%. The risk is higher if there is coexistent HIV
+breastfeeding is not contraindicated in mothers with hepatitis C
+the risk of transmitting the virus during sexual intercourse is probably less than 5%
+there is no vaccine for hepatitis C
+Improve
+Clinical features
+The stereotypical presentation of
+Hepatitis
+C often includes a period of asymptomatic infection, frequently spanning several decades. This is followed by the development of chronic hepatitis, characterised by persistent inflammation and damage to the liver cells.
+Early Stage Features
+The initial acute phase may be asymptomatic or present with non-specific symptoms such as
+malaise
+,
+fatigue
+,
+anorexia
+or mild right upper quadrant discomfort.
+Some patients may exhibit jaundice, dark urine and pale stools due to increased bilirubin levels.
+Fever and flu-like symptoms including myalgia and
+arthralgia
+can also occur.
+Late Stage Features
+In the chronic stage, patients can remain asymptomatic for many years. Symptoms that do develop are typically a result of progressive liver disease.
+Non-specific symptoms such as fatigue and weakness are common. Some patients may experience neuropsychiatric symptoms like cognitive impairment, depression or sleep disturbances.
+Clinical signs of chronic liver disease become apparent in advanced stages. These include hepatomegaly (enlarged liver), splenomegaly (enlarged spleen), ascites, spider naevi and palmar erythema.
+Potential complications include portal hypertension leading to varices (abnormal veins) which can rupture causing gastrointestinal bleeding. Hepatic encephalopathy is another serious complication resulting from reduced hepatic clearance of ammonia.
+Extrahepatic Manifestations
+Hepatitis C is also associated with several extrahepatic manifestations due to immune complex deposition. These include mixed cryoglobulinaemia leading to vasculitis, glomerulonephritis and lymphoproliferative disorders.
+Other manifestations include autoimmune disorders such as thyroiditis and sicca syndrome, dermatological conditions like lichen planus and porphyria cutanea tarda, and metabolic complications including insulin resistance and type 2 diabetes mellitus.
+Improve
+Investigations
+The investigation of
+Hepatitis
+C infection involves a structured approach, with initial screening and diagnostic tests followed by further investigations as necessary. This process is guided by the patient's clinical presentation, risk factors, and initial test results.
+First-line investigations:
+Liver function tests (LFTs):
+LFTs are crucial to assess liver damage caused by HCV infection. Elevated alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels may indicate liver inflammation or injury.
+Serological testing:
+The first step in Hepatitis C diagnosis is serology for anti-HCV antibodies. A positive result suggests either current or past HCV infection. However, it does not differentiate between acute, chronic or resolved infection.
+HCV RNA PCR:
+If the serology is positive, an HCV RNA PCR test should be performed to confirm active infection. This measures the amount of viral RNA in the blood and can detect infection within 1-2 weeks after exposure.
+If both tests are positive, the patient has an active Hepatitis C infection. If only the serology is positive but PCR is negative, this indicates past but resolved infection.
+Further investigations:
+Hepatitis C Genotyping:
+Determining the genotype of HCV is important as it influences treatment decisions and prognosis. There are six major genotypes (1-6) with numerous subtypes.
+Fibrosis Assessment:
+Chronic HCV can lead to fibrosis and
+cirrhosis
+over time. Non-invasive methods like transient elastography (FibroScan), serum biomarkers or scoring systems like FIB-4 or APRI can be used to assess the stage of fibrosis. In certain cases, liver biopsy may be necessary.
+Additional tests such as complete blood count, coagulation studies, and renal function tests may be required based on the patient's clinical condition and potential treatment considerations.
+Improve
+Differential diagnosis
+The differential diagnosis of
+Hepatitis
+C includes a variety of conditions that can present with similar clinical symptoms, such as jaundice,
+fatigue
+, and
+abnormal liver function tests
+. Three of the most likely alternative diagnoses are Hepatitis B,
+alcoholic hepatitis
+, and non-alcoholic steatohepatitis (NASH).
+Hepatitis B
+Hepatitis B virus
+(HBV) infection may be clinically indistinguishable from Hepatitis C. Both viruses can cause acute or chronic hepatitis with similar symptoms and signs.
+However, HBV infection is more likely to result in fulminant hepatic failure during the acute phase compared to Hepatitis C.
+In contrast to Hepatitis C, HBV also has a higher risk of
+hepatocellular carcinoma
+in patients without
+cirrhosis
+.
+Alcoholic Hepatitis
+Alcoholic hepatitis often presents with similar clinical features as Hepatitis C including jaundice, hepatomegaly, and elevated liver enzymes.
+A key distinguishing feature is the history of significant alcohol consumption. Patients typically have a history of heavy drinking for more than five years prior to presentation.
+Laboratory findings may show an AST:ALT ratio greater than 2:1 which contrasts with the usually equal levels seen in
+viral hepatitis
+.
+Non-Alcoholic Steatohepatitis (NASH)
+NASH is another condition that can mimic the clinical presentation of Hepatitis C. It is characterised by fat accumulation in the liver (steatosis), inflammation and varying degree of fibrosis.
+Unlike viral hepatitis where systemic symptoms predominate, NASH is often asymptomatic or presents with vague abdominal discomfort and fatigue. The presence of metabolic syndrome would favour NASH over Hepatitis C.
+On liver biopsy, NASH shows macrovesicular steatosis and lobular inflammation, which is not typical in Hepatitis C.
+Improve
+Management
+Aims of Treatment
+The primary aim of
+Hepatitis
+C treatment is to achieve a
+sustained virological response (SVR)
+, defined as undetectable HCV RNA 12 weeks after completion of therapy.
+SVR is associated with reduced risk of liver disease progression,
+hepatocellular carcinoma
+, and liver-related mortality.
+Additional aims include preventing transmission, managing complications, and improving quality of life.
+Direct-Acting Antivirals (DAAs)
+DAAs have revolutionised Hepatitis C treatment with cure rates exceeding 95% in most patient groups.
+Treatment regimens are determined by viral genotype, presence of
+cirrhosis
+, previous treatment history, and comorbidities.
+NICE guidelines
+recommend DAA therapy for all patients with chronic Hepatitis C infection, regardless of disease stage.
+Common DAA combinations include:
+Sofosbuvir/velpatasvir (pangenotypic)
+Glecaprevir/pibrentasvir (pangenotypic)
+Elbasvir/grazoprevir (primarily for genotypes 1 and 4)
+Treatment duration typically ranges from 8-12 weeks for non-cirrhotic patients and 12-24 weeks for those with cirrhosis.
+DAAs have largely replaced interferon-based regimens due to superior efficacy, shorter treatment duration, and better tolerability.
+Special Populations
+Cirrhotic patients
+may require longer treatment courses and additional monitoring for hepatic decompensation.
+HIV co-infection:
+Treatment is similar to mono-infected patients but requires careful consideration of drug interactions with antiretroviral therapy.
+Renal impairment:
+Certain DAA combinations are preferred in patients with reduced renal function.
+Post-liver transplant:
+Treatment is highly effective but requires careful monitoring for drug interactions with immunosuppressants.
+Pregnant women:
+Treatment is generally deferred until after pregnancy due to limited safety data.
+Children:
+Several DAA regimens are now approved for paediatric use in the UK.
+Monitoring and Follow-up
+Pre-treatment assessment should include HCV genotype, viral load, liver fibrosis assessment, and evaluation for potential drug interactions.
+During treatment, patients should be monitored for adherence, side effects, and drug interactions.
+Post-treatment testing for SVR should be performed 12 weeks after completion of therapy.
+Patients who achieve SVR but have advanced fibrosis or cirrhosis require ongoing surveillance for hepatocellular carcinoma.
+NHS England
+has established elimination targets aiming to reduce HCV-related mortality by 65% and new chronic infections by 80% by 2030.
+Improve
+Complications
+Hepatitis
+C, if left untreated, can lead to a number of severe complications. These include:
+Cirrhosis
+:
+This is one of the most common and serious complications. Chronic inflammation from Hepatitis C can cause extensive liver damage leading to cirrhosis, characterised by fibrosis and nodular regeneration. The risk of developing cirrhosis increases with factors such as alcohol consumption, co-infection with HIV or hepatitis B virus (HBV), and age at the time of infection.
+Liver failure:
+Cirrhosis may eventually progress to liver failure or end-stage liver disease (ESLD), necessitating liver transplantation. Symptoms of ESLD include jaundice, ascites, hepatic encephalopathy and variceal bleeding.
+Hepatocellular carcinoma
+(HCC):
+Chronic Hepatitis C is a significant risk factor for HCC. The risk is heightened in patients with concurrent cirrhosis. Regular surveillance using imaging techniques and serum alpha-fetoprotein levels is recommended for early detection.
+Extrahepatic manifestations:
+These are not uncommon and include
+Mixed cryoglobulinaemia vasculitis
+Lymphoproliferative disorders like non-Hodgkin lymphoma
+Renal diseases such as membranoproliferative glomerulonephritis
+Insulin resistance and type 2 diabetes mellitus.
+Sicca syndrome (similar to Sjögren’s syndrome)
+Porphyria cutanea tarda
+Lichen planus
+Improve
+References
+Clinical Knowledge Summaries - Primary care management of people with confirmed active hepatitis C
+European Association for the Study of the Liver - 2018 EASL Recommendations on Treatment of Hepatitis C
+Infectious diseases
+Hepatitis C

@@ -1,0 +1,186 @@
+Colles' fracture
+Colles' fracture
+A Colles' fracture is an extra-articular fracture of the distal radius with dorsal angulation of the distal radius fragment.
+It is a common fracture, affecting 15% of people during their lifetime. Colles' fractures typically occur due to a fall on an outstretched hand (FOOSH) and most commonly affect people with osteoporosis. Complications of Colles' fractures include median nerve palsy and malunion.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 180.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Colles' fractures most commonly affect
+older females with osteoporosis
+. In this age group, they are associated with low-energy trauma such as a
+FOOSH
+. Due to their strong association with osteoporosis, they are commonly known as a
+'fragility fracture'.
+As such, the main risk factors for sustaining a Colles' fracture are related to osteoporosis and include:
+Female gender
+Being post-menopausal confers a higher risk of osteoporosis
+Increasing age
+Prolonged steroid use
+Smoking
+Low BMI
+In younger people, Colles' fractures tend to occur due to
+high-energy
+trauma.
+Improve
+Clinical features
+Colles' fracture typically occur in older people after a
+fall on an outstretched hand (FOOSH)
+with the forearm pronated in dorsiflexion. They can also occur in younger people, typically after
+high-energy trauma
+such as road traffic accidents.
+Typical presenting symptoms of a Colles' fracture are:
+Wrist pain
+and swelling
+Pain and swelling usually occur immediately after the fracture is sustained
+Movement at the wrist is painful
+Wrist deformity
+Colles' fractures typically cause a
+'dinner-fork' deformity
+of the wrist, caused by dorsal displacement of the distal fragment of the radius.
+Paresthesia and weakness
+If the fracture causes neurological damage this may result in paraesthesia and weakness of the wrist and/or fingers
+The
+median nerve
+is the most common nerve to be damaged by a Colles' fracture, affecting up to 12% of cases caused by low-energy trauma and up to 30% of cases caused by high-energy trauma
+Improve
+Investigations
+If a Colles' fracture is suspected, the gold standard investigation for diagnosis is a
+plain radiograph
+using 2 views. Typically, an
+AP (anteroposterior) and lateral view
+are sufficient for diagnosis although oblique views are sometimes included.
+Features of a Colles' fracture on a plain radiograph are:
+Transverse fracture
+of the distal radius.
+The fracture is typically
+2.5cm proximal to the radio-carpal (wrist) joint.
+Dorsal displacement and angulation of the distal fragment of the radius.
+In some cases the distal fragment of the radius is comminuted.
+There may be an associated ulnar styloid fracture.
+CT/MRI
+scans may be performed for complex fractures or if a more detailed image is required for preoperative planning.
+Improve
+Differential diagnosis
+Colles' fractures account for
+90% of all distal radius fractures
+, however, other distal radius fracture types may share similar clinical features therefore imaging is important to differentiate them. Other types of distal radius fracture include:
+Smith's fracture
+In this type of distal radius fracture, there is
+volar angulation
+of the distal radius fragment as opposed to dorsal angulation as seen in Colles' fractures
+There may or may not be concomitant
+volar displacement
+Smith's fractures are typically sustained after a fall onto a
+flexed wrist
+, rather than an extended wrist as seen in Colles' fractures
+There may be a
+'garden-spade deformity'
+on clinical examination
+Barton's fracture
+This is similar to a Colles' fracture, however, a Barton's fracture is
+intra-articular with dislocation of the radio-carpal joint
+Barton's fractures can be
+volar or, less commonly, dorsal,
+depending on which margin of the radius is affected
+In addition, other types of injury to the forearm or wrist may share symptoms and clinical features with a Colles' fracture:
+Galeazzi fracture
+This is a fracture of the radius which usually occurs at the junction of the middle and distal third of the radial shaft
+This injury is typically caused by a
+FOOSH with the elbow in flexion
+Typically affects children rather than adults, with a
+peak incidence of age 9-12 years
+Wrist dislocation
+The most common carpal bone dislocation is
+perilunate dislocation
+This injury is typically sustained by a
+FOOSH
+Carpal dislocations are commonly missed on imaging
+Carpal bone fracture
+The most common carpal bone fracture is a fracture of the
+scaphoid bone
+This type of fracture is caused by a
+FOOSH
+Although this can affect any age,
+young adults
+are most commonly affected
+There is typically pain in the
+anatomical snuffbox
+Improve
+Management
+Choice of management of a Colles' fracture depends on the severity of the fracture. The most common treatment method is
+closed reduction with immobilisation with a plaster cast.
+If certain circumstances,
+open reduction and internal fixation (ORIF)
+or external fixation may be required, such as:
+Unstable fracture
+Significant angulation of the distal fragment of the radius
+Usually defined as >10 degrees dorsal angulation
+Closed reduction is unsuccessful
+Comminuted fracture
+Colles' fractures typically unite by
+6 weeks
+and
+repeat X-rays
+should be performed to ensure adequate union.
+Improve
+Complications
+Complications of a Colles' fracture include:
+Malunion
+If a fracture heals in a non-anatomical position, this is known as
+malunion
+Malunion is a relatively common complication of a Colles' fracture and is estimated to affect up to
+33% of cases
+Malunion of a Colles' fracture can lead to a 'dinner-fork' deformity, pain, loss of strength and a limited range of movement
+Revision surgery
+may be required
+Median nerve damage
+It is important to
+assess for neurovascular damage
+in a patient who has a suspected or confirmed Colles' fracture
+The
+median nerve
+is the most common nerve to be damaged in a Colles' fracture
+Median nerve neuropathy occurs in approximately
+1-12%
+of low energy fractures and
+30%
+of high energy fractures
+Damage to the median nerve may cause
+median nerve palsy
+and
+post-traumatic carpal tunnel syndrome
+Symptoms of median nerve damage include paresthesia, weakness and pain in the wrist and/or fingers
+Decompression surgery
+may be required
+Rupture of the extensor pollicis longus (EPL) tendon
+This is an uncommon but important complication of a Colles' fracture
+An
+EPL tendon rupture
+is more likely to occur if the Colles' fracture is non-displaced and is due to mechanical attrition or tendon ischaemia
+Clinical features of an EPL tendon rupture include the inability to extend the interphalangeal joint of the thumb
+Surgical treatment is required
+Secondary osteoarthritis of the radio-carpal joint
+Although
+secondary osteoarthritis
+is more common in
+intra-articular
+fractures of the distal radius, it can sometimes occur due to Colles' fractures
+Post-traumatic osteoarthritis can lead to pain and reduced range of movement at the wrist joint
+Improve
+Orthopaedic surgery
+Colles' fracture

@@ -1,0 +1,317 @@
+Diabetes insipidus
+Diabetes insipidus
+Diabetes insipidus is an acquired (90%) or inherited (10%) condition that results in the body being unable to concentrate urine as a result of either a lack of production of antidiuretic hormone (ADH) or a loss of sensitivity to ADH within the kidneys. This results in patients presenting with
+polyuria
+and
+polydipsia
+and can result in
+hypernatraemia
+and dehydration if water is not available. Treatments may include adequate hydration, desmopressin or treating the underlying cause. It is a rare disease with a prevalence of 1 in 25,000 and is more commonly seen in adults.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Type 2 diabetes mellitus
+233.00
+Type 1 diabetes mellitus
+4.00
+Diabetes insipidus
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Anything that impairs the production, release, transport or action of ADH may result in diabetes insipidus.
+Central DI
+The causes of central DI can be divided into:
+Acquired: This is most commonly as a result of the destruction of magnocellular neurons. Symptoms may occur once 80-90% of neurons have been destroyed. Anything that affects the posterior pituitary or surrounding areas may result in control DI but the most common causes are:
+Idiopathic (25%)
+Tumours including germ cell tumours, Langerhans cell histiocytosis, pituitary tumours or craniopharyngioma.
+Trauma  - most commonly following pituitary surgery but may also be as a result of head injury.
+Infections including encephalitis, cryptococcal meningitis and tuberculosis meningitis
+Vascular damage
+Congenital: This is a much rarer cause of central DI. Causes include:
+Mutation in Arginine vasopressin-neurophysin II gene (AVP-NPII). This is autosomal dominant.
+Wolfram syndrome. This is autosomal recessive.
+Nephrogenic DI
+Congenital (85%) - This most commonly presents in childhood
+Mutation in vasopressin-2-receptor. This X-linked mutation accounts for 90% of congenital cases of nephrogenic DI
+Mutation in aquaporin 2 gene. This autosomal recessive mutation accounts for 10% of congenital cases of nephrogenic DI.
+Acquired (15%)
+Drug induced, most commonly lithium.
+Hypercalcaemia
+Hypokalaemia
+Kidney disease
+Gestational DI
+Occurs in approximately 1 in 30,000 pregnancies.
+Increased production of vasopressinase from the placenta decreases the amount of ADH
+Increased prostaglandins may reduce the sensitivity of the kidney to ADH.
+Dipsogenic DI
+This is due to an impairment of the thirst mechanism. Causes may include:
+Chronic meningitis
+Multiple sclerosis
+Improve
+Pathophysiology
+Antidiuretic hormone (ADH), also known as AVP, in produced in response to a raised plasma osmolality and increases the kidney's ability to concentrate the urine and therefore regulates osmolality.
+Raised plasma osmolality (or fall in blood volume)â→ADH produced by magnocellular neurons in the posterior pituitaryâ→Serum ADH levels raise â→ADH acts in the kidneys by activating the arginine vasopressin 2 (AVP2) receptors â→Increase in aquaporin 2 (AQP2) channels in the collecting ducts â→Increased permeability of collecting duct â→Urine is concentrated â→More water is reabsorbed â→Plasma osmolality normalises.
+Pathophysiology of Central DI
+This is due to a failure to produce or release ADH.
+This is often as a result of damage to more than 80% of the magnocellular neurons.
+This results in a lack of ADH production in response to a rise in serum osmolality.
+Pathophysiology of Nephrogenic DI
+This is due to a failure of the kidneys to respond to ADH.
+Most commonly this is as a result of a mutation affecting either:
+Receptor for ADH
+Directly affecting the AQP2 channels.
+Pathophysiology of Gestational DI
+During pregnancy, the placenta produces increased amounts of vasopressinase, an enzyme that breaks down ADH.
+This effectively lowers the circulating levels of ADH and therefore results in DI.
+In addition, the increased levels of prostaglandins reduce the kidney's sensitivity to ADH, further worsening the condition.
+As there is only a partial effect this is usually a milder form of DI and resolves following pregnancy.
+Pathophysiology of Dipsogenic DI
+In dipsogenic diabetes insipidus, there is impairment of the thirst mechanism.
+This results in unquenchable thirst, reducing the plasma osmolality and therefore inhibiting ADH production.
+Improve
+Classification
+The two most common types of diabetes insipidus (DI) are
+nephrogenic DI
+and
+central DI
+. Other types include gestational DI and dipsogenic DI. All cases present with
+polyuria
+and
+polydipsia
+.
+Central DI
+This is the most common form of DI and is a result of a lack of synthesis or release of ADH from the posterior pituitary gland. This can be further subdivided into:
+Acquired - this is the most common cause.
+Idiopathic (25%)
+Genetic (rare)
+Nephrogenic DI
+This occurs as a result of the kidneys not responding to ADH that is present. This can be further classified as:
+Complete or incomplete
+If incomplete, a milder clinical picture may present.
+Congenital (85%)
+Acquired (15%)
+Gestational DI
+This occurs during pregnancy as a result of the placenta producing vasopressinase and resolves at the end of pregnancy.
+Dipsogenic DI
+This is due to an impaired thirst mechanism, resulting in excessive drinking.
+Improve
+Clinical features
+Diabetes insipidus classically presents insidiously with
+polyuria
+and
+polydipsia
+noted over a couple of months. In 40% of cases, patients have symptoms other than polyuria and polydipsia. Despite many different causes, the presentation of all subtypes is very similar.
+History
+The patient may describe symptoms such as:
+Excessive thirst
+Copious dilute urine
+Nocturia
+Symptoms associated with dehydration:
+Fatigue
+Dizziness
+Weakness
+Symptoms associated with a  space-occupying lesion causing central DI may include:
+Headache
+Visual changes
+Seizures
+In children, features may also include:
+Nocturnal enuresis after continence has been gained
+Failure to thrive
+Irritability
+Other important aspects to cover during the history include:
+Quantify fluid intake
+Recent trauma or illness
+A recent head trauma or surgery can cause central DI
+Some illnesses may increase your risk of developing DI
+Medications
+Diuretics can cause polyuria
+Lithium is a risk factor for developing DI
+Family history
+Some forms of DI are inherited
+Exam
+The clinical examination may be unremarkable if the patient is maintaining fluid balance but there may be signs of:
+Dehydration
+Dry mucous membranes
+Poor skin turgor
+Prolonged capillary refill time
+Tachycardia
+Orthostatic hypotension
+Palpable distended bladder
+A neurological exam may show focal neurology such as altered visual fields if DI has been caused by a space-occupying lesion.
+Improve
+Investigations
+Investigations are required to confirm the diagnosis of diabetes insipidus and to identify the cause of the condition. Initially, it is important to quantify the volume of urine produced and to rule out other possible differentials. Investigations should include:
+24-hour urine collection.
+If this is less than 3L/24hr DI is unlikely.
+Urine and serum osmolality to calculate the urine to plasma (U:P) osmolality ratio.
+If the U:P ratio is > 2:1(urine twice as concentrated as plasma) DI is unlikely
+If U:P is <2:1 it confirms dilute urine.
+Bloods including:
+Glucose - to rule out diabetes mellitus.
+Calcium - to rule out hypercalcaemia.
+U&Es - sodium may be raised if inadequate water is consumed and other electrolyte abnormalities may be present.
+Water deprivation test
+Serum copeptin
+Water deprivation test
+This test should not be completed if the patient is hypovolaemic or
+hypernatraemia
+. The test should be stopped if the patients weight falls by >3% of initial weight or if serum osmolality exceeds 300mOsm/kg.
+Stage 1
+- Water deprivation
+At the start of the test, the patient should empty their bladder and then have no fluids and only dry foods until the test is complete.
+Hourly weights are taken.
+2 hourly urine volume osmolality and volume.
+4 hourly serum osmolality
+Stage 2
+- Desmopressin
+Only proceed if urine is still dilute at end of the test (<600mOsmol/kg)
+Administer desmopressin 2mcg IM or 20mcg intranasal.
+Allow water consumption
+Measure hourly urine osmolality for four hours.
+Please see table for interpreting the results.
+Diagnosis
+Serum osmolality (mOsm/kg)
+Urine osmolality (mOsm/kg)
+Urine osmolality after desmopressin given (mOsm/kg)
+Normal
+285-295
+>600
+Not completed as normal results
+Dipsogenic DI
+<300
+400-600
+No change
+Cranial DI
+>300
+<300
+Following desmopressin administration urine concentrates
+Nephrogenic DI
+>300
+< 300
+No change following desmopressin
+Serum copeptin
+Copeptin derives from the precursor of ADH and therefore is produced in equimolar amounts and there can suggest the levels of ADH present in the blood. Results are as follows in a patient with hypotonic
+polyuria
+and
+polydipsia
+:
+Nephrogenic DI = Random serum copeptin >21.4pmol/L
+Central DI = Stimulated serum copeptin <4.9pmol/L
+Dipsogenic DI = Stimulated serum copeptin >4.9pmol/L
+If a diagnosis of central DI is made, the patient will undergo an
+MRI
+to identify any lesions or pathology that may be causing the condition.
+Improve
+Differential diagnosis
+Many conditions other than diabetes insipidus may result in
+polyuria
+and
+polydipsia
+. Possible differential diagnoses include:
+Diabetes mellitus
+Similarities:
+Often presents with polyuria and polydipsia
+May also result in fatigue.
+Differences:
+Raised blood glucose and HbA1c will be present in diabetes mellitus.
+Psychogenic polydipsia
+Similarities:
+The patient will present with polyuria and polydipsia
+Differences:
+Less likely to experience dehydration
+More likely to experience hyponatraemia as apposed to
+hypernatraemia
+Diuretic overuse
+Similarities:
+Common cause of polyuria
+May also have polydipsia
+Differences:
+Identify if patient is taking diuretics
+Review dose they are taking
+UTI
+Similarities:
+Patient may describe increased frequency
+May have polydipsia
+Differences:
+Frequency rather than polyuria
+Dysuria
+Fever
+Hypercalcaemia
+Similarities:
+20% of patients with hypercalcemia may present with polyuria and polydipsia.
+Differences:
+Gastrointestinal symptoms
+Constipation
+Abdominal pain
+Neuromuscular and neuropsychological symptoms
+Muscle weakness
+Delirium
+Psychosis
+Cushing's syndrome
+Similarities:
+May present with polyuria and polydipsia
+Differences:
+Weight gain
+Cushingoid appearance
+Truncal obesity.
+Other less common differentials may include hyperkalemia, Bartter syndrome, and Wolfram's syndrome.
+Improve
+Management
+Management focuses on minimising symptoms to improve patient's quality of life and avoiding complications such as
+hypernatraemia
+and dehydration. If DI is suspected, patients should be referred to tertiary care and assessed by an endocrinologist.
+Treat any reversible causes
+If a direct cause can be identified (for example lithium toxicity) this should be treated first as this can resolve symptoms of DI.
+Conservative treatment
+In most cases conservative treatment is effective. This is most commonly the case for mild cases and gestational DI. This may include:
+Easy access to water and adequate fluid intake.
+Patient education including what to do if they become unwell.
+Low solute diet to reduce osmotic load.
+Medical management
+Central DI
+is treated with
+desmopressin
+. This can be given sublingual, intranasal, subcutaneous, IV or IM  in divided daily doses, with the dose adjusted according to the response.
+Nephrogenic DI
+management is focused on treating the underlying cause and conservative measure however some medications can be considered to help with symptoms. These include:
+Thiazide diuretics - decrease urine volume
+Prostaglandin synthesis inhibitors - suggested that indometacin may be useful in infants, however, it is not currently licensed in the UK.
+Managing an inpatient with DI
+Guidance based on
+Society for endocrinology clinical guidance: Inpatient management of cranial diabetes insipidus.
+If the patient is acutely unwell and unable to independently hydrate, great care must be taken to ensure that fluid balance is achieved. Those at the greatest risk include frail and elderly patients, reduced conscious level, nil by mouth and those unable to self-administer desmopressin.
+Management should follow:
+Fluid status assessment.
+Monitor serum Na+ and urine output.
+Appropriate fluid replacement.
+Strict adherence to patient's desmopressin requirement.
+Avoidance of rapid overcorrection of hypernatraemia.
+Improve
+Prognosis
+In most cases, appropriate management can maintain a normal fluid balance and minimise symptoms for the patient.
+Prognosis may be worse if water is unavailable or in situations where the patient is unable to drink as this can lead to complications such as dehydration and
+hypernatraemia
+.
+If the underlying cause can be treated, the prognosis is better.
+Due to effective treatment, patients with central DI often experience fewer ongoing symptoms in comparison to those with nephrogenic DI.
+Improve
+References
+Merck manual - Nephrogenic diabetes insipidus
+Nephrology
+Diabetes insipidus

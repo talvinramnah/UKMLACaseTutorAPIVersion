@@ -1,0 +1,215 @@
+Allergic bronchopulmonary aspergillosis
+Allergic bronchopulmonary aspergillosis
+Colonisation of the
+respiratory
+tract with
+Aspergillus fumigatus
+can cause spectra of fungal infection in the lower respiratory infection which includes; chronic pulmonary aspergillosis (aspergilloma or fungal ball), chronic cavitary or necrotizing aspergillosis, allergic bronchopulmonary aspergillosis (ABPA), and invasive aspergillosis. Hypersensitivity respiratory disorders caused by
+Aspergillus
+species other than ABPA are allergic sinusitis, IgE-mediated asthma and hypersensitivity pneumonitis.
+ABPA is a hypersensitivity reaction that occurs in response to colonisation of the respiratory tract with
+Aspergillus fumigatus
+.  When an individual with normal immune systems is exposed to Aspergillus, a reaction to it is rare. It predominantly affects patients with a pre-existing medical condition like atopy, asthma, or cystic fibrosis (CF). Usually, the patient presents with features of airway obstruction, inflammation, and mucoid impaction that lead to
+bronchiectasis
+, fibrosis, and respiratory compromise in chronic cases.
+Last updated: 23
+rd
+May 2023
+Aetiology
+It is a hypersensitivity reaction to
+Aspergillus fumigatus
+(most common) fungal spores.
+Aspergillus
+spores are ubiquitous in the environment and their presence on culture does not necessarily implicate them in disease.
+Likely risk factors
+Asthma
+ABPA prevalence varies from 2-32%. The thick mucus in the airways of these patients makes it difficult to clear up the
+Aspergillus
+spores when inhaled.
+Cystic fibrosis (CF) especially patients with preexisting atopy
+ABPA in patients with CF is 2-15%. Impaired mucus clearance and airway inflammation predisposes to develop ABPA
+Personal history of atopy:
+Aspergillus fumigatus
+that enters or colonises the bronchial passages acts as an allergen, inducing activated lymphocytes (Th2 cells) to stimulate the production of eosinophils.
+Possible risk factors
+Genetic factors may predispose to susceptibility and influence pathogenesis, including variations in
+Human leukocyte antigen (HLA) associations
+HLA-DR2 and/or DR5 in absence of HLA-DQ2 sequences
+Interleukin (IL)-10 promoter polymorphisms
+Cystic fibrosis transmembrane conductance regulator (CFTR) gene mutation
+Surfactant protein polymorphisms - associated with increased total immunoglobulin E (IgE) and eosinophilia
+Associated conditions
+Atopic conditions like
+Atopic dermatitis
+Allergic rhinitis
+Asthma
+Food allergies
+Pre-existing pulmonary disease like
+bronchiectasis
+Immunocompromised condition: rarely ABPA can occur in Hyper IgE syndrome, chronic granulomatous disease, and in lung transplant recipients.
+Improve
+Pathophysiology
+The pathogenesis of ABPA is still not fully understood. The
+Aspergillus
+allergens induce IgE-mediated (type I ) and IgG-mediated (type III) reactions.
+Healthy individuals easily eliminate
+Aspergillus
+conidia from the
+respiratory
+tract by the innate immune system mechanisms; therefore, there are no signs of pulmonary fungal infections. If secluded in sputum or bronchoalveolar lavage (BAL), then it only reflects colonisation, not an infection.
+In patients with history of asthma, cystic fibrosis, and cavitary lung diseases, inhalation of
+Aspergillus fumigatus
+spores triggers a type I hypersensitivity response that causes symptoms like cough with expectoration and breathlessness. The pathophysiology is explained below.
+Aspergillus fumigatus
+act as an allergen
+T lymphocytes are recruited (mainly Th2)
+Th2 CD4+ T cells secrete cytokines which promote IgE and IgG synthesis and enhance eosinophil production and survival
+Mast cells are activated and eosinophils are recruited, causing mediator release and subsequent vasodilation and bronchoconstriction
+Local inflammation results in mucus production, airway hyperreactivity, and
+bronchiectasis
+Further mucociliary and airway clearance compromise may occur due to epithelial cell barrier damage secondary to
+Aspergillus
+proteolytic products.
+Improve
+Clinical features
+ABPA occurs primarily in patients with asthma (2-32% prevalence) or cystic fibrosis (2-15% prevalence). It occurs in patients during their teens or early adulthood. The presentation is variable and may range from mild
+respiratory
+symptoms to severe symptoms like a respiratory failure. Most commonly ABPA present as worsening of asthma or cystic fibrosis symptoms. Patients often present as
+New or worsening cough
+Coughing is a sign of the underlying asthma exacerbation and bronchial hyperreactivity
+Increased sputum production
+Expectoration of brown-black mucus plugs composed of degenerating eosinophils, desquamated epithelial cells, and mucin
+Wheezing
+Due to underlying asthma exacerbation and bronchial hyperreactivity
+Haemoptysis
+Secondary to airway inflammation and
+bronchiectasis
+Pleuritic chest pain
+Occurs in association with cough and increased sputum production
+Dyspnea
+Weight loss
+Fever
+In chronic advanced disease, finger clubbing, cyanosis, or features of cor pulmonale may be present.
+Few patients with ABPA may have concomitant chronic rhinosinusitis in the form of allergic aspergillus sinusitis and present with nasal obstruction, headache, facial pain, anosmia, epistaxis and nasal discharge.
+Improve
+Investigations
+There is no single test to confirm ABPA, nor is there an individual set of agreed-upon diagnostic criteria.  The following laboratory tests and diagnostic procedures are mandatory and done in a stepwise manner to diagnose ABPA:
+Skin test
+Skin testing for hypersensitivity to
+Aspergillus fumigatus
+should be considered for initial screening in patients with suspected ABPA
+Skin reactivity to
+Aspergillus
+is prevalent in 23- 28% patients with asthma and 29% in patients with cystic fibrosis.
+A positive skin test with a wheal and flare reaction alone is not specific
+Blood tests
+Serum-specific IgG and IgE against
+Aspergillus fumigatus
+The combination of increased total serum and specific IgE allows classic ABPA to be diagnosed with 100% specificity and 64% sensitivity.
+Serum total IgE
+Increased in patients with ABPA than in those with asthma who have a positive skin test to
+Aspergillus fumigatus
+, typically >1000 IU/mL
+FBC
+Eosinophilia is seen in 43-100% of patients, but if the patient is on oral corticosteroid, eosinophilia may not be seen.
+Imaging tests
+Chest x-ray
+Upper/middle lobe infiltrates. Mucus plugging and signs of
+bronchiectasis
+may also be noted.
+CT chest
+Helpful in detecting changes and gold standard for diagnosing bronchiectasis
+Central bronchiectasis, mucus plugging, mucus impaction, pulmonary infiltrates and peribronchial thickening may be seen. Finger-in-glove sign showing mucoid impaction in bronchioles.
+Criteria proposed by the International Society for Human and Animal Mycology (ISHAM) working group for diagnosis of ABPA:
+1. Predisposing asthma or cystic fibrosis.
+2. Obligatory criteria
+Type I - positive
+Aspergillus
+skin test or elevated IgE levels against
+Aspergillus fumigatus
+and
+Elevated total IgE levels (value >1000 IU/mL)
+3. Supportive criteria (minimum of two out of three):
+Presence of precipitating or IgG antibodies against
+Aspergillus fumigatus
+in serum
+Radiographic pulmonary opacities consistent with ABPA.
+Total eosinophil count over 500 cells/µl in glucocorticoid naÃ¯ve patients
+Improve
+Differential diagnosis
+Following are few conditions which must be ruled out before confirming a diagnosis of ABPA:
+Asthma exacerbation
+Similarities: sign and symptoms of asthma exacerbation like increased cough, dyspnea mimics ABPA
+Difference: symptoms like brown mucus plugs and haemoptysis are common in ABPA, but rare in asthma exacerbation. Skin test for sensitivity to
+Aspergillus fumigatus
+is negative.
+Infectious exacerbation of cystic fibrosis
+Similarities: clinically infectious exacerbation of cystic fibrosis caused by other micro-organisms is similar to exacerbation of ABPA
+Difference: laboratory evaluation may be helpful to distinguish. Serum total IgE and serum-specific IgE and IgG to
+Aspergillus fumigatus
+is not elevated.
+Chronic eosinophilic pneumonia (CEP)
+Similarities: asthma is a common predisposing factor and presents with similar symptoms as ABPA
+Differences: bilateral pleural based infiltrates on chest x-ray is pathognomonic of CEP. A negative prick skin test and the absence of precipitins to
+Aspergillus
+helps to exclude ABPA
+Bronchiectasis
+Similarities: clinical feature like cough with sputum, dyspnea and repeated infections
+Difference: out of many aetiology for bronchiectasis, central bronchiectasis is often seen in ABPA though is a nonspecific finding.
+Improve
+Management
+The treatment goals for ABPA include:
+Control of symptoms of asthma and cystic fibrosis.
+Prevention or treatment of pulmonary exacerbations of ABPA.
+Reducing pulmonary inflammation and avoiding progression to end-stage fibrotic or cavitary disease.
+The drugs used for the treatment depends on the disease activity and staging of the disease:
+Stage 1: acute ABPA
+Patients who are symptomatic with fever, cough, increased sputum production, haemoptysis, or chest pain and on investigation shows radiographic opacities and an elevated total serum IgE.
+Corticosteroids
+Cornerstone therapy.
+Resolution of pulmonary inflammation, pulmonary infiltrates, and it prevents irreversible lung damage.
+Anti-fungal drug: itraconazole/ voriconazole
+Adjunctive but not primary therapy.
+Used in adults with severe, poorly controlled asthma and ABPA who are unable to taper oral corticosteroids.
+Stage 2: ABPA in remission
+Patients who have been treated with oral prednisolone for acute ABPA or exacerbation and are asymptomatic/stable asthma for greater than 6 months after stopping therapy. And also no infiltrates are seen on chest x-ray with normal or mildly elevated total IgE.
+Maintenance therapy with inhaled glucocorticoids
+Management of underlying asthma or CF
+Stage 3: exacerbation of ABPA
+Patients who have a 100% rise in serum total IgE over baseline or clinical symptom of acute exacerbation of the underlying condition.
+A similar approach as of treatment of acute ABPA with systemic and inhaled glucocorticoids
+Stage 4: corticosteroid-dependent asthma
+Patients who cannot be weaned off prednisolone without exacerbation of asthma symptoms or persistence of elevated total serum IgE levels. Treatment consists of the following:
+Daily oral corticosteroids are given indefinitely
+Anti IgE therapy: omalizumab is new emerging therapy used for patients with allergic asthma who have asthma exacerbations despite maximal standard therapy.
+Stage 5: end-stage fibrosis
+Patients have impaired
+respiratory
+function and chronic scarring on imaging studies.
+Treatment is daily oral corticosteroids given indefinitely
+Other additional measures includes:
+Environmental control
+Patients should be advised to avoid places and environmental conditions with high mould counts.
+Comorbid conditions
+Any associated comorbid conditions like allergic rhinitis, sinusitis, and GORD should be diagnosed and managed for better control of symptoms.
+Improve
+Complications
+Although the progression of ABPA is not well understood, complications of ABPA are due to the natural course of the disease or adverse reaction of treatment.
+Acute complications
+Acute invasive pulmonary aspergillosis
+Recurrent exacerbation of underlying disease namely asthma and CF
+Long term complication
+Bronchiectasis
+Mostly central bronchiectasis resulting in recurrent bacterial infections, haemoptysis, and chronic
+respiratory
+insufficiency.
+Pulmonary fibrosis
+Chronic pulmonary aspergillosis
+Respiratory failure
+Pulmonary hypertension
+Treatment-related complication
+Side effects of long-term corticosteroid therapy
+Includes diabetes, osteopenia, and hyperlipidaemia, immune suppression, cataracts, and growth retardation
+Improve
+Respiratory
+Allergic bronchopulmonary aspergillosis

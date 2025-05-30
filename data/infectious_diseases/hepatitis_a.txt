@@ -1,0 +1,231 @@
+Hepatitis A
+Hepatitis A
+Hepatitis
+A is usually a self-limiting viral illness spread through the faecal-oral route that primarily causes inflammation of the liver. It usually presents with flu-like symptoms, right upper
+abdominal pain
+and
+nausea
+, diarrhoea and
+vomiting
+.
+Jaundice
+can later develop. There is normally no specific treatment for hepatitis A but it is a notifiable disease, and immunisation is also recommended if travelling to high-risk countries.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.20 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Hepatitis
+C
+13.33
+Hepatitis A
+1
+Hepatitis B
+0.67
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Hepatitis
+A is an acute, usually self-limited systemic infection caused by the
+Hepatitis A virus
+(HAV). The aetiology of Hepatitis A revolves around transmission routes, risk factors and underlying causes that predispose individuals to this viral infection.
+Transmission Routes
+Faecal-oral route:
+This is the primary mode of transmission. The virus is shed in the faeces of infected individuals, contaminating food and water sources. Ingestion leads to infection.
+Person-to-person contact:
+Close personal contact with an infected individual, especially in situations where hygiene practices are suboptimal, can lead to transmission.
+Bloodborne transmission:
+Though less common than other routes, HAV can be transmitted through exposure to contaminated blood or blood products.
+Risk Factors
+Poor sanitation and lack of safe water:
+These environmental conditions increase the likelihood of HAV contamination and subsequent infection.
+Crowded living conditions:
+Overcrowding facilitates person-to-person spread of HAV due to increased close contact between individuals.
+Travel to endemic areas:
+Travellers from low-prevalence regions visiting high-prevalence regions may be exposed to HAV due to differences in sanitation standards and prevalence rates.
+Sexual activity:
+Certain sexual practices involving oral-anal contact can facilitate faecal-oral transmission of HAV.
+Intravenous drug use:
+Sharing needles or other drug paraphernalia can lead to bloodborne transmission of HAV among users.
+Underlying Causes
+The incidence of Hepatitis A is directly related to hygiene and sanitation standards, as HAV thrives in environments where these are poor. In developed countries with good sanitation infrastructure, Hepatitis A is often associated with specific high-risk behaviours or groups, such as men who have sex with men (MSM), intravenous drug users, and individuals travelling to endemic areas. In contrast, in developing countries where sanitation infrastructure may be lacking, Hepatitis A tends to be endemic and most infections occur in early childhood.
+Vaccination against HAV significantly reduces the risk of infection. However, unvaccinated individuals remain susceptible. Immunity following natural infection is lifelong and protects against future reinfection.
+Improve
+Pathophysiology
+The pathophysiology of
+Hepatitis
+A begins with the ingestion of the hepatitis A virus (HAV), an RNA virus classified under the
+Picornaviridae
+family. Upon entry into the gastrointestinal tract, HAV traverses the epithelial lining and gains access to the bloodstream through the portal circulation.
+Once in the liver, HAV targets hepatocytes and Kupffer cells. The virus binds to specific receptors on these cells, facilitating its entry. Within hepatocytes, HAV hijacks cellular machinery to replicate its RNA genome and produce viral proteins. This replication process occurs predominantly in the cytoplasm.
+The accumulation of viral particles within hepatocytes triggers a host immune response. Cytotoxic T lymphocytes (CTLs) recognise infected hepatocytes via MHC class I molecules presenting viral peptides on their surface. CTLs induce apoptosis of infected cells, leading to direct cellular injury.
+In addition to CTL-mediated damage, pro-inflammatory cytokines such as tumour necrosis factor-alpha (TNF-α) and interferon-gamma (IFN-γ) are released by activated immune cells. These cytokines enhance inflammatory responses and contribute to further hepatocellular damage.
+The destruction of hepatocytes impairs liver function, manifesting clinically as
+jaundice
+due to hyperbilirubinaemia. The compromised ability of damaged hepatocytes to conjugate bilirubin leads to elevated levels of unconjugated bilirubin in the blood. Concurrently, cholestasis may occur due to inflammation-induced obstruction of bile canaliculi.
+The immune response also results in hepatic inflammation characterised by infiltration of mononuclear cells into portal tracts and lobular areas, causing hepatic swelling and tenderness observed during physical examination.
+During this phase, patients often exhibit elevated serum aminotransferase levels (ALT and AST), reflecting ongoing hepatocellular injury. The liver’s synthetic functions may be transiently impaired, evidenced by prolonged prothrombin time (PT) or reduced albumin synthesis in severe cases.
+The majority of individuals mount an effective immune response that clears HAV from the liver without progressing to chronic infection. Immunological memory is established through humoral immunity involving anti-HAV IgG antibodies that confer long-term protection against future infections.
+Improve
+Clinical features
+Hepatitis
+A is usually a self-limiting viral illness. In some cases, patients may remain asymptomatic (especially children under 5-years of age).  There are usually four stages of infection:
+Incubation phase
+This is the time period between coming into contact with the virus and developing symptoms.
+Approximately 28 days (range 15 to 50 days).
+Prodromal phase
+This refers to period where early symptoms develop before onset of fully-developed acute illness.
+Typically lasts 3 to 10 days.
+Symptoms include flu-like illness, gastrointestinal symptoms (such as appetite loss, right upper
+abdominal pain
+,
+nausea
+,
+vomiting
+and diarrhoea) and low-grade temperatures up to 39
+o
+C.
+Usually no specific signs on examination.
+Icteric phase
+This refers to period of established infection.
+Typically lasts 1 to 3 weeks, but can last up to 12 weeks.
+Symptoms include
+jaundice
+, pale stools and dark urine, pruritis (40% of those with jaundice),
+fatigue
+, anorexia, vomiting.
+There may be
+hepatomegaly
+(85%),
+splenomegaly
+(15%) and hepatic tenderness on examination.
+Convalescent phase
+This refers to period of recovery after acute illness.
+May last up to 6 months.
+Features include muscle weakness,
+malaise
+, anorexia and hepatic tenderness.
+Improve
+Investigations
+If
+hepatitis
+A is suspected, current NICE guidance recommends the following investigations should be performed:
+Hepatitis serology
+First line is the PCR test for hepatitis A RNA.
+If this is not available, hepatitis A virus immunoglobulin M (HAV-IgM) and hepatitis A virus immunoglobulin G (HAV-IgG) blood tests should be performed. These should be repeated in one to two weeks if taken within ten days of symptom onset.
+Positive HAV-IgM and positive HAV-IgG suggests acute hepatitis A infection.
+Negative HAV-IgM and positive HAV-IgG suggests past hepatitis A infection or immunity.
+A high IgG reactivity and a moderate level of IgM suggests recent infection rather than acute infection.
+Liver function tests
+Typically shows significantly raised alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels.
+Bilirubin may be elevated, as well as pro-thrombin time.
+Alkaline phosphatase may be elevated but generally less than 2 times upper limit of normal.
+Public Health England (PHE) define possible cases of hepatitis A using a
+case definition
+, defined as:
+A person presenting with acute illness with onset of suggestive features and
+jaundice
+;
+or
+A person presenting with acute illness with onset of suggestive features and raised AST levels.
+Probable and confirmed cases are then defined by PHE using this case definition as in the table below:
+Probable case
+Confirmed case
+Meets case definition (above) and has had contact with a confirmed hepatitis A case
+Meets case definition and has HAV-IgM and HAV-IgG antibodies
+Meets case definition and has HAV-IgM antibodies
+Has hepatitis A RNA (HAV-RNA) detected regardless of clinical features
+Asymptomatic and no recent immunisation but has anti HAV-IgM and has had  contact with confirmed hepatitis A case
+Improve
+Differential diagnosis
+When considering the differential diagnosis of
+Hepatitis
+A, three primary conditions to consider are
+Hepatitis B
+,
+Hepatitis C
+and autoimmune hepatitis. These conditions can present with similar clinical symptoms but have different aetiologies and epidemiological patterns.
+Hepatitis B
+The clinical presentation of acute Hepatitis B may be indistinguishable from that of Hepatitis A. Both may present with symptoms such as
+jaundice
+,
+fatigue
+, abdominal discomfort and
+nausea
+.
+However, unlike Hepatitis A which is primarily transmitted through the faecal-oral route, Hepatitis B is transmitted through exposure to infected blood or body fluids, including sexual contact and sharing needles.
+In terms of laboratory findings, both Hepatitis A and B can cause elevated liver enzymes (ALT and AST). However, the presence of HBsAg in serum is unique to Hepatitis B infection.
+Hepatitis C
+Like other forms of
+viral hepatitis
+, acute Hepatitis C may also present with non-specific symptoms like
+malaise
+, anorexia or jaundice. However, approximately 70-80% of people with acute HCV infection are asymptomatic.
+Hepatomegaly
+is less common in patients with acute HCV infection compared to those with HAV infection.
+The transmission routes for HCV are similar to HBV; it's often spread through exposure to infected blood. Sexual transmission is possible but less common than in HBV.
+Anti-HCV antibodies usually become detectable in serum 8–11 weeks after exposure which can help distinguish it from an HAV infection where anti-HAV IgM antibodies appear early in disease course.
+Autoimmune hepatitis
+Clinically autoimmune hepatitis can mimic viral hepatitis, but it's more common in women and often associated with other autoimmune diseases.
+Unlike viral hepatitis, autoimmune hepatitis is not infectious. It is caused by a misdirected immune response against liver cells.
+In contrast to HAV infection, patients with autoimmune hepatitis may present with chronic symptoms such as fatigue or
+arthralgia
+and have hypergammaglobulinaemia on laboratory testing.
+The presence of autoantibodies like anti-smooth muscle antibody (ASMA) and anti-nuclear antibody (ANA) can help distinguish this condition from Hepatitis A infection.
+Improve
+Management
+The majority of
+hepatitis
+A cases are usually mild and self-limiting and require no specific treatment.  Severely unwell patients should be admitted to hospital.
+Generally symptom management is all that is required. Current NICE guidance advises a patient should:
+Rest and stay hydrated.
+Use pain relief as required, with dose adjustment if liver impairment.
+Use anti-emetics as required, including metoclopramide or cyclizine unless impaired liver function.
+For itch, use simple measure such as loose clothing and avoiding hot baths and showers and chlorphenamine if required unless impaired liver function.
+Avoid alcohol.
+Ensure good personal hygiene practices and avoid food preparation, and sexual intercourse for 7 days after symptom onset.
+Patients should avoid work or school for 7 days after symptom onset.
+Patients should be followed-up every 1-2 weeks, and liver function tests repeated until amino-transferase levels are within normal levels.
+For those who have been in contact with someone with known hepatitis A infection, the local health protection unit should be contacted for advice on further management including vaccination.
+Improve
+Complications
+The majority of patients with
+hepatitis
+A make a full recovery within six-months.
+Rarely (15%) of patients may have a relapsing course of illness lasting several months.
+Very rare complications (0.4%) include fulminant liver failure and other rare complications. Other rare complications include:
+Acalculous cholecystitis
+Pancreatitis
+Aplastic anaemia
+Post-viral encephalitis
+Reactive arthritis.
+Improve
+Prognosis
+The prognosis of
+Hepatitis
+A is generally favourable, with most patients experiencing full recovery within a few weeks to months. Chronic infection does not occur.
+Mortality rate is low, approximately 0.1% overall but increases to 1.8% in individuals over 50 years old.
+Fulminant hepatitis is rare but can be fatal, particularly in older adults and those with pre-existing liver conditions.
+Relapsing hepatitis occurs in about 10-15% of cases, characterised by recurrence of symptoms and elevated liver enzymes after initial improvement.
+Extrahepatic manifestations such as
+arthralgia
+, rash, and renal impairment are uncommon but may complicate the clinical course.
+Supportive care remains the cornerstone of management; antiviral therapy is not indicated. Vaccination provides effective prophylaxis and should be considered for at-risk populations.
+Improve
+References
+Green book - Hepatitis A
+Infectious diseases
+Hepatitis A

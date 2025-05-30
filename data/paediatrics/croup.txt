@@ -1,0 +1,215 @@
+Croup
+Croup
+Croup, also known as laryngotracheobronchitis, is a common viral infection of the upper airways in children. Inflammation of the larynx causes the classic barking
+cough
+,
+stridor
+, and may be accompanied by a low fever.
+Prior to this typical presentation, a prodromal period of non-specific upper respiratory tract symptoms (coryza, non-barking cough, mild fever) may occur for 12-48 hours. The barking cough and respiratory distress then typically last 1-2 days before recovery.
+Croup affects children between the ages of 6 months and 3 years, and is more common in autumn. The parainfluenza virus is most commonly implicated in croup.
+Last updated: 16
+th
+January 2024
+Epidemiology
+Incidence: 250.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: more common in males 1.4:1
+Condition
+Relative
+incidence
+Viral upper respiratory tract infections
+120.00
+Bronchiolitis
+2.00
+Croup
+1
+Acute epiglottitis
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Aetiology is most commonly viral, with some cases caused by bacteria.
+Viral
+Parainfluenza virus is the principal cause of acute laryngotracheobronchitis, accounting for 75% of infections.
+Other causes include influenza A and B, measles, adenovirus, and respiratory syncytial virus (RSV).
+Bacterial
+The common bacterial causes are
+Staphylococcus aureus
+,
+Streptococcus pneumoniae
+,
+Haemophilus influenzae
+, and
+Moraxella catarrhalis
+.
+Croup is droplet spread and outbreaks can occur in childcare settings or school, most commonly in autumn. Croup is more common in males (1.4:1).
+Improve
+Pathophysiology
+- Following a coryzal prodrome, white blood cells infiltrate the larynx, trachea and large bronchi, causing inflammation.
+This inflammation causes oedema which results in partial airway obstruction.
+When significant, this airway obstruction  dramatically increases the work of breathing and causes the characteristic turbulent airflow known as
+stridor
+.
+Improve
+Classification
+NICE (CKS) suggest using the following criteria to grade the severity:
+Mild
+Moderate
+Severe
+Occasional barking
+cough
+No audible
+stridor
+at rest
+No or mild suprasternal and/or intercostal recession
+The child is happy and is prepared to eat, drink, and play
+Frequent barking cough
+Easily
+audible stridor at rest
+Suprasternal and sternal wall retraction at rest
+No or little distress or agitation
+The child can be placated and is interested in its surroundings
+Frequent barking cough
+Prominent inspiratory (and occasionally, expiratory) stridor at rest
+Marked sternal wall retractions
+Significant distress and agitation, or lethargy or restlessness (a sign of hypoxaemia)
+Tachycardia occurs with more severe obstructive symptoms and hypoxaemia
+CKS suggest admitting any child with:
+moderate or severe croup
+< 3 months of age
+known upper airway abnormalities (e.g. Laryngomalacia, Down's syndrome)
+uncertainty about diagnosis (important differentials include
+acute epiglottitis
+, bacterial tracheitis, peritonsillar abscess and foreign body inhalation)
+Improve
+Clinical features
+Children with croup may present to general practice or the Emergency Department (ED).
+Croup is suggested by a coryzal prodrome which then progresses over 12 to 48 hours to include:
+Low fever
+Usually less than 38ÂºC
+Hoarseness
+Barking
+cough
+Worse at night
+Stridor
+Insidious and progressive
+As airway obstruction progresses, features of respiratory distress may develop:
+Tachypnoea
+Cyanosis
+Head bobbing
+Nasal flaring
+Subcostal and intercostal recession
+Suprasternal and sternal recession
+Diaphragmatic breathing
+Use of accessory muscles.
+Improve
+Investigations
+- Croup is a primarily clinical diagnosis, suggested by the presence of barking
+cough
+and
+stridor
+, especially in the context of a local community outbreak.
+For the vast majority of children presenting to primary/secondary care with symptoms of  classic croup on history and physical examination, no further investigation is necessary.
+In some cases, however, laboratory studies or radiographs may be useful to rule out differential diagnoses.
+Indications for radiographic evaluation include:
+Uncertainty about the diagnosis
+Atypical course of illness
+Inhaled foreign body is suspected
+Recurrent croup
+Inadequate response to appropriate therapeutic interventions
+Improve
+Differential diagnosis
+The following diagnoses have similarities to croup, but can usually be differentiated through history and physical examination.
+Viral
+upper respiratory tract infection
+(
+URTI
+)
+Similarities
+Common in young children
+Causes coryza,
+cough
+and respiratory distress
+Differences
+Seal-like barking cough less common
+Bronchiolitis
+Similarities
+Causes cough, fever, and respiratory distress
+Differences
+Affects children < 2 years old
+Causes wheeze
+No barking quality to cough
+Epiglottitis
+Similarities
+Stridor
+Differences
+Usually seen in children 3-5 years of age
+Absence of barking cough
+Muffled hot potato voice
+Tripod or sniffing position
+An incomplete vaccination history more likely to be present
+Foreign body aspiration
+Similarities
+Often < 3 years of age
+Stridor
+Dysphonia depending on location of foreign body
+Differences
+History suggestive of possible foreign body
+Abrupt onset during daytime (croup usually night-time)
+Minimal response to adrenaline nebuliser
+Bacterial tracheitis
+Similarities
+Stridor
+Differences
+Usually school-age
+Soft stridor 2-7 days after onset of URTI symptoms
+Significant tracheal tenderness on palpation
+Reluctant to cough because of pain
+Other differential diagnoses include anaphylaxis and retropharyngeal abscess.
+If the child is <6 months, consider laryngomalacia, tracheomalacia, or a vascular ring.
+Improve
+Management
+Croup may be managed in primary or secondary care, depending on the severity of symptoms. All children with moderate or severe croup should be referred to the emergency department (ED).
+The principles of treatment in mild and moderate croup are symptomatic relief, while the prevention of further airway compromise is paramount in severe croup.
+NICE guidelines, last updated in 2019, suggest the following algorithm for the management of croup:
+Primary care (mild illness)
+Supportive care
+Oral dexamethasone
+Parents should be advised regarding:
+The expected course of croup, including that symptoms usually resolve within 48 hours.
+The need to take the child to hospital if
+stridor
+can be heard continually, the skin between the ribs is pulling in with every breath, and/or the child is restless or agitated.
+The use of antipyretics in children distressed due to fever.
+The need to check on the child regularly, including through the night.
+Arrange follow-up, using clinical judgment to determine the appropriate interval.
+Secondary care (moderate - severe illness)
+All children with moderate-severe illness should be admitted
+Supportive care
+Oral dexamethasone
+Nebulised epinephrine
+Supplemental oxygen
+The above advice should also be given
+Children that present to the ED may be safely discharged home after 2 to 4 hours of observation following epinephrine administration, given they have no stridor at rest.
+Improve
+Complications
+Complications of croup are generally due to airway obstruction caused by the oedema.
+Respiratory distress is a significant complication of croup, manifesting as the signs listed above. This may progress to respiratory failure in some cases and even death.
+Further complications are less common and include:
+Pneumonia
+Pulmonary oedema
+Epiglottitis
+Bacterial tracheitis
+Improve
+References
+Clinical Knowledge Summaries - Croup guidelines
+Paediatric respiratory
+Croup

@@ -1,0 +1,195 @@
+Mixed connective tissue disease
+Mixed connective tissue disease
+Mixed connective tissue disease (MCTD, Sharp's syndrome) is a rare, heterogeneous, multi-system autoimmune disorder.  It is a distinct clinical entity, but features of
+systemic lupus erythematosus
+(SLE),
+systemic sclerosis
+(SSc) and myositis may all be present.  It is associated with anti-U1 ribonucleoprotein (RNP) antibodies.* It is not to be confused with 'undifferentiated connective tissue disease'.**
+*Note that anti-U1 RNP antibodies are not completely specific and may also be seen in definite SSc and SLE
+**Undifferentiated connective tissue disease refers to syndromes in which features of one or more 'classical' connective tissue disease may be present, but do not meet diagnostic criteria. Anti-U1 RNP is absent.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.20 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 5:1
+Condition
+Relative
+incidence
+Systemic lupus erythematosus
+25.00
+Systemic sclerosis
+10.00
+Mixed connective tissue disease
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Mixed connective tissue disease (MCTD) is a complex and multifactorial autoimmune disorder. The exact aetiology remains elusive, but several risk factors and underlying causes have been identified.
+Risk Factors
+Gender:
+Females are more susceptible to MCTD than males, with the female to male ratio being approximately 9:1. The reason for this gender disparity is unclear but may be related to hormonal influences on immune function.
+Age:
+MCTD can occur at any age, but it most commonly presents in individuals aged between 15 and 25 years. However, paediatric and geriatric cases have also been reported.
+Genetic predisposition:
+Certain genetic markers such as HLA-DR4 and HLA-DR2 are associated with an increased risk of developing MCTD. Additionally, familial clustering suggests a genetic component in the disease's susceptibility.
+Underlying Causes
+Autoimmunity:
+A hallmark feature of MCTD is the production of autoantibodies against U1-ribonucleoprotein (U1-RNP), leading to immune-mediated damage to connective tissues.
+Infections:
+Some studies suggest that viral infections may trigger the onset of MCTD via molecular mimicry or by stimulating polyclonal B-cell activation. Viruses implicated include
+Epstein-Barr virus
+,
+Cytomegalovirus
+, and
+Retroviruses
+.
+Hormonal factors:
+Hormones play a crucial role in immune responses. The predominance of MCTD in females suggests that sex hormones may influence disease susceptibility and progression.
+Environmental factors:
+Exposure to certain environmental factors such as ultraviolet radiation, silica dust, and specific drugs can trigger the onset of MCTD.
+Improve
+Pathophysiology
+Mixed connective tissue disease (MCTD) is a complex, systemic autoimmune disorder characterised by overlapping features of several connective tissue diseases, including
+systemic lupus erythematosus
+(SLE),
+scleroderma
+, and polymyositis. The exact pathophysiology is not completely understood; however, it's generally agreed that both genetic predisposition and environmental triggers play key roles in the disease onset and progression.
+Immunological Mechanisms
+The hallmark feature of MCTD is the presence of high levels of autoantibodies against U1 ribonucleoprotein (U1RNP). These antibodies are believed to trigger an inflammatory response leading to tissue damage.
+Abnormal T-cell function has also been implicated in the pathogenesis of MCTD. Hyperactive T-cells produce excess amounts of proinflammatory cytokines such as interleukin-2 (IL-2), interferon-gamma (IFN-γ), and tumour necrosis factor-alpha (TNF-α). This heightened immune response contributes to inflammation and organ damage.
+Molecular Mechanisms
+Autoantibodies against U1RNP can form immune complexes with native proteins. These immune complexes deposit in various tissues causing local inflammation and injury.
+Elevated levels of type I interferons have been observed in patients with MCTD. These molecules are potent stimulators of the immune system and can exacerbate autoimmune responses.
+Anatomical Changes
+Inflammation caused by the deposition of immune complexes can lead to characteristic changes in various organs. For example, in the lungs, this process may result in interstitial lung disease or pulmonary hypertension.
+Vasculopathy is another common feature in MCTD, driven by inflammation and immune complex deposition in the blood vessels. This can lead to Raynaud’s phenomenon, digital ulcers, and gangrene.
+Physiological Changes
+The inflammatory process in MCTD affects various physiological functions. For instance, pulmonary involvement may impair gas exchange leading to dyspnoea and reduced exercise capacity.
+Musculoskeletal involvement often results in muscle weakness and
+arthralgia
+due to inflammation of the muscles and joints.
+Improve
+Clinical features
+Presentation:
+Raynaud's phenomenon
+often precedes other symptoms and occurs in 90% of cases
+Polyarthralgia/arthritis
+Myalgia
+'Sausage fingers'(dactylitis)
+Other clinically important features:
+Dermatological: photosensitive rash,
+scleroderma
+-like changes, alopecia
+Oesophageal dysfunction
+Respiratory: pleuritis, pulmonary hypertension, interstitial lung disease
+Haematological: anaemia, lymphadenopathy, splenomegaly, rarely TTP
+Cardiac: pericarditis, pericardial effusion, accelerated coronary artery disease
+Renal: glomerulonephritis (tends to be milder than
+SLE
+)
+Neuropsychiatric: seizures, mood disturbance
+Improve
+Investigations
+Investigations:
+Exclude other connective tissue disease/vasculitis
+Bloods FBC: anaemia, leucopenia, thrombocytopenia, U+E: renal impairment, CRP/ESR raised
+ANA (usually) positive, anti Ds-DNA and
+scleroderma
+-specific antibodies (e.g. Anti-Scl70) are negative
+Anti-U1 RNP (an extractable nuclear antigen, ENA), must be positive
+Organ-specific investigations, e.g. ECG, echo, CT chest, MRI brain
+Improve
+Differential diagnosis
+Mixed connective tissue disease (MCTD) can often be challenging to diagnose due to its overlapping clinical features with other systemic autoimmune diseases. The differential diagnosis generally includes
+systemic lupus erythematosus
+(SLE),
+systemic sclerosis
+(SSc), and polymyositis (PM).
+Systemic Lupus Erythematosus (SLE)
+SLE is characterised by a broader range of clinical manifestations compared to MCTD, including malar rash, discoid rash, oral ulcers, serositis, renal involvement, and neurological disorders.
+While both conditions may present with
+arthralgia
+or arthritis,
+Raynaud's phenomenon
+is more common in MCTD.
+Laboratory findings in SLE typically show positive antinuclear antibodies (ANA), anti-double-stranded DNA antibodies (anti-dsDNA), and low complement levels. In contrast, patients with MCTD commonly have high titres of ANA with a speckled pattern and anti-U1-RNP antibodies.
+Systemic Sclerosis (SSc)
+SSc primarily affects the skin and internal organs such as the lungs, heart, kidneys and gastrointestinal tract. Skin thickening in scleroderma is typically more diffuse than in MCTD where it tends to be limited to the hands and face.
+Pulmonary arterial hypertension is more common in SSc than MCTD.
+In terms of serological markers, anti-centromere and anti-Scl-70 antibodies are usually found in SSc whereas they are rarely seen in MCTD.
+Polymyositis (PM)
+PM predominantly affects the proximal muscles, causing symmetrical muscle weakness, while MCTD may also present with myositis but usually has a broader range of clinical manifestations.
+Dysphagia is more common in PM than in MCTD.
+The main serological marker for PM is anti-Jo-1 antibody which is absent in MCTD. In contrast, anti-U1-RNP antibodies are specific for MCTD.
+Improve
+Management
+Mixed connective tissue disease (MCTD) management primarily involves immunosuppressive therapy, symptomatic treatment and regular monitoring for organ involvement. The choice of therapeutic agent is guided by the patient's clinical manifestations. Early diagnosis and intervention can significantly improve prognosis.
+Immunosuppressive Therapy:
+Corticosteroids are the first-line treatment for acute flares and severe organ-threatening disease.
+Hydroxychloroquine is often used in mild cases or as steroid-sparing agent.
+Methotrexate, Azathioprine and Mycophenolate Mofetil may be considered for patients with refractory disease or intolerant to other therapies.
+Symptomatic Treatment:
+Non-steroidal anti-inflammatory drugs (NSAIDs) may be used for
+arthralgia
+or
+myalgia
+.
+Antimalarials can help manage skin rashes and arthritis symptoms.
+Vasodilators such as calcium channel blockers are beneficial in managing
+Raynaud's phenomenon
+.
+Improve
+Complications
+Mixed connective tissue disease (MCTD) can lead to a range of complications due to its systemic nature and the involvement of multiple organ systems. The following are the most likely complications:
+Pulmonary hypertension:
+This is one of the most severe complications of MCTD, characterised by high blood pressure in the arteries that supply the lungs. It can lead to right-sided heart failure if left untreated.
+Interstitial lung disease:
+Characterised by inflammation and scarring of lung tissue, leading to progressive dyspnoea and cough. Pulmonary function tests often reveal restrictive pattern with reduced diffusion capacity.
+Cardiovascular disease:
+Patients with MCTD are at an increased risk for both arteriosclerosis and myocardial infarction due to chronic inflammation.
+Rheumatoid arthritis:
+Joint inflammation is common in MCTD, leading to
+arthralgia
+or arthritis affecting small joints of hands and wrists primarily.
+The following complications, while less common, are also noteworthy:
+Gastrointestinal complications:
+These include gastroesophageal reflux disease, dysphagia due to esophageal dysmotility, and less commonly intestinal malabsorption secondary to small bowel involvement.
+Kidney involvement:
+Glomerulonephritis is rare but can occur in MCTD. Regular renal function monitoring is advised in patients with active disease.
+Anaemia:
+Chronic disease anaemia is common in MCTD. Less commonly hemolytic anaemia may occur.
+Nervous system involvement:
+This can range from headaches and peripheral neuropathy to serious conditions like stroke or seizures.
+Improve
+Prognosis
+The prognosis of Mixed Connective Tissue Disease (MCTD) is variable, largely depending on the organs involved and the severity of the disease. It is a chronic condition, characterised by periods of remission and exacerbation.
+Factors influencing prognosis:
+Disease severity:
+Milder forms of MCTD typically have a more favourable prognosis. Severe disease manifestations such as pulmonary hypertension or renal involvement can significantly impact survival rates.
+Organ involvement:
+The extent and type of organ involvement plays a significant role in determining the patient's prognosis. Pulmonary, cardiac, and renal involvements are associated with higher morbidity and mortality rates.
+Response to treatment:
+Patients who respond well to immunosuppressive therapy generally have a better long-term outcome. Non-responders or those with frequent relapses may face a worse prognosis.
+Mortality rates in MCTD vary widely in literature due to differences in study design, population characteristics, and follow-up duration. However, several studies suggest that 10-year survival ranges from 70% to 80%, while 20-year survival ranges from 50% to 70%. This condition is not classified as a malignancy; therefore, no specific data on 5-year survival is available.
+In terms of morbidity, patients often experience reduced quality of life due to persistent symptoms like
+fatigue
+,
+arthralgia
+,
+myalgia
+, and
+Raynaud's phenomenon
+. Long term management aims at controlling these symptoms along with preventing organ damage which could further influence the patient's functional status and quality of life.
+Improve
+Rheumatology
+Mixed connective tissue disease

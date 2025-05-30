@@ -1,0 +1,99 @@
+Gilbert's syndrome
+Gilbert's syndrome
+Gilbert's syndrome is a benign, hereditary condition characterised by intermittent unconjugated hyperbilirubinaemia, often exacerbated by physiological stressors. The underlying cause is a reduced activity of the hepatic enzyme uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1), resulting in decreased bilirubin conjugation and subsequent elevation of serum unconjugated bilirubin levels. Although generally asymptomatic, it can present with
+jaundice
+and vague symptoms such as fatigue or abdominal discomfort. As Gilbert's syndrome poses no significant risk for liver disease progression, the management primarily focuses on alleviating symptoms and addressing potential triggers.
+Last updated: 17
+th
+May 2023
+Epidemiology
+Incidence: 500.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Gilbert's syndrome (GS) is an autosomal recessive, benign condition characterised by intermittent unconjugated hyperbilirubinaemia. The primary risk factor and underlying cause for GS is genetic mutation.
+Genetic Mutation:
+The fundamental aetiological factor in Gilbert's syndrome is a mutation in the Uridine Diphosphate Glucuronosyltransferase 1A1 (
+UGT1A1
+) gene, which encodes the enzyme responsible for bilirubin conjugation in hepatocytes. A common variant associated with GS is
+UGT1A1*28
+, a TA insertion in the promoter region of the
+UGT1A1
+gene, resulting in reduced transcriptional activity and consequent decreased bilirubin conjugation.
+Ethnicity:
+Certain ethnic groups exhibit higher prevalence rates of GS due to increased frequency of the
+UGT1A1*28
+allele. For instance, it has been observed that individuals of East Asian descent have lower rates of GS compared to those from Western populations.
+Familial History:
+Given its autosomal recessive inheritance pattern, individuals with a family history of GS are at an elevated risk. It should be noted however that clinical manifestations may not always be apparent in carriers due to incomplete penetrance.
+Hormonal Influence:
+Although not a direct cause, hormonal factors can influence the expression of GS. Studies suggest that oestrogens can inhibit UGT activity leading to elevated levels of unconjugated bilirubin, particularly noticeable during pregnancy or oral contraceptive use.
+Environmental Triggers:
+While not causative, certain environmental factors may exacerbate the clinical manifestations of GS. These include fasting or low-calorie diets, stress, illness, strenuous exercise and dehydration which can lead to increased bilirubin production or decreased hepatic uptake.
+Improve
+Pathophysiology
+Gilbert's syndrome
+is a benign, autosomal recessive disorder characterised by intermittent unconjugated hyperbilirubinaemia. It results from reduced activity of the enzyme glucuronyl transferase, which is involved in the conjugation of bilirubin in hepatocytes.
+The pathophysiology of Gilbert's syndrome involves several steps:
+Under normal circumstances, unconjugated bilirubin produced from the breakdown of haemoglobin is transported to hepatocytes bound to albumin. Here, it undergoes conjugation with glucuronic acid via the action of the enzyme uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1).
+In Gilbert's syndrome, there is a mutation in the promoter region of
+UGT1A1
+gene resulting in decreased expression and activity of UGT1A1. This leads to a diminished capacity for bilirubin conjugation.
+The reduction in hepatic uptake and conjugation results in an increase in serum levels of unconjugated bilirubin while levels of conjugated bilirubin remain normal.
+This accumulation can be exacerbated during periods of increased haemolysis or fasting when hepatic uptake is further compromised due to competition between fatty acids and unconjugated bilirubin for binding sites on albumin.
+Despite high serum levels, renal excretion of unconjugated bilirubin is minimal due to its poor water solubility. Therefore, urine remains clear and
+jaundice
+becomes apparent only when serum concentrations exceed 2-3 mg/dL.
+The clinical manifestations are typically mild and primarily involve episodic jaundice. The degree and frequency can vary widely among individuals based on factors such as the specific genetic mutation, physiological stressors and other environmental influences.
+Improve
+Clinical features
+Features
+unconjugated hyperbilirubinaemia (i.e. not in urine)
+jaundice
+may only be seen during an intercurrent illness, exercise or fasting
+Improve
+Investigations
+No investigation is generally required - it is typically diagnosed on the basis of an isolated rise in bilirubin, which is typically more pronounced on prolonged fasting.
+Provocative testing with IV nicotinic acid may sometimes be used to investigate certain cases.
+Improve
+Differential diagnosis
+Differential Diagnosis of Gilbert's Syndrome
+The differential diagnosis for Gilbert's syndrome primarily includes other causes of unconjugated hyperbilirubinemia, such as haemolytic anaemia, Crigler-Najjar syndrome, and Dubin-Johnson syndrome. The key is to distinguish these conditions based on their unique clinical presentations and laboratory findings.
+Haemolytic Anaemia
+Haemolytic anaemia presents with symptoms such as fatigue, pallor, dyspnoea on exertion, and possibly
+jaundice
+. The presence of anaemia is a distinguishing feature not seen in Gilbert's syndrome.
+Laboratory findings reveal increased reticulocyte count, elevated lactate dehydrogenase (LDH), decreased haptoglobin levels and the presence of spherocytes or schistocytes on peripheral blood smear.
+While both conditions may present with unconjugated hyperbilirubinemia, the absence of haemolysis in Gilbert's syndrome differentiates it from haemolytic anaemia.
+Crigler-Najjar Syndrome
+Crigler-Najjar syndrome is an autosomal recessive disorder characterised by severe unconjugated hyperbilirubinemia leading to kernicterus. It has two types: Type I (more severe) and Type II (less severe).
+Patients typically present during the neonatal period with jaundice that can progress to bilirubin encephalopathy if left untreated - a presentation far more severe than what is observed in Gilbert's syndrome.
+The degree of unconjugated bilirubin elevation in Crigler-Najjar syndrome is significantly higher than in Gilbert's syndrome.
+Dubin-Johnson Syndrome
+Dubin-Johnson syndrome, an autosomal recessive disorder, presents with conjugated hyperbilirubinemia rather than the unconjugated hyperbilirubinemia seen in Gilbert's syndrome.
+Patients may present with jaundice, but typically do not have symptoms unless there is a precipitating factor such as pregnancy or oral contraceptive use.
+The presence of darkly pigmented liver cells on liver biopsy differentiates this condition from Gilbert's syndrome.
+Improve
+Management
+The management of Gilbert's syndrome primarily involves reassurance and symptom control. As the condition is benign and usually asymptomatic, specific treatment is typically not required. However, for those patients who do experience symptoms, certain steps can be taken:
+Reassurance:
+Patients should be informed that Gilbert's syndrome does not cause serious health problems or reduce life expectancy.
+Symptom Management:
+For symptoms such as fatigue or abdominal discomfort, general measures like adequate rest and a balanced diet may help. Over-the-counter medication may be used for temporary relief from occasional abdominal pain.
+Avoidance of Known Triggers:
+Factors known to exacerbate
+jaundice
+in Gilbert's syndrome include dehydration, fasting or low-calorie diets, stress, illness, strenuous exercise and menstruation. These should be avoided where possible.
+Improve
+Gastroenterology
+Gilbert's syndrome

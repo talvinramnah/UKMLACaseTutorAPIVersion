@@ -1,0 +1,151 @@
+Toxic thyroid nodule (adenoma)
+Toxic thyroid nodule (adenoma)
+Toxic thyroid adenomas
+also known as autonomously functioning thyroid nodules, are solitary hyperfunctioning nodules within the thyroid gland that autonomously produce thyroid hormones, leading to thyrotoxicosis. They account for around 5% of cases of thyrotoxicosis in the UK. These nodules harbour mutations that lead to constitutive activation of the TSH receptor or Gs protein, resulting in unregulated thyroid hormone synthesis and secretion. Clinically, toxic thyroid adenomas present with signs and symptoms of hyperthyroidism, such as
+weight loss
+,
+palpitations
+, and
+heat intolerance
+, but without the ophthalmopathy characteristic of
+Graves' disease
+.
+Diagnosis is primarily through radionuclide thyroid scanning, where toxic thyroid adenomas typically demonstrate a 'hot' nodule with suppressed uptake in the surrounding thyroid tissue. Thyroid function tests reveal suppressed TSH with elevated free T4 and/or T3. Ultrasound can assess nodule characteristics and guide fine-needle aspiration if indicated, particularly for nodules with suspicious features.
+Management options include radioactive iodine therapy, which is the treatment of choice in the UK, surgical resection for those who are not candidates for radioiodine or have large goitres causing compressive symptoms, and antithyroid drugs as a temporary measure or in preparation for definitive therapy.
+Last updated: 16
+th
+November 2023
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Graves' disease
+25.00
+Subacute (De Quervain's) thyroiditis
+6.05
+Toxic multinodular
+goitre
+3.50
+Thyroid cancer
+2.70
+Toxic thyroid nodule (adenoma)
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Dietary iodine deficiency is the main risk factor for the development of toxic thyroid adenomas.
+A global WHO study (2003) demonstrated iodine deficiency affects 1.9 billion people worldwide.
+Areas of the world most affected were Europe (56.9% iodine deficient), Eastern Mediterranean (54.1%) and Africa (42.6%).
+The prevalence of iodine deficiency correlated with low use of iodinated salt in households. The Americas had the lowest rates of deficiency and the highest use of iodinated table salt following a successful public health initiative.
+Thyroid adenoma most commonly affects women between the ages of 20-40
+The incidence amongst men is approximately 10 times less than in women.
+Family history and past radiation exposure are also risk factors for thyroid adenoma
+Improve
+Pathophysiology
+Toxic adenomas of the thyroid are benign, encapsulated, hyper-functional adenomas.
+They originate following monoclonal proliferation of follicular cells or, rarely, papillary cells
+Supra-physiological production of thyroid hormones is achieved by:
+An activating mutation in the TSH-receptor gene
+Mutations causing changes in the downstream cAMP signalling pathway.
+This allows for autonomous stimulation of the TSH receptor and thyroid hormone production
+Toxic-multinodular
+goitre
+shares the same germline mutations as a solitary adenomatous nodule, but also present are non-functioning nodules without the activating TSH mutation that contribute to goitre mass but not thyroid hormone production
+Improve
+Clinical features
+Central features of toxic thyroid adenoma are of hyperthyroidism. Small nodules are less likely to cause thyrotoxicosis, so presentation with a palpable nodule and no symptoms of thyrotoxicosis is rare.
+Typical features include:
+Heat intolerance
+Palpitations
+Anxiety
+Weight loss
+Muscle weakness
+Irregular menses in women
+Warm/moist skin
+On examination:
+Palpable solitary large nodule. Toxic adenomas are usually >3cm before causing clinical symptoms so often clearly palpable.
+Tracheal deviation may be present if the nodule is large
+Tachycardia
+Lid lag
+Absence of exophthalmos, extraocular muscle involvement (occurs in 25-30% of
+Graves' disease
+but not in thyroid adenoma)
+Improve
+Investigations
+Following suggestive clinical history and examination, the most indicative test for autonomous thyroid adenoma is the suppression of thyroid-stimulating hormone (TSH).
+Blood tests
+Thyroid function tests
+If TSH is normal then adenoma essentially ruled out
+Free T3 and free T4 are typically both elevated, or there may be solitary free T4 elevation.
+TSH receptor and TPO antibodies
+Should be tested to exclude
+Graves' disease
+, as are negative in adenoma
+ESR
+To rule our thyroiditis
+Imaging
+Thyroid ultrasound
+First line imaging of any thyroid nodule, to characterise and confirm adenoma-like (cystic, hypoechoic) and not suspicious of malignancy.
+Radioisotope scanning, using 99mtechnetium or 131iodine
+Diagnostic for toxic adenomas
+Shows the presence of one or more 'hot' nodules, indicating autonomous activity
+Given a positive radioisotope scan and benign appearance on ultrasound, fine-needle aspiration or biopsy of thyroid nodule is not needed
+Other
+ECG
+Hyperthyroidism is associated with atrial fibrillation, so important to identify and anti-coagulate.
+Improve
+Differential diagnosis
+There are several important differential causes of thyroid nodule with hyperthyroidism. Most commonly differentials are
+Graves' disease
+and multinodular
+goitre
+.
+Graves' disease
+Autoimmune-mediated hyperthyroidism, testing positive for TSH-receptor and/or anti-thyroid peroxidase antibodies
+Diffuse goitre rather than a solitary nodule
+Other differentiating signs from adenoma are the presence of exophthalmos, eyelid retraction and extraocular muscle involvement
+Toxic multinodular goitre
+Benign nodular thyroid disease, as adenoma, but with large irregular goitre owing to multiple nodules with different levels of activity
+Patients are often older than 40-years-old in contrast to the adenoma population
+Radioisotope scan shows both hot and cold areas of uptake, rather than solitary autonomous hot area.
+Thyroiditis
+An autoimmune-mediated inflammation of the thyroid gland that is usually transient and self-resolving
+Small palpable goitre may be present, with raised ESR
+A key risk factor is for women in the postnatal period
+A radioisotope scan shows little or no uptake
+Thyroid cancer
+Likely associated cervical lymphadenopathy
+Ultrasound scan likely to show suspicious features: irregular hyperechoic mass. Subsequent fine needle aspiration histological diagnosis
+Extra-thyroid uptake on radioisotope scan reveals any metastases
+Improve
+Management
+Remission of autonomous thyroid adenomas with anti-thyroid medication is rare, and therefore definitive treatment is required - in the form of radioactive iodine therapy or surgery. The patient's preference for either of these methods is vitally important, considering the risks and benefits of both with the treating team.
+Important medical adjuncts to definitive treatment include beta-blockade for symptom management and anticoagulation to cover co-existing atrial fibrillation, if present.
+Definitive treatment is undertaken in tertiary centres, and follow-up monitoring of thyroid function tests and symptomatic management can be done within primary care.
+Medical treatment of adenoma - radioactive iodine therapy (I-131)
+An oral dose of radioactive iodine taken in an outpatient nuclear medicine clinic
+Shown to render 80-90% of patients euthyroid within 8 weeks after a single dose, while some patients may require a second dose.
+It can reduce the
+goitre
+size by up to 40%.
+Side effects of radioactive iodine can include neck pain or temporarily worsened thyrotoxicosis secondary to hormone leakage.
+Absolute contraindications: pregnant or lactating women
+Relative contraindications: children and adolescent patients
+Surgical treatment of adenoma
+Subtotal thyroidectomy cures hyperthyroidism in more than 90% of cases and provides symptomatic relief from any mass effect.
+Specific risks associated with thyroid surgery include recurrent laryngeal nerve damage, transient hypocalcaemia and hypothyroidism.
+Indications for surgery include patient preference for, contraindication to, or resistance to radioactive iodine therapy, symptoms of neck compression, or presence of a large nodule with substernal or retrosternal extension.
+Improve
+Endocrinology
+Toxic thyroid nodule (adenoma)

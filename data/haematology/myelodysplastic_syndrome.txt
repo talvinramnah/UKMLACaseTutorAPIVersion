@@ -1,0 +1,222 @@
+Myelodysplastic syndrome
+Myelodysplastic syndrome
+Myelodysplastic syndrome (MDS), also known as myelodysplasia, describes a group of haematological disorders in which the bone marrow functions abnormally and there is abnormal growth of pluripotent stem cells in the bone marrow. This, in turn, causes insufficiency in the numbers of mature blood cells, which may affect one or several cell lines - red blood cells (RBCs), white blood cells (WBCs) and/or platelets. Importantly, 30% of patients with MDS eventually progress to
+acute myeloid leukaemia
+(AML).
+Last updated: 3
+rd
+September 2023
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 1.6:1
+Condition
+Relative
+incidence
+Myeloma
+3.33
+Acute myeloid leukaemia
+1.67
+Myelodysplastic syndrome
+1
+Chronic myeloid leukaemia
+0.33
+Myelofibrosis
+0.13
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+MDS may occur with, or more commonly, with an underlying disorder.
+Primary MDS (90%)
+Risk factors include:
+Male sex
+Caucasian
+Age >60 years
+Secondary (10%)
+Therapy-related
+Occurs on average 2-10 years after chemotherapy for other cancers
+Due to the DNA-damaging effects on the the bone marrow
+The risk is higher in patients treated for breast cancer, leukaemias, lymphomas, head and neck, GI, lung and prostate cancer.
+Patients may have more complex chromosomal abnormalities
+Radiotherapy-related
+Similar as for chemotherapy, this is a late adverse effect of treatment due to irradiation of the bone marrow
+Improve
+Pathophysiology
+- MDS occurs due to a failure of one, two or all three main cell lines in the bone marrow, usually at the stem cell level.
+These cell lines are erythrocytic (giving rise to RBCs), granulocytic (most WBCs) and megakaryocytic (platelets).
+MDS is therefore an umbrella term for a a quite heterogeneous group of disorders that occur due to different cytogenetic events, such as 5q deletion in the MDS-5q deletion subtype.
+RBCs, WBCs and platelets may all be affected by MDS, resulting in potentially life-threatening disease due to
+anaemia
+, increased risk of bleeding and infections.
+Additional genetic abnormalities can hence result in the transformation of MDS into
+acute myeloid leukaemia
+(AML).
+Improve
+Classification
+The WHO classification of MDS was updated in 2016. It takes into account which cell lines are affected by cytopenia; blood and bone marrow blast proportion; which myeloid cell lineages exhibit dysplastic changes in 10% of cells; presence of ring sideroblasts, erythroid precursors, Auer rods; and to an extent, karyotype and molecular genetic findings. The following list is not exhaustive, but lists the most important categories:
+MDS with single lineage dysplasia (MDS-SLD)
+MDS with multi-lineage dysplasia (MDS-MLD)
+MDS with ring sideroblasts (MDS-RS)
+MDS with excess blasts (MDS-EB)
+MDS with isolated del(5q)
+A specific subtype that is amenable to treatment with a mediation called lenalidomide.
+Unclassifiable MDS (MDS-U)
+Other classification systems include the International Prognostic Scoring System (IPSS) and French-American-British (FAB) system.
+Improve
+Clinical features
+MDS is asymptomatic in 20% and often picked up incidentally following blood tests.
+If symptomatic, features may be non-specific, such as recurrent infections.
+Generally, the symptoms depend on the cell line affected:
+Anaemia
+Fatigue
+Weakness
+Breathlessness
+Pallor
+Leukocytopaenia
+Recurrent infections, especially bacterial infections of the skin
+Thrombocytopaenia
+Easy bruising, e.g. petechiae
+Recurrent bleeding, e.g. recurrent nosebleeds
+Hepatosplenomegaly is uncommon, but may occur due to extramedullary haematopoiesis (blood cell production in other places than the bone marrow in an attempt to compensate for cytopaenia)
+Improve
+Investigations
+In MDS, the blood tests and peripheral blood film usually pick up significant abnormalities:
+Bloods
+Low RBC, WBC and/or platelets
+Neutropaenia is often severe
+Peripheral blood film
+Nucleated RBCs
+Ringed sideroblasts
+Howell-Jolly bodies
+Basophilic stippling
+Hypolobulated or unlobulated neutrophil nuclei
+Large, agranular platelets and megakaryocytes
+Once these initial tests support the suspicion of MDS, the following investigations are performed:
+Bone marrow biopsy (diagnostic)
+Hyp
+ER
+cellular, dysplastic bone marrow with numerous cells of all three cell lines
+Blasts, megakaryotes, ringed sideroblasts, etc.
+Cytogenetic studies (indicated in all patients with suspected MDS having a bone marrow examination according to the British Society for
+Haematology
+)
+Common clonal changes are 5q deletion (5q-), monosomy 7 (-7 or 7q-), trisomy 8 (+8)
+Generally, most single genetic abnormalities indicate a good prognosis.
+This also identifies patients with a 5q deletion who respond to treatment with lenalidomide.
+Improve
+Differential diagnosis
+The diagnosis of Myelodysplastic Syndrome (MDS) poses a clinical challenge due to its heterogeneous presentation. Here, we explore three common conditions that should be considered in the differential diagnosis: vitamin B12 and folate deficiency, aplastic
+anaemia
+, and chronic myelomonocytic leukaemia (CMML).
+Vitamin B12 and Folate Deficiency
+Comparison
+-
+Clinical Presentation
+: Both conditions may present with macrocytic anaemia,
+fatigue
+, and weakness.
+-
+Peripheral Smear
+: Hypersegmented neutrophils may be present in both conditions.
+Contrast
+-
+Laboratory Findings
+: Vitamin B12 and folate deficiencies typically display low serum levels of the respective vitamins, which is not the case in MDS.
+-
+Response to Treatment
+: Anaemia and cytopenias generally respond well to vitamin replacement, whereas the response in MDS is less predictable.
+Aplastic Anaemia
+Comparison
+-
+Clinical Presentation
+: Both conditions may present with symptoms of anaemia,
+thrombocytopenia
+, and neutropenia such as fatigue, easy bruising, and susceptibility to infections.
+-
+Bone Marrow
+: Hypocellular bone marrow can be a feature in both conditions.
+Contrast
+-
+Bone Marrow Findings
+: Aplastic anaemia is characterised by marrow hypoplasia without dysplasia, unlike MDS where dysplasia is a hallmark.
+-
+Etiology
+: Aplastic anaemia often has an autoimmune or toxic exposure history, which is usually not the case in MDS.
+Chronic Myelomonocytic Leukaemia (CMML)
+Comparison
+-
+Clinical Presentation
+: Both MDS and CMML may present with anaemia, thrombocytopenia, and an elevated white blood cell count.
+-
+Cytogenetic Abnormalities
+: Both conditions may display chromosomal abnormalities.
+Contrast
+-
+Peripheral Smear
+: CMML typically shows increased monocytes, which is not a consistent feature in MDS.
+-
+Bone Marrow Findings
+: CMML often has a more proliferative bone marrow picture, with both dysplasia and hypercellularity.
+Improve
+Management
+The following is based on the British Society for
+Haematology
+guidelines for the diagnosis and management of adult myelodysplastic syndromes (https://doi.org/10.1111/bjh.12694).
+The mainstay of treatment is supportive care:
+Blood transfusions, especially RBC transfusions, based on an individualised haemoglobin cut-off
+Iron chelation therapy in transfusion iron overload (only for patients with good prognosis and certain subtypes), e.g. desferrioxamine, deferasirox
+Erythroid-stimulating agents (ESA) to relieve
+anaemia
+Antibiotics for recurrent infections
+Further therapy may involve the following, depending on the patient's subtype, prognosis, and general health:
+Medical treatment
+Antithymocyte globulin (ATG) as immunosuppressant therapy (for younger patients with normal karyotype)
+Lenalidomide (for patients with del(5q) subtype)
+Azacitidine (hypomethyalting agent approved by NICE in 2011 for intermediate and high-risk MDS)
+Allogenous stem cell (bone marrow) transplant
+This is the only curative treatment option
+The patient's eligibility depends on type (for high-risk MDS) and general health; it should not depend on the age, but more on comorbidities and performance status.
+Improve
+Complications
+Complications overlap with its features, but can be life-threatening:
+Bleeding (due to thrombocytopaenia)
+Risk of life-threatening haemorrhage
+E.g. intracranial, pulmonary, gastrointestinal
+Infections (due to leukocytopaenia)
+Atypical infections
+Neutropaenic sepsis
+Progression to AML
+Any of the above are more likely to occur once the disease progresses to AML, i.e. bleeding and infection
+30% of patients with MDS progress to AML
+Groups at highest risk of transformation are MDS-EB, MDS-RS-MLD, MDS-MLD
+Also consider treatment-related complications:
+Complications of chemotherapy
+Azacitidine: fever, N+V, diarrhoea or constipation,
+fatigue
+and weakness
+Lenalidomide: leukocytopaenia, thrombocytopaenia, diarrhoea or constipation, fatigue and weakness
+Cytarabine (for patients progressed to AML): hair loss, mouth sores, loss of appetite, N+V, pancytopaenia
+Complications of allogeneic bone marrow transplant
+Early side effects: bleeding, infection, pancytopaenia
+Late side effects: graft-versus-host disease (GVHD), recurrence
+The overall recurrence rate following allogeneic transplantation is estimated to be 20-50%.
+Improve
+Prognosis
+- Median survival is about 5 years, but varies with subtype and risk group (e.g. International Prognostic Scoring System risk groups).
+30% progress to
+acute myeloid leukaemia
+(AML).
+This risk is higher with certain subtypes and findings in the bone marrow. You do not need to know the details here, again, but the principles are easy to understand.
+Presence of ringed sideroblasts = protective; in a UK-based study (Roman et al., 2016), only 5% progressed to AML.
+Presence of excess blasts (6-20% myeloblasts) = higher risk; 25% progressed to AML (Roman et al., 2016).
+Improve
+Haematology
+Myelodysplastic syndrome

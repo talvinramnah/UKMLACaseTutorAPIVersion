@@ -1,0 +1,117 @@
+Osgood-Schlatter disease
+Osgood-Schlatter disease
+Osgood-Schlatter disease
+is a common cause of
+knee pain
+in growing adolescents. It's an inflammation of the patellar ligament at the tibial tuberosity, often related to overuse or stress. The pathophysiology involves microtrauma causing inflammation and subsequent avulsion fracture of the secondary ossification centre. Clinically, patients typically present with activity-related anterior knee pain that subsides with rest, localised tenderness over the tibial tubercle, and sometimes visible swelling.
+Diagnosis is largely clinical but can be confirmed by radiographic findings such as elevation or fragmentation of the tibial tubercle. Management generally includes conservative measures like rest, ice application and non-steroidal anti-inflammatory drugs for symptomatic relief. Physiotherapy focusing on quadriceps and hamstring stretching can also be beneficial. Surgical intervention is rarely required and reserved for refractory cases.
+Last updated: 22
+nd
+July 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: more common in males 3:1
+Condition
+Relative
+incidence
+Osgood-Schlatter disease
+1
+Osteochondritis dissecans
+0.01
+Sarcomas
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Osgood-Schlatter disease presents more frequently in physically active children and teenagers, with a rate of 13% in adolescents involved in sports and 6.7% who are not.
+Osgood-Schlatter disease is most common around the age of growth spurt and can last a few years until growth spurts have stopped. Osgood-Schlatter disease can occur in both boys and girls, affecting 11% of boys and 8.3% of girls. Because growth spurts tend to occur at different ages in boys and girls, onset of Osgood-Schlatter disease is also at different ages depending on sex:
+Boys: 10-14 years old
+Girls: 8-12 years old
+As they have a greater impact on the growth plate, certain high impact sports are more likely to cause Osgood-Schlatter disease, including:
+Running
+Jumping
+Football
+Gymnastics
+Improve
+Clinical features
+Osgood-Schlatter disease refers to inflammation of the patellar ligament where it attaches to the tibial tuberosity. Osgood-Schlatter disease is an apophysitis, which means inflammation at or around the growth plate site.
+This can present in any active adolescent who engages in physical activity where the contractile strength of the quadriceps muscle exceeds the strength of the tibial tuberosity.
+Osgood-Schlatter disease presents as a painful bony prominence immediately inferior to the patella, over the tibial tuberosity.
+The
+knee pain
+tends to develop slowly, initially intermittent then becoming more severe and continuous. Pain is alleviated with rest and exacerbated during or after movement. Movements provoking pain include:
+Running
+Jumping
+Kneeling
+Climbing stairs
+Osgood-Schlatter disease is most commonly unilateral (70% of cases) but can also be bilateral (30%) though the severity in each knee can vary.
+On examination, there is point tenderness over the tibial tuberosity. The tibial tuberosity may also be hypertrophied. Resisted active straight leg raise should be painless but resisted extension of the knee from a flexed position of 90Âº will elicit pain. The quadriceps muscle will also be tighter, which may be elicited in a positive Ely's test (passive knee flexion with patient in prone position generating pain in back or legs).
+Improve
+Investigations
+The NICE Clinical Knowledge Summary recommends against use of routine X-ray to confirm diagnosis as Osgood-Schlatter disease is a clinical diagnosis made on the basis of history and examination findings. However, X-ray can be used to exclude other pathologies in the differential diagnosis, especially if there is referred hip pain to the knee. As well, if there is severe pain or swelling, X-ray can be useful to rule out malignancy. It is possible to use ultrasound as a diagnostic tool, though this is uncommon and not recommended.
+When X-ray suggests Osgood-Schlatter disease, it is important to note there is no proven relationship between severity of symptoms and severity of radiological findings. Use of ultrasound to further assess the patellar tendon is also an option, but is far less common and not recommended by NICE.
+The following radiological features may be apparent in Osgood-Schlatter disease:
+X-ray:
+Anterior soft tissue swelling
+Tibial tubercle fragmentation
+Persistent bony ossicle (rare)
+Ultrasound:
+Swelling of unossified cartilage and overlying tissues
+Ossification centre fragmentation and irregularity
+Improve
+Differential diagnosis
+- Chondromalacia patella
+Similarities:
+knee pain
+presenting in sporty teenagers, managed conservatively
+Differences: typically presents with pain on anterior or inner side of the knee
+Tibial tuberosity fracture
+Similarities: point tenderness and palpable bony abnormality (depending on healing) over tibial tuberosity
+Differences: associated with history of trauma, visible fracture on X-ray
+Sinding-Larsen-Johansson syndrome
+Similarities: inflammation of patellar tendon
+Differences: site of pain is the insertion of patellar tendon onto the inferior patellar pole
+Osteochondritis dissecans
+Similarities: activity-related knee pain with localised bony tenderness
+Differences: presents with mechanical features as knee intermittently locks and gives way. Effusion and joint crepitus present on examination
+Malignancy
+Similarities: worsening knee pain
+Differences: pain tends to be at rest and overnight. The pain is more likely to also be in other sites and there may be systemic symptoms.
+It is also important to recognise that knee pain in adolescents can be due to referred pain from the hip, as is seen in Perthes disease or slipped upper femoral epiphysis.
+Improve
+Management
+Per NICE Clinical Knowledge Summary recommendations, Osgood-Schlatter disease should be initially managed conservatively. This includes:
+Reassurance
+Advise patient that pain will eventually settle as growth spurt slows and there is no adverse progressive pathology
+Simple analgesia
+Paracetamol +/- NSAIDs
+Ice packs
+Compression using athletic tape or knee pads
+Physiotherapy and modified exercise regimes
+Stretching recommended to prevent muscle contraction and improve joint stability
+Activity modification
+Limiting the amount movement that involves strong quadriceps contraction (e.g. running or jumping)
+In most cases, patients should be encouraged to remain active but to alter the physical exercises they do
+If symptoms are persisting despite the above measures or persisting into adulthood, NICE recommends the following measures:
+Reassess patient to ensure different diagnosis not more likely
+Specialist physiotherapy
+Referral to orthopaedic surgeon, if symptoms significantly affecting quality of life
+Improve
+Prognosis
+Osgood-Schlatter disease has a good prognosis. Most symptoms are self-resolving but some may persist until the adolescent has completed their growth spurt. Symptoms should resolve as the growth spurt ends, with the full closure of the tibial growth plate.
+90% of cases of symptomatic Osgood-Schlatter disease resolve within 1-2 years with conservative management. 10% of cases persist into adulthood.
+Factors influencing symptoms persisting into adulthood include:
+Tibial tuberosity enlargement
+Unfused distal patellar tendon ossicle
+Improve
+Paediatric musculoskeletal problems
+Osgood-Schlatter disease

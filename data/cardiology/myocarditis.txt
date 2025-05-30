@@ -1,0 +1,189 @@
+Myocarditis
+Myocarditis
+Myocarditis is the inflammation of the myocardium which may arise from a variety of different pathologies. The initial inflammation may cause severe, acute cardiac failure requiring organ support and in cases of fulminant disease, patients may deteriorate and die rapidly or may require emergency heart transplantation. After the initial inflammation has settled, dilated cardiomyopathy may also arise. It tends to affect a younger patient cohort than those affected by ischaemic heart disease.
+The majority of myocarditis cases are attributed to viral infections, with other infections and some non-infectious agents culpable in the minority of cases. Giant cell myocarditis is a very rare and particularly sinister form of the pathology associated with pre-existing autoimmune disease or, in some instances, an idiosyncratic drug reaction.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Acute coronary syndrome
+10.00
+Acute pericarditis
+5.00
+Myocarditis
+1
+Aortic dissection
+0.15
+Takotsubo cardiomyopathy
+0.15
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Viral infections are the most common cause:
+Enteroviruses especially Coxsackievirus B
+Human Herpes virus 6 - identified in up to 60% of biopsied cases
+Parvovirus B-19 - identified in up to 30% of biopsied cases
+Influenza A
+HIV
+In many patients, a viral prodrome is reported, but diagnostic testing is indeterminate, thus a diagnosis of either presumptive viral myocarditis or of 'idiopathic' disease may be made.
+Bacterial/parasitic infections:
+Rheumatic
+fever
+(streptococcus A)
+Trypanosoma cruzi (Chagas disease)
+Diphtheria - the most common cause of myocarditis worldwide
+Radiation:
+Radiation to the chest can result in a range of cardiac abnormalities
+Initially radiation can cause myocarditis and/or pericarditis
+The initial inflammation may progress to myocardial or pericardial fibrosis, fibrosis-related coronary artery disease, and/or cardiac valve abnormalities.
+The American College of
+Cardiology
+notes that chemotherapeutic drugs such as anthracyclines (e.g. Doxorubicin) and trastuzumab (also known as Herceptin) may exacerbate the effects of radiation on the myocardium in addition to potentially causing myocardial damage in and of themselves.
+More rarely, other pathologies may be implicated:
+Autoimmune disorders:
+Systemic lupus erythematosus
+Sarcoidosis - most patients have evidence of sarcoid disease present in other organs.
+Giant cell myocarditis - rare, but associated with fulminant myocarditis.
+Kawasaki disease - Dionne and Dahdah found that tissue evidence of myocarditis could be found in all their patients with Kawasaki disease, but that only the minority of patients were clinically symptomatic.
+Drugs:
+Clozapine - NICE BNF recommendations suggest that patients with pre-existing cardiac disease should be carefully monitored and any patients with persistent tachycardia or with any suggestion of worsening cardiac disease should be carefully assessed.
+Pembrolizumab - monoclonal antibody used in the treatment of various malignant processes.
+Improve
+Pathophysiology
+Dependent upon the underlying disease process.
+In the case of viral myocarditis, the mechanisms proposed are:
+Direct cellular injury resulting from viral infection
+Immune response arising from the viral proteins intracellularly
+Autoantibodies may be implicated in the inflammation secondary to autoimmune disease and may be triggered by a viral infection. Mechanisms proposed include the action of tumour necrosis factor-alpha, autoreactive T cells and cytokines such as interleukin-10.
+Improve
+Clinical features
+Patients with myocarditis may present with a wide range of signs and symptoms and some patients may be asymptomatic. Presenting symptoms include:
+Chest pain
+(35%)
+Also suggests concurrent pericarditis
+Patients with concurrent pericarditis can report a diverse range of pain, though commonly they may describe central chest pain relieved by sitting forwards and worsened by deep inspiration, or alternatively may describe ischaemic sounding pain with a sensation of pressure centrally or left-sided radiating to arm and jaw.
+Systemic upset
+Fatigue (>50%)
+Fevers (20%)
+Patients may describe this as a generalised
+lethargy
+, feeling generally unwell, or may be specific.
+Shortness of breath
+May be at rest, with minimal exertion or limited to strenuous exercise.
+Reduced exercise tolerance, may be difficult to quantify, especially in patients with an unlimited tolerance at baseline. Can be under-recognised.
+Palpitations (which may indicate an underlying arrhythmia) which may be regular or irregular.
+Tachycardia may overlap with patients describing palpitations
+Collapse
+May be attributed to arrhythmias leading to low output cardiac state) typically a cardiac syncope i.e. patients describe a sudden onset collapse with no warning symptoms, may be described as dropping to the ground.
+A collateral history can be invaluable in these circumstances.
+Patients may also describe preceding dizziness and/or palpitations, which may indicate an underlying arrhythmia causing the collapse.
+Sudden death
+8.6% of sudden cardiac death cases are attributed to previously undiagnosed myocarditis which may result from arrhythmias.
+Patients may have had symptoms preceding death, although as discussed, these symptoms may have been non-specific and as a result, patients may not have sought medical attention or may have sought medical attention and the condition, due to its insidious nature and non-specific symptoms, especially in the context of younger patients, may not have been recognised.
+The is often a history of a recent preceding viral infection, which may be upper respiratory or gastrointestinal.
+On examination, patients may have signs of heart failure e.g. evidence of fluid overload - a raised jugular venous pressure, pulmonary oedema and peripheral oedema. On auscultation of the heart, a pericardial friction rub may be heard in patients with concurrent pericarditis and a pansystolic murmur may be present in patients with functional mitral regurgitation. Patients may also be asymptomatic, but with ECG changes.
+Improve
+Investigations
+Bedside testing:
+Electrocardiography - may demonstrate:
+ST-segment elevation/depression
+T-wave inversion
+Atrial arrhythmias
+Transient atrioventricular (AV) block
+Respiratory viral screening with a nasopharyngeal aspirate
+Urine dip for blood and protein
+Blood tests- basic considerations:
+Full blood count (may show raised white cell count, suggesting infection/inflammation)
+Erythrocyte sedimentation rate (can be raised, suggesting inflammation)
+C-reactive protein (may show raised white cell count, suggesting infection/inflammation)
+Cardiac enzyme levels e.g. creatine kinase and troponin (likely raised, showing insult to cardiac muscle)
+Blood test - ruling out autoimmune diseases as an underlying cause:
+Anti-nuclear antibodies (if positive, may suggest an underlying autoimmune aetiology)
+Rheumatoid factor (if positive, may suggest rheumatoid arthritis)
+Serum ACE (if positive, may suggest sarcoidosis)
+Ds-DNA (if positive, may suggest systemic lupus erythematosus )
+Blood tests - assessing for an underlying infectious cause:
+Viral screening: coxsackievirus group B, human immunodeficiency virus (HIV), cytomegalovirus, Ebstein-Barr virus, hepatitis A, B, C
+Imaging:
+Echocardiogram
+Important to exclude any other pathologies which may be causing the symptoms.
+Should evaluate the level of cardiac muscle function including ejection fraction.
+Can be used to evaluate whether the damage is generalised, or whether there are any regional wall motion abnormalities.
+Confirm whether there is any evidence of pericardial effusion and if present, whether this is causing any degree of cardiac tamponade, which may suggest the effusion should be drained.
+Certain parameters (the left ventricular diastolic measurements and the septal thickness) may be used to differentiate between fulminant and acute myocarditis.
+Also useful to monitor changes in the cardiac muscle which may suggest improvement or deterioration.
+Cardiac MRI - clinically useful to identify acute myocarditis vs. infarction.
+In some cases, an endomyocardial biopsy may be considered, however, this is often only performed in the event the patient is not responding to treatment and/or no underlying cause of the
+acute heart failure
+can be found by alternate means.
+Improve
+Differential diagnosis
+- Myocardial ischaemia secondary to vasospasm or infarction
+Both may present with
+chest pain
+accompanied by raised cardiac enzymes, assessment of risk factors for
+myocardial infarction
+or vasospasm may aid differentiation.
+Aortic dissection
+Both may present with chest pain, however, dissection patients characteristically describe a tearing chest pain radiating to the back, as opposed to the more generalised pain typically described in myopericarditis. A CT Aortogram should be performed as soon as possible in patients where dissection is considered to be a possible differential.
+Sudden cardiac death of another cause e.g. long QT syndrome
+Generally, there is a family history of sudden cardiac death, however, in de novo cases a post mortem may be required to differentiate.
+Cardiomyopathy
+Myocarditis can cause a dilated cardiomyopathy in its later phases, therefore the cardiomyopathy can be consequent to acute inflammation but a cardiac MRI can aid differentiation between cardiomyopathy as a primary diagnosis or secondary process.
+Pericarditis
+Inflammation of the pericardium as opposed to the myocardium usually presents with chest pain, typically described as dull, central and relieved by sitting forwards. Myocarditis may be accompanied by pericarditis and pericarditis patients can also develop pericardial effusions and consequent tamponade, causing symptoms resembling acute cardiac failure, however, pericarditis patients should not exhibit the raised cardiac enzymes found in myocarditis patients and echocardiogram should demonstrate clear differentiation between pericarditis and myocarditis with associated pericarditis.
+Takotsubo cardiomyopathy
+, also known as broken heart syndrome, may also be considered in the differential for myocarditis. It is characterised by severe abnormalities leading to regional hypokinesis of the anteroapical and inferoapical myocardium identified on echocardiogram.
+Improve
+Management
+The mainstay of myocarditis treatment is supportive management. Given that most myocarditis cases are attributed to viral illnesses, there is often no treatment to target the underlying cause per se.
+Principles of management:
+Oxygen where required.
+Monitoring for and control of any underlying arrhythmias.
+Fluid balance management.
+Treat underlying cause if any identified.
+Early escalation to specialist intensive care physicians
+Organ support as required.
+Given the propensity for patients to deteriorate rapidly, it is recommended that patients are discussed with a cardiac intensive care unit with a view to escalating early should they develop any signs suggestive of cardiac shock. Patients with cardiac shock or symptomatic hypotension may need vasopressors/inotropes or mechanical cardiac support.
+In patients with suspected giant cell myocarditis, steroids are recommended and have been shown to improve survival.
+1
+Steroid therapy is otherwise somewhat controversial.
+Anti-coagulation may be considered in patients with evidence of arrhythmias, depending upon the patient's individual risk factors.
+Data suggests that most patients experience mild symptoms and recover without the requirement of level 2/3 care. Current recommendations suggest that patients recovering from myocarditis should be advised to avoid strenuous exercise and may benefit from usual heart failure management with pharmacotherapy including ACE inhibitors, beta-blockers and aldosterone antagonists to treat symptoms of heart failure. In addition, serial echocardiograms may be appropriate to assess myocardial recovery.
+4
+Improve
+Complications
+Complications in myocarditis result from damage to the cardiac muscle, which may be seen both acutely and chronically.
+Short term complications:
+Cardiogenic shock
+Myocardial dysfunction leading to insufficient cardiac output and organ hypoperfusion. Patients with any evidence of cardiogenic shock should be discussed with a specialist unit at the earliest possible opportunity and cardiac support with inotropes such as dobutamine, vasopressors such as milrinone or with mechanical support such as a ventricular assist device, should be considered with specialist advice. In patients refractory to chemical or mechanical cardiac support, extracorporeal membrane oxygenation (ECMO) with a view to consideration of heart transplantation may be appropriate.
+Cardiac arrhythmias
+Patients should be monitored for arrhythmias using cardiac monitoring, as arrhythmias are a significant cause of morbidity and mortality in myocarditis. Patients should also be asked about any symptoms of arrhythmias e.g. pre-syncope, syncope, dizziness, unexplained shortness of breath and/or palpitations.
+Sudden death
+Although most patients have mild symptoms of myocarditis and recover with supportive management, myocarditis is nevertheless a condition with may progress to rapid cardiac dysfunction causing arrhythmias and death. As mentioned previously, patients may also present as a case of sudden death, with myocarditis only being identified post mortem.
+Medium to long term complications:
+Dilated cardiomyopathy
+Although most patients with myocarditis recover without long term morbidity, Tschope et al found that up to 20% of patients may develop dilated cardiomyopathy post myocarditis. Such patients may describe persistent symptoms of
+fatigue
+, shortness of breath, which may be worse on exertion, with possible orthopnoea and/o paroxysmal nocturnal
+dyspnoea
+. Echocardiogram demonstrates a dilated left (and often right) ventricle(s) with dysfunctional contractility. Patients may be managed symptomatically and workup should include cardiac MRI (magnetic resonance imaging). Depending upon the patient background, referral for cardiac resynchronisation therapy (including implanted permanent pacemaker), ventricular assist device and assessment for heart transplantation should be considered.
+Heart failure
+Peripheral and pulmonary oedema may be managed using medical therapy and fluid management. Patients are typically started on an angiotensin-converting enzyme inhibitor and beta-blocker, with the option to add an aldosterone antagonist if the patients' blood pressure allows and there are no contraindications to any of the listed medications. This regime has been shown to improve prognosis in patients with cardiac failure, especially those with evidence of left ventricular dysfunction. Diuretics such as furosemide may be added to improve patient symptoms almost immediately following administration. A no added salt diet is also recommended.
+Improve
+Cardiology
+Myocarditis

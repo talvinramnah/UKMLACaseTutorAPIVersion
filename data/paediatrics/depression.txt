@@ -1,0 +1,235 @@
+Depression
+Depression
+Depression
+is a common mental health disorder that affects millions of people worldwide. It is characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that were once enjoyable. Depression can also cause physical symptoms such as
+fatigue
+, changes in appetite, and sleep disturbances.
+There are several types of depression, including major depressive disorder, persistent depressive disorder, and seasonal affective disorder. The causes of depression are complex and can include genetic, environmental, and psychological factors.
+Diagnosis of depression involves a thorough evaluation of the patient's symptoms, medical history, and family history. Treatment options for depression include psychotherapy, medication, or a combination of both. It is important for doctors to monitor patients closely during treatment to ensure that they are responding appropriately and to adjust treatment plans as needed.
+Last updated: 9
+th
+May 2024
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Depression
+is a multifactorial disorder with complex and interacting aetiological factors. Understanding these risk factors is essential for both prevention and management strategies.
+Biological Factors
+Genetic predisposition
+plays a significant role in vulnerability to depression.
+First-degree relatives of individuals with major depressive disorder have a 2-3 fold increased risk of developing depression.
+Twin studies suggest heritability estimates of 37-58%, indicating moderate genetic influence.
+Polygenic inheritance pattern is most likely, with multiple genes of small effect rather than a single causative gene.
+Neurobiological abnormalities
+are implicated in the aetiology of depression.
+Monoamine dysregulation, particularly involving serotonin, noradrenaline, and dopamine neurotransmitter systems.
+Hypothalamic-pituitary-adrenal (HPA) axis dysfunction with cortisol hypersecretion.
+Structural and functional neuroimaging studies show alterations in prefrontal cortex, hippocampus, and amygdala.
+Reduced neuroplasticity and neurogenesis, particularly in the hippocampus.
+Medical comorbidities
+significantly increase depression risk.
+Chronic physical health conditions increase risk 2-3 fold, including cardiovascular disease, diabetes, and chronic pain.
+Neurological conditions such as Parkinson's disease, multiple sclerosis, and stroke confer particularly high risk.
+Endocrine disorders, particularly thyroid dysfunction and Cushing's syndrome.
+Psychosocial Factors
+Adverse life events
+are potent triggers for depressive episodes.
+Childhood adversity including abuse, neglect, and parental loss increases lifetime risk.
+Recent significant life events (e.g., bereavement, relationship breakdown, job loss) often precede onset.
+Chronic stressors and ongoing difficulties have a cumulative effect on depression risk.
+Social determinants
+contribute substantially to depression risk.
+Socioeconomic disadvantage, including poverty, unemployment, and housing insecurity.
+Social isolation and lack of supportive relationships.
+NICE guidelines (2022)
+recognise that
+"social factors such as isolation, poverty, poor housing, unemployment and social stigma"
+contribute to depression risk.
+Psychological vulnerability factors
+influence susceptibility to depression.
+Cognitive styles characterised by negative thinking patterns, rumination, and pessimistic attributional style.
+Personality traits, particularly neuroticism and introversion.
+Poor coping strategies and limited psychological resilience.
+Environmental Factors
+Substance use
+can both cause and exacerbate depression.
+Alcohol and drug misuse have bidirectional relationships with depression.
+Certain medications can induce depressive symptoms (e.g., corticosteroids, beta-blockers, interferon).
+Seasonal factors
+influence depression risk in susceptible individuals.
+Seasonal affective disorder (SAD) with onset typically in autumn/winter months.
+Reduced exposure to natural light affecting circadian rhythms and melatonin regulation.
+Perinatal factors
+confer specific risk for depression in women.
+Hormonal fluctuations during pregnancy and postpartum period.
+Psychosocial stressors associated with transition to parenthood.
+Previous history of depression or
+anxiety
+increases risk of perinatal depression.
+The aetiology of depression is best understood through a biopsychosocial model, where multiple risk factors interact to determine an individual's vulnerability. This understanding informs both preventative approaches and personalised treatment strategies.
+Improve
+Clinical features
+The stereotypical presentation of
+depression
+often involves a constellation of symptoms that significantly impair social, occupational, or other important areas of functioning. The most salient features include persistent low mood, anhedonia (loss of interest or pleasure), and diminished energy or increased
+fatigue
+.
+Persistent low mood
+is characterised by feelings of sadness, emptiness, or hopelessness for the majority of the day, nearly every day. This may be observed by others as tearfulness or apparent unhappiness.
+Anhedonia
+, or the loss of interest or pleasure in almost all activities once enjoyed, is another key feature. Individuals may show noticeably diminished interest in hobbies, social interactions, sexual activity and other sources of potential enjoyment.
+Another common symptom is
+decreased energy levels
+or
+increased fatigue
+. Individuals may report feeling physically drained even after minimal exertion and this can be accompanied by a sense of sluggishness in thought and physical movements.
+Beyond these hallmark symptoms, depression can manifest with a range of additional features:
+Cognitive changes:
+Difficulties in concentration and decision-making are frequently reported. Patients may also exhibit negative patterns of thinking such as excessive guilt or feelings of worthlessness.
+Sleep disturbances:
+Insomnia
+(difficulty falling asleep or maintaining sleep) or hypersomnia (excessive sleeping) are commonly associated with depression.
+Appetite changes:
+Significant
+weight loss
+when not dieting,
+weight gain
+,
+decreased appetite
+particularly in younger patients; increased appetite especially among those with atypical depression.
+Psychomotor agitation/retardation:
+Observable restlessness such as pacing up and down the room; alternatively there could be a significant slowing down of thought and reduction of physical movement.
+Suicidal ideation:
+Recurrent thoughts of death, suicidal ideation or attempts are serious features that require immediate attention.
+It is important to note that the presentation of depression can be influenced by age, gender, cultural background and comorbid conditions. For instance, older adults may present more with
+cognitive impairment
+and less with affective symptoms; somatic complaints are more common in non-western cultures; individuals with comorbid
+anxiety
+disorders could have heightened agitation.
+The diagnosis requires the presence of at least five symptoms from the above list over a two-week period, with at least one symptom being either depressed mood or loss of interest/pleasure. Symptoms should cause clinically significant distress or impairment in social, occupational or other important areas of functioning. Additionally, these disturbances are not attributable to physiological effects of a substance or another medical condition.
+Improve
+Diagnosis
+The DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition) provides criteria for diagnosing major depressive disorder (MDD), commonly referred to as
+depression
+.
+Major Depressive Disorder (MDD) DSM-5 Criteria:
+Five (or more) of the following symptoms have been present during the same 2-week period and represent a change from previous functioning; at least one of the symptoms is either (1) depressed mood or (2) loss of interest or pleasure.
+Depressed mood most of the day, nearly every day, as indicated by either subjective report (e.g., feels sad, empty, hopeless) or observation made by others (e.g., appears tearful). (Note: In children and adolescents, can be irritable mood.)
+Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day (as indicated by either subjective account or observation).
+Significant
+weight loss
+when not dieting or
+weight gain
+(e.g., a change of more than 5% of body weight in a month), or decrease or increase in appetite nearly every day. (Note: In children, consider failure to make expected weight gain.)
+Insomnia
+or hypersomnia nearly every day.
+Psychomotor agitation or retardation nearly every day (observable by others, not merely subjective feelings of restlessness or being slowed down).
+Fatigue
+or loss of energy nearly every day.
+Feelings of worthlessness or excessive or inappropriate guilt (which may be delusional) nearly every day (not merely self-reproach or guilt about being sick).
+Diminished ability to think or concentrate, or indecisiveness, nearly every day (either by subjective account or as observed by others).
+Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+The following must also apply:
+The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+The episode is not attributable to the physiological effects of a substance or to another medical condition.
+The occurrence of the major depressive episode is not better explained by schizoaffective disorder, schizophrenia, schizophreniform disorder, delusional disorder, or other specified and unspecified schizophrenia spectrum and other psychotic disorders.
+There has never been a manic episode or a hypomanic episode. (This exclusion does not apply if all of the manic-like or hypomanic-like episodes are substance-induced or are attributable to the physiological effects of another medical condition.)
+Improve
+Differential diagnosis
+The differential diagnosis of
+depression
+includes a variety of psychiatric and medical conditions, as well as considerations of normal psychological reactions, substance-induced mood disorders, and medication side effects.
+Psychiatric Conditions
+Bipolar Disorder: Characterised by episodes of mania and depression. Key to distinguish because treatment with antidepressants alone can precipitate a manic episode.
+Dysthymia (Persistent Depressive Disorder): Chronic, less severe mood disturbance where the patient might not feel as severely impaired but suffers from long-standing symptoms of depression.
+Adjustment Disorder with Depressed Mood: Depressive symptoms in response to a significant life change or stressor, generally resolving within a few months after the stressor or its consequences have ceased.
+Anxiety
+Disorders: Often coexist with depression. Symptoms of excessive worry, fear, or panic can overlap, and distinguishing primary anxiety from secondary depressive symptoms is crucial for appropriate treatment.
+Medical Conditions
+Thyroid Disorders: Hypothyroidism, in particular, can mimic depressive symptoms such as
+fatigue
+,
+weight gain
+, and mood changes.
+Neurological Disorders: Conditions such as Parkinson's disease and multiple sclerosis may have depressive symptoms as a feature of the disease or as a reaction to the diagnosis.
+Chronic Pain Syndromes: Depression can be both a cause and a consequence of chronic pain, complicating the clinical picture.
+Nutritional Deficiencies: Particularly deficiencies in vitamin B12, folate, and vitamin D can present with depressive symptoms.
+Endocrine Disorders: Such as Cushing's syndrome or Addison's disease, which affect hormone levels and can lead to mood disturbances.
+Substance-Induced Mood Disorders
+Alcohol and Drugs: Substance abuse can result in depressive symptoms during intoxication or withdrawal. A careful history of substance use is essential.
+Medication-Induced Depression: Various medications, including beta-blockers, corticosteroids, and isotretinoin, can induce symptoms of depression.
+Improve
+Management
+NICE updated its
+depression
+guidelines in 2022. It now favours a simple classification of depression severity
+'less severe' depression: encompasses what was previously termed subthreshold and mild depression
+a PHQ-9 score of < 16
+'more severe' depression: encompasses what was previously termed moderate and severe depression
+a PHQ-9 score of  ≥ 16
+The NICE guidelines are long and contain many important principles about dealing with patients who have depression. The following is a very brief section highlighting key points.
+Management of less severe depression
+NICE lists a large number of interventions that may be used first-line. It encourages us to discuss treatment options with patients to reach a shared decision. They recommend considering
+'the least intrusive and least resource intensive treatment first'
+. It also recommends not routinely offering
+'
+antidepressant medication as first-line treatment for less severe depression, unless that is the person's preference
+'.
+Treatment options, listed in order of preference by NICE
+guided self-help
+group cognitive behavioural therapy (CBT)
+group behavioural activation (BA)
+individual CBT
+individual BA
+group exercise
+group mindfulness and meditation
+interpersonal psychotherapy (IPT)
+selective serotonin reuptake inhibitors
+(SSRIs)
+counselling
+short-term psychodynamic psychotherapy (STPP)
+Management of more severe depression
+Again, NICE recommend a shared decision should be made.
+Treatment options, listed in order of preference by NICE
+a combination of individual cognitive behavioural therapy (CBT) and an antidepressant
+individual CBT
+individual behavioural activation (BA)
+antidepressant medication
+selective serotonin reuptake inhibitor (SSRI), or
+serotonin-norepinephrine reuptake inhibitor (
+SNRI
+), or
+another antidepressant if indicated based on previous clinical and treatment history
+individual problem-solving
+counselling
+short-term psychodynamic psychotherapy (STPP)
+interpersonal psychotherapy (IPT)
+guided self-help
+group exercise
+Improve
+Screening and prevention
+Screening
+The following two questions can be used to screen for
+depression
+'During the last month, have you often been bothered by feeling down, depressed or hopeless?'
+'During the last month, have you often been bothered by having little interest or pleasure in doing things?'
+A 'yes' answer to either of the above should prompt a more in depth assessment.
+Improve
+References
+NICE - 2022 Depression in adults: treatment and management
+Clinical Knowledge Summaries - Switching antidepressants guidelines
+Patient.info - PHQ 9 form
+Paediatric mental health
+Depression

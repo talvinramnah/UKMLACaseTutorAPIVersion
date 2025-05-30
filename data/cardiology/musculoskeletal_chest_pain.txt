@@ -1,0 +1,255 @@
+Musculoskeletal chest pain
+Musculoskeletal chest pain
+Musculoskeletal chest pain is one of the most common causes of non-cardiac chest pain. It comprises a significant proportion of primary care attendances for chest pain and constitutes a significant number of Emergency Department attendances for the same complaint.
+It has a number of aetiologies including costochondritis, chest trauma and rib fractures, chest muscle pain, and radiculopathies.
+Typically, it is characterised by a sharp-type chest pain which is worsened by movement or inspiration. Pain may also be elicited on palpation.
+Most causes are benign, but it is crucial to rule out more serious causes (such as
+acute coronary syndrome
+, pulmonary embolism, pneumothorax, etc.) as they can present very similarly but be fatal if missed.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Gastro-oesophageal reflux disease
+5.00
+Musculoskeletal chest pain
+1
+Pneumonia
+0.50
+Acute coronary syndrome
+0.20
+Acute pericarditis
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Musculoskeletal chest pain has a number of different causes:
+Costochondritis
+Lower rib pain syndromes
+Rib fractures/chest trauma
+Fibromyalgia
+Primary or secondary bone metastases in the rib
+Inflammatory arthritides - generally there will be other joint involvement
+Tietze syndrome
+Spinal disorders (disc prolapse, cervical spondylosis, facet joint dysfunction)
+Improve
+Pathophysiology
+The pathophysiology of musculoskeletal chest pain varies depending on the underlying cause.
+Rib fractures
+The chest wall consists of 24 ribs - any one of these ribs can be fractured.
+The chest wall has a large nerve supply and the movement of the ribs (and fracture) with inspiration increases this pain.
+Costochondritis and Tietze Syndrome
+The ribs articulate with costal cartilage at the costochondral joints
+These joints become inflamed in costochondritis causing pain.
+Tietze syndrome is caused by painful swelling of these articulations.
+Lower rib pain syndrome
+The pathophysiology is not well understood
+It may arise from disruption of the interchondral fibrous attachments of the anterior ribs
+This allows intermittent subluxation of the costal cartilage and impingement and irritation of intercostal nerves.
+Spinal disorders causing chest pain
+The chest wall and surrounding skin and musculature are supplied by nerve roots from both cervical and thoracic vertebrae.
+In the case of some spinal disorders, impingement or damage to these nerves can present with chest pain.
+Improve
+Clinical features
+Overview
+Musculoskeletal chest pain is frequently sharp and often nagging. Often, the pain is localized but can radiate. Pain is generally worsened by movement, changes in position, and deep inspiration.
+The following suggest the underlying cause for chest pain is not musculoskeletal:
+Central crushing chest pain and tearing chest pain (these may be red flags for cardiac ischaemia and aortic dissection)
+Dyspnoea
+Fever
+Diaphoresis
+Syncope and collapse
+Costochondritis
+Chest pain in costochondritis is typically sharp and worse on inspiration and movement.
+The patient may have a recent history of cough, vomiting, over-exercising, or similar.
+There is generally localised tenderness to palpation.
+This is commonly in multiple areas.
+Most frequently in the upper costal cartilages.
+The pain may be chronic (~50% of patients with costochondritis still have pain 6-12months after symptom onset).
+Lower rib pain syndrome
+Lower rib pain syndrome generally causes lower chest pain/upper abdominal pain with an identifiably tender spot on the costal margin.
+Pain may be reproduced during examination by pressing on this spot.
+Pain is also reproduced using the 'hooking manoeuvre'
+Hooking manoeuvre
+= the examine hooks fingers under the patient's ribs and pulls gently forward.
+It may be difficult to perform the manoeuvre in patient with this syndrome due to exquisite sensitivity in the subcostal margins
+Rib fractures
+Traumatic fractures:
+History of trauma to the ribs.
+This may be severe trauma, minor to moderate (generally blunt) trauma, or repetitive minor trauma (stress fractures).
+There is usually tenderness over the affected rib(s), and potentially bruising.
+The pain may be elicited by deep inspiration and movement.
+Bony crepitus may be present.
+Stress fractures
+In stress fractures the pain is typically gradual onset
+Pain is typically related to activity.
+Fibromyalgia
+Chest pain in fibromyalgia is typically sharp and worse on inspiration and movement.
+There is often tenderness to palpation.
+Most commonly of the second anterior costochondral junctions.
+Typically affecting more than one rib.
+Other symptoms of fibromyalgia typically present (e.g. pain in other areas, symptoms of depression and anxiety, cognitive impairment, etc.).
+Primary/secondary bone cancer in the ribs
+Often a dull, aching pain that is frequently worse at night.
+May be poorly localised.
+Inflammatory arthritides
+Chest pain may present like costochondritis.
+Ankylosing spondylitis in particular can cause chest wall pain.
+Tietze's syndrome
+Pain in Tietze's syndrome is typically sharp and worse on inspiration and movement.
+The patient may have a recent history of cough, vomiting, over-exercising, or similar.
+There is fusiform swelling of the costal cartilage at the costochondral junction that is tender on palpation.
+This is typically unilateral.
+It commonly only affects a single joint.
+Spinal disorders
+Spinal disorders tend to cause dull aching chest pain which is typically aggravated by specific neck movements.
+Pain may also radiate down the arm, into the head, or into the shoulder or across scapulae (non-segmental distribution).
+Patient may have pain in the spine and may have paraesthesia.
+Improve
+Investigations
+Overview
+For most causes of musculoskeletal chest pain, there are no definitive investigations. Diagnosis often relies on clinical examination and ruling out of other causes (cardiac, pulmonary and abdominal).
+Bedside
+ECG is a particularly useful bedside test. It helps to rule out some cardiac causes of chest pain, particularly
+STEMI
+.
+Other pathologies that may be visualised on an ECG include:
+Pericarditis
+Heart failure
+Arrhythmias
+It is important to note that pulmonary embolism may or may not have ECG changes, and a clean ECG does not rule out other
+acute coronary syndromes
+(
+NSTEMI
+or angina).
+Bloods
+Bloods are predominantly used to rule out non-musculoskeletal causes of chest pain.
+Examples of bloods that may be useful to perform include:
+'Rule out' bloods (e.g. troponin and D-dimer) - may be appropriate if there is reasonable suspicion of MI or pulmonary embolism
+CRP/ESR - while non-specific, they may show evidence of inflammation or infection which may aid diagnosis
+Other bloods are typically most appropriate in older patients or patients with other symptoms that may suggest an underlying visceral cause to chest pain. These include:
+Full blood count (FBC)
+Urea & electrolytes/liver function tests
+Bone profile
+Thyroid function tests
+Blood glucose and lipid profile
+Imaging
+Most imaging is not recommended routinely for musculoskeletal pain however, the following may be appropriate in some cases.
+Chest x-ray is the predominant and, generally, first-line method of imaging used in patients with chest pain. It is particularly used in the context of the Emergency Department.
+Chest x-ray can:
+Help to rule out some respiratory and cardiac causes.
+Visualise rib fractures
+Visualise tumours of the ribs.
+It is important to note that, while chest x-ray is a useful investigation, rib tumours and fractures are not always visible on this medium and may require further imaging if a confirmed diagnosis is required.
+Other forms of imaging that may be helpful but are usually second-line, include:
+CT/MRI
+May be used to rule out pulmonary or pleural based diagnoses.
+May be useful in characterising lesions of the sternoclavicular joints, sternum, soft tissue and spine.
+In the case of major trauma where the patient is haemodynamically stable and without severe respiratory compromise, CT is may be used as the primary investigation for assessing thoracic injury.
+Ultrasound
+May be useful for evaluating rheumatoid arthritis.
+Dynamic ultrasound of the ribs may be valuable for diagnosis of the lower rib pain syndrome.
+Bone scintigraphy
+May be used to visualise skeletal metastasis, occult fractures, Paget disease, and bone infection
+Improve
+Differential diagnosis
+Cardiac causes
+Angina
+Similarities: Pain may be associated with physical exertion.
+Differences: Chest pain is typically central and crushing - may radiate to the arm(s) or jaw. May also occur after eating large meals, with emotional distress, or with extremes in temperature.
+Myocardial infarction
+(MI)
+Similarities: Chest pain
+Differences: Patient will typically have other symptoms such as dyspnoea, nausea, vomiting, diaphoresis or pallor, and may be haemodynamically unstable. ECG changes usually present depending on type.
+Arrhythmias
+Differences: Chest pain may be accompanied by palpitations, dyspnoea and lightheadedness. Patient may be haemodynamically unstable.
+Pericarditis
+Similarities: Chest pain may be sharp and worsen on inspiration. It may be positionally worse - particularly if lying flat.
+Differences: Pain 'typically' improves when patient sits forward, the patient may be generally unwell. There may be ECG changes (wide-spread saddle-shaped ST elevation and PR depression are characteristic)
+Thoracic aortic aneurysm (rupture)
+Similarities: Chest pain
+Differences: Chest pain typically described as 'tearing', often with radiation to the back. The patient is typically hypotensive and shocked. Mortality rate is high.
+Pulmonary causes
+Pneumonia
+Similarities: Chest pain that may be sharp, often worse on inspiration
+Differences: Patient generally unwell. Other symptoms include dyspnoea, fever, chills/rigors, cough +/- sputum. Patient may have crackles, bronchial breathing and reduced breath sounds (etc.) on auscultation. Oxygen saturations may be decreased.
+Pleural effusion
+Similarities: Chest pain that may be sharp, often worse on inspiration
+Differences: Often patients will have a cough and have dyspnoea (particularly of exertion). Examination may show dullness to percussion. Oxygen saturation may be decreased.
+Pulmonary embolism
+Similarities: Chest pain that may be sharp, often worse on inspiration
+Differences: Pain often accompanied by dyspnoea, tachypnoea, and sometimes haemoptysis, cyanosis, circulatory instability and collapse. Oxygen saturations may be decreased.
+Lung malignancy
+Similarities: Chest pain
+Differences: Patients often have associated symptoms such as cough, dyspnoea, haemoptysis, weight loss, fatigue, fever, and sometimes finger clubbing
+Pneumothorax (tension pneumothorax)
+Similarities: Chest pain that may be sharp, often worse on inspiration
+Differences: Patient will often have dyspnoea. In tension pneumothorax, the patient is often collapsed, will be severely dyspnoeic, and may have tracheal deviation. On examination, there may be hyper-resonance to percussion of the affected side, and diminished breath sounds and absent vocal fremitus on auscultation. Oxygen saturations may be low.
+Other causes
+Psychogenic or non-specific pain, anxiety
+Similarities: Chest pain
+Differences: Patient may feel anxious, may feel breathless, have palpitations, or other symptoms of anxiety.
+Precordial catch - generally older children and young adults
+Similarities: Chest pain - usually sharp and worse with breathing
+Differences: Episodes typically no more than a few minutes with no pain between episodes. Pain is usually relieved by a deep breath or by straightening posture. Examination is normal.
+Bornholm disease
+Similarities: Chest pain - generally sharp and worse on inspiration and movement
+Differences: May have other symptoms of coxsackievirus, particularly fever, chest pain is paroxysmal.
+Improve
+Management
+Overview
+NICE guidelines on chest pain suggest the mainstay of management of musculoskeletal chest pain is ensuring adequate analgesia.
+Non-steroidal anti-inflammatories (NSAIDs) and paracetamol are usually first-line as analgesia.
+Specific management for differential causes are mentioned below:
+Costochondritis and Tietze syndrome
+The
+BMJ Best Practice
+guidelines for costochondritis suggest the following management:
+Oral NSAIDs are first line.
+Local injection of long-acting corticosteroids may be used - typically this is performed by a specialist.
+For refractive symptoms referral to a rheumatologist should be considered.
+If costochondritis is infective then the patient requires surgical drainage/debridement and antibiotics.
+Rib fractures
+The
+BMJ Best Practice
+guidelines for rib fractures suggest the following management:
+Rib fractures also are managed with NSAIDs and other analgesics (including morphine) as required.
+Patients also benefit from physiotherapy exercises and breathing techniques to prevent infections secondary to shallow breathing and inadequate cough due to pain.
+Complications of rib fractures must be managed appropriately with correct referral (e.g. pneumothorax/haemothoraxes should be decompressed/drained appropriately).
+Lower rib pain syndrome
+One article published in the
+British Journal of Urology
+, stated the following to be appropriate treatment options:
+NSAIDs
+Physiotherapy
+Local anaesthetic and Local long-acting steroids
+Intercostal nerve blocks
+Surgical resection (rib excision)
+Another study from the
+Clinical Journal of Sport Medicine
+investigating patients with lower rib pain syndrome over 15 years, determined that osteopathic manipulative treatment, surgical resection and diclofenac gel were the most successful treatment options overall.
+Primary/secondary bone cancer in the ribs
+The following guidelines are taken from the NICE guidelines for palliative cancer care (managing bone pain), they recommend:
+For symptomatic relief (bone pain), NICE recommends hot/cold packs, stepwise analgaesia with appropriate breakthrough pain relief.
+If pain management is difficult, referral should be made to pain specialists in secondary care.
+Management of the metastatic bone disease or primary bone cancer itself should be under an oncologist.
+Radiotherapy may be an appropriate treatment.
+Inflammatory arthritides
+Management predominantly consists of managing the underlying disease and appropriate analgaesia.
+Improve
+Cardiology
+Musculoskeletal chest pain

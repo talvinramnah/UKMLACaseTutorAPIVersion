@@ -1,0 +1,156 @@
+Anal cancer
+Anal cancer
+Anal
+cancer
+is a rare malignancy, originating from the squamous cells lining the anal canal. Aetiological factors include human papillomavirus (HPV) infection, immunosuppression, and chronic inflammatory conditions such as anal fistulas and Crohn's disease. Patients often present with non-specific symptoms including
+rectal bleeding
+,
+anal pain
+or discomfort, pruritus ani or changes in bowel habits.
+The diagnosis typically involves digital rectal examination (DRE), proctoscopy and biopsy for histopathological confirmation. High-resolution anoscopy can be used to visualise
+in situ
+lesions. Staging investigations comprise of computed tomography (CT), magnetic resonance imaging (MRI) and positron emission tomography (PET).
+Treatment options are based on the stage of the disease at presentation. Early-stage disease may be managed with chemoradiotherapy, whereas advanced cases may necessitate abdominoperineal resection. HPV vaccination has been shown to reduce the incidence of this pathology.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 2.50 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+HPV infection causes 80-85% of SSCs of the anus (usually HPV16 or HPV18 subtypes).
+Anal intercourse and a high lifetime number of sexual partners increases the risk of HPV infection.
+Men who have sex with men have a higher risk of anal
+cancer
+.
+Those with HIV and those taking immunosuppressive medication for HIV are at a greater risk of anal carcinoma.
+Women with a history of cervical cancer or cervical intraepithelial neoplasia (CIN) are also at greater risk of anal cancer.
+Immunosuppressive drugs used in transplant recipients increase the risk of anal cancer.
+Smoking is also a risk factor.
+Improve
+Pathophysiology
+The pathophysiology of anal
+cancer
+commences at a cellular level, wherein the normal squamous cells lining the anal canal undergo transformation into abnormal cells. This alteration is typically initiated by persistent infection with high-risk human papillomavirus (HPV) types, notably HPV-16 and HPV-18.
+Human papillomavirus
+integrates its DNA into the host genome, leading to overexpression of viral oncoproteins E6 and E7. These oncoproteins inhibit tumour suppressor proteins p53 and retinoblastoma (Rb), respectively. The inhibition of p53 prevents apoptosis while Rb inactivation leads to uncontrolled cellular proliferation.
+This unchecked proliferation and survival of abnormal squamous cells gives rise to a pre-cancerous condition known as anal intraepithelial neoplasia (AIN). AIN can be graded I-III based on the extent of dysplasia observed histologically, with AIN III being most severe.
+AIN I:
+Mild dysplasia confined to the basal third layer of epithelium.
+AIN II:
+Moderate dysplasia extending up to two-thirds of the epithelium.
+AIN III:
+Severe dysplasia involving more than two-thirds but not full thickness of epithelium; also known as carcinoma in situ.
+If left untreated or undetected, AIN III may progress to invasive anal cancer. Invasive cancer breaches the basement membrane, enabling malignant cells to infiltrate deeper tissues and potentially metastasise via lymphatic or hematogenous routes. The most common sites for distant metastasis are liver, lung and bone.
+The clinical manifestations of anal cancer are largely a result of local tumour growth and invasion. These include
+rectal bleeding
+,
+anal pain
+or discomfort, pruritus ani and changes in bowel habits. In advanced cases, symptoms may reflect locoregional spread or distant metastasis.
+Immunologically, chronic inflammation due to persistent HPV infection can contribute to carcinogenesis by promoting a pro-tumour microenvironment. This is characterised by an abundance of inflammatory cells and cytokines that enhance cell proliferation, survival and angiogenesis while inhibiting apoptosis.
+Lastly, it is essential to note the role of host immune response in controlling HPV infection and subsequent neoplastic progression. A deficient immune response allows for persistent viral infection and increased risk of malignant transformation.
+Improve
+Clinical features
+Patients typically present with a subacute onset of:
+Perianal pain
+, perianal bleeding
+A palpable lesion
+Faecal incontinence
+A neglected tumour in a female may present with a rectovaginal fistula.
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for anal cancer suggest the following:
+Consider a suspected cancer pathway referral (for an appointment within 2 weeks) for anal cancer in people with an unexplained
+anal mass
+or unexplained anal ulceration.
+Improve
+Investigations
+Investigations
+T stage assessment: examination, including a digital rectal examination, anoscopic examination with biopsy, and palpation of the inguinal nodes
+Imaging modalities: CT, MRI, endo-anal ultrasound and PET
+The patient should be tested for relevant infections, including HIV
+Staging
+The following is a T stage system for anal
+cancer
+described by the American Joint Committee on Cancer and the International Union Against Cancer:
+TX
+primary tumour cannot be assessed
+T0
+no evidence of primary tumour
+Tis
+carcinoma in situ
+T1
+tumour 2 cm or less in greatest dimension
+T2
+tumour more than 2 cm but not more than 5 cm in greatest dimension
+T3
+tumour more than 5 cm in greatest dimension
+T4
+tumour of any size that invades adjacent organ(s) - for example, vagina, urethra, bladder (direct invasion of the rectal wall, perirectal skin, subcutaneous tissue, or the sphincter muscle(s) - is not classified as T4)
+Improve
+Differential diagnosis
+The differential diagnosis of anal
+cancer
+often includes conditions such as haemorrhoids, anal fissures and perianal abscesses. These three conditions can present with similar symptoms to anal cancer, making them crucial considerations in the diagnostic process.
+Haemorrhoids
+Haemorrhoids are vascular structures in the anal canal that help with stool control. They become a pathological condition when swollen or inflamed. The clinical presentation of haemorrhoids differs from anal cancer in several ways:
+Patients often report bright red blood on toilet paper or in the bowl following defecation.
+Pain is usually absent unless thrombosis occurs.
+A physical examination may reveal protruding or prolapsed haemorrhoidal tissue.
+Anal Fissures
+Anal fissures are small tears in the thin, moist tissue (mucosa) that lines the anus. Their clinical presentation also differs from that of anal cancer:
+Patients often describe severe pain during and after bowel movements.
+Blood on toilet paper is common but usually less than seen with haemorrhoids.
+A physical examination may reveal a visible tear in the skin at the opening of the anus.
+Perianal Abscesses
+A perianal abscess represents an infection in the soft tissues surrounding the anal canal, typically caused by
+Staphylococcus aureus
+,
+Escherichia coli
+, or mixed flora. It has a distinct clinical presentation:
+Patients may present with severe pain, which is constant and not related to bowel movements.
+Fever and malaise might be present reflecting systemic infection.
+Digital rectal examination or imaging may reveal a fluctuant mass.
+Improve
+Complications
+The complications associated with anal
+cancer
+are numerous and can significantly impact the patient's quality of life. These complications can be categorised into immediate, early and late complications.
+Immediate Complications:
+Bleeding:
+Due to the highly vascular nature of the anorectal region, significant bleeding may occur postoperatively or as a result of tumour necrosis.
+Infection:
+Given its proximity to the faecal stream, there is a high risk for local and systemic infection.
+Pain:
+Persistent
+perianal pain
+is frequent due to tumour growth or treatment-related tissue damage.
+Early Complications:
+Faecal Incontinence:
+Damage to the anal sphincter or nerves during surgery or radiation therapy can lead to faecal incontinence.
+Anal Stenosis:
+This may occur due to fibrotic changes post-radiation therapy or surgical intervention, leading to difficulty in passing stools.
+Late Complications:
+Metastasis:
+Spread to regional lymph nodes (inguinal and pelvic) and distant organs (liver, lungs) can occur, necessitating systemic therapy.
+Sexual Dysfunction:
+Radiation therapy and chemotherapy can lead to sexual dysfunction due to damage to nerves controlling sexual function or hormonal imbalances caused by treatments.
+Ostomy-related complications:
+For patients requiring a colostomy, complications such as stoma prolapse, parastomal hernia, skin irritation or psychological distress may arise.
+Improve
+Cancer
+Anal cancer

@@ -1,0 +1,175 @@
+Chronic pancreatitis
+Chronic pancreatitis
+Chronic pancreatitis is a progressive, irreversible inflammatory condition characterized by the ongoing destruction of pancreatic parenchyma and fibrosis, leading to exocrine and endocrine dysfunction. Primarily resulting from excessive alcohol consumption or hereditary factors, it can also be idiopathic, autoimmune, or linked to obstructive factors. The pathophysiology involves recurrent episodes of acute inflammation, oxidative stress, and activation of pancreatic stellate cells, ultimately causing fibrosis and functional impairment.
+Clinically, patients may present with epigastric pain, steatorrhea, and malabsorption due to exocrine insufficiency, or
+diabetes mellitus
+from endocrine dysfunction. Chronic pancreatitis diagnosis requires a combination of imaging (e.g., CT, MRI, EUS), functional tests (e.g., faecal elastase), and, in some cases, histological confirmation. Management includes pain control, nutritional optimization, pancreatic enzyme replacement therapy (PERT), and glycemic control. In refractory cases or complications, endoscopic or surgical interventions may be necessary.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 4:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Alcohol consumption:
+Alcohol abuse is the most common cause of chronic pancreatitis, accounting for up to 70% of cases. The risk of developing chronic pancreatitis increases with the duration and amount of alcohol intake. However, only a minority of heavy drinkers develop chronic pancreatitis, suggesting the involvement of genetic and environmental factors.
+Genetic factors:
+Mutations in genes such as PRSS1, SPINK1, CFTR, and CTRC have been identified in patients with hereditary and idiopathic chronic pancreatitis. These genetic alterations can affect trypsin activation, regulation, and clearance, leading to increased susceptibility to pancreatitis.
+Smoking:
+Tobacco smoking is an independent risk factor for chronic pancreatitis and can exacerbate the effects of alcohol consumption. The exact mechanism remains unclear, but it is suggested that smoking may cause oxidative stress and impair pancreatic blood flow.
+Autoimmune pancreatitis (AIP):
+AIP is a rare form of chronic pancreatitis characterized by lymphoplasmacytic infiltration and fibrosis. It is often associated with elevated serum IgG4 levels and can be a part of IgG4-related systemic disease.
+Obstructive factors:
+Pancreatic duct obstruction due to stones, tumours, or strictures can lead to CP by causing increased ductal pressure, pancreatic stasis, and local inflammation.
+Metabolic factors:
+Hypercalcemia, hyperlipidemia, and hyperparathyroidism are associated with an increased risk of chronic pancreatitis. The mechanisms involve precipitation of calcium and lipids in pancreatic ducts, leading to obstruction and inflammation.
+Improve
+Pathophysiology
+The pathogenesis of chronic pancreatitis is complex and multifactorial, involving the following key mechanisms:
+Premature intrapancreatic activation of trypsin: In chronic pancreatitis, trypsinogen is prematurely activated to trypsin within the pancreas, instead of the duodenum. This leads to autodigestion of the pancreatic tissue, causing inflammation and damage.
+Necrosis-fibrosis sequence:
+Repeated episodes of acute inflammation cause tissue necrosis, which is then replaced by fibrosis. Over time, the normal pancreatic parenchyma is progressively replaced by fibrotic tissue, leading to exocrine and endocrine insufficiency.
+Inflammation and cytokines:
+Inflammatory cells, such as neutrophils, macrophages, and lymphocytes, infiltrate the pancreas and release proinflammatory cytokines. These cytokines stimulate fibroblast proliferation, leading to the deposition of extracellular matrix proteins and the development of fibrosis.
+Oxidative stress:
+Reactive oxygen species (ROS) generated during inflammation can cause oxidative damage to the pancreatic tissue, further perpetuating the inflammatory process.
+Impaired ductal clearance:
+Obstruction of the pancreatic ducts impairs the flow of pancreatic secretions, leading to stasis and increased intraductal pressure. This contributes to the development of inflammation and fibrosis.
+Improve
+Clinical features
+Features
+pain is typically worse 15 to 30 minutes following a meal
+steatorrhoea
+: symptoms of pancreatic insufficiency usually develop between 5 and 25 years after the onset of pain
+diabetes mellitus
+develops in the majority of patients. It typically occurs more than 20 years after symptom begin
+Improve
+Investigations
+Several laboratory tests can help in the evaluation of chronic pancreatitis:
+Serum amylase and lipase:
+often normal or only slightly elevated in chronic pancreatitis
+Liver function tests:
+assess for cholestasis or liver involvement
+Fasting blood glucose and HbA1c:
+evaluate for
+diabetes
+Serum triglycerides:
+elevated levels may indicate hypertriglyceridemia-induced pancreatitis
+Full blood count:
+anaemia and leukocytosis can occur in chronic pancreatitis
+Fecal elastase-1:
+reduced levels are indicative of exocrine pancreatic insufficiency
+Serum immunoglobulin G4 (IgG4):
+elevated levels may suggest autoimmune pancreatitis
+Imaging is crucial for confirming the diagnosis of chronic pancreatitis and assessing its severity:
+Abdominal ultrasound:
+initial imaging modality; may reveal pancreatic calcifications, ductal dilation, or parenchymal changes
+Computed tomography (CT) scan:
+more sensitive for detecting calcifications, ductal abnormalities, and pseudocysts. Sensitivity is 80%, specificity is 85%
+Magnetic resonance imaging (MRI) and magnetic resonance cholangiopancreatography (MRCP): useful for evaluating ductal anatomy, strictures, and communication with pseudocysts
+Endoscopic ultrasound (EUS):
+allows for detailed visualization of the pancreatic parenchyma and ducts, as well as the possibility of obtaining tissue samples
+When the diagnosis remains uncertain, the following procedures may be employed:
+Secretin-stimulated magnetic resonance pancreatography (S-MRP):
+evaluates the exocrine function of the pancreas by assessing the secretion of pancreatic fluid after secretin administration
+Endoscopic retrograde cholangiopancreatography (ERCP)
+: may help identify ductal abnormalities and allow for therapeutic interventions, such as stentplacement or stone extraction
+Pancreatic biopsy:
+useful for confirming autoimmune pancreatitis, excluding malignancy, or assessing fibrosis and inflammation
+Improve
+Management
+Pain Management
+P
+ain is a significant clinical feature in chronic pancreatitis, and its management is crucial for improving patient quality of life. The approach should be individualized and may include:
+Analgesics:
+Initiate with non-opioid analgesics such as acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs). If pain is inadequately controlled, consider stepwise escalation to opioids as per the World Health Organization (WHO) pain ladder.
+Adjuvant therapies:
+Antidepressants (e.g., tricyclic antidepressants) or anticonvulsants (e.g., gabapentin, pregabalin) may help in managing neuropathic pain.
+Coeliac plexus block:
+This procedure involves the injection of a local anaesthetic and/or neurolytic agent into the celiac plexus, which can provide relief from intractable pain.
+Endoscopic interventions:
+Pancreatic duct stenting or stone extraction can alleviate pain in cases with ductal obstruction.
+Surgery:
+Indications for surgery include intractable pain, suspicion of malignancy, or complications such as pseudocysts or biliary/duodenal obstruction. Procedures may include pancreaticojejunostomy, distal pancreatectomy, or total pancreatectomy with islet autotransplantation.
+Management of Exocrine Pancreatic Insufficiency
+Exocrine pancreatic insufficiency (EPI) is a common complication of chronic pancreatitis, leading to malabsorption, steatorrhea, and weight loss. The following interventions can help manage EPI:
+Pancreatic enzyme replacement therapy (PERT):
+Prescribe enteric-coated pancreatic enzyme supplements to be taken with meals and snacks. Titrate dosage according to clinical response and reduction in steatorrhea.
+Dietary modifications:
+Encourage a well-balanced diet with small, frequent meals. Instruct patients to consume low-fat, high-protein, and high-fibre foods.
+Fat-soluble vitamin supplementation:
+Supplement vitamins A, D, E, and K in patients with documented deficiencies or those at risk of developing deficiencies due to malabsorption.
+Proton pump inhibitors (PPIs) or H2 receptor antagonists:
+Co-administration of acid-suppressive agents may enhance the efficacy of PERT by preventing premature activation of pancreatic enzymes in the stomach.
+Management of Endocrine Dysfunction
+Chronic pancreatitis can lead to pancreatic endocrine dysfunction, most commonly
+diabetes mellitus
+. Management strategies include:
+Monitoring:
+Regular monitoring of blood glucose levels and HbA1c is essential for optimal glycemic control.
+Lifestyle modifications:
+Encourage weight management, regular physical activity, and a balanced diet.
+Pharmacological therapy:
+Initiate oral hypoglycemic agents or insulin therapy as needed, based on patient-specific factors and glycemic control.
+Screening for diabetes-related complications:
+Regularly screen for microvascular and macrovascular complications, such as retinopathy, nephropathy, neuropathy, and cardiovascular disease.
+Management of Complications and Comorbidities
+A comprehensive approach to managing complications and comorbidities associated with chronic pancreatitis includes:
+Pseudocysts:
+Monitor asymptomatic pseudocysts; consider endoscopic, percutaneous, or surgical drainage for symptomatic or complicated pseudocysts.
+Biliary obstruction:
+Endoscopic or surgical intervention may be required for symptomatic biliary obstruction or cholangitis.
+Duodenal obstruction:
+Endoscopic balloon dilation or surgical bypass procedures can alleviate symptomatic duodenal obstruction.
+Nutritional support:
+Address malnutrition with oral nutritional supplements or enteral nutrition, as appropriate.
+Alcohol and smoking cessation:
+Encourage patients to abstain from alcohol and tobacco, as these are significant risk factors for disease progression and complications.
+Mental health:
+Chronic pancreatitis can negatively impact mental health, leading to anxiety or depression. Offer psychological support and consider referral to mental health professionals, as needed.
+Screening for
+pancreatic cancer
+:
+Although there is no established screening protocol for pancreatic cancer in chronic pancreatitis, consider regular follow-up with imaging modalities such as EUS or MRI for patients with high-risk features or family history of pancreatic malignancies.
+Improve
+Complications
+Pseudocysts
+Pseudocysts are encapsulated collections of fluid, necrotic tissue, and pancreatic enzymes that can develop due to ductal obstruction, leakage, or inflammation. They can cause
+abdominal pain
+, early satiety, nausea, vomiting, and fever. Complications include infection, haemorrhage, rupture, and compression of adjacent structures.
+Biliary Obstruction
+Chronic pancreatitis can lead to strictures or extrinsic compression of the common bile duct, causing obstructive jaundice, cholangitis, or secondary biliary cirrhosis. Management may include endoscopic or surgical interventions, such as stent placement, balloon dilation, or surgical bypass.
+Duodenal Obstruction
+Inflammation, fibrosis, or pseudocysts can cause duodenal obstruction, leading to nausea, vomiting, and weight loss. Treatment options include endoscopic balloon dilation or surgical bypass procedures.
+Pancreatic Ductal Obstruction
+Pancreatic ductal strictures or stones can cause obstruction, resulting in recurrent pain, acute exacerbation, or further parenchymal damage. Endoscopic retrograde cholangiopancreatography (ERCP) or surgery may be required for decompression or stone removal.
+Splenic Vein Thrombosis
+Inflammation or mass effect from a pseudocyst can lead to splenic vein thrombosis, resulting in localized portal hypertension, gastric varices, and gastrointestinal bleeding. Treatment options include anticoagulation, endoscopic therapy, or surgical intervention.
+Ascites
+Ascites can occur due to leakage of pancreatic secretions into the peritoneal cavity, typically resulting from ductal disruption. Management may include conservative measures, ERCP with stent placement, or surgical intervention.
+Exocrine Pancreatic Insufficiency
+Exocrine pancreatic insufficiency (EPI) results from a decrease in pancreatic enzyme secretion, leading to malabsorption, steatorrhea, and weight loss. Treatment involves pancreatic enzyme replacement therapy (PERT) and dietary modifications.
+Endocrine Dysfunction
+Chronic pancreatitis can cause progressive destruction of islet cells, resulting in impaired insulin secretion and
+diabetes mellitus
+. Management includes lifestyle modifications, blood glucose monitoring, and pharmacological therapy, such as oral hypoglycemic agents or insulin.
+Osteoporosis
+Patients with chronic pancreatitis are at an increased risk of osteoporosis due to malabsorption of calcium and vitamin D, as well as chronic inflammation. Screening, supplementation, and appropriate management are necessary to prevent fractures.
+Pancreatic Cancer
+Chronic pancreatitis is associated with an increased risk of developing pancreatic cancer, particularly in patients with hereditary pancreatitis or a strong family history of pancreatic malignancies. Regular surveillance with imaging modalities, such as endoscopic ultrasound (EUS) or magnetic resonance imaging (MRI), may be warranted in high-risk individuals.
+Improve
+References
+NICE - 2018 Pancreatitis guidelines
+Upper GI and hepatobiliary surgery
+Chronic pancreatitis

@@ -1,0 +1,197 @@
+Transient synovitis
+Transient synovitis
+Transient synovitis, also known as 'irritable hip', is a self-limiting inflammatory condition that affects the synovium within the hip joint. It is the most common cause of
+hip pain
+in children aged  between 3-10 years old. Transient synovitis is an important differential to consider when presented with a limping child.
+Transient synovitis can be a difficult diagnosis to make. This is because there is no one specific investigation that is diagnostic for the condition. The diagnosis of transient synovitis is a diagnosis of exclusion; the aim of investigations is to rule out other more serious pathologies. Despite the lack of a diagnostic test for transient synovitis, there are certain features within the history and examination that are more strongly associated with transient synovitis than with other hip pathologies. These are discussed below.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 30.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Transient synovitis
+1
+Perthes' disease
+0.07
+Slipped capital femoral epiphysis
+0.07
+Septic arthritis in children
+0.03
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of transient synovitis is unclear however it is thought to be associated with:
+A recent upper respiratory tract infection
+The evidence for this is variable
+BMJ best practice suggest that this is a weak risk factor for transient synovitis
+Studies investigating the possible viral aetiology of transient synovitis include small numbers of participants and should therefore be interpreted with caution
+Nonetheless when compared to children with septic arthritis, children with transient synovitis are more likely to have a history of a recent infection
+A recent bacterial infection - particularly a Streptococcal infection
+Recent trauma to the hip joint
+Improve
+Pathophysiology
+The pathophysiology of transient synovitis is not well understood. It commonly follows an upper respiratory tract infection or trauma to the hip joint in children aged between 3-10 years.
+Pathological changes noted on both imaging and biopsy results in children with transient synovitis include:
+Non-specific synovial inflammation
+Synovial hypertrophy.
+Improve
+Clinical features
+Children with transient synovitis typically present with the following symptoms:
+Hip pain
+This is most often unilateral however can present bilaterally
+The pain can radiate towards the groin and/or to the knee
+Limp
+This may be noticed by parents as the child refusing to weight-bear (seen in >60% of children with transient synovitis)
+Low-grade temperature (seen in 30% of children with transient synovitis)
+Recent infection e.g. upper respiratory infection or a bacterial infection - particularly Streptococcal
+Recent trauma to the joint
+It is important to note that children should otherwise be
+systemically well
+Onset of symptoms can be acute or gradual
+Boys are more commonly affected
+NICE define the following symptoms as
+red flags
+for serious pathology in a child presenting with a limp:
+Pain waking the child at night
+Suggests a malignancy
+Weight loss, anorexia, fever, night sweats and fatigue
+Suggests a malignancy or infection
+Redness, swelling and stiffness of the joint
+Suggests infection or inflammatory joint disease
+Limp that is worse in the morning
+Suggests inflammatory joint disease
+Unexplained rash or bruising
+Suggests inflammatory joint disease or child maltreatment
+Severe pain, agitation and anxiety
+Suggests evolving compartment syndrome
+If a child presents with any of the above symptoms they must be referred for an urgent assessment in secondary care.
+The following signs are typical of transient synovitis:
+Look
+Children will typically hold the leg in a flexed, abducted and externally rotated position - this position results in the least amount of intracapsular pressure within the joint and is therefore the least painful
+Feel
+Tenderness on palpation of the hip joint
+Move
+Limited internal rotation - this is the most sensitive range of movement test for transient synovitis
+Limp when asked to walk
+Special manoeuvres
+Log roll test
+The log roll test is carried out by asking the patient to lay supine with the hip and knee extended
+The examiner then passively rotates the entire limb internally and then externally
+A
+positive test
+is defined as involuntary muscle guarding when the leg is rolled passively
+Improve
+Investigations
+As previously discussed transient synovitis is usually a clinical diagnosis and investigations are aimed at ruling out a serious underlying pathology such as septic arthritis.
+NICE recommend that a child aged between 3-9 years with a working diagnosis of transient synovitis can be managed in primary care if they are afebrile, mobile but limping and symptoms have been present for <48 hours.
+The investigations listed below can be requested to rule out other pathologies:
+Bloods
+FBC
+White cell count may be slightly raised in transient synovitis however is often normal
+A significantly raised white cell count suggests the presence of an underlying infection and should raise your suspicions of septic arthritis
+CRP
+CRP may be slightly raised however a marked elevation in CRP should raise your suspicions of an underlying infection
+ESR
+Typically normal in transient synovitis
+Kocher criteria
+The Kocher criteria can be used to help to distinguish between transient synovitis and
+septic arthritis in children
+presenting with
+hip pain
+. The criteria and explanation of the results are explained below.
+Criteria
+1. Non-weight bearing
+2. Temperature >38.5Â°
+3. White cell count >12,000 cells/mm
+3
+4. ESR >40mm/hr
+Explanation of the results
+0 criteria met = very low risk of septic arthritis
+1 criterion met = 3% probability of septic arthritis
+2 criteria met = 40% probability of septic arthritis
+3 criteria met = 93% probability of septic arthritis
+4 criteria met = 99% probability of septic arthritis
+Imaging
+NICE recommends that an x-ray of the hip should be carried out on the same day if any of the following are present:
+There are no indications for an urgent assessment which include any red flag symptoms (see above), the child is <3 years old, the child is >9 years old with painful or restricted hip movements, there is an inability to weight-bear or there is suspicion of child maltreatment
+And there is a history of trauma or focal bony tenderness on examination
+If an x-ray is requested multiple views should be taken including AP, lateral or frog-leg views to allow adequate visualisation of the joint
+In transient synovitis an x-ray of the affected hip will typically be normal
+X-ray findings in septic arthritis include joint effusion, narrowing of the joint space and destruction of the subchondral bone
+It is however worth noting that in the very early stages of septic arthritis x-rays may be normal
+Ultrasound scan of the hip
+Ultrasound findings in transient synovitis can include intracapsular fluid, joint effusion and synovial thickening
+These findings are also commonly seen in septic arthritis so an ultrasound of the hip may not be that helpful when trying to differentiate between the two conditions
+However the absence of a joint effusion of ultrasound makes septic arthritis an unlikely diagnosis
+Special tests
+Arthrocentesis for synovial fluid analysis
+This is considered the
+gold standard
+investigation for diagnosing septic arthritis
+Arthrocentesis is an invasive procedure so should only be carried out when the clinical picture is suggestive of septic arthritis or there is diagnostic uncertainty and septic arthritis cannot be ruled out without synovial fluid analysis
+Improve
+Differential diagnosis
+There are many differentials to consider when presented with a child with
+hip pain
+and/or a
+limp
+. Some conditions tend to be more common in certain age groups which can help to narrow your differential diagnoses.
+It is also important to consider that a child presenting with 'hip pain' does not necessarily have a hip pathology. Hip pain can be referred from the knee for example. Likewise the pain caused by a knee pathology can be referred to hip.
+The table below lists some common differentials for hip pain with or without limping grouped by age.
+Younger than 3 years
+Aged between 3-10 years
+Aged between 10-18 years
+Developmental dysplasia of the hip
+Perthe's disease
+Slipped upper femoral epiphysis
+Duchenne Muscular Dystrophy
+Becker Muscular Dystrophy
+Osgood-Schlatter disease
+Sever's disease
+Osteochondritis dissecans
+Chondromalacia Patellae
+There are also a number of conditions that can affect all age groups and present as hip pain with or without a limp.
+Child maltreatment
+This is not a diagnosis to be missed and you should have a high index of suspicion of child maltreatment in children who present with atypical injuries, injuries that are not consistent with the history and examination and in children who are repeatedly brought to/ admitted to hospital with injuries
+Trauma
+Septic arthritis
+Osteomyelitis
+Malignancy e.g. sarcoma, leukaemia or lymphoma
+Dicitis
+Juvenile idiopathic arthritis
+Sickle cell disease
+Rickets
+Cerebral palsy
+Spina bifida
+Leg length discrepancy
+Improve
+Management
+A clinical diagnosis of transient synovitis can be made when other conditions have been ruled out but this is often very challenging. NICE recommend that a child aged between 3-9 years with a working diagnosis of transient synovitis can be managed in primary care if:
+They are afebrile, mobile but limping and symptoms have been present for <48 hours
+The management of transient synovitis can be split into two categories; conservative and medical.
+Conservative
+It is important to explain to parents the natural history of the condition and to provide adequate
+safety netting
+For example - we would expect the symptoms to resolve within 1 week with rest and simple pain relief. We would not expect the symptoms to worsen or the child to become systemically unwell (fever, lethargy, irritability). If this does happen then you should take the child to the emergency department immediately as this could be a sign of a more serious pathology.
+Arrange a follow-up appointment after 48-hours to ensure symptoms are resolving
+Arrange a subsequent follow-up 1-week from symptom onset to ensure that symptoms have fully resolved - if this is not the case the child should be sent for urgent assessment in secondary care
+Medical
+Simple analgesia using paracetamol or ibuprofen
+Improve
+References
+Clinical Knowledge Summaries - How should I manage a child presenting with acute limp?
+Paediatric musculoskeletal problems
+Transient synovitis

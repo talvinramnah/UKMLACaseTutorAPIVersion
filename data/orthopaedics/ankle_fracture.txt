@@ -1,0 +1,95 @@
+Ankle fracture
+Ankle fracture
+Ankle fractures are a group of injuries affecting the four bony parts of the ankle. These are the medial malleolus, the lateral malleolus, the tibial plafond (or pilon) and the talus. The soft tissue cover over the ankle is less than over any other major joint so open fractures are more likely to occur here than anywhere else in the body. The weight bearing status of the joint and the number of vessels and nerves which cross the joint close to bony prominences means appropriate management of ankle fractures is essential to maintain a person's ability to walk after the injury.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 85.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Ankle sprain
+5.29
+Ankle fracture
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+The main clinical features on presentation are:
+Pain
+This can be a pain within the joint, the foot or the lower leg depending on the bones fractured.
+There is often a significant soft tissue component and there can be painful swelling affecting most of the lower leg in severe injuries.
+Pain is usually exacerbated by movement and severe enough to prevent weight-bearing.
+Tenderness
+The site of injury is tender and a key finding in 90-100% of ankle fractures is bony tenderness over the affected region (either malleolus and the posterior and anterior joint lines).
+Soft tissue injury
+Ankle fractures usually result in significant soft tissue swelling over the site of injury.
+Depending on the time since the injury there may be bruising or blistering (around 50% of cases) over the site of injury along with swelling.
+Deformity
+As fractures of the ankle often compromise ankle stability, the ankle joint can partially or fully dislocate when the injury occurs in around 20% of cases.
+Ankle dislocations result in an obvious deformity of the lower leg and assessment should take care to describe the position of the foot in relation to the lower leg.
+Neurovascular deficit
+Given the close proximity of several nerves and vessels to the joint, fractures and dislocations can cause nerve injury or compression of the arteries supplying the foot.
+A full neurovascular assessment of the foot should always be performed and this should include the dorsalis pedis and posterior tibial pulses, capillary refill in the toes and sensation over the dorsum of the foot, the first web space, the distal sole of the foot and the heel.
+Improve
+Management
+The management depends on several factors:
+Whether the injury is open or closed.
+How many bony elements in the ankle are injured and where they are injured.
+How significant the soft tissue injury and associated swelling is.
+In general, fractures affecting ankle stability or affecting any part of the ankle joint surface require some form of operative stabilisation. The choice of procedure in open fractures and fractures with a high level of bony comminution is usually an external fixator as this is able to maintain alignment without the risk of metalwork being inserted into the wound. Additionally an external fixator can act as a bridging device for small bony fragments without opening the fracture haematoma and possibly devitalising any bone.
+Injuries which have resulted in significant soft tissue swelling may need to be deferred for fixation as the risk of wound breakdown and post-operative infection is high. Usually these injuries are allowed to settle for a week with limb elevation to reduce the swelling enough to allow surgery to be performed safely.
+In general, fractures of the ankle are most often treated with an open reduction and internal fixation using plates and screws. Additionally, an important part of the joint which can be damaged in any ankle fracture is the syndesmosis (fibrous attachment of the tibial to the fibula). Intra-operatively an examination under anaesthetic can be performed to establish whether there is any laxity in the syndesmosis and surgical repair of this can also be done at the same time as the fracture is repaired.
+Conservative management may be appropriate if the fracture does not affect ankle stability. The options for managing ankle fractures without surgery are using either a cast (a backslab or a full cast depending on the timing after injury) or a controlled ankle motion walker boot. These two options may allow weight bearing whilst limiting movement at the ankle to reduce the risks associated with immobility of the lower limb whilst optimising bony healing.
+Although each patient is unique and there are many factors which affect an individual's management, the following table indicates the usual way common ankle fractures are managed:
+Fracture pattern
+Immobilisation technique
+Weight bearing status *
+Treatment duration
+Any open fractures
+Require debridement and washout and intravenous antibiotics following NICE and BOAST guidelines for open fracture management
+Open reduction and internal fixation if the wounds are small and there is a low risk of infection
+External fixation if the wounds are significant or likely to need subsequent skin grafting or there is a high risk of soft tissue infection
+Non-weight bearing except if an intramedullary nail is used
+Management in external fixators or post-operative casts usually lasts 6-8 weeks
+Distal fibular fractures above malleolus (Weber B or C)
+Require open reduction and internal fixation and likely to need syndesmosis repair
+Non-weight bearing following surgery
+Immobilisation in cast following surgery until bony healing has occurred (usually 6-8 weeks)
+Distal fibular fractures of the malleolus (Weber A)
+Walker boot or weight-bearing (thick) cast
+Full weight bearing
+6 weeks
+Tibial plafond (pilon)
+Open reduction and internal fixation if affecting the articular surface or stability compromised
+Conservative if position maintained and joint stable and articular surface intact
+Initially non-weight bearing
+6-8 weeks non-weight bearing and subsequent weight-bearing immobilisation up to further 6 weeks
+Isolated medial malleolus
+Usually requires open reduction and internal fixation due to high rates of non-union with conservative management
+Cast or walker boot following surgery or as wholly conservative management
+Initially non-weight bearing
+6 weeks non-weight bearing with subsequent 4-6 weeks weight bearing (usually in walker boot)
+Talus
+Conservative if position adequate and articular surfaces of ankle and subtalar joints are preserved
+Open reduction and internal fixation or external fixation if position is not maintained, articular surface affected or significant comminution indicating significant instability
+Non-weight bearing
+6-8 weeks
+*
+It is important to note that when an ankle fracture needs to be managed without weight bearing, there is a high risk of thromboembolic disease affecting the immobilised limb. These patients therefore require prophylactic anti-coagulation for the duration of their non-weight bearing treatment following NICE guidance on which drug is most appropriate.
+Improve
+References
+MDCalc - Ottawa rules
+Lower limb fractures
+Ankle fracture

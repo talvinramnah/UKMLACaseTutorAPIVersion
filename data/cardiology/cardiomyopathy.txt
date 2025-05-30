@@ -1,0 +1,87 @@
+Cardiomyopathy
+Cardiomyopathy
+Cardiomyopathy
+refers to a group of diseases that affect the myocardium, leading to impaired cardiac function. It is categorised into three main types: hypertrophic, dilated, and restrictive cardiomyopathy.
+Hypertrophic cardiomyopathy
+, characterised by left ventricular hypertrophy, often without an obvious cause, can lead to diastolic dysfunction and arrhythmias.
+Dilated cardiomyopathy
+, marked by dilation and impaired contraction of one or both ventricles, can result in systolic heart failure. Lastly,
+restrictive cardiomyopathy
+involves rigid ventricular walls that limit proper filling and lead to diastolic dysfunction. The pathophysiology varies greatly among these types; however, genetic mutations play a significant role in many cases. Management strategies include pharmacotherapy with beta-blockers or ACE inhibitors, device therapy such as implantable cardioverter-defibrillators (ICDs), or surgical interventions like myectomy or transplantation.
+Last updated: 1
+st
+January 2025
+Aetiology
+The old classification of dilated, restricted and hypertrophic cardiomyopathy has been largely abandoned due to the high degree of overlap. The latest classification of cardiomyopathy by the WHO and American Heart Association reflect this.
+The tables below shows a very limited set of exam related facts for the various cardiomyopathies:
+Primary cardiomyopathies
+- predominately involving the heart
+Genetic
+- both conditions listed below are autosomal dominant. An implantable cardioverter-defibrillator is often inserted to reduce the incidence of sudden cardiac death.
+Type of cardiomyopathy
+Selected points
+Hypertrophic obstructive cardiomyopathy
+Leading cause of sudden cardiac death in young athletes
+Usually due to a mutation in the gene encoding β-myosin heavy chain protein
+Common cause of sudden death
+Echo findings include MR, systolic anterior motion (SAM) of the anterior mitral valve and asymmetric septal hypertrophy
+Arrhythmogenic right ventricular dysplasia
+Right ventricular myocardium is replaced by fatty and fibrofatty tissue
+Around 50% of patients have a mutation of one of the several genes which encode components of desmosome
+ECG abnormalities in V1-3, typically T wave inversion. An epsilon wave is found in about 50% of those with ARV - this is best described as a terminal notch in the QRS complex
+Mixed
+- rather confusingly most of the causes of dilated and restrictive cardiomyopathy are now listed separately in the 'secondary' causes. This category servers as a reminder that many patients will have a genetic predisposition to cardiomyopathy which is then triggered by the secondary process, hence the 'mixed' category
+Type of cardiomyopathy
+Selected causes/points
+Dilated cardiomyopathy
+Classic causes include
+Alcohol
+Coxsackie B virus
+Wet beri beri
+Doxorubicin
+Restrictive cardiomyopathy
+Classic causes include
+Amyloidosis
+Post-radiotherapy
+Loeffler's endocarditis
+Acquired
+Type of cardiomyopathy
+Selected points
+Peripartum cardiomyopathy
+Typical develops between last month of pregnancy and 5 months post-partum
+More common in older women, greater parity and multiple gestations
+Takotsubo cardiomyopathy
+'Stress'-induced cardiomyopathy e.g. patient just found out family member dies then develops chest pain and features of heart failure
+Transient, apical ballooning of the myocardium
+Treatment is supportive
+Secondary cardiomyopathies
+- pathological myocardial involvement as part of a generalized systemic disorder
+Type of cardiomyopathy
+Selected causes/points
+Infective
+Coxsackie B virus
+Chagas disease
+Infiltrative
+Amyloidosis
+Storage
+Haemochromatosis
+Toxicity
+Doxorubicin
+Alcoholic cardiomyopathy
+Inflammatory (granulomatous)
+Sarcoidosis
+Endocrine
+Diabetes mellitus
+Thyrotoxicosis
+Acromegaly
+Neuromuscular
+Friedreich's ataxia
+Duchenne-Becker muscular dystrophy
+Myotonic dystrophy
+Nutritional deficiencies
+Beriberi (thiamine)
+Autoimmune
+Systemic lupus erythematosis
+Improve
+Cardiology
+Cardiomyopathy

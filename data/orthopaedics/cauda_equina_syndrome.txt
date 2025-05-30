@@ -1,0 +1,216 @@
+Cauda equina syndrome
+Cauda equina syndrome
+Cauda equina syndrome (CES) is a rare neurosurgical/orthopaedic emergency which requires urgent investigation and intervention. It is caused by compression of the cauda equina, a bundle of neurones distal to the conus medullaris at the end of the spinal cord.
+Compression of the cauda equina is most commonly caused by lumbar disc herniation, and has variable symptoms. Patients typically present with bladder, bowel and/or sexual dysfunction and
+saddle anaesthesia
+, but may also develop lumbo-sacral back pain and sensory/motor dysfunction in the lower limb.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Lower back pain
+(non-specific, without sciatica)
+3000.00
+Lower back pain: prolapsed disc
+500.00
+Neoplastic spinal cord compression
+10.00
+Cauda equina syndrome
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Cauda equina syndrome (CES) results from compression of the nerve roots of the cauda equina, of which there are many possible causes.
+Common:
+Lumbar disc herniation:
+2% of cases result in CES.
+Is the most common cause of CES overall
+Most commonly occurs with large central herniation of the disc at L5/S1 level, but can occur at any level
+Degenerative lumbar canal stenosis
+Less commonly congenital spinal canal stenosis can also cause CES
+Neoplastic space occupying lesion
+: either primary or metastatic
+Primary tumours may include astrocytoma, neurofibroma, meningioma or lymphoma
+Metastatic lesions most commonly arise from primary lung, breast, prostate, renal, and colorectal tumours
+Spinal trauma:
+may include vertebral fractures and subluxation of the vertebrae
+Uncommon causes:
+Infection:
+Discitis
+Infection of the spine from TB (Potts disease), herpes simplex virus, meningitis, or neurosyphilis
+Epidural abscess
+Haematoma:
+often occurs secondary to spinal anaesthesia administration or spinal surgery
+Rare causes:
+Late-stage ankylosing spondylitis
+Neurosarcoidosis
+Inferior vena cava thrombosis
+Venous thrombosis of the spinal veins
+Spinal haemorrhage
+Spina bifida
+Improve
+Pathophysiology
+Anatomy
+The spinal cord is part of the central nervous system which connects the brain with the peripheral nerves of the body. The cord is a long column of nervous tissue (predominantly sensory and motor nerve fibres) which begins at the medulla within the brainstem, and continues through the central canal of the vertebral column to the level of L1-2, where it terminates as the conus medullaris.
+Distal to the conus medullaris, the lower lumbar nerve roots (L2-L5), sacral nerve roots (S1-S5) and the coccygeal nerve root continue to travel through the vertebral canal to their respective exit foramina as part of the nerve bundle known as the
+cauda equina
+The cauda equina exists as the spinal cord stops growing at around age 4, whereas the vertebral column continues to lengthen until adulthood. In adults the spinal cord is much shorter than the vertebral column it lies within, and hence nerve roots needing to exit the spinal cord at foreman distal to the level of L2 must travel as part of the cauda equina to their respective foramina.
+Innervation
+Nerve roots forming the cauda equina are part of the peripheral nervous system, meaning they consist of lower efferent motor and afferent sensory fibres. Neurones within the cauda equina are responsible for:
+Sensory and motor innervation to the lower limbs
+Sensory innervation of the saddle area
+Motor innervation to the anal sphincters
+Parasympathetic innervation of the bladder
+Injury
+Nerve roots within the cauda equina are highly susceptible to injury when compared to peripheral nerves. This is because they have a poorly developed epineurium surrounding their sheaths and do not have a segmental blood supply.
+As the cauda equina nerve roots are part of the peripheral nervous system, damage to the nerves via any mechanism will result in:
+Reduced sensation or sensory loss
+Lower motor neurone signs and symptoms:
+Hyporeflexia or areflexia
+Hypotonia or atonia
+Flaccid weakness or paralysis
+Local muscle atrophy
+Fasciculations
+Improve
+Clinical features
+The term cauda equina syndrome is used when compression of the nerve roots of the cauda equina results in
+bladder, bowel and/or sexual dysfunction with peri-anal sensory loss
+. Patients may present with other variable combinations of accompanying symptoms, but absence of the above features will rule out a diagnosis of CES.
+Clinical presentation:
+Patients with CES typically present in one of two patterns of onset:
+Acute:
+Sudden onset, rapidly progressing symptoms which worsen over several hours or days
+Chronic:
+insidious onset with slow progression of symptoms
+Symptoms vary greatly in manifestation and severity, and can be classified into two groups:
+Core diagnostic symptoms:
+Urinary dysfunction:
+Initially patients have
+urinary retention
+with difficulty initiating or stopping the urine stream. They may also notice reduced bladder sensitivity and may not feel when they need to urinate. This will progress to overflow incontinence, which is a late sign.
+Bowel dysfunction:
+May include constipation or
+faecal incontinence
+Sexual dysfunction:
+May include inability to achieve or maintain an erection, inability to achieve orgasm or ejaculation and loss of sensation in the genital area during intercourse
+Saddle anaesthesia
+:
+loss of sensation in the perineal area which patients may notice when wiping after using the toilet.
+Accompanying symptoms:
+Symptoms may be unilateral or bilateral depending upon the aetiology
+Lower back pain
+with or without sciatica
+Lower limb sensory loss
+Lower limb lower motor neurone signs: most notably weakness, hypotonia and hyporeflexia
+Progression of symptoms:
+Even with very acute onset CES, patients often notice a progression in their symptoms over time.
+Most patients will first notice lower back pain, this may present with or without sciatica. In many with slow onset CES, this may be the only symptom present for many days or weeks. Saddle anaesthesia often manifests soon after the back pain, but may not be noticed until the patient uses the bathroom and wipes that area.
+Later symptoms of CES include lower limb weakness and urinary and bowel dysfunction, which can occur constantly or intermittently depending upon the cause of compression. Typically urinary retention and a reduced urge to urinate occurs first, with urinary overflow incontinence developing as a late sign of CES.
+Clinical examination:
+Patients with suspected CES should be examined thoroughly to try and formulate a diagnosis and determine a possible underlying cause.
+Examination of the spine may reveal lower back pain and tenderness
+Lower limb neurological examination may reveal loss of sensation and lower motor neurone signs in the lower limb including weakness, hyporeflexia and hypotonia
+Examination of the anus may show loss of sensation in the area and a loss of anal sphincter tone
+Classification:
+CES can be classified into two groups based upon the clinical presentation:
+Cauda equina syndrome with retention (CESR):
+50-60% of patients
+Presents with established urinary retention and/or overflow incontinence
+Incomplete cauda equina syndrome (CESI):
+40-50% of patients
+Presents without urinary retention or overflow incontinence.  Patients may have reduced bladder sensation, loss of desire to void and/or poor urinary stream
+Both are equally as important, and require prompt diagnosis and intervention. CESI has a better prognosis and more patients with CESI will make a complete recovery when compared to those with CESR.
+Improve
+Investigations
+A diagnosis of cauda equina syndrome (CES) is often suspected after identification of key clinical features (
+saddle anaesthesia
+and bladder, bowel and sexual dysfunction) through a patients history and examination. All patients with suspected CES must be referred urgently to the surgical team.
+All patients with suspected CES require an
+urgent MRI scan
+to:
+Confirm or exclude a diagnosis of CES
+If a diagnosis of CES is made, identify the level of compression and possible underlying cause
+If MRI is not available urgently, or patients cannot have an MRI due to contraindicates (pacemaker, metal implants etc.), CT is the next best method.
+Patients may undergo urodynamic studies post surgery to monitor recovery of bladder function, but this should not delay swift decompressive surgery.
+If a diagnosis is confirmed, further investigations may be required after initial decompression in surgery to determine the underlying cause if this was not identified on MRI.
+Blood tests: looking for underlying infection, inflammation and malignancy
+Lumbar puncture: may suggest infection or neoplasm within the vertebral canal
+Improve
+Differential diagnosis
+Cauda equina syndrome (CES) may present similarly to other types of nerve compression and back pathologies. It is important that cauda equina is always considered as a differential in patients with:
+Lower back pain
+with or without sciatica
+Lower limb sensory or motor dysfunction
+Urinary/bowel/sexual dysfunction
+Possible differential diagnoses:
+Conus medullaris syndrome (CMS):
+The conus medullaris is the tapered end of the spinal cord which spans from T12-L2. Injuries to the lumbar vertebrae may result in compression of the conus medullaris, resulting in symptoms.
+Patients may present with isolated CMS, or combined CMS with CES
+Similarities: Severe lower back pain with peri-anal anaesthesia and bladder, bowel and sexual dysfunction
+Differences: Sudden onset (typically after injury to the back). Patients have a mix of upper and lower motor neurone signs with hyperreflexia, weakness and fasciculations often being present.
+Herniated lumbar disc:
+Similarities: pain in the lower back which came on suddenly. Sciatica (typically unilateral but can be bilateral) and weakness in the lower limbs
+Differences: Absence of
+saddle anaesthesia
+and bladder, bowel or sexual function is intact
+Degenerative lower back pain +/- sciatica:
+Similarities: pain in the lower back with or without sciatica
+Differences: may be linked to a recent injury. No lower limb weakness, no saddle anaesthesia and no changes to bladder, bowel or sexual function
+Spinal cord compression
+:
+Similarities: sensory loss and paresthesia below the area of compression. Pain at the area of compression (back pain)
+Differences: results in upper motor neurone signs such as hyperreflexia and hypertonia. No saddle anaesthesia and intact bladder, bowel and sexual function
+Neoplastic spinal lesions:
+May be of primary or metastatic origin
+Similarities: Back pain and neurological deficits such as abnormal reflexes and lower limb weakness. May cause bladder, bowel and sexual dysfunction if located in the sacrococcygeal region
+Differences: Slow, gradual onset of symptoms. Patients have systemic symptoms and may have noticed unexplained weight loss, nausea and anorexia
+Lumbar radiculopathy:
+Similarities: Sciatica
+Differences: No saddle anaesthesia and normal bladder, bowel and sexual function
+Improve
+Management
+Patients with cauda equina syndrome (CES) must be managed with urgency to try and avoid permanent neurological damage.
+All patients with CES must be referred early for a neurosurgical or orthopaedic review. The team who review patients with CES is different depending upon your trust, but local guidelines will indicate the correct method and team to refer to.
+If the cause is suspected to be traumatic, the patients spine should be immobilised
+The treatment of CES is heavily dependant on the underlying cause:
+Surgical decompression
+Most commonly patients develop CES after a lumbar disc herniation. These patients require urgent surgical spinal decompression to prevent permanent neurological damage.
+Other patients suitable for decompressive surgery include:
+Spinal trauma and fractures
+Haematomas
+Space occupying lesions with radiological imaging indicating likely surgical removal
+Spinal stenosis
+The procedure will very depending upon the underlying cause and the patients anatomy, but the aim is to relieve pressure off the cauda equina.
+Not suitable for surgery:
+A small group of patients may not be suitable for surgical decompression. These may include:
+Inflammatory disease such as late stage ankylosing spondylitis
+These patients may benefit from steroids
+Infection
+These patients will be treated with antibiotics
+Spinal neoplastic disease which is not suitable for surgical removal or where surgical removal was incomplete
+These patients should be given IV dexamethasone and be evaluated for chemo-radiotherapy
+The role of dexamethasone:
+If CES is caused by primary or metastatic malignancy, IV dexamethasone is recommended prior to surgical or other further intervention to try and reduce oedema which may be worsening compression of the cauda equina.
+With all other causes of CES, dexamethasone administration is not recommended. In some cases, such as when infection or an abscess is causing compression, steroid administration may actually worsen the patients symptoms and prognosis.
+Prognosis:
+Late diagnosis and delayed treatment increase the risk of permanent neurological defect in patients. Many patients with CES may be left with:
+Paralysis of the lower limbs
+Permanent bladder, bowel and sexual dysfunction
+These patients will require long term management with physiotherapists and occupational therapists.
+Improve
+Orthopaedic surgery
+Cauda equina syndrome

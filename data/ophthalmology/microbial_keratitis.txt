@@ -1,0 +1,201 @@
+Microbial keratitis
+Microbial keratitis
+Microbial keratitis
+is an infectious corneal disease caused by bacteria, fungi, viruses or parasites. Predisposing factors include contact lens use, ocular surface disease, trauma and previous ocular surgery. The clinical presentation varies depending on the causative organism. Bacterial keratitis typically presents with rapid onset of pain, redness and decreased vision, while fungal keratitis tends to have a more indolent course with characteristic feathery infiltrates.
+The diagnosis is often clinical but can be confirmed through corneal scrapings for microscopy, culture and sensitivity. Empirical treatment usually begins with broad-spectrum topical antibiotics such as fluoroquinolones. In cases unresponsive to initial therapy or suspected to be fungal or amoebic in origin, specific antifungal or antiparasitic agents may be required.
+Complications of microbial keratitis can include corneal scarring, perforation and endophthalmitis. Surgical intervention may be necessary in severe cases or those unresponsive to medical management.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Infective conjunctivitis
+150.00
+Corneal abrasion
+15.00
+Anterior uveitis
+2.00
+Microbial keratitis
+1
+Herpes simplex keratitis
+0.70
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Microbial keratitis (MK) is an infectious corneal condition, primarily caused by various types of microbes including bacteria, fungi, viruses and parasites. The aetiology of MK is multifactorial and can be attributed to several risk factors and underlying causes.
+Risk Factors
+Contact lens wear:
+This is the most common risk factor associated with bacterial keratitis. Extended wear of soft contact lenses, poor hygiene practices during handling or storage, and use of contaminated lens care solutions increase the risk.
+Ocular surface disease:
+Conditions such as dry eye syndrome, blepharitis, meibomian gland dysfunction and ocular cicatricial pemphigoid predispose to MK. These diseases compromise the integrity of the corneal epithelium making it susceptible to microbial invasion.
+Ocular trauma:
+Trauma to the cornea from foreign bodies or surgical procedures can lead to breaks in the epithelial barrier allowing microbial ingress leading to MK.
+Systemic conditions:
+Immunosuppression due to systemic diseases like diabetes mellitus or HIV infection increases susceptibility. Additionally, malnutrition can impair host immune response facilitating microbial invasion.
+Bacterial Causes
+The most common causative organisms are
+Staphylococcus aureus
+,
+Pseudomonas aeruginosa
+, coagulase-negative staphylococci (CNS), and streptococci species. Among them,
+Pseudomonas aeruginosa
+is particularly virulent in contact lens-related infections.
+Fungal Causes
+Fungal keratitis is often associated with agricultural work or ocular trauma involving plant material. The most common fungi implicated are
+Fusarium
+species, followed by
+Aspergillus
+and Candida species.
+Viral Causes
+Herpes simplex virus (HSV) and varicella-zoster virus (VZV) are the main viral causes of MK. Reactivation of latent HSV or VZV in the trigeminal ganglion can lead to recurrent corneal disease.
+Parasitic Causes
+The protozoan
+Acanthamoeba
+is a significant cause of MK, especially in contact lens wearers exposed to contaminated water. It is notorious for causing severe pain and poor response to treatment.
+Improve
+Pathophysiology
+Microbial keratitis
+, a severe ocular infection, is primarily caused by bacteria, fungi, parasites and viruses. The pathophysiological process of microbial keratitis involves several steps that lead to the manifestation of common symptoms such as corneal ulceration,
+eye pain
+and redness.
+The initial step in the pathogenesis of microbial keratitis involves the adherence of microbes to the corneal epithelium. This is facilitated by specific adhesins on the microbe surface binding to host receptors on the corneal epithelial cells. For instance,
+Pseudomonas aeruginosa
+utilises type IV pili and flagella for attachment.
+Following adherence, microbes proliferate rapidly leading to epithelial colonisation. Microorganisms produce various virulence factors that aid in their survival and multiplication. For example,
+Pseudomonas aeruginosa
+secretes proteases and elastases which degrade host proteins facilitating tissue invasion.
+The next stage in microbial keratitis pathogenesis involves penetration of microbes into the stroma through breaches in the epithelial barrier due to trauma or contact lens use. This stromal invasion triggers an intense inflammatory response characterised by infiltration of neutrophils and macrophages.
+In response to microbial invasion, immune cells release cytokines such as interleukin-1 (IL-1) and tumour necrosis factor-alpha (TNF-alpha), which amplify inflammation and recruit more immune cells to the site of infection. These cytokines also stimulate corneal fibroblasts to produce matrix metalloproteinases (MMPs), enzymes responsible for degrading extracellular matrix components.
+This uncontrolled production of MMPs leads to progressive destruction of collagen fibrils within the stroma resulting in corneal thinning and ulceration. The degradation products of collagen fibrils also serve as chemotactic agents for neutrophils, further fueling the inflammatory response.
+Furthermore, the inflammation and immune response in microbial keratitis can cause damage to corneal nerves leading to eye pain. The release of prostaglandins and other inflammatory mediators causes vasodilation and increased vascular permeability resulting in ocular redness.
+In summary, the pathophysiology of microbial keratitis involves a complex interplay between microbial virulence factors and host immune responses that result in corneal ulceration, eye pain and redness.
+Improve
+Clinical features
+A typical presentation of microbial keratitis often involves a patient with recent history of contact lens use, ocular trauma or surgery presenting with a painful
+red eye
+. There may be accompanying
+photophobia
+, blurred vision and a discharge. On examination, the cornea appears inflamed and there might be an epithelial defect with underlying stromal infiltrate.
+Presenting features:
+Ocular pain
+:
+This is usually severe and may be associated with foreign body sensation. It can be exacerbated by exposure to light due to ciliary spasm.
+Redness:
+The eye typically appears red due to inflammation and vasodilation. Conjunctival injection is often present.
+Visual disturbance:
+Blurred vision or reduced visual acuity may occur as a result of corneal oedema or infiltration.
+Photophobia:
+Light sensitivity is common in microbial keratitis due to irritation of the ciliary body.
+Tearing:
+Increased tear production (
+epiphora
+) can occur as a response to ocular irritation.
+In more advanced cases, an overlying epithelial defect with stromal infiltrate may be observed on slit lamp examination. Hypopyon, an accumulation of pus in the anterior chamber, can also develop as an inflammatory response. Corneal ulceration and perforation are potential complications if left untreated.
+Pseudomonas aeruginosa
+,
+Staphylococcus aureus
+,
+Serratia marcescens
+, and fungi such as
+Fusarium
+species are commonly implicated organisms in microbial keratitis. The clinical features can vary depending on the causative organism.
+Pseudomonas aeruginosa
+keratitis for instance, often presents with a rapidly progressive, painful ulcer with a 'ring infiltrate'.
+Fusarium
+keratitis may present with feathery borders and raised slough.
+It should be noted that the clinical features alone may not be sufficient to differentiate between bacterial, fungal or amoebic keratitis, and corneal scrapings for microscopy, culture and sensitivity are often required to confirm the diagnosis and guide treatment.
+Improve
+Referral criteria
+Referral
+contact lens wearers
+assessing contact lens wearers who present with a painful
+red eye
+is difficult
+an accurate diagnosis can only usually be made with a slit-lamp, meaning same-day referral to an eye specialist is usually required to rule out microbial keratitis
+Improve
+Differential diagnosis
+The differential diagnosis of microbial keratitis encompasses several ocular conditions that can mimic its clinical presentation. Key among these are Herpetic Keratitis, Fungal Keratitis, and Acanthamoeba Keratitis.
+Herpetic Keratitis
+Herpetic keratitis, primarily caused by
+Herpes Simplex Virus (HSV)
+, is a major differential for microbial keratitis. It typically presents as a unilateral infection with hallmark dendritic ulcers visible on fluorescein staining. The patient may report a history of recurrent episodes.
+In contrast to microbial keratitis, herpetic keratitis often manifests with decreased corneal sensation due to the neurotropic nature of HSV. This finding can help distinguish it from bacterial or fungal causes which typically do not affect corneal sensation.
+Moreover, while microbial keratitis tends to present acutely with severe pain and purulent discharge, herpetic keratitis usually has a more insidious onset with less severe symptoms.
+Fungal Keratitis
+Fungal keratitis is another significant differential to consider. It is commonly caused by filamentous fungi like
+Fusarium
+and
+Aspergillus
+, or yeast-like fungi such as
+Candida
+.
+This condition frequently presents in individuals who have sustained corneal trauma involving plant material or in long-term contact lens wearers.
+The clinical presentation often includes an indolent course with minimal pain relative to the severity of the infiltrate. The presence of feathery margins and satellite lesions on biomicroscopy are characteristic findings that help differentiate fungal from bacterial causes.
+Acanthamoeba Keratitis
+Acanthamoeba keratitis, caused by
+Acanthamoeba
+species, is a less common but important differential. It often affects contact lens wearers, particularly those with poor hygiene practices.
+It is characterised by severe pain out of proportion to clinical signs and the presence of radial perineuritis on slit-lamp examination. These features can help distinguish it from other forms of microbial keratitis.
+However, it's worth noting that late-stage Acanthamoeba keratitis may present with a ring infiltrate, which can be mistaken for bacterial or fungal keratitis.
+Improve
+Management
+Initial management of Microbial keratitis involves prompt identification and treatment. The following steps should be considered:
+Corneal sampling:
+This is a pivotal step in the management of microbial keratitis. Samples should be taken for microscopy, culture, and sensitivity testing. A broad range of media should be used to facilitate the growth of various organisms.
+Pseudomonas aeruginosa
+,
+Staphylococcus aureus
+, coagulase-negative staphylococci, streptococci, and fungi are commonly isolated organisms from corneal ulcers.
+Empirical therapy:
+Pending microbiological results, empirical treatment should be initiated promptly with broad-spectrum topical antibiotics.
+Treatment modification:
+Once microbiological results are available, antimicrobial therapy can be tailored accordingly. If there is no clinical improvement after 48 hours of appropriate antimicrobial therapy, consider alternative diagnoses such as acanthamoeba or fungal infection.
+Cycloplegics:
+Cycloplegics such as atropine or cyclopentolate can help to reduce ciliary spasm and provide symptomatic relief.
+Surgical intervention:
+In cases with impending or actual corneal perforation, surgical intervention may be required. Therapeutic penetrating keratoplasty (TPK) is often the procedure of choice.
+In terms of follow-up care:
+Clinical review:
+Daily clinical review is essential in the acute phase until stability or improvement has been demonstrated.
+Microbiological review:
+Regular microbiological review is required to monitor the effectiveness of treatment and adjust as necessary.
+Long-term follow-up:
+Once the infection is under control, long-term follow-up care is needed to manage complications such as corneal scarring, glaucoma, cataract and ocular surface disease.
+In patients with contact lens-associated microbial keratitis, it's important to advise against further use until complete resolution of the infection. Moreover, patient education on proper lens hygiene and handling should be reinforced.
+Improve
+Complications
+Microbial keratitis can lead to a range of complications, some of which can cause severe sight impairment. The most frequently observed complications are as follows:
+Corneal scarring:
+Persistent infection and inflammation can result in corneal scarring, leading to impaired vision or blindness.
+Corneal perforation:
+Severe cases of microbial keratitis may progress to corneal perforation due to enzymatic degradation from the infecting organism or host immune response. This may necessitate emergency surgical intervention such as tectonic grafting or corneal transplantation.
+Endophthalmitis:
+A serious complication where the infection extends into the inner eye, often caused by organisms like
+Pseudomonas aeruginosa
+. This can rapidly lead to blindness if not promptly diagnosed and treated.
+Cataract formation:
+Inflammation induced by microbial keratitis may accelerate cataract development, further compromising visual acuity.
+Secondary glaucoma:
+Chronic inflammation or direct invasion of the trabecular meshwork by microbes can result in increased intraocular pressure (IOP), potentially leading to secondary glaucoma.
+Scleritis and Episcleritis:
+These are less common but notable complications that involve inflammation of the white part of the eye. They typically occur when pathogens like
+Nocardia
+,
+Acanthamoeba
+, or fungi invade deeper structures.
+Improve
+Infective keratitis
+Microbial keratitis

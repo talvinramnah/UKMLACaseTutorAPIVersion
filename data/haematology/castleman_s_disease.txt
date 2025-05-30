@@ -1,0 +1,138 @@
+Castleman's disease
+Castleman's disease
+Castleman's disease (CD) is also known as angiofollicular lymph node hyperplasia. It is a rare lymphoproliferative disorder of young adults. The median age at the time of presentation is 35-years.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.50 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Non-
+Hodgkin's lymphoma
+14.00
+Hodgkin's lymphoma
+2.20
+Castleman's disease
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Various pathological mechanisms have been proposed for Castleman's disease:
+Viral stimulation:
+HIV infection or immunodeficiency in HIV-negative cases enables HHV-8 to escape from host immune control.
+It then replicates in lymph node plasmablasts and signals for the release of cytokines.
+These cytokines (especially IL-6) cause clinical and pathologic symptoms.
+Angiogenesis:
+Vascular endothelial growth factor (VEGF) is produced in increased quantity in the affected cells. It allows for increased proliferation.
+Improve
+Classification
+Castleman's disease (CD) is classified based on the anatomical location of the involved lymph nodes and the presence or absence of human herpesvirus 8 (HHV-8).
+Unicentric CD (UCD):
+Lymph nodes from a single region are involved.
+Systemic symptoms are not common.
+HHV-8-associated multicentric CD (MCD):
+Multiple lymph nodes are enlarged.
+HHV-8 positive individuals.
+Commonly seen in HIV or immunocompromised individuals.
+Idiopathic MCD (iMCD):
+Multiple lymph nodes are enlarged.
+HHV-8 negative individuals.
+Improve
+Clinical features
+A stereotypical presentation of Castleman's disease often involves systemic symptoms such as fever, night sweats and weight loss. These are frequently associated with
+lymphadenopathy
+, which is typically painless and may be localised or widespread.
+However, the presenting features of Castleman's disease can vary widely depending on the type (unicentric versus multicentric) and the underlying cause. As such, it is important to consider a broad differential diagnosis when evaluating a patient with potential Castleman's disease.
+General Symptoms:
+Fever:
+This is one of the most common presenting features and may be intermittent or persistent.
+Night Sweats:
+Profuse sweating during sleep is another typical symptom that patients report.
+Weight Loss:
+Unintentional weight loss over a period of several weeks to months is also commonly observed.
+Lymphadenopathy:
+Painless Lymph Nodes Enlargement:
+This can occur in any lymph node group but is most commonly noted in the neck, axillae or inguinal areas. The lymph nodes are usually firm and non-tender on examination.
+Hepatosplenomegaly:
+This refers to enlargement of both the liver and spleen. It may present clinically as abdominal discomfort or fullness, but it can also be asymptomatic and detected only on physical examination or imaging studies.
+Anaemia and Thrombocytopenia:
+Anaemia (low haemoglobin levels) and thrombocytopenia (low platelet count) are common laboratory findings in patients with Castleman's disease due to bone marrow involvement or chronic inflammation.
+Renal Manifestations:
+Renal involvement is common in Castleman's disease, particularly in the multicentric type. Patients may present with proteinuria, haematuria or renal insufficiency.
+In addition to these features, patients with multicentric Castleman's disease may also exhibit symptoms related to hypercytokinaemia such as fatigue, rash and peripheral oedema. Furthermore, certain subtypes of Castleman's disease are associated with specific viral infections. For instance, human herpesvirus 8 (
+HHV-8
+) is often seen in HIV-positive patients with multicentric Castleman's disease and can lead to additional clinical manifestations including Kaposi's sarcoma.
+Improve
+Investigations
+Several laboratory and radiological abnormalities can aid in the diagnosis, but the definitive diagnosis is made on biopsy. The most common histopathological variant is
+hyaline vascular
+subtype. It is seen in over 50 percent of the individuals.
+Laboratory abnormalities can include:
+Elevated inflammatory markers:
+C-reactive protein (CRP)
+Erythrocyte sedimentation rate (ESR)
+Haematological abnormalities:
+Anemia
+Thrombocytopenia or thrombocytosis
+Hypoalbuminemia
+Radiological investigations include:
+CT scan or MRI
+Solitary, noninvasive mass in 50% of cases of UCD
+Bilateral hilar and mediastinal
+lymphadenopathy
+and centrilobular nodular opacities in MCD
+PET scan
+Increased uptake is correlated with disease multicentricity and clinical manifestation.
+Improve
+Differential diagnosis
+The differential diagnosis of Castleman's disease should include:
+HIV lymphadenitis:
+Generalized
+lymphadenopathy
+is more common than solitary adenopathy in HIV.
+There is usually a history of unsafe sexual behavior, or intravenous drug abuse.
+Serology can confirm HIV infection.
+Lymphoma:
+Lymphomas can present with diffuse or solitary lymphadenopathy.
+B symptoms such as night sweats, fever, weakness, malaise, etc may or may not be present.
+Biopsy and immunohistochemistry are used to differentiate these conditions.
+Follicular hyperplasia:
+It presents with generalised lymphadenopathy that can be differentiated from Castleman's disease with the help of biopsy.
+Improve
+Management
+Management of Castleman's disease depends on the type of disease:
+Unicentric Castleman's disease (UCD):
+Surgical removal of the enlarged lymph node is usually curative and is considered the gold standard for treatment.
+Sometimes, it is not possible to remove the mass completely, eg mediastinal mass close to major vessels or main stem bronchus. In these patients, systemic therapy with immunomodulators like rituximab or embolization to reduce the size is done prior to surgery.
+HHV-8-associated MCD:
+Rituximab is the drug of choice.
+For patients with concomitant HIV infection and a low CD4 count and/or higher HIV load, antiretroviral therapy (ART) should be included as well.
+HHV-8-negative MCD:
+Siltuximab (Sylvant) is the drug of choice. It is a monoclonal antibody that binds interleukin-6 (IL-6).
+Tocilizumab (anti-IL-6 receptor therapy) may be used if siltuximab is not available.
+Improve
+Complications
+The prognosis of Castleman's disease is excellent, provided that complete lymph node resection was done. There is less than 4% mortality after 10-years following treatment.
+Patients are at increased risk of developing:
+Lymphomas
+Can present with B-symptoms such as night sweats, fever, myalgias.
+Generalised or solitary
+lymphadenopathy
+.
+Paraneoplastic pemphigus
+Rare, blistering lesions develop on the skin.
+Improve
+Haematology
+Castleman's disease

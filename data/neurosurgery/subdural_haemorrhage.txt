@@ -1,0 +1,147 @@
+Subdural haemorrhage
+Subdural haemorrhage
+Subdural haemorrhage
+is a serious, often life-threatening condition characterised by bleeding in the space between the dura mater and arachnoid layers of the meninges. This typically occurs as a result of significant head trauma leading to rupture of bridging veins. However, it can also present spontaneously or after minor injuries, especially in elderly patients or those on anticoagulant therapy.
+The clinical presentation varies widely from acute to chronic forms. Acute subdural haemorrhages usually manifest within 24 hours post-injury with signs of increased intracranial pressure such as altered consciousness,
+headache
+,
+vomiting
+and focal neurological deficits. Chronic cases may present weeks to months post-injury with subtle symptoms like cognitive changes, gait disturbance or hemiparesis.
+Diagnosis is principally established via neuroimaging techniques like computed tomography (CT) scan which typically reveals a crescent-shaped hyperdense blood collection along the brain convexity. Management involves surgical intervention alongside medical stabilisation.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Subdural haemorrhage
+1
+Central venous thrombosis
+0.28
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Subdural haemorrhage (SDH) is commonly associated with traumatic brain injury, but several risk factors and underlying causes contribute to its aetiology. Understanding these is vital for optimal patient management and prognosis.
+Risk Factors
+Age:
+The risk of SDH increases significantly in the elderly due to cerebral atrophy which stretches and makes the bridging veins more susceptible to tears. Neonates are also at risk because of their large head size, thin cranial bones, and immature bridging veins.
+Alcoholism:
+Chronic alcohol abuse predisposes individuals to falls leading to head injuries. Alcohol-related liver disease can also cause coagulopathies, increasing the risk of bleeding.
+Anticoagulant therapy:
+Patients on anticoagulant or antiplatelet therapy have an increased risk of SDH due to impaired clotting mechanisms.
+Trauma:
+Traumatic events such as falls, motor vehicle accidents, or violent assaults often result in head injuries leading to SDH. Even minor trauma can cause SDH especially in high-risk populations like the elderly or those on anticoagulant therapy.
+Vascular malformations:
+Arteriovenous malformations or aneurysms may rupture causing subdural bleeding.
+Coagulopathies:
+Conditions that impair the blood's ability to clot, such as haemophilia or liver disease, can cause spontaneous SDH.
+It is important to note that in a significant number of cases, especially in the elderly, no clear cause can be found. This is often referred to as 'spontaneous' or 'idiopathic' subdural haemorrhage.
+Improve
+Classification
+Subdural haematomas can be classified in terms of their age:
+Acute
+Subacute
+Chronic
+Although the collection of blood is within the same anatomical compartment, acute and chronic subdurals have important differences in terms of their mechanisms, associated clinical features and management.
+Improve
+Clinical features
+Acute Subdural Haematoma
+Typically presents within 24 hours of trauma
+Clinical features reflect rapidly increasing intracranial pressure:
+Decreased level of consciousness
+(from mild
+confusion
+to coma)
+Headache
+, often severe and progressive
+Nausea
+and
+vomiting
+Seizures in approximately 20% of cases
+Focal neurological deficits:
+Hemiparesis contralateral to the haematoma
+Pupillary abnormalities (ipsilateral pupillary dilatation with uncal herniation)
+Dysphasia if dominant hemisphere affected
+Signs of
+raised intracranial pressure
+:
+Cushing's triad (hypertension, bradycardia, irregular respiration)
+Papilloedema (though often not present acutely)
+Deterioration may be rapid and catastrophic
+Chronic Subdural Haematoma
+Presents weeks to months after initial trauma (which may be trivial or forgotten)
+Insidious onset with fluctuating symptoms
+Common presentations include:
+Headache (often mild to moderate)
+Cognitive impairment and confusion
+Personality changes
+Gait disturbance and falls
+Focal neurological deficits (often mild and fluctuating)
+May mimic stroke, dementia, or Parkinson's disease in elderly patients
+Symptoms may worsen with position changes or Valsalva manoeuvres
+Special Clinical Scenarios
+Bilateral subdural haematomas:
+May present with altered mental status without focal deficits
+Frontal lobe dysfunction (apathy, abulia)
+In elderly patients:
+Presentation often atypical and subtle
+Falls, confusion or cognitive decline may be the only features
+In anticoagulated patients:
+More rapid progression of symptoms
+Higher risk of recurrence after treatment
+Examination findings:
+Scalp contusions or lacerations may indicate trauma site
+Taut fontanelle in infants
+Battle's sign or raccoon eyes suggesting associated skull base fracture
+Improve
+Investigations
+Acute subdural haematoma
+CT imaging is the first-line investigation and will show a crescentic collection, not limited by suture lines. They will appear hyperdense (bright) in comparison to the brain. Large acute subdural haematomas will push on the brain ('mass effect') and cause midline shift or herniation.
+Chronic subdural haematoma
+On CT imaging they similarly are crescentic in shape, not restricted by suture lines and compress the brain ('mass effect'). In contrast to acute subdurals, chronic subdurals are hypodense (dark) compared to the substance of the brain.
+Improve
+Management
+Acute subdural haematoma
+Small or incidental acute subdurals can be observed conservatively. Surgical options include monitoring of intracranial pressure and decompressive craniectomy.
+Chronic subdural haematoma
+If the chronic subdural is an incidental finding or if it is small in size with no associated neurological deficit then it can be managed conservatively with the hope that it will dissolve with time. If the patient is confused, has an associated neurological deficit or has severe imaging findings then surgical decompression with burr holes is required.
+Improve
+Complications
+Subdural haemorrhage can result in a multitude of complications, some of which are more prevalent than others. The most common complications include:
+Increased intracranial pressure (IICP):
+This is the most common complication and can lead to cerebral herniation if not managed promptly. Symptoms may include
+headache
+,
+vomiting
+, altered mental status, and papilloedema.
+Cerebral oedema:
+Swelling of the brain tissue can occur due to the accumulation of blood in the subdural space. This can further exacerbate IICP and worsen neurological outcomes.
+Herniation syndromes:
+Increased IICP can lead to displacement of brain tissues into regions they normally do not occupy. These may include uncal herniation, central herniation or tonsillar herniation, each with its own characteristic clinical features.
+Additionally, several less common but significant complications include:
+Infection:
+Although rare, infections such as meningitis or abscess formation can occur post-haemorrhage or post-surgical intervention.
+Hydrocephalus:
+Obstruction or impairment of cerebrospinal fluid (CSF) flow due to blood clot formation can potentially lead to hydrocephalus.
+Venous infarction:
+Compression or thrombotic occlusion of cortical veins by the expanding haematoma may result in venous infarction.
+Epilepsy:
+Seizures are a potential complication following subdural haemorrhage and may require long-term antiepileptic therapy.
+The management approach for these complications should be both prompt and aggressive, with a focus on maintaining cerebral perfusion pressure, reducing IICP, and preventing secondary brain injury. This may involve medical therapies such as hyperosmolar agents or surgical interventions including haematoma evacuation or decompressive craniectomy.
+Improve
+References
+Radiopaedia - Subdural haemorrhage
+Head injury
+Subdural haemorrhage

@@ -1,0 +1,155 @@
+Ludwig's angina
+Ludwig's angina
+Ludwig's angina is a type of progressive cellulitis that invades the floor of the mouth and soft tissues of the neck. Most cases result from odontogenic infections which spread into the submandibular space.
+It is a life-threatening emergency as airway obstruction can occur rapidly as a result. Urgent medical treatment and airway assessment is required.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.50 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Peritonsillar abscess (quinsy)
+60.00
+Ludwig's angina
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Over 70% of cases occur as a result of
+dental infections
+, particularly from the second or third mandibular molars. Less common causes include:
+Peritonsillar abscesses
+Mandibular fractures
+Oral lacerations/piercings
+Sialadenitis
+Oral malignancy
+Predisposing factors include:
+Dental cavities
+Previous dental procedures
+Systemic conditions:
+Diabetes mellitus
+Malnutrition
+Alcoholism
+AIDS
+Other immunosuppressive conditions
+Improve
+Pathophysiology
+Ludwig's angina occurs when infection from a nearby source spreads contiguously into the sublingual and
+submandibular space
+. It can then progress rapidly and travel to the parapharyngeal and retropharyngeal spaces, encircling the airway.
+Infections are typically polymicrobial and can involve various species of oral flora which arise from odontogenic sources. The most commonly isolated pathogens are:
+Streptococcus viridans
+Staphylococcus aureus
+Staphylococcus epidermidis
+Peptostreptococcus spp.
+Bacteroides spp.
+Fusobacterium spp.
+In immunocompromised patients gram negative aerobes such as
+Pseudomonas aeruginosa
+may also be involved.
+Improve
+Clinical features
+Most patients report
+neck swelling
+often with either dental pain or following a recent dental procedure. Clinical features can evolve rapidly as the infection spreads and other potential symptoms include:
+Dysphagia
+(35%)
+Pharyngodynia (25%)
+Fever
+(25%)
+Trismus (15%)
+Dysphonia (15%)
+Signs on physical examination include:
+Bilateral submandibular swelling
+Elevated or protruding tongue
+Signs of
+respiratory distress
+if airway compromise is already present
+Dyspnoea (15%)
+Tachypnoea
+Stridor
+Improve
+Investigations
+Ludwig's angina is a clinical diagnosis and investigations should not delay initial management. However, the following bloods should be taken:
+FBC
+Leukocytosis
+CRP
+Blood cultures
+To assess for haematogenous spread
+Microbial culture and analysis can be attempted
+Needle aspiration of submandibular space
+Often unsuccessful in the absence of abscess formation.
+It may also be useful to obtain imaging:
+CT scan with IV contrast
+To identify suppurative complications that require surgical drainage or if the diagnosis is unclear.
+Dental X-ray
+To identify the potential source of infection.
+Improve
+Differential diagnosis
+Ludwig's angina may present similarly to other infectious neck masses and is frequently found in combination with other
+deep space neck infections
+. As these can all present with the similar clinical features of neck swelling,
+fever
+and sore throat they can often only be differentiated by the precise location of the swelling. A
+CT scan
+of the neck can be useful if the diagnosis is unclear. Examples include:
+Peritonsillar abscess
+Uvular deviation, trismus
+Retropharyngeal abscess
+Bulging of pharyngeal wall
+Acute suppurative parotitis
+Unilateral induration from cheek to jaw
+It is also important to rule out non-infectious causes of neck swelling:
+Oral carcinoma
+Persistent oral ulcerations, cervical lymphadenopathy, weight loss?
+Angioedema
+History of allergies or ACE inhibitor use? Swelling and hives in other parts of the body?
+Submandibular haematoma
+History of trauma and anticoagulation?
+Improve
+Management
+Initial treatment consists of urgent
+airway assessment and management
+combined with
+broad-spectrum intravenous antibiotics
+.
+There are no specific guidelines for the treatment of Ludwig's angina, however, the following principles are based on retrospective studies and UpToDate recommendations:
+Admission to a high dependency unit (HDU) or ENT ward with close airway observation.
+If respiratory distress is present, immediate intubation or tracheostomy may be necessary.
+Fibreoptic laryngoscopy is useful for airway assessment and assisting intubation.
+Empiric antibiotic regimens with coverage for beta-lactamase producing gram-positive, gram-negative, and anaerobic organisms are advised. However, there are no clinical trials to date to support any particular regimen.
+Options include combinations of ampicillin-sulbactam, clindamycin, and metronidazole.
+If the patient is immunocompromised antibiotic treatment should be extended to involve anti-pseudomonal coverage and vancomycin should be considered if there is an increased risk of MRSA.
+Antibiotics should be continued intravenously for a duration of two to three weeks.
+Surgical drainage
+should be performed to treat localised abscesses or following failure of medical management.
+If an infected tooth is determined as the source, it should be extracted.
+Improve
+Complications
+Airway obstruction
+is the most common serious complication and can develop rapidly at any stage. It can lead to either:
+Asphyxia
+The most common cause of death.
+Aspiration pneumonia
+Other major complications in descending order of frequency include:
+Septicaemia
+Blood cultures should always be taken.
+Mediastinitis
+Due to spread through the retropharyngeal space and into the superior mediastinum.
+Can be identified using a chest X-ray.
+Cervical necrotizing fasciitis
+Improve
+Ear, nose and throat
+Ludwig's angina

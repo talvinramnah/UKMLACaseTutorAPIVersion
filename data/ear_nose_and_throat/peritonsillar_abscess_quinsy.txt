@@ -1,0 +1,169 @@
+Peritonsillar abscess (quinsy)
+Peritonsillar abscess (quinsy)
+Peritonsillar abscess, also known as quinsy, is a serious complication of
+tonsillitis
+that requires prompt diagnosis and treatment. It is a collection of pus in the tissue surrounding the tonsils, usually caused by bacterial infection. Patients with peritonsillar abscess typically present with severe
+sore throat
+, difficulty swallowing,
+fever
+, and
+trismus
+. Physical examination may reveal a swollen and erythematous tonsil, deviation of the uvula, and a fluctuant mass in the peritonsillar area. Diagnosis is confirmed by needle aspiration or imaging studies. Treatment involves drainage of the abscess, usually by needle aspiration or incision and drainage, along with antibiotics. Complications of peritonsillar abscess include airway obstruction, sepsis, and Lemierre's syndrome. Recurrence of peritonsillar abscess is common, and tonsillectomy may be considered in selected cases.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 30.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Acute tonsillitis
+16.67
+Peritonsillar abscess (quinsy)
+1
+Ludwig's angina
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of peritonsillar abscess (quinsy) is multifactorial, involving both host and environmental factors. Several risk factors and underlying causes contribute to the development of this condition.
+Risk Factors:
+Age:
+Although quinsy can occur at any age, it is most common in young adults between 20-40 years old.
+Tonsillitis
+or Pharyngitis:
+A history of recurrent tonsillitis or pharyngitis predisposes an individual to developing peritonsillar abscesses. This can be due to chronic inflammation leading to structural changes in the tonsils, facilitating bacterial invasion.
+Immunocompromised State:
+Individuals with compromised immune systems, such as those with HIV/AIDS, diabetes mellitus or undergoing immunosuppressive therapy are at an increased risk.
+Smoking:
+Tobacco use has been associated with an increased incidence of peritonsillar abscesses. The exact mechanism remains unclear but may involve local tissue damage and impaired immune responses.
+Underlying Causes:
+Bacterial Infections:
+Peritonsillar abscesses often develop secondary to bacterial infections. The most common causative organism is
+Streptococcus pyogenes
+, also known as Group A beta-hemolytic streptococcus (GABHS). Other organisms that have been implicated include
+Staphylococcus aureus
+,
+Fusobacterium necrophorum
+,
+Hemophilus influenzae
+, and various anaerobic bacteria.
+Viral Infections:
+Viral infections can also contribute to the development of peritonsillar abscesses, although this is less common than bacterial causes. Such viruses include Epstein-Barr virus (EBV), cytomegalovirus (CMV), and adenovirus.
+Dental Infections:
+Dental infections, particularly periodontitis, may lead to peritonsillar abscess formation due to the close anatomical proximity and shared lymphatic drainage.
+Improve
+Pathophysiology
+The pathophysiology of peritonsillar abscess (quinsy) is a complex interaction of bacterial infection, inflammatory response, and anatomical factors. Understanding this process can help clinicians better diagnose and treat this condition.
+The initial stage in the development of a peritonsillar abscess begins with a bacterial infection, typically a pharyngitis caused by
+Streptococcus pyogenes
+, though other organisms such as
+Staphylococcus aureus
+, Haemophilus species, and anaerobes may also be involved. This infection leads to an inflammatory response in the tonsillar tissue.
+Bacterial Infection and Inflammation
+In response to the bacterial invasion, the body's immune system initiates an inflammatory response. This includes vasodilation, increased vascular permeability and accumulation of neutrophils and macrophages at the site of infection.
+The influx of these immune cells results in localised swelling and redness. Over time, pus accumulates as dead bacteria, immune cells and tissue debris collect.
+Abscess Formation
+The continued accumulation of pus leads to increasing pressure within the tissue. The weakest point in the tonsillar capsule is typically where rupture occurs leading to formation of an abscess.
+This abscess is most commonly located between the superior constrictor muscle and the palatine tonsil; hence its name 'peritonsillar' abscess.
+Improve
+Clinical features
+Features include:
+severe throat pain, which lateralises to one side
+difficulty swallowing and speaking
+deviation of the uvula to the unaffected side
+trismus
+(difficulty opening the mouth)
+reduced neck mobility
+systemic features:
+fever
+and chills, malaise
+Improve
+Differential diagnosis
+The differential diagnosis for peritonsillar abscess (quinsy) can be challenging due to the similarity of symptoms with other oropharyngeal conditions. The three most likely alternative diagnoses are
+tonsillitis
+, mononucleosis, and retropharyngeal abscess.
+Tonsillitis
+Both peritonsillar abscess and tonsillitis present with
+sore throat
+,
+dysphagia
+and
+fever
+. However, unilateral throat pain is more suggestive of a peritonsillar abscess whereas bilateral symptoms are common in tonsillitis.
+Physical examination may reveal enlarged and erythematous tonsils in both conditions but the presence of uvular deviation or
+trismus
+indicates a peritonsillar abscess.
+A significant difference lies in the progression of symptoms - acute onset is typical for tonsillitis while peritonsillar abscess often develops over several days following a prodromal period of tonsillitis.
+Infectious Mononucleosis (Glandular Fever)
+Mononucleosis, caused by the
+Epstein-Barr virus
+, also presents with pharyngitis and fever but includes systemic symptoms such as fatigue, lymphadenopathy, hepatosplenomegaly and atypical lymphocytosis on full blood count that are not typically seen in quinsy.
+The age group affected can provide a clue - infectious mononucleosis frequently occurs in adolescents and young adults while quinsy is more prevalent in older adults.
+Retropharyngeal Abscess
+Retropharyngeal abscess shares some clinical features with peritonsillar abscess including sore throat, fever, cervical adenopathy and dysphagia. However, it is more common in younger children (typically under 4 years) compared to quinsy which predominates in adults.
+Neck stiffness, torticollis or bulging of the posterior pharyngeal wall may indicate a retropharyngeal abscess.
+Improve
+Management
+Management of peritonsillar abscess (quinsy) involves both medical and surgical interventions. The choice of treatment depends on the severity of the condition, patient's overall health status and local resources.
+Medical Management
+Antibiotic therapy:
+Empirical antibiotics are initiated before culture results are available.
+The first-line treatment typically includes a penicillin combined with a beta-lactamase inhibitor.
+If the patient is allergic to penicillin, a macrolide or clindamycin can be used.
+Analgesia:
+Pain management is crucial due to severe
+sore throat
+associated with quinsy. Non-steroidal anti-inflammatory drugs (NSAIDs) or paracetamol can be used for this purpose.
+Steroids:
+While not universally agreed upon, some clinicians advocate for the use of steroids to reduce inflammation and potentially expedite recovery.
+Surgical Management
+Needle aspiration:
+This is often the first line surgical intervention, especially if there is significant
+trismus
+preventing oral examination.
+The procedure involves aspirating pus from the abscess using a needle under local anaesthesia. It may need to be repeated if symptoms persist or recur.
+Intraoral incision and drainage:
+This procedure may be performed if needle aspiration fails or if the abscess is large.
+A small incision is made in the most bulging part of the tonsil to allow drainage of pus.
+Quinsy tonsillectomy:
+This is a more radical approach and is usually reserved for recurrent cases or if other interventions fail.
+The procedure involves removal of the tonsil along with the abscess.
+Post-procedure, patients should be monitored for complications such as bleeding, airway compromise, and spread of infection. Regular follow-up is necessary to assess recovery and ensure resolution of the abscess.
+Inpatient vs Outpatient Management
+Outpatient management may be suitable for patients who are systemically well, have small abscesses that can be managed with needle aspiration, and can tolerate oral antibiotics and analgesics.
+Inpatient management is recommended for patients who are systemically unwell, unable to tolerate oral medications, or have large abscesses requiring incision and drainage or tonsillectomy. It's also indicated in those with potential complications such as impending airway obstruction or suspicion of parapharyngeal extension of the abscess.
+Improve
+Complications
+The complications of peritonsillar abscess (quinsy) can be categorised into immediate and long-term complications. Immediate complications are typically associated with the spread of infection or inadequate treatment, while long-term complications may arise from recurrent episodes.
+Immediate Complications
+Airway obstruction:
+This is the most serious immediate complication. The expanding abscess can push the uvula and tonsil towards the midline, leading to significant airway compromise.
+Spread of infection:
+The infection may disseminate locally or systemically. Local spread can cause cellulitis, necrotising fasciitis or deep neck space infections such as parapharyngeal or retropharyngeal abscesses. Systemic spread, although rare, can lead to sepsis or Lemierre's syndrome (
+Fusobacterium necrophorum
+).
+Bleeding:
+Erosion into the carotid artery sheath by an untreated abscess can result in a catastrophic bleed.
+Long-Term Complications
+Tonsillectomy:
+Recurrent peritonsillar abscesses often necessitate tonsillectomy for definitive management.
+Voice changes and swallowing difficulties:
+These are potential sequelae following repeated quinsy episodes or post-tonsillectomy.
+Rheumatic
+fever
+and glomerulonephritis:
+Although uncommon in developed countries, these are potential systemic complications linked to Group A streptococcal infections.
+Improve
+Ear, nose and throat
+Peritonsillar abscess (quinsy)

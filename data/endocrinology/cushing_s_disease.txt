@@ -1,0 +1,158 @@
+Cushing's disease
+Cushing's disease
+Cushing's disease is a rare endocrine disorder caused by the overproduction of cortisol hormone by the adrenal glands. It is most commonly caused by a benign pituitary tumour that secretes adrenocorticotropic hormone (ACTH), which stimulates the adrenal glands to produce cortisol. Excessive cortisol production leads to a range of symptoms, including
+weight gain
+, muscle weakness, high blood pressure, diabetes, and osteoporosis. Diagnosis involves a combination of clinical evaluation, laboratory tests, and imaging studies. Treatment options include surgical removal of the pituitary tumour, radiation therapy, and medication to control cortisol levels.
+Last updated: 3
+rd
+September 2023
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 3:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Cushing's disease is a subtype of Cushing's syndrome specifically caused by an adrenocorticotropic hormone (ACTH)-secreting pituitary adenoma. This tumour results in excessive secretion of ACTH, which subsequently stimulates the adrenal glands. It accounts for about 70% of endogenous Cushing's syndrome not related to iatrogenic steroid use. Other causes of Cushing's syndrome, such as ectopic ACTH secretion or adrenal adenomas, should be differentiated from Cushing's disease.
+Improve
+Pathophysiology
+The tumoural overproduction of ACTH has a cascade of consequences. Initially, elevated levels of ACTH act on the melanocortin receptors of the adrenal cortex, predominantly on the zona fasciculata, the primary site of cortisol production. This leads to hyperplasia of the adrenal glands and increased cortisol secretion into the systemic circulation.
+The elevated cortisol levels manifest their effects through the glucocorticoid receptors, affecting multiple bodily systems. This includes potent anti-inflammatory and immunosuppressive effects, as well as increasing hepatic gluconeogenesis while decreasing peripheral glucose uptake, thus elevating blood glucose levels. Additionally, cortisol interferes with bone metabolism, leading to osteoporosis, and promotes protein catabolism, causing muscle wasting.
+In a normally functioning hypothalamic-pituitary-adrenal (HPA) axis, rising cortisol levels would suppress the release of corticotropin-releasing hormone (CRH) from the hypothalamus and ACTH from the pituitary, thereby forming a negative feedback loop. However, the pituitary adenoma in Cushing's disease is often insensitive to this feedback inhibition, resulting in a persistent state of ACTH hypersecretion.
+This dysregulation of the HPA axis and the persistent hypercortisolism have far-reaching effects, including metabolic syndrome, with a particular predilection for central obesity, as well as mood disorders, easy bruising and poor wound healing, among other manifestations.
+Improve
+Clinical features
+Central Obesity and
+Weight Gain
+Redistribution of adipose tissue, particularly in the face (moon facies), supraclavicular region, and dorsocervical area (buffalo hump)
+Abdominal striae, typically purple or violaceous in colour and wider than 1 cm
+Musculoskeletal Manifestations
+Proximal myopathy affecting the hip and shoulder girdles, leading to difficulty in rising from a seated position or climbing stairs
+Osteopenia and osteoporosis with an increased risk of fractures, particularly vertebral compression fractures
+Avascular necrosis of the femoral head
+Dermatological Features
+Hirsutism due to increased adrenal androgens
+Acne vulgaris and seborrheic dermatitis
+Thin skin with easy bruising and poor wound healing
+Endocrine Disturbances
+Glucose intolerance or overt type 2 diabetes mellitus due to cortisol-induced insulin resistance
+Menstrual irregularities (oligomenorrhea or amenorrhea) in females; decreased libido and erectile dysfunction in males due to hypothalamic-pituitary-gonadal axis suppression
+Neuropsychiatric Manifestations
+Depression, anxiety, irritability, emotional lability, and cognitive deficits such as impaired memory or concentration
+Sleep disturbances including insomnia or hypersomnia
+Cardiovascular Complications
+Hypertension
+due to cortisol-mediated sodium retention and potentiation of catecholamine action on blood vessels
+Increased risk of venous thromboembolism secondary to hypercoagulable state induced by elevated cortisol levels
+Paediatric Considerations
+In children, growth retardation may occur due to cortisol-mediated suppression of growth hormone secretion
+Precocious puberty may be observed in some cases
+Improve
+Investigations
+This section will consider:
+the general lab findings consistent with Cushing's syndrome
+tests to confirm whether a patient indeed has Cushing's syndrome
+tests to find the underlying cause of Cushing's syndrome
+It is useful to bear in mind the possible causes:
+iatrogenic: corticosteroid therapy
+ACTH-dependent causes
+Cushing's disease (a pituitary adenoma â→ ACTH secretion)
+ectopic ACTH secretion secondary to a malignancy
+ACTH-independent causes
+adrenal adenoma
+General findings consistent with Cushing's syndrome
+A hypokalaemic
+metabolic alkalosis
+may be seen, along with impaired glucose tolerance.
+Ectopic ACTH secretion (e.g. secondary to small cell lung cancer) is characteristically associated with very low potassium levels.
+Tests to confirm Cushing's syndrome
+The three most commonly used tests are:
+overnight (low-dose) dexamethasone suppression test
+this is the most sensitive test and is now used first-line to test for Cushing's syndrome
+patients with Cushing's syndrome do not have their morning cortisol spike suppressed
+24 hr urinary free cortisol
+two measurements are required
+bedtime salivary cortisol
+two measurements are required
+Localisation tests
+The first-line localisation is 9am and midnight plasma ACTH (and cortisol) levels. If ACTH is suppressed then a non-ACTH dependent cause is likely such as an adrenal adenoma
+High-dose dexamethasone suppression test
+The high-dose dexamethasone suppression test may be used to localise the pathology resulting in Cushing's syndrome. This test may be interpreted as follows:
+Cortisol
+ACTH
+Interpretation
+Not suppressed
+Suppressed
+Cushing's syndrome due to other causes (e.g. adrenal adenomas)
+Suppressed
+Suppressed
+Cushing's disease (i.e. pituitary adenoma â→ ACTH secretion)
+Not suppressed
+Not suppressed
+Ectopic ACTH syndrome
+Other tests
+CRH stimulation
+if pituitary source then cortisol rises
+if ectopic/adrenal then no change in cortisol
+Petrosal sinus sampling of ACTH may be needed to differentiate between pituitary and ectopic ACTH secretion.
+An insulin stress test is used to differentiate between true Cushing's and pseudo-Cushing's.
+Improve
+Differential diagnosis
+The differential diagnosis of Cushing's disease can be challenging due to the overlap in clinical presentation with several other conditions. The three most likely alternative diagnoses include adrenal adenoma, ectopic adrenocorticotropic hormone (ACTH) syndrome, and polycystic ovary syndrome (PCOS).
+Adrenal Adenoma
+An adrenal adenoma is a benign tumour of the adrenal gland that may secrete cortisol independently of ACTH stimulation, resulting in hypercortisolism. This condition is termed 'ACTH-independent Cushing's syndrome'.
+Unlike Cushing's disease, which exhibits high levels of ACTH due to pituitary overproduction, patients with an adrenal adenoma typically have suppressed ACTH levels due to negative feedback on the pituitary.
+Clinically, both conditions present with features of cortisol excess such as central obesity, moon facies, and skin thinning. However, patients with an adrenal adenoma may not exhibit the typical purple striae seen in Cushing’s disease due to lower overall cortisol production.
+Ectopic ACTH Syndrome
+Ectopic ACTH syndrome is characterised by non-pituitary tumours secreting ACTH. It accounts for approximately 10% of cases of endogenous hypercortisolism.
+Patients with ectopic ACTH syndrome usually present with severe symptoms due to markedly elevated cortisol levels. In contrast to Cushing's disease where symptoms develop gradually over months to years, ectopic ACTH syndrome often presents acutely over weeks.
+Hyperpigmentation is a distinguishing feature in ectopic ACTH syndrome but not commonly observed in Cushing’s disease. This is due to high circulating ACTH levels stimulating melanocytes.
+Polycystic Ovary Syndrome (PCOS)
+PCOS is a common endocrine disorder in women of reproductive age, characterised by hyperandrogenism, ovulatory dysfunction, and polycystic ovaries.
+In contrast to Cushing's disease, PCOS does not usually result in hypercortisolism. However, both conditions can present with menstrual irregularities and hirsutism.
+The presence of multiple ovarian cysts on ultrasound and elevated luteinising hormone (LH) to follicle-stimulating hormone (FSH) ratio are distinctive for PCOS and help differentiate it from Cushing’s disease.
+Improve
+Management
+Management of Cushing's disease
+First-line = trans-sphenoidal removal of pituitary tumour (hypophysectomy)
+Second-line = repeat trans-sphenoidal surgery, pituitary radiotherapy
+Third-line = bilateral adrenalectomy
+The 2 major complications of bilateral adrenalectomy are:
+1) Hypoadrenal crisis - requires life-long glucocorticoid (hydrocortisone) and mineralocorticoid (fludrocortisone) replacement
+2) Nelson's syndrome - low/no endogenous cortisol following bilateral adrenalectomy causes massive increase in ACTH production by pituitary gland (via negative feedback) which causes rapid pituitary enlargement (mass effects) and skin hyperpigmentation.
+Improve
+Complications
+The complications of Cushing's disease can be numerous and severe, potentially leading to significant morbidity and mortality. These include:
+Cardiovascular complications:
+Patients with Cushing's disease are at an increased risk of
+hypertension
+, atherosclerosis, myocardial infarction, stroke and venous thromboembolism.
+Metabolic disturbances:
+Hypercortisolism can lead to glucose intolerance or type 2 diabetes mellitus. Dyslipidaemia is also common.
+Osteoporosis and fractures:
+Chronic exposure to high levels of cortisol can result in decreased bone mineral density, increasing the risk for osteoporotic fractures.
+Muscular weakness:
+Myopathy is a frequent finding in patients with Cushing's disease, particularly proximal myopathy affecting the lower limbs.
+Pyschiatric and cognitive disorders:
+Depression, anxiety disorders, irritability, insomnia and cognitive impairment are often seen in patients with this condition.
+Infections:
+The immunosuppressive effects of hypercortisolism increase susceptibility to infections.
+In addition to these systemic complications, there are specific sequelae related to pituitary adenomas themselves:
+Hypopituitarism:
+The presence of a pituitary tumour may cause compression of normal pituitary tissue leading to hypopituitarism. This may manifest as deficiencies in growth hormone (GH), thyroid-stimulating hormone (TSH), follicle-stimulating hormone (FSH) or luteinising hormone (LH).
+Vision loss:
+Large adenomas can compress the optic chiasm causing visual field defects or even blindness.
+Headaches:
+These can be caused by the expansion of the sella turcica due to the pituitary tumour.
+It is also important to note that patients with Cushing's disease who undergo surgical treatment may experience complications related to surgery or radiotherapy, such as hypopituitarism, diabetes insipidus, cerebrospinal fluid leak and meningitis.
+Improve
+Endocrinology
+Cushing's disease

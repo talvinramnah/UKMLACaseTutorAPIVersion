@@ -1,0 +1,196 @@
+Trichomonas vaginalis
+Trichomonas vaginalis
+Trichomonas vaginalis
+is a highly motile, flagellated protozoan parasite. Trichomoniasis is a sexually transmitted infection (STI).
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 14:1
+Condition
+Relative
+incidence
+Bacterial vaginosis
+5.00
+Vaginal candidiasis
+4.00
+Trichomonas vaginalis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Trichomonas vaginalis
+is a flagellated, anaerobic, protozoan parasite. It is the causative agent of trichomoniasis, one of the most common non-viral sexually transmitted infections (STIs) worldwide, affecting both males and females.
+Transmission
+The primary route of transmission of
+Trichomonas vaginalis
+is through sexual contact, with the parasite primarily infecting the squamous epithelium of the urogenital tract. The organism can persist on inanimate objects such as towels and toilet seats for a short period, however, the significance of these routes in transmission is unclear.
+Improve
+Pathophysiology
+After transmission, the trophozoites (the active, motile stage of the parasite) adhere to the squamous epithelial cells of the urogenital tract, aided by adhesins on their surface. They can evade the host's immune response through several mechanisms, including antigenic variation and interference with host immune factors.
+Immunity
+Both cell-mediated and humoral immune responses occur following
+T. vaginalis
+infection, but they are generally ineffective in clearing the infection due to the parasite's immune evasion strategies. Reinfection is common, suggesting that protective immunity is not typically acquired.
+Improve
+Clinical features
+A stereotypical presentation of
+Trichomonas vaginalis
+infection in women is with a profuse, offensive, frothy yellow-green
+vaginal discharge
+accompanied by vulval irritation or itching.
+Dysuria
+and dyspareunia are also frequently reported. In men, infection is often asymptomatic but may present with urethral discharge or dysuria.
+Women
+Many cases are asymptomatic; when symptoms occur, they typically include:
+Vaginal discharge: classically described as thin, frothy, yellow-green and malodorous
+Vulval pruritus and irritation
+Dysuria (external)
+Dyspareunia
+On examination:
+Erythema of the vulva and vaginal mucosa
+‘Strawberry cervix’ (punctate cervical haemorrhages), seen in a minority but considered characteristic
+Men
+Most infections are asymptomatic
+When symptomatic:
+Urethral discharge (usually mild)
+Dysuria
+Occasionally balanitis or prostatitis
+Other features
+Infection may persist for months if untreated due to limited host immune response
+Complications
+can include increased risk of other sexually transmitted infections, including HIV acquisition and transmission (
+NICE CKS: Trichomoniasis
+)
+In pregnancy, trichomoniasis has been associated with adverse outcomes such as preterm birth
+The majority of infected individuals—especially men—are asymptomatic.
+However, the presence of persistent genitourinary symptoms should prompt consideration of trichomoniasis alongside other causes.
+Improve
+Investigations
+Diagnosis of
+Trichomonas vaginalis
+infection requires laboratory confirmation, as symptoms alone are insufficient for definitive diagnosis and may overlap with other sexually transmitted infections
+Microscopy of
+vaginal discharge
+has traditionally been the first-line investigation but has limited sensitivity
+More sensitive molecular and point-of-care tests are now available and recommended
+Microscopy
+Wet mount microscopy of vaginal discharge can be performed in clinic settings
+Sample is mixed with saline and examined under the microscope for motile trichomonads
+Sensitivity is poor (45-60%) even in experienced hands
+Specificity is high (>95%) when motile organisms are visualised
+Sensitivity decreases if there is any delay in sample processing as organisms lose motility
+BASHH guidelines
+note that microscopy alone is insufficient to rule out infection
+Nucleic Acid Amplification Tests (NAATs)
+NAATs are now the gold standard for diagnosis with sensitivity >95%
+Can be performed on vaginal swabs, endocervical swabs, or first-void urine samples
+Many laboratories now include
+T. vaginalis
+testing as part of combined STI screening panels
+BASHH guidelines
+recommend NAATs as the preferred diagnostic method where available
+Point-of-Care Tests
+Rapid antigen detection tests are available for use in clinic settings
+OSOM Trichomonas Rapid Test has sensitivity of 82-95% compared to NAATs
+Results available within 10-15 minutes
+Particularly useful in settings where microscopy expertise is limited or NAAT testing is not readily available
+Additional investigations should include screening for other STIs
+All patients diagnosed with
+T. vaginalis
+should be offered full STI screening
+Co-infection with other STIs is common
+Testing for HIV should be recommended as
+T. vaginalis
+infection is associated with increased HIV transmission
+In men, diagnosis is more challenging as microscopy of urethral samples has very poor sensitivity
+NAATs on first-void urine samples are preferred
+Culture of urethral swabs or urine sediment is an alternative but less sensitive than NAATs
+Improve
+Differential diagnosis
+Comparison of
+bacterial vaginosis
+and
+Trichomonas vaginalis
+Bacterial Vaginosis (BV)
+Both conditions present with
+vaginal discharge
+and raised vaginal pH (>4.5)
+BV discharge is typically thin, homogeneous, grey-white with a characteristic 'fishy' odour, particularly noticeable after sexual intercourse
+Unlike
+T. vaginalis
+, BV does not cause significant inflammation or pruritus
+Microscopy in BV shows 'clue cells' (epithelial cells covered with bacteria) rather than motile trophozoites
+BV lacks the strawberry cervix appearance sometimes seen with trichomoniasis
+Vulvovaginal
+Candidiasis
+Presents with vaginal discharge and vulvovaginal symptoms
+Candidal discharge is typically thick, white, and 'cottage cheese-like' in appearance
+Vaginal pH remains normal (3.8-4.5) in candidiasis, unlike the raised pH in trichomoniasis
+Pruritus is typically more severe in candidiasis
+Microscopy shows pseudohyphae and/or yeast cells rather than motile trophozoites
+Erythema and oedema of the vulva and vagina are common, but strawberry cervix is absent
+Chlamydial Cervicitis
+May present with vaginal discharge, though often asymptomatic in women
+Chlamydial discharge is typically mucopurulent rather than frothy
+Chlamydia more commonly causes post-coital or intermenstrual bleeding
+Lacks the characteristic offensive odour of trichomoniasis
+Diagnosis requires specific nucleic acid amplification tests (NAATs) rather than microscopy
+Often co-exists with
+T. vaginalis
+, as noted in
+BASHH guidelines
+, so consider testing for both infections
+Improve
+Management
+Aims of Treatment
+The primary aims of treating
+Trichomonas vaginalis
+infection are to:
+Eradicate the infection
+Relieve symptoms
+Prevent transmission to sexual partners
+Reduce risk of complications, including increased susceptibility to HIV acquisition
+Antimicrobial Therapy
+First-line treatment is oral metronidazole
+as recommended by the British Association for Sexual Health and HIV (BASHH)
+Single-dose regimen or multi-day course may be prescribed
+Treatment should be given to both symptomatic and asymptomatic individuals
+Metronidazole is effective in approximately 90-95% of cases
+Alternative treatments for patients with metronidazole allergy or treatment failure:
+Tinidazole (another nitroimidazole with similar efficacy)
+Clotrimazole intravaginally (less effective but may provide symptomatic relief)
+Treatment during pregnancy:
+Metronidazole is considered safe in all trimesters
+Pregnant women should be treated to prevent adverse pregnancy outcomes
+NICE guidelines recommend that symptomatic pregnant women should be treated, while asymptomatic women may be treated after the first trimester
+Partner Management
+All sexual partners within the previous 4 weeks should be notified and treated
+Partners should be treated regardless of their test results
+Abstinence from sexual intercourse is recommended until both partners have completed treatment
+Partner notification should be conducted sensitively and confidentially
+Expedited partner therapy may be considered where permitted
+Treatment Failure
+In cases of treatment failure:
+Confirm adherence to original treatment regimen
+Consider reinfection from untreated partner
+Test for metronidazole resistance (available in specialist centres)
+Management of resistant cases:
+Higher dose metronidazole regimens
+Extended course of tinidazole
+Referral to specialist services may be required for persistent infection
+Follow-up testing is not routinely recommended if symptoms resolve
+Consider test of cure in pregnant women or if symptoms persist
+Improve
+Infectious diseases
+Trichomonas vaginalis

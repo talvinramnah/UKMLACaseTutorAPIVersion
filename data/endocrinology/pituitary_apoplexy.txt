@@ -1,0 +1,37 @@
+Pituitary apoplexy
+Pituitary apoplexy
+Pituitary apoplexy is a rare yet potentially life-threatening clinical syndrome characterized by acute haemorrhagic infarction of the pituitary gland, typically within a pre-existing pituitary adenoma. The pathogenesis involves vascular compromise, resulting in ischemic necrosis and subsequent haemorrhage of the gland. This condition presents with an abrupt onset of severe
+headache
+, visual disturbances, ophthalmoplegia due to cranial nerve palsies (particularly CN III, IV, and VI), altered mental status, and potential endocrine dysfunction such as adrenal insufficiency or hypopituitarism.
+The diagnosis of pituitary apoplexy relies on clinical suspicion in conjunction with neuroimaging findings. Magnetic resonance imaging (MRI) is the preferred modality for identifying hemorrhagic transformation and oedema within the sella turcica. Laboratory evaluation should include assessment of anterior pituitary hormonal function (e.g., serum cortisol, thyroid-stimulating hormone, free thyroxine, prolactin, insulin-like growth factor-1) as well as electrolytes to evaluate for diabetes insipidus.
+Management strategies involve addressing both the acute neurological sequelae and potential endocrine deficiencies. High-dose glucocorticoid therapy is recommended to prevent adrenal crisis and reduce vasogenic oedema surrounding the lesion. Surgical decompression via transsphenoidal approach may be warranted in cases with significant mass effect or progressive neurological deficits; however, conservative management can be considered for stable patients without significant visual impairment or cranial neuropathies.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 1.5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Features
+sudden onset
+headache
+similar to that seen in subarachnoid haemorrhage
+vomiting
+neck stiffness
+visual field defects: classically bitemporal superior quadrantic defect
+extraocular nerve palsies
+features of pituitary insufficiency e.g. Hypotension secondary to hypoadrenalism
+Improve
+Endocrinology
+Pituitary apoplexy

@@ -1,0 +1,105 @@
+Ischaemic hepatitis
+Ischaemic hepatitis
+Ischaemic hepatitis is an important cause of acute liver failure and occurs as a result of impaired blood flow to the hepatic parenchyma. A 2016 review suggested 2.5-10% of all patients admitted to intensive care units have some degree of ischaemic hepatitis. The disease has multiple different causes, these are generally cardiovascular in nature, and any state which causes a shock state such as heart failure, sepsis, or hypovolemic shock may result in ischaemic hepatitis. The damage to the liver is significant, develops rapidly, is diffuse and generalised, and patients are often unwell enough to require admission to an intensive treatment unit.
+There is no definitive diagnostic test, but generally the diagnosis is based off satisfying three criteria:
+A hypoxic or ischaemic insult to the liver
+A significant rise in transaminase levels, even if transient
+Exclusion of other causes of liver injury
+Most commonly, these are viral and toxin-mediated injury
+Even with optimal medical management, mortality remains high and depending on the patient's comorbidities, 20-60% of diagnosed cases result in death.
+It is important not to confuse ischaemic hepatitis with hepatic infarction or ischaemic cholangiopathy.
+Infarctive hepatitis involves a focal point of cell death whereas ischaemic hepatitis is diffuse. Infarction typically occurs following hepatobiliary surgery or liver transplantation and involves occlusion of a single branch of the liver's blood supply.
+It can also occur in hypercoagulable states where a thromboembolic event may occur, or in severe atherosclerosis of one of the arteries supplying the liver.
+Ischaemic cholangiopathy occurs as a result of occlusion of blood vessels supplying bile ducts. The vessels are branches of the hepatic artery. Like with hepatic infarctions, this generally occurs after liver transplantation or other hepatobiliary surgery and in hypercoagulable states. The ischaemia typically affects both intrahepatic and extrahepatic bile ducts.
+Symptoms are that of biliary obstruction as one might see in choledocholithiasis or in a pancreatic adenocarcinoma. LFT patterns will also show an obstructive pattern (raised ALP and GGT)
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Any condition resulting in a shock state may precipitate ischaemic hepatitis. Such conditions include:
+Heart failure
+Septic shock
+Hypovolemic shock
+Respiratory failure
+Other causes include:
+Portal vein thrombosis
+Budd-Chiari syndrome
+Sickle cell crisis
+Hepatic artery thrombosis
+Underlying cirrhotic states may lower the threshold for which ischaemic hepatitis may manifest as patients with cirrhosis often have vascular shunts resulting in impaired blood flow to the liver.
+Although shock states, heart failure, and respiratory failure account for almost all cases where a precipitant is identified, only about 50% of cases have any precipitant identified.
+Improve
+Pathophysiology
+Consider the liver has a dual blood supply, the portal veins from the splanchnic circulation, and the hepatic artery from the celiac trunk, and that oxygen availability is dependent on both blood supply and oxygen saturation:
+Impaired oxygen supply from reduced mean arterial pressure as a result of shock reduces the supply of the oxygen to the liver from both vascular supplies resulting in ischaemia.
+A thromboembolic event in the blood supply to the liver may also cause ischaemia, however, given the dual blood supply, this is less common.
+In patients with cirrhosis, however, where shunts are created throughout the circulatory system, and congestion in the portal vein occurs, thromboembolic events are more likely to result in ischaemic damage.
+Underlying right-sided congestive heart failure is generally accepted to be a significant contributory to ischaemic hepatitis, as this contributes to both reduced oxygen saturation in the liver and reduced blood flow
+Respiratory failure reduces oxygen saturation throughout the circulatory system impairing the total oxygen supply to the liver
+The ischaemic insult causes death of the hepatocytes, releasing transaminases into the bloodstream causing the significantly raised levels found on liver enzyme panels. Since the liver is responsible for the breakdown of toxic metabolites, encephalopathy may occur. It is also a major producer of coagulation factors, the impairment of which contributes to coagulopathy.
+Improve
+Clinical features
+- Patients are generally older and often suffer from chronic cardiac, vascular, pulmonary, or hepatic comorbidities, which may be complicated by shock. At least one of the above comorbidities or shock are seen in over 90% of cases.
+The patient will present acutely unwell and will often require intensive treatment unit admission and close monitoring. Symptoms are generally non specific and include abdominal pain, nausea, and vomiting. The clinical picture may be complicated by signs and symptoms of shock (50%).
+Given the vague nature of the symptoms, consideration of this diagnosis and investigations are typically undertaken after a noted rise in LFT values following a period of hypotension or on the clinical scenario.
+It is important to note that a patient can develop ischaemic hepatitis secondary to a subclinical, asymptomatic, or transient episode of hypotension.
+Improve
+Investigations
+The choice of investigations depends on the clinical picture and the patient's history. To identify the most likely cause of liver disease, investigations include:
+Liver enzymes
+Ischaemic hepatitis will have transaminases in the thousands, rising to these levels within 24 hours, falling to half within 72 hours, and normalising within 2 weeks
+ALP will not typically show such a great increase, but may go up to twice the upper limit of normal
+LDH levels will also rise dramatically, often the ALT/LDH ratio will be less than 1
+Bilirubin levels start to rise as aminotransferase levels decline, and may go up to 4 times normal
+Viral serology
+To rule out acute viral hepatitis, another cause of transaminases in the thousands, typically hepatitis A, B or E
+Toxicology
+Toxin mediated hepatic damage is another cause of transaminases in the thousands, especially paracetamol overdose
+Serum creatinine levels may be elevated as a result of hypotensive injury to the kidneys and may support a diagnosis of ischaemic hepatitis.
+The list of causes of acute liver failure is long, and the tests above are not comprehensive. Other investigations to consider may include: anti-smooth muscle antibody for autoimmune hepatitis, right upper quadrant ultrasonography with doppler to assess for portal vein thrombosis, Budd-Chiari syndrome, or congestive hepatomegaly as well as to examine the hepatic vasculature.
+Budd-Chiari syndrome is a hepatic venous outflow tract obstruction seen in hypercoagulable states. Symptoms and presentation can vary from that of acute fulminant liver failure to that of chronic liver disease. The first-line investigation will involve doppler ultrasonography of the portal system.
+Portal vein thrombosis is an occurrence typically seen in patients with cirrhosis or in a hypercoagulable state. Presentation varies from asymptomatic, to that of acute fulminant liver failure, depending on the degree of obstruction and whether the vascular system has had an opportunity to form collaterals. First-line investigations typically involve either a Doppler ultrasound or contrast CT.
+If the diagnosis remains unclear, a liver biopsy may be performed, although this is not common especially since patients may have coagulopathy. The choice of investigations depends significantly on the clinical picture and past medical history.
+Improve
+Differential diagnosis
+The primary differentials include:
+Acute viral hepatitis
+Typically hepatitis A, B, E
+Toxic hepatitis
+Typically paracetamol
+Other, less common differentials may include:
+Portal vein thrombosis
+Wilson's disease
+Budd-Chiari syndrome
+Autoimmune hepatitis
+HELLP syndrome (Haemolysis, Elevated Liver enzymes, Low Platelet count)
+Manifestations of the diseases are similar and difficult to differentiate based solely off symptomatology. A combination of history, imaging, and laboratory investigations are essential in identifying the underlying cause.
+Whenever transaminases (AST/ALT) are in the thousands, always consider ischaemic hepatitis, acute viral hepatitis, or paracetamol toxicity.
+Improve
+Management
+As of February 2020, no consensus guidelines exist. The following is a summary of recommendations available on UpToDate, and a 2016 review and clinical update.
+The mainstay of management is resolution of the precipitant of the hepatic ischaemia. Prompt resolution of any haemodynamic instability by providing fluid resuscitation, restoring cardiac output, and treating sepsis where appropriate is essential as delays in management are lethal. Admission into an intensive treatment unit with close ongoing monitoring is often necessary.
+Current areas of research include:
+Inotropes, which have not been shown to consistently provide benefit, and when given, only provide limited benefit.
+N-acetylcysteine is being investigated as a potential adjunct to treatment, but evidence is currently lacking.
+Improve
+Prognosis
+- Overall mortality in cases of ischaemic hepatitis are approximately 25%. Much of this mortality is however attributed to the underlying cause of the insult e.g. sepsis, hypovolaemic shock. In cases where patients survive, the liver usually returns to normal function.
+In patients with underlying cirrhosis however, the prognosis is more grim. Mortality in this group ranges from 60-100%.
+Improve
+Gastroenterology
+Ischaemic hepatitis

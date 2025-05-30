@@ -1,0 +1,393 @@
+Acute coronary syndrome
+Acute coronary syndrome
+Acute coronary syndrome (ACS)
+refers to a spectrum of clinical presentations ranging from those for ST-segment elevation myocardial infarction (STEMI) to presentations found in non–ST-segment elevation myocardial infarction (NSTEMI) or in unstable angina. It is almost always associated with rupture of an atherosclerotic plaque and partial or complete thrombosis of the infarct-related artery. The diagnosis is based on patient history, physical examination, electrocardiogram (ECG) findings, and cardiac biomarker levels. Risk stratification helps guide therapy; options include pharmacological interventions such as antiplatelet agents and anticoagulants, alongside invasive strategies like percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG). Management aims to restore perfusion to the jeopardised myocardium, prevent further ischemia, and reduce future cardiovascular events.
+Last updated: 1
+st
+July 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Musculoskeletal
+chest pain
+5.00
+Acute coronary syndrome
+1
+Acute pericarditis
+0.50
+Pulmonary embolism
+0.35
+Myocarditis
+0.10
+Aortic dissection
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Acute coronary syndrome (ACS) arises predominantly from atherosclerotic disease of the coronary arteries, but its development is multifactorial, involving both modifiable and non-modifiable risk factors.
+The principal underlying cause of ACS is atherosclerosis
+, with plaque rupture or erosion precipitating acute thrombotic occlusion.
+The following risk factors are strongly associated with the development of atherosclerosis and subsequent ACS:
+Non-modifiable risk factors
+Age
+Risk increases significantly with advancing age; most cases occur in individuals over 50 years.
+Male sex
+Men are at higher risk than pre-menopausal women. After menopause, female risk increases and eventually approaches that of men.
+Family history of premature coronary artery disease
+A first-degree relative developing coronary heart disease before age 55 (men) or 65 (women) confers increased risk.
+Ethnicity
+South Asian populations in the UK have a higher incidence of ACS compared to white Europeans.
+Modifiable risk factors
+Cigarette smoking
+Strongly associated with increased risk due to endothelial dysfunction and promotion of thrombosis.
+Hypertension
+Chronic elevation in blood pressure accelerates arterial damage and atherogenesis.
+Hyperlipidaemia
+Elevated LDL cholesterol is particularly important; low HDL cholesterol also contributes.
+Diabetes mellitus
+Both type 1 and type 2 diabetes substantially increase cardiovascular risk via multiple mechanisms including dyslipidaemia, endothelial dysfunction, and inflammation.
+Obesity and central adiposity
+Particularly abdominal obesity, which is closely linked to insulin resistance and dyslipidaemia.
+Physical inactivity
+Sedentary lifestyle independently increases cardiovascular risk.
+NICE guidelines emphasise regular physical activity as part of primary prevention.
+Prolonged sitting has been recognised as an additional modifiable factor contributing to overall sedentary behaviour and increased cardiovascular risk.
+Unhealthy diet
+Diets high in saturated fats, trans fats, salt, and refined sugars raise cardiovascular risk.
+Other contributory/modifiable factors
+Excess alcohol consumption
+Regular excessive intake raises blood pressure and can contribute to cardiomyopathy as well as arrhythmias.
+Psychosocial stress
+Chronic stress, depression, or social isolation are increasingly recognised contributors to incident ACS events.
+Improve
+Pathophysiology
+Ischaemic heart disease
+is a complex process that develops over a number of years. A number of changes can be seen:
+initial endothelial dysfunction is triggered by a number of factors such as smoking, hypertension and hyperglycaemia
+this results in a number of changes to the endothelium including pro-inflammatory, pro-oxidant, proliferative and reduced nitric oxide bioavailability
+fatty infiltration of the subendothelial space by low-density lipoprotein (LDL) particles
+monocytes migrate from the blood and differentiate into macrophages. These macrophages then phagocytose oxidized LDL, slowly turning into large 'foam cells'. As these macrophages die the result can further propagate the inflammatory process.
+smooth muscle proliferation and migration from the tunica media into the intima results in formation of a fibrous capsule covering the fatty plaque.
+ACS generally develops in patients who have ischaemic heart disease, either known or previously undetected. Ischaemic heart disease is a term synonymous with coronary heart disease and coronary artery disease. It describes the gradually build up of fatty plaques within the walls of the coronary arteries. This leads to two main problems:
+1. Gradual narrowing, resulting in less blood and therefore oxygen reaching the myocardium at times of increased demand. This results in angina, i.e.
+chest pain
+due to insufficient oxygen reaching the myocardium during exertion
+2. The risk of sudden plaque rupture. The fatty plaques which have built up in the endothelium may rupture leading to sudden occlusion of the artery. This can result in no blood/oxygen reaching the area of myocardium.
+Image sourced from
+Wikipedia
+Diagram showing the progression of atherosclerosis in the coronary arteries with associated complications on the right.
+Image sourced from
+Wikipedia
+Slide showing a markedly narrowed coronary artery secondary to atherosclerosis. Stained with Masson's trichrome.
+Complications of atherosclerosis
+Once a plaque has formed a number of complications can develop:
+the plaque forms a physical blockage in the lumen of the coronary artery. This may cause reduced blood flow and hence oxygen to the myocardium, particularly at times of increased demand, resulting clinically in angina
+the plaque may rupture, potentially causing a complete occlusion of the coronary artery. This may result in a myocardial infarction
+© Image used on license from PathoPic
+Ruptured coronary artery plaque resulting in thrombosis and associated myocardial infarction.
+© Image used on license from PathoPic
+Pathological specimen showing infarction of the anteroseptal and lateral wall of the left ventricle. There is a background of biventricular myocardial hypertrophy.
+Improve
+Clinical features
+Classical features of acute coronary syndrome (ACS) include:
+chest pain
+classically on the left side of the chest
+characterised as a pressure, tightness, or crushing sensation
+may radiate to the left arm or neck
+this may not be present in elderly or diabetic patients
+dyspnoea
+may occur concomitantly with chest pain or as an isolated symptom
+represents decreased oxygen supply to the myocardium and increased work of breathing
+nausea
+and
+vomiting
+due to vagal activation or gastric distension
+sweating
+profuse sweating often accompanies chest pain
+signifies sympathetic activation and is a poor prognostic indicator
+palpitations
+Atypical symptoms
+epigastric Pain
+particularly in diabetics, elderly, and women, ACS can present as epigastric pain mimicking gastrointestinal issues.
+fatigue
+generalised fatigue without chest pain can sometimes be the sole symptom, particularly in older adults.
+syncope or presyncope
+may indicate arrhythmias or severe ischemia affecting cardiac output.
+Physical examination
+General Appearance
+Patients may appear anxious, restless, or diaphoretic due to sympathetic activation.
+Cyanosis may be present in severe cases, indicating hypoxia.
+Vital Signs
+Blood Pressure:
+Hypotension
+may indicate cardiogenic shock, whereas hypertension may reflect a stress response.
+Heart Rate: Tachycardia is common but can worsen ischemia; bradycardia may be present in inferior myocardial infarction due to vagal activation.
+Respiratory Rate: Tachypnoea may be indicative of heart failure or anxiety.
+Oxygen Saturation: Hypoxia may be present depending on the degree of cardiac dysfunction and should be addressed promptly.
+Improve
+Investigations
+A wide variety of ECG changes can be seen depending on what type of ischaemic event is happening, where it is happening and when it happened.
+Acute myocardial infarction (MI)
+hyperacute T waves are often the first sign of MI but often only persists for a few minutes
+ST elevation may then develop
+the T waves typically become inverted within the first 24 hours. The inversion of the T waves can last for days to months
+pathological Q waves develop after several hours to days. This change usually persists indefinitely
+STEMI criteria
+clinical symptoms consistent with ACS (generally of ≥ 20 minutes duration) with persistent (> 20 minutes) ECG features in ≥ 2 contiguous leads of:
+2.5 mm (i.e ≥ 2.5 small squares) ST elevation in leads V2-3 in men under 40 years, or ≥ 2.0 mm (i.e ≥ 2 small squares) ST elevation in leads V2-3 in men over 40 years
+1.5 mm ST elevation in V2-3 in women
+1 mm ST elevation in other leads
+new LBBB (LBBB should be considered new unless there is evidence otherwise)
+The table below shows the correlation between ECG changes and coronary territories:
+ECG changes
+Coronary artery
+Anteroseptal
+V1-V4
+Left anterior descending
+Inferior
+II, III, aVF
+Right coronary
+Anterolateral
+V1-6, I, aVL
+Proximal left anterior descending
+Lateral
+I, aVL +/- V5-6
+Left circumflex
+Posterior
+Changes in V1-3
+Reciprocal changes of STEMI are typically seen:
+horizontal ST depression
+tall, broad R waves
+upright T waves
+dominant R wave in V2
+Posterior infarction is confirmed by ST elevation and Q waves in posterior leads (V7-9)
+Usually left circumflex, also right coronary
+It should be remembered that a new left bundle branch block (LBBB) may point towards a diagnosis of acute coronary syndrome.
+Diagram showing the correlation between ECG changes and coronary territories in acute coronary syndrome
+Improve
+Differential diagnosis
+Cardiac causes
+Stable angina
+Chest pain
+on exertion relieved by rest; usually lacks the acute onset and severity of ACS.
+Pericarditis
+Sharp, pleuritic chest pain often relieved by sitting forward; may be associated with a pericardial rub and diffuse ST elevation without reciprocal changes.
+Myocarditis
+May present with chest pain, raised cardiac enzymes, and ECG changes but typically occurs in younger patients with preceding viral symptoms.
+Aortic dissection
+Sudden severe tearing chest or back pain; may have pulse deficits or unequal blood pressures. ECG may be normal or show non-specific changes. Consider especially if pain radiates to the back or is associated with neurological symptoms.
+Arrhythmias
+Palpitations
+, syncope, or presyncope can mimic ACS-related symptoms.
+Pulmonary causes
+Pulmonary embolism
+(PE)
+Acute pleuritic chest pain,
+dyspnoea
+, tachycardia, hypoxia. May have risk factors for venous thromboembolism. ECG may show sinus tachycardia or right heart strain patterns.
+Pneumothorax
+Sudden onset unilateral pleuritic chest pain and breathlessness; reduced breath sounds on examination.
+Pneumonia/pleurisy
+Fever, cough, focal crepitations on auscultation. Pleuritic nature of pain and infective features distinguish from ACS.
+Gastrointestinal and other causes
+Gastro-oesophageal reflux disease (GORD) / oesophageal spasm
+Retrosternal burning discomfort related to meals or lying flat; may improve with antacids.
+Peptic ulcer disease / gastritis
+Epigastric discomfort unrelated to exertion; often associated with dyspepsia or history of NSAID use.
+Musculoskeletal chest pain
+(costochondritis)
+Localised tenderness reproducible by palpation; often sharp rather than pressure-like in quality.
+Anxiety/panic attacks
+Associated with hyperventilation, paraesthesia, palpitations; diagnosis of exclusion after ruling out organic pathology.
+Improve
+Management
+Acute coronary syndrome (ACS) is a very common and important presentation in medicine. The management of ACS has evolved over recent years, with the development of new drugs and procedures such as primary coronary intervention (PCI).
+Emergency departments often have their own protocols based around local factors such as availability of PCI and hospital drug formularies. The following is based around the 2020 update to the NICE ACS guidelines.
+Acute coronary syndrome can be classified as follows:
+ST-elevation myocardial infarction (STEMI): ST-segment elevation + elevated biomarkers of myocardial damage
+non ST-elevation myocardial infarction (NSTEMI): ECG changes but no ST-segment elevation + elevated biomarkers of myocardial damage
+unstable angina
+The management of ACS depends on the particular subtype. NICE management guidance groups the patients into two groups:
+1. STEMI
+2. NSTEM/unstable angina
+Common management of all patients with ACS
+aspirin
+300mg
+oxygen should only be given if the patient has oxygen saturations < 94% in keeping with British Thoracic Society oxygen therapy guidelines
+morphine
+should only be given for patients with severe pain
+previously IV morphine was given routinely
+evidence, however, suggests that this may be associated with adverse outcomes
+nitrates
+can be given either sublingually or intravenously
+useful if the patient has ongoing chest or hypertension
+should be used in caution if patient hypotensive
+The next step in managing a patient with suspected ACS is to determine whether they meet the ECG criteria for STEMI. It is, of course, important to recognise that these should be interpreted in the context of the clinical history.
+Management of STEMI
+Once a STEMI has been confirmed the first step is to immediately assess eligibility for coronary reperfusion therapy. There are two types of coronary reperfusion therapy:
+primary coronary intervention
+should be offered if the presentation is within 12 hours of onset of symptoms AND PCI can be delivered within 120 minutes of the time when thrombolysis could have been given (i.e. consider thrombolysis if there is a significant delay in being able to provide PCI)
+if patients present after 12 hours and still have evidence of ongoing ischaemia then PCI should still be considered
+drug-eluting stents are now used. Previously 'bare-metal' stents were sometimes used but have higher rates of restenosis
+radial access is preferred to femoral access
+thrombolysis
+should be offered within 12 hours of onset of symptoms if primary PCI cannot be delivered within 120 minutes of the time when thrombolysis could have been given
+a practical example may be a patient who presents with a STEMI to a small district general hospital (DGH) which does not have facilities for PCI. If they cannot be transferred to a larger hospital for PCI within 120 minutes then thrombolysis should be given. If the patient's ECG taken 90 minutes after thrombolysis failed to show resolution of the ST elevation then they would then require transfer for PCI
+If patients are eligible this should be offered as soon as possible.
+Primary coronary intervention for patients with STEMI
+Further antiplatelet prior to PCI
+this is termed 'dual antiplatelet therapy', i.e. aspirin + another drug
+if the patient is not taking an oral anticoagulant:
+prasugrel
+if taking an oral anticoagulant:
+clopidogrel
+Drug therapy during PCI
+patients undergoing PCI with radial access:
+unfractionated heparin with bailout glycoprotein IIb/IIIa inhibitor (GPI) - this is the action of using a GPI during the procedure when it was not intended from the outset, e.g. because of worsening or persistent thrombus
+patients undergoing PCI with femoral access:
+bivalirudin with bailout GPI
+Other procedures during PCI
+thrombus aspiration, but not mechanical thrombus extraction, should be considered
+complete revascularisation should be considered for patients with multivessel coronary artery disease without cardiogenic shock
+Thrombolysis for patients with STEMI
+Thrombolysis used to be the only form of coronary reperfusion therapy available. However, it is used much less commonly now given the widespread availability of PCI.
+The contraindications to thrombolysis and other factors are described in other notes.
+Patients undergoing thrombolysis should also be given an antithrombin drug.
+If patients have persistent myocardial ischaemia following thrombolysis then PCI should be considered.
+Management of NSTEMI/unstable
+The management of NSTEMI/unstable is complicated and depends on individual patient factors and a risk assessment. The summary below provides an overview but the full NICE guidelines should be reviewed for further details.
+Further drug therapy
+antithrombin treatment
+fondaparinux
+should be offered to patients who are not at a high risk of bleeding and who are not having angiography immediately
+if immediate angiography is planned or a patients creatinine is > 265 µmol/L then unfractionated heparin should be given
+Risk assessment
+The Global Registry of Acute Coronary Events (GRACE) is the most widely used tool for risk assessment. It can be calculated using online tools and takes into account the following factors:
+age
+heart rate, blood pressure
+cardiac (Killip class) and renal function (serum creatinine)
+cardiac arrest on presentation
+ECG findings
+troponin levels
+This results in the patient being risk stratified as follows:
+Predicted 6-month mortality
+Risk of future adverse cardiovascular events
+1.5% or below
+Lowest
+> 1.5% to 3.0%
+Low
+> 3.0% to 6.0%
+Intermediate
+> 6.0% to 9.0%
+High
+over 9.0%
+Highest
+Based on this risk assessment key decisions are made regarding whether a patient has coronary angiography (with follow-on PCI if necessary) or has conservative management. The detailed pros/cons of this descision are covered in other notes.
+Which patients with NSTEMI/unstable angina should have a coronary angiography (with follow-on PCI if necessary)?
+immediate: patient who are clinically unstable (e.g. hypotensive)
+within 72 hours: patients with a GRACE score > 3% i.e. those at immediate, high or highest risk
+coronary angiography should also be considered for patients is ischaemia is subsequently experienced after admission
+Primary coronary intervention for patients with NSTEMI/unstable angina
+Further drug therapy
+unfractionated heparin should be given regardless of whether the patient has had fondaparinux or not
+further antiplatelet ('dual antiplatelet therapy', i.e. aspirin + another drug) prior to PCI
+if the patient is not taking an oral anticoagulant: prasugrel or ticagrelor
+if taking an oral anticoagulant: clopidogrel
+Conservative management for patients with NSTEMI/unstable angina
+Further drug therapy
+further antiplatelet ('dual antiplatelet therapy', i.e. aspirin + another drug)
+if the patient is not at a high-risk of bleeding: ticagrelor
+if the patient is at a high-risk of bleeding:  clopidogrel
+Improve
+Complications
+Patients are at risk of a number of immediate, early and late complications following a myocardial infarction (MI).
+Arrhythmias
+Ventricular arrhythmias:
+Ventricular tachycardia and ventricular fibrillation can occur, especially within the first few hours following an infarction, leading to sudden cardiac death if not promptly treated.
+Supraventricular arrhythmias:
+Atrial fibrillation or flutter can develop, increasing the risk of stroke and heart failure.
+Bradyarrhythmias:
+Atrioventricular block can result from ischaemia of the conduction system, especially with inferior wall myocardial infarction.
+Heart Failure
+Acute heart failure
+:
+May develop due to reduced myocardial contractility following the infarction. Manifests as pulmonary oedema, elevated jugular venous pressure, and
+hypotension
+.
+Cardiogenic shock:
+If a large part of the ventricular myocardium is damaged in the infarction the ejection fraction of the heart may decrease to the point that the patient develops cardiogenic shock. This is difficult to treat. Other causes of cardiogenic shock include the 'mechanical' complications such as left ventricular free wall rupture as listed below. Patients may require inotropic support and/or an intra-aortic balloon pump.
+Chronic heart failure
+: As described above, if the patient survives the acute phase their ventricular myocardium may be dysfunctional resulting in chronic heart failure. Loop diuretics such as furosemide will decrease fluid overload. Both ACE-inhibitors and
+beta-blockers
+have been shown to improve the long-term prognosis of patients with chronic heart failure.
+Mechanical Complications
+Left ventricular free wall rupture
+: This is seen in around 3% of MIs and occurs around 1-2 weeks afterwards. Patients present with acute heart failure secondary to cardiac tamponade (raised JVP, pulsus paradoxus, diminished heart sounds). Urgent pericardiocentesis and thoracotomy are required.
+Papillary muscle rupture leading to acute mitral regurgitation
+: More common with infero-posterior infarction and may be due to ischaemia or rupture of the papillary muscle. Acute hypotension and pulmonary oedema may occur. An early-to-mid systolic murmur is typically heard. Patients are treated with vasodilator therapy but often require emergency surgical repair.
+Ventricular septal defect
+: Rupture of the interventricular septum usually occurs in the first week and is seen in around 1-2% of patients. Features: acute heart failure associated with a pan-systolic murmur. An echocardiogram is diagnostic and will exclude acute mitral regurgitation which presents in a similar fashion. Urgent surgical correction is needed.
+Recurrent Angina or Infarction
+Occurs due to non-reperfused or re-occluded vessels and indicates ongoing myocardial ischaemia.
+Left Ventricular Aneurysm
+The ischaemic damage sustained may weaken the myocardium resulting in aneurysm formation. This is typically associated with persistent ST elevation and left ventricular failure. Thrombus may form within the aneurysm increasing the risk of stroke. Patients are therefore anticoagulated.
+Pericarditis
+Acute pericarditis
+:
+Pericarditis in the first 48 hours following a transmural MI is common (around 10% of patients). The pain is typical for pericarditis (worse on lying flat etc), a pericardial rub may be heard and a pericardial effusion may be demonstrated with an echocardiogram.
+Dressler's syndrome
+(post-MI syndrome)
+: Dressler's syndrome tends to occur around 2-6 weeks following a MI. The underlying pathophysiology is thought to be an autoimmune reaction against antigenic proteins formed as the myocardium recovers. It is characterised by a combination of fever, pleuritic pain, pericardial effusion and a raised ESR. It is treated with NSAIDs.
+Thromboembolic Events
+Mural thrombus formation can occur in areas of akinetic myocardium, with the potential of systemic embolisation leading to events like stroke.
+Cardiac arrest
+This most commonly occurs due to patients developing ventricular fibrillation and is the most common cause of death following a MI. Patients are managed as per the ALS protocol with defibrillation.
+Improve
+Prognosis
+The 2006 Global Registry of Acute Coronary Events (GRACE) study has been used to derive regression models to predict death in hospital and death after discharge in patients with acute coronary syndrome
+Poor prognostic factors
+age
+development (or history) of heart failure
+peripheral vascular disease
+reduced systolic blood pressure
+Killip class*
+initial serum creatinine concentration
+elevated initial cardiac markers
+cardiac arrest on admission
+ST segment deviation
+*
+Killip class
+- system used to stratify risk post myocardial infarction
+Killip class
+Features
+30 day mortality
+I
+No clinical signs heart failure
+6%
+II
+Lung crackles, S3
+17%
+III
+Frank pulmonary oedema
+38%
+IV
+Cardiogenic shock
+81%
+Improve
+References
+NICE - 2020 Acute coronary syndromes guidelines
+SIGN - 2016 Acute coronary syndrome guidelines
+Cardiology
+Acute coronary syndrome

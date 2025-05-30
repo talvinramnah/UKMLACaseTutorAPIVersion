@@ -1,0 +1,198 @@
+Essential tremor
+Essential tremor
+Essential tremor is one of the most common neurological movement disorders in adults, however this condition can affect anyone through from childhood to old age. The prevalence increases significantly with age, affecting 1% of the population overall and approximately 4% of the population over the age of 40-years-old. Although it is considered a benign condition, essential tremor can be serious enough in some patients to significantly limit functional capacity and thus cause severe lifestyle limitations.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 25.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Essential tremor
+1
+Parkinson's disease
+0.52
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of essential tremor remains unknown, but is likely related to ageing, genetics and possibly environmental toxins.
+Ageing
+The prevalence of essential tremor increases significantly with age, with approximately 4% of the population over 40-years-old, and 5% of the population over 60-years-old being affected
+Furthermore, the severity of essential tremor increases with age, as it is a known chronic progressive condition
+This suggests that ongoing degenerative brain processes with age may contribute to the development of this condition
+Genetics
+There does seem to be a genetic basis for essential tremor, as a family history of the condition is present in a number of patients (approximately 50%)
+First-degree relatives of a patient with essential tremor are approximately 5 times more likely to develop the condition than the general population
+In those with an earlier onset of the condition, usually those prior to the age of 40-years-old, there is almost always a family history of the condition (approximately 80%)
+Although not confirmed, evidence from family and linkage studies has indicated that there may be an autosomal dominant inheritance pattern, with incomplete penetrance
+Environmental toxins
+Although contentious, there is evidence to suggest that essential tremor may be related to exposure to a number of environmental toxins including:
+Organochlorine pesticides
+Lead
+Mercury
+Beta-carboline alkaloids (found in a number of medicinal plants)
+Improve
+Pathophysiology
+The pathophysiology of essential tremor has not been fully established although the evidence suggests that it is related to pathology in the cerebellum, brainstem, and thalamus which are involved in the motor control circuit.
+It has been identified that essential tremor may be related to increased activity in the cerebellar-thalamic-cortical circuit. GABA-ergic dysfunction of the cerebellar dentate nucleus and brainstem may lead to dysregulation in this circuit, leading to tremulous activity. It is not particularly known why such GABA-ergic dysfunction occurs, however it has been suggested it may be due to neurodegeneration in these regions, however the aetiology of such is unclear.
+This is further supported by the fact that essential tremor is somewhat relieved by medications/substances which affect the GABA system, including:
+Alcohol
+Benzodiazepines
+Gabapentin
+Barbituates
+Improve
+Clinical features
+Essential tremor is the
+most common
+cause of action tremor in adults and therefore this is a characteristic clinical feature to identify. Classically the tremor affects the upper extremities, particularly the hands and arms.
+Tremor
+Action tremor
+Exacerbated on intentional movements, and usually absent on rest
+Common daily tasks where the tremor is exacerbated includes writing, handling utensils and small objects, drinking, reaching out for objects
+On examination, will worsen on holding the arms outstretched and on finger-to-nose testing
+Typically bilateral
+Asymmetric in nature and generally affects the dominant side more than the non-dominant side
+Primarily affects hands and arms in early stages
+Can sometimes progress over a long time to involve the head, voice, trunk
+Very rarely affects the lower limbs
+Head tremor can be either vertical (nodding head yes) in 25%, or horizontal (shaking head no) in 75%
+Tremor frequency
+Moderate to high frequency
+6-12 Hz
+Relieving/exacerbating factors
+Relieving: usually relieved somewhat by alcohol (in approximately 65%)
+Exacerbating: exacerbated by anxiety, excitement, adrenergic stimulation
+Other neurological features
+A tremor is usually the only neurological feature in essential tremor, however in a small subset of patients there may be other manifestations of disease and these are termed 'soft neurological signs'
+In such situations, the condition is called 'essential tremor plus'
+Other features include:
+Difficulty with tandem gait
+Mild cognitive impairment (typically mild memory impairment)
+Slight resting tremor alongside action tremor
+Often, the presence of these symptoms may confuse the diagnosis and usually will prompt investigation for another differential prior to making the diagnosis of essential tremor plus. This is because the diagnostic criteria below indicates that for the diagnosis of essential tremor, these must be absence of other neurological signs
+Improve
+Investigations
+The diagnosis of essential tremor is made clinically, as there is no investigation which will reveal the diagnosis. Therefore the focus is on taking a good history and examination in order to rule out other diagnoses. UptoDate recommend use of the diagnostic criteria from the 'International Parkinson and Movement Disorder Society' for clinical diagnosis.
+Clinical diagnostic criteria
+The diagnostic criteria are from the 'International Parkinson and Movement Disorder Society' and for diagnosis, the following four criteria must be present
+Isolated tremor consisting of bilateral upper limb action tremor, with no other significant motor abnormalities
+Greater than 3 years in duration
+With/without tremor in other locations (e.g. head, voice, trunk, lower limbs)
+Absence of other neurological signs (e.g. dystonia, ataxia, parkinsonism)
+Other testing
+Use of other investigations are primarily aimed at ruling out other diagnoses, rather than for diagnosing essential tremor itself
+Routine tests to exclude common and treatable causes of a physiological tremor include:
+Electrolytes and urea - particularly calcium, as hypocalcemia can be a cause of tremor
+Thyroid function tests - to exclude hyperthyroidism as a cause of tremor
+If other signs and symptoms are suggestive of Wilson disease, serum ceruloplasmin and serum copper concentration should be measured to make this as the alternative diagnosis (a low ceruloplasmin and a high serum copper would be suggestive of Wilson disease)
+Brain imaging
+Brain imaging is
+not
+routinely recommended in suspected essential tremor
+This should be undertaken if there are any focal neurological findings which suggest another cause of tremor, such as stroke, demyelinating disease, mass lesion
+In essential tremor, any brain imaging will appear normal
+Improve
+Differential diagnosis
+Parkinson's disease
+Essential tremor and Parkinson's disease both can present similarly and therefore are often misdiagnosed as one another, therefore it is important to be able to identify key differences between these conditions
+Similarities
+Both tend to have tremor as the primary and often single presenting symptom
+Some patients with essential tremor may have a component of rest tremor as well as action tremor
+Tremor may affect the head in both, however in Parkinson's disease the tremor tends to affect the lips and jaw, whereas in essential tremor it tends to be a tremor of the head itself
+Differences
+A lower limb tremor is uncharacteristic and uncommon in essential tremor, therefore presence of such should suggest Parkinson's disease as the alternative diagnosis
+Parkinson's disease typically presents initially with a unilateral tremor, whereas essential tremor presents bilaterally
+Parkinson's disease is typically a resting tremor, whereas essential tremor is an action tremor
+Patients with Parkinson's disease may have other features of this condition including bradykinesia and rigidity
+Dystonic head tremor
+Similarities
+Can both present with head or voice tremor
+Differences
+An
+isolated
+head and voice tremor excludes essential tremor as a diagnosis
+An isolated head and voice tremor will usually suggest cervical dystonia with dystonic head tremor instead
+The head and neck tremor tends to be more irregular and jerky, while in essential tremor it is more regular and rhythmic
+In essential tremor, the head tremor will mostly subside when resting the head in a supine and supported position, while in cervical dystonia it will often persist despite the resting position
+Spasmodic dysphonia
+Similarities
+Both can present with tremor of the voice
+Differences
+An
+isolated
+tremor of the voice is characteristically due to spasmodic dysphonia. In essential tremor one would expect other symptoms to be more prevalent and should include action tremor of the upper limbs also
+In spasmodic dysphonia, there is not only a tremor of the voice but also hoarseness and straining of the voice which will not occur in essential tremor
+Physiological tremor
+Similarities
+Both present with an action tremor
+Both have low-amplitude and high-frequency tremor (8-12 Hz)
+Both primarily affect upper limbs
+Triggers for both include stress, anxiety, excitement (sympathetic/adrenergic activity)
+Differences
+Physiological tremor is exacerbated by caffeine, however an essential tremor is not
+Typically a physiological tremor has an identifiable cause such as muscle fatigue, fever, hypoglycaemia, withdrawal from substances such as alcohol/opioids, secondary to medications (e.g. beta-adrenergic agonists, SSRIs, tricyclic antidepressants, amphetamines)
+Present with a shorter duration of tremor, whereas patients with essential tremor tend to present after many years of symptoms
+Cerebellar related tremor
+Similarities
+Both worsen with deliberate and intentional movement
+Both can have some element of rest tremor in the later stages
+Differences
+A tremor caused by cerebellar pathology is typically low frequency (3-4 Hz)
+Other associated features with cerebellar pathology include ataxia, dysmetria, titubation, wide-based gait
+Wilson disease
+Similarities
+Both can have a tremor (present in approximately 30% of patients with Wilson disease)
+The tremor in both is similar (variable amplitude and frequency, typically arm and head involvement)
+Differences
+In Wilson disease, there will typically be a large number of other symptoms present other than an isolated tremor, including manifestations of liver disease (jaundice, pruritis, bleeding, hepatomegaly, splenomegaly), and psychiatric symptoms (depression, personality change, psychosis)
+A more common neurological symptom of Wilson disease is presence of dysarthria, present in approximately 90% of patients with neurological Wilson disease. This is not present in essential tremor
+Improve
+Management
+The management of essential tremor will depend on the severity of the condition and the impact that it has on the daily functioning and quality of life for affected patients. Patients who are not experiencing impact on daily functioning and who are not concerned by the symptoms can be managed conservatively with no treatment, and simply observation for ongoing progression.
+Medical treatment
+According to UptoDate and BMJ best practice, the first-line medical treatment for essential tremor is either propranolol and primidone
+Both medications may reduce the tremor amplitude by up to 50%, therefore it is important to educate patients that it is unlikely that their tremor will completely subside, and unfortunately a number of patients will have no therapeutic effect at all (approximately 30% of patients)
+If required, step-up to using both propranolol and primidone in combination may be trialled
+For patients refractory to these medications, reasonable second-line medications according to UptoDate and BMJ best practice include gabapentin, topiramate and nimodipine
+Surgical treatment
+Surgical treatment is reserved for patients with serious symptoms which are causing severe disability, impact on functional capabilities and reduction in quality of life, whom are also refractory to medical treatment
+Deep brain stimulation may be indicated for such patients
+Directed at the nucleus ventralis intermedius of the thalamus
+Requires thorough education regarding risks versus benefits, as side effects can include paraesthesia, dysarthria, and gait disorders
+Botulinum toxin type A injections
+Can be injected into the limbs to control tremor
+However, results in dose-dependent hand weakness which may be just as disabling for the patient
+For such patients refractory to medical treatment, it is important to refer for neurological consult for ongoing opinion and management
+Improve
+Prognosis
+Essential tremor is considered a benign condition, however it does tend to worsen slowly and gradually over time. It can, in the later stages, affect patients to the point of significant functional disability and impact on quality of life, however this is rare.
+Typical course of disease
+Typically, the patient will experience symptoms for multiple years prior to presenting for medical review, as often the symptoms are mild and not impacting on quality of life or function
+As time goes on, the tremor usually gradually worsens
+However, it can occasionally worsen in a step-wise manner
+For many patients, the tremor remains isolated to the upper limbs
+However in some patients there can be spread to other parts of the body, often the head and voice
+This typically happens gradually over a long number of years before becoming evident
+For a small subset of patients, the tremor may remain stable and not progress over the course of disease
+Morbidity and mortality
+The major impact of essential tremor is that of increased morbidity as a result from functional disability
+Essential tremor tends to affect patients in the later stages from a functional point of view, usually in terms of ability to:
+Write and sign documents
+Use small objects or tools
+Feed self due to difficulty with holding food and utensils
+Difficulty drinking due to difficulty in holding a glass still
+The condition does not affect mortality and there is no decrease in survival compared to the general population.
+Improve
+Neurology
+Essential tremor

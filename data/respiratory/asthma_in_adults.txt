@@ -1,0 +1,253 @@
+Asthma in adults
+Asthma in adults
+Asthma is a chronic
+respiratory
+condition characterized by recurrent episodes of airflow obstruction, bronchial hyperresponsiveness, and underlying inflammation. Affecting approximately 300 million people worldwide, asthma is responsible for a significant disease burden across the world.
+At its core, asthma pathophysiology involves a complex interplay between genetic predisposition, environmental exposures, and immune dysregulation. The primary triggers include allergens, respiratory infections, air pollutants, exercise, and stress, which elicit airway inflammation, smooth muscle contraction, and mucus hypersecretion, ultimately leading to bronchospasm.
+Diagnosis relies on a comprehensive assessment incorporating clinical history, physical examination, and spirometry. Objective measures such as FEV1, FVC, and FEV1/FVC ratio, alongside bronchodilator reversibility testing can help confirm the diagnosis and monitor disease progression.
+Management centres around patient education, environmental control, and pharmacotherapy. Stepwise treatment, tailored to disease severity, includes
+inhaled corticosteroids
+, short- and long-acting β2-agonists, leukotriene modifiers, and biologic agents. Severe cases may require systemic corticosteroids
+Last updated: 29
+th
+November 2024
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Asthma in adults
+1
+Bronchiectasis
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of asthma is multifactorial and involves a complex interplay of genetic, environmental, and immunological factors.
+Genetic Factors
+Asthma has a strong genetic predisposition, with numerous genes associated with the development of the disease. These genes are related to various aspects of asthma pathophysiology, such as immune response, airway remodeling, and bronchial hyperresponsiveness. Family and twin studies have shown a high heritability of asthma, ranging from 35% to 95%.
+Environmental Factors
+Environmental factors play a crucial role in the onset and progression of asthma. Some of the key environmental triggers include allergens (e.g., pollen, animal dander, dust mites),
+respiratory
+infections (e.g., viral respiratory infections), tobacco smoke, air pollution, and occupational exposures (e.g., chemical irritants, industrial dust). These factors can exacerbate existing asthma or contribute to its development in susceptible individuals.
+Immunological Factors
+Asthma is characterized by an imbalance in the immune response, particularly the type 2 T-helper (Th2) cell-mediated response. This imbalance leads to the production of cytokines such as interleukin (IL)-4, IL-5, and IL-13, which promote eosinophilic inflammation, immunoglobulin E (IgE) production, and airway hyperresponsiveness. Additionally, other immune cells like mast cells, eosinophils, and basophils contribute to the inflammatory process.
+Risk factors and associations
+Risk factors
+personal or family history of
+atopy
+antenatal factors: maternal smoking, viral infection during pregnancy (especially RSV)
+low birth weight
+not being breastfed
+maternal smoking around child
+exposure to high concentrations of allergens (e.g. house dust mite)
+air pollution
+'hygiene hypothesis': studies show an increased risk of asthma and other allergic conditions in developed countries. Reduced exposure to infectious agents in childhood prevents normal development of the immune system resulting in a Th2 predominant response
+Focusing on atopy, patients with asthma also suffer from other IgE-mediated atopic conditions such as:
+atopic dermatitis (eczema)
+allergic rhinitis (hay fever)
+A number of patients with asthma are sensitive to
+aspirin
+. Patients who are most sensitive to asthma often suffer from nasal polyps. Remember the nose is part of the respiratory tract from a histological point of view.
+Finally, around 10-15% of adult asthma cases are related to allergens in the workplace.
+Occupational asthma
+is usually diagnosed by observing reduced peak flows during the working week with normal readings when not at work. Examples of common occupational allergens include isocyanates and flour.
+Improve
+Pathophysiology
+Asthma may be defined as a chronic inflammatory disorder of the airways secondary to type 1 hypersensitivity. The symptoms are variable and recurring and manifest as reversible bronchospasm resulting in airway obstruction.
+Airway inflammation
+Inflammation is the cornerstone of asthma pathophysiology. The inflammatory process is initiated by the activation of immune cells (e.g., Th2 cells, mast cells, eosinophils) in response to various triggers. This results in the release of pro-inflammatory mediators (e.g., cytokines, chemokines, histamine, leukotrienes) that cause airway oedema, mucus production, and bronchoconstriction. The infiltration of inflammatory cells into the airway wall further exacerbates the inflammatory response, leading to persistent airway inflammation and damage.
+Bronchoconstriction
+In addition to airway inflammation, asthma is also characterized by bronchoconstriction, which leads to narrowing of the airways and obstruction of airflow. Bronchoconstriction is caused by the contraction of airway smooth muscle, which is triggered by the release of inflammatory mediators such as histamine and leukotrienes.
+Airway hyperresponsiveness
+Bronchial hyperresponsiveness is a characteristic feature of asthma, wherein the airways exhibit excessive narrowing in response to various stimuli, such as allergens, irritants, and cold air. This exaggerated response is mediated by several factors, including the release of inflammatory mediators, increased airway smooth muscle contractility, and impaired bronchodilator mechanisms. Bronchial hyperresponsiveness contributes to the clinical manifestations of asthma, such as wheezing, coughing, and
+shortness of breath
+.
+Mucus production and airway remodeling
+Chronic inflammation in asthma can lead to structural changes in the airway wall, collectively referred to as airway remodeling. These changes include subepithelial fibrosis, increased smooth muscle mass, mucus gland hypertrophy, and angiogenesis. Airway remodeling can result in irreversible airflow obstruction and a progressive decline in lung function. The extent of airway remodeling is associated with disease severity and duration, and may not be entirely reversible with standard asthma treatments.
+Improve
+Classification
+Asthma in adults is classified based on its severity, frequency of symptoms, and pulmonary function test results. The Global Initiative for Asthma (GINA) provides a comprehensive classification system:
+1. Intermittent Asthma:
+Symptoms less than once a week.
+Brief episodes of symptoms.
+Nocturnal symptoms not more than twice a month.
+Normal pulmonary function between episodes (FEV1 and Peak Expiratory Flow Rate (PEFR) >80% predicted).
+2. Mild Persistent Asthma:
+Symptoms more than once a week but less than once a day.
+Episodes may affect activity.
+Nocturnal symptoms more than twice a month.
+Pulmonary function tests show FEV1 and PEFR >80% predicted.
+3. Moderate Persistent Asthma:
+Daily symptoms occur with daily use of short-acting beta2 agonists.
+Nocturnal symptoms more than once a week.
+Pulmonary function tests show FEV1 and PEFR between 60% to 80% predicted.
+4. Severe Persistent Asthma:
+Continuous daily symptoms with frequent exacerbations limiting physical activities.
+Frequent nocturnal asthma symptoms.
+Pulmonary function tests show FEV1 and PEFR <60% predicted or best possible with treatment .
+The GINA classification helps guide therapeutic decisions, including the initiation, escalation, or de-escalation of therapy. It's essential to note that an individual patient's asthma category can change over time due to factors such as adherence to treatment, exposure to triggers, and comorbid conditions.
+Furthermore, asthma can also be classified based on the presence of specific phenotypes or endotypes. Phenotypic classifications include
+allergic
+,
+non-allergic
+,
+late-onset
+,
+obesity-related
+, and
+smoking-related
+asthma. Endotype classification is more complex and involves identifying specific biological mechanisms or pathways involved in the disease process.
+Improve
+Clinical features
+The clinical presentation of asthma can range from mild intermittent symptoms to severe persistent symptoms, affecting patients' quality of life and daily activities.
+Asthma presents with various symptoms that can vary in severity, frequency, and duration. The most common symptoms include:
+Wheezing
+Wheezing is a high-pitched, whistling sound that occurs during expiration, and is a hallmark symptom of asthma. It results from the turbulent airflow passing through the narrowed airways. While wheezing is commonly associated with asthma, it is not exclusive to the condition and can occur in other
+respiratory
+disorders as well.
+Cough
+Cough is a frequent symptom in asthma and can be dry or productive. It is often worse at night or in the early morning, which can disrupt sleep. Cough may be triggered by various factors, such as exposure to allergens, cold air, exercise, or respiratory infections.
+Dyspnoea
+In asthma, it is primarily due to bronchoconstriction, airway inflammation, and increased mucus production. Shortness of breath may be experienced during physical exertion, at rest, or as a result of exposure to asthma triggers.
+'Chest tightness'
+Patients with asthma may report a sensation of chest tightness, which can be attributed to airway obstruction and increased work of breathing. Chest tightness may be accompanied by other symptoms, such as coughing and shortness of breath.
+Improve
+Investigations
+Investigating suspected asthma in adults
+First-line investigations
+NICE
+measure the
+eosinophil count OR fractional nitric oxide (FeNO)
+diagnose asthma, without further investigations, if:
+eosinophil is above the reference range
+FeNO is ≥ 50 ppb
+If asthma is not confirmed by the eosinophil count or FeNO
+measure bronchodilator reversibility (BDR) with spirometry
+diagnose asthma if:
+the FEV
+1
+increase is ≥ 12%
+and 200 ml or more from the pre-bronchodilator measurement, or
+the FEV
+1
+increase is ≥ 10% of the predicted normal FEV
+1
+if spirometry is not available or it is delayed,
+measure peak expiratory flow (PEF) twice daily for 2 weeks
+diagnose asthma if:
+PEF variability (expressed as amplitude percentage mean) is ≥ 20%
+If asthma is not confirmed by eosinophil count, FeNO, BDR or PEF variability but still suspected on clinical grounds:
+refer for consideration of a bronchial challenge test
+diagnose asthma if bronchial hyper-responsiveness is present
+Notes on the investigations
+Eosinophils
+are specifically involved in type 2 inflammation, a key immunological pathway in many asthma phenotypes, making them a targeted marker for disease activity. Unlike other white blood cells, eosinophils play a direct role in airway inflammation by releasing granules containing cytotoxic proteins like eosinophil peroxidase and major basic protein, which damage epithelial cells and perpetuate inflammation. Additionally, eosinophils are activated by interleukin-5 (IL-5) and other cytokines in the type 2 pathway, distinguishing them from neutrophils or lymphocytes, which are more associated with other immune responses. IL-5 is an important target new monoclonal antibody treatments such as mepolizumab.
+Fractional exhaled nitric oxide (FeNO)
+reflects the level of nitric oxide produced by airway epithelial cells in response to eosinophilic inflammation, a hallmark of asthma. It is measured non-invasively by having the patient exhale steadily into a handheld device, which analyses nitric oxide concentration in parts per billion (ppb).
+Bronchodilator reversibility (BDR) testing with spirometry
+evaluates the degree of airflow limitation that improves after administration of a bronchodilator, a key diagnostic feature of asthma. In asthma, airway obstruction results primarily from reversible bronchial smooth muscle constriction and airway inflammation, which can respond to bronchodilators by relaxing the smooth muscle and reducing resistance. Measuring FEV
+1
+before and after bronchodilator administration demonstrates this reversibility, with an increase of ≥12% and ≥200 mL indicating significant improvement. This reversibility distinguishes asthma from fixed airway obstruction seen in conditions like COPD, where airflow limitation is less responsive.
+Peak expiratory flow (PEF) variability
+reflects diurnal changes in airway calibre, a hallmark of asthma, due to underlying circadian rhythms in airway inflammation and bronchial smooth muscle tone. Airway narrowing tends to worsen at night and in the early morning due to increased parasympathetic activity, nocturnal histamine release, and lower circulating cortisol levels, all of which contribute to heightened airway hyperresponsiveness. This diurnal pattern, with a >20% variation in PEF between morning and evening values, supports the diagnosis of asthma and highlights its dynamic, reversible nature.
+The
+bronchial challenge test
+assesses airway hyperresponsiveness, a characteristic feature of asthma, by measuring the airway's response to a provocative agent such as methacholine or histamine. In asthma, heightened bronchial smooth muscle reactivity and inflammation lead to excessive narrowing of the airways when exposed to these agents, resulting in a significant decline in FEV
+1
+.
+Improve
+Management
+In 2024 NICE, the British Thoracic Society and SIGN produced joint guidelines on the management of asthma following many years of conflicting guidelines. The new guidelines represent a major step change in the management of asthma is both diagnosed and treated.
+For many years patients with asthma were started on a short-acting beta-2 agonist (SABA) inhaler before 'stepping up' to a regular inhaled corticosteroid with a SABA as required. The new guidelines now advocate the use of combined inhalers (ICS + long-acting beta-2 agonist) as reliever therapy or regularly, depending on the severity of asthma. Given the prevalence of asthma, it is likely that doctors will have to deal with patients on 'conventional' asthma treatments for many years to come. The joint guidelines therefore include guidance on how to manage these patients if their current treatment is controlling their symptoms sufficiently.
+Management of adult patients aged children aged ≥ 12 years with newly diagnosed asthma
+Step 1
+NICE
+a
+low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler to be taken as needed for symptom relief
+this is termed anti-inflammatory reliever (AIR) therapy
+if the patient presents highly symptomatic (for example, regular nocturnal waking) or with a severe exacerbation:
+start treatment with low-dose MART
+(maintenance and reliever therapy, see below)
+treat the acute symptoms as appropriate (e.g. a course of oral corticosteroids may be indicated)
+Step 2
+NICE
+a low-dose MART
+MART describes using an inhaled corticosteroid (ICS)/formoterol combination inhaler for daily maintenance therapy and the relief of symptoms as needed, i.e. regularly and as required
+Step 3
+a
+moderate-dose MART
+Step 4
+check the fractional exhaled nitric oxide (FeNO) level if available, and the blood eosinophil count
+NICE
+if
+either of these is raised, refer to a specialist in asthma care
+if
+neither FeNO nor eosinophil count is raised, consider a trial of either a leukotriene receptor antagonist (LTRA) or a long-acting muscarinic receptor antagonist (LAMA)
+used in addition to moderate-dose MART
+if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)
+Step 5
+refer people to a specialist in asthma care
+when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA
+Transferring people aged 12 and over from other treatment pathways
+There will be many people whose asthma was managed according to the previous guidelines that present with uncontrolled asthmatic symptoms. The guidelines give advice on how these people should be switched:
+NICE
+Existing asthma treatment
+New asthma treatment
+SABA as required only
+Low-dose ICS/formoterol combination inhaler used as needed (as-needed AIR therapy)
+SABA as required + regular low-dose ICS
+SABA as required + regular low-dose ICS/LABA
+SABA as required + regular low-dose ICS + LTRA
+SABA as required + regular low-dose ICS/LABA + LTRA
+Regular low-dose regular ICS/formoterol combination inhaler (MART therapy)
+SABA as required + regular moderate-dose ICS
+SABA as required + regular moderate-dose ICS/LABA
+SABA as required + regular moderate-dose ICS + LTRA or LAMA
+SABA as required + regular moderate-dose ICS/LABA + LTRA or LAMA
+Regular moderate-dose MART therapy
+Treatment regime containing a high-dose ICS
+Refer to a
+respiratory
+specialist
+Improve
+Complications
+Asthma, if not managed effectively, can lead to a number of complications. These include:
+Status asthmaticus:
+This is a severe and persistent
+asthma attack
+that does not respond to standard treatment with bronchodilators. It is a medical emergency requiring immediate hospitalisation and potentially mechanical ventilation.
+Pneumonia:
+Individuals with asthma are at an increased risk of developing pneumonia, including bacterial pneumonia caused by
+Streptococcus pneumoniae
+, due to impaired mucociliary clearance.
+Chronic obstructive pulmonary disease (COPD):
+Long-standing uncontrolled asthma can progress to COPD, characterised by permanent changes in the airways leading to progressive
+breathlessness
+.
+Pneumothorax:
+Although rare, severe asthma attacks can cause pneumothorax or lung collapse due to rupture of over-distended alveoli.
+Airway remodelling:
+Chronic inflammation and repeated injury-repair cycles in the bronchi can lead to structural changes in the airways, resulting in fixed airflow obstruction and reduced responsiveness to bronchodilators.
+Besides these
+respiratory
+complications, poorly controlled asthma can also have systemic effects such as:
+Osteoporosis:
+Chronic use of corticosteroids for asthma management increases the risk of osteoporosis and related fractures.
+Anxiety and depression:
+The burden of living with a chronic disease like asthma has been associated with higher rates of anxiety and depression.
+Improve
+References
+NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)
+Respiratory
+Asthma in adults

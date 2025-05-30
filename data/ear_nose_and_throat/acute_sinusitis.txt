@@ -1,0 +1,115 @@
+Acute sinusitis
+Acute sinusitis
+Acute sinusitis, also known as acute rhinosinusitis, is an inflammatory condition involving the paranasal sinuses and nasal cavity, typically lasting less than four weeks. The most common aetiology is
+viral upper respiratory tract infections
+(URTI), with only 1-2% progressing to bacterial infection.
+Streptococcus pneumoniae
+,
+Haemophilus influenzae
+, and
+Moraxella catarrhalis
+are the predominant bacterial pathogens involved.
+Clinical manifestations include nasal congestion, purulent
+rhinorrhoea
+,
+facial pain
+or pressure, and
+anosmia
+.
+Fever
+may be present in bacterial cases. Diagnosis is primarily clinical.
+Management involves symptomatic relief with analgesics, decongestants, intranasal corticosteroids and saline irrigation. Antibiotics are reserved for patients with severe symptoms or those who fail to improve after 7-10 days of conservative management.
+Complications of acute sinusitis include orbital cellulitis, subperiosteal abscess formation and intracranial extension leading to meningitis or brain abscesses.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 2500.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Viral upper respiratory tract infections
+12.00
+Acute sinusitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+The sinuses are usually sterile - the most common infectious agents seen in acute sinusitis are
+Streptococcus
+pneumoniae
+,
+Haemophilus influenzae
+and rhinoviruses.
+Predisposing factors include:
+nasal obstruction
+e.g. Septal deviation or nasal polyps
+recent local infection e.g. Rhinitis or dental extraction
+swimming/diving
+smoking
+Improve
+Clinical features
+Typical Presentation
+Acute sinusitis typically presents with nasal congestion and discharge,
+facial pain
+or pressure, and reduced sense of smell lasting less than 4 weeks
+Most cases follow a viral
+upper respiratory tract infection
+with symptoms persisting beyond 7-10 days, or worsening after initial improvement ("double-sickening")
+Patients often report symptoms worsening when bending forward or lying down
+Symptoms are usually bilateral, though unilateral symptoms may suggest bacterial infection or other pathology
+Specific Symptoms
+Nasal symptoms
+are prominent and include:
+Nasal congestion or obstruction
+Purulent (discoloured)
+nasal discharge
+- anterior or posterior
+Hyposmia or
+anosmia
+(reduced or absent sense of smell)
+Facial pain and pressure
+typically affects the following areas:
+Maxillary sinusitis: cheeks, upper teeth, and infraorbital region
+Frontal sinusitis: forehead and supraorbital region
+Ethmoid sinusitis: between and behind the eyes, often with periorbital oedema
+Sphenoid sinusitis: vertex of head, occiput, or retro-orbital region
+Systemic symptoms
+may include:
+Fever
+(more common in bacterial sinusitis)
+Fatigue and malaise
+Cough
+(often worse at night due to postnasal drip)
+Halitosis
+Features Suggesting Complications
+Red flag symptoms
+requiring urgent assessment include:
+Periorbital oedema, erythema, or visual disturbance
+Severe headache, altered mental status, or focal neurological signs
+Frontal swelling or severe frontal headache
+Symptoms persisting beyond 3 months (suggesting chronic sinusitis)
+NICE guidance
+recommends immediate referral to hospital for patients with sinusitis who develop signs of orbital or intracranial complications
+Improve
+Management
+Management of acute sinusitis
+analgesia
+intranasal decongestants or nasal saline may be considered but the evidence supporting these is limited
+NICE recommend that intranasal corticosteroids may be considered if the symptoms have been present for more than 10 days
+oral antibiotics are not normally required but may be given for severe presentations. The BNF recommends phenoxymethylpenicillin first-line, co-amoxiclav if 'systemically very unwell, signs and symptoms of a more serious illness, or at high-risk of complications'
+Improve
+References
+Clinical Knowledge Summaries - Sinusitis
+Ear, nose and throat
+Acute sinusitis

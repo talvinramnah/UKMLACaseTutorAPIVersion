@@ -1,0 +1,200 @@
+Slipped capital femoral epiphysis
+Slipped capital femoral epiphysis
+Slipped capital femoral epiphysis (SCFE)
+is a paediatric hip disorder characterised by the displacement of the femoral head from the femoral neck along the physeal plate. This condition predominantly affects overweight, pre-pubescent males and typically presents with symptoms such as
+limp
+, pain in the hip, knee or groin and reduced range of motion. The etiology remains unclear; however, hormonal factors and mechanical stress are considered potential contributors. SCFE can be classified as stable (patient can bear weight with or without crutches) or unstable (unable to bear weight).
+The diagnosis is confirmed via radiographic imaging demonstrating posterior and medial displacement of the femoral head. Management includes surgical intervention to prevent further slippage using in-situ pinning or open reduction. Complications include chondrolysis, osteonecrosis of the femoral head or premature osteoarthritis if left untreated.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Transient synovitis
+15.00
+Slipped capital femoral epiphysis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Slipped capital femoral epiphysis (SCFE) is a common hip disorder in adolescents, with an aetiology that is multifactorial. Several risk factors and underlying causes contribute to the onset and progression of this condition.
+Risk Factors
+Age and Sex:
+SCFE predominantly occurs during the adolescent growth spurt, typically between the ages of 10-16 years. Males are more susceptible than females, with a male-to-female ratio of approximately 1.5:1.
+Obesity:
+Increased body mass index (BMI) significantly contributes to the risk of SCFE. The mechanical stress exerted by excess weight on the proximal femoral physis predisposes obese children to this condition.
+Hormonal Imbalance:
+Endocrine disorders such as hypothyroidism, growth hormone supplementation, or conditions associated with rapid growth spurts may play a role in the development of SCFE.
+Race and Geography:
+Ethnic origin and location significantly influence SCFE prevalence. It is more common among African-American, Pacific Islander populations, and those residing in northern latitudes.
+Underlying Causes
+Mechanical Factors:
+Mechanical forces on the hip joint due to obesity or abnormal biomechanics can lead to shear stress at the level of the physis causing displacement.
+Hormonal Factors:
+Hormonal imbalances such as hypothyroidism or hyperparathyroidism can weaken the physeal plate making it susceptible to slippage. Conditions like panhypopituitarism and pseudohypoparathyroidism have also been associated with SCFE.
+Genetic Factors:
+Familial tendencies suggest a possible genetic predisposition. However, the specific genes implicated in SCFE remain unidentified.
+Renal Osteodystrophy:
+In patients with chronic renal disease, secondary hyperparathyroidism can lead to renal osteodystrophy, which is associated with SCFE.
+Improve
+Pathophysiology
+Slipped capital femoral epiphysis (SCFE)
+is an orthopaedic disorder that typically affects overweight and rapidly growing adolescents. It is characterised by a posterior and medial slippage of the proximal femoral epiphysis on the metaphysis (femoral neck) within the hypertrophic zone of the physeal plate.
+The pathophysiology of SCFE commences with an increased mechanical stress on the growth plate, often associated with rapid growth spurts or excessive weight. This can lead to microfractures in the hypertrophic zone of physis, which provides structural integrity to the growth plate.
+Physeal Plate Changes:
+The initial insult to the physeal plate results in histological changes. The columnar structure of chondrocytes becomes disorganised, leading to a weakened physis more susceptible to shearing forces. With continued mechanical stress, these changes may progress to a complete separation at this level.
+Vascular Supply Disruption:
+As slippage progresses, there can be compromise in blood supply due to stretching or compression of vessels supplying the femoral head. This can lead to avascular necrosis, a severe complication of SCFE.
+Mechanical Instability:
+Continued displacement leads to mechanical instability and altered hip biomechanics. The femoral head retroversion increases as it slips posteriorly and medially relative to the metaphysis causing limping gait and decreased range of motion.
+The clinical manifestations primarily include pain in groin or referred
+knee pain
+, limping or inability to bear weight. These symptoms are related directly to both mechanical factors such as joint instability and anatomical factors like impingement against acetabulum.
+In addition, endocrine abnormalities like hypothyroidism, growth hormone supplementation and renal osteodystrophy have been associated with SCFE. These conditions can alter the metabolism and structure of physeal cartilage, making it more susceptible to shear stress.
+Improve
+Classification
+Slipped capital femoral epiphysis (SCFE) can be classified based on several parameters, including duration of symptoms, stability of the slip, and degree of displacement.
+Duration:
+Acute:
+Symptoms have been present for less than three weeks.
+Chronic:
+Symptoms have been present for more than three weeks.
+Stability:
+Stable SCFE:
+The patient is able to walk with or without crutches.
+Unstable SCFE:
+The patient cannot bear weight on the affected hip, even with crutches. This type is associated with a higher risk of avascular necrosis and chondrolysis.
+Degree of Displacement:
+Mild (
+<33%
+):
+Only slight displacement of the femoral head is seen radiographically.
+Moderate (
+33-50%
+):
+A moderate amount of displacement is noted on imaging.
+Severe (
+>50%
+):
+The femoral head is significantly displaced from the neck.
+The Southwick angle can also be used to quantify the degree of slippage in SCFE. It compares the angle between a line parallel to the physis and a line perpendicular to the shaft of the femur in both normal and affected hips. A greater angle indicates increased severity.
+In addition, it's important to note that SCFE may be unilateral or bilateral at presentation. Bilateral involvement can occur simultaneously or sequentially, therefore follow-up is essential in all cases after initial diagnosis and treatment.
+Improve
+Clinical features
+A typical presentation of slipped capital femoral epiphysis (SCFE) often involves a child or adolescent who is overweight or obese, presenting with a
+limp
+and hip, thigh or
+knee pain
+that has been persisting for several weeks. The pain may be intermittent and exacerbated by physical activity. On examination, the affected hip might exhibit limited range of motion, particularly in internal rotation and abduction.
+Presenting Features
+Pain:
+Pain is a common feature in SCFE. This can be located in the groin, lateral hip or referred to the thigh or knee. It is usually insidious in onset and progressively worsens over time.
+Limp:
+A limp is often observed due to discomfort during weight-bearing activities. This can be antalgic (to avoid pain) or Trendelenburg (due to weakness of the hip abductors).
+Altered gait:
+Patients may present with an externally rotated foot on the affected side while walking due to increased posterior tilt of the proximal femoral epiphysis.
+Limited range of motion:
+There may be restriction in hip movements, especially internal rotation, abduction and flexion. Forced passive internal rotation often exacerbates the pain.
+Muscle wasting:
+Prolonged immobility can lead to muscle atrophy around the affected joint.
+Bilateral involvement:
+In approximately 40% of cases, SCFE may affect both hips either simultaneously or sequentially. Hence a unilateral presentation should prompt examination of the contralateral hip.
+In addition to these typical features, some patients may have atypical presentations such as acute-onset severe
+hip pain
+following minor trauma which might suggest an acute slip. In rare cases, patients may present with no pain but only a limp or decreased range of motion.
+It is important to note that SCFE is a clinical diagnosis and should be suspected in any child or adolescent presenting with hip or knee pain, limping or altered gait, particularly if they are overweight or have recently had a growth spurt. Early recognition and intervention can prevent further slipping, which could otherwise lead to debilitating complications such as avascular necrosis of the femoral head and early-onset osteoarthritis.
+Improve
+Investigations
+The investigation of suspected SCFE primarily involves imaging studies. Initial evaluation should include a combination of clinical assessment and radiological examination.
+First-Line Investigations
+Radiography:
+Plain radiographs are the first-line imaging modality for evaluating
+hip pain
+and suspected SCFE. Anteroposterior (AP) and frog-leg lateral views of both hips should be obtained. The AP view can demonstrate the characteristic posterior displacement or 'slip' of the femoral epiphysis, while the lateral view can confirm it. Changes in the Shenton's line, metaphyseal blanch sign of Steel, or widening of the physis may also be visible.
+Further Investigations
+Magnetic Resonance Imaging (MRI):
+If initial radiographic findings are inconclusive but clinical suspicion remains high, MRI can be utilised to assess physeal abnormalities and early SCFE that may not be visible on plain radiographs. It provides excellent soft tissue contrast and multiplanar capabilities which allow for direct visualisation of the physis. Additionally, MRI can detect associated conditions such as avascular necrosis or chondrolysis.
+Computed Tomography (CT):
+CT scans provide good bony detail and can help evaluate complex slips or pre-operative planning in severe cases where surgical intervention is considered. However, due to radiation exposure considerations, CT scans are typically reserved for cases where other imaging modalities are insufficient.
+In most cases, SCFE is diagnosed based on a combination of clinical presentation and plain radiographic findings. Further investigations with MRI or CT scan are usually only required in atypical presentations or when the diagnosis is uncertain.
+Improve
+Differential diagnosis
+When considering a diagnosis of slipped capital femoral epiphysis (SCFE), it is essential to consider other potential diagnoses that may present with similar clinical features. The three most likely alternative diagnoses include
+transient synovitis
+, septic arthritis and Legg-Calvé-Perthes disease.
+Transient Synovitis:
+This is the most common cause of
+hip pain
+in children. It typically presents with acute onset of hip or
+knee pain
+, often following an upper respiratory tract infection. Unlike SCFE, which usually occurs in overweight adolescents, transient synovitis affects younger children aged 3-10 years and does not show a predilection for any specific weight range. The child may exhibit a
+limp
+or refuse to bear weight but generally appears well otherwise. In contrast to SCFE where the pain is chronic and dull, transient synovitis causes acute and severe pain. Radiographs are usually normal in transient synovitis while they reveal displacement of the femoral head relative to the femoral neck in SCFE.
+Septic Arthritis:
+This condition presents as an acutely irritable child with severe hip pain, fever and inability to bear weight on the affected leg - a clinical picture that can mimic SCFE. However, septic arthritis tends to occur in younger children compared to SCFE which predominantly affects adolescents. Also, patients with septic arthritis often have elevated inflammatory markers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR). While both conditions can demonstrate limited range of motion due to pain, joint effusion is more commonly associated with septic arthritis than SCFE.
+Legg-Calvé-Perthes Disease:
+This condition involves avascular necrosis of the femoral head and typically affects boys aged 4-8 years, a younger age range than SCFE. Similar to SCFE, patients may present with a limp and hip or knee pain. However, the onset of symptoms is usually insidious in Legg-Calvé-Perthes disease compared to the more acute presentation in SCFE. On examination, there may be limitation of abduction and internal rotation of the hip. Radiographs show a flattened, fragmented and sclerotic femoral head unlike SCFE where there is posterior displacement of the femoral head.
+Improve
+Management
+The management of slipped capital femoral epiphysis (SCFE) is primarily surgical, aiming to stabilise the epiphysis and prevent further slippage. The specific management steps are as follows:
+In Situ Pinning:
+This is the most common treatment for stable SCFE. A single screw or pin is inserted percutaneously into the femoral head to secure it in place. In unstable SCFE, multiple screws may be used.
+Open Reduction and Internal Fixation (ORIF):
+In severe cases or when closed methods fail, open reduction followed by internal fixation can be performed. This involves surgically exposing the hip joint, realigning the displaced femoral head under direct vision and then securing it with screws.
+Osteotomy:
+If there is significant deformity or chronic SCFE, an osteotomy may be required. This procedure involves cutting and realigning the bone to correct its position and orientation.
+In addition to these procedures, patient-specific factors such as age, skeletal maturity, severity of slip and comorbidities should be considered when deciding on an appropriate treatment strategy.
+The use of non-steroidal anti-inflammatory drugs (NSAIDs) can help manage pain but does not alter disease progression. Prophylactic pinning of the contralateral hip is recommended in certain high-risk patients such as those with endocrine disorders or who are prepubertal at presentation.
+Postoperative care includes immobilisation and limited weight bearing initially followed by gradual return to normal activities. Regular follow-up with radiological assessment is necessary to monitor progress and detect any complications early.
+Improve
+Complications
+The complications of Slipped capital femoral epiphysis (SCFE) can be broadly classified into acute and chronic complications, each having different clinical implications.
+Acute Complications
+Avascular necrosis:
+This is the most severe complication, occurring due to compromise of the blood supply to the femoral head. The risk is higher in cases with severe slips or those treated with aggressive reduction.
+Chondrolysis:
+This refers to rapid articular cartilage loss leading to hip joint destruction. It may occur postoperatively or spontaneously in untreated SCFEs.
+Chronic Complications
+Osteoarthritis:
+Chronic SCFE often leads to early onset osteoarthritis due to abnormal hip mechanics causing increased stress on the acetabulum.
+Femoroacetabular impingement (FAI):
+Residual deformity from SCFE can cause FAI, which is a common cause of
+hip pain
+and dysfunction in young adults.
+Leg length discrepancy:
+This may result from premature physeal closure or from overgrowth phenomenon associated with SCFE.
+Improve
+Prognosis
+The prognosis of Slipped Capital Femoral Epiphysis (SCFE) primarily depends on the severity and chronicity of the slip, as well as the timeliness and efficacy of treatment. The key prognostic factors include:
+Severity of slip:
+Patients with mild slips (< 30 degrees) generally have a better prognosis compared to those with moderate (30-50 degrees) or severe (> 50 degrees) slips.
+Chronicity:
+Acute SCFE tends to have a worse prognosis due to rapid onset leading to avascular necrosis (AVN). Chronic slips are more likely to result in hip deformities but less likely to cause AVN.
+Treatment:
+Early diagnosis and intervention improve the overall outcome. In situ pinning is the preferred surgical intervention for stable SCFE, while unstable cases may require more complex procedures.
+Potential complications associated with SCFE that can affect long-term outcomes include:
+Avascular necrosis (AVN):
+This is a serious complication where blood supply to the femoral head is disrupted, leading to bone cell death. It occurs in about 25% of patients with unstable SCFE.
+Chondrolysis:
+This involves loss of articular cartilage, resulting in joint stiffness and pain. It's seen in approximately 5% of cases post-treatment.
+Osteoarthritis:
+Long-term follow-up studies indicate an increased risk for early-onset hip osteoarthritis, particularly in patients with moderate-to-severe slips or those who developed AVN or chondrolysis.
+In summary, while most patients with SCFE can expect good to excellent long-term functional outcomes, the prognosis can be significantly impacted by the severity and chronicity of the slip, as well as potential complications such as AVN, chondrolysis, and early-onset osteoarthritis.
+Improve
+References
+Radiopaedia - Slipped upper femoral epiphysis
+Musculoskeletal deformities
+Slipped capital femoral epiphysis

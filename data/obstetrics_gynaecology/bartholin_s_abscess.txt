@@ -1,0 +1,162 @@
+Bartholin's abscess
+Bartholin's abscess
+Bartholin's abscess is a common gynaecological condition that affects women of reproductive age. It occurs when the Bartholin's gland, located on either side of the vaginal opening, becomes blocked and infected. The abscess can cause significant pain, discomfort, and difficulty with daily activities such as walking and sitting.
+Diagnosis is typically made through physical examination, with the abscess appearing as a tender, swollen lump near the vaginal opening. Treatment options include incision and drainage, antibiotics, and marsupialization.
+Complications of Bartholin's abscess can include recurrent infections, scarring, and the formation of a Bartholin's cyst.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of Bartholin's abscess is multifactorial, often linked to bacterial infection. The following risk factors and underlying causes should be considered:
+Microbial Infections
+Escherichia coli
+, a gram-negative bacillus, is commonly implicated in the development of Bartholin's abscess. This organism is part of the normal flora of the gastrointestinal tract and can lead to an abscess if it colonises the Bartholin's gland.
+Neisseria gonorrhoeae
+and
+Chlamydia trachomatis
+, sexually transmitted infections, may also cause Bartholin's abscess. However, these are less common causative agents compared to
+E. coli
+.
+The presence of other bacteria such as
+Staphylococcus aureus
+,
+Bacteroides species
+,
+Peptostreptococcus species
+, and anaerobes may also contribute to the formation of a Bartholin’s abscess.
+Hormonal Factors & Age
+The incidence of Bartholin's abscess is more prevalent in premenopausal women, particularly those aged 20-29 years. Hormonal changes during this period increase susceptibility due to increased mucus production which can trap bacteria within the duct.
+Surgical Procedures & Trauma
+Surgical interventions involving the lower genital tract such as episiotomy or vulvar biopsy can potentially introduce pathogens into the Bartholin’s gland ducts leading to subsequent infection and abscess formation. Similarly, trauma or injury to the area may also increase susceptibility.
+Catheterisation & Intermittent Self-Catheterisation (ISC)
+These procedures may also predispose to Bartholin's abscess due to the potential for bacterial introduction into the ducts.
+Immunosuppression
+Immunocompromised states, such as HIV infection or individuals receiving immunosuppressive therapy, can increase susceptibility to Bartholin's abscess.
+Poor Hygiene & Multiple Sexual Partners
+Poor genital hygiene and having multiple sexual partners have been associated with an increased risk of developing a Bartholin's abscess. These factors can contribute to the introduction and proliferation of bacteria in the gland ducts.
+Improve
+Pathophysiology
+The Bartholin's glands, located bilaterally at the posterior introitus, serve to secrete mucus for vaginal lubrication. The pathophysiology of a Bartholin's abscess begins when the duct of one of these glands becomes obstructed.
+Obstruction of the duct can occur due to various reasons such as trauma, inflammation or infection. When obstruction occurs, there is an accumulation of secretions within the gland leading to cyst formation. This is known as a Bartholin's cyst.
+Infection and Abscess Formation
+When bacteria colonise this cyst, it leads to an infection within the gland. Common organisms include
+Escherichia coli
+,
+Staphylococcus aureus
+, and sexually transmitted infections such as
+Neisseria gonorrhoeae
+and
+Chlamydia trachomatis
+.
+The bacterial invasion triggers an immune response causing inflammation and swelling in and around the gland.
+This inflammatory response coupled with continued secretion by the gland results in increased pressure within the gland.
+If not drained or treated promptly, pus accumulates leading to abscess formation.
+Improve
+Clinical features
+Bartholin's abscess is an infection of the Bartholin's gland, which is located bilaterally at the posterior introitus and functions to secrete mucus for lubrication during sexual intercourse. The clinical features of this condition can be categorized into local manifestations, systemic manifestations, and potential complications.
+Local Manifestations
+Swelling:
+Patients often present with a unilateral, tender swelling at the lower vestibule near the vaginal opening. The size of the swelling may vary from a small nodule to a large mass occupying a significant portion of the labium majus.
+Pain:
+The affected area typically exhibits localized pain that may be exacerbated by walking, sitting, or engaging in sexual activity. In some cases, patients may report dyspareunia due to increased pressure on the abscess during intercourse.
+Erythema and warmth:
+Physical examination usually reveals erythema and warmth overlying the swollen area as a result of inflammation and increased blood flow to the affected tissue.
+Fluctuance:
+Upon palpation, a fluctuant mass may be appreciated, indicating pus accumulation within the abscess cavity.
+Pus discharge:
+Spontaneous rupture or incision and drainage of the abscess can lead to purulent discharge from the external opening.
+Systemic Manifestations
+Fever:
+Although less common than local symptoms, some patients with Bartholin's abscess may present with low-grade fever as an indication of systemic infection.
+Malaise:
+Generalized malaise or fatigue can also be observed in patients experiencing systemic involvement due to bacterial infection.
+Improve
+Investigations
+The investigation of a suspected Bartholin's abscess is typically clinical, based on history and physical examination. However, further investigations may be necessary in certain circumstances, such as recurrent abscesses or atypical presentation.
+First-line Investigations
+Clinical Assessment:
+This involves inspection and palpation of the vulva to identify the location, size, and characteristics of the mass. The surrounding skin should also be examined for signs of cellulitis.
+Patient History:
+A detailed sexual history is essential to rule out sexually transmitted infections (STIs) that could contribute to the development of an abscess.
+Further Investigations
+If initial clinical assessment does not confirm the diagnosis or if there are concerns about potential complications, further investigations may be warranted.
+Culture and Sensitivity Testing:
+If an abscess is drained, fluid should be sent for culture and sensitivity testing. This can help to identify causative organisms (
+e.g., Escherichia coli, Staphylococcus aureus
+) and guide antibiotic therapy.
+Nucleic Acid Amplification Tests (NAATs):
+These tests can detect STIs such as gonorrhoea or chlamydia which might coexist with Bartholin's abscess. NAATs are more sensitive than culture methods for detecting these pathogens.
+Blood Tests:
+While not routinely required in uncomplicated cases, blood tests (full blood count, C-reactive protein) may be useful in severe cases or when systemic infection is suspected.
+Imaging:
+Ultrasound may be used to differentiate a Bartholin's abscess from other vulvar masses, such as a cyst or tumour. However, this is generally reserved for cases where the diagnosis is unclear or there are concerns about malignancy.
+Biopsy:
+In cases of recurrent abscesses or if malignancy is suspected (particularly in postmenopausal women), a biopsy should be taken. This can confirm the diagnosis and rule out vulvar cancer.
+In general, most cases of Bartholin's abscess can be diagnosed clinically without the need for extensive investigations. However, when necessary, these investigations can help confirm the diagnosis, identify causative organisms, guide treatment, and rule out complications or co-existing conditions.
+Improve
+Differential diagnosis
+The differential diagnosis of Bartholin's abscess primarily includes cysts of the Bartholin gland, sexually transmitted infections (STIs), and vulvovaginal cancer. These conditions can present similarly but have distinguishing features that aid in differential diagnosis.
+Bartholin Gland Cyst
+A Bartholin gland cyst typically presents as a painless, unilateral swelling at the posterior introitus. Its size can vary from small and barely noticeable to large and uncomfortable.
+Unlike an abscess, it is not associated with signs of infection such as erythema, local warmth or tenderness unless secondarily infected.
+The absence of systemic symptoms like fever and malaise also differentiates a cyst from an abscess.
+Sexually Transmitted Infections (STIs)
+STIs such as
+Gonorrhoea
+and
+Chlamydia trachomatis
+may mimic Bartholin's abscess due to their potential to cause bartholinitis or inflammation of the Bartholin glands.
+However, they are often accompanied by other signs and symptoms including abnormal vaginal discharge, dysuria, intermenstrual bleeding or postcoital bleeding which are not typically seen in Bartholin's abscess.
+In addition, STIs may be associated with contact history which is absent in cases of isolated Bartholin's abscess.
+Vulvovaginal Cancer
+Vulvar or vaginal malignancies can present as a mass mimicking a Bartholin's abscess. However, these are usually found in older women while Bartholin's abscess is more common in women of reproductive age.
+Malignancies are typically associated with persistent lesions despite treatment, irregular or bleeding ulcers, and may be accompanied by weight loss or other systemic symptoms.
+Unlike Bartholin's abscess, they are not typically associated with acute onset pain or signs of infection unless secondarily infected.
+Improve
+Management
+Management of Bartholin's abscess typically involves both conservative and surgical interventions. Initial management should be focused on pain relief using analgesics such as paracetamol or non-steroidal anti-inflammatory drugs (NSAIDs).
+Conservative Management:
+Sitz baths, where the patient sits in warm water several times a day, can help to promote drainage of the abscess.
+Antibiotic therapy is generally not indicated unless there are signs of cellulitis or sepsis, or if the patient is immunocompromised. If required, cover for
+Staphylococcus aureus
+,
+Streptococcus
+species and anaerobes should be considered.
+Surgical Management:
+If conservative management fails or if the abscess is particularly large (>3cm), surgical intervention may be necessary. This usually involves one of three procedures: marsupialisation, Word catheter placement, or gland excision.
+Marsupialisation
+: This involves making an incision into the cyst or abscess and suturing the edges of the skin to create a permanent opening. This allows ongoing drainage while healing takes place.
+Word Catheter Placement
+: A Word catheter can be inserted under local anaesthetic to drain the abscess and keep it open for healing. The catheter is typically left in place for 4-6 weeks to allow a new duct to form.
+Gland Excision
+: Reserved for recurrent cases that do not respond to other treatments, this procedure involves complete removal of the Bartholin's gland. However, due to significant postoperative morbidity associated with this procedure, it is typically considered as a last resort.
+Post-procedure care should include sitz baths, analgesics for pain management, and advice on sexual activity avoidance until healing is complete. Regular follow-ups are necessary to ensure resolution of the abscess and to monitor for possible recurrence.
+Improve
+Complications
+Potential Complications
+Recurrence:
+Inadequate treatment or drainage of Bartholin's abscess can result in recurrence or persistence of infection.
+Fistula formation:
+Chronic inflammation and recurrent infections may lead to fistula formation between the abscess cavity and the skin or vaginal mucosa.
+Cellulitis:
+Extension of infection beyond the Bartholin's gland can result in cellulitis, which may require more aggressive treatment with systemic antibiotics.
+Abscess extension:
+In severe cases, the abscess can extend to adjacent structures such as the perineum, buttock, or anterior abdominal wall.
+Sepsis:
+Rarely, untreated or inadequately treated Bartholin's abscess may progress to sepsis, a life-threatening condition requiring immediate medical intervention.
+Improve
+Women's health
+Bartholin's abscess

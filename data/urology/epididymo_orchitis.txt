@@ -1,0 +1,237 @@
+Epididymo-orchitis
+Epididymo-orchitis
+Acute epididymo-orchitis is a clinical syndrome consisting of pain, swelling and inflammation of the epididymis (epididymitis), with or without inflammation of the testes (orchitis). Orchitis, which is infection limited to the testis, is much less common than epididymo-orchitis.
+Epididymitis is the most common cause of scrotal pain in adults. Infections most commonly spread from the urethra through a sexually transmitted infection (STI) in sexually active males aged 14-35, and in men 35 years of age or older, usually through enteric organisms (
+Escherichia coli
+or
+Enterococcus faecalis
+) that cause urinary tract infections. Management consists of antibiotics, rest and analgesia with follow up recommended to ensure resolution.
+Chronic epididymitis usually presents without scrotal swelling and is characterised by epididymal pain and inflammation which lasts for more than six months. This is managed with non-steroidal anti-inflammatory drugs (NSAIDs), most commonly ibuprofen, and antibiotics where infection is identified.
+This rest of this review will focus primarily on acute epidiymo-orchitis.
+Last updated: 6
+th
+February 2023
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Condition
+Relative
+incidence
+Hydrocele
+1.15
+Epididymo-orchitis
+1
+Testicular torsion
+0.50
+Testicular cancer
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Common aetiology
+As discussed, in men
+under 35 years old
+, infection is most likely due to a sexually transmitted pathogen - for example
+Chlamydia trachomatis
+Neisseria gonorrhoeae.
+In men
+over 35 years old
+, infection is most likely due to a non-sexually transmitted gram-negative enteric organism causing urinary tract infections - for example
+Escherichia coli
+Pseudomonas spp
+.
+Having said this, it is important that a
+thorough sexual history
+is taken in all age groups as there can be an overlap between these groups.
+Rarer causes
+Mumps should be considered as an aetiology, particularly in those patients not previously vaccinated.
+Although extra-pulmonary tuberculosis represents 40-45% of TB cases in the UK, tuberculous epididymo-orchitis is a rare presentation. It is usually associated with renal TB but can occur in isolation and is a result of disseminated infection. It is more likely to present in patients with a previous history of TB and immunodeficiency
+In men with epididymo-orchitis
+ureaplasma urealyticum
+can be found usually in association with
+N. gonorrhoeae
+or
+C. trachomatis
+infection.
+12-19% of men with BehÃ§et's disease develop epididymo-orchitis. This is
+non-infective
+and is thought to be part of the disease process and is associated with more severe disease.
+Usually only occurring in the immunocompromised are other rare infections which can cause epididymo-orchitis. For example, brucellosis, coccidioidomycosis, blastomycosis, cytomegalovirus and candidiasis.
+Epididymo-orchitis has also been reported as an adverse effect of amiodarone. This usually affects the head of the epididymis and can occur in up to 3-11% of patients taking the drug
+Improve
+Pathophysiology
+Acute epididymitis occurs most commonly in patients aged 15-30 years and those patients above 60 years of age. Prepubertal epididymitis is rare and
+testicular torsion
+is much more common in the prepubertal age group.
+Risk factors
+Instrumentation and indwelling catheters are common risk factors where urethritis or prostatitis may also co-exist.
+In patients infected with
+gram-negative enteric organisms
+, structural or functional abnormalities of the urinary tract are common:
+Adults commonly have bladder outlet obstruction or a urethral stricture.
+Children may have an ectopic ureter, posterior urethral valves or vesicoureteral reflux.
+When considering epididymo-orchitis related to STI, it is important to evaluate risk factors for
+potential gonorrhoeal infection.
+These include:
+Presence of purulent
+urethral discharge
+Known contact of gonorrhoea
+Previous gonorrhoeal infection
+Men who have sex with men
+Anal intercourse is a risk factor for infection with enteric pathogens.
+Reflux of infected urine from the prostatic urethra to the epididymis via the ejaculatory ducts and vas deferens may be induced by strenuous exertion or Valsalva manoeuvre. Epididymitis can occur in men through developing a full bladder by performing strenuous exertion when there is no opportunity to void.
+Improve
+Clinical features
+The usual presentation is with unilateral scrotal pain that may radiate to the groin and swelling of relatively acute onset. Acute epididymitis is usually unilateral but is bilateral in 5-10% of patients. Onset is usually gradual over hours to days. Sudden onset of symptoms, particularly in males under 30 years of age should make one consider a diagnosis of
+testicular torsion
+.
+History is important to aid diagnosis and to help ascertain the most likely pathogenesis.
+As there is a high incidence of STIs in men under 35 these should be excluded in all cases and these males are at risk of sexually transmitted pathogens such as
+Chlamydia trachomatis
+or
+Neisseria gonorrhoea
+. There may be symptoms of urethritis or a
+urethral discharge
+in sexually transmitted epididymo-orchitis and it may be pertinent to ask about a recent change in sexual partner.
+More commonly in males over 35, there may be a history of symptoms suggesting a urinary tract infection or a history of bacteriuria.
+In patients with associated urinary symptoms and recent instrumentation (such as bladder catheterisation or cystoscopy) gram negative organisms such as
+Escherichia coli
+are the more likely cause.
+A history of a recent viral illness may point towards rarer causes such as mumps orchitis.
+Mumps orchitis occurs in up to 40% of postpubertal boys with mumps and is rare in prepubertal boys.
+Mumps usually presents with headache, fever and unilateral or bilateral parotid swelling but may present with epididymitis. Mumps orchitis usually occurs 4-8 days after parotitis
+Scrotal involvement can occur without systemic symptoms. Mumps is possible in those who have not been immunised and is a notifiable disease.
+Rarer causes such as extra-pulmonary tuberculosis should be considered in those who are immunosuppressed.
+Symptoms suggestive of tuberculous infection include painless or painful scrotal swelling which is of a subacute or chronic onset.
+There may be systemic symptoms of TB, a scrotal sinus or thickened scrotal skin.
+Examination findings
+Examine the scrotum with the patient in the standing position. Important things to look for include:
+An enlarged, erythematous scrotum
+Tenderness to palpation on the affected side of the testis, epididymis or cord
+In the early stages of epididymo-orchitis the epididymis may be tender and thickened
+In later presentations of epididymo-orchitis the entire hemi-scrotum may be oedematous
+There may also be associated urethral discharge, secondary
+hydrocele
+, and pyrexia.
+When tuberculous, the epididymis has an irregular surface and is hard, the spermatic cord is thickened, and the vas deferens feels hard and irregular.
+It is important to distinguish testicular torsion from epididymo-orchitis as torsion is a urological emergency. In torsion, the testis is extremely tender, compared to in epididymo-orchitis, where typically elevating and supporting the scrotum whilst the patient is standing reduces their pain - this is called
+Prehn sign
+and may suggest epididymitis but does not rule out testicular torsion.
+As this is not always clear cut, if there is any uncertainty about the diagnosis, the patient should be referred urgently for surgical exploration to exclude testicular torsion.
+Improve
+Investigations
+Investigations are typically guided by the age of the patient
+in younger adults assess for sexually transmitted infections (STI)
+in older adults with a low-risk sexual history send a mid-stream urine (MSU) for microscopy and culture
+Investigating for a sexually transmitted cause
+Carry out a
+gram-stained urethral smear
+, even if urethral symptoms are absent to examine microscopically for the diagnosis of urethritis
+Urethral swab
+for
+N. gonorrhoeae
+culture and/or first pass urine (FPU) or urethral swab for nucleic acid amplification test (NAAT) for
+N. gonorrhoeae
+and FPU or urethral swab for
+C. trachomatis
+NAAT
+If an STI is less likely
+Microscopy and culture of midstream specimen of urine (MSU)
+to check for urinary tract infection. Perform a urine dipstick that includes a leucocyte esterase and nitrite test. Positive leucocytes, nitrites, and blood would point towards an underlying urinary tract infection but this finding is not diagnostic.
+An urgent ultrasound scan of the scrotum can be considered if urgent referral is not indicated and there is diagnostic uncertainty.
+Other investigations that may require consideration:
+If epididymo-orchitis is found to have a sexually transmitted cause, the patient should be
+screened for other STIs
+.
+Those found to be infected with gram-negative enteric organisms, particularly in the age group above 50 years, further investigation of the urinary tract should be considered as
+anatomical abnormalities of the urinary tract
+may be the underlying cause.
+Less commonly, when investigating for tuberculous infection, three early morning urine samples should be obtained, however these are not always positive for acid-alcohol fast bacilli (AAFB) in the setting of tuberculous epididymitis. Other investigations recommended include renal tract ultrasound scan, intravenous urography, and biopsy of the site as well as chest x-ray to investigate for co-existing respiratory involvement.
+Also less commonly, if mumps is being considered as a diagnosis, check mumps
+IgM/IgG serology.
+Improve
+Differential diagnosis
+Epididymo-orchitis is the commonest cause of acute scrotal pain. However, the most important differential diagnosis that should be excluded is
+testicular torsion
+as this is a surgical emergency where urgent intervention is required.
+Testicular torsion
+Have a very low threshold for suspecting testicular torsion as this is a surgical emergency.
+Irreversible ischaemic injury can begin within 4 hours of cord occlusion, resulting in reduced fertility or even testicular loss.
+Torsion is more common in men who are younger than 20 years but it can occur at any age. Therefore a painful swollen testicle in an adolescent boy or a young man should be managed as torsion until proven otherwise.
+Torsion is more likely if the onset of pain is acute (typically around four hours at presentation) and the pain is severe which can be associated with nausea and vomiting. Onset is usually sudden.
+There may be a history of previous episodes of severe, self-limiting pain.
+The testis is often elevated in the scrotum, and may have a transverse lie. The cremasteric reflex is likely to be absent.
+Hydrocele
+The onset can be acute or chronic and typically presents with a painless and non-tender fluctuant swelling enveloping the testis that transilluminates.
+This is most common in neonates, disappearing within the first 1-2 years of life, but may appear at any age.
+May be caused by trauma but can also be associated with a varicocele, testicular torsion,
+testicular cancer
+, or an inguinal hernia.
+Trauma
+is also an important diagnosis to think about in all patients and can usually be ascertained from the history.
+Rarer causes to consider:
+Testicular tumour, which in most cases will present as a painless
+testicular lump
+but can also present with acute scrotal pain and/or swelling.
+Idiopathic scrotal oedema presents more commonly in childhood with bilateral oedema and bruising over the scrotal skin. The testes should not be tender on examination.
+Improve
+Management
+Management outline
+if an STI is the most likely cause advise urgent referral to a local specialist sexual health clinic
+CKS
+if the organism is unknown BASHH recommend: ceftriaxone 500mg intramuscularly single dose, plus doxycycline 100mg by mouth twice daily for 10-14 days
+if enteric organisms are the most likely cause
+CKS
+send an MSU as above
+treating empirically with an oral quinolone for 2 weeks (e.g. ofloxacin)
+Further details
+Hospital admission should be considered if the patient is very unwell or if his symptoms are severe. This should be particularly kept in mind if the patient is immunocompromised or has diabetes.
+If the epididymo-orchitis is likely to be due to possible STI (for example, in the younger age group, patient with multiple partners or a new sexual partner), then refer urgently (ideally same-day or next-day referral) to a genitourinary clinic for full STI screen, treatment and contact tracing. If this is not possible, then based on risk factors, identify the most likely causative organism and treat with antibiotics accordingly.
+In those with confirmed or suspected sexually transmitted epididymo-orchitis, patients should be advised to abstain from sexual intercourse until they and their partner(s) have completed treatment and follow-up
+Antibiotics
+The antibiotic regimen chosen should be dependent on whether the cause is thought to be due to a sexually transmitted or an enteric organism.
+This can be determined through age, sexual history including insertive anal intercourse (which is more commonly associated with an enteric organism cause), any recent instrumentation or catheterisation and any known urinary tract abnormalities as well as immediate tests (urethral or FPU smear, urinalysis).
+Empirical therapy should be given to all patients with epididymo-orchitis before culture/NAAT results are available. Antibiotics may vary according to local antibiotic sensitivities and changed once the results of cultures and sensitivities are known.
+For epididymo-orchitis most probably due to any
+sexually transmitted
+pathogen, give ceftriaxone is given intramuscularly as a single dose, plus doxycycline 10-14 days. Oral cefixime can be used as an alternative to intramuscular ceftriaxone.
+If gonorrhoea is considered likely, azithromycin should be added to ceftriaxone and doxycycline.
+For epididymo-orchitis most probably due to
+enteric organisms
+, treat with ofloxacin or levofloxacin.
+If a quinolone is contraindicated (for example, in patients with a history of tendon disorders or seizures), treat with co-amoxiclav.
+General advice
+Appropriate rest, analgesia and scrotal support (for example with supportive underwear) are recommended until fever or signs of local inflammation have resolved.
+Explain to the patient that if symptoms worsen, or do not begin to improve within 3 days, to return for reassessment.
+Seek specialist advice about the treatment of pre-pubertal boys with epididymo-orchitis in association with a UTI as there are no guidelines or primary evidence to guide the choice, dose, and duration of antibiotics specifically in this age group, and because antibiotics recommended for adults with epididymo-orchitis, such as quinolones, are not normally recommended in children.
+Follow-up
+If there is no improvement in the patient's condition after 3 days, the diagnosis should be reassessed and therapy re-evaluated.
+Further follow-up is recommended at two weeks to assess concordance with treatment, partner notification and improvement of symptoms.
+Scrotal swelling can take up to six weeks to completely resolve, however the pain should substantially improve and the scrotum should be less erythematous after 3-5 days of antibiotic treatment. If no improvement occurs, consider exclusion of a scrotal abscess through urgent referral to
+urology
+for assessment with clinical and radiological examination.
+Improve
+Complications
+Patients with uropathogen-related epididymo-orchitis are more often seen to have complications compared to STI-associated epididymo-orchitis.
+Potential complications include:
+Reactive
+hydrocele
+.
+Infertility - the relationship between epididymo-orchitis and infertility is poorly understood.
+Epididymal obstruction may be a consequence of previous infection and this is most often revealed when men present with obstructive azoospermia and are found to have epididymal obstruction when explored for sperm retrieval.
+Rarely seen, abscess formation and infarction of the testicle.
+Mumps epididymo-orchitis can be complicated by testicular atrophy, sub-fertility and infertility.
+Improve
+References
+Clinical Knowledge Summaries - Epididymo-orchitis
+British Association for Sexual Health and HIV - 2010 Epididymo-orchitis guidelines
+UKMLA Child health
+Epididymo-orchitis

@@ -1,0 +1,312 @@
+Ulcerative colitis
+Ulcerative colitis
+Ulcerative colitis (UC) is a chronic
+inflammatory bowel disease
+causing continuous colonic mucosa inflammation and ulceration. Its multifactorial aetiology involves genetic susceptibility, immune dysregulation, environmental factors, and gut microbiota alterations. Patients typically present with bloody
+diarrhoea
+, lower
+abdominal pain
+, urgency,
+tenesmus
+, fatigue, and weight loss. Diagnosis combines clinical presentation, laboratory tests, endoscopic evaluation, and histopathological findings. Management aims to induce and maintain remission using pharmacological treatments, lifestyle modifications, and surgical interventions in severe or refractory cases. Medications include aminosalicylates,
+corticosteroids
+, immunomodulators, and biological agents, while lifestyle modifications encompass dietary adjustments, stress management, and smoking cessation.
+Last updated: 22
+nd
+March 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Colorectal cancer
+6.40
+Crohn's disease
+1.10
+Ulcerative colitis
+1
+Microscopic colitis
+1.00
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Genetic Susceptibility
+Multiple genome-wide association studies (GWAS) have identified over 200 genetic loci associated with UC, implicating various pathways in disease pathogenesis. Key genes include HLA region genes, IL23R, IL10, and NOD2. These genes are involved in immune regulation, barrier function, and microbial recognition, highlighting the complex interplay between genetic factors and the immune response in UC.
+Immune Dysregulation
+UC is characterized by an aberrant immune response, with a predominant involvement of the adaptive immune system. Key players include T-helper cells (Th1, Th2, and Th17), regulatory T cells, and cytokines such as tumor necrosis factor-alpha (TNF-α), interleukin-6 (IL-6), and interleukin-13 (IL-13). The mucosal immune response is dysregulated, leading to a loss of tolerance to commensal gut bacteria and excessive inflammation. This results in damage to the intestinal epithelial barrier and further amplification of the inflammatory response.
+Environmental Factors
+Various environmental factors have been implicated in the development and exacerbation of UC, including diet, smoking, psychological stress, and medications. Western diets, characterized by high fat and low fibre intake, have been associated with an increased risk of UC, while smoking appears to have a paradoxical protective effect. Psychological stress can exacerbate symptoms, and certain medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs), may trigger or worsen disease flares.
+Gut Microbiota
+Alterations in gut microbiota, known as dysbiosis, are observed in UC patients. The specific microbial changes vary among individuals, but generally involve a reduction in bacterial diversity, a decrease in Firmicutes, and an increase in Proteobacteria and Bacteroidetes. This dysbiosis may contribute to the breakdown of the intestinal barrier and perpetuate the aberrant immune response.
+Improve
+Pathophysiology
+In ulcerative colitis (UC), the inflammation is typically confined to the mucosa and superficial submucosa, unlike the transmural inflammation characteristic of
+Crohn's disease
+. Architectural distortion is a hallmark of UC, marked by irregular, shortened crypts, crypt branching, and increased crypt density. The lamina propria often exhibits increased cellularity due to the infiltration of inflammatory cells such as neutrophils, lymphocytes, and plasma cells.
+Inflammatory Infiltrate
+The inflammatory infiltrate in UC predominantly consists of neutrophils and lymphocytes. Neutrophils are particularly significant as they form crypt abscesses—collections of neutrophils within the crypt lumen—a key feature of active UC. Lymphocytes infiltrate both the lamina propria and the epithelium, resulting in an increased number of intraepithelial lymphocytes, contributing to the chronic inflammatory state.
+Goblet Cell Depletion
+Goblet cells are vital for producing mucus, which is essential for maintaining the intestinal barrier. In UC, there is a notable depletion of goblet cells and a consequent reduction in mucus production, particularly during active disease phases. This depletion impairs the barrier function, exacerbating inflammation and contributing to the perpetuation of the disease.
+Ulceration and Granulation Tissue
+Active UC frequently leads to ulceration of the mucosal surface. These ulcers can extend into the superficial submucosa, resulting in the formation of granulation tissue. Granulation tissue consists of proliferating fibroblasts, newly formed blood vessels, and inflammatory cells, playing a critical role in the healing process of the ulcerated mucosa.
+Crypt Atrophy and Paneth Cell Metaplasia
+Crypt atrophy, characterized by a reduction in crypt size and loss of normal architectural structure, is commonly observed in UC. Additionally, Paneth cell metaplasia—defined as the abnormal presence of Paneth cells in the left colon and rectum—may occur. This metaplasia is considered a regenerative response to chronic injury, reflecting an attempt by the epithelium to repair and restore its integrity.
+Improve
+Classification
+UC is classified based on the extent and severity of colonic involvement:
+Ulcerative proctitis: Inflammation is limited to the rectum.
+Proctosigmoiditis: Involves the rectum and sigmoid colon.
+Left-sided colitis: Extends from the rectum to the splenic flexure.
+Pancolitis: Affects the entire colon.
+Improve
+Clinical features
+A stereotypical presentation of ulcerative colitis often begins with a patient in their mid-thirties complaining of chronic
+diarrhoea
+, which may be bloody or mucus-laden. The patient may also report lower
+abdominal pain
+, which is typically crampy and relieved by defecation. Systemic features such as weight loss, fatigue, and anorexia are common.
+Gastrointestinal Features
+Diarrhoea:
+This is the most common symptom and could range from mild to severe. It may be associated with urgency and incontinence.
+Bloody stools:
+Haematochezia is a hallmark feature of ulcerative colitis. The blood can either be bright red or dark, depending on the extent of inflammation.
+Mucus in stools:
+Patients often report passing mucus along with stool.
+Abdominal pain:
+Lower quadrant abdominal discomfort that gets relieved after defecation is typical. However, severe pain may indicate complications such as toxic megacolon or perforation.
+Tenesmus
+:
+A constant urge to defecate despite an empty colon can cause significant distress to patients.
+Systemic Features
+Fever:
+Moderate to high-grade fever indicates systemic involvement and possibly severe disease.
+Fatigue:
+Chronic inflammation leads to malaise and fatigue. Iron deficiency
+anaemia
+due to chronic blood loss can exacerbate this symptom.
+Anorexia and weight loss:
+These are common manifestations due to decreased appetite and malabsorption caused by inflamed intestinal mucosa.
+In addition to these, ulcerative colitis can present with extraintestinal manifestations such as arthralgia, uveitis,
+erythema nodosum
+, and
+primary sclerosing cholangitis
+. These features often correlate with the severity of intestinal disease and may precede the onset of gastrointestinal symptoms.
+Extraintestinal Features
+Arthritis:
+Peripheral arthritis affecting large joints is common. Less frequently, it may cause sacroiliitis and ankylosing spondylitis.
+Ocular involvement:
+Uveitis and episcleritis are the most common eye complications.
+Dermatological conditions:
+Erythema nodosum and pyoderma gangrenosum can occur.
+Hepatobiliary disorders:
+Primary sclerosing cholangitis is a serious complication that increases the risk of
+colorectal cancer
+and liver disease.
+The clinical course of ulcerative colitis can be variable. Some patients may have a single episode followed by long-term remission, while others may experience chronic active disease or frequent relapses.
+Improve
+Investigations
+When investigating a patient with suspected Ulcerative Colitis (UC), a structured approach is crucial to confirm the diagnosis, assess disease severity and guide appropriate management. Investigations are divided into first-line investigations and further investigations.
+First-line Investigations:
+Full Blood Count (FBC):
+This is essential in assessing for
+anaemia
+which may suggest chronic blood loss. Raised white cell count or platelets may indicate active inflammation.
+C-reactive protein (CRP) and Erythrocyte Sedimentation Rate (ESR):
+These markers of inflammation can help evaluate disease activity, although normal levels do not exclude active UC.
+Faecal Calprotectin:
+A non-invasive marker of gut inflammation, useful in distinguishing
+inflammatory bowel disease
+from irritable bowel syndrome. It is also used to monitor response to treatment.
+In adults, it has a sensitivity of 93% and specificity of 96% for IBD. In children, the specificity falls to around 75%.
+In addition to IBD, other causes of a raised faecal calprotectin include: bowel malignancy, coeliac disease, infectious colitis, use of NSAIDs
+Sigmoidoscopy or Colonoscopy with Biopsy:
+Endoscopic examination allows direct visualisation of the mucosa and assessment of disease extent and severity. Biopsies should be taken from both inflamed and non-inflamed areas to aid diagnosis as histological confirmation is required for definitive diagnosis.
+Care should be taken during acute flares due to the risk of perforation
+Further Investigations:
+If first-line investigations are inconclusive, or if complications are suspected, further investigations may be indicated:
+Magnetic Resonance Imaging (MRI) or Computed Tomography (CT) scan:
+These can provide detailed imaging of the colon and small intestine, helping identify complications such as strictures or fistulas. They can also assess extra-intestinal manifestations of UC.
+Faecal Microbiology:
+To exclude infectious causes of colitis including
+Clostridium difficile
+,
+Campylobacter
+, and
+Salmonella
+.
+Serology:
+Antibodies such as p-ANCA can support the diagnosis of UC, although they are not diagnostic. They can also help differentiate UC from
+Crohn's disease
+.
+Improve
+Differential diagnosis
+The two main types of
+inflammatory bowel disease
+are
+Crohn's disease
+and ulcerative colitis. They have many similarities in terms of presenting symptoms, investigation findings and management options.
+Venn diagram showing shared features and differences between ulcerative colitis and Crohn's disease. Note that whilst some features are present in both, some are much more common in one of the conditions, for example
+colorectal cancer
+in ulcerative colitis
+There are however some key differences which are highlighted in table below:
+Crohn's disease (CD)
+Ulcerative colitis (UC)
+Features
+Diarrhoea
+usually non-bloody
+Weight loss more prominent
+Upper gastrointestinal symptoms, mouth ulcers, perianal disease
+Abdominal mass palpable in the right iliac fossa
+Bloody diarrhoea more common
+Abdominal pain
+in the left lower quadrant
+Tenesmus
+Extra-intestinal
+Gallstones are more common secondary to reduced bile acid reabsorption
+Oxalate renal stones*
+Primary sclerosing cholangitis
+more common
+Complications
+Obstruction, fistula, colorectal cancer
+Risk of colorectal cancer high in UC than CD
+Pathology
+Lesions may be seen anywhere from the mouth to anus
+Skip lesions may be present
+Inflammation always starts at rectum and never spreads beyond ileocaecal valve
+Continuous disease
+Histology
+Inflammation in all layers from mucosa to serosa
+increased goblet cells
+granulomas
+No inflammation beyond submucosa (unless fulminant disease)  - inflammatory cell infiltrate in lamina propria
+neutrophils migrate through the walls of glands to form crypt abscesses
+depletion of goblet cells and mucin from gland epithelium
+granulomas are infrequent
+Endoscopy
+Deep ulcers, skip lesions - 'cobble-stone' appearance
+Widespread ulceration with preservation of adjacent mucosa which has the appearance of polyps ('pseudopolyps')
+Radiology
+Small bowel enema
+high sensitivity and specificity for examination of the terminal ileum
+strictures: 'Kantor's string sign'
+proximal bowel dilation
+'rose thorn' ulcers
+fistulae
+Barium enema
+loss of haustrations
+superficial ulceration, 'pseudopolyps'
+long standing disease: colon is narrow and short -'drainpipe colon'
+*impaired bile acid rebsorption increases the loss calcium in the bile. Calcium normally binds oxalate.
+Improve
+Management
+Medical Management
+Aminosalicylates (5-ASAs): These medications, including mesalamine,
+sulfasalazine
+, and balsalazide, are often the first line of therapy for mild-to-moderate UC. They have both anti-inflammatory and immunomodulatory properties.
+Corticosteroids
+: Prednisone, hydrocortisone, and budesonide are used to manage moderate-to-severe UC or acute flares. They should be tapered and discontinued once remission is achieved due to their long-term side effects.
+Immunomodulators:
+Azathioprine
+, 6-mercaptopurine, and methotrexate are options for patients who fail to respond or are intolerant to 5-ASAs and corticosteroids. These drugs modulate the immune response and reduce inflammation.
+Biologic therapies: Anti-tumor necrosis factor (anti-TNF) agents (infliximab, adalimumab, golimumab), anti-integrin agents (vedolizumab), and anti-interleukin-12/23 agents (ustekinumab) are used for patients with moderate-to-severe UC who are refractory to conventional treatments.
+Janus kinase (JAK) inhibitors: Tofacitinib is an oral JAK inhibitor approved for the treatment of moderate-to-severe UC in patients who do not respond to or are intolerant of other treatments.
+Surgical Management
+Surgery may be indicated for patients with UC who have complications, such as toxic megacolon, perforation, or severe bleeding, or who fail to respond to medical therapy. The standard surgical procedure for UC is proctocolectomy with ileal pouch-anal anastomosis (IPAA), which involves the removal of the entire colon and rectum, with the creation of a pouch from the small intestine to restore bowel continuity.
+NICE guidelines
+Treatment can be divided into inducing and maintaining remission. NICE updated their guidelines on the management of ulcerative colitis in 2019.
+The severity of UC is usually classified as being mild, moderate or severe:
+mild: < 4 stools/day, only a small amount of blood
+moderate: 4-6 stools/day, varying amounts of blood, no systemic upset
+severe: >6 bloody stools per day + features of systemic upset (pyrexia, tachycardia,
+anaemia
+,
+raised inflammatory markers
+)
+Inducing remission
+Treating mild-to-moderate ulcerative colitis
+proctitis
+topical (rectal) aminosalicylate: for distal colitis rectal
+mesalazine
+has been shown to be superior to rectal steroids and oral aminosalicylates
+if remission is not achieved within 4 weeks, add an oral aminosalicylate
+if remission still not achieved add topical or oral corticosteroid
+proctosigmoiditis and left-sided ulcerative colitis
+topical (rectal) aminosalicylate
+if remission is not achieved within 4 weeks, add a high-dose oral aminosalicylate OR switch to a high-dose oral aminosalicylate and a topical corticosteroid
+if remission still not achieved stop topical treatments and offer an oral aminosalicylate and an oral corticosteroid
+extensive disease
+topical (rectal) aminosalicylate and a high-dose oral aminosalicylate:
+if remission is not achieved within 4 weeks, stop topical treatments and offer a high-dose oral aminosalicylate and an oral corticosteroid
+Severe colitis
+should be treated in hospital
+intravenous steroids are usually given first-line
+intravenous ciclosporin may be used if steroid are contraindicated
+if after 72 hours there has been no improvement, consider adding intravenous ciclosporin to intravenous corticosteroids or consider surgery
+Maintaining remission
+Following a mild-to-moderate ulcerative colitis flare
+proctitis and proctosigmoiditis
+topical (rectal) aminosalicylate alone (daily or intermittent) or
+an oral aminosalicylate plus a topical (rectal) aminosalicylate (daily or intermittent) or
+an oral aminosalicylate by itself: this may not be effective as the other two options
+left-sided and extensive ulcerative colitis
+low maintenance dose of an oral aminosalicylate
+Following a severe relapse or >=2 exacerbations in the past year
+oral azathioprine or oral mercaptopurine
+Other points
+methotrexate is not recommended for the management of UC (in contrast to
+Crohn's disease
+)
+there is some evidence that probiotics may prevent relapse in patients with mild to moderate disease
+Improve
+Complications
+Overview
+risk of
+colorectal cancer
+is significantly higher than that of the general population although studies report widely varying rates
+the increased risk is mainly related to chronic inflammation
+worse prognosis than patients without ulcerative colitis (partly due to delayed diagnosis)
+lesions may be multifocal
+Factors increasing risk of cancer
+disease duration > 10 years
+patients with pancolitis
+onset before 15 years old
+unremitting disease
+poor compliance to treatment
+Colonoscopy surveillance in
+inflammatory bowel disease
+patients should be decided following risk stratification.
+Lower risk
+5 year follow up colonoscopy
+Extensive colitis with no active endoscopic/histological inflammation
+OR left sided colitis
+OR Crohn's colitis of <50% colon
+Intermediate risk
+3 year colonoscopy
+Extensive colitis with mild active endoscopy/histological inflammation
+OR post-inflammatory polyps
+OR family history of colorectal cancer in a first degree relative aged 50 or over
+Higher risk
+1 year follow up colonoscopy
+Extensive colitis with moderate/severe active endoscopic/histological inflammation
+OR stricture in past 5 years
+OR dysplasia in past 5 years declining surgery
+OR
+primary sclerosing cholangitis
+/ transplant for primary sclerosing cholangitis
+OR family history of colorectal cancer in first degree relatives aged <50 years
+Improve
+References
+NICE - 2019 Ulcerative colitis guidelines
+NICE - Colorectal cancer prevention: colonoscopic surveillance in adults with ulcerative colitis, Crohn's disease or adenomas
+Gastroenterology
+Ulcerative colitis

@@ -1,0 +1,100 @@
+Threadworms
+Threadworms
+Enterobius vermicularis
+, commonly known as threadworms, are small, white parasitic nematodes that primarily inhabit the human gastrointestinal tract. Infestation typically occurs through faecal-oral transmission, with children being most susceptible due to their close contact in environments such as schools and nurseries. The female worm migrates to the perianal region during night-time hours to lay eggs causing
+pruritus ani
+, which is often intense and disrupts sleep.
+Diagnosis is usually clinical but can be confirmed using a 'sticky tape' test or examining a stool sample under microscopy. Pharmacological management involves administration of anthelmintics like mebendazole or piperazine. Due to the high risk of re-infestation, all household members should also receive treatment irrespective of symptoms.
+Prevention strategies include rigorous hand hygiene, regular changing and washing of bed linen and underwear, and discouraging nail biting and thumb sucking habits in children.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 800.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Enterobius vermicularis
+, commonly known as threadworm or pinworm, is a small, white, parasitic nematode that primarily infects humans. The pathophysiology of threadworm infection involves several stages and mechanisms which are interconnected.
+The life cycle of
+E. vermicularis
+begins when the host ingests embryonated eggs from contaminated hands, food or fomites. These eggs hatch in the small intestine releasing larvae that mature into adult worms. The adults then migrate to the colon.
+Adult Worm Migration and Egg Laying
+The female worm migrates nocturnally out of the anus and deposits her eggs on the perianal skin. This migration often causes perianal pruritus, a characteristic symptom of threadworm infection.
+The eggs contain a sticky outer layer allowing them to adhere to skin and other surfaces, aiding their dispersion in the environment.
+Egg Ingestion and Larval Release
+The infectious cycle is perpetuated when these eggs are inadvertently ingested due to poor hygiene practices or via contaminated items.
+Upon ingestion, these eggs travel down to the small intestine where they hatch into larvae within six hours.
+Larval Maturation and Reproduction
+The released larvae mature into adults during their passage through the small intestine towards the colon where they establish residence.
+Copulation takes place in the lumen of caecum and ascending colon. After mating, male worms usually die while females survive for further egg production.
+Threadworm infection can lead to various clinical manifestations driven by both direct effects of parasite activity and host immune responses:
+Gastrointestinal Disturbances
+The mechanical trauma caused by the worms can lead to inflammation and ulceration of intestinal mucosa, resulting in abdominal discomfort or pain.
+Severe infestations may cause malabsorption and subsequent nutritional deficiencies.
+Perianal Pruritus
+The nocturnal migration of female worms to the perianal region induces intense itching. This symptom is often worse at night due to increased worm activity.
+Scratching the itchy area can lead to secondary bacterial infections, skin excoriation and potential scarring.
+Immune Response and Systemic Effects
+The host immune response against
+E. vermicularis
+can lead to eosinophilia, particularly in heavy infestations.
+Rarely, aberrant migration of worms may occur leading to granuloma formation in ectopic sites such as the liver or lungs.
+Improve
+Clinical features
+Threadworm infestation is asymptomatic in around 90% of cases, possible features include:
+perianal itching, particularly at night
+girls may have vulval symptoms
+Improve
+Investigations
+Diagnosis may be made by the applying Sellotape to the perianal area and sending it to the laboratory for microscopy to see the eggs. However, most patients are treated empirically and this approach is supported in theNICEguidelines.
+Improve
+Differential diagnosis
+Threadworms, or
+Enterobius vermicularis
+, typically present with perianal itching, particularly at night. However, the differential diagnosis can be broad and it is important to consider other conditions that may mimic threadworm infection. The three most likely alternative diagnoses are pinworms, haemorrhoids and
+pruritus ani
+.
+Pinworms
+Pinworms (Enterobius vermicularis)
+share similar clinical features with threadworms, often causing confusion in diagnosis. Both infections are characterised by perianal itching, especially nocturnal. However, there are subtle differences in presentation:
+The presence of adult worms or eggs on perianal skin or undergarments is more suggestive of pinworm infection.
+The patient's age might provide a clue; while threadworm infection is common amongst school-aged children, pinworm infection can affect individuals of all ages.
+Haemorrhoids
+Haemorrhoids can also cause perianal discomfort and itching but usually present with additional symptoms that differentiate them from threadworm infection:
+Pain during defecation and the presence of bright red blood on toilet paper or stools are hallmark signs of haemorrhoids.
+A physical examination might reveal swollen blood vessels around the anus in cases of external haemorrhoids.
+Pruritus Ani
+Pruritus ani is characterised by intense itching around the anus. Although this symptom overlaps with threadworm infection, certain features suggest pruritus ani:
+The itchiness tends to be persistent throughout the day rather than being predominantly nocturnal as seen in threadworm infections.
+Certain triggers such as spicy foods, caffeine or alcohol might exacerbate the itching in pruritus ani.
+Improve
+Management
+Management of threadworms, or
+Enterobius vermicularis
+, primarily involves pharmacological therapy, with the first-line treatment being mebendazole. However, hygiene measures are also essential to prevent re-infection and spread.
+Pharmacological Management:
+Mebendazole is recommended as a first-line treatment for all individuals aged over six months. A single dose should be given, followed by a repeat dose after two weeks if symptoms persist.
+Piperazine with senna is an alternative for those who cannot tolerate mebendazole or for pregnant women in their second or third trimester.
+Pregnant women in their first trimester and children under six months should not receive antihelminthic medication unless absolutely necessary. Instead, strict personal hygiene measures should be employed to manage the infection.
+Hygiene Measures:
+All household members and close contacts should adhere to stringent personal hygiene measures regardless of symptomatic status. This includes regular hand washing, particularly before meals and after using the toilet.
+Daily morning bathing or showering can help remove eggs from the perianal area.
+Nail-biting and thumb-sucking habits should be discouraged as these increase risk of ingestion of eggs.
+Cleanliness of household items such as bed linen, towels and night clothes is paramount. These items should be washed regularly on a hot cycle to kill any potential eggs.
+Note that eradication of threadworms can be challenging due to their high infectiousness and the tenacity of their eggs. Therefore, persistence with both pharmacological treatment and rigorous hygiene practices is key to successful management.
+Improve
+References
+Clinical Knowledge Summaries - Threadworm guidelines
+Paediatric gastroenterology
+Threadworms

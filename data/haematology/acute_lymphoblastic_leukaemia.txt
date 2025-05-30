@@ -1,0 +1,375 @@
+Acute lymphoblastic leukaemia
+Acute lymphoblastic leukaemia
+Acute lymphoblastic
+leukaemia
+(ALL) is a malignancy of precursor cells from the lymphocyte lineage, the most common of which is B-cell ALL. ALL is the
+most common childhood malignancy
+, but given its' non-specific clinical presentation, it is difficult to distinguish from an ordinary self-limiting illness. An awareness of ALL and a high index of suspicion is essential. Any combination of persistent
+fever
+,
+pallor
+, unusual bleeding,
+lymphadenopathy
+and/or organomegaly should raise suspicions.
+The first-line investigation is usually a
+full blood count with differential
+to identify haematological abnormalities. Diagnosis relies on the identification of abnormal morphology and confirming these abnormal cells are of lymphoid lineage while excluding the possibility of myeloid lineage. Management involves pre-phase stabilisation, followed by a risk-based chemotherapy regime.
+Last updated: 4
+th
+June 2024
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Acute myeloid
+leukaemia
+5.00
+Acute lymphoblastic leukaemia
+1
+Immune
+thrombocytopenia
+(ITP) in children
+1.00
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+A definite cause of ALL is yet to be discovered. Some experts state the following  as contributing factors to the development of ALL;
+Genetic
+The basis of this association is founded on an increased risk of developing ALL among monozygotic twins and those with chromosomal abnormalities, including
+trisomy 21, Klinefelter's syndrome
+and other inherited conditions with genetic instability, including
+Fanconi
+anaemia
+.
+Viral exposure
+Environment: including smoking or radiation exposure.
+Improve
+Pathophysiology
+Acute lymphoblastic
+leukaemia
+(ALL) is a haematological malignancy characterised by the clonal expansion of immature lymphoid precursors, known as lymphoblasts. The pathogenesis of ALL involves a complex series of genetic, epigenetic, and microenvironmental alterations that disrupt normal haematopoiesis and immune function.
+Initial Genetic Events
+The pathogenesis of ALL often begins with a somatic mutation in a progenitor cell within the bone marrow. This mutation leads to the formation of an aberrant clone of cells that proliferate uncontrollably. These genetic alterations can occur at various stages of lymphoid development, leading to different subtypes of ALL.
+Mutations Affecting Cellular Proliferation and Survival
+Fusion Genes:
+The most common mutations observed in ALL are those affecting genes involved in cellular proliferation and survival. These include rearrangements involving the BCR-ABL1, E2A-PBX1, and MLL genes, resulting in the production of fusion proteins with increased or novel oncogenic activity.
+Transcription Factors:
+Mutations in transcription factors such as TAL1 and PAX5, critical for normal B-cell development, contribute to leukemogenesis by disrupting normal differentiation pathways.
+Tumour Suppressor Genes:
+Mutations in tumour suppressor genes such as TP53 and deletions in chromosomes 9 and 13 facilitate the survival and expansion of these abnormal clones by preventing apoptosis (programmed cell death).
+Mutations Affecting Epigenetic Regulation
+DNA Methylation
+: Changes in DNA methylation patterns can lead to the silencing of tumour suppressor genes.
+Histone Modification:
+Alterations in histone modification can result in aberrant gene expression, further contributing to the malignancy.
+Microenvironmental Influences
+Bone Marrow Niche
+: The bone marrow microenvironment plays a significant role in ALL pathogenesis. Abnormal lymphoblasts can alter the bone marrow niche to support their own survival and proliferation, often at the expense of normal haematopoiesis. This leads to cytopenias and associated clinical symptoms such as
+anaemia
+,
+thrombocytopenia
+, and
+neutropenia
+.
+Extramedullary Disease
+: Once established within the bone marrow, these malignant cells can disseminate via the bloodstream to other organs, leading to extramedullary disease. Common sites include the central nervous system and, in males, the testes.
+Immune Evasion
+The ability of ALL cells to evade immune surveillance is another key aspect of its pathogenesis. This may be achieved through various mechanisms including:
+Downregulation of Major Histocompatibility Complex (MHC) Molecules:
+This allows leukaemic cells to avoid detection by immune cells.
+Production of Immunosuppressive Cytokines:
+These cytokines can create an immunosuppressive environment that protects the malignant cells.
+Induction of Regulatory T-Cells:
+This induction can further suppress immune responses against the leukaemic cells.
+Improve
+Classification
+Acute lymphoblastic
+leukaemia
+(ALL) is classified based on the type of lymphocyte affected, either B-cell or T-cell, and the maturity stage of the cells. This classification is essential in formulating an effective treatment plan and predicting prognosis.
+Immunophenotyping
+This technique identifies cell markers on the surface of leukemic cells using flow cytometry or immunohistochemistry. It helps to distinguish between B-cell ALL and T-cell ALL, as well as identify subtypes within these groups.
+B-cell ALL:
+Further subdivided into precursor B-ALL (most common), mature B-ALL (rare), and Burkitt's leukaemia/lymphoma.
+T-cell ALL:
+Accounts for about 15% of paediatric cases and 25% of adult cases. It is further categorised by the stage of thymocyte development: early cortical, late cortical, or medullary.
+Cytogenetic Analysis
+Cytogenetic analysis provides information about chromosomal abnormalities that may influence prognosis and guide targeted therapy.
+t(9;22)(q34;q11)
+, also known as Philadelphia chromosome, is associated with poor prognosis but responds well to tyrosine kinase inhibitors.
+t(12;21)(p13;q22)
+, also known as ETV6-RUNX1 fusion, commonly seen in children with a favourable prognosis.
+t(v;11q23)
+, MLL rearrangements are associated with infant ALL and have a poor prognosis.
+Hypodiploidy (<45 chromosomes) and hyperdiploidy (>50 chromosomes) are associated with poor and good prognosis, respectively.
+Molecular Genetics
+Molecular genetics aids in further classification of ALL by identifying gene mutations and rearrangements not detectable by conventional cytogenetics.
+IKZF1 deletions:
+Commonly found in B-cell ALL, associated with high-risk disease and poor outcome.
+JAK mutations:
+Found in both B-cell and T-cell ALL, often associated with high-risk disease.
+NOTCH1/FBXW7 mutations:
+Mostly seen in T-cell ALL, indicating a favourable response to chemotherapy.
+Minimal Residual Disease (MRD)
+The level of MRD post-induction therapy is a strong predictor of relapse and is used for risk stratification in treatment planning. It is assessed using flow cytometry or polymerase chain reaction (PCR) to detect residual leukaemic cells.
+Risk Stratification
+Risk groups are defined based on age at diagnosis, white blood cell count at presentation, genetic abnormalities, immunophenotype, and response to initial therapy. These include low-risk, standard-risk, high-risk and very high-risk groups.
+Improve
+Clinical features
+The most common initial presentation is a combination of
+non-specific clinical manifestations
+. If initial features do not lead to a diagnosis, individuals can deteriorate to bone marrow failure quite rapidly, therefore early recognition is essential.
+Organomegaly -
+hepatomegaly
+(64%) or
+splenomegaly
+(61%)
+can present with symptoms of anorexia, weight loss, abdominal pain or distension.
+Fever
+(50%)
+can be either;
+A
+persistent, recurrent or refractory fever
+that is most likely a constitutional symptom and may present alongside a history of night sweats, weight loss.
+A response to an infection that is complicating a dysfunctional immune system.
+Lymphadenopathy
+(50%)
+- most likely presents with a
+persistent or progressive, painless, firm, rubbery lymph node
+.
+Haematological discrepancies
+Unusual bleeding/bruising or a
+petechial rash
+is a common manifestation of
+thrombocytopenia
+.
+Anaemia
+may manifest as
+pallor
+, persistent
+fatigue
+or syncope
+.
+Musculoskeletal pain
+(43%)
+Bone pain
+, which may present with a limp or refusal to weight bear).
+Unusual joint pains are also reported.
+Less common clinical presentations include;
+Headache
+(<5%) - is indicative of central nervous system (CNS) involvement. The presence of other clinical features of raised intracranial pressure, including nausea, vomiting, irritability, meningism or any focal neurological deficits, would help support this diagnosis.
+Testicular enlargement (<1%) - an uncommon presentation among those being first diagnosed, but more likely among males with
+relapsing ALL
+(10%)
+Mediastinal mass (associated with the less common ALL of T-cell lineage)
+Mediastinal enlargement can present with superior vena cava compression, which can present with dysphagia, breathlessness, pain, swelling of face and upper limbs.
+Improve
+Investigations
+Full blood count (
+FBC
+), with a differential, will highlight haematological derangements due to increased circulating lymphoblasts and bone marrow suppression.
+Platelets: thrombocytopaenia (75% at diagnosis)
+Hb:
+anaemia
+(50% at presentation)
+WBC: can be either low (50%), high (20%) or sometimes normal if the bone marrow is not yet suppressed. A differential count usually reveals neutropaenia.
+Low WBC count indicates that although there are lymphoblasts present they have not achieved sufficient differentiation to be recognised as WBC.
+High WBC count indicates they have properties similar enough to a mature WBC to be counted.
+The following investigations are required in any case presenting with suspected ALL to identify any potential complications that need immediate attention;
+Infection screen - screening for any
+active infections
+in the presence of a
+fever
+, alongside empirical antibiotic administration.
+Coagulation profile - to assess for any
+clotting
+derangements.
+Urea, electrolytes, lactate dehydrogenase, uric acid - to identify any
+metabolic abnormalities
+or tumour lysis syndrome.
+The diagnosis of ALL requires examination of cell morphology and immunophenotyping. Cytogenetics is not required for a diagnosis but it is instrumental in predicting disease progression, prognosis, and determining treatment options. These investigations should be carried out on a;
+Peripheral blood smear, to examine circulating lymphoblasts (always required in the presence of an abnormal FBC result)
+Bone marrow aspiration (a biopsy is only needed if there are insufficient cells to examine from the aspiration)
+Any other samples that could have lymphoblasts present;
+Lymph node biopsy - ultrasound-guided biopsy is an early investigation in cases where
+lymphadenopathy
+is a presenting feature but may not be required in other cases. An excisional or needle biopsy is preferred to a fine needle aspiration, as it allows for a more accurate examination of morphology, making it easier to identify any abnormal cells.
+Cerebrospinal fluid - regardless of symptoms or signs of CNS involvement all children diagnosed with ALL have a lumbar puncture performed to evaluate for CNS involvement, given its association with negative prognosis, and receive prophylactic intrathecal chemotherapy.
+Morphology
+:
+Examination of samples may identify WBC's with characteristic features of lymphoblasts. However, these may be morphologically indistinguishable from cells of another differential diagnosis, so further analysis of these abnormal cells is required.
+Findings on a peripheral smear may be normal if
+leukaemia
+is still confined to the bone marrow at the time of presentation.
+The most commonly accepted threshold for diagnosis is when lymphoblasts occupy >20% of bone marrow.
+Immunophenotyping
+(using cytochemistry and flow cytometry with immunohistochemistry);
+By looking for the presence of common lymphoid antigens and features, and the absence of any myeloid properties, confirming the immunophenotype of any cells with abnormal morphology helps confirm the diagnosis.
+Through analysis of the surface antigens, this also determines whether the lymphoblasts are of B or T cell lineage.
+Cytogenetic and molecular analysis
+This is not required for diagnosis but is required to categorise ALL according to the WHO classification.
+Identification of cytogenetic features involves chromosomal banding techniques and fluorescence in situ hybridisation (FISH) while various molecule techniques are required for characteristic molecular features.
+Improve
+Differential diagnosis
+The clinical presentation of acute lymphoblastic
+leukaemia
+(ALL) is often non-specific, making it challenging to distinguish from other conditions. A systematic approach to differential diagnosis is essential to avoid delays in diagnosis and treatment.
+Haematological Conditions
+Other acute leukaemias
+Acute myeloid leukaemia
+(AML) can present similarly with cytopenias, organomegaly, and constitutional symptoms
+Distinction requires immunophenotyping and cytogenetic analysis
+Chronic leukaemias
+Chronic lymphocytic leukaemia (CLL) typically has a more indolent course
+Chronic myeloid leukaemia (CML) in blast crisis may mimic ALL
+Lymphomas
+Lymphoblastic lymphoma shares many features with ALL but has predominant nodal involvement
+Burkitt lymphoma can present with rapidly enlarging masses and elevated LDH
+Aplastic
+anaemia
+Presents with pancytopenia but without organomegaly or
+lymphadenopathy
+Bone marrow shows hypocellularity rather than infiltration
+Infectious Causes
+Viral infections
+Epstein-Barr virus (EBV) infection can cause lymphadenopathy,
+fever
+, and atypical lymphocytosis
+Cytomegalovirus (CMV) may present with prolonged fever and hepatosplenomegaly
+Parvovirus B19 can cause transient aplastic crisis in susceptible individuals
+Bacterial infections
+Overwhelming sepsis may present with cytopenias and constitutional symptoms
+Tuberculosis can cause pancytopenia, lymphadenopathy, and hepatosplenomegaly
+Other Conditions
+Immune
+thrombocytopenia
+(ITP)
+Isolated thrombocytopenia without other cytopenias
+Normal bone marrow except for increased megakaryocytes
+Juvenile idiopathic arthritis (JIA)
+May present with fever, lymphadenopathy, and joint pain
+Can be distinguished by normal blood counts and absence of blasts
+Bone marrow infiltrative disorders
+Neuroblastoma, rhabdomyosarcoma, and other solid tumours with marrow metastases
+Langerhans cell histiocytosis can present with pancytopenia and bone lesions
+Nutritional deficiencies
+Severe vitamin B12 or folate deficiency can cause pancytopenia
+Usually gradual onset with characteristic red cell morphology
+The NICE guideline for suspected
+cancer
+referral (NG12) states: "Consider a very urgent full blood count (within 48 hours) in children and young people with any of the following:
+pallor
+, persistent
+fatigue
+, unexplained fever, unexplained petechiae, unexplained bruising, persistent or unexplained
+bone pain
+, or unexplained hepatosplenomegaly."
+Improve
+Management
+Initial management prior to starting therapy;
+Treating any infection, metabolic complication and if indicated giving a transfusion to stabilise the patient.
+Following diagnosis, initial management also known as pre-phase therapy is started for roughly 5-7 days;
+Corticosteroids with or without another drug
+Hydration
+Allopurinol
+CNS prophylaxis is given intrathecally
+All cases should have a baseline evaluation of renal and liver function tests and a baseline cardiac evaluation with echocardiography (prior to anthracycline administration which has a potential cardiac toxic effect).
+Each patient treatment follows a risk-based therapy regimen. The types of chemotherapy agents used are tailored according to the immunophenotype and cytogenetic features of their disease. Although regimes differ in intensity and chemotherapeutic agents used, they are all based on the following phases;
+Induction
+: with the goal to eradicate the presence of leukaemic cells toÂ <5% of blasts and to restore normal haematopoiesis.
+Evaluation for complete remission or good response to induction is assessed within 6-16 weeks of starting and can be a good predictor of prognosis.
+Consolidation
+: the goal is toÂ prevent the growth of
+leukaemia
+Â from any residual cells (known as a minimal residual disease (MRD)) and toÂ prevent the development of drug resistance, by using numerous agents with multiple mechanisms of action.
+MRD
+is evaluated regularly to assess the response to treatment.
+For those with complete remission, consolidation is straight forward.
+For those who don't achieve a complete remission following induction, termed high-risk cases, ESMO guidelines advise allogeneic haematopoietic cell transplantation leads to better outcomes.
+Maintenance
+: this involves less intense more chemotherapeutic agents and aims to prevent relapse. A commonly used regime includes daily 6-mercaptopurine and weekly methotrexate.
+Long-term monitoring for relapse or any adverse effects of chemotherapy and catching up on missed vaccinations once finished chemotherapy are all important aspects of long-term management.
+Improve
+Complications
+Complications worth considering in individuals diagnosed with ALL can be divided into the most common related to the disease itself and the commonly encountered iatrogenic complications of therapy.
+Disease-related
+Panocytopaenia - this can be due to either bone marrow suppression from the disease or the bone marrow suppressive effect of therapy.
+This can manifest clinically as thrombocytopaenia (unusual bleeding or bruising),
+anaemia
+(
+fatigue
+,
+pallor
+, syncope or dyspnoea) and/or neutropaenia (
+recurrent infections
+or
+fever
+).
+Febrile neutropaenia is treated as a
+medical emergency
+. Priorities include a thorough assessment with
+blood cultures
+and treated empirically with
+broad-spectrum antibiotic
+therapy.
+Regular assessment of FBC with a differential count will help to identify low levels of any lineage of a cell. When indicated these can be corrected with red blood cell or platelet transfusions, and it usually considered appropriate to give prophylactic antibiotics in the event of a severe neutropaenia.
+Leukostasis
+This occurs when very high numbers of lymphoblasts (>100 x 10^9/L) are circulating peripherally, which leads to impaired circulation, and perfusion of some organs. Most commonly the lungs, brain and eyes are affected.
+In severe cases, leukapheresis may be required to remove the high number of circulating cells.
+Iatrogenic:
+Tumour lysis syndrome - as lymphoblasts lyse and release their contents, leading to deranged metabolic abnormalities (
+hyperkalaemia, hyperphosphataemia, hyperuricaemia, hypocalcemia
+). This is very common following induction therapy, particularly among haematological malignancies given their high number of tumour cells and fast rate of replication. Treatment involves rapid rehydration with IV fluids, allopurinol and close monitoring.
+GI toxicity - the extent of toxicity following chemotherapy varies between individuals, leading to a spectrum of disrupted GI symptoms. These include nausea, mucositis, diarrhoea, constipation or abdominal pain.
+Corticosteroid-related avascular necrosis
+L-asparaginase-related coagulopathy -
+L-asparaginase
+is a chemotherapeutic agent which is becoming more widely used. The mechanism of coagulopathy and
+thrombosis
+is due to fibrinogen and anti-thrombin 3 depletion.
+Anthracycline-related cardiotoxicity
+Improve
+Prognosis
+Survival rates for ALL, particularly in children, have improved dramatically over the past few decades. This progress can be attributed to advancements in risk stratification, supportive care, and treatment regimens, including chemotherapy, targeted therapies, and stem cell transplantation.
+Several factors can impact the prognosis of ALL patients, including:
+Age: Younger patients, particularly children, have a better prognosis than older adults.
+White blood cell (WBC) count at diagnosis: A higher WBC count is associated with a poorer prognosis.
+Disease subtype: T-cell ALL generally has a slightly worse prognosis compared to B-cell precursor ALL.
+Cytogenetic and molecular factors: The presence of certain chromosomal abnormalities, such as the Philadelphia chromosome, can negatively impact prognosis. Other genetic factors, such as the presence of IKZF1 deletions, may also affect survival rates.
+ALL prognosis varies based on age, disease subtype, and the presence of certain molecular or cytogenetic factors. Patients are typically stratified into three risk groups: low-risk, standard-risk, and high-risk. This risk stratification helps to guide treatment decisions and predict outcomes.
+The following table illustrates the 5-year survival rates for ALL according to age and risk group:
+Age  group
+Low-Risk
+Standard-Risk
+High-Risk
+Children (0-14 yrs)
+85-90%
+80-85%
+50-60%
+Adolescents (15-19 yrs)
+75-80%
+65-75%
+40-50%
+Adults (20-59 yrs)
+60-70%
+40-50%
+20-30%
+Older Adults (≥60 yrs)
+40-50%
+20-30%
+10-20%
+Improve
+References
+Clinical Knowledge Summaries - Haematological cancers - recognition and referral
+Cancer
+Acute lymphoblastic leukaemia

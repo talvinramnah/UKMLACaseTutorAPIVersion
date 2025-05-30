@@ -1,0 +1,185 @@
+Primary hyperparathyroidism
+Primary hyperparathyroidism
+Primary hyperparathyroidism is caused by excess secretion of PTH resulting in
+hypercalcaemia
+. It is the most common cause of hypercalcaemia in outpatients and is often diagnosed following an incidental finding of an elevated serum calcium concentration. In 85% of cases a parathyroid adenoma is responsible.
+It is a relatively common condition, disproportionately affecting women and the elderly.
+Primary hyperparathyroidism can be managed conservatively or surgically. Parathyroidectomy is preferred due to the high cure rates (up to 98%) and reduced risk of drug side effects. Medical therapies involve drugs, such as calcitonin and bisphosphonates.
+Last updated: 24
+th
+January 2023
+Epidemiology
+Incidence: 40.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 3:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Primary hyperparathyroidism is caused by excess secretion of PTH resulting in
+hypercalcaemia
+. In
+85% of cases a parathyroid adenoma is responsible
+, however other aetiologies are recognised.
+Aetiology
+85%: solitary adenoma
+10%: hyperplasia
+4%: multiple adenoma
+1%: carcinoma
+These
+inherited forms occur in approximately 15% of cases
+. Inherited disorders responsible for primary hyperparathyroidism include:
+Multiple endocrine neoplasia (MEN)
+Hyperparathyroidism jaw tumour syndrome
+Familial isolated primary hyperparathyroidism
+Risk factors for primary hyperparathyroidism include:
+Female sex
+Women are 2-3 times as likely to develop primary hyperparathyroidism
+Older age
+Prevalence increases with age
+Most common from ages 55-75
+Family history
+Increases risk of multi-gland disease
+May suggest multiple endocrine neoplasia (MEN)
+Improve
+Pathophysiology
+Primary hyperparathyroidism is driven by
+dysregulation of normal calcium homeostasis
+.
+Normally, PTH is secreted in response to low serum calcium levels.
+Here, PTH acts on the bones, kidneys and, indirectly, the bowels to move calcium into the blood stream to increase the serum calcium concentration back within the normal range.
+This normal concentration of calcium doesn't stimulate PTH secretion and the level of PTH drops.
+Reduced serum calcium â→ PTH secretion by the parathyroid gland â→ PTH binds to receptors within the bones and kidneys â→ calcium is moved from the bones and kidneys into the bloodstream â→ calcium re-enters the normal range â→ PTH levels drop.
+However,
+in primary hyperparathyroidism a region of cells within the parathyroid glands cease to respond to this negative feedback loop. These cells continuously secrete PTH irrespective of the serum calcium concentration
+. This results in
+hypercalcaemia
+.
+Over time, the region of cells secreting excess parathyroid hormone grows and the levels of PTH and therefore calcium slowly rise.
+As the hypercalcaemia worsens the patient will begin to develop symptoms.
+Improve
+Clinical features
+Patients with primary hyperparathyroidism are
+most commonly asymptomatic
+. In these cases, patients are often identified incidentally when a raised calcium level is identified after a serum calcium is investigated for another reason. These patients may report mild
+fatigue
+, weakness,
+depression
+and cognitive impairment if questioned, however. Over time, these patients may begin to develop symptoms as their calcium levels increase.
+Symptomatic patients typically present with
+signs and symptoms of
+hypercalcaemia
+which can be remembered with the mnemonic 'stones, bones, abdominal groans and psychic overtones':
+'Stones' - increased risk of kidney stones (17%)
+'Bones'
+Bone pain
+(35%)
+Osteopenia and osteoporosis (40%)
+'Abdominal groans'
+Abdominal pain
+Constipation
+Nausea + vomiting
+'Psychic overtones'
+Fatigue
+Depression (10%)
+Memory impairment (18%)
+Other features include
+polyuria
+, paresthesia and muscle cramps. As calcium levels rise more serious symptoms develop. In severe cases, cardiac and metabolic disturbances, delirium or even coma may occur. The history should also screen for symptoms of malignancies, including but not limited to unexplained weight loss, night sweats and pain.
+On examination,
+fluid status should be assessed
+due to the increased risk of dehydration as a result of polyuria and reduced oral intake. As hypercalcaemia in the elderly can mimic dementia or depression, cognitive impairment should be screened. Finally, signs of a malignancy should be examined. This includes neck, respiratory, abdominal, breast and lymphoreticular examinations.
+Improve
+Investigations
+Investigation of primary hyperparathyroidism is primarily centred around biochemical tests, imaging studies and genetic testing in select cases. A structured approach can aid in confirming the diagnosis, determining the cause and guiding treatment planning.
+First-line Investigations
+Serum Calcium:
+The hallmark of primary hyperparathyroidism is
+hypercalcaemia
+. Serum calcium levels should be measured along with albumin levels or directly measured ionised calcium to account for variations in protein binding.
+Parathyroid Hormone (PTH):
+An elevated or inappropriately normal PTH in the setting of hypercalcaemia supports a diagnosis of primary hyperparathyroidism. PTH measurement also helps differentiate between primary hyperparathyroidism and familial hypocalciuric hypercalcaemia.
+Kidney Function Tests:
+Chronic kidney disease can lead to secondary or tertiary hyperparathyroidism. Assessing renal function using estimated glomerular filtration rate (eGFR) can help distinguish these conditions.
+Vitamin D Levels:
+Low vitamin D levels can stimulate PTH secretion leading to secondary hyperparathyroidism. It's important to measure 25-hydroxyvitamin D levels to exclude this differential diagnosis.
+Further Investigations
+If initial investigations confirm primary hyperparathyroidism, further investigations may be necessary for localisation of abnormal parathyroid glands especially if surgical intervention is being considered.
+Sestamibi Scan:
+This is a nuclear medicine study that uses Technetium-99m sestamibi which preferentially accumulates in overactive parathyroid tissue. Single-photon emission computed tomography (SPECT) can be used in conjunction with this for improved localisation.
+Ultrasound of the Neck:
+This is a non-invasive and cost-effective method to identify enlarged parathyroid glands. However, its sensitivity varies greatly depending on the operator's experience.
+4D CT Scan:
+Four-dimensional computed tomography (4D CT) scans provide high-resolution images of the neck and can identify ectopic or supernumerary parathyroid glands. This investigation is typically reserved for cases where other imaging modalities are inconclusive or surgery has failed.
+In patients with familial primary hyperparathyroidism or those diagnosed at a young age, genetic testing may be considered to identify mutations associated with hereditary hyperparathyroidism syndromes such as Multiple Endocrine Neoplasia type 1 (MEN1), MEN2A, and Hyperparathyroid-Jaw Tumour Syndrome (HPT-JT).
+Improve
+Differential diagnosis
+When considering the differential diagnosis of primary hyperparathyroidism, three key conditions presenting similar clinical features include familial hypocalciuric
+hypercalcaemia
+(FHH), malignancy-associated hypercalcaemia, and secondary hyperparathyroidism.
+Familial Hypocalciuric Hypercalcaemia (FHH)
+FHH is an autosomal dominant disorder characterised by lifelong stable mild to moderate hypercalcaemia. It often mimics primary hyperparathyroidism due to the shared presentation of elevated serum calcium levels.
+However, unlike primary hyperparathyroidism where urinary calcium excretion is typically increased, FHH patients present with reduced urinary calcium excretion. Thus, a 24-hour urine calcium measurement can be instrumental in differentiating between these two conditions.
+Malignancy-Associated Hypercalcaemia
+Hypercalcaemia in malignancy may arise from local osteolytic activity or systemic factors such as tumour production of parathyroid hormone-related protein (PTHrP). This can result in similar biochemical profiles to primary hyperparathyroidism.
+The presence of symptoms such as weight loss,
+fatigue
+and anorexia may suggest malignancy over primary hyperparathyroidism which tends to be asymptomatic or presents with non-specific symptoms like
+polyuria
+and
+constipation
+. Furthermore, PTH levels are usually suppressed in malignancy-associated hypercalcaemia compared to the elevated or inappropriate normal levels seen in primary hyperparathyroidism.
+Secondary Hyperparathyroidism
+In contrast to primary hyperparathyroidism which is characterised by autonomous overproduction of PTH, secondary hyperparathyroidism results from increased PTH secretion in response to hypocalcaemia and/or hyperphosphataemia.
+Common causes include chronic kidney disease and vitamin D deficiency. These conditions can be differentiated from primary hyperparathyroidism by the presence of low serum calcium levels, elevated phosphate levels or reduced glomerular filtration rate in secondary hyperparathyroidism.
+Improve
+Management
+Most patients diagnosed with primary hyperparathyroidism can be initially managed by their GP and then referred to a surgeon for parathyroidectomy.
+The
+2019 NICE guidelines recommend parathyroidectomy for most patients
+with diagnosed primary hyperparathyroidism due to the high cure rates (up to 98%) and reduced risk of drug side effects. Surgery is indicated for those with one or more of:
+Symptomatic disease
+Symptoms of
+hypercalcaemia
+Osteoporosis and/or fragility fractures
+Renal stones or nephrocalcinosis
+Age <50 years
+Serum adjusted calcium of 2.85 mmol/L or above
+Estimated glomerular filtration rate (eGFR) of less than 60 mL/min/1.73 mÂ²
+When parathyroid surgery is not acceptable, NICE recommends specialist management of hypercalcaemia with either:
+Calcitonin which reduces serum calcium concentrations by inhibiting bone and kidney resorption of calcium
+Cinacalcet which is a calcimimetic and acts to reduce serum calcium concentrations while not affecting bone density or urinary calcium concentrations
+Desunomab which also impairs calcium resorption
+Bisphosphonates
+Improve
+Complications
+The
+complications of primary hyperparathyroidism result from either untreated
+hypercalcaemia
+or the treatment options
+. They can be minimised with effective diagnosis and treatment.
+Complications of untreated hypercalcaemia include:
+Osteoporosis and fragility fractures
+Kidney stones and kidney injury
+Hypertension
+and heart disease
+Numerous gastrointestinal disorders including peptic ulcer disease, pancreatitis and gall stones
+Complications of parathyroidectomy:
+General surgical complications (reduced risk with good surgical practice)
+Infection
+Thrombosis
+Scarring
+Procedure specific complications
+Damage to the recurrent or superior laryngeal nerves
+Post operative hypocalcaemia can result after the removal of too much parathyroid tissue
+Failure to identify adenoma or persistence of disease post-surgery
+Improve
+Endocrinology
+Primary hyperparathyroidism

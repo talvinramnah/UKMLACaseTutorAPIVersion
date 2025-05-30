@@ -1,0 +1,73 @@
+Attention deficit hyperactivity disorder
+Attention deficit hyperactivity disorder
+Attention deficit hyperactivity disorder (ADHD) is a common neurodevelopmental disorder characterised by pervasive patterns of inattention, impulsivity, and hyperactivity. It is typically diagnosed during childhood, with symptoms often persisting into adulthood. The aetiology of ADHD is multifactorial with genetic, environmental and neurological factors contributing to its development. Diagnosis requires a comprehensive evaluation including the assessment of behavioural symptoms across multiple settings. The DSM-5 criteria are commonly used for this purpose.
+Therapeutic approaches primarily include pharmacological interventions and behavioural therapies. Medications such as methylphenidate and atomoxetine have demonstrated efficacy in managing core ADHD symptoms.
+Comorbid psychiatric conditions like mood disorders, anxiety disorders, substance misuse, and learning disabilities are frequently associated with ADHD, necessitating careful diagnostic evaluation and tailored management strategies.
+Last updated: 1
+st
+January 2025
+Aetiology
+The aetiology of ADHD is multifactorial and complex, with several risk factors and underlying causes contributing to the disorder's development. These can be broadly categorised into genetic factors, environmental influences, and neurobiological abnormalities.
+Genetic Factors
+Family studies have consistently demonstrated that ADHD has a strong genetic component. First-degree relatives of individuals with ADHD are at increased risk for the disorder.
+Twin studies indicate a high heritability rate for ADHD, estimated to be around 70-80%.
+Candidate gene studies have identified several genes associated with ADHD, including those involved in dopaminergic signalling pathways such as
+DAT1
+,
+DRD4
+, and
+DRD5
+.
+Genome-wide association studies (GWAS) have also implicated numerous additional loci in the pathogenesis of ADHD.
+Environmental Influences
+Prenatal exposure to tobacco smoke, alcohol or drugs increases the risk of developing ADHD.
+Premature birth and low birth weight are associated with higher rates of ADHD diagnosis.
+Early childhood exposure to lead or other environmental toxins has been linked to an increased risk of developing the disorder.
+Neurobiological Abnormalities
+MRI studies have shown structural brain differences in individuals with ADHD compared to controls. Areas implicated include prefrontal cortex, basal ganglia, corpus callosum and cerebellum.
+Functional imaging studies suggest that these structural changes may result in altered connectivity between different brain regions.
+The neurotransmitters dopamine and noradrenaline have been implicated in the pathophysiology of ADHD. Altered levels or functioning of these neurotransmitters may contribute to symptoms.
+Improve
+Clinical features
+The stereotypical presentation of Attention Deficit Hyperactivity Disorder (ADHD) is a child, often male, displaying hyperactivity, impulsivity and inattentiveness. However, the presenting features can vary widely across individuals and throughout different stages of life.
+Hyperactivity
+Hyperactivity is often the most noticeable feature in ADHD. Patients may seem to be in constant motion, exhibiting behaviours such as fidgeting, inability to sit still, excessive talking or running about excessively when it's not appropriate. These behaviours are typically more severe than those seen in peers of the same age and developmental level.
+Impulsivity
+Impulsive behaviour manifests as hasty actions without forethought or regard for consequences. This can lead to risky behaviours or difficulties with social interactions. Common examples include interrupting conversations, intruding upon others' activities and making decisions without considering potential outcomes.
+Inattentiveness
+Patients with ADHD often have difficulty sustaining attention during tasks or play activities. They may appear not to listen when spoken to directly, frequently lose items necessary for tasks and have trouble organising activities. Furthermore, they may avoid or express dislike for tasks requiring sustained mental effort such as schoolwork or homework.
+Variation Across Age Groups
+The presentation of ADHD changes with age. In adults, hyperactive symptoms tend to decrease while inattentive symptoms persist. Adults may also experience difficulties with self-organisation and regulating emotions.
+Childhood:
+The classic triad of hyperactivity, impulsivity and inattention is most evident at this stage.
+Adolescence:
+While hyperactive behaviours generally decrease during adolescence, problems with attention and impulsivity may continue. Adolescents may also display risk-taking behaviours.
+Adulthood:
+Inattentiveness often persists into adulthood, while hyperactivity tends to decrease. Adults may experience difficulties with time management, goal setting, employment and relationships.
+Comorbid Conditions
+ADHD is frequently associated with comorbid conditions which can complicate the clinical picture. These include learning disabilities, conduct disorders, anxiety disorders, depression and substance abuse. The presence of these conditions should be carefully evaluated as they may require separate treatment strategies.
+Subtypes of ADHD
+There are three recognised subtypes of ADHD: predominantly inattentive presentation; predominantly hyperactive-impulsive presentation; and combined presentation. The subtype diagnosis depends on the predominant symptom pattern for the past six months.
+The presenting features of ADHD are diverse and evolve over time. Accurate diagnosis requires a comprehensive assessment that includes consideration of symptom severity, duration, impact on functioning and the exclusion of other potential causes.
+Improve
+Management
+Management of Attention Deficit Hyperactivity Disorder (ADHD) involves a multifaceted approach, incorporating psychological, educational and social measures along with pharmacological treatment. It is vital to adopt a patient-centred approach, taking into account the individual's age, severity of symptoms and impact on daily life. The National Institute for Health and Care Excellence (NICE) guidelines should be referred to for comprehensive guidance.
+Assessment:
+Comprehensive assessment should be conducted including developmental history, school performance and behaviour in different settings.
+Co-existing conditions such as learning difficulties, anxiety disorders or autism spectrum disorder should be identified.
+Non-pharmacological intervention:
+Offer parent-training/education programmes as first-line treatment for parents or carers of children under 6 years with ADHD.
+School-based interventions such as individualised educational programmes or behavioural interventions may be beneficial.
+Pharmacological intervention:
+Methylphenidate is usually the first-line medication for children and young people. Dexamfetamine or atomoxetine can be considered if response to methylphenidate is inadequate.
+Lisdexamfetamine or atomoxetine could be used as first line treatment in adults with ADHD.
+Monitoring:
+Patient should have regular follow-up to monitor effectiveness and side-effects of medication along with ongoing need for other support.
+Treatment review:
+The decision to continue, change or stop treatment should be based on a thorough review of the person's symptoms, side-effects and impact on overall functioning.
+Improve
+References
+NICE - 2018 ADHD guidelines
+Clinical Knowledge Summaries - ADHD guidelines
+Paediatric mental health
+Attention deficit hyperactivity disorder

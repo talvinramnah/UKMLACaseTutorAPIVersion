@@ -1,0 +1,207 @@
+Aortic stenosis
+Aortic stenosis
+Aortic stenosis (AS) is the most common valvular disorder in developed countries. It is associated with calcific degenerative changes or congenital bicuspid aortic valve. The aortic orifice narrows due to several different factors including atherosclerosis, calcification, and fibrosis. This leads to left ventricular outflow tract (LVOT) obstruction which can progress to left ventricular failure.
+Patients may be asymptomatic or can have angina,
+dyspnoea
+, or
+syncope
+. It can be characterized by a harsh systolic crescendo-decrescendo ejection murmur on cardiac examination - most prominent at the right second intercostal space and radiating to the carotids.
+Definitive management includes an echocardiogram to confirm and gauge the severity of the disease. Valve replacement surgery is recommended for symptomatic patients due to the marked decrease in mortality.
+Last updated: 2
+nd
+September 2023
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Aortic stenosis
+1
+Angina pectoris
+0.75
+Hypertrophic obstructive cardiomyopathy
+0.15
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Degenerative Calcification
+Age-related Calcification
+: The most common cause of aortic stenosis (AS) in developed countries is age-related degenerative calcification. It typically occurs in individuals aged over 65 years.
+Bicuspid Aortic Valve:
+Having a bicuspid aortic valve, as opposed to the usual tricuspid, predisposes to early calcification and stenosis. This congenital abnormality is associated with earlier and more aggressive AS.
+Rheumatic Fever
+Rheumatic Heart Disease:
+Although less common in developed countries due to the reduced incidence of rheumatic fever, rheumatic heart disease is still a significant cause of AS in developing countries. The initial damage caused by rheumatic fever usually leads to a mixed
+aortic valve disease
+(stenosis and regurgitation).
+Congenital Abnormalities
+Unicuspid and Quadricuspid Valves:
+Other congenital abnormalities, such as unicuspid and quadricuspid aortic valves, can also lead to AS.
+Other Causes
+Radiation Therapy:
+Exposure to chest radiation is a rare cause of AS.
+Metabolic Disorders:
+Conditions like familial hypercholesterolaemia can lead to early calcification of the aortic valve.
+Improve
+Pathophysiology
+Valve Leaflet Calcification
+Lipid Accumulation:
+Similar to atherosclerosis, lipid accumulation occurs within the aortic valve leaflets, attracting macrophages and leading to inflammation.
+Calcium Deposition:
+Over time, this inflammation leads to fibrosis and calcium deposition on the valve leaflets, causing them to become stiff and immobile.
+Valve Leaflet Restriction
+Leaflet Thickening:
+As the valve leaflets become thicker and calcified, they become less pliable and mobile, restricting their opening during systole.
+Decreased Valve Area:
+The decreased valve area leads to an increased pressure gradient across the aortic valve during left ventricular ejection.
+Left Ventricular Hypertrophy
+Pressure Overload:
+The increased pressure gradient across the aortic valve leads to pressure overload on the left ventricle, causing left ventricular hypertrophy.
+Diastolic Dysfunction:
+Over time, hypertrophy of the left ventricle can lead to diastolic dysfunction and eventually heart failure.
+Ischaemia and Heart Failure
+Decreased Coronary Perfusion:
+The hypertrophied left ventricle requires more oxygen, and the decreased aortic valve area can lead to decreased coronary perfusion, resulting in ischaemia.
+Heart Failure:
+Chronic pressure overload, ischaemia, and diastolic dysfunction can eventually lead to left ventricular failure.
+Improve
+Clinical features
+Patients with aortic stenosis (AS) may be asymptomatic for a prolonged period of 10-20 years. 'Classical' symptoms include the following:
+Exertional
+dyspnoea
+Most common initial complaint
+May have reduced exercise tolerance and fatigability
+Due to diastolic dysfunction and inability to increase cardiac output during exercise
+Exertional angina
+Can be due to increased oxygen demand with increased left ventricular mass and decreased perfusion pressure gradient due to elevated left ventricular end-diastolic pressure
+Approximately 50% of patients with angina also have coronary artery disease
+Exertional
+syncope
+or presyncope (10% of patients with symptomatic severe AS)
+Due to exercise-induced vasodilation and inability to increase cardiac output leading to hypotension
+May also be due to atrial or ventricular tachyarrhythmia
+Additionally, patients with AS may present with the following symptoms.
+They may have heart failure (HF) with end-stage disease due to left ventricular outflow obstruction. This may present with paroxysmal nocturnal dyspnea, orthopnoea, dyspnea on exertion, bilateral lower limb oedema and/or pulmonary oedema.
+Atrial fibrillation is also common in patients with HF from AS. Moreover, patients may present with gastrointestinal bleeding due to angiodysplasia (Heyde's syndrome).
+On cardiac examination, they usually have the following:
+Loud mid-to-late peaking systolic ejection murmur
+Early peaking is more consistent with mild or moderate AS and late peaking is consistent with severe AS
+Murmur radiates to the carotids and becomes more prominent with sitting forward and in expiration
+Murmur becomes softer the more severe the stenosis
+May also radiate to the apex and have a musical quality (gallavardin phenomenon); not to be confused with mitral regurgitation
+With severe AS they may also have:
+Slow-rising and low volume carotid pulse (pulsus parvus et tardus) (May not be present in elderly due to stiff vascular vessels)
+Soft or absent second heart sound (S2)
+Narrow pulse pressure
+Reverse splitting of S2
+Heaving apex beat or systolic thrill
+Signs of heart failure - pitting lower limb oedema, bilateral basal crackles
+S4
+Improve
+Investigations
+The European Society of
+cardiology
+(ESC) and the European association for cardio-thoracic surgery (EACTS) recommends the following investigations for the workup of AS.
+Initial work-up:
+Electrocardiogram: may show arrhythmias or signs of left ventricular (LV) strain
+LV hypertrophy is present in about 80% of severe AS patients
+Atrial fibrillation or coronary artery disease (CAD) can also be detected
+Chest X-ray:
+Transthoracic echocardiogram (TTE): the diagnosis of AS is established by a transthoracic echocardiogram (TTE).
+It helps to calculate the trans-valvular velocity, mean pressure gradient, and aortic valve area which helps determine the extent of the stenosis.
+It also helps asses left ventricular function, flow status, and wall thickness.
+The ESC/EACTS guidelines recommend these additional tests for prognostic information:
+Exercise stress testing (EST): useful to unmask symptoms in physically active patients if they are asymptomatic or have non-specific symptoms with severe AS
+Dobutamine stress echocardiogram: useful for patients who have low-gradient AS
+Patients may be symptomatic but have seemingly low pressures due to a low ejection fraction
+Gradient will increase > 40 mmHg after administration of low dose dobutamine
+B-type natriuretic peptide (BNP): assess for heart failure, predict the timing of intervention for asymptomatic patients and symptom-free survival in severe AS
+Multi-slice computed tomography (MSCT): extent of calcification to determine calcium score for severity of AS and may be used to detect CAD in patients who are not eligible for EST
+Cardiac magnetic resonance: quantify myocardial fibrosis
+Cardiac catheterization: for a definitive diagnosis if noninvasive testing is non-diagnostic however it is not routinely done.
+Workup prior to surgical aortic valve replacement (SAVR) or transcatheter aortic valve implantation (TAVI):
+Coronary angiogram:
+To identify co-existing CAD and conduct concomitant coronary revascularization if possible
+Pertinent in patients who have cardiovascular risk factors, prior cardiovascular disease, suspected myocardial ischemia, left ventricular dysfunction, are men > 40 years or post-menopausal women
+Trans-oesophageal echocardiogram (TOE): to assess for endocarditis and mitral valve abnormalities as well as monitoring the TAVI procedure
+MSCT: assess the anatomy and dimensions of the aortic root, shape of the aortic valve annulus and the number of aortic valve cusps
+Improve
+Differential diagnosis
+When patients present with
+dyspnoea
+on exertion or angina, it may not be immediately evident what cardiac disease they may be suffering from, especially as many of them can co-exist together.
+Some possible differentials include:
+Coronary artery disease: present in almost half of all patients with AS who have angina
+Similarities: angina on exertion
+Differences: history of acute coronary syndrome, may have no physicals signs on exam
+Heart failure:
+Can be a complication of aortic stenosis due to diastolic dysfunction and left ventricular hypertrophy. It may also be due to cardiomyopathy.
+Similarities: dyspnoea on exertion, cardiomegaly
+Differences: orthopnoea, paroxysmal nocturnal dyspnoea, bilateral basal lung crackles, bilateral lower limb pitting oedema, dilated cardiomyopathy, S3
+Cardiac arrhythmia
+Atrial fibrillation is common in patients who have HF with AS
+Similarities: angina, dyspnea on exertion,
+syncope
+Differences: irregularly irregular rhythms, prior thromboembolic events
+Other valvular disorders: aortic sclerosis, mitral regurgitation, hypertrophic cardiomyopathy, etc.
+Similarities: systolic murmurs, left-sided murmurs prominent in expiration
+Differences: AS radiates to the carotids and has a crescendo-decrescendo quality. Unlike AS, aortic sclerosis has normal S2, pulse pressure, and pulse character
+Improve
+Management
+In symptomatic patients with moderate to severe AS, the mortality rate is as high as 25% in 1 year and 50% in 2 years.
+The definitive treatment for AS is surgical aortic valve replacement (SAVR) or transcatheter aortic valve implantation (TAVI). The 5-year survival rate in adults after valve replacement is around 80-94% and the 10-year survival rate is around 68-89%.
+Following the ESC guidelines, the indication for surgical treatment is as follows:
+Symptomatic
+: as addressed above, the mortality rate is high with symptoms
+Average survival is only 2-3 years after symptoms begin
+High risk of sudden cardiac death has been documented in symptomatic patients treated with medical management, estimated at an annual rate of 1%
+Not recommended if patients have severe comorbidities that decrease their survival to <1 year or decrease their likelihood of benefitting from surgery
+Severe AS
+: classified as aortic jet velocity ≥4 m/s, mean trans-valvular pressure gradient ≥ 40 mmHg, and aortic valve area  â≤1 cm
+2
+.
+Surgery should be performed promptly after symptom onset. If symptoms are not elicited by history, they should undergo exercise stress testing (~30% of patients will become symptomatic)
+Also indicated if asymptomatic but have the following - left ventricular ejection fraction (LVEF) <50%, undergoing other cardiac surgery, a low surgical risk with risk factors or low exercise tolerance
+The choice between TAVI and SAVR is made by weighing individual patient factors against the risks of providing each modality.
+Risk stratification may be carried out using scoring systems like euroSCORE, society of thoracic surgeons (STS), etc. For example, if the euroSCORE/STS score is <4% and patients have co-morbidities, SAVR is preferred.
+According to NICE guidelines, sutureless aortic valve replacement (SUAVR) is an effective alternative treatment to SAVR or TAVI as it may be a quicker procedure and allows for both coronary arteries and valve to be treated concurrently.
+Percutaneous balloon valvotomy is used as a palliative measure for patients that may not be suitable for cardiac surgery or are critically ill. It is also used in children and young adults with congenital AS.
+Conservative management is indicated for patients with mild AS who are asymptomatic and have no risk factors.
+This may include treating heart failure, maintaining sinus rhythm, and controlling hypertension with regular follow-up.
+Serial testing should be done every 6 months for asymptomatic severe AS and yearly for mild-to-moderate AS.
+Surgery may be considered if predictive factors of adverse outcomes and symptom development such as elevated BNP, older age, cardiovascular risk factors and extremely abnormal echocardiographic parameters are present.
+Improve
+Complications
+The complications of AS have been highlighted throughout this topic review and are further expanded on below.
+Heart failure:
+LVOT obstruction due to AS can lead to left ventricular failure. This can cause left ventricular hypertrophy and fibrosis, progressing to diastolic dysfunction. This improves rapidly after surgery.
+This can also lead to pulmonary hypertension.
+Sudden cardiac death
+Annual incidence is 1% in asymptomatic and 8-34% in symptomatic AS patients
+May be due to ventricular tachyarrhythmia
+A marked reduction after surgery
+Arrhythmias
+Atrial fibrillation (AF) is more common in patients with more severe AS, LV hypertrophy, and LV systolic dysfunction.
+Ventricular arrhythmias can also occur with AS
+Gastrointestinal bleeding
+Von Willebrand multimers get sheared across the narrowed aortic valve as they pass through it with higher velocity. This prevents them from mediating platelet adhesion at sites of angiodysplasia in the intestine.
+Heyde's syndrome - the triad of AS, anemia due to bleeding, and acquired coagulopathy.
+Endocarditis
+More common with congenital bicuspid aortic valve
+Antibiotic prophylaxis no longer recommended
+Improve
+References
+European Society of Cardiology - 2021 Valvular heart disease guidelines
+American Heart Association - Guidelines on the management of valvular heart disease
+Aortic valve disease
+Aortic stenosis

@@ -1,0 +1,313 @@
+Asthma in children
+Asthma in children
+Asthma is an incredibly common and chronic airway condition which affects greater than 12% of the population, with approximately 160,000 people per year receiving an asthma diagnosis. Children diagnosed with asthma often grow out of the condition, however it can return later in life, with the highest prevalence in the 16 to 20-year-old age group. It is important for this condition to be identified and managed appropriately, as poorly controlled asthma can cause significant morbidity and can be fatal.
+Last updated: 29
+th
+November 2024
+Epidemiology
+Incidence: 800.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Asthma in children
+1
+Bronchiolitis
+0.63
+Inhaled foreign body
+0.002
+Cystic fibrosis
+0.0003
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of asthma in children encompasses a complex interplay of genetic, environmental, and immunological factors. Understanding these risk factors and underlying causes is essential for effective diagnosis and management.
+Genetic Factors
+Family history: A positive family history of asthma or atopic diseases significantly increases the likelihood of developing asthma in children.
+Genetic predisposition: Specific genes such as ADAM33, ORMDL3, and IL-4 have been implicated in increasing susceptibility to asthma.
+Environmental Factors
+Allergens: Exposure to indoor allergens (e.g., house dust mites, animal dander) and outdoor allergens (e.g., pollen, moulds) can trigger asthmatic symptoms.
+Air pollution: Pollutants such as nitrogen dioxide (NO2) and particulate matter (PM2.5) are associated with increased asthma prevalence and exacerbations.
+Tobacco smoke: Prenatal exposure to maternal smoking and postnatal second-hand smoke are significant risk factors for childhood asthma.
+Infections
+Viral infections: Respiratory syncytial virus (
+RSV
+) and rhinovirus are commonly linked with the development of wheezing illnesses that may progress to asthma.
+Bacterial infections: Early-life bacterial infections may also contribute to airway inflammation and subsequent asthma development.
+Sensitisation and Atopy
+Eczema: Children with eczema have an elevated risk of developing asthma due to shared atopic mechanisms.
+Food allergies: Sensitisation to food allergens can precede the onset of respiratory allergic diseases including asthma.
+Sociodemographic Factors
+Socioeconomic status: Lower socioeconomic status is often correlated with higher exposure to environmental pollutants, suboptimal housing conditions, and limited access to healthcare, all contributing to increased asthma risk.
+Urban vs rural living: Urban living environments typically have higher levels of air pollution which are associated with greater incidences of childhood asthma compared to rural areas.
+Lifestyle Factors
+Dietary influences: Diets low in antioxidants or high in processed foods might increase susceptibility to inflammatory conditions such as asthma.
+Physical activity: Lack of physical activity has been linked with poorer lung function and higher rates of obesity, both contributing factors for developing asthma symptoms in children.
+Improve
+Pathophysiology
+Asthma is a condition characterised by
+variable airflow limitation
+and
+airway hyper-responsiveness
+in response to a number of stimuli. With ongoing inflammation, it can eventually result in permanent airway remodelling and therefore limitations in the reversibility of airflow limitation.
+Variable airflow limitation
+A key feature of asthma is that the airflow limitation is variable and reversible
+The airflow obstruction is as a result of three factors: smooth muscle constriction, mucous production, and bronchial inflammation
+Smooth muscle constriction
+Accounts for many of the rapid changes in airflow limitation
+Due to the direct effects of contractile agonists released from inflammatory cells (e.g. mast cells, eosinophils)
+The basis for bronchodilator therapy via beta-agonists is due to the direct relaxation of airway smooth muscle cells and therefore airway dilation
+Bronchial inflammation
+Inflammation results from IgE-dependent release of mediators from mast cells
+Such mediators include histamine, tryptase, leukotrienes and prostaglandins
+These mediators directly cause stimulation and contraction of airway smooth muscle, resulting in further bronchoconstriction
+With ongoing inflammation, it results in further oedema and therefore worsened airflow limitations
+Mucous production
+Mucous hypersecretion, somewhat as a result from ongoing inflammation, leads to further airflow limitations
+May result in formation of mucous plugs which further block small airways and reduce further airflow
+Airway hyper-responsiveness
+Bronchial hyper-responsiveness manifests as an exaggerated constrictor response to a variety of stimuli
+This accounts for the sudden onset in clinical symptoms when triggered by stimuli such as cold air or irritants in the air
+The mechanism of airway hyper-responsiveness is multifactorial, including due to inflammation,  dysfunctional neuroregulation, and structural airway changes
+Airway remodelling
+Although asthma is characteristically described as a variable and reversible airflow limitation, overtime airway remodelling can mean that airway limitation is only partially reversible
+Due to ongoing inflammation, it can result in permanent structural changes
+Such changes include thickening of the sub-basement membrane, sub-epithelial fibrosis, airway smooth muscle cell hypertrophy and hyperplasia, and mucous gland hyperplasia and subsequent hypersecretion
+Improve
+Clinical features
+Asthma typically presents as recurrent episodes of wheezing, coughing, and
+shortness of breath
+. However, the most common symptom of childhood asthma is coughing alone, and some children may present with this as the sole complaint.
+Symptoms
+Cough
+A
+nocturnal
+cough should raise suspicion for asthma, particularly if it lasts for >3 weeks or if triggered by particular seasons or allergens
+Typically dry and non-productive in nature
+Infrequently may be productive of clear or white sputum
+Shortness of breath
+This occurs usually on exertion or on exposure to triggers (e.g. cold air, tobacco smoke, crying, exercise)
+May accompany
+wheeze
+and cough during an exacerbation, but is rarely solely present
+Signs
+Wheeze
+In over 60%, wheezing does not persist into late childhood
+Typically expiratory, however in severe airway obstruction may be inspiratory also
+Usually polyphonic (variable pitch)
+Can typically be heard without use of a stethoscope, but for some the wheeze may be subtle
+The NICE guidelines note to be aware in the case of normal examination findings, as asthma is episodic and therefore signs may not be present at time of examination
+Silent chest
+In severe asthma exacerbations, the wheeze may disappear and no airway sounds may be heard, termed a 'silent chest'
+This is a medical emergency, as the airway obstruction is so significant that no airflow is occurring
+Increased work of breathing
+Tachypnoea
+Use of accessory muscles of respiration (e.g. abdominal breathing, intercostal/suprasternal/costal margin retractions, sternocleidomastoid contraction resulting in head bobbing)
+Nasal flaring
+Sitting in forward posture
+Severe asthma exacerbation
+There are a number of clinical features which, when present, may suggest a severe or critical episode of asthma
+These include:
+Altered mental state (e.g. confusion, drowsiness)
+Maximal work of breathing accessory muscle use/recession
+Exhaustion
+Significant tachycardia
+Unable to talk
+Silent chest (note: wheeze is typically a poor predictor of severity)
+Improve
+Investigations
+Investigating suspected asthma in children aged 5 to 16
+First-line investigation
+NICE
+measure the fractional nitric oxide (FeNO)
+diagnose asthma if:
+FeNO is ≥ 35 ppb
+If the FeNO level is not raised, or if FeNO testing is not available:
+measure bronchodilator reversibility (BDR) with spirometry
+diagnose asthma if:
+the FEV
+1
+increase is ≥ 12% from the pre-bronchodilator measurement, or
+the FEV
+1
+increase is ≥ 10% of the predicted normal FEV
+1
+if spirometry is not available or it is delayed, measure peak expiratory flow (PEF) twice daily for 2 weeks
+diagnose asthma if:
+PEF variability (expressed as amplitude percentage mean) is ≥ 20%
+If asthma is not confirmed by FeNO, BDR or PEF variability but still suspected on clinical grounds:
+perform skin prick testing to house dust mite OR measure total IgE level and blood eosinophil count
+exclude asthma if there is no evidence of sensitisation to house dust mite on skin prick testing OR if the total serum IgE is not raised
+diagnose asthma if there is evidence of sensitisation OR a raised total IgE level and the eosinophil count is > 0.5 x 10
+9
+/L
+If there is still doubt about the diagnosis
+refer to a paediatric specialist for a second opinion, including consideration of a
+bronchial challenge test
+Investigating suspected asthma in children under 5
+The guidelines acknowledge the difficulty of performing tests in such young children. They suggest:
+NICE
+treating with
+inhaled corticosteroids
+as per the management guidelines with regular review
+if they still have symptoms at age 5 then attempt objective tests
+refer to a specialist respiratory paediatrician any preschool child with an admission to hospital, or 2 or more admissions to an emergency department, with
+wheeze
+in a 12-month period.
+Notes on the investigations
+Eosinophils
+are specifically involved in type 2 inflammation, a key immunological pathway in many asthma phenotypes, making them a targeted marker for disease activity. Unlike other white blood cells, eosinophils play a direct role in airway inflammation by releasing granules containing cytotoxic proteins like eosinophil peroxidase and major basic protein, which damage epithelial cells and perpetuate inflammation. Additionally, eosinophils are activated by interleukin-5 (IL-5) and other cytokines in the type 2 pathway, distinguishing them from neutrophils or lymphocytes, which are more associated with other immune responses. IL-5 is an important target new monoclonal antibody treatments such as mepolizumab.
+Fractional exhaled nitric oxide (FeNO)
+reflects the level of nitric oxide produced by airway epithelial cells in response to eosinophilic inflammation, a hallmark of asthma. It is measured non-invasively by having the patient exhale steadily into a handheld device, which analyses nitric oxide concentration in parts per billion (ppb).
+Bronchodilator reversibility (BDR) testing with spirometry
+evaluates the degree of airflow limitation that improves after administration of a bronchodilator, a key diagnostic feature of asthma. In asthma, airway obstruction results primarily from reversible bronchial smooth muscle constriction and airway inflammation, which can respond to bronchodilators by relaxing the smooth muscle and reducing resistance. Measuring FEV
+1
+before and after bronchodilator administration demonstrates this reversibility, with an increase of ≥12% and ≥200 mL indicating significant improvement. This reversibility distinguishes asthma from fixed airway obstruction seen in conditions like COPD, where airflow limitation is less responsive.
+Peak expiratory flow (PEF) variability
+reflects diurnal changes in airway calibre, a hallmark of asthma, due to underlying circadian rhythms in airway inflammation and bronchial smooth muscle tone. Airway narrowing tends to worsen at night and in the early morning due to increased parasympathetic activity, nocturnal histamine release, and lower circulating cortisol levels, all of which contribute to heightened airway hyperresponsiveness. This diurnal pattern, with a >20% variation in PEF between morning and evening values, supports the diagnosis of asthma and highlights its dynamic, reversible nature.
+Immunoglobulin E (IgE)
+plays a central role in allergic asthma by mediating hypersensitivity reactions through binding to high-affinity IgE receptors on mast cells and basophils. Upon allergen exposure, cross-linking of bound IgE triggers the release of inflammatory mediators like histamine and leukotrienes, leading to airway inflammation, bronchoconstriction, and asthma symptoms. Measuring serum IgE levels helps identify atopic asthma phenotypes, predict responsiveness to anti-IgE therapy such as omalizumab, and guide management strategies in patients with allergic triggers.
+Skin prick testing
+for house dust mite is performed because it is a common and potent trigger for asthma, particularly in atopic individuals. House dust mite allergens, found in household dust, are inhaled and can lead to chronic airway inflammation, increased bronchial hyperresponsiveness, and exacerbations in susceptible individuals. Identifying house dust mite sensitivity allows targeted interventions, such as allergen avoidance measures, to improve asthma control and reduce symptom burden.
+The
+bronchial challenge test
+assesses airway hyperresponsiveness, a characteristic feature of asthma, by measuring the airway's response to a provocative agent such as methacholine or histamine. In asthma, heightened bronchial smooth muscle reactivity and inflammation lead to excessive narrowing of the airways when exposed to these agents, resulting in a significant decline in FEV
+1
+.
+Improve
+Differential diagnosis
+In the early years of life (less than 5-years-old), confirmatory testing for asthma is virtually impossible, therefore other causes of the clinical symptoms need to be considered, particularly if there is failure to respond to medical treatment. Typically, as
+cough
+is the most common presenting feature, causes of a chronic cough in children should be considered highly.
+Viral induced
+wheeze
+Similarities
+Both can present with wheeze
+Both may have a cough
+Asthma may be exacerbated by a viral infection, and viral induced wheeze similarly presents with a viral infection
+Differences
+Viral induced wheeze tends to occur in children under the age of 3-years-old, whereas asthma tends to occur in children over this age
+Prior to diagnosis, asthma tends to present with a regular daily wheeze (with periods of worsening at times), whereas viral induced wheeze tends to occur in singular or intermittent episodes initiated by a viral infection
+Children with asthma tend to present with interval symptoms (e.g. regular cough/wheeze at night or early morning, and/or with exercise), whereas this is not as common with viral-induced wheeze
+Bronchiolitis
+Similarities
+Both more common in childhood
+Both associated with exposure to tobacco smoke
+Both will have evidence of a polyphonic wheeze on auscultation
+May be recurrent episodes
+Differences
+Children with bronchiolitis will typically have a prodrome of rhinorrhoea, cough and intermittent fever, followed by wheezing and
+tachypnoea
+In bronchiolitis, the child may present otherwise unwell with fevers, fatigue and/or reduced feeding
+Protracted bacterial bronchitis
+Similarities
+Both can present with wheeze
+Cough is typical in both
+Differences
+Bronchitis will characteristically have a moist and productive cough, whereas the cough in asthma is typically dry
+Sputum culture or bronchoalveolar lavage will isolate a bacteria, commonly
+Haemophilus influenzae
+,
+Streptococcus pneumoniae
+or
+Moraxella catarrhalis
+Will not respond to inhaled or oral steroid therapy
+Inhaled foreign body
+Similarities
+Both may present with cough and wheeze
+Child will be otherwise well with no signs of infective disease e.g. absence of fever, fatigue, malaise
+An episode of asthma and inhalation of a foreign body can both appear with sudden onset and deterioration
+A chronic inhaled foreign body similarly can cause recurrent episodes of wheeze
+Differences
+Inhaled foreign bodies typically cause an inspiratory stridor, rather than an expiratory wheeze
+May present with choking
+Cystic fibrosis
+Similarities
+Both can present with wheeze, cough and shortness of breath
+Asthma and cystic fibrosis can co-exist
+Wheeze, cough and breathlessness may worsen with a concurrent respiratory tract infection in both
+Differences
+Cough is typically moist and productive
+In children with cystic fibrosis, they may present with poor growth/failure to thrive
+May also have foul-smelling or greasy stools, and/or chronic diarrhoea
+Structural airway abnormality
+Similarities
+Tracheomalacia/bronchomalacia and asthma both can present with cute episodes of wheeze,
+dyspnoea
+and cough
+Both typically more common in children
+Differences
+Broncho/tracheomalacia tend to be characterised by expiratory stridor or monophonic expiratory wheeze
+Non-responsive to inhaled or oral steroids or bronchodilators
+More common in first two years of life, asthma tends to present from after 2-years-old
+Improve
+Management
+Management in children aged 5 to 11
+First step
+twice-daily paediatric low-dose inhaled corticosteroid (ICS) + short-acting beta2 agonist (SABA) as needed
+If this doesn't control the child's asthma then a
+decision needs to be made about whether the child is suited to a MART regime or not
+. This determines whether the child is then managed down a MART or 'conventional' pathway.
+MART pathway
+Conventional pathway
+Symptoms not controlled on first step
+paediatric low-dose MART + SABA as needed
+Symptoms still not controlled
+paediatric moderate-dose MART + SABA as needed
+Symptoms not controlled on first step
+add a leukotriene receptor antagonist (LTRA) to twice daily paediatric low-dose ICS plus SABA as needed
+give the LTRA for a trial period of 8 to 12 weeks then stop it if it is ineffective
+Symptoms still not controlled
+switch to a twice daily paediatric low-dose ICS/LABA (long-acting beta2 agonist) combination inhaler plus SABA as needed
+this can be with or without a LTRA depending on the results of the previous trial
+Symptoms still not controlled
+switch to a twice daily paediatric moderate-dose ICS/LABA (long-acting beta2 agonist) combination inhaler plus SABA as needed
+this can be with or without a LTRA depending on the results of the previous trial
+If children's symptoms are still not controlled despite the above then a referral should be made to a respiratory specialist.
+Management in children under 5
+Steps
+8 to 12 week trial of twice-daily paediatric low-dose ICS as maintenance therapy + SABA as required
+consider stopping ICS and SABA treatment after 8 to 12 weeks if symptoms are resolved. Review the symptoms after a further 3 months
+Improve
+Prognosis
+Childhood asthma is commonly grown out of, with three our of four school-aged children outgrowing the condition by adulthood. In those who do not fully outgrow the condition, approximately 50% of children will have markedly improved or become asymptomatic by early adulthood. Those with childhood onset asthma, as compared to adult onset asthma, are far more likely to experience a complete remission from the condition.
+Predictors of persistent asthma
+Atopy
+Presence of concurrent allergic rhinitis and/or atopic dermatitis
+Low lung function
+Significantly decreased peak expiratory flow and/or reduced FEV1:FVC ratio
+Higher airway hyper-responsiveness
+Sensitisation and exposure to indoor allergens
+Three-fold increased risk of persistent asthma
+Long-term effect on lung function
+Although asthma can be grown out of, asthma in early childhood does result in slight decrements in pulmonary function compared to those who have never experienced asthma
+Those at higher risk of long-term airway damage include those children with poor adherence to treatment, those with poorly controlled asthma, and those with recurrent severe exacerbations requiring hospital admission
+Features of poorly controlled asthma include:
+3+ days per week with symptoms, or
+3+ days per week requiring use of a bronchodilator for symptomatic relief, or
+1+ night per week awakening due to asthma symptoms
+These decrements are persistent throughout childhood and adolescence, and can sometimes persist to adulthood also
+Decrements include reduced peak forced expiratory volume in one second (FEV1), or an early decline in lung function in adulthood (therefore more susceptible to chronic lung conditions)
+However, these decrements are
+not
+associated with an increased mortality risk
+Mortality
+Well-controlled childhood asthma does not cause an increased risk of mortality compared to that of the general population
+Poorly controlled asthma (e.g. inadequate medical therapy, poor compliance) and recurrent severe exacerbations increase the risk of mortality if not managed appropriately
+In the UK, on average, 3 people die from a severe asthma attack per year
+These children should certainly be referred to a specialist to reduce the morbidity and mortality
+Improve
+References
+NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)
+British Thoracic Society - 2019 Asthma guidelines
+Paediatric respiratory
+Asthma in children

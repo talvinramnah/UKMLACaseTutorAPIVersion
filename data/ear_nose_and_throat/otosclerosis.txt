@@ -1,0 +1,110 @@
+Otosclerosis
+Otosclerosis
+Otosclerosis describes the replacement of normal bone by vascular spongy bone. It causes a progressive conductive
+deafness
+due to fixation of the stapes at the oval window. Otosclerosis is autosomal dominant and typically affects young adults.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 30.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Otosclerosis is a disorder characterised by abnormal bone remodelling in the otic capsule, primarily affecting the stapes and leading to conductive
+hearing loss
+. The pathophysiological process involves several interconnected steps:
+Bone Remodelling Dysregulation
+The otic capsule typically undergoes minimal bone turnover compared to other skeletal regions. In otosclerosis, there is a localised increase in bone remodelling activity.
+This dysregulation is thought to be initiated by genetic and environmental factors that disturb the balance of osteoclast and osteoblast activity.
+Formation of Otospongiotic Lesions
+Increased osteoclastic activity leads to areas of bone resorption within the otic capsule, particularly around the fissula ante fenestram, which is anterior to the oval window.
+The resorbed bone is replaced by spongy, vascularised bone known as otospongiotic lesions.
+Maturation into Sclerotic Bone
+Over time, these otospongiotic lesions undergo maturation into dense sclerotic bone through increased osteoblastic activity.
+This newly formed sclerotic bone lacks normal lamellar organisation and becomes abnormally thickened and hardened.
+Anatomical Impact on Sound Transmission
+The stapes footplate often becomes fixed or immobilised due to encroachment of sclerotic bone at its annular ligament or within the oval window niche.
+This fixation impairs the transmission of sound vibrations from the tympanic membrane through the ossicular chain to the inner ear, resulting in conductive hearing loss.
+Cochlear Involvement
+In some cases, otosclerosis extends beyond the stapes footplate into the cochlea (cochlear otosclerosis), where it can affect cochlear function directly.
+This may lead to sensorineural hearing loss due to disruption of endolymphatic fluid dynamics or direct damage to cochlear structures such as hair cells and supporting cells.
+Clinical Manifestations Correlation
+The primary clinical manifestation is progressive conductive hearing loss due to stapes fixation. Patients may also experience
+tinnitus
+due to altered cochlear mechanics or vascular changes within otospongiotic lesions.
+Sensorineural hearing loss can occur if there is significant cochlear involvement. This mixed hearing loss pattern necessitates thorough audiometric evaluation for accurate diagnosis and management planning.
+Improve
+Clinical features
+A stereotypical presentation of otosclerosis often begins with progressive, bilateral conductive
+hearing loss
+. This is typically noticed in the second or third decade of life, with females more frequently affected than males. The patient may also have a family history of hearing loss.
+Presenting features
+Progressive hearing loss:
+This is usually the first symptom and it develops gradually over several years. Initially, it may only affect one ear but eventually becomes bilateral in about 80% of cases. The pattern of hearing loss is typically low-frequency (conductive), but as the disease progresses, all frequencies can be affected.
+Tinnitus
+:
+This is a common complaint and is characterised by ringing or buzzing noises in the ears or head when no such external physical noise is present.
+Dizziness or balance problems:
+Vertigo and imbalance are less common symptoms but can occur due to involvement of the vestibular apparatus.
+Schwartz's sign:
+A positive Schwartz's sign, which presents as a reddish-blue hue behind the tympanic membrane (also known as flamingo flush), may be observed during otoscopy but its absence does not rule out otosclerosis.
+Audiometry:
+Pure tone audiometry typically reveals a conductive hearing loss with a characteristic dip at 2 kHz (Carhart notch).
+The diagnosis of otosclerosis should always be considered in young adults presenting with progressive conductive hearing loss.
+Improve
+Differential diagnosis
+Otosclerosis, characterised by abnormal bone remodelling in the otic capsule, commonly presents with progressive conductive
+hearing loss
+. However, several other conditions may mimic its clinical presentation. Key differential diagnoses include Meniere's disease, chronic suppurative otitis media (CSOM), and acoustic neuroma.
+Meniere's Disease
+The primary distinguishing feature between Meniere's disease and otosclerosis is the presence of episodic vertigo in the former. Patients with Meniere's disease often complain of fluctuating sensorineural hearing loss,
+tinnitus
+and aural fullness.
+Audiometric testing in Meniere's disease usually reveals low-frequency sensorineural hearing loss initially, which distinguishes it from the conductive or mixed type seen in otosclerosis.
+Endolymphatic hydrops visible on magnetic resonance imaging (MRI) can also aid in differentiating Meniere’s disease from otosclerosis.
+Chronic Suppurative Otitis Media (CSOM)
+In contrast to otosclerosis, CSOM typically presents with persistent or recurrent otorrhoea (ear discharge). Hearing loss in CSOM is generally conductive due to tympanic membrane perforation and ossicular chain disruption.
+Pain is not a typical symptom of uncomplicated otosclerosis but can be present if there is concurrent infection such as CSOM. In such cases, an examination will reveal inflamed external auditory canal with purulent discharge.
+Tympanometry can help distinguish these two conditions; a flat tympanogram could suggest middle ear effusion associated with CSOM while Carhart’s notch at 2000 Hz is indicative of otosclerosis.
+Acoustic Neuroma (Vestibular Schwannoma)
+Acoustic neuroma, a benign intracranial tumour, can also present with progressive sensorineural hearing loss and tinnitus, mimicking otosclerosis. However, it may additionally cause disequilibrium or imbalance, which is not typically seen in otosclerosis.
+Audiometry in acoustic neuroma reveals high-frequency sensorineural hearing loss. Auditory brainstem response (ABR) testing showing delayed wave I-V interpeak latency can further support the diagnosis.
+Contrast-enhanced MRI is the gold standard for diagnosing acoustic neuromas and can effectively rule out otosclerosis by revealing an intracanalicular or cerebellopontine angle mass.
+Improve
+Complications
+The most common complications associated with otosclerosis include:
+Hearing loss
+:
+This is the most prevalent complication, occurring as a result of stapes fixation. Conductive hearing loss initially occurs due to the impaired transmission of sound vibrations to the inner ear. Sensorineural hearing loss may also develop over time due to damage to the cochlea.
+Tinnitus
+:
+This refers to a persistent ringing or buzzing in the ears and often accompanies hearing loss.
+Vertigo:
+Although less common, vertigo can occur if otosclerosis affects the balance organs within the inner ear.
+Surgical intervention for otosclerosis, such as stapedectomy, can also lead to complications including:
+Sensorineural hearing loss:
+There's a small risk that surgery might cause further damage to the inner ear, resulting in sensorineural hearing loss.
+Dizziness and balance issues:
+These may occur post-operatively but usually resolve within a few days or weeks.
+Tympanic membrane perforation:
+A hole in the eardrum can occur during surgery but is usually repairable.
+Taste disturbances or facial nerve injury:
+These are rare complications but can occur if nerves in close proximity are affected during surgery.
+Otosclerosis has been linked with pregnancy, although research into this association remains inconclusive. Fluctuations in oestrogen levels may exacerbate symptoms and progression of otosclerosis during pregnancy.
+In addition, it's important for doctors to be aware of potential psychological implications associated with persistent hearing impairment such as social isolation and depression.
+Improve
+References
+Patient.info - Otosclerosis
+Ear, nose and throat
+Otosclerosis

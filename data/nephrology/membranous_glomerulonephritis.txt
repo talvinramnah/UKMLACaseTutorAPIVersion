@@ -1,0 +1,211 @@
+Membranous glomerulonephritis
+Membranous glomerulonephritis
+Membranous
+glomerulonephritis
+(MGN) is a chronic form of glomerulonephritis characterised by thickening of the glomerular basement membrane due to subepithelial immune complex deposition. This renal disorder primarily results from the formation of antibodies against antigens intrinsic to the kidney or circulating antigens which deposit along the glomerular capillary wall.
+The primary form, idiopathic MGN, accounts for about 75% of cases and its aetiology remains unknown. Secondary MGN can be associated with systemic diseases such as lupus erythematosus, infections like hepatitis B, malignancies and drugs.
+Clinically, patients may present with
+nephrotic syndrome
+-
+proteinuria
+,
+hypoalbuminaemia
+and oedema. Diagnosis involves renal biopsy showing subepithelial deposits with a 'spike and dome' appearance on electron microscopy. Management strategies include immunosuppressive therapy for idiopathic MGN and treating underlying conditions in secondary MGN.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Causes
+idiopathic: due to anti-phospholipase A2 antibodies
+infections: hepatitis B, malaria, syphilis
+malignancy: lung cancer, lymphoma, leukaemia
+drugs: gold, penicillamine, NSAIDs
+autoimmune diseases: systemic lupus erythematosus (class V disease), thyroiditis, rheumatoid
+Improve
+Pathophysiology
+Membranous
+glomerulonephritis
+(MGN) is an immune complex-mediated glomerular disease characterised by the accumulation of immune complexes on the outer aspect of the glomerular basement membrane. The pathogenesis involves a series of interrelated steps, predominantly driven by immunological responses.
+Formation and Deposition of Immune Complexes
+The initial step in the pathogenesis of MGN is the formation and deposition of immune complexes. This occurs when circulating antibodies interact with antigens present on the podocyte surface or within the glomerular basement membrane, forming antigen-antibody complexes. These complexes accumulate subepithelially, leading to a thickening of the basement membrane observed as 'spikes' under electron microscopy.
+Role of Autoantibodies
+Recent studies have identified autoantibodies against two podocyte proteins, namely
+M-type phospholipase A2 receptor (PLA2R)
+and
+Thrombospondin Type-1 Domain-Containing 7A (THSD7A)
+, in primary MGN patients. These autoantibodies bind to their respective antigens, triggering an autoimmune response that contributes significantly to disease progression.
+Inflammatory Response and Complement Activation
+The deposited immune complexes initiate an inflammatory response by activating complement system via classical pathway. The activated complement components C3 and C5 lead to formation of Membrane Attack Complex (MAC), which causes direct injury to the glomerular cells and increases permeability of the glomerular capillary wall.
+Dysfunction of Podocytes
+The continuous deposition of immune complexes and subsequent complement activation results in damage and effacement of podocytes – vital cells that maintain filtration barrier integrity. This leads to increased protein leakage into the urine, manifesting as
+proteinuria
+, a hallmark of MGN.
+Glomerular Sclerosis
+Over time, chronic inflammation and continuous injury to glomerular cells lead to fibrotic changes in the form of glomerulosclerosis. This results in progressive loss of renal function, ultimately leading to end-stage renal disease in untreated or refractory cases.
+Treatment Implication
+The understanding of these pathogenic steps has direct implications on the treatment strategies for MGN. For instance, therapies aimed at reducing autoantibody production, inhibiting complement activation or preserving podocyte health can potentially halt or slow down disease progression.
+Improve
+Clinical features
+A stereotypical presentation of membranous
+glomerulonephritis
+often includes a middle-aged patient presenting with features of
+nephrotic syndrome
+. The most common symptoms include peripheral oedema,
+proteinuria
+,
+hypoalbuminaemia
+and hyperlipidaemia. These clinical features are usually progressive over a period of weeks to months.
+Peripheral Oedema
+The most frequently observed symptom in patients with membranous glomerulonephritis is peripheral oedema. This is due to fluid retention caused by hypoalbuminaemia, which reduces the oncotic pressure leading to fluid shift into the interstitial space.
+Proteinuria
+Patients typically present with significant proteinuria (>3.5g/day), which is often non-selective and may include albumin, immunoglobulins and other plasma proteins.
+This can lead to frothy urine or even urinary casts.
+Hypoalbuminaemia
+Loss of albumin through the kidneys leads to decreased serum albumin levels (hypoalbuminaemia).
+This can also contribute to an increased susceptibility to infections due to loss of immunoglobulins in urine.
+Hyperlipidaemia
+In response to low serum albumin levels, the liver increases production of lipoproteins leading to hyperlipidaemia.
+This can be associated with lipiduria, where oval fat bodies or fatty casts may be seen on urinalysis.
+Other Clinical Features:
+Renal vein thrombosis:
+Patients with membranous glomerulonephritis have an increased risk of thromboembolic events such as renal vein thrombosis, especially when nephrotic syndrome is present. Symptoms may include flank pain, haematuria and sudden decrease in kidney function.
+Hypertension
+:
+Although less common than in other forms of glomerulonephritis, hypertension can be a feature of membranous glomerulonephritis, usually secondary to fluid overload or activation of the renin-angiotensin system.
+Renal impairment:
+Progressive disease can lead to chronic kidney disease (CKD) with symptoms related to uraemia including fatigue, anorexia and nausea.
+Microscopic haematuria
+: Present in approximately half of cases but typically not gross haematuria.
+Secondary causes
+It is essential to consider potential secondary causes such as infections (e.g., hepatitis B, hepatitis C), autoimmune diseases (e.g., systemic lupus erythematosus), malignancies (e.g., solid tumours), and certain medications (e.g., NSAIDs).
+Improve
+Investigations
+Investigation of membranous
+glomerulonephritis
+(MGN) should be systematic, commencing with first-line investigations and proceeding to more specific ones if required. This approach aids in confirming the diagnosis, determining the severity and recognising potential secondary causes.
+First-Line Investigations
+Serum creatinine and estimated glomerular filtration rate (eGFR):
+These tests assess renal function. Elevated serum creatinine levels and a reduced eGFR may indicate impaired kidney function due to MGN.
+Urinalysis:
+Dipstick testing can identify
+proteinuria
+, which is often present in MGN. A quantitative assessment of proteinuria can be obtained with a 24-hour urine collection or spot urine protein-to-creatinine ratio.
+Serum albumin:
+Hypoalbuminaemia
+is common in
+nephrotic syndrome
+caused by MGN due to loss of albumin in urine.
+Lipid profile:
+Hyperlipidaemia is another common finding in nephrotic syndrome. It results from increased hepatic synthesis of lipoproteins in response to hypoalbuminaemia.
+Further Investigations
+If initial findings are suggestive of MGN, further investigations should be conducted to confirm the diagnosis and identify any secondary causes. These include:
+Kidney ultrasound:
+This imaging modality visualises kidney size and structure, aiding diagnosis by excluding other causes of kidney disease such as obstructive uropathy or polycystic kidney disease.
+Serological tests:
+These help identify potential secondary causes of MGN. Tests may include antinuclear antibody (ANA), anti-double-stranded DNA (anti-dsDNA), complement levels, hepatitis B and C serology, and HIV testing.
+Renal biopsy:
+This is the definitive investigation for diagnosing MGN. Light microscopy typically shows thickened glomerular basement membranes without cellular proliferation. Immunofluorescence demonstrates granular deposits of IgG and C3 along the capillary walls. Electron microscopy reveals subepithelial electron-dense deposits. This creates a 'spike and dome' appearance
+Improve
+Differential diagnosis
+The differential diagnosis of membranous
+glomerulonephritis
+(MGN) primarily includes minimal change disease (MCD), focal segmental glomerulosclerosis (FSGS), and IgA nephropathy. The clinical presentation of these conditions can overlap, yet there are distinctive features that aid in their differentiation.
+Minimal Change Disease (MCD)
+MCD often presents with sudden onset
+nephrotic syndrome
+, characterised by severe
+proteinuria
+,
+hypoalbuminaemia
+, oedema and hyperlipidaemia. In contrast to MGN, haematuria is usually absent or mild.
+In terms of laboratory findings, MCD typically shows a normal complement level which contrasts with the low C3 levels sometimes seen in MGN.
+Renal biopsy in MCD reveals effacement of foot processes on electron microscopy but no immune complex deposition - a key differentiator from MGN where immune complexes are typically present along the basement membrane.
+Focal Segmental Glomerulosclerosis (FSGS)
+Clinically, FSGS may present similarly to MGN with proteinuria and nephrotic syndrome. However, FSGS often has a slower onset and is more frequently associated with
+hypertension
+and renal insufficiency at presentation.
+Unlike MGN which shows diffuse thickening of the glomerular basement membrane, FSGS is characterised by sclerosis in some but not all glomeruli and only in parts (segments) of each affected glomerulus.
+Immunofluorescence does not show granular deposits as seen in MGN; instead it is usually negative or shows non-specific trapping of IgM and C3.
+IgA Nephropathy
+Patients with IgA nephropathy frequently present with episodic gross haematuria coinciding with upper respiratory or gastrointestinal infections, a feature not typical for MGN.
+Unlike the proteinuria seen in MGN, which is often in the nephrotic range, proteinuria in IgA nephropathy is usually less severe.
+The hallmark of IgA nephropathy on immunofluorescence microscopy is mesangial deposition of
+IgA
+, contrasting with the granular deposits along the basement membrane seen in MGN.
+Improve
+Management
+Management
+all patients should receive an ACE inhibitor or an angiotensin II receptor blocker (ARB):
+these have been shown to reduce
+proteinuria
+and improve prognosis
+immunosuppression
+as many patients spontaneously improve only patient with severe or progressive disease require immunosuppression
+corticosteroids alone have not been shown to be effective. A combination of corticosteroid + another agent such as cyclophosphamide is often used
+consider anticoagulation for high-risk patients
+Improve
+Complications
+Renal Complications
+Progression to chronic kidney disease (CKD):
+Persistent
+proteinuria
+and glomerular injury may result in a gradual decline in renal function, with a proportion of patients progressing to end-stage renal disease requiring renal replacement therapy.
+Acute kidney injury (AKI):
+Although less common, AKI can occur due to severe intravascular volume depletion from heavy proteinuria or as a consequence of complications such as renal vein thrombosis.
+Hypertension
+:
+Chronic glomerular damage and sodium retention may contribute to the development or worsening of hypertension.
+Thromboembolic Complications
+Increased risk of venous thromboembolism:
+Nephrotic syndrome
+associated with MGN leads to hypercoagulability, predisposing patients to deep vein thrombosis and pulmonary embolism.
+Renal vein thrombosis:
+Particularly associated with marked
+hypoalbuminaemia
+; may present acutely with flank pain, haematuria, or sudden deterioration in renal function.
+Arterial thrombotic events are less common but can occur.
+Other Systemic Complications
+Dyslipidaemia and accelerated atherosclerosis:
+Sustained hyperlipidaemia increases the long-term risk of cardiovascular disease.
+Infection susceptibility:
+Loss of immunoglobulins and complement proteins in urine results in increased vulnerability to bacterial infections including cellulitis, pneumonia, peritonitis, and sepsis. Vaccination against pneumococcus and annual influenza vaccination should be considered in accordance with UK guidance.
+Protein malnutrition:
+Severe or persistent proteinuria may lead to hypoalbuminaemia resulting in muscle wasting and generalised malnutrition if not addressed.
+The most important complications are progressive CKD/ESRD, thromboembolic events (including renal vein thrombosis), infection risk due to urinary loss of immune factors, and cardiovascular morbidity related to dyslipidaemia.
+Improve
+Prognosis
+The prognosis of membranous
+glomerulonephritis
+(MGN) varies widely, depending on factors such as the patient's age, overall health status, and response to treatment. Spontaneous remission occurs in approximately one-third of patients within 5 years.
+Natural course:
+Without intervention, MGN typically follows a variable course. Approximately 25% of patients will experience spontaneous remission, while another 25% will progress to end-stage renal disease (ESRD) within 10 years. The remaining 50% may have persistent
+proteinuria
+but maintain stable renal function.
+Risk factors for progression:
+Predictors of poor outcome include persistently high levels of proteinuria (>8g/day),
+impaired renal function
+at diagnosis, male sex, and older age.
+Treatment response:
+Response to immunosuppressive therapy can also influence prognosis. Complete or partial remission after therapy is associated with a favourable long-term renal survival.
+Secondary MGN:
+Prognosis may be influenced by the underlying cause in secondary MGN. For example, malignancy-associated MGN usually improves if the underlying cancer is effectively treated.
+Improve
+References
+Royal College of Physicians - 2012 Membranous nephropathy review
+American Society of Nephrology - 2017 Primary Membranous Nephropathy review
+Glomerulonephritis
+Membranous glomerulonephritis

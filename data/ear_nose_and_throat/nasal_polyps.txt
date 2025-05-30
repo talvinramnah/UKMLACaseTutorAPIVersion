@@ -1,0 +1,141 @@
+Nasal polyps
+Nasal polyps
+Nasal polyps are non-cancerous growths in the lining of the nasal cavity or sinuses. They are often associated with conditions such as
+chronic rhinosinusitis
+, asthma, cystic fibrosis and allergic fungal sinusitis. Morphologically, these polyps appear as teardrop-shaped, pale grey growths. Patients may present with symptoms like
+nasal obstruction
+, runny nose, facial pain or pressure and
+reduced sense of smell
+.
+Diagnosis is typically made through physical examination using a nasal endoscope and confirmed via imaging studies such as CT or MRI scans. Management strategies include medical therapy primarily with corticosteroids (topical or systemic) to reduce inflammation and size of the polyps. Surgery may be required for larger, symptomatic polyps refractory to medical treatment.
+The pathophysiology is not completely understood but involves persistent inflammation in the nose and sinuses. There is currently ongoing research into novel therapeutic targets including biological agents that modulate immune responses.
+Last updated: 30
+th
+August 2023
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 3:1
+Condition
+Relative
+incidence
+Chronic rhinosinusitis
+5.00
+Nasal polyps
+1
+Head and neck cancer
+0.19
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of nasal polyps is multifactorial and not fully understood, but several risk factors and underlying causes have been identified.
+Risk Factors
+Chronic Sinusitis:
+Individuals with chronic sinusitis, particularly
+chronic rhinosinusitis
+with nasal polyposis (CRSwNP), are at an increased risk of developing nasal polyps.
+Asthma:
+Asthma is often associated with the development of nasal polyps. The exact mechanism is unclear, but it may be related to inflammation in the airways.
+Allergic Fungal Sinusitis:
+This condition, characterised by an allergic reaction to fungi in the sinuses, can lead to the formation of nasal polyps.
+Cystic Fibrosis:
+Nasal polyps are common in people with cystic fibrosis due to abnormal mucus production.
+Aspirin Sensitivity:
+Patients with aspirin-exacerbated respiratory disease (AERD) often develop nasal polyps. AERD involves asthma, sinusitis, and sensitivity to aspirin and other non-steroidal anti-inflammatory drugs (NSAIDs).
+Underlying Causes
+Inflammation:
+Chronic inflammation in the nose or sinuses due to conditions such as allergies or infections can lead to swelling and eventual formation of nasal polyps.
+Hypersensitivity reactions:
+Hypersensitivity reactions to certain triggers such as dust mites, pet dander, or moulds can cause chronic inflammation leading to polyp formation.
+Genetic Factors:
+Certain genetic disorders such as cystic fibrosis or primary ciliary dyskinesia increase the risk of nasal polyps due to defective mucociliary clearance.
+Immunodeficiency:
+Conditions that weaken the immune system, such as HIV/AIDS or immunosuppressive therapy, can predispose to the development of nasal polyps.
+Improve
+Pathophysiology
+The pathophysiology of nasal polyps is a complex, multi-step process that involves various cellular and molecular mechanisms. The following steps provide an overview of the key processes involved in the development and progression of nasal polyps.
+Initial Inflammatory Response:
+Exposure to allergens, irritants or infection causes an initial inflammatory response in the nasal mucosa. This triggers the release of inflammatory mediators such as histamine, leukotrienes, cytokines (interleukin-4, interleukin-5), and prostaglandins from mast cells, eosinophils and T-helper 2 (Th2) cells.
+Eosinophil Recruitment:
+Interleukin-5 promotes the recruitment and activation of eosinophils. These cells play a central role in tissue damage and remodelling associated with nasal polyps through the release of major basic protein (MBP), eosinophil cationic protein (ECP), eosinophil-derived neurotoxin (EDN) and eosinophil peroxidase (EPO).
+Goblet Cell Hyperplasia:
+The Th2 cytokine interleukin-13 stimulates goblet cell hyperplasia leading to increased mucus production. This contributes to symptoms such as
+rhinorrhoea
+and nasal congestion.
+Tissue Remodelling:
+Chronic inflammation leads to tissue remodelling characterized by basement membrane thickening, subepithelial fibrosis, angiogenesis, glandular hyperplasia and oedema. Transforming growth factor-beta (TGF-β) plays a significant role in this process.
+Polyp Formation:
+The combination of ongoing inflammation, tissue remodelling changes and persistent oedema eventually leads to the formation of polyps. These are typically non-neoplastic, semi-translucent, gelatinous masses originating from the mucosa of the nasal cavity or paranasal sinuses.
+Improve
+Clinical features
+Clinical Manifestations
+Nasal Obstruction
+:
+Often the most prominent symptom, patients frequently report a sensation of a
+blocked nose
+, typically bilateral.
+Hyposmia or
+Anosmia
+:
+Diminished or absent sense of smell is a hallmark feature, largely due to the obstruction of airflow and impairment of olfactory receptor function.
+Rhinorrhoea
+:
+Patients frequently complain of a runny nose, either clear or mucoid discharge, sometimes exacerbated by certain triggers such as changes in humidity.
+Facial Pain or Pressure:
+Though less common, some patients experience discomfort or a sense of fullness in the facial sinuses, particularly the maxillary and frontal sinuses.
+Snoring:
+Reduced nasal airflow can lead to mouth breathing and snoring, which may further precipitate or exacerbate sleep apnoea in predisposed individuals.
+Epistaxis:
+While not typical, some patients do report nosebleeds, especially when there is co-existing inflammation or infection.
+Postnasal Drip:
+Accumulation of mucous at the back of the nasal cavity can lead to frequent throat clearing, cough, or a sensation of lump in the throat.
+Complications and Co-Existing Conditions
+Chronic Sinusitis
+:
+Prolonged inflammation can lead to chronic sinus infections, often requiring more aggressive treatment strategies.
+Asthma:
+There is a well-recognised association between asthma and nasal polyps, and management often necessitates a multi-disciplinary approach.
+Aspirin Sensitivity:
+Some patients with nasal polyps may also exhibit aspirin sensitivity, manifesting as bronchospasm and skin eruptions upon ingestion.
+Improve
+Differential diagnosis
+The differential diagnosis for nasal polyps mainly includes three conditions: antrochoanal polyp, inverted papilloma, and sinonasal malignancy. These conditions can present with similar symptoms to nasal polyps but have distinctive clinical presentations.
+Antrochoanal Polyp
+An antrochoanal polyp (ACP), also known as Killian's polyp, originates in the maxillary sinus and extends into the nasopharynx. Unlike nasal polyps, which are typically bilateral, ACPs are usually unilateral.
+Clinically, patients may present with unilateral
+nasal obstruction
+or recurrent epistaxis. The presence of a mass in the nasopharynx is a key distinguishing feature on examination.
+Inverted Papilloma
+Inverted papilloma is a benign tumour that arises from the lateral nasal wall and paranasal sinuses. In contrast to the smooth appearance of nasal polyps, inverted papillomas are often irregular and lobulated.
+Patients with inverted papilloma may experience unilateral symptoms such as epistaxis or purulent discharge. It has a higher risk of malignant transformation compared to other benign sinonasal lesions.
+Sinonasal Malignancy
+Sinonasal malignancies are rare but should be considered in the differential diagnosis due to their serious implications. They differ from nasal polyps in that they tend to cause more aggressive symptoms such as persistent facial pain or swelling, visual changes or rapidly progressing symptoms.
+On examination, there may be evidence of bony erosion or a non-healing ulcerative lesion within the nasal cavity. Unlike nasal polyps, sinonasal malignancies are often associated with weight loss and systemic symptoms.
+Improve
+Management
+Management of nasal polyps involves a combination of medical treatment, surgical intervention and monitoring for recurrence. The approach is individualised based on the severity of symptoms, size and location of polyps, and presence of comorbidities such as asthma or cystic fibrosis. The aim is to reduce symptoms, improve quality of life, and prevent complications.
+Medical management
+Initial management typically involves topical corticosteroids to reduce inflammation.
+Oral corticosteroids may be considered in severe cases or if topical treatment is ineffective.
+Intranasal saline irrigations can aid in symptomatic relief.
+Surgical intervention
+Endoscopic sinus surgery (ESS) is the preferred surgical method for removing nasal polyps.
+Surgery should be considered if medical therapy fails or in case of complications such as mucoceles or orbital involvement.
+Monitoring and follow-up
+Regular follow-up is essential to monitor for recurrence and manage associated conditions like asthma.
+Patient education about symptom recognition and when to seek medical attention can help in early detection of recurrence.
+Treatment of comorbidities
+Asthma control must be optimised since it often coexists with nasal polyps. Consider referral to respiratory specialists if required.
+Biological therapies
+Newer biological therapies targeting specific inflammatory pathways (e.g., anti-IL5, anti-IL4Rα) may be considered in refractory cases.
+Improve
+Ear, nose and throat
+Nasal polyps

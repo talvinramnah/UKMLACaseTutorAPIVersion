@@ -1,0 +1,169 @@
+Ventricular septal defect
+Ventricular septal defect
+Ventricular septal defect (VSD)
+is a congenital cardiac anomaly characterised by an opening in the interventricular septum, permitting shunting of blood between ventricles. The pathophysiology involves left-to-right shunting due to higher left ventricular pressure, leading to increased pulmonary blood flow and right ventricular volume overload.
+The clinical presentation varies according to size and location of the defect, ranging from asymptomatic small defects to larger ones causing heart failure symptoms. Auscultation typically reveals a pansystolic murmur at the lower left sternal border.
+Diagnosis primarily involves echocardiography demonstrating the defect and assessing haemodynamic impact. Additional investigations may include electrocardiography and cardiac catheterisation. Management strategies are largely dependent on the severity of symptoms and haemodynamic compromise, encompassing conservative monitoring for smaller defects or surgical intervention for symptomatic large VSDs.
+Last updated: 1
+st
+January 2025
+Aetiology
+Ventricular septal defect (VSD) is one of the most common congenital heart defects, characterised by an opening in the ventricular septum that separates the left and right ventricles of the heart. The aetiology of VSD is multifactorial, encompassing both genetic and environmental factors.
+Genetic Factors
+Chromosomal abnormalities:
+A significant proportion of VSD cases are associated with chromosomal disorders such as Down syndrome (trisomy 21), Edwards syndrome (trisomy 18), Patau syndrome (trisomy 13), and DiGeorge syndrome (22q11.2 deletion).
+Single gene mutations:
+Mutations in several genes including
+GATA4
+,
+NKX2-5
+,
+TBX5
+, and
+ZFPM2/FOG2
+have been linked to isolated VSDs. These genes play crucial roles in cardiac morphogenesis.
+Syndromic associations:
+VSDs often occur as part of recognised syndromes such as Holt-Oram syndrome, Noonan syndrome, and Ellis-van Creveld syndrome which are caused by specific genetic mutations.
+Environmental Factors
+Prenatal exposure to teratogens:
+Certain substances have been identified as risk factors for VSD when exposure occurs during pregnancy. These include maternal use of alcohol, tobacco, certain medications like retinoic acid, lithium, anti-epileptic drugs and nonsteroidal anti-inflammatory drugs.
+Maternal illnesses:
+Maternal diabetes mellitus, phenylketonuria, rubella infection during pregnancy, and maternal obesity have all been associated with an increased risk of VSD.
+Advanced maternal age:
+There is a higher incidence of VSD in offspring of older mothers, likely due to the increased risk of chromosomal abnormalities with advancing maternal age.
+The relative contribution of these genetic and environmental factors can vary widely among individuals. In many cases, a combination of multiple genetic and environmental influences is likely to be involved in the development of VSD.
+Improve
+Pathophysiology
+The pathophysiology of ventricular septal defect (VSD) is a complex process involving anatomical, physiological, and molecular mechanisms. Herein we will dissect these processes to facilitate understanding.
+A ventricular septal defect represents an opening in the interventricular septum, the wall separating the left and right ventricles of the heart. This abnormal opening allows blood to shunt between the two chambers.
+At a molecular level, this anomaly can be attributed to disruptions in normal cardiogenesis during embryonic development. Specifically, faulty endocardial cushion formation or incomplete muscular septum growth often underlies VSD formation.
+Physiologically, the presence of a VSD disrupts normal cardiac haemodynamics. In essence, it creates a left-to-right shunt due to higher pressures in the left ventricle compared to the right. Consequently, oxygenated blood from the left ventricle is pushed into the right ventricle instead of being ejected into systemic circulation via the aorta.
+This abnormal shunting increases pulmonary blood flow and leads to volume overload on both right-sided heart chambers. Over time, this may cause hypertrophy and dilation of these chambers as they adapt to increased workload.
+Anatomically, this manifests as cardiac enlargement on imaging studies and can lead to congestive heart failure if not addressed promptly.
+From an immunological perspective, recurrent respiratory infections may occur due to increased pulmonary blood flow and subsequent stasis.
+The degree of haemodynamic disturbance depends largely on the size of the defect. Small defects may have minimal impact on cardiac function while large ones can lead to significant symptoms such as dyspnoea and fatigue due to decreased cardiac output and increased pulmonary blood flow.
+Over time, chronic left-to-right shunting can lead to pulmonary hypertension. This is due to increased pulmonary vascular resistance as the lung vasculature attempts to cope with excess blood volume. When severe, this may result in a reversal of the shunt (right-to-left), a condition known as Eisenmenger's syndrome.
+This reversal leads to desaturated blood being pumped into systemic circulation, causing cyanosis and further exacerbating symptoms. Additionally, it increases the risk of endocarditis and brain abscesses due to paradoxical emboli.
+Improve
+Classification
+Ventricular septal defects (VSDs) can be classified based on their anatomical location, size and morphology. This classification serves as a guide for prognosis, management strategies and surgical intervention.
+Anatomical Location
+Perimembranous VSD:
+Most common type, located at the junction of the membranous and muscular septum. Often associated with conduction abnormalities.
+Muscular VSD:
+Located in the muscular part of the interventricular septum. Can be further subdivided into trabecular, inlet or outlet types.
+Doubly committed subarterial (supracristal) VSD:
+Located beneath both semilunar valves. High risk for progression to aortic regurgitation due to proximity to aortic valve.
+Inlet (atrioventricular canal) VSD:
+Located close to tricuspid and mitral valves. Often seen in conjunction with atrioventricular canal defects.
+Size
+Small (restrictive):
+Defect is smaller than the diameter of the aorta. Typically asymptomatic with spontaneous closure frequently observed.
+Moderate:
+Defect is equivalent to the diameter of the aorta. May present with symptoms such as failure to thrive or recurrent respiratory infections.
+Large (non-restrictive):
+Defect is larger than the diameter of the aorta. Usually symptomatic with high risk for complications including Eisenmenger syndrome if left untreated.
+Morphology
+Singular defect:
+Only one hole present in the ventricular septum.
+Swiss cheese defect:
+Multiple small defects present in the muscular septum, resembling a Swiss cheese appearance. More challenging to manage due to potential for multiple shunts.
+The choice of surgical approach, timing and technique is largely determined by these classifications. Detailed echocardiographic evaluation is essential for accurate classification and management planning.
+Improve
+Clinical features
+A stereotypical presentation of a ventricular septal defect (VSD) often manifests in the paediatric population, typically as an incidental finding of a heart murmur during routine examination. The child may be asymptomatic or present with symptoms related to the severity of the defect.
+Presenting Features
+Cardiac Auscultation:
+A pan-systolic murmur is frequently noted at the left lower sternal border, radiating to the right lower sternal edge. This is due to turbulent blood flow from the left ventricle into the right ventricle through the septal defect.
+Failure to Thrive:
+In cases where VSD is large and uncorrected, infants may present with growth retardation or failure to thrive. This can be attributed to increased metabolic demand and decreased oral intake due to tiring easily during feeds.
+Pulmonary Overcirculation:
+Symptoms such as recurrent chest infections and exertional dyspnoea may be observed due to increased pulmonary blood flow leading to pulmonary overcirculation.
+Cyanosis:
+Although less common, cyanosis can occur if there is a significant right-to-left shunt caused by pulmonary hypertension (Eisenmenger syndrome).
+Potential Complications
+Infective Endocarditis:
+Patients with VSD are at higher risk for developing infective endocarditis. It's important that these patients receive appropriate prophylaxis when undergoing procedures that carry a risk of bacteraemia.
+Eisenmenger Syndrome:
+Long-standing untreated VSD can lead to irreversible pulmonary hypertension (Eisenmenger syndrome), which eventually results in cyanosis and right heart failure.
+Arrhythmias:
+VSD can predispose to the development of arrhythmias, particularly ventricular arrhythmias, due to the structural abnormalities and altered haemodynamics of the heart.
+The presentation and severity of symptoms in VSD are largely dependent on the size of the defect and the degree of left-to-right shunting. A small VSD may be asymptomatic and close spontaneously, while a larger defect may lead to significant haemodynamic compromise necessitating surgical intervention.
+Improve
+Investigations
+A ventricular septal defect (VSD) is typically suspected based on clinical presentation and auscultation. However, definitive diagnosis and detailed information about the size, location, and haemodynamic impact of the defect require further investigations. This section offers a structured guide to investigating a patient with suspected VSD.
+First-Line Investigations:
+Echocardiography:
+This is the primary diagnostic tool for VSD. Transthoracic echocardiography (TTE) provides valuable data regarding the size and location of the defect, direction and velocity of shunting, presence of additional defects or complications such as pulmonary hypertension or endocarditis. It can also evaluate left and right ventricular function.
+Further Investigations:
+If TTE results are inconclusive, equivocal or when more detailed anatomical information is required, these further investigations may be considered:
+Transoesophageal echocardiography (TOE):
+TOE offers superior image resolution compared to TTE and can be particularly helpful in visualising posteriorly located defects or in patients where acoustic windows are suboptimal with TTE.
+Cardiac magnetic resonance imaging (MRI):
+Cardiac MRI provides highly detailed images of cardiac structures and can accurately quantify shunt volumes. It's particularly useful in assessing for associated abnormalities or complications such as right ventricular dilatation or pulmonary hypertension.
+Cardiac catheterisation:
+While its role has largely been superseded by non-invasive methods, cardiac catheterisation may still be indicated in certain circumstances such as preoperative evaluation or when there's discrepancy between clinical findings and non-invasive tests. It allows direct measurement of pressures within heart chambers and blood vessels, oxygen saturation levels in different parts of the heart, and can also be used for angiography to visualise the defect and associated abnormalities.
+It's important to note that while these investigations provide valuable information about the VSD and its haemodynamic impact, the need for intervention should be determined based on a combination of clinical symptoms, growth parameters in children, and results from these investigations.
+Improve
+Differential diagnosis
+The differential diagnosis of ventricular septal defect (VSD) primarily includes atrial septal defect (ASD), patent ductus arteriosus (PDA), and pulmonary stenosis (PS). These conditions may present with similar clinical features, yet subtle differences in their presentations can aid in distinguishing them.
+Atrial Septal Defect:
+ASDs typically present with a softer systolic ejection murmur compared to the harsh holosystolic murmur characteristic of VSDs.
+The murmur in ASD is best heard at the upper left sternal border, while VSD's murmur is most prominent at the lower left sternal border.
+Patients with ASD often exhibit wide and fixed splitting of S2, which is not seen in VSD.
+Additionally, patients with large ASDs may develop symptoms of right heart failure such as hepatomegaly and peripheral oedema, which are less commonly associated with VSD.
+Patent Ductus Arteriosus:
+PDA classically presents with a continuous, 'machinery' murmur that contrasts the holosystolic murmur found in VSD.
+The murmur in PDA is best heard at the upper left sternal border or infraclavicular area, differing from the location for VSD.
+In contrast to VSD, bounding peripheral pulses and wide pulse pressure are distinctive features for PDA due to increased left-to-right shunting.
+Pulmonary Stenosis:
+PS often presents with a systolic ejection murmur that is best heard at the upper left sternal border, unlike the lower sternal border in VSD.
+Unlike VSD, PS may present with an ejection click following S1, and the intensity of the murmur increases with inspiration (Carvallo's sign).
+Cyanosis may be observed in severe cases of PS due to right-to-left shunting through a patent foramen ovale or ASD, which is not typical in VSD unless Eisenmenger syndrome develops.
+Improve
+Management
+The management of VSD is largely dependent on the size of the defect and its impact on pulmonary blood flow. The approach can be divided into medical management, interventional cardiac catheterisation, and surgical repair.
+Medical Management
+In asymptomatic patients with small defects, conservative management with regular follow-up to monitor for any signs of heart failure or pulmonary hypertension is recommended.
+For symptomatic infants presenting with failure to thrive or recurrent respiratory infections, initial medical therapy includes diuretics, afterload reducers, and digoxin to control symptoms of congestive heart failure.
+Interventional Cardiac Catheterisation
+This is a less invasive alternative to surgery for selected patients. It involves the placement of an occluder device via a catheter inserted through a vein or artery. This method may be considered in muscular or post-infarction VSDs.
+Surgical Repair
+Surgery remains the definitive treatment for larger defects causing significant left-to-right shunt, leading to volume overload and resultant cardiac enlargement. Early surgical intervention before development of irreversible pulmonary hypertension is vital.
+The procedure typically involves patch closure under cardiopulmonary bypass. Post-operative care in a specialist paediatric cardiac intensive care unit is required following surgery.
+Palliative Care
+In rare cases where VSD cannot be corrected due to severe comorbidities or high surgical risk, palliative care should be considered. This includes the management of symptoms, counselling and support for patients and families.
+Long-term follow-up
+All patients with a history of VSD require long-term follow-up as they are at risk of developing complications such as arrhythmias, endocarditis, or reoccurrence of the defect. The frequency of follow-ups will depend on the patient's age, size of the defect, presence of residual defects or associated anomalies.
+Improve
+Complications
+Ventricular septal defect (VSD) can lead to several complications. The severity and likelihood of these complications depend on the size and location of the defect, as well as any associated congenital heart anomalies.
+Cardiac Complications:
+Eisenmenger Syndrome:
+Chronic left-to-right shunting in large, uncorrected VSDs can result in pulmonary hypertension. Over time, this may cause a reversal of the shunt direction into right-to-left, leading to cyanosis and Eisenmenger syndrome.
+Heart Failure:
+Large defects may cause significant volume overload on the left side of the heart, leading to dilated cardiomyopathy and congestive heart failure.
+Endocarditis:
+Patients with VSD are at increased risk for infective endocarditis. Prophylaxis is usually recommended during certain dental or surgical procedures.
+Pulmonary Hypertension:
+Long-standing increased blood flow through the lungs due to left-to-right shunting can lead to vascular remodelling and pulmonary hypertension.
+Aortic Regurgitation:
+In membranous VSDs located near the aortic valve, there's an increased risk for developing aortic regurgitation due to prolapse of an aortic cusp into the defect. This complication is more common in adults with undiagnosed or untreated VSDs.
+Rhythm Disturbances:
+Ventricular arrhythmias may develop secondary to myocardial scarring from previous surgical repair or from chronic volume overload. Atrioventricular block may also occur, especially after surgical repair involving the septum.
+Neurological Complications:
+Stroke:
+In cases of Eisenmenger syndrome, there's an increased risk for paradoxical emboli leading to stroke. This is due to the reversal of shunt direction allowing venous thrombi to bypass the lung's filtration system and enter systemic circulation.
+Improve
+Prognosis
+The prognosis of ventricular septal defect (VSD) largely depends on the size and location of the defect, as well as any associated cardiac anomalies. The following factors are critical in determining the prognosis:
+Size and location of VSD:
+Small, muscular VSDs often close spontaneously within the first two years of life, resulting in a favourable prognosis. Large or membranous VSDs may persist and lead to complications such as pulmonary hypertension due to left-to-right shunting.
+Associated cardiac anomalies:
+The presence of other congenital heart defects can complicate the clinical course. These include coarctation of the aorta, patent ductus arteriosus, or more complex conditions like tetralogy of Fallot.
+Pulmonary hypertension:
+If left untreated, significant left-to-right shunting can result in pulmonary hypertension. This condition has a poorer prognosis and may lead to Eisenmenger syndrome, characterised by irreversible pulmonary vascular changes.
+In terms of survival rates, with modern surgical techniques and medical management strategies, most patients with isolated VSDs have a normal life expectancy. However, those with large defects or associated cardiac anomalies may have reduced survival rates due to increased risk for complications such as endocarditis or arrhythmias.
+Improve
+Paediatric cardiology
+Ventricular septal defect

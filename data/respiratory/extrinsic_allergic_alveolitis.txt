@@ -1,0 +1,232 @@
+Extrinsic allergic alveolitis
+Extrinsic allergic alveolitis
+Extrinsic allergic alveolitis (EAA), also known as hypersensitivity pneumonitis, is an immunologically mediated interstitial lung disease. It results from inhalation of and sensitisation to various organic dusts or specific chemicals in susceptible individuals. These antigens can be derived from numerous sources including bacteria, fungi, animal proteins, and chemical compounds.
+The pathogenesis involves both type III and IV hypersensitivity reactions. Acute exposure can lead to symptoms like
+fever
+, cough, and
+dyspnoea
+within hours of antigen exposure while chronic EAA manifests with progressive dyspnoea and cough over weeks to months.
+Radiological findings are variable but may include ground-glass opacities or nodular or reticular infiltrates on high-resolution computed tomography scan. Lung biopsy is definitive for diagnosis but bronchoalveolar lavage showing lymphocytosis can support the diagnosis. Management includes antigen avoidance and corticosteroids in severe cases.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Chronic obstructive pulmonary disease
+230.00
+Idiopathic
+pulmonary fibrosis
+8.00
+Sarcoidosis
+7.00
+Extrinsic allergic alveolitis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Extrinsic allergic alveolitis (EAA), also known as hypersensitivity pneumonitis, is a complex syndrome of varying intensity, clinical presentation, and course. It is induced by an immune response to the repeated inhalation of various antigens derived from organic dusts or low molecular weight chemicals.
+Risk Factors
+Occupational Exposure:
+Certain occupations have been associated with higher risk of developing EAA due to increased exposure to specific antigens. These include farmers (Farmer's Lung disease), bird breeders (Bird Fancier's Lung), and those working in the malt-processing industry (Malt Worker's Lung).
+Environmental Exposure:
+Environmental sources of antigenic exposure such as contaminated heating or air conditioning systems can cause EAA (Humidifier or Air-conditioner Lung).
+Hobbies:
+Certain hobbies can lead to antigen exposure and subsequent development of EAA. Examples include keeping birds as pets, playing wind instruments contaminated with moulds, or using hot tubs infected with
+Mycobacterium avium
+.
+Genetic Predisposition:
+There is evidence suggesting that certain HLA types are associated with susceptibility to develop EAA when exposed to relevant antigens.
+Underlying Causes
+The underlying cause of EAA is primarily an immunological reaction to inhaled antigens. The nature of these antigens varies widely but they are typically proteins or glycoproteins derived from bacteria, fungi, animal dander or plant material.
+Micropolyspora faeni
+,
+Thermoactinomyces vulgaris
+, and
+Saccharopolyspora rectivirgula
+are common fungal antigens associated with Farmer's Lung disease.
+Bird Fancier's Lung is typically caused by antigens derived from avian proteins present in bird droppings or feathers, particularly pigeons and budgerigars.
+Malt Worker's Lung is caused by
+Aspergillus clavatus
+, a fungus found in malt dust.
+Humidifier or Air-conditioner Lung can be caused by a variety of antigens including bacteria such as
+Bacillus subtilis
+and thermophilic actinomycetes, and fungi such as
+Aureobasidium pullulans
+.
+In susceptible individuals, these antigens induce an immune response leading to inflammation and damage within the lung parenchyma. The precise pathophysiology involves both type III (immune complex-mediated) and type IV (delayed-type hypersensitivity) reactions, although the relative contribution of each varies between patients and antigen types.
+Improve
+Pathophysiology
+Extrinsic allergic alveolitis (EAA), also known as hypersensitivity pneumonitis, is a complex lung disease resulting from an immune response to the inhalation of various environmental antigens. The pathophysiology of EAA involves intricate immunological mechanisms and can be divided into four stages: antigen exposure, sensitisation, acute inflammatory reaction, and chronic inflammation leading to fibrosis.
+Antigen Exposure
+The process begins with the inhalation of small (<5 µm) antigenic particles. These particles can be derived from a variety of sources such as moulds, bacteria, animal proteins or chemicals.
+Due to their size, these particles are capable of reaching the alveoli where they interact with the alveolar epithelium and resident immune cells.
+Sensitisation
+The inhaled antigens are processed by antigen-presenting cells (APCs) like macrophages and dendritic cells present in the lung parenchyma.
+These APCs present the antigens to T lymphocytes which leads to their activation. This stage is marked by a Th1/Th17 predominant immune response characterised by release of cytokines such as Interferon-gamma (IFN-γ), Interleukin-12 (IL-12), IL-17 etc.
+Acute Inflammatory Reaction
+On re-exposure to the same antigen, activated T-cells recognise it and mount an inflammatory response.
+This acute phase is characterised by neutrophilic infiltration in alveoli leading to diffuse alveolitis. Cytokines released during this phase cause increased vascular permeability resulting in protein-rich fluid accumulation within alveoli leading to impaired gas exchange.
+Chronic Inflammation and Fibrosis
+If the exposure to antigen continues, it leads to persistent inflammation and progression to a chronic stage.
+This stage is marked by lymphocytic alveolitis and granuloma formation. Over time, repeated injury and repair cycles lead to fibrotic changes in the lung parenchyma.
+The end result is
+pulmonary fibrosis
+characterised by loss of normal lung architecture, decreased compliance, impaired gas exchange leading to hypoxia and
+respiratory
+failure.
+The clinical manifestations of EAA largely depend on the stage of disease progression. Acute episodes are characterised by symptoms such as
+fever
+, cough,
+dyspnoea
+which occur several hours after antigen exposure. Chronic EAA presents with insidious onset of breathlessness, weight loss,
+fatigue
+and features of pulmonary fibrosis on imaging. The key pathological findings include interstitial infiltrates with lymphocytes and plasma cells, non-caseating granulomas in lung parenchyma and varying degrees of fibrosis in advanced stages.
+Improve
+Classification
+Examples
+bird fanciers' lung: avian proteins
+farmers lung: spores of
+Saccharopolyspora rectivirgula
+(formerly
+Micropolyspora faeni
+)
+malt workers' lung:
+Aspergillus clavatus
+mushroom workers' lung: thermophilic actinomycetes*
+Improve
+Clinical features
+A thorough clinical history is essential. This must include an occupational history, as certain jobs are associated with exposure to agents that can cause EEA:
+Farmers
+Particularly mushroom and potato workers, compost workers
+Animal cleaning/breeding
+Particularly avian species
+Chemical industry
+Working with paints, powders
+Smelters and hard metal workers
+A particular focus on exposure at home or at work to moulds is important, including in ventilators, air conditioners, hay or wood as this is a common causative agent.
+The presentation may be
+acute
+, with symptoms presenting 4-8 hours after exposure to causative agent and subsiding within 24-48 hours, or
+chronic
+, usually following long term low-exposure to a causative agent.
+Acute
+EEA typically presents, alongside a suggestive occupational/exposure history, with:
+Cough (productive or non-productive)
+Dyspnoea
+Fever
+Malaise
+Chest tightness
+Acute type 1
+respiratory
+failure may develop in severe cases
+Chronic
+EEA presents more insidiously, alongside a suggestive occupational/exposure history, with:
+Insidious cough/dyspnoea symptoms
+Weight loss
+Clubbing (50% of cases)
+More widespread fibrotic changes mimicking idiopathic
+pulmonary fibrosis
+On auscultation of the lungs in both cases, bilateral midzone inspiratory crepitations will likely be heard to a greater or lesser extent depending on the severity of the condition.
+Improve
+Investigations
+The diagnosis of EEA is challenging as it can present insidiously, and there is no gold standard test. It is, therefore, a combination of clinical, radiological and lung function test findings.
+Blood Tests
+Routine tests reveal largely non-specific findings but are important to rule out an infectious process.
+Full blood count
+May show a mildly increased WCC and normocytic anaemia
+Arterial blood gas
+Patients with acute hypoxia secondary to EEA may develop type 1
+respiratory
+failure
+Serum precipitant antibodies
+If there is a known, probable precipitant (e.g. suggestive symptoms in a pigeon farmer), then measuring serum IgG antibody of the precipitant can confirm humoral response to it, and diagnosis of EEA. It can also be used to track response to treatment
+In other cases where the link with a precipitant is less clear, however, serum antibody is of less use
+Imaging
+Chest X-Ray (CXR)
+May show non-specific ground-glass changes, airspace consolidation, or interstitial opacities
+High-resolution CT (HRCT) chest. Suggestive clinical history and CXR should lead to a review by the respiratory team and further imaging with HRCT to investigate further. However, HRCT may be normal in 8-18% of patients with EEA. Common features include:
+Patchy, diffuse, symmetrical ground glass opacities
+Small (<5mm) centrilobular nodules
+Patchy air trapping on expiratory imaging
+Airspace consolidation
+Changes are typically bilaterally in the mid-zones
+Lung function tests
+Lung function tests in acute EEA demonstrate a restrictive picture
+A reduction in both FEV1 and FVC, but with FEV1/FVC>80% expected
+However, chronic EEA may show features of obstructive lung disease
+The diffusing capacity for carbon monoxide (DLCO) will also likely be decreased in EEA
+Bronchoalveolar lavage (BAL)
+Fluid from BAL can be analysed for causative agents and antigens to that agent
+A negative BAL does not rule out EEA in the presence of positive lung function testing, HRCT and clinical history
+There is also generalised lymphocytosis on BAL culture
+Improve
+Differential diagnosis
+Key differentials are from other forms of interstitial lung disease or infectious lung disease
+Idiopathic
+pulmonary fibrosis
+(IPF)
+The most likely and clinically similar condition, that needs to be ruled out when EEA is suspected
+EEA's pattern of exposure correlating with symptomatic recurrence is a key differentiating feature on the history to help distinguish between the two conditions
+Furthermore, BAL in IPF is less likely to demonstrate the typical leucocytosis of seen in EEA
+Pneumonia
+Viral pneumonia is likely to be associated with a
+dry cough
+and
+fever
+, and should not recur in contrast to the natural history of EEA that is characterised by repeated short recurrences
+Similarly, bacterial pneumonia will usually be accompanied by frank lobar consolidation on CXR and productive cough
+Chronic Obstructive Pulmonary Disease
+(COPD)
+Chronic, progressive
+dyspnoea
+with cough and reduced exercise tolerance. No periods of symptoms improvement in the natural history of the disease.
+Key risk factor is smoking, and age over 60 years
+Typically a hyperinflated chest is seen on x-ray, with an obstructive picture on spirometry (FEV1/FVC <70%, reduced DLCO)
+Sarcoidosis
+A rarer auto-immune condition
+Clinical features of sarcoidosis may be very similar to EEA, but with the important addition of extra-pulmonary features associated with sarcoidosis
+These include painless cervical lymphadenopathy, red and painful eye, and arthralgia
+Asbestosis
+A rare condition following worldwide campaigns to remove asbestos from homes and workplaces
+Clinical symptoms are likely very similar to EEA, but with a history of asbestos exposure
+Imaging shows pathognomonic pleural plaques
+Improve
+Management
+British Thoracic Society (BTS) guidelines on interstitial lung disease (2008) underline the key factor in management is the identification and avoidance of the precipitating agent.
+Identification by a thorough clinical history including occupational hazards and correlation with symptom timeline of the patient.
+A causative agent may not be able to be identified in up to 25% of cases
+BAL cytology or antigen testing of the blood may confirm the causative agent
+Once identified, the removal of the causative agent is the most important part of management, and symptoms should resolve following this.
+Liaison with the employer and occupational health if the agent is work-related, and with the provision of
+respiratory
+masks and other protective equipment may be necessary
+Corticosteroids
+A trial of corticosteroids e.g. oral prednisolone can help with symptoms, mostly in patients with equivocal clinical presentation, as EEA tends to be steroid-responsive, whereas idiopathic
+pulmonary fibrosis
+does not
+This should then be tapered over a period of several weeks
+Patients with chronic EEA may benefit from long-term low dose prednisolone
+Improve
+Complications
+Fibrotic and emphysematous changes following inflammation in the lung during an acute period may lead to fibrosis, which has long term effects. Studies have found that 20% of patients with farmer's lung (EEA secondary to occupational exposure to hay dust or mould spores) developed
+emphysema
+.
+Chronic oxygen requirement
+Widespread fibrosis may result in chronic hypoxaemia requiring long-term oxygen therapy at home
+Decreased lung function will lead to a reduced ability to carry out physical activities and activities of daily living
+Improve
+Respiratory
+Extrinsic allergic alveolitis

@@ -1,0 +1,152 @@
+Biliary colic
+Biliary colic
+Biliary colic
+, a clinical manifestation of gallstone disease, typically presents as severe, episodic right upper quadrant or epigastric pain. The pathophysiology involves the transient obstruction of the cystic duct by gallstones, leading to increased gallbladder pressure and resultant pain. Pain is often precipitated by fatty meals and can radiate to the right shoulder or scapula. Associated symptoms may include
+nausea
+and
+vomiting
+. Diagnosis is primarily clinical but can be confirmed with ultrasound demonstrating cholelithiasis. Management includes analgesia and definitive treatment with cholecystectomy, either laparoscopic or open, depending on patient factors and surgical expertise. Medical management with bile acid supplements may be considered in patients unfit for surgery.
+Last updated: 27
+th
+March 2023
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Biliary colic
+1
+Acute cholecystitis
+0.14
+Ascending cholangitis
+0.05
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The primary cause of biliary colic is the presence of gallstones (cholelithiasis) that temporarily obstruct the cystic duct or common bile duct. The pain arises from the increased pressure within the gallbladder or bile ducts due to the obstruction, leading to distention and spasm.
+Risk factors
+it is traditional to refer to the '4 F's':
+Fat: obesity is thought to be a risk factor due to enhanced cholesterol synthesis and secretion
+Female: gallstones are 2-3 times more common in women. Oestrogen increases activity of HMG-CoA reductase
+Fertile: pregnancy is a risk factor
+Forty
+other notable risk factors include:
+diabetes mellitus
+rapid weight loss e.g.  weight reduction surgery
+combined oral contraceptive pill
+Improve
+Pathophysiology
+Biliary colic
+is a clinical syndrome characterised by severe, episodic abdominal pain due to transient obstruction of the cystic duct or common bile duct by gallstones. The pathophysiology behind this condition can be divided into four main stages:
+Formation of gallstones:
+The primary pathophysiological event in biliary colic is the formation of gallstones, also known as cholelithiasis. This occurs when there is an imbalance in the solubility of bile components - cholesterol, bilirubin and bile salts. If cholesterol becomes supersaturated, it precipitates to form crystals which eventually aggregate into stones.
+Movement of gallstones:
+Gallstones typically reside asymptomatically within the gallbladder. However, they can migrate into the cystic duct or common bile duct. This migration is facilitated by gallbladder contractions which occur in response to cholecystokinin (CCK), a hormone released postprandially.
+Obstruction and increased pressure:
+When a stone obstructs the cystic or common bile duct, bile flow from the gallbladder is impeded. This leads to an increase in intraluminal pressure. Subsequent distension of the gallbladder wall activates mechanoreceptors leading to visceral pain perceived in the right upper quadrant or epigastrium.
+Resolution and relief:
+Pain episodes typically resolve within one to five hours as smooth muscle around the impacted stone relaxes allowing it to dislodge back into the gallbladder or pass further down into the duodenum.
+The clinical manifestation of biliary colic includes severe episodic right upper quadrant or epigastric pain often radiating to the right shoulder or back. The pain is typically colicky in nature, meaning it comes in waves, and is associated with
+nausea
+and
+vomiting
+. These symptoms are most commonly triggered by the ingestion of a fatty meal which stimulates CCK release.
+Improve
+Clinical features
+Patients with biliary colic typically present with sudden onset, severe, and colicky pain in the RUQ or epigastrium, which may radiate to the right shoulder or scapula. The pain usually lasts for 30 minutes to several hours, and it may be associated with
+nausea
+,
+vomiting
+, diaphoresis, or bloating. Biliary colic typically occurs after a fatty meal, as cholecystokinin is released, which leads to gallbladder contraction and exacerbation of pain. Patients are usually afebrile and do not exhibit signs of systemic inflammation.
+Improve
+Investigations
+The diagnosis of biliary colic is based on the clinical presentation and supported by imaging studies.
+Initial investigations include laboratory tests such as complete blood count, liver function tests, and amylase/lipase levels to rule out other causes of abdominal pain.
+Imaging studies include:
+Abdominal ultrasound: This is the first-line imaging modality for evaluating biliary colic. It can identify gallstones, gallbladder wall thickening, and pericholecystic fluid, which are suggestive of cholecystitis. Ultrasound has a high sensitivity and specificity for detecting gallstones.
+Hepatobiliary iminodiacetic acid (HIDA) scan: This nuclear medicine study is used to assess the gallbladder function and patency of the cystic and common bile ducts. A HIDA scan can help differentiate biliary colic from
+acute cholecystitis
+.
+Magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasound (EUS): These advanced imaging techniques may be used to visualize the biliary tree and pancreatic ducts in cases where the diagnosis is uncertain or to evaluate for complications such as choledocholithiasis or
+cholangitis
+.
+Improve
+Differential diagnosis
+When considering a diagnosis of biliary colic, it is essential to differentiate from other gastrointestinal conditions that present with similar symptoms. The three most likely differential diagnoses include
+acute cholecystitis
+, peptic ulcer disease (PUD) and gastroesophageal reflux disease (GERD).
+Acute Cholecystitis
+Unlike biliary colic which typically manifests as episodic pain following meals, acute cholecystitis often presents with persistent right upper quadrant (RUQ) pain lasting more than 6 hours.
+Fever and systemic signs of inflammation such as leukocytosis are common in acute cholecystitis but uncommon in biliary colic.
+Murphy's sign - an inspiratory arrest during deep palpation of the RUQ - is positive in acute cholecystitis but not in biliary colic.
+Peptic Ulcer Disease (PUD)
+Pain due to PUD is usually located in the epigastric region and may radiate to the back, whereas biliary colic pain is typically felt in the RUQ or epigastrium and may radially refer to the right scapula.
+PUD pain tends to be chronic, gnawing or burning and often relieved by food or antacids; conversely, biliary colic pain is severe, crampy and typically triggered by fatty meals.
+Additional symptoms such as heartburn, regurgitation or dyspepsia might suggest PUD over biliary colic.
+Gastroesophageal Reflux Disease (GERD)
+While both GERD and biliary colic can present with epigastric pain, GERD is more likely to be associated with heartburn, regurgitation, and dysphagia.
+Pain from GERD often occurs after meals and may worsen when lying down or at night; this contrasts with biliary colic where pain usually occurs 1-2 hours post-prandially and lasts for 1-5 hours.
+Unlike biliary colic, GERD symptoms may improve with antacid use.
+Improve
+Management
+The management of biliary colic includes conservative measures and surgical intervention. Initial treatment consists of analgesics (e.g., NSAIDs, opioids) for pain control, and antiemetics for
+nausea
+and
+vomiting
+. Hydration and electrolyte balance should also be maintained.
+In cases where conservative management is not sufficient or if complications arise, surgical intervention may be necessary:
+Laparoscopic cholecystectomy: This is the gold standard treatment for biliary colic and cholelithiasis. The procedure involves the removal of the gallbladder through several small incisions in the abdomen. It is generally recommended for patients with recurrent episodes of biliary colic or for those with complications related to gallstones.
+Open cholecystectomy: In some cases, laparoscopic cholecystectomy may not be feasible due to adhesions, severe inflammation, or other factors. In these situations, an open cholecystectomy may be necessary, which involves a larger incision in the abdomen to remove the gallbladder.
+Endoscopic retrograde cholangiopancreatography (ERCP): ERCP is a procedure that combines endoscopy and fluoroscopy to visualize and treat bile duct stones. It may be used in cases of choledocholithiasis or
+cholangitis
+to remove stones from the common bile duct before cholecystectomy.
+Improve
+Complications
+Complications of biliary colic can be severe and potentially life-threatening. These complications are often a result of either the progression of the disease or as a consequence of surgical intervention.
+Cholecystitis
+Acute cholecystitis
+: This is an inflammation of the gallbladder that can occur when the gallstone obstructs the cystic duct for an extended period. Symptoms include severe
+right upper quadrant pain
+, fever, and leukocytosis. If left untreated, it can lead to gangrenous or emphysematous cholecystitis.
+Chronic cholecystitis: Repeated episodes of biliary colic can lead to chronic inflammation and fibrosis of the gallbladder wall.
+Pancreatitis
+Biliary pancreatitis can occur if a stone passes through the cystic duct into the common bile duct and obstructs the pancreatic duct. This results in inflammation of the pancreas, which presents with epigastric pain radiating to the back,
+nausea
+, and
+vomiting
+.
+Choledocholithiasis and Cholangitis
+Gallstones may migrate into common bile duct leading to choledocholithiasis which may further cause obstructive
+jaundice
+or
+ascending cholangitis
+.
+Ascending cholangitis is a bacterial infection secondary to obstruction most commonly caused by
+E.coli
+,
+Klebsiella spp.
+, or
+Enterococcus spp.
+. It presents with Charcot's triad (fever with rigors, jaundice, right upper quadrant pain) or Reynold's pentad (Charcot's triad plus altered mental status and septic shock).
+Gallstone Ileus
+A rare complication where a large gallstone erodes into the small bowel causing intestinal obstruction. It is characterised by abdominal pain, vomiting and constipation.
+Mirizzi Syndrome
+This syndrome occurs when a large gallstone obstructs the common hepatic duct leading to jaundice and potentially cholecystocholedochal fistula.
+Biliary Fistulas and Gallbladder Cancer
+Prolonged inflammation can lead to the formation of abnormal connections (fistulas) between the gallbladder and adjacent organs such as the duodenum or colon.
+Chronic inflammation of the gallbladder increases the risk of developing gallbladder cancer, although this is relatively rare.
+Improve
+References
+NICE - 2014 Gallstone disease: diagnosis and management
+UKMLA condition
+Biliary colic

@@ -1,0 +1,234 @@
+Alcoholic liver disease
+Alcoholic liver disease
+Alcoholic liver disease (ALD) is the term used to describe the manifestations of alcohol overconsumption, leading to inflammation and scarring of the liver tissue as a result of progressive destruction and regeneration of liver parenchyma. The spectrum of alcoholic liver disease includes three subtypes which can overlap, including alcoholic fatty liver disease, alcoholic hepatitis, and
+cirrhosis
+. It is an increasingly common condition, accounting for over a third of liver disease related deaths in the UK and rising. In the early phases of disease it is often silent with no symptoms, however without early action and cessation of alcohol consumption, it is progressive and can be fatal.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Non-alcoholic fatty liver disease
+16.50
+Alcoholic liver disease
+1
+Hepatitis C
+0.80
+Haemochromatosis
+0.06
+Autoimmune hepatitis
+0.05
+Wilson's disease
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+-
+Alcohol Consumption
+: The primary aetiological factor is chronic and excessive alcohol intake.
+-
+Genetic Predisposition
+: Genetic factors contribute to individual susceptibility, including polymorphisms affecting alcohol metabolism enzymes like alcohol dehydrogenase and aldehyde dehydrogenase.
+-
+Nutritional Status
+: Malnutrition exacerbates liver damage in alcohol abuse due to reduced hepatocyte regeneration and impaired immune response.
+-
+Co-existing Liver Conditions
+: Presence of chronic viral hepatitis, particularly
+hepatitis C
+, can accelerate the progression of alcoholic liver disease.
+Improve
+Pathophysiology
+Alcoholic liver disease (ALD) represents a spectrum of liver pathology, including steatosis, alcoholic hepatitis, fibrosis and
+cirrhosis
+. The pathogenesis of ALD is complex and multifactorial, involving both direct hepatotoxic effects of alcohol and its metabolites, as well as indirect effects related to immune dysregulation and oxidative stress.
+Metabolic Derangements
+The metabolism of ethanol occurs predominantly in the liver via alcohol dehydrogenase (ADH) and cytochrome P450 2E1 (CYP2E1), resulting in the production of acetaldehyde - a highly reactive and toxic compound that promotes hepatocellular damage.
+Chronic alcohol consumption leads to induction of CYP2E1, which not only increases acetaldehyde production but also generates reactive oxygen species (ROS), leading to oxidative stress.
+This metabolic shift towards ethanol oxidation results in an accumulation of fatty acids within the liver due to increased lipogenesis and decreased fatty acid oxidation, culminating in hepatic steatosis.
+Hepatocellular Injury
+Acetaldehyde forms adducts with proteins, lipids and DNA within hepatocytes, impairing their function and triggering inflammatory responses. Furthermore, it promotes collagen synthesis by hepatic stellate cells (HSCs), contributing to fibrogenesis.
+Oxidative stress caused by ROS leads to lipid peroxidation of cellular membranes resulting in cell death. Additionally, it can induce mitochondrial dysfunction exacerbating hepatocyte injury.
+Inflammatory Response & Fibrogenesis
+Damaged hepatocytes release danger-associated molecular patterns (DAMPs) that activate Kupffer cells, the resident macrophages in the liver. This triggers a pro-inflammatory response with the release of cytokines such as tumour necrosis factor-alpha (TNF-α).
+Chronic inflammation sets the stage for fibrogenesis. Activated HSCs transform into myofibroblasts that produce extracellular matrix proteins, including collagen, leading to fibrosis and eventually cirrhosis if alcohol consumption continues.
+Gut-Liver Axis
+Alcohol alters gut microbiota composition and impairs intestinal barrier function, leading to increased permeability and translocation of bacterial endotoxins such as lipopolysaccharide (LPS) into the portal circulation.
+LPS stimulates Kupffer cells via toll-like receptor 4 (TLR4), further amplifying hepatic inflammation and fibrogenesis.
+The pathogenesis of ALD is a dynamic process where initial reversible stages of liver injury can progress to irreversible advanced liver disease in the context of continued alcohol consumption.
+Improve
+Clinical features
+Early on in the disease, patients with alcoholic fatty liver often show no abnormal physical symptoms or signs, or present with
+non-specific
+symptoms including:
+Fatigue
+Malaise
+Abdominal pain
+Anorexia
+Weakness
+Nausea and/or vomiting
+As alcoholic liver disease is a spectrum, the signs and symptoms can differ depending on the severity of disease. Alcoholic hepatitis occurs in 30% of patients with excessive alcohol consumption, with symptoms including:
+Jaundice (common)
+Right upper quadrant pain (common)
+Hepatomegaly
+(common, present in 70% of patients with ALD)
+Generally an enlarged and smooth edge, but rarely tender to palpation
+Palmar erythema
+Peripheral oedema
+Clubbing
+Dupuytren's contracture (present in 30% of patients with alcoholic liver disease)
+Pruritis
+If there is cholestasis leading to bile salt deposition in skin
+Xanthomas
+Spider angiomas
+Multiple
+spider angiomas are characteristic of chronic liver disease, while solitary angiomas are seen in other systemic disease
+Presence of spider angiomas correspond with a higher risk of ALD related mortality
+The reported prevalence of spider angiomas in patients with
+liver cirrhosis
+is 31%
+As the liver metabolises estrogen, with progressive liver damage estrogen levels rise which can lead to a variety of
+estrogenic
+effects including:
+Gynaecomastia
+and testicular atrophy (in males)
+Loss of body hair
+Amenorrhoea (in females)
+Loss of libido
+As inflammation and scarring occurs, alcoholic cirrhosis progresses and can lead to
+portal hypertension
+resulting in its own variety of features including:
+Ascites
+(within 10 years of the diagnosis of cirrhosis, >50% of patients will develop this)
+Dilated veins (e.g. caput medusae)
+Variceal bleeding and haemorrhage
+Splenomegaly
+Improve
+Investigations
+Investigation of suspected Alcoholic liver disease (ALD) should follow a structured approach, starting with first-line investigations and then moving on to further investigations as necessary. It is important to note that ALD can often be diagnosed based on clinical features and alcohol history in the absence of other causes of liver disease.
+First-line Investigations:
+Blood tests:
+These include full blood count, liver function tests (LFTs), clotting studies, and serum electrolytes. In ALD, LFTs typically show a raised gamma-glutamyl transferase (GGT), often with an AST:ALT ratio greater than 2:1. Mildly elevated bilirubin and decreased albumin may also be present.
+AST: typically 100-200IU/L
+ALT: May be normal or only mildly raised, even in severe cases.
+Ratio of AST:ALT is normally >2, a ratio of >3 is strongly suggestive of acute alcoholic hepatitis
+Alcohol consumption questionnaires:
+Tools such as the Alcohol Use Disorders Identification Test (AUDIT) can help quantify alcohol intake and identify hazardous or harmful drinking patterns.
+Further Investigations:
+If initial investigations support a diagnosis of ALD but there are atypical features, complications or diagnostic uncertainty, further investigations may be warranted.
+Imaging:
+Ultrasound scan of the abdomen can provide information about liver size, echotexture and rule out other hepatic pathology such as gallstones or malignancy. It may also reveal signs suggestive of
+cirrhosis
+or portal hypertension.
+Liver biopsy:
+This is not routinely required for diagnosis but may be considered in cases where there is diagnostic uncertainty or if concurrent liver diseases are suspected. Liver biopsy can provide definitive evidence of ALD by demonstrating steatosis, alcoholic hepatitis or cirrhosis.
+The choice between non-invasive imaging techniques and invasive procedures like liver biopsy depends on individual patient factors including risk of procedure-related complications, comorbidities and patient preference. It is pertinent to have a detailed discussion with the patient about the risks and benefits associated with each investigative modality.
+While investigating for ALD, it is important to assess patients for evidence of decompensation (such as
+ascites
+, encephalopathy), varices and hepatocellular carcinoma, which are complications of cirrhosis. This can guide further management decisions.
+ications.
+Improve
+Differential diagnosis
+The differential diagnosis of alcoholic liver disease (ALD) includes other conditions that can cause similar clinical and laboratory findings. The three most likely alternative diagnoses are
+non-alcoholic fatty liver disease
+(NAFLD), viral hepatitis, and
+autoimmune hepatitis
+.
+Non-Alcoholic Fatty Liver Disease (NAFLD)
+NAFLD is a spectrum of diseases ranging from simple steatosis to non-alcoholic steatohepatitis (NASH), which can progress to
+cirrhosis
+. Although both NAFLD and ALD may present with
+hepatomegaly
+, elevated serum aminotransferase levels, and features of chronic liver disease, there are key differences in their clinical presentation:
+Alcohol consumption:
+Patients with ALD have a significant history of alcohol intake, while those with NAFLD do not consume alcohol in amounts considered harmful.
+Metabolic syndrome:
+NAFLD is strongly associated with obesity, type 2 diabetes mellitus, hyperlipidaemia, and hypertension. These features are less commonly seen in ALD.
+Viral Hepatitis
+Hepatitis B and C can mimic the clinical picture of ALD. However, certain aspects differentiate them:
+Serological markers:
+Presence of hepatitis B surface antigen (HBsAg) or antibodies against
+hepatitis C
+virus (anti-HCV) suggest viral etiology.
+Risk factors:
+Intravenous drug use, unsafe sexual practices, blood transfusions especially prior to 1992 in the UK are more suggestive of viral hepatitis than ALD.
+Autoimmune Hepatitis (AIH)
+This is a chronic inflammatory condition characterised by interface hepatitis on histology, hypergammaglobulinaemia, and presence of autoantibodies. AIH can be differentiated from ALD by the following:
+Autoantibodies:
+Presence of antinuclear antibody (ANA), smooth muscle antibody (SMA), or liver-kidney microsomal type 1 (LKM1) antibodies are indicative of AIH.
+Immunoglobulin levels:
+Elevated serum immunoglobulin G (IgG) is a typical finding in AIH, which is not seen in ALD.
+In conclusion, while ALD, NAFLD, viral hepatitis and AIH may present with similar clinical and laboratory findings, careful attention to the patient's history, risk factors and specific laboratory investigations can help differentiate these conditions.
+Improve
+Management
+Ideally, the aim of treatment in ALD is to prevent and/or slow the progression of liver damage, which can be fatal.
+General measures
+Alcohol abstinence
+Likely the most important part of management is the complete cessation of alcohol consumption
+This not only slows the progression of disease, but improves the long-term survival for patients, even in the late stages of disease where there is existing
+cirrhosis
+with de-compensation
+Weight loss
+This is particularly important in overweight or obese patients, where a component of liver disease may be caused by non-alcoholic fatty liver
+Vaccinations
+In the absence of past or current infection, hepatitis A and B immunisations should be provided to reduce likelihood of infection and compounding liver damage
+Nutrition
+A high protein dit should be instituted, particularly in those with alcoholic hepatitis (1-1.5g of protein/kg for adequate recovery)
+Consider feeding tube for enteral feeding if anorexia or altered mental status
+Alcohol withdrawal
+The standard for treating acute alcohol withdrawal is benzodiazepines (e.g. diazepam)
+Quick-acting benzodiazepine (e.g. lorazepam) for alcohol withdrawal seizures
+Oral lorazepam is the first-line treatment for delirium tremens in alcohol withdrawal
+Acute alcoholic hepatitis
+While there is no single approved therapy for ALD, glucocorticoids (e.g. prednisolone) are considered the standard of care for acute alcoholic hepatitis and are often used
+May improve short-term survival, but are unlikely to show a long-term benefit
+The NICE guidelines suggest the use of Maddrey's discriminant function (DF) to identify patients with severe acute alcoholic hepatitis
+DF of >32 predicts a high mortality within 90 days, and means a liver biopsy should be considered, with corticosteroid treatment initiation
+Pentoxifylline can be used as an alternative to glucocorticoids if they are contraindicated (e.g. hepatitis B viral infection, tuberculosis, other serious infection)
+End-stage ALD
+In patients with end-stage ALD (cirrhosis with decompensation), liver transplantation can be considered
+Usually must be alcohol free for >6 months
+Improve
+Complications
+Hepatic encephalopathy
+In severe cases, hepatic encephalopathy can occur as a result of significant toxin build-up (ammonia), characterised by symptoms and signs including:
+Confusion
+Drowsiness
+Hyperventilation
+Asterixis
+Fetor hepaticus
+This should be managed with supportive care plus lactulose until laxative effect is achieved.
+Portal hypertension
+This complication occurs once
+liver cirrhosis
+is established.
+If the blood vessels in the liver are blocked due to severe liver fibrosis, a high pressure develops in the portal venous system.
+This leads to large varices within the venous system in the esophagus, stomach, rectum and umbilicus.
+This results in secondary complications such as variceal haemorrhage which can be life-threatening,
+ascites
+and splenomegaly.
+Ascites can be complicated by spontaneous bacterial peritonitis (suspect in patients with abdominal distention, pain +/- fever)
+This can be managed with a transjugular intrahepatic portal-systemic shunt (TIPSS) if there is acute bleeding, particularly if gastric varices are present
+Hepato-renal syndrome
+As a result of portal hypertension, there is widespread splanchnic vasodilation
+This leads to a reduction in the effective circulating volume, which can reduce the blood flow to the kidneys, compromising the renal system and potentially leading to a life-threatening acute kidney failure
+Hepatocellular carcinoma
+Once liver cirrhosis is established, there is a significantly increased risk in development of hepatocellular carcinoma
+Hepatic ultrasound should be undertaken serially approximately every 6 months to yearly to screen for liver cancer development
+Improve
+Gastroenterology
+Alcoholic liver disease

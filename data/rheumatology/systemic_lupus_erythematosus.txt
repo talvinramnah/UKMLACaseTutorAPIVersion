@@ -1,0 +1,257 @@
+Systemic lupus erythematosus
+Systemic lupus erythematosus
+Systemic lupus erythematosus (SLE) is a multisystemic autoimmune disorder in which autoantibodies form immune complexes. SLE is a relatively rare disease with 2 English studies estimating the prevalence at 26.5 cases per 100,000.  The disease is much more common in women (around 10:1) and Afro-Caribbeans, commonly presenting between the ages of 20 and 40.
+The cause of SLE is unknown however there are many predisposing factors and triggers linked to the disease i.e. Epstein Barr virus, family history and medications (isoniazid and hydralazine).  Pathophysiology is unclear but it is thought to be due to defective apoptotic body clearance leading to immune system activation, causing inflammation.
+The treatment of SLE largely relies upon steroids and immunosuppressants alongside simple analgesia. The increased use of biologic agents has greatly improved prognosis and symptom remission.
+Last updated: 4
+th
+June 2024
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 10:1
+Condition
+Relative
+incidence
+Rheumatoid arthritis
+8.00
+Systemic lupus erythematosus
+1
+Sjogren's syndrome
+1.00
+Systemic sclerosis
+0.40
+Mixed connective tissue disease
+0.04
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Systemic Lupus Erythematosus is a complex autoimmune disorder with multifactorial aetiology that encompasses genetic, environmental, hormonal, and immunological factors.
+Genetic Factors:
+Twin and family studies highlight a strong hereditary component. Several gene loci have been identified, with the most associations found in the major histocompatibility complex (MHC) region, notably HLA-DR2 and HLA-DR
+Environmental Factors:
+UV light exposure can exacerbate the disease and even precipitate its onset in susceptible individuals. Other triggers include infections (e.g., Epstein-Barr virus) and certain drugs (hydralazine, procainamide, isoniazid, and others).
+Hormonal Factors:
+The higher prevalence of SLE in women, especially during reproductive years, points to a role for sex hormones. Oestrogen, in particular, appears to modulate immune response, thereby influencing disease activity.
+Immunological Factors:
+The hallmark of SLE is the production of a wide array of autoantibodies, notably against double-stranded DNA (dsDNA), Sm nuclear antigen, and phospholipids.
+Improve
+Pathophysiology
+Understanding the pathogenesis of SLE involves considering the interplay of innate and adaptive immunity, leading to a persistent state of inflammation and multi-organ damage.
+Breakdown of Self-Tolerance:
+A defect in central or peripheral tolerance leads to the survival of autoreactive B and T cells. This loss of tolerance allows these cells to react against self-antigens.
+Formation of Immune Complexes:
+The release of nuclear materials from apoptotic cells, coupled with the production of autoantibodies, leads to the formation of immune complexes. Defective clearance of these apoptotic cells exacerbates this process.
+Deposition of Immune Complexes:
+These immune complexes deposit in various tissues, especially the kidneys, skin, joints, and serosal surfaces. This deposition triggers a complement cascade, leading to further tissue injury.
+Activation of Innate Immunity:
+Toll-like receptors (TLRs), especially TLR7 and TLR9, recognise self-nucleic acids, stimulating dendritic cells and macrophages to produce type I interferons and pro-inflammatory cytokines.
+Inflammation and Organ Damage:
+The persistent inflammatory response damages organs directly and augments adaptive immune responses. In the kidneys, for instance, immune complex deposition leads to glomerulonephritis.
+Dysregulation of Adaptive Immunity:
+SLE is associated with hyperactivity of B cells and T helper cells, especially Th17 cells. This dysregulation further promotes autoantibody production and sustains inflammation.
+Vascular and Endothelial Dysfunction:
+Chronic inflammation leads to vascular injury, manifesting as vasculitis, Raynaud's phenomenon, and an increased risk of atherosclerosis.
+Improve
+Clinical features
+SLE is a variable disease which mimics many other illnesses. Symptoms are commonly unspecific and unpredictable. The variability of the disease makes it a common differential diagnosis.  Features can include:
+The percentages show the frequency of symptoms at onset.
+Malar/ butterfly rash
+A fixed erythematous rash of the cheek bones that spares the nasolabial folds.
+Photosensitivity
+(80%)
+Arthralgia
+(77%)
+Constitutional (53%)
+Fever,
+weight loss
+and
+malaise
+etc.
+Arthritis (44%)
+Mouth ulcers
+(35%)
+Alopecia (30%)
+Non-scarring
+Discoid erythematosus (25%)
+Erythematous raised patches with scaling and follicular plugging.
+Lymphadenopathy
+(16%)
+Livedo reticularis (14%)
+Mottled reticular patterned skin rash of purple discolouration.
+Other symptoms can be organ-specific caused by active inflammation these tend to develop within 5 years of diagnosis, such as:
+Renal (38%)
+Lupus nephritis
+Respiratory
+Pleuritis (16%)
+Pneumonitis
+Pulmonary emboli
+Cardiovascular
+Pericarditis (13%)
+Raynaud's phenomenon (33%)
+Endocarditis
+Atherosclerosis
+Neuropsychiatric (24%)
+Headache or migraine
+Seizures
+Psychosis
+SLE can also be associated with other autoimmune conditions such as anti-phospholipid syndrome (20-30%), Sjogren's disease (17.5%) and autoimmune thyroid disease (7.5%).
+These lists are not conclusive and symptoms can vary, however, this lists some symptoms commonly seen.
+Improve
+Investigations
+These investigations are recommended by BMJ best practice (updated April 2020) and when combined with clinical evidence can be diagnostic.
+Minimum required tests for suspected illness are in bold.
+Test
+Result
+FBC
+Normochromic normocytic anaemia is common alongside leucopenia and thrombocytopenia. Crucial for detection of haematological abnormalities used in diagnostic criteria.
+ESR and CRP
+ESR should be raised with a normal CRP. If CRP raised think infection or arthritis. Again, this is not part of diagnostic criteria it is crucial in the exclusion of differential causes.
+Anti-nuclear antibody
+A positive result is 95% sensitive but very non-specific without clinical features. Arguably the most important test due to the significance in all diagnostic criteria.
+Anti-dsDNA antibody titres
+Presence of this antibody is highly specific for SLE but only present in 70% of disease.
+Anti-smith antibody
+The most specific but only present in 30-40% of disease. The presence of these antibodies is diagnostic.
+Complement (C3 and C4)
+Decreased levels of complement show active disease and are usually associated with flares.
+Urea and electrolytes
+Will be deranged in
+lupus nephritis
+disease showing proteinuria and haematuria.
+Improve
+Diagnosis
+Diagnosis of SLE can be complex, the varied symptoms alongside the overlap of other connective tissue diseases make specific diagnosis difficult. Thus the diagnosis of SLE requires a combination of symptoms, examination findings and diagnostic investigations as mentioned above. With the absence of specific diagnostic combining clinical experience and judgement with research inclusion criteria such as The American College of
+Rheumatology
+Classification system 1997 which uses 11 criteria of which 4  or more are required for diagnosis (these do not need to be present at the same time). Systemic Lupus International Collaborating Clinic Index (SLICC) more recent criteria can be combined but specificity and sensitivity vary for each.
+Malar rash
+Discoid lupus
+Photosensitivity
+Non-erosive arthritis involving 2+ peripheral joints
+Oral or nasopharyngeal ulcers
+Pleuritis or pericarditis
+Renal involvement
+Seizures or psychosis
+Haematological disorder:
+Haemolytic anaemia
+Leukopenia
+Lymphopenia
+Thrombocytopenia.
+Immunological disorder:
+Anti-DNA antibody
+Anti-Sm
+Antiphospholipid antibodies.
+Positive
+anti-nuclear antibody
+( this is key in both SLICC and the updated EULAR/ ACR criteria).
+However, these criteria have previously been criticised for not identifying patients early in disease and new criteria are emerging over time, for example, EULAR and ACR have combined in 2019 to produce an updated set of criteria but how the use of these in diagnostic practice is yet to be seen.
+Improve
+Differential diagnosis
+Systemic Lupus Erythematosus (SLE) is a chronic autoimmune disease with diverse presentations, making its diagnosis challenging. It often mimics other conditions, thus necessitating a thorough differential diagnosis. The following discusses the differential diagnosis of SLE and compares it with three conditions commonly considered in the differential:
+rheumatoid arthritis
+(RA),
+mixed connective tissue disease
+(MCTD), and Sjögren's syndrome.
+1. Rheumatoid Arthritis (RA)
+Clinical Presentation:
+RA primarily presents with symmetric polyarthritis, particularly affecting the small joints of the hands and feet, unlike SLE which has a broader systemic manifestation.
+Laboratory Findings:
+RA is marked by high levels of rheumatoid factor (RF) and anti-citrullinated protein antibody (ACPA), which are less commonly elevated in SLE. In contrast, SLE is characterised by the presence of antinuclear antibodies (
+ANA
+) and anti-double-stranded DNA (anti-dsDNA) antibodies.
+Imaging:
+X-rays in RA typically show joint erosions and narrowing, which are not features initially prominent in SLE.
+Treatment Response:
+RA responds well to disease-modifying antirheumatic drugs (DMARDs) like methotrexate, which can also be used in SLE but with less specific effectiveness for joint symptoms.
+2. Mixed Connective Tissue Disease (MCTD)
+Clinical Presentation:
+MCTD features overlapping symptoms of SLE,
+scleroderma
+, and polymyositis. Raynaud's phenomenon is more pronounced in MCTD.
+Laboratory Findings:
+MCTD is characterised by high titres of U1 ribonucleoprotein (RNP) antibodies, which can also be present in SLE but are not as highly specific as in MCTD.
+Prognosis:
+The overall prognosis of MCTD can be more favourable compared to SLE, with less severe organ damage reported.
+Management:
+Treatment often includes corticosteroids and immunosuppressants, similarly used in SLE but tailored to symptom severity.
+3. Sjögren's Syndrome
+Clinical Presentation:
+Sjögren's syndrome primarily affects exocrine glands leading to dry eyes and dry mouth, symptoms that can occur in SLE but are not typically as severe or as focal as in Sjögren's.
+Laboratory Findings:
+Anti-Ro (SSA) and Anti-La (SSB) antibodies are hallmark features of Sjögren's syndrome, and while they may be present in SLE, their presence in Sjögren's is usually associated with more severe glandular dysfunction.
+Associated Conditions:
+Sjögren's can occur secondary to other autoimmune conditions, including SLE, complicating the differential diagnosis.
+Treatment:
+Management focuses on symptomatic relief of dryness in Sjögren's, whereas SLE management is broader and aimed at controlling systemic inflammation.
+Improve
+Management
+The primary goals of SLE therapy are to achieve remission or low disease activity, prevent organ damage, minimise drug toxicity, and improve quality of life. Management is individualised based on patient preferences, clinical manifestations, disease activity, severity, and comorbidities.
+Assessment of Disease Activity
+Regular assessment at each clinic visit is essential due to the heterogeneous presentation and clinical course of SLE.
+Laboratory Evaluation:
+Tests: Full blood count (FBC), erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), spot urine protein and creatinine, serum creatinine, estimated glomerular filtration rate (eGFR), anti-double-stranded DNA (dsDNA), and complement levels (C3 and C4).
+Frequency: At least every six months, more frequently in active disease.
+Additional Studies:
+Organ-specific investigations as needed, such as electrocardiogram, lung function tests, radiographs, CT scans, and biopsies.
+Management
+General Measures:
+Photoprotection, immunisations, screening for complications, smoking cessation, optimising nutrition and exercise.
+Hydroxychloroquine:
+Recommended for all patients with SLE unless contraindicated.
+Escalation of Therapy Based on Disease Activity and Severity:
+Mild Disease:
+Treatment with hydroxychloroquine, possibly with NSAIDs or low-dose glucocorticoids.
+Moderate Disease:
+Hydroxychloroquine with short-term prednisolone, often tapered. Glucocorticoid-sparing agents may be required.
+Severe Disease:
+Intensive immunosuppressive therapy (induction therapy) with high-dose glucocorticoids and other immunosuppressive agents, followed by maintenance therapy.
+Monitoring Response to Therapy:
+Patients monitored every three to four months; therapy adjusted based on clinical and laboratory measures.
+Other Treatment Considerations
+Management of comorbid conditions, specific medication issues, and precautions around pregnancy and contraception.
+Prognosis
+SLE can range from benign to rapidly progressive with severe organ failure.
+Clinical remission is rare and often not sustained.
+Morbidity and Mortality
+Mortality rates are two to five times higher than the general population.
+Major early causes of death: active disease or infection due to immunosuppression.
+Late causes of death: complications of SLE, treatment complications, and cardiovascular disease.
+Significant morbidity due to active disease and drug side effects.
+Improve
+Complications
+Systemic lupus erythematosus (SLE) can lead to a multitude of complications, some of which are more prevalent and severe than others. The following provides an overview of the most common and significant complications:
+Nephritis:
+Inflammation of the kidneys (
+lupus nephritis
+) is one of the most serious complications, affecting approximately 60% of SLE patients. This may result in proteinuria, haematuria and potentially end-stage renal disease.
+Cardiovascular disease:
+SLE significantly increases the risk for cardiovascular disease. This includes conditions such as coronary artery disease, myocarditis, pericarditis, and heart failure.
+Pulmonary complications:
+These include pleuritis with or without pleural effusion, interstitial lung disease, pulmonary hypertension and acute lupus pneumonitis.
+Neuropsychiatric lupus:
+Up to 75% of adult SLE patients experience neuropsychiatric symptoms. These can range from mild manifestations such as headache and mood disorders to severe conditions like stroke or seizures.
+Hematologic abnormalities:
+Common hematologic abnormalities include leukopenia, lymphopenia, thrombocytopenia and autoimmune hemolytic anaemia.
+The above-mentioned complications are amongst the most common; however, virtually any organ system can be affected in SLE due to its systemic nature. Other less frequent but notable complications include gastrointestinal involvement (e.g., lupus enteritis), ocular diseases (e.g., retinopathy), musculoskeletal issues (e.g., osteonecrosis), skin manifestations beyond
+malar rash
+, and increased susceptibility to infections.
+Improve
+Prognosis
+The prognosis of SLE is now very good. On the other hand, patients that develop renal involvement suffer from poorer prognosis.
+5-year survival rate around 90% and 15-year at 80%.
+Prolonged and complete remission rate (5 years without clinical or laboratory evidence of disease without treatment) lags behind
+10-20% of patients in tertiary centres will not respond to immunosuppressive therapies.
+Improve
+References
+American College of Rheumatology - Systemic Lupus Erythematosus diagnostic criteria
+Lupus UK - Useful summary of BSR guidelines on management of SLE
+Rheumatology
+Systemic lupus erythematosus

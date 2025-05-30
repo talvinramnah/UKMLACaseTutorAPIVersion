@@ -1,0 +1,126 @@
+Paget's disease of the bone
+Paget's disease of the bone
+Paget's disease is a disease of increased but uncontrolled bone turnover. It is thought to be primarily a disorder of osteoclasts, with excessive osteoclastic resorption followed by increased osteoblastic activity. Paget's disease is common (UK prevalence 5%) but symptomatic in only 1 in 20 patients. The skull, spine/pelvis, and long bones of the lower extremities are most commonly affected.
+Last updated: 28
+th
+August 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 1.5:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Genetic Factors:
+A strong familial association exists, with mutations in genes such as SQSTM1 (sequestosome 1) implicated. First-degree relatives have a seven- to ten-fold increased risk.
+Environmental Factors:
+Some studies suggest that early viral exposure may be a risk factor, though this remains inconclusive. Paramyxoviruses, including measles, have been suggested but not proven to be causative agents.
+Geographical Variations:
+Higher prevalence is noted in populations of British descent and northern latitudes, suggesting a potential interplay between genetic and environmental factors.
+Age:
+The risk of developing Paget's disease increases with age, being uncommon under the age of 40
+Sex:
+Slightly more prevalent in males than in females, though severe disease may be more common in females.
+Improve
+Pathophysiology
+Initial Lesion:
+The disease often starts with a focal lesion in one or multiple bones.
+Osteoclast Activation:
+The hallmark is an increase in osteoclastic bone resorption. These osteoclasts are larger, have more nuclei, and are more active than normal.
+Osteoblast Response:
+The increased bone resorption is followed by a compensatory increase in osteoblastic bone formation. However, the newly formed bone is architecturally disorganised, leading to weaker bone structures.
+Coupling Mechanism:
+Paget's disease is thought to have an abnormal coupling between bone resorption and formation, leading to a net gain in bone mass but with poor structural integrity.
+Sclerotic and Lytic Phases:
+Paget's disease is characterised by alternating sclerotic (bone-building) and lytic (bone-destroying) phases.
+Local Factors:
+Locally produced growth factors like IGF (Insulin-like Growth Factor) and M-CSF (Macrophage Colony-Stimulating Factor) are believed to perpetuate the cycle of abnormal bone remodelling.
+Systemic Hormones:
+While systemic hormones like calcitonin and parathyroid hormone have roles in bone metabolism, their exact contributions to the pathogenesis of Paget's disease remain uncertain.
+Complications:
+The disorganised bone architecture leads to complications like fractures, osteoarthritis in adjacent joints, and, rarely, transformation to osteosarcoma.
+Improve
+Clinical features
+Clinical features - only 5% of patients are symptomatic
+the stereotypical presentation is an older male with
+bone pain
+and an isolated
+raised ALP
+bone pain (e.g. pelvis, lumbar spine, femur)
+classical, untreated features: bowing of tibia, bossing of skull
+Improve
+Investigations
+Investigations
+bloods
+raised alkaline phosphatase
+(ALP)
+calcium and phosphate are typically normal. Hypercalcaemia may occasionally occur with prolonged immobilisation
+other markers of bone turnover include
+procollagen type I N-terminal propeptide (PINP)
+serum C-telopeptide (CTx)
+urinary N-telopeptide (NTx)
+urinary hydroxyproline
+x-rays
+osteolysis in early disease → mixed lytic/sclerotic lesions later
+skull x-ray: thickened vault,
+osteoporosis
+circumscripta
+bone scintigraphy
+increased uptake is seen focally at the sites of active bone lesions
+Improve
+Management
+The management of Paget's disease of the bone is primarily focused on controlling symptoms, slowing the progression of the disease, and managing complications. While not every patient with Paget's disease will require treatment, therapeutic intervention is recommended for individuals with symptoms or those with particular disease characteristics. The following sections outline the current recommendations in the UK, largely informed by guidelines from the National Institute for Health and Care Excellence (NICE) and the British Orthopaedic Association.
+Pharmacological Management
+Bisphosphonates
+:
+These are first-line agents for treating Paget's disease. They work by inhibiting bone resorption, thereby helping to control disease activity. Options include:
+Alendronic acid:
+This is often the first choice due to its favourable side effect profile and cost-effectiveness. It is typically given orally.
+Pamidronate and Zoledronic acid:
+These intravenous bisphosphonates may be used in patients who cannot tolerate oral bisphosphonates or in those with severe disease or refractory pain.
+Calcitonin and Plicamycin:
+These older medications are rarely used due to less favourable side effect profiles and the superior effectiveness of bisphosphonates.
+Analgesics:
+These may be used to manage
+bone pain
+associated with Paget's disease. Over-the-counter analgesics like paracetamol may be sufficient for some patients, but others may require stronger analgesics such as opioids. Nonsteroidal anti-inflammatory drugs (NSAIDs) may be beneficial for those with associated inflammatory arthritis.
+Non-Pharmacological Management
+Physical Therapy:
+Physiotherapy can be beneficial for improving mobility, reducing pain, and managing associated joint problems.
+Orthotics and Assistive Devices:
+Patients with deformities or fractures may benefit from supportive braces, walking aids, or shoe inserts to improve mobility and reduce pain.
+Surgical Management
+Surgery is reserved for patients with severe complications, including:
+Pathological fractures:
+These may require surgical fixation to allow for proper healing and to reduce pain.
+Severe osteoarthritis or joint destruction:
+Joint replacement surgery may be considered in patients with severe joint damage.
+Deformities:
+Surgical correction may be needed for severe or disabling deformities.
+Neurological complications:
+For patients with nerve compression syndromes, such as spinal stenosis, decompressive surgery may be required.
+Monitoring
+Regular monitoring of patients with Paget's disease is essential, even if they are asymptomatic. Monitoring includes periodic assessment of symptoms, physical examination, and laboratory tests (particularly serum alkaline phosphatase as a marker of disease activity). Imaging studies are not routinely needed but may be performed to evaluate disease progression or complications.
+Patients should also be monitored for the rare but serious complication of osteosarcoma. Any sudden increase in pain, particularly in a previously quiescent Paget's site, should prompt further investigation.
+Improve
+Complications
+Complications
+deafness (cranial nerve entrapment)
+bone sarcoma (1% if affected for > 10 years)
+fractures
+skull thickening
+high-output cardiac failure
+Improve
+References
+Radiopaedia.org - Paget disease (bone)
+Journal of Bone and Mineral Research - 2019 Paget's disease of the bone guidelines
+Rheumatology
+Paget's disease of the bone

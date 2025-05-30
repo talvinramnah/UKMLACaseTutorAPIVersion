@@ -1,0 +1,206 @@
+Hypertrophic obstructive cardiomyopathy
+Hypertrophic obstructive cardiomyopathy
+Hypertrophic obstructive
+cardiomyopathy
+(HOCM) is characterized by left ventricular outflow tract (LVOT) obstruction, myocardial hypertrophy, and diastolic dysfunction. Affecting 1 in 500 individuals, HOCM is primarily caused by genetic mutations in sarcomere proteins, with autosomal dominant inheritance being the most common. Clinical manifestations vary from asymptomatic to heart failure, angina,
+syncope
+, or sudden cardiac death.
+Diagnosis relies on echocardiography, revealing asymmetric septal hypertrophy, systolic anterior motion (SAM) of the mitral valve, and increased LVOT pressure gradient. Cardiac MRI provides further insight into the extent of hypertrophy and fibrosis. Genetic testing can confirm HCM and identify at-risk family members.
+Management includes beta-blockers and calcium channel blockers for symptomatic relief. In refractory cases, septal reduction therapies (septal myectomy or alcohol septal ablation) are considered. Implantable cardioverter-defibrillators (ICDs) are recommended for primary or secondary prevention of sudden cardiac death. Multidisciplinary care and family screening are essential components of HOCM management.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 30.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Aortic stenosis
+6.67
+Hypertrophic obstructive
+cardiomyopathy
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+HOCM is primarily caused by genetic mutations in sarcomere proteins, which are responsible for cardiac muscle contraction. Over 1,400 mutations have been identified, with the most common genes affected being MYH7, MYBPC3, TNNT2, and TNNI3. These mutations follow an autosomal dominant inheritance pattern, with variable penetrance and expressivity.
+Associations include
+Friedreich's ataxia
+Wolff-Parkinson White
+Improve
+Pathophysiology
+The most common defects involve a mutation in the gene encoding β-myosin heavy chain protein or myosin-binding protein C. This results in predominantly diastolic dysfunction
+left ventricle hypertrophy → decreased compliance → decreased cardiac output
+Key consequences include:
+Myocardial hypertrophy
+: The genetic mutations result in abnormal sarcomere assembly and function, leading to compensatory hypertrophy, predominantly in the interventricular septum. This asymmetric septal hypertrophy narrows the left ventricular outflow tract (LVOT).
+Diastolic dysfunction
+: Hypertrophy and myocardial disarray impair ventricular relaxation, causing reduced compliance and elevated filling pressures.
+LVOT obstruction
+: The interventricular septal hypertrophy, combined with systolic anterior motion (SAM) of the mitral valve, causes dynamic obstruction of the LVOT during systole. This increases the pressure gradient across the LVOT, reducing cardiac output and provoking symptoms.
+Mitral regurgitation
+: The SAM of the mitral valve contributes to mitral regurgitation by displacing the valve leaflets, exacerbating the hemodynamic abnormalities and worsening heart failure symptoms.
+Arrhythmogenesis
+: Myocardial disarray, fibrosis, and ischemia increase the risk of ventricular and atrial arrhythmias, which can lead to sudden cardiac death.
+Improve
+Clinical features
+The clinical presentation of HOCM is highly variable, ranging from asymptomatic to severe heart failure. Patients may experience the following symptoms:
+Exertional
+dyspnoea
+: Resulting from elevated filling pressures and reduced diastolic compliance, dyspnea is the most common symptom of HOCM.
+Angina
+: Myocardial ischemia, caused by increased oxygen demand and impaired coronary perfusion, may lead to
+chest pain
+in the absence of coronary artery disease.
+Syncope
+: Exertional syncope can be caused by LVOT obstruction, abnormal vasovagal responses, or ventricular arrhythmias.
+Palpitations
+: Patients may report palpitations due to atrial or ventricular arrhythmias, including atrial fibrillation and ventricular tachycardia.
+Heart failure
+: In advanced stages, patients can present with symptoms of congestive heart failure, including fatigue, peripheral oedema, and orthopnea.
+Physical examination may reveal the following:
+Murmurs
+: A harsh systolic ejection
+murmur
+, heard best at the left lower sternal border, may be present due to LVOT obstruction. The murmur typically increases with Valsalva manoeuvre and decreases with squatting or handgrip.
+S4 gallop
+: This can be heard in patients with impaired diastolic function, reflecting atrial contraction against a noncompliant left ventricle.
+Bifid carotid pulse
+: A rapid upstroke followed by a mid-systolic dip may be observed, known as the 'spike and dome' pulse.
+Signs of heart failure
+: Advanced HOCM may present with signs of congestive heart failure, including elevated jugular venous pressure, hepatojugular reflux, and peripheral oedema.
+Improve
+Investigations
+Transthoracic echocardiography (TTE)
+is the primary diagnostic modality for HOCM, revealing:
+Asymmetric septal hypertrophy
+: Increased interventricular septal thickness, often disproportionate to the left ventricular posterior wall.
+Systolic anterior motion (SAM) of the mitral valve
+: A key feature of HOCM, resulting in mitral regurgitation and contributing to LVOT obstruction.
+LVOT obstruction
+: Doppler imaging demonstrates increased pressure gradient across the LVOT, with ≥30 mmHg at rest or ≥50 mmHg with provocation (e.g., Valsalva manoeuvre, exercise) considered significant.
+Diastolic dysfunction
+: Impaired ventricular relaxation and elevated filling pressures may be assessed using Doppler and tissue Doppler imaging.
+A 12-lead
+ECG
+may show:
+Left ventricular hypertrophy (LVH): Sokolow-Lyon or Cornell criteria can be used to identify LVH.
+T-wave inversions: Deep, symmetric T-wave inversions in the precordial leads are suggestive of HOCM.
+Arrhythmias: Atrial fibrillation or ventricular tachycardia may be detected.
+Cardiac Magnetic Resonance Imaging (CMR)
+CMR provides detailed assessment of myocardial hypertrophy, fibrosis (using late gadolinium enhancement), and ventricular function. It can be valuable in differentiating HOCM from other causes of LVH and planning interventions.
+Exercise stress
+testing may help to:
+Evaluate functional capacity and symptom severity.
+Provoke LVOT obstruction and assess the hemodynamic response.
+Unmask exercise-induced arrhythmias.
+Genetic testing
+identifies sarcomere mutations, confirming HCM diagnosis and enabling family screening. It is important to counsel patients about the implications of genetic testing results for themselves and their relatives.
+Further investigations, such as coronary angiography, may be indicated to evaluate for coexisting coronary artery disease, particularly in older patients or those with risk factors.
+Improve
+Differential diagnosis
+The differential diagnosis of hypertrophic obstructive
+cardiomyopathy
+(HOCM) includes conditions that present similarly but differ in pathophysiology, clinical presentation and diagnostic findings. The most common alternative diagnoses to consider are
+aortic stenosis
+, coronary artery disease and athletic heart syndrome.
+Aortic Stenosis
+Clinical Presentation:
+Aortic stenosis often presents with symptoms of
+chest pain
+,
+dyspnoea
+on exertion and
+syncope
+, similar to HOCM. However, the onset of these symptoms generally occurs later in life compared to HOCM. Furthermore, patients may also exhibit symptoms related to congestive heart failure.
+Physical Examination:
+On auscultation, a harsh systolic ejection
+murmur
+best heard at the right upper sternal border is indicative of aortic stenosis. This contrasts with the systolic ejection murmur of HOCM that decreases with Valsalva manoeuvre or standing position.
+Diagnostic Findings:
+Echocardiography reveals left ventricular hypertrophy and calcification or narrowing of the aortic valve in aortic stenosis. In contrast, HOCM demonstrates asymmetrical septal hypertrophy without valvular abnormalities.
+Coronary Artery Disease
+Clinical Presentation:
+Like HOCM, coronary artery disease can present with angina pectoris and dyspnoea on exertion. However, the pain is typically more predictable in nature and associated with physical activity or emotional stress.
+Physical Examination:
+Physical examination findings may be unremarkable in stable coronary artery disease. Unlike HOCM, there is no characteristic murmur unless there is accompanying valvular heart disease.
+Diagnostic Findings:
+Electrocardiogram may show ST segment depression or T wave inversion during episodes of chest pain. Coronary angiography can confirm the diagnosis by demonstrating significant stenosis in one or more coronary arteries, a feature not seen in HOCM.
+Athletic Heart Syndrome
+Clinical Presentation:
+Athletic heart syndrome is a benign condition that can mimic HOCM due to shared features of left ventricular hypertrophy and bradycardia. However, athletes usually do not have symptoms of chest pain or syncope unless there is an underlying pathology.
+Physical Examination:
+The physical examination may reveal bradycardia and a third heart sound (S3), which are normal adaptations to regular intense exercise. There is no associated murmur as seen in HOCM.
+Diagnostic Findings:
+Echocardiography shows symmetric left ventricular hypertrophy, unlike the asymmetric hypertrophy seen in HOCM. Furthermore, the degree of hypertrophy tends to regress with detraining, which does not occur in HOCM.
+Improve
+Management
+Pharmacological interventions aim to reduce symptoms and LVOT obstruction:
+Beta-blockers: First-line agents, they decrease heart rate, prolong diastole, and reduce contractility, improving ventricular filling and reducing LVOT gradient.
+Calcium channel blockers: Verapamil is an alternative or adjunct to beta-blockers, particularly in patients with contraindications or intolerance.
+Disopyramide: This antiarrhythmic agent may be used as a second-line agent in combination with beta-blockers for refractory symptoms.
+Diuretics: Caution is warranted due to the potential for hypovolemia and exacerbation of LVOT obstruction.
+Anticoagulation: Indicated in patients with atrial fibrillation or a history of thromboembolic events.
+For patients with severe, symptomatic LVOT obstruction refractory to medical therapy, septal reduction may be considered:
+Septal myectomy: Surgical removal of a portion of the hypertrophied septum, with a low operative mortality rate and durable long-term symptomatic relief.
+Alcohol septal ablation: A percutaneous approach, involving injection of ethanol into a septal coronary artery to induce localized myocardial infarction and septal thinning. Outcomes are comparable to septal myectomy but may be less effective in patients with extreme septal thickness.
+Implantable Cardioverter-Defibrillators (ICDs) are indicated for primary or secondary prevention of sudden cardiac death in high-risk patients, including those with:
+A history of cardiac arrest or sustained ventricular arrhythmias.
+Family history of sudden cardiac death.
+Unexplained
+syncope
+.
+Severe LVH or marked LVOT obstruction.
+Collaborative care, involving cardiologists, genetic counsellors, and other specialists, is crucial for managing HOCM. Genetic testing and cascade screening of first-degree relatives are essential for early diagnosis and intervention.
+Improve
+Complications
+Hypertrophic obstructive
+cardiomyopathy
+(HOCM) presents several complications, primarily due to the obstruction of left ventricular outflow and myocardial hypertrophy. The most likely complications include:
+Heart failure:
+Diastolic dysfunction is common due to impaired ventricular relaxation and increased stiffness. Systolic dysfunction may also occur in advanced cases.
+Atrial fibrillation:
+Increased left atrial pressure and size can lead to atrial fibrillation, significantly increasing the risk of thromboembolic events such as stroke.
+Sudden cardiac death (SCD):
+Often due to ventricular arrhythmias, SCD is a significant risk, particularly in younger patients and those with a family history of HOCM-related SCD.
+Mitral regurgitation:
+Left ventricular outflow tract obstruction can cause systolic anterior motion of the mitral valve, leading to mitral regurgitation.
+Infective endocarditis:
+Patients with HOCM are at an increased risk for infective endocarditis, especially on abnormal mitral or aortic valves.
+Syncope
+and
+presyncope
+:
+These symptoms may result from arrhythmias or decreased cardiac output during exertion or postural changes.
+Lesser but notable complications include:
+Cerebral embolism:
+Secondary to atrial fibrillation or paradoxical emboli through a patent foramen ovale.
+Pulmonary hypertension:
+Chronic elevation in left atrial pressure can lead to secondary pulmonary hypertension.
+The management of these complications requires a multidisciplinary approach involving pharmacological therapy, interventional procedures, and lifestyle modifications tailored to individual patient profiles.
+Improve
+Prognosis
+Poor prognostic factors
+syncope
+family history of sudden death
+young age at presentation
+non-sustained ventricular tachycardia on 24 or 48-hour Holter monitoring
+abnormal blood pressure changes on exercise
+An increased septal wall thickness is also associated with a poor prognosis.
+Improve
+References
+European Society of Cardiology (ESC) - 2014 ESC HCOM Guidelines
+RCP - Investigation and treatment of hypertrophic cardiomyopathy
+RCP - Investigation and treatment of hypertrophic cardiomyopathy
+Cardiology
+Hypertrophic obstructive cardiomyopathy

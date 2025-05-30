@@ -1,0 +1,142 @@
+Pemphigus vulgaris
+Pemphigus vulgaris
+Pemphigus vulgaris is a rare autoimmune disorder that affects the skin and mucous membranes. It is characterized by the formation of blisters and erosions on the skin and mucous membranes, which can be painful and debilitating. The condition is caused by autoantibodies that target desmoglein proteins, which are essential for maintaining the integrity of the skin and mucous membranes. The diagnosis of pemphigus vulgaris is based on clinical examination, histopathology, and immunofluorescence studies. Treatment typically involves systemic corticosteroids, immunosuppressive agents, and other supportive measures.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.20 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Pemphigus vulgaris is an autoimmune blistering disorder with a multifactorial aetiology. The exact cause remains uncertain; however, several risk factors and underlying causes have been identified.
+Genetic predisposition:
+Certain HLA alleles, particularly HLA-DRB1*04 and HLA-DQB1*05:03, are associated with an increased susceptibility to pemphigus vulgaris. This suggests a genetic component in the disease's aetiology.
+Environmental triggers:
+Exposure to certain environmental agents may trigger the onset of pemphigus vulgaris in genetically susceptible individuals. These include medications (such as penicillamine and captopril), physical factors (like UV radiation and trauma), and viral infections (
+Herpes simplex
+,
+HIV
+). However, the exact role these triggers play in disease initiation is still under investigation.
+Immunological factors:
+There is evidence indicating that autoantibodies against desmoglein 3 (Dsg3) play a significant role in the pathogenesis of pemphigus vulgaris. Dsg3 is a transmembrane glycoprotein found within desmosomes, structures responsible for cell-cell adhesion in epithelial tissues. Autoantibody binding to Dsg3 disrupts this adhesion, leading to acantholysis and blister formation characteristic of pemphigus vulgaris.
+Hormonal influences:
+Some studies suggest that hormonal changes may influence the onset or course of pemphigus vulgaris. For example, exacerbations have been reported during pregnancy or postpartum period, indicating potential hormonal influences on disease activity.
+Psychological stress:
+There is some evidence to suggest that psychological stress may precipitate the onset or exacerbation of pemphigus vulgaris. However, more research is needed to establish a clear link between stress and disease activity.
+Improve
+Pathophysiology
+Pemphigus vulgaris is an autoimmune blistering disorder primarily affecting the skin and mucous membranes. It is characterised by acantholysis, a process which leads to intraepidermal blisters and erosions. The pathophysiology of this disease can be understood through the following mechanisms.
+Autoantibody production
+The initial step in the pathogenesis involves the production of autoantibodies against desmosomal proteins. These are cell adhesion molecules found within keratinocytes, with desmoglein 3 (Dsg3) being the primary target.
+The autoantibodies belong to the IgG class, specifically IgG4, which are produced by autoreactive B cells due to loss of immune tolerance.
+Binding of autoantibodies to desmogleins
+The circulating autoantibodies bind to Dsg3 on keratinocytes, disrupting their adhesion properties.
+This binding also triggers intracellular signalling cascades that further contribute to loss of cell adhesion, known as acantholysis.
+Acantholysis and blister formation
+Acantholysis leads to separation of keratinocytes within the epidermis, forming suprabasal intraepidermal blisters.
+These blisters are filled with serous fluid and contain detached keratinocytes, referred to as acantholytic cells.
+Clinical manifestations
+The resulting blisters and erosions manifest clinically as painful ulcers that may involve oral mucosa or skin or both.
+Mucosal involvement precedes skin lesions in majority of cases, with oral mucosa being the most commonly affected site.
+The erosions are prone to secondary bacterial infection and can cause significant morbidity if not managed promptly.
+Role of T cells
+T cells also play a role in the pathogenesis. CD4+ T helper cells promote B cell differentiation and survival, leading to autoantibody production.
+Regulatory T cells (Tregs), which normally suppress autoreactive lymphocytes, are found to be defective in pemphigus vulgaris, contributing to loss of immune tolerance.
+Improve
+Clinical features
+Cutaneous Manifestations
+The primary cutaneous manifestation of pemphigus vulgaris is flaccid bullae, which may rapidly evolve into erosions due to their fragile nature. These blisters typically arise on seemingly normal or erythematous skin and are filled with clear or slightly turbid fluid. The Nikolsky sign, which refers to the lateral extension of blistering upon applying pressure to the periphery of a lesion, is often positive in patients with PV.
+Distribution:
+Blisters can appear anywhere on the body but are most commonly observed on the trunk, face, scalp, and intertriginous areas.
+Morphology:
+Lesions vary in size from a few millimetres to several centimetres and may coalesce to form larger irregularly-shaped erosions.
+Mucosal Involvement
+Mucosal involvement is seen in approximately 50-70% of patients with pemphigus vulgaris and often precedes cutaneous manifestations. Oral mucosa is affected in nearly all cases; however, other mucosal sites such as nasal, conjunctival, oesophagal, laryngeal, genital, and anal may also be involved.
+Oral lesions:
+Painful oral erosions or ulcerations are common and often present as the initial clinical feature. These lesions can involve any part of the oral cavity including buccal mucosa, palate, gingiva, tongue, and lips. The erosions are typically irregular in shape with a yellowish-white fibrinous base and erythematous halo.
+Other mucosal sites:
+Nasal involvement may present as crusting, epistaxis or nasal congestion; conjunctival involvement can lead to conjunctivitis, symblepharon or scarring; oesophagal lesions may result in dysphagia or odynophagia; laryngeal involvement can cause hoarseness, stridor or airway obstruction; genital and anal lesions manifest as painful erosions, which may be misdiagnosed as sexually transmitted infections.
+Disease Course and Severity
+The clinical course of pemphigus vulgaris is variable and ranges from mild to severe. In mild cases, patients may present with limited oral erosions without cutaneous involvement. Moderate disease is characterized by more extensive oral lesions along with limited skin involvement. Severe pemphigus vulgaris involves widespread cutaneous blistering in addition to extensive mucosal erosions.
+Improve
+Investigations
+Pemphigus vulgaris is a complex autoimmune blistering disorder that necessitates a multi-faceted approach to investigation. The initial suspicion of the disease often arises from clinical presentation, but definitive diagnosis requires further laboratory-based investigations.
+First-line Investigations:
+Skin Biopsy:
+The single most important investigation for pemphigus vulgaris is skin biopsy. Two types of biopsies are generally performed: one for routine histopathology and another for direct immunofluorescence studies. Histopathological examination typically reveals intraepidermal blistering with acantholysis, while direct immunofluorescence demonstrates intercellular IgG and C3 deposits within the epidermis.
+Further Investigations:
+Serum Autoantibody Testing:
+This test measures circulating autoantibodies against desmoglein 1 and 3, which are the primary targets in pemphigus vulgaris. Enzyme-linked immunosorbent assay (ELISA) is frequently used due to its high sensitivity and specificity.
+Indirect Immunofluorescence (IIF):
+IIF on monkey oesophagus or human skin substrate can be used to detect circulating anti-epithelial antibodies. It's less specific than ELISA and therefore used as an adjunctive rather than a standalone test.
+The results of these investigations should be interpreted in conjunction with the patient’s clinical presentation to establish a definitive diagnosis of pemphigus vulgaris. It's also important to note that while these tests provide valuable diagnostic information, their results alone do not determine disease severity or prognosis; this must be assessed clinically.
+Improve
+Differential diagnosis
+The differential diagnosis of pemphigus vulgaris includes bullous pemphigoid, mucous membrane pemphigoid and epidermolysis bullosa acquisita. These conditions can present similarly to pemphigus vulgaris, making accurate diagnosis challenging.
+Bullous Pemphigoid
+Unlike pemphigus vulgaris which manifests with flaccid blisters, bullous pemphigoid typically presents with tense bullae often filled with clear or hemorrhagic fluid. The blisters are more robust and less likely to rupture compared to those in pemphigus vulgaris.
+Oral involvement is less common in bullous pemphigoid than in pemphigus vulgaris. When present, it is usually less severe and may be asymptomatic.
+Direct immunofluorescence (DIF) shows a linear pattern at the dermoepidermal junction in bullous pemphigoid, while a fishnet pattern of IgG deposition in the epidermis is characteristic of pemphigus vulgaris.
+Mucous Membrane Pemphigoid
+Mucous membrane pemphigoid primarily affects mucosal surfaces whereas skin involvement is secondary. In contrast, both skin and mucosal surfaces are commonly involved from the outset in pemphigus vulgaris.
+This condition tends to cause scarring, particularly conjunctival fibrosis leading to blindness - a feature not seen in pemphigus vulgaris.
+DIF shows a linear pattern at the dermoepidermal junction similar to bullous pemphigoid but different from the intercellular staining seen in pemphigus vulgaris.
+Epidermolysis Bullosa Acquisita
+Epidermolysis bullosa acquisita presents with tense blisters similar to bullous pemphigoid, but unlike both pemphigus vulgaris and bullous pemphigoid, it is often preceded by trauma (Nikolsky's sign negative).
+Mucosal involvement is less frequent compared to pemphigus vulgaris. When present, it can lead to scarring and milia formation.
+DIF shows a u-serrated pattern at the dermoepidermal junction, distinguishing it from both pemphigus vulgaris and the other two differential diagnoses.
+Improve
+Management
+First-Line Treatment
+Systemic corticosteroids are typically employed as first-line therapy. Prednisolone is the most commonly used agent.
+The aim is to achieve a rapid control of disease activity, followed by a gradual tapering of the dose to minimise potential side effects.
+Concomitant use of topical corticosteroids may be beneficial in managing localised lesions and reducing systemic steroid dosage.
+Steroid-Sparing Agents
+In patients who are refractory to corticosteroids or have contraindications, steroid-sparing immunosuppressive agents such as azathioprine, mycophenolate mofetil, or cyclophosphamide can be considered.
+Rituximab has shown efficacy in refractory cases and is increasingly being used as a first-line treatment due to its favourable safety profile. It targets CD20-positive B cells which play a crucial role in the pathogenesis of pemphigus vulgaris.
+Adjunctive Therapies
+Intravenous immunoglobulin (IVIG) and plasmapheresis are adjunctive therapies for severe or refractory cases. These treatments can help reduce antibody levels rapidly but their benefits should be weighed against potential risks and costs.
+Tetracyclines combined with nicotinamide have been used as adjuvant therapy in mild cases or during remission maintenance phase.
+Infection Prophylaxis
+Patients on high-dose steroids or other immunosuppressants should receive prophylaxis against Pneumocystis jirovecii pneumonia with co-trimoxazole.
+Prophylaxis against osteoporosis, gastric ulcers and hyperglycaemia should also be considered in patients on long-term corticosteroids.
+Management of Disease Flares
+Disease flares can be managed by increasing the dose of systemic corticosteroids or immunosuppressants. If unresponsive, consider adding other agents such as rituximab or IVIG.
+Mucosal Care
+Good oral hygiene and use of topical antiseptics can prevent secondary bacterial infection in oral lesions. Topical anaesthetics may provide symptomatic relief.
+Improve
+Complications
+Pemphigus vulgaris, a severe autoimmune blistering disorder, presents with numerous potential complications. These are primarily due to the disruption of the skin's protective barrier function and subsequent secondary issues.
+Secondary infection:
+The most common complication is secondary bacterial infection. This can be localised or systemic, potentially leading to sepsis. Common pathogens include
+Staphylococcus aureus
+and
+Streptococcus pyogenes
+.
+Nutritional deficiencies:
+Mucosal involvement often leads to difficulty in eating and swallowing, resulting in malnutrition and weight loss. This can exacerbate the patient's overall health status and delay healing.
+Fluid and electrolyte imbalance:
+Extensive skin lesions may lead to significant fluid loss, causing dehydration and electrolyte imbalances, particularly hyponatraemia and hypokalaemia.
+Steroid-induced complications:
+Prolonged high-dose corticosteroid therapy is typically required for pemphigus vulgaris management. This can result in steroid-induced diabetes mellitus, osteoporosis, hypertension, cataracts, avascular necrosis of bone, mood changes and increased susceptibility to infections.
+Ocular complications:
+In instances where ocular mucosa is involved, patients can develop conjunctivitis, keratitis or even blindness if left untreated.
+Pain management challenges:
+Pain related to skin lesions and mucosal involvement can be severe requiring complex analgesic strategies.
+Improve
+References
+DermNet NZ - Pemphigus vulgaris
+British Association of Dermatologists - 2017 Guidelines for the management of pemphigus vulgaris
+Dermatology
+Pemphigus vulgaris

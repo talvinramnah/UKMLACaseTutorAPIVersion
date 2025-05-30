@@ -1,0 +1,190 @@
+Acute interstitial nephritis
+Acute interstitial nephritis
+Acute interstitial nephritis (AIN) is an immunologically mediated renal disorder characterized by inflammation of the renal interstitium, predominantly affecting tubules and interstitial spaces. It accounts for approximately 15-27% of acute kidney injury (AKI) cases, with medications being the most common etiological factor. Drugs implicated in AIN include antibiotics (notably beta-lactams and sulfonamides), nonsteroidal anti-inflammatory drugs (NSAIDs), proton pump inhibitors (PPIs), and diuretics.
+AIN presents with varying clinical manifestations, ranging from asymptomatic AKI to overt renal failure. Patients may exhibit oliguria or polyuria, sterile pyuria, hematuria, eosinophiluria, and proteinuria. Systemic symptoms such as
+fever
+,
+rash
+,
+arthralgia
+, and peripheral
+eosinophilia
+can also be present.
+Diagnosis of AIN relies on a combination of clinical presentation, laboratory findings, and imaging studies. Renal biopsy remains the gold standard for definitive diagnosis; however, it is not routinely performed due to its invasive nature.
+Management strategies involve discontinuation of the offending agent(s) and supportive care to address electrolyte imbalances and fluid management.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Drug-induced AIN
+The majority of acute interstitial nephritis (AIN) cases are attributable to hypersensitivity reactions triggered by medications.
+Common causative drugs include antibiotics (notably beta-lactams such as penicillins and cephalosporins, sulfonamides), nonsteroidal anti-inflammatory drugs (NSAIDs), proton pump inhibitors (PPIs), diuretics, and certain antivirals or antiepileptics.
+Drug-induced AIN can occur at any age and may develop even after prolonged exposure to the offending agent.
+According to
+NICE
+and
+BNF
+, vigilance is advised when prescribing these agents in patients with pre-existing renal impairment or those on polypharmacy.
+Infection-associated AIN
+Infections represent a significant non-drug-related cause of AIN, particularly in children and immunocompromised individuals.
+Bacterial infections implicated include streptococcal species, Legionella, Mycobacterium tuberculosis, and others.
+Viral causes comprise cytomegalovirus, Epstein-Barr virus, HIV, hepatitis B and C.
+Parasitic infections such as leptospirosis can also precipitate interstitial nephritis.
+Systemic diseases and idiopathic forms
+Autoimmune conditions may lead to secondary AIN through immune-mediated mechanisms.
+Notable examples include systemic lupus erythematosus (SLE), Sjögren’s syndrome, sarcoidosis, and vasculitides (e.g., ANCA-associated).
+Less commonly, AIN occurs without an identifiable trigger (“idiopathic”).
+Tubulointerstitial nephritis with uveitis (TINU) syndrome is a notable idiopathic form seen predominantly in younger females.
+The most important aetiological factor for AIN remains drug exposure.
+Identification of the underlying cause is essential for management and prognosis.
+Improve
+Pathophysiology
+Acute interstitial nephritis (AIN)
+is typically an immune-mediated response to a variety of triggers including drugs, infections and autoimmune conditions. The pathophysiology of AIN involves several key stages:
+Trigger Exposure:
+The most common trigger for AIN is exposure to certain medications, particularly antibiotics such as penicillins and cephalosporins, non-steroidal anti-inflammatory drugs (NSAIDs), and proton pump inhibitors. Other triggers can include infections, systemic diseases or autoimmune disorders.
+Immune Response Activation:
+Upon exposure to the trigger, an immune response is initiated in genetically predisposed individuals. This process involves the activation of T cells and production of cytokines which promote inflammation.
+Infiltration of Kidney Interstitium:
+The activated T cells along with other inflammatory cells infiltrate the renal interstitium leading to inflammation and edema. This infiltration primarily affects the tubules and interstitium without significant involvement of glomeruli or blood vessels.
+Tubular Injury:
+As a result of this inflammatory process, there is injury to the renal tubules. Tubular injury leads to impaired reabsorption capacity causing urinary abnormalities such as non-nephrotic range proteinuria, sterile pyuria and eosinophiluria.
+Fibrosis Development:
+If left untreated or if the trigger continues unabated, persistent inflammation can lead to fibrosis resulting in irreversible damage to kidney function.
+The clinical manifestations of AIN largely depend on the degree of renal impairment caused by these pathological changes. Patients may present with acute kidney injury characterised by sudden decrease in glomerular filtration rate (GFR) leading to increased serum creatinine levels. Other common manifestations include urinary abnormalities such as sterile pyuria, non-nephrotic range proteinuria and eosinophiluria. In some cases, patients may also present with systemic symptoms such as
+fever
+,
+rash
+or
+arthralgia
+.
+Improve
+Clinical features
+A stereotypical presentation of acute interstitial nephritis (AIN) is often characterised by the triad of
+fever
+,
+rash
+, and
+eosinophilia
+. However, this classic triad is observed in only a small proportion of patients. The clinical presentation can be quite variable, making the condition challenging to diagnose.
+Presenting Features:
+Renal Manifestations:
+Most patients present with non-specific signs such as acute kidney injury (AKI) which is characterised by an abrupt increase in serum creatinine. Urinary abnormalities may include sterile pyuria, white blood cell casts, and mild proteinuria. Nephrotic syndrome or glomerular haematuria are uncommon.
+Fever:
+Approximately one-third of patients exhibit fever at onset. It's typically low-grade and may not correlate with the severity of renal disease.
+Rash:
+Skin rash occurs in about 15-20% of cases. The rash is usually maculopapular and non-pruritic.
+Eosinophilia:
+Peripheral eosinophilia (>500 cells/µL) is found in around half of all AIN cases but may be absent in drug-induced AIN.
+Extrarenal Manifestations:
+These can include
+arthralgia
+, myalgia, lymphadenopathy, hepatosplenomegaly, pulmonary infiltrates or pleural effusions. Neurological manifestations such as encephalopathy or peripheral neuropathy are rare but have been reported.
+The presence or absence of these features can vary significantly from patient to patient depending on the underlying cause of AIN. For instance, drug-induced AIN typically presents without systemic symptoms whereas idiopathic AIN often presents with systemic symptoms.
+Atypical Presentations:
+Chronic Interstitial Nephritis:
+Some patients may present with features of chronic kidney disease such as hypertension, anaemia and metabolic acidosis. This is often the case when AIN goes undiagnosed and untreated for a prolonged period.
+Tubulointerstitial Nephritis-Uveitis (TINU) Syndrome:
+A small subset of patients may present with bilateral anterior uveitis in addition to renal manifestations. This syndrome typically affects young women and may be associated with HLA-DRB1*0102.
+Infections:
+Infection-related AIN can manifest with symptoms related to the causative organism. For instance,
+Legionella
+,
+Leptospira
+, or
+Hantavirus
+can cause AIN with pulmonary involvement leading to pneumonia-like symptoms.
+The diagnosis of acute interstitial nephritis should be considered in any patient presenting with unexplained AKI, particularly if they have recent exposure to new drugs or have systemic features suggestive of an allergic or autoimmune process.
+Improve
+Investigations
+Investigating suspected acute interstitial nephritis (AIN) requires a systematic approach, focusing on laboratory investigations, imaging studies and sometimes renal biopsy. The aim is to confirm the diagnosis, identify any potential triggers or underlying causes and assess the extent of kidney damage.
+First-line Investigations
+Blood Tests:
+A full blood count may reveal anaemia or leukocytosis. Urea and creatinine levels will help assess renal function. Elevated levels may suggest acute kidney injury which can be seen in AIN. Electrolyte abnormalities such as hyperkalaemia or metabolic acidosis could also be present.
+Urinalysis:
+This is an essential investigation in suspected AIN. Urine dipstick testing may show haematuria and proteinuria. Microscopic examination of urine sediment can reveal white cell casts, a hallmark of AIN.
+Urine eosinophils:
+While not specific for AIN, presence of urine eosinophils (>1% of urinary leukocytes) supports the diagnosis.
+Further Investigations
+Serology:
+Autoimmune markers like antinuclear antibodies (ANA), anti-neutrophil cytoplasmic antibodies (ANCA), complement levels and rheumatoid factor might be useful if an autoimmune cause is suspected.
+Infections screening:
+Serology for infections that can trigger AIN such as
+Streptococcus
+,
+Mycoplasma
+,
+HIV
+,
+Hepatitis B and C
+, should be performed where clinically indicated.
+Radiological investigations:
+Renal ultrasound may show enlarged kidneys with increased echogenicity in AIN. However, these findings are not specific and may be seen in other renal pathologies as well.
+Renal biopsy:
+This is the gold standard for diagnosing AIN. Histological features include interstitial oedema, infiltration with inflammatory cells (mostly lymphocytes, monocytes and eosinophils), tubulitis and occasionally granuloma formation. Renal biopsy is typically reserved for cases where the diagnosis is uncertain or when there is no response to initial treatment.
+It should be noted that while investigations can support the diagnosis of AIN, they are often not definitive. The diagnosis of AIN is usually clinical, based on a combination of patient history (e.g., recent medication changes), physical examination findings and supportive laboratory data.
+Improve
+Differential diagnosis
+Acute interstitial nephritis (AIN) often presents with non-specific clinical features, which can overlap with several other renal conditions. The differential diagnosis primarily includes acute tubular necrosis (ATN), glomerulonephritis and urinary tract infections.
+1. Acute Tubular Necrosis (ATN)
+Both AIN and ATN may present with acute kidney injury (AKI) and oliguria. However, the onset is typically more abrupt in ATN, often following a significant ischaemic or toxic insult to the kidneys.
+The urinalysis in ATN usually shows muddy brown casts and epithelial cells, which are not typically seen in AIN.
+In contrast to AIN, systemic symptoms such as
+fever
+,
+rash
+or
+arthralgia
+are usually absent in ATN.
+2. Glomerulonephritis
+This condition also presents with AKI but it is frequently accompanied by haematuria and red cell casts on urinalysis - features less commonly seen in AIN.
+Glomerulonephritis often has an immunological basis; patients may have a history of recent infection (
+Streptococcus pyogenes
+) or autoimmune disease that can help distinguish it from AIN.
+Hypertension and oedema are more common presenting features in glomerulonephritis compared to AIN.
+3. Urinary Tract Infections (UTIs)
+Patients with UTIs usually present with dysuria, frequency, urgency or suprapubic pain, which are not characteristic of AIN.
+While both conditions can present with pyuria on urinalysis, bacteriuria is a distinguishing feature in UTIs.
+The presence of systemic symptoms such as fever and
+malaise
+could overlap with AIN; however, these usually resolve promptly with appropriate antibiotic therapy in UTIs.
+Improve
+Management
+The management of Acute interstitial nephritis (AIN) primarily focuses on identifying and eliminating the causative agent, managing symptoms and preventing further kidney damage. The following steps can be considered:
+Identify and remove the causative agent:
+This is the most important step in managing AIN. Drugs are the most common cause, with antibiotics, non-steroidal anti-inflammatory drugs (NSAIDs), and proton pump inhibitors being particularly implicated.
+If a drug is suspected as the cause, it should be discontinued immediately.
+Rechallenge with the suspected drug should be avoided.
+Supportive care:
+While specific treatments are being implemented, supportive care to maintain fluid and electrolyte balance is necessary.
+Maintain adequate hydration.
+Monitor renal function regularly using blood urea nitrogen (BUN) and creatinine levels.
+Corticosteroid therapy:
+If AIN is severe or if renal function does not improve after removal of the offending agent, corticosteroids may be considered.
+Prednisolone is usually preferred.
+Treatment typically lasts for 4-6 weeks followed by a slow taper over several months to prevent relapse.
+Dialysis:
+In severe cases where there's rapid decline in kidney function or presence of life-threatening complications like hyperkalemia or volume overload, dialysis might be required.
+Improve
+Complications
+Tubulointerstitial nephritis with uveitis
+Tubulointerstitial nephritis with uveitis (TINU) usually occurs in young females. Symptoms include
+fever
+, weight loss and painful, red eyes. Urinalysis is positive for leukocytes and protein.
+Improve
+Nephrology
+Acute interstitial nephritis

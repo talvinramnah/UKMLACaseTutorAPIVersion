@@ -1,0 +1,102 @@
+Episcleritis
+Episcleritis
+Episcleritis is a common ocular condition characterized by inflammation of the episclera, a thin layer of tissue between the conjunctiva and sclera. It typically presents as a localized, red area on the white part of the eye, and may be accompanied by mild discomfort or irritation. Episcleritis can be classified into two types: simple and nodular, with the latter being more severe and potentially causing vision loss if left untreated.
+The exact cause of episcleritis is unknown, but it is believed to be related to autoimmune disorders, infections, or environmental factors. Diagnosis is based on clinical examination, and laboratory tests are usually not necessary. Most cases of episcleritis resolve within a few weeks, but recurrence is common.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 45.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in females 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Episcleritis, an inflammatory condition involving the episcleral tissue of the eye, is characterised by a rapid onset of symptoms that can include redness, mild pain and irritation. The pathophysiology of this condition is not fully understood but is thought to be primarily immune-mediated and often associated with systemic inflammatory conditions.
+Immune-Mediated Inflammation
+The primary mechanism believed to underpin episcleritis is an aberrant immune response. The episclera contains a rich network of small blood vessels which may become inflamed due to an excessive or inappropriate immune response.
+Specifically, the over-activation of T cells leads to an increased release of pro-inflammatory cytokines such as interleukin (IL)-1, IL-6 and tumour necrosis factor-alpha (TNF-α).
+This heightened immune response results in vasodilation and increased permeability of the small blood vessels within the episclera.
+The subsequent influx of inflammatory cells into the episcleral tissue contributes to local inflammation and oedema, manifesting as redness and swelling observable in clinical examination.
+Vascular Changes
+In addition to direct immune-mediated inflammation, vascular changes play a significant role in the pathophysiology of episcleritis.
+The dilation and increased permeability of blood vessels result in leakage of plasma proteins into the interstitial space. This process exacerbates localised oedema and further enhances visible redness or injection.
+In more severe cases, these vascular changes can lead to scleral show (the visible extension of deeper scleral tissue), nodules or even ulceration due to prolonged inflammation.
+Systemic Associations
+Although episcleritis can occur in isolation, it is often associated with systemic inflammatory conditions. This suggests a common pathophysiological mechanism of aberrant immune response.
+Conditions such as rheumatoid arthritis, systemic lupus erythematosus, and inflammatory bowel disease have all been linked with episcleritis. In these cases, the ocular inflammation may be a local manifestation of the systemic immune dysregulation occurring within the body.
+Infectious agents, such as
+Herpes simplex virus
+, are also implicated in some cases of episcleritis. Here, direct viral invasion or post-infectious immune responses could trigger episcleral inflammation.
+Improve
+Clinical features
+Features
+red eye
+classically not painful (in comparison to scleritis), but mild pain/irritation is common
+watering and mild photophobia may be present
+in episcleritis, the injected vessels are mobile when gentle pressure is applied on the sclera
+in scleritis, vessels are deeper, hence do not move
+phenylephrine drops may be used to differentiate between episcleritis and scleritis
+phenylephrine blanches the conjunctival and episcleral vessels but not the scleral vessels
+if the eye redness improves after phenylephrine a diagnosis of episcleritis can be made
+approximately 50% of cases are bilateral
+Improve
+Differential diagnosis
+The differential diagnosis for episcleritis can be challenging due to the overlap in clinical presentation with other ocular conditions. Three common alternatives include scleritis, conjunctivitis, and keratitis.
+Scleritis
+Like episcleritis, scleritis presents with redness and discomfort; however, the pain associated with scleritis is typically more severe and may radiate to the forehead or jaw. Additionally, patients often report decreased visual acuity.
+On examination, scleral inflammation tends to be deeper and more diffuse than in episcleritis. The injected vessels in scleritis are less movable over the underlying tissue compared to those seen in episcleritis.
+Scleral oedema may also be present which gives a bluish hue to the affected area, distinguishing it from the salmon-pink colour of episcleritic inflammation.
+Conjunctivitis
+Conjunctivitis is characterised by a diffuse injection of the conjunctiva that can mimic episcleritic redness. However, unlike episcleritis, conjunctivitis often involves both eyes and is accompanied by purulent or mucopurulent discharge.
+Patients may also report a gritty sensation or foreign body feeling which is not typical of episcleritis.
+In contrast to episcleritic vessels that are radially oriented around the limbus, conjunctival vessels are randomly distributed and freely mobile over the underlying sclera.
+Keratitis
+Keratitis manifests as pain proportional to its severity, photophobia and decreased visual acuity, which are not typically seen in episcleritis.
+Fluorescein staining reveals corneal epithelial defects or infiltrates, distinguishing keratitis from episcleritis where the cornea is usually clear.
+The presence of a hypopyon or an anterior chamber reaction may also be suggestive of keratitis rather than episcleritis.
+Improve
+Management
+Initial management of episcleritis involves conservative measures such as artificial tears and cold compresses to alleviate symptoms. However, in instances where these interventions fail to provide relief, pharmacological treatment may be necessary.
+Topical Corticosteroids:
+Moderate-to-severe cases may necessitate the use of topical corticosteroids like loteprednol or prednisolone acetate. These agents help suppress inflammation and reduce
+ocular discomfort
+.
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs):
+Topical NSAIDs such as diclofenac or ketorolac can also be employed for their anti-inflammatory properties. They are particularly useful when steroids are contraindicated.
+Oral NSAIDs:
+In severe, persistent or recurrent cases, oral NSAIDs like ibuprofen can be considered. This is especially relevant in nodular episcleritis that tends not to respond well to topical treatments alone.
+Cycloplegics:
+Cycloplegic agents like cyclopentolate might be indicated in painful or photophobic cases to provide symptomatic relief by paralysing the ciliary muscle and dilating the pupil.
+In refractory or recurrent cases, consider referral to an ophthalmologist for further evaluation and management which could include systemic immunosuppressive therapy.
+Patient education about the benign nature of episcleritis and reassurance about its self-limiting course is integral to management. Advise patients on the importance of adherence to prescribed therapy and prompt follow-up in case of worsening symptoms or failure to improve within a week despite treatment.
+Improve
+Complications
+While episcleritis is generally a self-limiting condition, complications can occur. Although rare, these complications can lead to significant morbidity and should be recognised promptly.
+Potential Complications:
+Scleritis:
+This is the most common complication of episcleritis. It presents as severe ocular pain, which may radiate to the brow or jaw. Examination reveals deep redness and scleral oedema. Scleritis requires aggressive systemic therapy to prevent vision loss.
+Keratitis:
+Inflammation of the cornea can result from persistent episcleritis. Signs include photophobia, blurred vision, and a visible corneal defect on slit lamp examination.
+Uveitis:
+Episcleritis may progress to uveitis in rare cases. Symptoms include floaters, decreased visual acuity, and
+eye pain
+. The presence of cells in the anterior chamber confirms the diagnosis.
+Glaucoma:
+Chronic inflammation from episcleritis can lead to increased intraocular pressure (IOP), resulting in glaucoma. Regular IOP checks are necessary for patients with recurrent or persistent episcleritis.
+Cataract formation:
+Long-term use of topical corticosteroids for treatment of episcleritis can accelerate cataract formation. Regular ophthalmological follow-ups are essential for early detection and management.
+In addition to ocular complications, it's important to consider that episcleritis may be associated with systemic conditions such as rheumatoid arthritis, systemic lupus erythematosus and
+Tuberculosis
+. Therefore, further investigations may be warranted depending on clinical context.
+Improve
+Ophthalmology
+Episcleritis

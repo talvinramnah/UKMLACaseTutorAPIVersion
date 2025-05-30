@@ -1,0 +1,206 @@
+Idiopathic intracranial hypertension
+Idiopathic intracranial hypertension
+Idiopathic intracranial hypertension (IIH) is a disorder characterised by symptoms and signs of increased intracranial pressure without any clear cause evident on neuroimaging and other investigations. It is also known as pseudotumour cerebri. The primarily affected group are overweight women of childbearing age.  Most patients experience a gradual onset of progressively worsening symptoms, and the illness may be self-limiting or follow a chronic course. Untreated disease can lead to significant visual impairment.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in females 8:1
+Condition
+Relative
+incidence
+Brain tumours
+9.50
+Subarachnoid haemorrhage
+4.00
+Idiopathic intracranial hypertension
+1
+Central venous thrombosis
+0.43
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The cause of idiopathic intracranial hypertension is unknown.
+Significant risk factors include:
+Female gender (90% of those affected are female)
+Obesity (often associated with recent weight gain)
+Pregnancy
+Certain medications have been linked to IIH. These include:
+Combined oral contraceptive pill
+Tetracyclines (doxycycline, minocycline)
+Retinoids (isotretinoin, tretinoin)
+Lithium
+Thyroxine
+Nitrofurantoin
+Improve
+Pathophysiology
+Although many theories for IIH have been proposed, the precise pathogenesis of IIH remains unknown.
+Proposed explanations include:
+Increased cerebrospinal fluid (CSF) outflow resistance at the level of either the arachnoid granulations or CSF lymphatic drainage sites: One hypothesis proposes that microthrombosis in the sagittal sinus may block CSF absorption in the arachnoid granulations there, even in the absence of a thrombosis of sufficient size to be seen on neuroimaging studies. However, known causes of impaired CSF absorption (including subarachnoid hemorrhage and infectious meningitis) and CSF overproduction (choroid plexus papilloma) produce hydrocephalus, which is not seen in IIH.
+Obesity-related increased abdominal and intracranial venous pressure: There is some evidence to suggest that leads to IIH through increased intra-abdominal pressure, pleural pressure, cardiac filling pressure, and central venous pressure.
+Cerebral venous outflow abnormalities (e.g. venous stenoses and venous hypertension)
+Altered sodium and water retention mechanisms
+Abnormalities of vitamin A metabolism
+Improve
+Clinical features
+Symptoms of IIH are usually gradual and progressive, including:
+Common symptoms:
+Headache
+- 90%
+The features of headaches in IIH patients are variable and are not specific to IIH.
+They may be intermittent or persistent, occur daily or less frequently.
+Nausea
+and
+vomiting
+may occur in association with the headache.
+Transient visual obscurations - 70%
+These last seconds at a time and can be bilateral or unilateral.
+The frequency is variable, ranging from rare or isolated episodes to those occurring several times a day.
+The visual obscurations may be associated with changes in position (usually standing) or Valsalva
+May be due to transient optic nerve ischaemia
+Pulsatile
+tinnitus
+- 55%
+This symptom in association with a headache is very suggestive of IIH.
+Photopsia - 50%
+Bright flashes of light that may occur following changes in position, Valsalva, bright light or eye movement.
+Back pain - 50%
+Retrobulbar pain - 45%
+Less common symptoms:
+Diplopia - 30%
+Intermittent or continuous horizontal diplopia.
+Sustained visual loss - 30%
+Physical signs:
+Papilloedema
+- 95%
+Typically bilateral and symmetric, but may also be asymmetric/unilateral.
+Visual field loss
+- 95%
+Typically peripheral , but central visual field can be involved late in the course of disease or earlier if there is concurrent macular disease.
+6th nerve palsy
+Relative afferent pupillary defect
+Improve
+Investigations
+All individuals with symptoms and signs of increased intracranial pressure should be urgently referred for neuroimaging to rule out secondary causes of intracranial hypertension.
+As per British Medical Journal (BMJ) Best Practice Guidelines and European
+Headache
+Federation 2018 Guideline, first-line investigations include:
+Blood tests
+Coagulation tests to identify hypercoagulable states that are associated with a higher risk of venous thrombosis
+Endocrine disorders that may mimic IIH symptoms include Addison's disease, Cushing's syndrome, hypoparathyroidism as well as the use of growth hormones and may need to be excluded.
+Other medical conditions that may induce a secondary increase of ICP and should be identified via serologic examinations include systemic infections, uraemia and renal failure.
+Visual field testing (perimetry)
+To assess extent of visual field defects.
+Optic disc photographs
+To grade extent of
+papilloedema
+.
+MRI brain
+To rule out intracranial mass lesions and to identify structural alterations associated with IIH.
+Features suggestive of IIH include an empty sella turcica (or at least significant changes in size, shape and volume of the pituitary gland) and a flattening of the posterior optic globe.
+IIH also leads to an enlargement of the optic nerve sheath and an increased tortuosity of the optic nerve.
+Lumbar puncture
+Can be done once intracranial mass lesions are excluded on MRI.
+European federation guidelines state this investigation is mandatory in the investigation of IIH. In addition to a normal CSF composition, diagnosis of IIH requires that opening pressure, which should be measured in the
+lateral decubitus position with stretched legs and without sedative medications
+,  exceeds 25 cmH
+2
+O in adults and 28 cmH
+2
+O in children.
+Further investigations to consider are:
+Magnetic resonance venogram of head
+To rule out venous thrombosis
+Ocular coherence tomography (OCT)
+Improve
+Differential diagnosis
+In the assessment of an individual with symptoms and signs of increased intracranial pressure, secondary causes of intracranial hypertension must be considered. All of the following can cause symptoms similar to that of IIH:
+Intracranial mass lesions (tumor, abscess)
+Differences
+Tend to affect children and older adults
+May cause further focal neurological deficits such as limb weakness/paraesthesia
+May cause seizures, fluctuating level of consciousness
+Subarachnoid haemorrhage
+Differences
+Usually sudden onset (thunderclap
+headache
+)
+May cause further focal neurological deficits such as limb weakness/paraesthesia
+May cause seizures, fluctuating level of consciousness
+Obstruction of venous outflow, eg, venous sinus thrombosis, jugular vein compression, neck surgery
+Differences
+Often develops suddenly (thunderclap headache)
+May cause further focal neurological deficits such as limb weakness/paraesthesia
+May cause seizures, fluctuating level of consciousness
+Decreased CSF absorption, eg, arachnoid granulation adhesions after bacterial or other infectious meningitis, subarachnoid hemorrhage
+Differences
+Past medical history of infectious meningitis/SAH
+Malignant systemic hypertension
+Differences
+Systemic blood pressure >180/120
+Improve
+Management
+Principles of management in IIH include the
+alleviation of symptoms
+and the
+preservation of vision
+. All individuals with symptoms and signs of increased intracranial pressure should be urgently referred for neuroimaging to rule out secondary causes of intracranial hypertension in higher level care. As per European
+Headache
+Federation and BMJ Best Practice Guidelines, the management is as follows:
+Conservative
+Weight loss
+: all overweight patients should be prescribed a low sodium weight reduction programme (IIH Treatment Trial). BMJ Best Practice guidelines suggest that overweight patients should aim to lose 5-10% of total body weight.
+Where possible, potentially causative medications such as tetracyclines, retinoids and thyroid replacement therapies, should be stopped.
+Regular ophthalmic follow-up with visual field testing is required to assess response to treatment and disease course.
+Medical
+Acetazolamide is first-line for all patients with visual loss on presentation
+Topiramate may be used as an alternative and has the added benefit of causing weight loss in most patients
+Refractory cases
+loop diuretics may be used
+repeated lumbar punctures may be used as a 'holding' measure in refractory cases but are not used longer-term
+Analgesia: Paracetamol/NSAIDs are recommended first-line for head or back pain.
+Surgical
+If patients lose vision in spite of maximal medical therapy, surgical treatment by optic nerve sheath fenestration or CSF shunting can be done.
++ Ventriculoperitoneal Shunt:  Reserved for patients with refractory IIH or those with rapidly progressive visual loss. The procedure diverts excess CSF from the brain to the peritoneal cavity.
+Lumboperitoneal Shunt: Alternative to ventriculoperitoneal shunting, particularly if there are contraindications to the latter. It carries a similar risk profile and efficacy.
+Venous Sinus Stenting: A newer intervention which may be considered in patients with venous sinus stenosis and refractory symptoms.
+Optic Nerve Sheath Fenestration: Primarily used to preserve vision in patients with progressive visual loss despite medical therapy. It involves making an incision in the optic nerve sheath to allow excess CSF to escape.
+With treatment, there is usually gradual improvement and/or stabilisation, but not necessarily recovery; many patients have persistent
+papilloedema
+, elevated intracranial pressure (ICP) and persistent visual field deficits.
+Improve
+Complications
+The principal concern in patients with IIH regards the possibility of irreversible vision loss.
+The
+visual field loss
+is due to post-
+papilloedema
+optic atrophy.
+The peripheries of vision are typically affected first with predominantly nerve fibre bundle type defects.
+Symptomatic patients with extensive field loss and severe papilloedema should be considered for a surgical procedure emergently.
+Community and clinic-based studies suggest that permanent severe visual loss occurs in about 10% of patients.
+Improve
+Prognosis
+The disease often follows a protracted course of months to years. In some cases, it is self-limiting. Recurrence may occur in 25% of patients after recovery from IIH or after a period of prolonged stability.
+Permanent severe visual loss is the major morbidity associated with idiopathic intracranial hypertension (10%).
+Risk factors for poor visual outcome include:
+Increased visual loss at presentation
+Rapid development of visual loss
+High grade
+papilloedema
+Transient visual obscurations
+Improve
+References
+Patient.info - Idiopathic intracranial hypertension review
+Neurology
+Idiopathic intracranial hypertension

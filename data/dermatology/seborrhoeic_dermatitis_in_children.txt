@@ -1,0 +1,83 @@
+Seborrhoeic dermatitis in children
+Seborrhoeic dermatitis in children
+Seborrhoeic dermatitis is a common, chronic, inflammatory skin condition affecting children, characterized by erythematous patches with greasy scales predominantly on sebum-rich areas such as the scalp, face, and intertriginous zones. The aetiology remains unclear; however, it is postulated that Malassezia species play a significant role in its pathogenesis.
+Infantile seborrhoeic dermatitis typically presents within the first three months of life and may manifest as cradle cap or more extensive involvement of the nappy region and body folds. Diagnosis is primarily clinical, based on characteristic morphology and distribution patterns. Differential diagnoses include atopic dermatitis, psoriasis, and tinea infections.
+Management strategies involve topical therapies aimed at reducing inflammation and scaling. Mild cases can be treated with emollients and gentle shampooing using non-medicated shampoos. Antifungal agents such as ketoconazole are also beneficial in targeting Malassezia overgrowth.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 65.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Seborrhoeic dermatitis (SD) is a common, chronic inflammatory skin condition that predominantly affects areas of the body rich in sebaceous glands. The aetiology of SD in children is multifactorial and not fully understood. However, several risk factors and underlying causes have been identified.
+Risk Factors
+Age:
+Infants aged two weeks to 12 months are at increased risk for infantile seborrhoeic dermatitis (ISD), also known as cradle cap. This form of SD usually resolves spontaneously by the age of three years.
+Sex:
+Males may be slightly more prone to developing SD than females.
+Family history:
+A family history of atopic diseases such as eczema, asthma or hay fever has been associated with an increased risk of developing SD.
+Underlying Causes
+Malssezia species:
+These lipophilic yeasts are part of the normal skin flora but have been implicated in the pathogenesis of SD. Overgrowth or an abnormal host response to these yeasts may lead to inflammation and symptomatic disease.
+Hormonal influence:
+The onset of ISD often coincides with a surge in maternal hormones that cross the placenta before birth. These hormones stimulate the infant's sebaceous glands, leading to increased production of sebum - a substance thought to promote the growth of
+Malssezia
+.
+Weakened immune system:
+Children with immunodeficiencies are more susceptible to severe forms of SD. Conditions such as HIV/AIDS or those on immunosuppressive therapy are particularly at risk.
+Nutritional status:
+Certain nutritional deficiencies, particularly of biotin and certain essential fatty acids, may contribute to the development of SD.
+Skin barrier dysfunction:
+An impaired skin barrier function can lead to increased transepidermal water loss and susceptibility to irritants and allergens, which may trigger or exacerbate SD
+Improve
+Pathophysiology
+Seborrhoeic dermatitis
+is a chronic, recurrent inflammatory skin condition that primarily affects areas rich in sebaceous glands. Its pathophysiology in children is multifactorial and complex, involving interplay between the skin's innate immunity, external environmental factors, and the commensal yeast
+Malassezia
+.
+The first step in the pathogenesis of seborrhoeic dermatitis involves an overproduction of sebum by the sebaceous glands. This hyperseborrhea is thought to create a favourable environment for the proliferation of
+Malassezia
+yeasts.
+Malassezia
+, a lipophilic yeast, thrives in this lipid-rich environment. The yeast metabolises triglycerides present in the sebum into free fatty acids and monoglycerides. Some of these free fatty acids are highly irritating to the skin and can disrupt the stratum corneum's barrier function.
+This disruption leads to increased transepidermal water loss and decreased skin hydration, contributing to dryness and flaking characteristic of this condition. Additionally, it exposes keratinocytes to irritants such as free fatty acids leading to their activation.
+Keratinocyte activation triggers an immune response marked by release of pro-inflammatory cytokines like interleukin-1 (IL-1) and tumor necrosis factor-alpha (TNF-α). These cytokines attract neutrophils and T cells to the site of inflammation exacerbating localised inflammation.
+The immune response also leads to increased cell turnover rate causing premature desquamation or shedding of skin cells. This results in formation of visible scales or flakes on affected areas - one of the hallmarks of seborrhoeic dermatitis.
+In addition,
+Malassezia
+yeasts produce lipases and phospholipases, which further degrade the lipid matrix of the stratum corneum. This enzymatic activity contributes to skin barrier dysfunction and perpetuates the inflammatory response.
+Lastly, individual susceptibility plays a role in seborrhoeic dermatitis. Certain genetic factors can influence the skin's immune response to
+Malassezia
+, leading to varying degrees of inflammation and clinical manifestations among affected individuals.
+In summary, the pathophysiology of seborrhoeic dermatitis in children involves a complex interplay between hyperseborrhea,
+Malassezia
+overgrowth and enzymatic activity, impaired skin barrier function, an exaggerated immune response, and individual genetic factors. These elements result in characteristic manifestations such as erythema, scaling, and pruritus seen in this condition.
+Improve
+Clinical features
+It typically affects the scalp ('Cradle cap'), nappy area, face and limb flexures.
+Cradle cap is an early sign which may develop in the first few weeks of life. It is characterised by an erythematous rash with coarse yellow scales.
+Improve
+Management
+Management
+reassurance that it doesn't affect the baby and usually resolves within a few weeks
+massage a topical emollient onto the scalp to loosen scales, brush gently with a soft brush and wash off with shampoo.
+if severe/persistent a topical imidazole cream may be tried
+Improve
+Prognosis
+Seborrhoeic dermatitis in children tends to resolve spontaneously by around 8 months of age
+Improve
+Dermatology
+Seborrhoeic dermatitis in children

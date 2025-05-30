@@ -1,0 +1,130 @@
+Superficial thrombophlebitis
+Superficial thrombophlebitis
+Superficial thrombophlebitis, as the name suggests describes the inflammation associated with thrombosis of one of the superficial veins, usually the long saphenous vein of the leg. This process is usually non-infective in nature but secondary bacterial infection may rarely occur resulting in septic thrombophlebitis.
+Around 20% with superficial thrombophlebitis will have an underlying deep vein thrombosis (DVT) at presentation and 3-4% of patients will progress to a DVT if untreated. The risk of DVT is partly linked to the length of vein affected - an inflammed vein > 5 cm is more likely to have an associated DVT.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 2:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Superficial thrombophlebitis is a common venous condition characterised by thrombus formation and inflammation in the superficial veins. The aetiology of this condition is multifactorial, with several risk factors and underlying causes contributing to its development.
+Risk Factors:
+Varicose veins:
+Patients with varicose veins are at an increased risk due to venous stasis and endothelial damage.
+Venous cannulation or catheterisation:
+These procedures can cause direct trauma to the vein, triggering thrombus formation.
+Prolonged immobilisation:
+Extended periods of immobility, such as long-haul flights or bed rest, can lead to blood stasis, increasing the risk of clot formation.
+Hormonal influences:
+Conditions like pregnancy or use of oral contraceptives increase coagulability of blood, making individuals more susceptible to thrombus formation.
+Underlying Causes:
+Malignancies:
+Certain cancers can induce a hypercoagulable state through various mechanisms including release of pro-coagulant factors and compression of veins. Common malignancies associated with superficial thrombophlebitis include pancreatic cancer and lung cancer.
+Infections:
+Local infections can cause inflammation and damage to the vein wall leading to thrombus formation. Organisms commonly implicated include
+Staphylococcus aureus
+and
+Candida spp
+.
+Inflammatory diseases:
+Conditions such as Behçet's disease and Buerger's disease can cause vasculitis, leading to damage of the vein walls and subsequent thrombus formation.
+Thrombophilic disorders:
+Inherited or acquired conditions that increase the blood's tendency to clot, such as Factor V Leiden mutation and antiphospholipid syndrome, can predispose individuals to superficial thrombophlebitis.
+In summary, the aetiology of superficial thrombophlebitis is complex and multifactorial, involving both modifiable and non-modifiable risk factors. An understanding of these risk factors and underlying causes is essential for effective management and prevention strategies.
+Improve
+Pathophysiology
+Superficial thrombophlebitis (ST) is characterised by the formation of a blood clot and inflammation in a superficial vein. The pathophysiology of ST is multifactorial, involving complex interactions amongst the components of Virchow's triad: venous stasis, endothelial injury, and hypercoagulability.
+Venous Stasis
+Venous stasis refers to a decrease in blood flow velocity within the veins. This slow flow can lead to pooling of blood in dependent areas, particularly in varicose veins where valve incompetence allows retrograde flow. The stagnation of blood promotes platelet aggregation and clot formation.
+Endothelial Injury
+The integrity of the endothelium plays a vital role in maintaining haemostasis. Any disruption to this delicate lining, whether due to trauma or infection, exposes subendothelial collagen and tissue factor. These act as potent triggers for platelet adhesion and activation of the coagulation cascade respectively.
+Hypercoagulability
+An imbalance favouring pro-coagulant factors over anti-coagulant factors results in a hypercoagulable state. Conditions such as malignancy, pregnancy or use of oestrogen-containing medications can tip this balance. Pro-coagulant proteins like factor V Leiden or prothrombin G20210A mutation may also be present.
+Clinical Manifestations
+Inflammation:
+The inflammatory response is initiated by cytokines released from activated platelets and injured endothelial cells. This leads to redness, warmth and tenderness along the course of the affected vein.
+Thrombus Formation:
+Activation of the coagulation cascade results in fibrin deposition around aggregated platelets, forming a thrombus. This thrombus can occlude the vein, causing swelling and pain.
+Complications:
+If the thrombus extends into the deep venous system, there is a risk of deep vein thrombosis (DVT) or pulmonary embolism (PE). In addition, if the vein becomes secondarily infected, this can result in suppurative thrombophlebitis.
+Improve
+Clinical features
+Erythema:
+The affected area may exhibit localized redness due to inflammation of the superficial veins. The erythema follows the course of the involved vein and may be linear or patchy in distribution.
+Tenderness:
+Patients often report tenderness along the inflamed vein, which may be exacerbated upon palpation or movement of the affected limb.
+Warmth:
+The inflamed area may feel warm to touch due to increased blood flow resulting from local inflammatory processes.
+Oedema:
+Swelling may occur in the surrounding tissue as a result of venous congestion and inflammation-induced capillary leakage.
+Induration and Cord-like Vein: As thrombus formation progresses within the affected vessel, it can become firm, indurated, and palpable like a cord beneath the skin surface.
+Palpable Venous Nodules:
+In some cases, palpable nodules representing thrombosed venous segments may be detected along the course of an inflamed vein.
+Pain:
+Patients with superficial thrombophlebitis often experience pain in the affected area that worsens with ambulation or when pressure is applied overlying the inflamed vein.
+Pruritus:
+Itching around the site of inflammation can also be observed as a symptom of superficial thrombophlebitis.
+Varicosities:
+Superficial thrombophlebitis frequently occurs in the presence of pre-existing varicose veins, which may be visible as tortuous and dilated vessels on physical examination.
+Improve
+Investigations
+Superficial thrombophlebitis is typically diagnosed through a combination of clinical examination and diagnostic investigations, although the latter may not always be necessary if the presentation is clear. However, when required, investigations can help confirm the diagnosis, assess the extent of venous involvement and rule out other conditions.
+First-line Investigations
+Doppler Ultrasound:
+A duplex ultrasound scan is usually the first-line imaging technique used to diagnose superficial thrombophlebitis. This non-invasive test provides information about blood flow in the veins and can identify clots or blockages. It can also determine whether superficial thrombophlebitis has progressed to deep vein thrombosis (DVT).
+In superficial thrombophlebitis, the ultrasound typically shows a non-compressible segment of a superficial vein with surrounding echogenic material representing clot. There may also be evidence of inflammation in the surrounding tissue.
+Although Doppler ultrasound has high sensitivity and specificity for diagnosing venous thrombosis, it relies heavily on the skill and experience of the operator. Therefore, if clinical suspicion remains high despite a negative ultrasound, consider repeating the scan or using an alternative imaging modality such as magnetic resonance venography (MRV).
+Further Investigations
+If initial investigations are inconclusive or if there's a suspicion of underlying conditions, further investigations may be warranted.
+Blood tests:
+Full blood count (FBC), coagulation screen, erythrocyte sedimentation rate (ESR), C-reactive protein (CRP) and D-dimer tests can all be useful. These tests can provide evidence of inflammation or an abnormal clotting tendency which could suggest a prothrombotic state. A raised D-dimer level might indicate ongoing clot formation and degradation but it lacks specificity as it can be elevated in many conditions.
+Thrombophilia screening:
+If recurrent episodes of superficial thrombophlebitis occur without clear triggers or if there's a personal/family history suggestive of a hypercoagulable state, consider testing for inherited or acquired thrombophilias such as Factor V Leiden mutation or antiphospholipid syndrome.
+Detailed Investigation: Doppler Ultrasound
+Improve
+Differential diagnosis
+When considering the differential diagnosis of superficial thrombophlebitis, several conditions might mimic its presentation. These include cellulitis, deep vein thrombosis (DVT), and lymphangitis. It's essential to differentiate among these conditions due to their disparate management strategies.
+Cellulitis
+The clinical manifestation of cellulitis often overlaps with superficial thrombophlebitis. Both can present with erythema, warmth, swelling and tenderness over the affected area.
+However, unlike superficial thrombophlebitis which typically follows a linear pattern along the course of a vein, cellulitis usually has poorly demarcated borders and may be associated with systemic symptoms such as fever and chills.
+-In addition, while leukocytosis may be seen in both conditions, it is more common and often more pronounced in cellulitis.
+Deep Vein Thrombosis (DVT)
+DVT shares many similarities with superficial thrombophlebitis as both involve clot formation within a vein. However, DVT typically affects deeper veins of the lower extremities or pelvis.
+Clinically, DVT might present with unilateral
+leg pain
+and swelling but lacks the characteristic visible cord along a superficial vein seen in superficial thrombophlebitis.
+D-dimer levels are usually elevated in DVT but can also be raised in active cases of superficial thrombophlebitis making it less useful for differentiation.
+Lymphangitis
+Lymphangitis is an inflammation or infection of the lymphatic channels that can mimic superficial thrombophlebitis.
+Similar to superficial thrombophlebitis, lymphangitis may present with red streaks on the skin. However, these streaks often extend proximally from a source of infection and are associated with regional lymphadenopathy which is not seen in superficial thrombophlebitis.
+Systemic symptoms such as fever, chills and malaise are more common in lymphangitis compared to superficial thrombophlebitis.
+Improve
+Management
+There are currently a variety of treatment approaches to superficial thrombophlebitis. Traditionally NSAIDs have been used, with topical NSAIDs for limited and mild disease and oral NSAIDs for more severe disease.
+Topical heparinoids have also be used in the management of superficial thrombophlebitis.
+A Cochrane review however found topical NSAIDs and heparinoids have no significant benefit in terms of reducing extension or progression to DVT. Oral NSAIDs were however shown to reduce the risk of extension by 67%.
+Compression stockings are also used. Remember that the ankle-brachial pressure index (ABPI) should be measured before prescribing compression stockings, particularly if using class 2 or above stockings.
+One of the major changes to the management of superficial thrombophlebitis is the increased use of low-molecular weight heparin. This has been shown to reduce extension and transformation to DVT. SIGN produced guidelines in 2010:
+Patients with clinical signs of superficial thrombophlebitis affecting the proximal long saphenous vein should have an ultrasound scan to exclude concurrent DVT.
+Patients with superficial thrombophlebitis should have anti-embolism stockings and can be considered for treatment with prophylactic doses of LMWH for up to 30 days or fondaparinux for 45 days.
+If LMWH is contraindicated, 8-12 days of oral NSAIDS should be offered.
+Patients with superficial thrombophlebitis at, or extending towards, the sapheno-femoral junction can be considered for therapeutic anticoagulation for 6-12 weeks.
+This may be a significant departure from our current practice - the majority of patients with superficial thrombophlebitis (i.e. those affecting the long saphenous vein) should be referred for an ultrasound scan.
+Improve
+References
+Clinical Knowledge Summaries - Superficial thrombophlebitis
+Vascular surgery
+Superficial thrombophlebitis

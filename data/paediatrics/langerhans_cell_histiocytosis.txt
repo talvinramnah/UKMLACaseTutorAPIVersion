@@ -1,0 +1,127 @@
+Langerhans cell histiocytosis
+Langerhans cell histiocytosis
+Langerhans cell histiocytosis (LCH) is a rare idiopathic infiltrative condition characterised by the excessive proliferation of Langerhans cells of bone marrow and their subsequent deposition in organs.
+The disease classification of LCH has historically been debated due to the disease sharing some characteristics of a cancer but not others. Currently it is generally accepted to be a benign neoplastic condition with clinical care led by an oncologist or haematologist with input from relevant specialities.
+LCH can affect a single organ (most commonly bone or lung) or multiple organs simultaneously and typically runs a chronic and recurring course over an extended period of time.
+Due to the variability in presentation and course of the disease, LCH often goes undiagnosed for extended periods of time.
+Last updated: 27
+th
+June 2024
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+The pathogenesis of Langerhans cell histiocytosis (LCH) remains unknown. There are ongoing debates as to whether it is a reactive or neoplastic process also.
+What we do know is that Langerhans cells of the bone:
+Are myeloid dendritic cells.
+Undergo clonal proliferation.
+Proliferation is influenced by the expression of the BRAF V600E.
+This mutation also showed links to higher reactivation rates and increased treatment resistance.
+Improve
+Clinical features
+The clinical features of Langerhans cell histiocytosis are wholly dependent on the organ system affected. Around 55% of cases affect a single organ with the remaining cases showcasing a multi-organ disease.
+Bone (75%).
+Most commonly a solitary lytic lesion of the cranial vault found incidentally.
+Long bones are the second most common location which often presents as pain or a pathological fracture - femur in children, ribs in adults.
+If present within the temporal bone, recurrent otitis media may be the presenting feature.
+LCH is the most common cause of vertebra plana in children.
+Skin (40%).
+Can present as vesicles and bullae (most common in infancy) or as dermatitis, nodules or petechiae.
+Typically presents to primary care and is referred to dermatology for further investigation before a diagnosis is reached.
+Lymph nodes (20%).
+Cervical lymphadenopathy
+.
+Liver/Spleen (15%).
+Jaundice in liver involvement.
+Cystic lesions.
+Organomegaly (NB denotes worse prognosis).
+Lung (10%).
+Pneumothorax.
+Cysts and cavitating nodules.
+Central nervous system (5%).
+Diabetes insipidus.
+5 times more likely to develop in multi-system disease.
+Higher risk if solitary bone lesion present within skull.
+Risk increases with each disease recurrence
+In single system disease patients typically do not have systemic symptoms such as weight loss, fatigue, anorexia or fever however these may manifest in multi-organ disease and are more common in adults with pulmonary LCH.
+Improve
+Investigations
+Initial investigations include imaging and blood tests.
+Plain film radiographs are an appropriate initial imaging request.
+If a lytic lesion is found on a skeletal radiograph it may be appropriate to request a full skeletal surgery and chest radiograph.
+Likewise if a pulmonary nodule is discovered on a chest radiograph it may be appropriate to request a skeletal survey.
+High resolution CT scan is of benefit when pulmonary involvement is suspected and will show interstitial infiltrate in the mid and lower zones with costophrenic angle sparing. Mature disease may present with a honeycomb appearance in the same distribution.
+Some simple blood tests can help differentiate LCH from other diseases. Screening bloods should include an FBP, U+E, bone profile, LFTs and coagulation studies. Typical finding are anaemia and hypercalcaemia (due to skeletal involvement). Deranged liver enzymes, direct hyperbilirubinemia and hypoalbuminaemia may be evident if there is hepatic involvement.
+Biopsy is the gold standard investigation for diagnosis of Langerhans cell histiocytosis (LCH) with bone or skin biopsy preferred.
+Langerhans cells have distinctive morphological features however to be diagnostic they must be identified via immunohistochemical staining of CD1a or CD207 surface receptors.
+Alternatively, identification of 'Birbeck granules' by electron microscopy enables LCH to be differentiated from other proliferative disorders. However his method is less cost-effective and more time consuming than staining.
+If polyuria or polydipsia are present, diabetes insipidus must be suspected therefore urine specific gravity and osmolality should be tested alongside blood electrolytes and a water deprivation test and MRI brain arranged.
+Improve
+Differential diagnosis
+The list of differential diagnosis' is extensive given the multi-organ nature of the disease and careful consideration should be taken in exploring common and life-threatening differentials within each presenting organ system.
+Let's take the most common presentations and explore the differential diagnosis.
+Lytic bone lesion
+Benign bone cyst
+Osteochondroma
+Osteosarcoma
+Ewing's sarcoma
+Vertebra plana
+Trauma
+Osteogenesis imperfecta
+Leukaemia (most common paediatric malignancy)
+Vertebral metastases (uncommon but must be ruled out)
+Cutaneous vesicles
+Varicella zoster
+Hand, foot and mouth disease
+Herpes simplex
+Erythematous skin lesion
+Seborrhoeic dermatitis
+Atopic dermatitis
+Cavitating pulmonary nodule (adults)
+Infection e.g. abscess, tuberculosis or septic emboli
+Sarcoidosis
+Malignancy e.g. squamous cell carcinoma
+Non-infective granuloma e.g. rheumatoid nodule
+Pulmonary metastases
+Improve
+Management
+As LCH is a rare disease, there are very few clinical trials therefore less data to inform treatment guidelines. NICE have not published guidelines on the management of LCH however recommends the 'Histiocytosis Association' and 'Patient' evidence summaries for management guidelines from which the information below has been taken.
+Single organ disease:
+Bone lesion:
+Surgical curettage the mainstay of treatment for a solitary lesion.
+Radiotherapy, bisphosphonates and chemotherapy can be considered if the site of the solitary lesion is inaccesable or multiple lesions are present.
+Skin:
+Topical steroids.
+PUVA therapy.
+Lymph nodes:
+Surgical excision of a single node.
+Systemic steroids for multiple nodes.
+Chemotherapy for nodes resistant to treatment.
+Pulmonary involvement:
+Smoking cessation is key and often the only intervention required.
+Multi-system disease:
+A combination of cytotoxic medications and systemic steroids are used in multi-system disease and refractory single organ disease.
+Children: prednisolone and vinblastine with 6-mercaptopurine added after the first six weeks for a total duration of 6-12 months.
+Adults: cladribine or cytarabine is recommended for 6-12 months.
+Improve
+Prognosis
+Langerhans cell histiocytosis (LCH) has a high survival rate.
+In children, the survival rate is around 90%.
+1/3 of those patients experience complete remission
+2/3 experience chronic disease.
+In adults, the 5-year survival rate for pulmonary LCH is around 75%
+However studies have been small and only half of deaths were recorded to be due to respiratory failure.
+Improve
+Paediatric haematology
+Langerhans cell histiocytosis

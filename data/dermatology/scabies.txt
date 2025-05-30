@@ -1,0 +1,111 @@
+Scabies
+Scabies
+Scabies is caused by the mite
+Sarcoptes scabiei
+and is spread by prolonged skin contact. It typically affects children and young adults.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Scabies is primarily caused by the infestation of the skin by the ectoparasite
+Sarcoptes scabiei
+var. hominis. The transmission occurs predominantly through direct, prolonged, skin-to-skin contact with an infested individual. Several risk factors and underlying causes contribute to the incidence and spread of this condition:
+Close living conditions:
+Overcrowded environments such as nursing homes, prisons, and refugee camps facilitate rapid transmission due to increased physical contact among individuals.
+Poor hygiene practices:
+Although scabies can affect individuals regardless of hygiene status, inadequate personal hygiene may exacerbate the spread within communities.
+Socioeconomic factors:
+Lower socioeconomic status is associated with higher prevalence rates due to limited access to healthcare resources and treatment options.
+Immunocompromised states:
+Individuals with weakened immune systems, including those with HIV/AIDS or undergoing immunosuppressive therapy, are at increased risk for more severe infestations known as crusted (Norwegian) scabies.
+Crowded institutional settings:
+Hospitals, residential care facilities, and schools are common sites for outbreaks due to frequent close contact among residents or students.
+Geographical distribution:
+Higher prevalence is noted in tropical and subtropical regions where environmental conditions favour mite survival and proliferation.
+Improve
+Pathophysiology
+The scabies mite burrows into the skin, laying its eggs in the stratum corneum. The intense
+pruritus
+associated with scabies is due to a delayed-type IV hypersensitivity reaction to mites/eggs which occurs about 30 days after the initial infection.
+Improve
+Clinical features
+- widespread
+pruritus
+linear burrows on the side of fingers, interdigital webs and flexor aspects of the wrist
+in infants, the face and scalp may also be affected
+secondary features are seen due to scratching: excoriation, infection
+Improve
+Investigations
+The investigation of suspected scabies involves a systematic approach to confirm the diagnosis and rule out other differential diagnoses. Although scabies is often diagnosed clinically, certain investigations can be employed to support the diagnosis in ambiguous cases.
+First-line investigations:
+Skin scraping
+: This is the most common diagnostic test for scabies. A superficial skin scraping from a burrow or an active lesion is collected and examined under a microscope for the presence of mites, eggs, or faecal pellets. The sensitivity of this test depends on the skill of the practitioner and the quality of the sample.
+Adhesive tape test
+: Clear adhesive tape is applied to a suspected lesion and then removed. The tape is then examined under a microscope for mites or eggs. This method may be less invasive but can have variable sensitivity compared to skin scraping.
+Further investigations:
+Dermatoscopy
+: Dermatoscopy can enhance visualisation of scabies-specific features such as 'delta-wing jet' appearance (scabies burrow with mite at its end). It is non-invasive and can be performed using handheld dermatoscopes in clinical settings.
+Histopathology
+: In rare, difficult-to-diagnose cases, a skin biopsy may be performed. Histological examination can reveal burrows containing mites, eggs, or faecal matter within the stratum corneum. However, this method is more invasive and typically reserved for atypical presentations.
+Sarcoptes scabiei
+-specific PCR: Polymerase chain reaction (PCR) testing for scabies DNA from skin scrapings or biopsy samples offers high specificity but is not routinely available in all clinical settings due to cost and resource limitations.
+It should be noted that in many cases, scabies can be diagnosed based on clinical presentation alone without any laboratory confirmation, especially when there are clear signs such as characteristic burrows and typical distribution patterns of lesions.
+Improve
+Management
+Management
+permethrin 5% is first-line
+malathion 0.5% is second-line
+give appropriate guidance on use (see below)
+pruritus
+persists for up to 4-6 weeks post eradication
+Patient guidance on treatment (from NICE)
+avoid close physical contact with others until treatment is complete
+all household and close physical contacts should be treated at the same time, even if asymptomatic
+launder, iron or tumble dry clothing, bedding, towels, etc., on the first day of treatment to kill off mites.
+The BNF advises to apply the insecticide to all areas, including the face and scalp, contrary to the manufacturer's recommendation. Patients should be given the following instructions:
+apply the insecticide cream or liquid to cool, dry skin
+pay close attention to areas between fingers and toes, under nails, armpit area, creases of the skin such as at the wrist and elbow
+allow to dry and leave on the skin for 8-12 hours for permethrin, or for 24 hours for malathion, before washing off
+reapply if insecticide is removed during the treatment period, e.g. If wash hands, change nappy, etc
+repeat treatment 7 days later
+Improve
+Complications
+Scabies, an infestation caused by the mite
+Sarcoptes scabiei
+, can lead to several complications if not promptly and effectively treated. The most common complications include:
+Secondary bacterial infection:
+Commonly caused by
+Staphylococcus aureus
+or
+Streptococcus pyogenes
+. This can lead to impetigo, cellulitis, abscess formation, and potentially more severe systemic infections such as sepsis.
+Eczema:
+Excoriation from intense
+pruritus
+can exacerbate underlying eczema or lead to the development of eczematous dermatitis.
+Less common but serious complications include:
+Norwegian (crusted) scabies:
+This severe form of scabies occurs primarily in immunocompromised individuals or those with neurological diseases. It is characterised by hyperkeratotic crusts teeming with mites and a high risk of transmission.
+Scabies nodules:
+Inflammatory reactions to mite fragments may persist for several weeks even after successful eradication of the mites, forming persistent nodules especially in male genital region.
+Ecthyma:
+A severe form of impetigo that extends into the dermis, causing painful fluid- or pus-filled sores that turn into deep ulcers.
+Improve
+References
+Clinical Knowledge Summaries - Scabies guidelines
+Dermatology
+Scabies

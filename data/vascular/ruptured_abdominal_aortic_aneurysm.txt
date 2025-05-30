@@ -1,0 +1,186 @@
+Ruptured abdominal aortic aneurysm
+Ruptured abdominal aortic aneurysm
+An abdominal aortic aneurysm (AAA) is a dilatation of the abdominal aorta greater than 3cm in diameter. At diameters greater than 5cm there is a significant risk of rupture and this event is life threatening and treated as a time critical medical emergency. Despite significant developments in screening and treatment, ruptured AAAs still result in many deaths each year.
+Last updated: 9
+th
+May 2024
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Renal stones
+15.00
+Acute pyelonephritis
+10.00
+Ruptured abdominal aortic aneurysm
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+There are a number of risk factors which are linked with a ruptured AAA:
+Female gender
+Around 75% of AAA patients are male and the current NHS screening programme is only for men.
+However the risk of rupture is much higher in women diagnosed with a AAA and can occur in aneurysms of a smaller diameter.
+Age
+Current NICE guidance is that all men over 55 be offered screening and all women over 70 with risk factors be offered screening for AAAs.
+Smoking
+Being a current smoker or having a significant smoking history are both the greatest risks for developing a AAA.
+Chronic obstructive pulmonary disease (COPD)
+There is an association between COPD and development of a AAA, especially in older women. It is likely this is simply a reflection of a significant smoking history.
+Hypertension
+Poorly controlled hypertension is a significant risk for AAA rupture.
+Existing vascular disease
+The presence of peripheral vascular disease, coronary heart disease or cerebrovascular disease indicates a higher risk of developing a AAA.
+Family history
+There appears to be a genetic link in AAAs and having a first degree relative with a AAA confers a higher risk, especially to women.
+It is important here to note that diabetes mellitus does not confer a higher risk of developing a AAA or of it rupturing when diagnosed. Diabetics therefore do not need to undergo screening any earlier than suggested by the national screening programme.
+Improve
+Pathophysiology
+The underlying cause of a AAA is usually atherosclerotic disease and there is a clear pathophysiological process from aneurysm formation to rupture:
+Deposition of lipids within the wall of the abdominal aorta and atheroma formation causes the development of an inflammatory environment.
+The inflammation subsequently causes release and activation of matrix metalloprotease enzymes from inflammatory cells which result in damage of the internal and external elastic laminae of the aortic wall.
+The loss of the elastic laminae reduce the ability of the vessel wall to cope with the variance in pressure between systole and diastole and over time the aorta dilates.
+The ongoing dilation causes a fibrotic response in the wall which results in both further loss of elasticity and thinning and loss of tensile strength of the vessel wall.
+The eventual result of this process is that the aortic wall is significantly weaker than is required to counteract the systolic pressure.
+Coupled with pre-existing hypertension the result is spontaneous AAA rupture.
+Improve
+Clinical features
+The symptoms of a ruptured AAA depend on the severity and time since onset:
+Pain
+This is the most common symptom present in approximately 80-90% of cases and is often described as back or
+loin pain
+. Some people describe it as
+abdominal pain
+which radiates through into the back.
+Cardiovascular failure
+Even small ruptures cause significant haemorrhage and although posteriorly located ruptures can tamponade and temporarily self-contain, the volume can easily be multiple litres. The result is rapidly progressive
+tachycardia
+and
+hypotension
+(shock) which is poorly responsive to volume resuscitation. All AAA ruptures will eventually develop a state of shock with anteriorly located ruptures often developing severe hypovolaemia within minutes.
+Distal ischaemia
+If there is a haematoma within the aneurysm cavity, small quantities of this can embolise when the AAA ruptures and cause distal arterial occlusion. This can present anywhere on the spectrum of acute lower limb ischaemia and may rarely (<10%) be the presenting feature of a AAA.
+Death
+Approximately 33% of patients will die at the time of rupture and it should always be kept in mind as a differential for sudden death in middle age. Without treatment all AAA ruptures will eventually lead to death and it can be considered a terminal event.
+Improve
+Investigations
+The screening test for a AAA is an abdominal ultrasound to visualise the abdominal aorta and perform a two-dimensional measurement of the aortic diameter. Ultrasound is also a quick diagnostic test in the emergency department to rule out a AAA as a cause of abdominal or
+back pain
+as it can be performed by the bedside and gives an instant objective measurement of aortic diameter.
+Once a AAA has been diagnosed or known AAA patient has been admitted with a suspected rupture, the required investigations are used to plan treatment. The gold-standard imaging is a CT angiogram as this allows for a three-dimensional picture of the aneurysm to be created and this can be used to plan for surgery to repair it.
+Along with imaging, a patient with a ruptured AAA should have the following blood tests taken:
+Full blood count to ascertain whether there is a low platelet count which may require transfusion and affect surgical bleeding risk.
+Renal function (urea and electrolytes) as if the aneurysm is treated endovascularly the patient will be exposed to large volumes of contrast and pre-existing renal failure may contraindicate this.
+A coagulation screen should be performed to ensure there is no underlying bleeding risk as during any vascular procedure intravenous heparin is used and the dose may need adjustment if there is a bleeding disorder.
+Valid blood grouping is
+essential
+and ideally once the patient is in a hospital with
+vascular surgery
+an a procedure is planned, several units should be crossmatched in preparation for theatre.
+Improve
+Differential diagnosis
+Ruptured AAAs can present in a similar way to many other conditions and should always be kept in mind when considering these common problems:
+Back pain
+In patients over 50 presenting with acute and severe back pain you should always consider an abdominal ultrasound to measure the aortic dimension to rule out a AAA as the cause of the pain.
+Acute pancreatitis
+Measure the serum amylase or lipase in all patients presenting with acute abdominal or upper back pain.
+If this is normal or only mildly raised, consider ultrasound imaging of the abdomen urgently to exclude a AAA as a cause of the pain.
+Renal colic
+In patients with symptoms of renal colic, even with a previous history of stones and a urine dip positive for blood, consider an abdominal ultrasound as this will both indicate ureteric or renal obstruction and give an aortic diameter measurement to rule out or diagnose a AAA.
+Lower limb ischaemia
+Although an acutely ischaemic lower limb is a medical emergency, when looking for a cause, or indeed when performing angiographic imaging to look for the location of the occlusion, consider abdominal imaging to look at the aorta to rule out a AAA as the cause.
+Improve
+Management
+Initial Assessment and Stabilisation
+Upon suspicion of ruptured AAA, initial assessment focuses on stabilising the patient’s vital signs while preparing for definitive surgical intervention:
+Airway, Breathing, Circulation (ABCs):
+Secure the airway and support breathing.
+Assess circulation and address
+hypotension
+aggressively with controlled fluid resuscitation to maintain perfusion while avoiding exacerbation of hypertension which can increase bleeding.
+Rapid Diagnostic Assessment:
+Use focused assessment with sonography for trauma (FAST) or a bedside ultrasound to quickly identify free fluid in the abdomen indicative of haemorrhage.
+A computed tomography (CT) scan of the abdomen can confirm the diagnosis if the patient's condition allows.
+Surgical Management
+The definitive treatment for ruptured AAA is surgical repair, which can be approached in two ways:
+Open Surgical Repair (OSR):
+This traditional method involves a midline abdominal incision to directly visualise and repair the aorta.
+The damaged aortic segment is replaced with a synthetic graft.
+Endovascular Aneurysm Repair (EVAR):
+This is a less invasive option where a stent graft is placed within the aneurysm through the femoral arteries using fluoroscopic guidance.
+EVAR reduces operative time, blood loss, and hospital stay but requires suitable aneurysm anatomy and available expertise.
+Selection of Surgical Technique
+The choice between OSR and EVAR depends on several factors including the patient’s physiological status, aneurysm anatomy, and the presence of comorbid conditions.
+Current guidelines suggest EVAR as the preferred approach in haemodynamically stable patients due to its lower perioperative mortality.
+In haemodynamically unstable patients, the rapid availability of EVAR and local expertise are critical considerations; otherwise, OSR remains the intervention of choice.
+Postoperative Care
+Monitoring in Intensive Care: Patients require close monitoring in the intensive care unit (ICU) postoperatively. Focus on maintaining cardiovascular stability, adequate renal perfusion, and respiratory support.
+Complication Management: including
+renal failure
+myocardial infarction
+bowel ischaemia
+limb ischaemia
+Improve
+Complications
+If a patient survives treatment for a ruptured AAA there are a number of complications which they can develop. Some are generalised to both open and endovascular treatment:
+Acute limb ischaemia can be caused by either embolus of clot from the aneurysm site or by injury to the lower limb vessels, especially in endovascular repair.
+Both open and endovascular repair require sacrifice or occlusion of the inferior mesenteric artery and this can lead to bowel ischaemia if the marginal arterial supply to the left colon is inadequate. At open surgery this can be detected and either re-implantation of the inferior mesenteric can be performed or a primary bowel resection can be done depending on the surgeon's preference. Bowel ischaemia detected later confers a poor prognosis.
+Abdominal compartment syndrome can occur following either form of treatment but is more common in open surgery. The syndrome is of rising intra-abdominal pressure which has the effect of causing a fall in renal perfusion, compression of the inferior vena cava and reducing cardiac preload and hence systemic perfusion and eventually splinting the diaphragm and causing respiratory compromise and type 2 respiratory failure.
+The most devastating late complication in either form of repair is graft infection and can occur in up to 1% of cases. In the worst case scenario the infection can result in graft dehiscence and catastrophic bleeding.
+All patients are likely to receive some form of blood transfusion at the time of treatment and indeed massive transfusions are the norm in open surgical repair. There are a number of significant complications resulting from this including coagulopathy, electrolyte disturbances and lung injury.
+Complications associated solely with open surgery:
+Abdominal wound dehiscence in the immediate post-operative period is rare but ruptured AAA surgery has a higher risk than other laparotomies owing to the poor physiological state of patients.
+A large laparotomy wound has the potential for developing significant incisional hernias in later life and these are not uncommon if patients survive more than 5 years from surgery.
+Complications associated with endovascular repair:
+Haematomas or pseudo-aneurysms can occur in the groin at the site of access to the femoral arteries and these may result in ongoing bleeding in the post-operative phase and may require surgical treatment.
+The most significant endovascular complication is leakage of blood around the stent-graft into the aneurysm sac resulting in enlargement of the aneurysm around the graft. This is known as endoleak and surveillance for it is required with regular CT angiograms for the rest of a patient's life following endovascular treatment of a AAA.
+Improve
+Prognosis
+The prognosis of an untreated ruptured AAA is 100% mortality. Traditionally it was taught that 1/3 of patients would die before reaching hospital and 1/3 of patients would not survive surgery but survival rates have improved slightly:
+Approximately 50% of patients who reach hospital and receive an intervention now survive, especially with widespread use of endovascular repair.
+Approximately 33% of patients do still die before reaching hospital due to aneurysm rupture causing haemorrhage into the peritoneal space.
+A widespread NHS screening programme is now reducing overall numbers of deaths due to ruptured AAAs.
+The number of patients presenting with undiagnosed aneurysms is decreasing but the patients presenting with ruptures are more often those who have been declared not fit for elective repair.
+The screening programme has also resulted in older patients who were not screened presenting with ruptured AAAs and more female patients are presenting with ruptures as women are currently not routinely screened.
+Improve
+Screening and prevention
+Screening for an abdominal aortic aneurysm consists of a single abdominal ultrasound for males aged 65.
+Screening outcome
+Aorta width
+Interpretation
+Action
+< 3 cm
+Normal - No further action
+3 - 4.4 cm
+Small aneurysm
+Rescan every 12 months
+4.5 - 5.4 cm
+Medium aneurysm
+Rescan every 3 months
+>= 5.5cm
+Large aneurysm
+Referred to
+vascular surgery
+for probable intervention
+Only found in 1 per 1,000 screened patients
+Further management
+Low rupture risk
+asymptomatic, aortic diameter < 5.5cm (i.e. small and medium aneurysms)
+abdominal US surveillance (on time-scales outlines above) and optimise cardiovascular risk factors (e.g. stop smoking)
+High rupture risk
+symptomatic, aortic diameter >=5.5cm or rapidly enlarging (>1cm/year)
+treat with elective endovascular repair (EVAR) or open repair if unsuitable. In EVAR a stent is placed into the abdominal aorta via the femoral artery to prevent blood from collecting in the aneurysm. A complication of EVAR is an endo-leak, where the stent fails to exclude blood from the aneurysm, and usually presents without symptoms on routine follow-up.
+Improve
+Aneurysms, ischaemic limb and occlusions
+Ruptured abdominal aortic aneurysm

@@ -1,0 +1,285 @@
+Acute myeloid leukaemia
+Acute myeloid leukaemia
+Acute myeloid
+leukaemia
+or acute myelogenous leukaemia (AML) is a malignant disease of the bone marrow that arises from myeloid cell lines. The immature cells, arrested in early stages of development, are released into the blood and impair normal haematopoiesis causing
+anaemia
+, bleeding, and infections. It is the most common form of acute leukaemia in adults with the median age at diagnosis of 65 years. AML is associated with environmental factors, pre-existing haematological disorders, and genetic abnormalities. Bone marrow biopsy is required for diagnosis. Patients are treated with chemotherapy or haematopoietic cell transplantation. Most patients achieve remission, but relapse is common.
+Last updated: 16
+th
+May 2024
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 1.3:1
+Condition
+Relative
+incidence
+Acute myeloid
+leukaemia
+1
+Myelodysplastic syndrome
+0.60
+Acute lymphoblastic leukaemia
+0.20
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+- Genetic Factors:
+Chromosomal abnormalities such as translocations (e.g., t(8;21), t(15;17), and t(9;11))
+Gene mutations impacting cell proliferation and apoptosis, including FLT3, NPM1, and CEBPA
+Environmental Exposures:
+Previous chemotherapy or radiation therapy, termed therapy-related AML
+Exposure to benzene and other petrochemicals
+Radiation exposure, notably ionising radiation
+Haematological Disorders:
+Antecedent haematologic disorders like myelodysplastic syndromes and myeloproliferative neoplasms predisposing to secondary AML
+Genetic Syndromes:
+Conditions such as Down syndrome, Fanconi
+anaemia
+, and Li-Fraumeni syndrome associated with increased AML risk
+Improve
+Pathophysiology
+AML arises due to the acquisition of genetic mutations in haematopoietic progenitor cells that disrupt normal cell proliferation and differentiation. This disruption results in the accumulation of immature cells, known as blasts, in the bone marrow and peripheral blood, leading to bone marrow failure.
+First hit:
+The pathogenesis of AML often begins with a 'first hit' mutation that confers a proliferative advantage to a haematopoietic stem cell. This leads to clonal expansion of this cell and its progeny. Common 'first hit' mutations occur in genes such as FLT3, NPM1, or DNMT3A.
+Second hit:
+A 'second hit' mutation subsequently occurs in one of the clonally expanded cells, affecting a gene involved in haematopoietic differentiation, such as RUNX1 or CEBPA. This 'second hit' mutation further promotes proliferation and blocks differentiation, leading to the accumulation of immature blasts.
+Blast accumulation:
+The accumulation of immature blasts in the bone marrow leads to bone marrow failure due to the suppression of normal haematopoiesis. This can present clinically as
+anaemia
+,
+thrombocytopenia
+, or neutropenia.
+Invasion of other organs:
+As the disease progresses, the leukaemic blasts can invade other organs, such as the spleen, liver, and central nervous system, leading to organomegaly and other clinical manifestations.
+Improve
+Classification
+There are many classification systems. The World Health Organisation (WHO) classification is based upon a combination of morphology, immunophenotype, genetics, and clinical features. The French-American-British (FAB) classification is based upon the histopathological appearance of the cells. WHO classification scheme essentially replaced the FAB classification system.
+Broadly, there are six groups of AML in WHO classification system:
+AML with recurrent genetic abnormalities
+AML with
+myelodysplasia
+-related features
+Therapy-related AML and MDS
+AML, not otherwise specified
+Myeloid sarcoma
+Myeloid proliferations related to Down syndrome
+There are eight subtypes of AML in FAB classification system:
+M0: Acute myeloblastic
+leukaemia
+without maturation
+M1: Acute myeloblastic leukaemia with minimal granulocyte maturation
+M2: Acute myeloblastic leukaemia with granulocyte maturation
+M3: Acute promyelocytic leukaemia (APL)
+M4: Acute myelomonocytic leukaemia
+M5: Acute monocytic leukaemia
+M6: Acute erythroid leukaemia
+M7: Acute megakaryoblastic leukaemia
+Improve
+Clinical features
+The abnormal cells suppress normal haematopoiesis causing pancytopenia, which leads to
+anaemia
+, bleeding, and infections
+, among other symptoms and signs. There is sudden onset of symptoms and it progresses rapidly. Some patients are asymptomatic and may only show laboratory abnormalities. The common symptoms and signs are:
+Fever
+:
+Mostly due to infections but may occur solely due to
+leukaemia
+.
+Immature leucocytes predisposes to frequent infections.
+Anaemia:
+Shortness of breath, palpitations.
+Weakness,
+fatigue
+, dizziness.
+Pallor
+.
+Thrombocytopenia
+:
+Ecchymoses or petechiae.
+Gingival bleeding, epistaxis, or menorrhagia.
+Coagulopathy:
+Unique to acute promyelocytic leukemia.
+Bleeding secondary to disseminated intravascular coagulation.
+Medical emergency.
+Bone pain
+:
+Sternal discomfort or aching in extremities.
+Due to expansion of the medullary cavity by the leukemic process.
+Leukaemia cutis:
+Nodular, violaceous lesions on the skin.
+Seen in up to 13% of patients.
+Mostly associated with acute monocytic leukaemia or acute myelomonocytic leukaemia.
+Gingival hypertrophy:
+Primarily associated with the monocytic subtype.
+Infiltration by leukaemic cells.
+CNS involvement:
+Headache, visual changes, and nerve palsies.
+Mostly associated with acute monocytic leukaemia or acute .myelomonocytic leukaemia
+Organomegaly:
+Adenopathy, hepatomegaly, and
+splenomegaly
+.
+Uncommon, around 10% each.
+Infiltration of leukaemic cells.
+Improve
+Investigations
+Patients with AML can show abnormal blood counts, metabolic and electrolyte abnormalities. The common studies are:
+Full blood count with differential:
+Normocytic, normochromic
+anaemia
+Thrombocytopenia
+Leucocyte count: maybe low, normal, or raised.
+Peripheral blood smear:
+Raised myeloblasts: myeloblasts are immature cells with large nuclei, usually with prominent nucleoli, and pale blue cytoplasm with Wright Giemsa stain.
+Auer rods:
+Pink/red, rod-shaped cytoplasmic granular inclusions.
+Myeloperoxidase positive.
+Pathognomonic of myeloblasts.
+Mostly seen with acute promyelocytic
+leukaemia
+.
+Coagulation panel for disseminated intravascular coagulation (DIC):
+Raised prothrombin time (PT), raised activated partial thromboplastin time (APTT), low platelet count, elevated D-dimer concentration and decreased fibrinogen concentration is seen in .
+Serum electrolytes:
+Electrolyte abnormalities are seen with increased cell lysis
+Hyperphosphatemia, hypocalcemia, hyperkalemia, and hyperuricemia
+Bone marrow aspiration and biopsy:
+Confirmatory test of AML
+≥ 20% myeloblasts
+in the bone marrow confirm the diagnosis
+Immunophenotyping: the majority of subtypes are express CD13, CD33, CD34, CD117, and HLA-DR.
+Cytogenetic features: cytogenetic abnormalities can be identified by conventional karyotypic analysis plus reverse transcriptase polymerase chain reaction (RT-PCR) or fluorescent in situ hybridization (FISH). The abnormalities like: t (8;21)(q22;q22), inv (16)(p13;q22), t (16;16)(p13;q22), and t (15;17)(q22;q12), define AML irrespective of the blast count.
+Molecular studies: abnormalities in specific genes FLT3, NPM1, KIT, CEBPA, IDH1 and IDH2, p53, or RUNX1.
+Improve
+Differential diagnosis
+AML must be distinguished from other haematologic malignancies with shared clinical features.
+Acute lymphocytic
+leukaemia
+:
+Similarities: clinical features are mostly similar (
+fever
+,
+anaemia
+,
+thrombocytopenia
+, infections).
+Differences: no Auer rods, lymphoblasts, myeloperoxidase negative,
+terminal deoxynucleotidyl transferase (TdT) positive
+.
+Myelodysplastic syndrome
+Similarities: anaemia, thrombocytopenia, infections
+Differences:
+blasts (< 20%)
+, pseudo-Pelger-Huet abnormality (neutrophils with bilobed nuclei)
+Myeloproliferative neoplasms:
+Similarities: infections, abnormalities in different cell lines
+Differences:
+JAK2 mutation
+, thrombocytosis.
+Chronic myeloid leukaemia in blast crisis
+Similarities; anaemia, thrombocytopenia, infections
+Differences:
+Philadelphia chromosome
+or t (9:22), raised matured cells (myelocytes)
+Improve
+Management
+Untreated AML is a lethal and intensive treatment with chemotherapy is the mainstay of treatment. Treatment depends on the type of AML, prognostic factors, and the individual patient's comorbid illnesses, age, and other factors. The goal of treatment is determined by the clinician and the patient, and depends on age of patient, medical fitness, personal preferences, and prognostic features. The goal for most patients is achievement of complete remission  (CR: <5% blast cells in bone marrow or peripheral blood). Management of complications and supportive management is essential.
+Acute promyelocytic
+leukaemia
+(APL) is a distinct form of AML that represents a medical emergency. Treatment of APL differs significantly from that of other forms of AML. For APL,
+all
+-trans retinoic acid (ATRA)
+and arsenic are used to induce the maturation of immature malignant cells.
+Chemotherapy
+: the choice of drug is based on the cytogenetics. Cytarabine and anthracyclines (daunorubicin) are commonly used. Targeted agents like midostaurin, ivosidenib, or enasidenib may be added for specific mutations.
+Induction chemotherapy:
+Intensive combination chemotherapy.
+To achieve complete remission.
+Failure of relapse may warrant re-induction therapy.
+Consolidation chemotherapy:
+An intensive treatment that follows after complete remission.
+To destroy remaining tumour cells
+Maintenance chemotherapy:
+Non-myelosuppressive treatment
+To maintain remission
+Haematopoietic cell transplantation
+(HCT):
+Indicated for patients with unfavourable prognostic factors (unfavourable cytogenetics) or patients who do not achieve remission through chemotherapy. Allogeneic HCT is preferred.
+Monitoring and supportive treatment:
+Preventing and treating infections:
+Antibiotic prophylaxis (broad-spectrum IV antibiotics) for febrile neutropenia.
+Trimethoprim-sulfamethoxazole for pneumocystis pneumonia prophylaxis in neutropenic patients.
+Immunisations
+Maintain hygiene
+Surveillance for infections.
+Nutritional support
+Antiemetics (ondansetron)
+Transfusions for severe
+anaemia
+,
+thrombocytopenia
+.
+Improve
+Complications
+Several complications can arise in AML due to high turnover of the leukemic cells or due to the initiation of chemotherapy. The complications are:
+Tumour lysis syndrome
+: An oncologic emergency. It mostly occurs after initiating cytotoxic therapy, although it may occur spontaneously. The rapid destruction of tumour cells leads to a massive release of intracellular components (potassium, phosphate, and nucleic acid) into the circulation.
+Labs: hyperkalemia, hyperphosphatemia, hypocalcemia (secondary to phosphate binding), and hyperuricemia (nucleic acid conversion to uric acid).
+Acute kidney injury (due to calcium phosphate crystals in tubules and urate nephropathy).
+Clinical features:
+Nausea, vomiting, and diarrhoea,
+Lethargy
+Hematuria
+Seizures, arrhythmias
+Tetany, muscle cramps, paresthesia
+Leukostasis
+: excessive number of leukaemic cells (hyperleukocytosis: white blood cell count greater than 50 x 10
+9
+/µL) causes increased blood viscosity. It typically presents with respiratory or neurological distress. The clinical features are:
+Chest pain
+Headache
+Altered mental status
+Priapism
+Disseminated intravascular coagulation: although it may be seen with
+all
+subtypes of AML, it is especially associated with acute promyelocytic
+leukaemia
+.
+Severe neutropenia: the absolute neutrophil count is <500 cells/µL, and there is a high risk of infections.
+Severe
+thrombocytopenia
+: counts less than 10,000/µL or active bleeding.
+Severe
+anaemia
+: normocytic, normochromic anaemia; a haemoglobin level â≤8 g/dL needs a transfusion.
+Venous thromboembolism: mostly occurs during the first three months of treatment.
+Improve
+Prognosis
+Clinical characteristics and cytogenetic features affect prognosis in AML. Improvement in the treatment of AML has increased survival time. The five-year survival rate is 24%. The following factors are associated with favourable prognosis:
+Clinical characteristics:
+Age < 50 years
+Performance status: An ECOG performance status score < 3 or a Karnofsky score >60 %.
+No medical comorbidities
+No antecedent haematologic disorder (
+myelodysplastic syndrome
+or myeloproliferative neoplasm)
+No antecedent history of exposure to cytotoxic agents and radiation therapy
+Cytogenetic features:
+MDR 1-negative phenotype
+Translocations: t (8;21), inv (16), t (16;16), t (15;17)
+NPM1 mutation, CEBPA mutation
+Improve
+References
+Clinical Knowledge Summaries - Haematological cancers - recognition and referral
+Cancer
+Acute myeloid leukaemia

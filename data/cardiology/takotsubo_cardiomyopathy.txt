@@ -1,0 +1,94 @@
+Takotsubo cardiomyopathy
+Takotsubo cardiomyopathy
+Takotsubo
+cardiomyopathy
+(TCM), also known as stress cardiomyopathy or broken heart syndrome, is a transient cardiac dysfunction that closely mimics acute myocardial infarction (AMI). The condition was first described by Japanese researchers in 1990, with the name derived from the characteristic 'takotsubo' shape of the left ventricle during systole, resembling a Japanese octopus trap. TCM typically presents with
+chest pain
+, electrocardiogram (ECG) changes, and a mild elevation of cardiac biomarkers. It is most commonly triggered by severe emotional or physical stress and has a predilection for postmenopausal women.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 3.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in females 8:1
+Condition
+Relative
+incidence
+Myocarditis
+6.67
+Takotsubo
+cardiomyopathy
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+The pathophysiology of Takotsubo
+cardiomyopathy
+is complex and not yet fully understood, with several hypotheses proposed to explain the condition.
+Catecholamine-Induced Myocardial Stunning
+One leading theory postulates that excessive catecholamine release during acute stress plays a central role in TCM pathogenesis. High levels of circulating catecholamines, such as epinephrine and norepinephrine, can cause direct myocardial injury and myocardial stunning through several mechanisms:
+Calcium overload: Excessive catecholamines can lead to increased intracellular calcium concentrations, causing myocyte dysfunction and myocardial stunning.
+Myocardial microvascular spasm: Catecholamine-induced vasoconstriction can lead to myocardial ischemia and microvascular dysfunction.
+Beta-adrenergic receptor desensitization: High catecholamine levels can cause desensitization and downregulation of beta-adrenergic receptors, leading to myocardial dysfunction.
+Coronary Microvascular Dysfunction
+Another hypothesis implicates coronary microvascular dysfunction in the development of TCM. This theory suggests that dysfunction of the coronary microcirculation leads to myocardial ischemia, resulting in the characteristic regional wall motion abnormalities observed in TCM. Abnormal vasomotor tone, endothelial dysfunction, and increased platelet aggregation may contribute to the development of microvascular dysfunction.
+Multi-Vessel Coronary Artery Vasospasm
+Some researchers propose that TCM may result from transient, multi-vessel coronary artery vasospasm, leading to transient myocardial ischemia. This theory is supported by the occasional observation of coronary vasospasm in TCM patients during coronary angiography. However, not all TCM cases exhibit evidence of coronary vasospasm, suggesting that other mechanisms may be involved.
+Neurogenic Stunning
+TCM has also been associated with neurogenic stunning, a phenomenon where cardiac dysfunction occurs due to an acute central nervous system (CNS) injury or dysfunction. In this context, TCM may represent a form of neurogenic myocardial stunning, with an imbalance in autonomic regulation causing myocardial dysfunction.
+Role of Oestrogen Deficiency
+Oestrogen has been shown to have cardioprotective effects, including vasodilation, anti-inflammatory actions, and antioxidant properties. The higher prevalence of TCM in postmenopausal women suggests that oestrogen deficiency may contribute to the development of the condition. The loss of estrogen's cardioprotective effects may render postmenopausal women more susceptible to TCM, particularly in response to emotional or physical stressors.
+Improve
+Clinical features
+TCM predominantly affects postmenopausal women, with approximately 90% of reported cases occurring in this population. The mean age of presentation is around 65-70 years. The condition is often triggered by acute emotional or physical stressors, such as the death of a loved one, natural disasters, or major surgery. However, in up to 30% of cases, no identifiable trigger can be found.
+Patients with TCM typically present with symptoms that closely mimic those of an AMI, including:
+Chest pain
+: Sudden onset, severe, and retrosternal, often radiating to the left arm or jaw.
+Dyspnoea
+: Shortness of breath, ranging from mild to severe, may be present.
+Syncope
+: Temporary loss of consciousness may occur in some cases.
+Palpitations, nausea, and diaphoresis: Less commonly reported symptoms associated with TCM.
+The ECG findings in TCM are often indistinguishable from those of AMI, including:
+ST-segment elevation: Most commonly seen in the precordial leads, but can also be present in limb leads.
+T-wave inversion: Often diffuse and may persist even after resolution of the left ventricular dysfunction.
+QT interval prolongation: May predispose patients to ventricular arrhythmias, including torsades de pointes.
+Imaging Characteristics
+The diagnostic hallmark of TCM is the presence of transient left ventricular dysfunction, characterized by apical ballooning and hyperkinesis of the basal segments. Imaging modalities used to visualize these features include:
+Echocardiography: The most commonly used modality for initial evaluation, echocardiography can demonstrate the characteristic apical and mid-ventricular akinesis or dyskinesis, with hyperkinesis of the basal segments.
+Cardiac Magnetic Resonance Imaging (MRI): Useful in differentiating TCM from
+myocarditis
+, MRI can provide high-resolution images of myocardial tissue and visualize the characteristic regional wall motion abnormalities.
+Coronary Angiography: The gold standard for ruling out obstructive coronary artery disease, angiography can also demonstrate the absence of plaque rupture or thrombosis in TCM patients.
+Improve
+Investigations
+Diagnosing TCM requires the exclusion of other potential causes, such as acute coronary syndrome (ACS),
+myocarditis
+, and pheochromocytoma. The InterTAK Diagnostic Criteria can be employed to facilitate diagnosis, which includes:
+Transient left ventricular dysfunction with akinesis or dyskinesis of the apical and/or mid-segments, and regional wall motion abnormalities extending beyond a single epicardial vascular distribution.
+Absence of obstructive coronary artery disease (CAD) or angiographic evidence of acute plaque rupture.
+New ECG abnormalities (ST-segment elevation, T-wave inversion, or both) or modest elevation in cardiac troponin.
+Absence of pheochromocytoma or myocarditis.
+The gold standard for diagnosis is coronary angiography, which helps rule out obstructive CAD. Ventriculography or echocardiography can visualize the characteristic left ventricular wall motion abnormalities. Cardiac magnetic resonance imaging (MRI) may be useful in differentiating TCM from myocarditis.
+Improve
+Management
+The management of TCM is primarily supportive, as the condition is generally self-limiting and resolves within weeks. The treatment is tailored to the patient's clinical presentation and may include:
+Medical management: Angiotensin-converting enzyme (ACE) inhibitors, beta-blockers, or diuretics may be administered to manage heart failure symptoms.
+Haemodynamic support: Inotropes or vasopressors may be needed for patients presenting with cardiogenic shock.
+Anticoagulation: Patients with a high risk of thrombus formation due to severe left ventricular dysfunction may require short-term anticoagulation.
+Emotional and psychological support: As TCM is frequently triggered by emotional stress, addressing the underlying psychological factors with counselling or psychiatric consultation is essential.
+Improve
+Prognosis
+The prognosis of TCM is generally favorable, with a complete recovery of left ventricular function typically occurring within 4-8 weeks. However, complications such as heart failure, arrhythmias, and thrombus formation can arise. Recurrence rates range between 1-10%. Long-term follow-up with periodic echocardiography is recommended to monitor left ventricular function and screen for potential complications.
+Improve
+Cardiology
+Takotsubo cardiomyopathy

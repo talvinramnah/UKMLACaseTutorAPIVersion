@@ -1,0 +1,149 @@
+Schizophrenia
+Schizophrenia
+Schizophrenia is a chronic and severe mental disorder that affects approximately 1% of the global population. It is characterized by a wide range of cognitive, emotional, and behavioural symptoms, which can significantly impair an individual's daily functioning and quality of life. The aetiology of schizophrenia is complex, involving a combination of genetic, neurobiological, and environmental factors. Diagnosis is primarily based on clinical assessment, as there are no definitive laboratory tests available.
+The hallmark symptoms of schizophrenia are divided into positive, negative, and cognitive categories. Positive symptoms encompass hallucinations, delusions, and disorganized speech or behaviour, while negative symptoms include social withdrawal, reduced emotional expression, and anhedonia. Cognitive deficits involve impaired attention, memory, and executive functioning. Treatment for schizophrenia typically involves a multidisciplinary approach, combining
+antipsychotic
+medications, psychosocial interventions, and supportive therapies. Early intervention and consistent management are crucial in achieving the best outcomes, as they can minimize symptom severity and reduce the risk of relapse.
+Last updated: 30
+th
+November 2023
+Epidemiology
+Incidence: 16.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 1.4:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Schizophrenia is a complex psychiatric disorder with a multifactorial aetiology, encompassing genetic, neurodevelopmental, and environmental factors. The interplay between these factors contributes to the onset and progression of the disease.
+Genetic Factors
+Genetics play a significant role in schizophrenia's aetiology. Twin studies have shown that monozygotic twins have a concordance rate of 40-50%, compared to 10-15% for dizygotic twins.
+Several susceptibility genes have been identified through genome-wide association studies (GWAS) and candidate gene studies. Notably, variants in
+DRD2
+,
+COMT
+,
+DAT1
+, and
+NRG1
+are associated with schizophrenia.
+The polygenic risk score (PRS) for schizophrenia, which considers the cumulative effect of multiple genetic variants, can predict an individual's risk with moderate accuracy.
+Neurodevelopmental Factors
+Prenatal complications such as maternal infections, malnutrition, hypoxia, or stress during pregnancy may increase schizophrenia risk by disrupting normal brain development.
+Certain obstetric complications like birth hypoxia-ischaemia or preterm birth are also linked to increased susceptibility.
+Anomalies in brain structure and function observed in individuals with schizophrenia suggest neurodevelopmental disruption. These include reduced grey matter volume, ventricular enlargement, and altered connectivity patterns.
+Environmental Factors
+Social adversity such as childhood trauma or neglect can contribute to the onset of schizophrenia by altering stress response systems.
+Urban upbringing and migration, both associated with increased psychosocial stress, show a consistent association with higher schizophrenia prevalence.
+Cannabis use, particularly during adolescence, is a significant environmental risk factor. It is hypothesised to interact with genetic vulnerability to increase the risk of developing schizophrenia.
+Improve
+Classification
+Schizophrenia, a chronic and severe mental disorder, is classified into subtypes based on the predominant symptomatology at the time of assessment. The classification system has evolved over time to better represent the heterogeneity of the disorder.
+The
+Diagnostic and Statistical Manual of Mental Disorders (DSM-5)
+, published by the American Psychiatric Association, no longer uses the subtypes previously listed in DSM-IV. Instead, it emphasises a dimensional approach to rating severity for core symptoms.
+Previously in
+DSM-IV
+, schizophrenia was classified into five major subtypes:
+Paranoid schizophrenia
+: Characterised by delusions and
+auditory hallucinations
+but with relatively normal intellectual functioning and expression of affect.
+Disorganised schizophrenia
+: Marked by disorganised speech, disorganised behaviour, and flat or inappropriate affect.
+Catatonic schizophrenia
+: Notable for disturbances in movement; patients may be immobile or exhibit agitated, purposeless movement. Symptoms can include catatonic stupor and waxy flexibility.
+Undifferentiated schizophrenia
+: A category used when symptoms present do not fit into the other categories or are not sufficiently formed.
+Residual schizophrenia
+: Utilised when there is a history of clear-cut episodes but only negative symptoms remain.
+The
+International Classification of Diseases (ICD-10)
+, produced by World Health Organisation (WHO), still utilises categorisation similar to DSM-IV but with some differences:
+F20.0 Paranoid Schizophrenia
+F20.1 Hebephrenic Schizophrenia
+(similar to disorganised schizophrenia)
+F20.2 Catatonic Schizophrenia
+F20.3 Undifferentiated Schizophrenia
+F20.4 Post-schizophrenic
+depression
+: A depressive episode arising in the aftermath of a schizophrenic illness where some low-level schizophrenic symptoms may still be present.
+F20.5 Residual Schizophrenia
+F20.6 Simple Schizophrenia
+: Insidious and progressive development of prominent negative symptoms with no history of psychotic episodes.
+It is important to note that these classifications are not mutually exclusive, and patients' presentations may evolve over time, necessitating re-evaluation and potential reclassification.
+Improve
+Clinical features
+Schneider's first rank symptoms may be divided into
+auditory hallucinations
+, thought disorders, passivity phenomena and delusional perceptions:
+Auditory hallucinations of a specific type:
+two or more voices discussing the patient in the third person
+thought echo
+voices commenting on the patient's behaviour
+Thought disorder*:
+thought insertion
+thought withdrawal
+thought broadcasting
+Passivity phenomena:
+bodily sensations being controlled by external influence
+actions/impulses/feelings - experiences which are imposed on the individual or influenced by others
+Delusional perceptions
+a two stage process) where first a normal object is perceived then secondly there is a sudden intense delusional insight into the objects meaning for the patient e.g. 'The traffic light is green therefore I am the King'.
+Other features of schizophrenia include
+impaired insight
+incongruity/blunting of affect (inappropriate emotion for circumstances)
+decreased speech
+neologisms: made-up words
+catatonia
+negative symptoms: incongruity/blunting of affect, anhedonia (inability to derive pleasure), alogia (poverty of speech), avolition (poor motivation)
+*occasionally referred to as thought alienation
+Improve
+Differential diagnosis
+In the differential diagnosis of schizophrenia, three conditions often present with overlapping features: bipolar disorder, schizoaffective disorder, and major depressive disorder with
+psychotic features
+.
+Bipolar Disorder
+Both schizophrenia and bipolar disorder can present with psychotic symptoms. However, in bipolar disorder, these are typically mood-congruent (i.e., consistent with the individual's current mood state) and occur during episodes of mania or
+depression
+.
+The presence of clear manic or hypomanic episodes is a key distinguishing feature favouring a diagnosis of bipolar disorder. These may be characterised by an elevated or irritable mood, increased energy levels, reduced need for sleep, grandiosity, pressured speech and distractibility.
+Cognitive impairment in bipolar disorder is usually episodic and associated with acute phases. In contrast to the persistent cognitive deficits seen in schizophrenia.
+Schizoaffective Disorder
+Schizoaffective disorder also shares features with both schizophrenia and mood disorders (either bipolar type or depressive type). The crucial differentiator lies in the temporal relationship between the psychotic and mood symptoms.
+In schizoaffective disorder, there must have been a period where hallucinations or delusions were present without prominent mood symptoms. If such a period cannot be identified, a diagnosis of schizophrenia might be more appropriate.
+Despite sharing many clinical features with schizophrenia, individuals with schizoaffective disorder often have better psychosocial functioning but worse prognosis than those with mood disorders.
+Major Depressive Disorder (MDD) with Psychotic Features
+MDD can sometimes manifest with psychotic symptoms such as hallucinations or delusions. These are typically mood-congruent and closely related to depressive themes.
+The absence of a history of psychotic symptoms in the absence of depressive episodes is a key distinguishing feature favouring MDD with psychotic features over schizophrenia.
+Unlike schizophrenia, cognitive impairment in MDD is usually not as severe and tends to improve significantly with remission of the depressive episode.
+It is important to note that these conditions are not mutually exclusive and may co-occur. Furthermore, they share genetic vulnerabilities and environmental risk factors, adding to the complexity of differential diagnosis.
+Improve
+Management
+NICE published guidelines on the management of schizophrenia in 2009.
+Key points:
+oral atypical
+antipsychotics
+are first-line
+cognitive behavioural therapy should be offered to all patients
+close attention should be paid to cardiovascular risk-factor modification due to the high rates of cardiovascular disease in schizophrenic patients (linked to antipsychotic medication and high smoking rates)
+Improve
+Prognosis
+Factors associated with poor prognosis
+strong family history
+gradual onset
+low IQ
+premorbid history of social withdrawal
+lack of obvious precipitant
+Improve
+References
+NICE - 2014 Schizophrenia guidelines
+Psychiatry
+Schizophrenia

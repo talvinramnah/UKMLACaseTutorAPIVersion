@@ -1,0 +1,181 @@
+Myelofibrosis
+Myelofibrosis
+Myelofibrosis is a rare haematologic disorder in which bone marrow is replaced with collagen and becomes fibrosed. The result is haematological abnormalities, profound
+fatigue
+, massive
+splenomegaly
+and extramedullary haematopoiesis, and the disease may transform into acute myeloid leukaemia. It typically affects older adults and the median survival is 6 years.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.40 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Myelodysplastic syndrome
+7.50
+Polycythaemia vera
+5.00
+Chronic myeloid leukaemia
+2.50
+Myelofibrosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+- The disease typically manifests in the 50 and older age group, but cases have been reported in children.
+There is some familial relationship, and a preponderance in Ashkenazi Jews.
+Many genes have been implicated, with JAK2, MPL, and CALR being the most well known.
+Improve
+Pathophysiology
+An initial mutation in a haematopoietic cell progenitor induces neoplastic change.
+This is typically in the megakaryocyte cell line
+This change induces proliferation of fibroblasts and subsequent collagen deposition. The fibroblast proliferation is not a direct result of the mutation but a reactive process in response to the neoplastic cell group's production of cytokines, including transforming growth factor-beta (TGF-β).
+TGF - β is implicated in fibrosis and is also responsible for osteoclast proliferation and subsequent osteosclerosis.
+As a result of the fibrosis, erythropoiesis is impaired and
+anaemia
+results.
+The exact mechanism of extramedullary haematopoiesis is not fully understood, it may be a result of cytokine and haematopoietic precursors into the systemic circulation. Regardless, this phenomenon is the cause of hepatosplenomegaly. A combination of cytokine abnormalities and anaemia is thought to be the major factors causing severe
+fatigue
+in myelofibrosis.
+More precise details regarding the pathophysiology of the disease, such as the mechanisms through which the genetic mutations cause the atypical megakaryocyte production and the mechanisms of extramedullary haematopoiesis are still being investigated. The precise cause of
+thrombocytosis
+is also unclear.
+Improve
+Clinical features
+Approximately 20% of patients may be asymptomatic. Other features include:
+Severe
+fatigue
+Hepatosplenomegaly
+The
+splenomegaly
+may be so profound that it extends past the midline and into the pelvis. Some degree is present in almost all patients, while
+hepatomegaly
+is present in about 50%
+'B symptoms' (20%)
+B symptoms encompass weight loss, fever, and night sweats. They are a constellation of symptoms seen in neoplasms of the haematopoietic system
+Signs of
+anaemia
+such as pale conjunctiva
+Thromboembolic events
+This occurs secondary to
+thrombocytosis
+Unexplained bleeding
+Secondary to
+thrombocytopenia
+Extramedullary haematopoiesis can result in a variety of symptoms depending on the localisation. Seizures, paralysis, ascites, pericardial, abdominal, or  pleural effusions, raised intracranial pressure, lymphadenopathy are all possible. The liver and spleen are the most common sites of extramedullary haematopoiesis. Severe bony pain may also be present as a result of periosteal inflammation and osteosclerosis.
+Improve
+Investigations
+Diagnosis is based off a combination of blood counts, bone marrow biopsy, and genetic testing.
+Initial investigation usually begins after a presenting complaint of
+fatigue
+, abnormal bleeding, or if palpable hepatosplenomegaly is noted during a physical exam.
+Blood tests, including a smear and coagulation studies may reveal:
+Decreased red blood cell counts
+Abnormally shaped red cells are often seen on smear. Characteristically, the cells are described as dacrocytes - teardrop-shaped
+White cells and platelet counts vary significantly. They each may be low or elevated.
+PT and aPTT may be slightly prolonged due to hepatic involvement
+Raised alkaline phosphatase due to hepatic involvement
+Raised lactate dehydrogenase due to red cell lysis or impaired production
+Bone marrow examination is also performed. This can be either an aspirate, a biopsy, or MRI.
+Aspiration may be difficult and can yield a dry tap. If successful, the aspirate may show abnormal appearances of the entire myeloid lineage.
+Aspirate, however, is not sufficient for diagnosis, a biopsy is required
+Biopsy may demonstrate fibrosis and abnormal appearance of megakaryocytes
+MRI will show a decreased signal from the bone marrow as fat is replaced with fibrosis.
+This is often performed to monitor progression, rather than as a diagnostic aid
+There is a genetic association with 3 mutually exclusive genes - JAK2 (60%), CALR (25%), and MPL (5%). A triple-negative variant may also be seen (10%). While other genes have been implicated, these remain primarily a research tool.
+A formal diagnosis is based on the WHO criteria. This requires all three major criteria and one minor criterion.
+Major criteria:
+Proliferation and atypia of megakaryocytes accompanied by fibrosis
+Not meeting WHO criteria for other myeloid neoplasms
+Presence of JAK2, CALR or MPL mutation or in the absence of these mutations, presence of another clonal marker or absence of reactive myelofibrosis
+Minor criteria:
+Anemia not attributed to a comorbid condition
+Leukocytosis ≥11 x 10
+9
+/L
+Palpable
+splenomegaly
+Raised LDH
+Leukoerythroblastosis
+The main points to be remembered are:
+Blood tests may show pancytopenia and teardrop-shaped red cells
+A bone marrow aspirate may yield a dry tap
+Bone marrow biopsies are necessary and will show fibrosis and abnormal megakaryocytes
+Genetic testing is necessary,  JAK2 is the most common association
+Improve
+Differential diagnosis
+-
+Polycythaemia vera
+, essential thrombocythaemia
+Polycythaemia vera will have elevated red cells.
+Essential thrombocythaemia can be distinguished based on bone marrow biopsy where megakaryocytes will be mature
+These two can both progress to secondary myelofibrosis.
+JAK2 mutations are also found in these two disorders
+Myelodysplastic syndrome
+No
+splenomegaly
+. Bone marrow biopsy and genetic analysis will aid in distinguishing the two. A biopsy may show ringed sideroblasts and marrow will be hypercellular.
+AML/ALL
+Both of these will progress more rapidly. A combination of peripheral smear and bone marrow biopsy will confirm the diagnosis. AML will have Auer rods and blasts on a peripheral smear. ALL will also have blasts on smear as well as bone marrow infiltration. Surface markers can aid in diagnosis.
+Chronic myeloid leukaemia
+Can be distinguished based on testing for a BCR-ABL fusion. Signs and symptoms may be similar.
+Non-haematologic causes of myelofibrosis include:
+Hyperparathyroidism
+Systemic lupus erythematosus
+Vitamin D deficiency
+Systemic sclerosis
+Improve
+Management
+The treatment of myelofibrosis is complex and management is tailored to the individual. This field remains an active area of research.
+Asymptomatic patients require no treatment, however routine follow up is recommended.
+For symptomatic patients, the only curative option is a haematopoietic stem cell transplant. Not all patients are eligible and suitability is dependent on patient fitness. This option is the only treatment shown to delay or prevent progression to acute myeloid leukaemia.
+The remaining management options are symptomatic or palliative.
+Splenomegaly
+; being a significant cause of pain and discomfort, is one of the most important targets of management.
+Ruxolitinib is a JAK2 inhibitor and may be used to manage both splenomegaly and constitutional symptoms. It is effective regardless of JAK2 mutation status. It has not been shown to prolong survival and is effective regardless of whether splenomegaly is present. Hydroxyurea and interferon-alpha are other options.
+Occasionally, splenectomy or splenic irradiation may be considered as an option if splenomegaly remains a cause of pain.
+Blood transfusions comprise the mainstay of management for
+anaemia
+.
+Thalidomide and prednisone may be given as an adjunct
+Iron, B9, and B12 deficiencies must also be investigated for and managed appropriately
+Erythropoietin has not consistently been shown to provide benefit
+Extramedullary haematopoiesis is a significant cause of pain. These foci can be irradiated to good effect.
+Hyperuricaemia is managed with allopurinol
+Aspirin may be used to prevent thromboembolic events
+Improve
+Complications
+The most common cause of death is following a transformation to acute myeloid leukaemia.
+Other complications include:
+Haemorrhage due to thrombocytopaenia
+Infections due to leukopaenia
+Portal hypertension as a consequence of
+hepatomegaly
+Hepatomegaly occurs due to extramedullary haematopoiesis
+Splenic infarctions
+Sequelae of raised urea such as gout and kidney stones
+Neurologic manifestations such as seizures, cord compression, raised intracranial pressure, also due to extramedullary haematopoiesis
+Thrombotic events during the earlier phases
+Osteosclerosis
+Improve
+Prognosis
+Median survival is 6 years, however it is very variable and can range from less than a year to decades.
+The most common cause of death is transformation to acute leukaemia.
+Other causes include infection, haemorrhage, major thrombosis, and cachexia.
+Improve
+References
+British Journal of Haematology - Use of JAK inhibitors in the management of myelofibrosis
+Haematology
+Myelofibrosis

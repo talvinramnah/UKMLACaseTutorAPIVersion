@@ -1,0 +1,108 @@
+Peptic ulcer disease
+Peptic ulcer disease
+Peptic ulcer disease may be defined as ulceration in the stomach or duodenum. It is worth remembering that many patients are managed with the clinical diagnosis of 'dyspepsia' as opposed to the endoscopic diagnosis of peptic ulcer disease.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 75.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in males 1.3:1
+Condition
+Relative
+incidence
+Gastro-oesophageal reflux disease
+66.67
+Peptic ulcer disease
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+Helicobacter pylori
+is associated with the majority of peptic ulcers:
+95% of duodenal ulcers
+75% of gastric ulcers
+drugs:
+NSAIDs
+SSRIs
+corticosteroids
+bisphosphonates
+Zollinger-Ellison syndrome: rare cause characterised by excessive levels of gastrin, usually from a gastrin secreting tumour
+the role of alcohol and smoking is not clear
+Improve
+Pathophysiology
+In peptic ulcer disease there is an imbalance between protective factors (e.g. mucous production, blood flow) and factors that promote damage (e.g.
+Helicobacter pylori
+, gastric acid).
+Improve
+Clinical features
+Features
+epigastric pain
+nausea
+duodenal ulcers
+more common than gastric ulcers
+epigastric pain when hungry, relieved by eating
+gastric ulcers
+epigastric pain worsened by eating
+Improve
+Investigations
+Investigation
+Helicobacter pylori
+should be tested for
+either a Urea breath test or stool antigen test should be used first-line
+Improve
+Differential diagnosis
+When considering the differential diagnosis of peptic ulcer disease (PUD), it is essential to consider other gastrointestinal conditions that may present similarly. The three most likely alternative diagnoses include gastroesophageal reflux disease (
+GERD
+), gastritis, and gastric cancer.
+Gastroesophageal Reflux Disease (GERD)
+Clinical presentation:
+GERD typically presents with heartburn, regurgitation, and dysphagia. These symptoms are often exacerbated by lying flat, bending over or after meals. Night-time symptoms and respiratory symptoms such as cough or hoarseness can also occur.
+Comparison with PUD:
+Unlike PUD, pain associated with GERD does not usually follow a pattern and is not relieved by eating. Also, GERD patients may experience a sour taste in the mouth due to regurgitation of stomach acid which is not a typical symptom in PUD.
+Gastritis
+Clinical presentation:
+Gastritis can be asymptomatic or present with upper abdominal discomfort or pain,
+nausea
+,
+vomiting
+and sometimes loss of appetite. In severe cases, patients may present with haematemesis or melena.
+Comparison with PUD:
+The
+epigastric pain
+experienced in gastritis is often described as a burning sensation similar to PUD but tends to be more diffuse and less likely to radiate to the back. Additionally, while both conditions can cause
+nausea and vomiting
+, these symptoms are more common in gastritis than in PUD.
+Gastric Cancer
+Clinical presentation:
+Gastric cancer often presents late in its course with non-specific symptoms such as weight loss, persistent abdominal pain, dysphagia, and anorexia. In advanced stages, it can present with palpable abdominal mass or ascites.
+Comparison with PUD:
+The pain of gastric cancer is often more constant and less likely to be relieved by antacids than that of PUD. Furthermore, alarm symptoms such as weight loss and persistent vomiting are more suggestive of malignancy than PUD.
+Improve
+Management
+Management
+if
+Helicobacter pylori
+is negative then
+proton pump inhibitors
+(PPIs) should be given until the ulcer is healed
+if
+Helicobacter pylori
+is positive then eradication therapy should be given
+Improve
+Complications
+-
+perforated peptic ulcer
+bleeding peptic ulcer
+Improve
+Gastroenterology
+Peptic ulcer disease

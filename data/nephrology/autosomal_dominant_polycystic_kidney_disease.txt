@@ -1,0 +1,234 @@
+Autosomal dominant polycystic kidney disease
+Autosomal dominant polycystic kidney disease
+Autosomal dominant polycystic kidney disease (ADPKD) is the most common inherited disorder of the kidneys, affecting between 1 in 500 and 1 in 1000 people. It is characterised by the formation of renal cysts and extrarenal manifestations including hepatic cysts, intracranial aneurysms and aortic root dilatation.
+Patients with ADPKD typically develop symptoms between the ages of 30 and 60, when the renal cysts are large enough to affect kidney function.
+Haematuria
+,
+loin pain
+and
+hypertension
+are the most common presenting symptoms.
+Over 50% of patients with ADPKD will eventually develop end-stage renal disease (ESRD) requiring renal transplantation or dialysis.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 2.50 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Autosomal dominant polycystic kidney disease (ADPKD) is a genetic disorder characterised by the development of numerous cysts in the kidneys. The pathogenesis involves specific mutations, aberrant cellular processes and pathological responses, leading to cyst formation and progressive renal damage.
+Molecular Genetic Basis
+The molecular basis for ADPKD lies primarily in mutations in two genes:
+PKD1
+and
+PKD2
+, encoding for polycystin-1 and polycystin-2 respectively. These proteins are integral components of primary cilia, which act as mechanosensors in renal tubular epithelial cells. Mutations disrupt their normal function, initiating a cascade of events that lead to cystogenesis.
+Cyst Formation
+The initial event is believed to be an increase in intracellular calcium concentration due to dysfunctional polycystins. This triggers activation of various signalling pathways including protein kinase C (PKC), mitogen-activated protein kinases (MAPKs) and mammalian target of rapamycin (mTOR), promoting cell proliferation and fluid secretion.
+In parallel, there's disruption of planar cell polarity resulting from abnormal ciliary signalling, causing misoriented cell division. This leads to tubular dilation, setting the stage for cyst formation.
+As these processes continue, the expanding cysts compress surrounding parenchyma affecting blood flow and leading to hypoxia. Hypoxia stimulates fibrogenesis via transforming growth factor-beta (TGF-β), contributing further to renal dysfunction.
+Disease Progression
+The disease progression in ADPKD is not solely due to genetic factors but also involves somatic second-hit mutations. These mutations cause a loss of the normal
+PKD
+allele in some renal tubular cells, leading to cyst formation. As the disease progresses, more second-hit events occur, resulting in an increased number and size of renal cysts.
+Extrarenal Manifestations
+ADPKD is also associated with several extrarenal manifestations due to similar ciliary dysfunction in other organs. These include liver and pancreatic cysts, intracranial aneurysms and cardiac valve abnormalities.
+Improve
+Classification
+ADPKD is divided into two types based on the genetic cause:
+Type 1 ADPKD:
+85% of cases
+Caused by a mutation in PKD1 on chromosome 16
+Symptoms tend to be more severe in this type
+Type 2 ADPKD:
+15% of cases
+Caused by a mutation in PKD2 on chromosome 4
+Symptoms tend to be less severe in this type
+Improve
+Clinical features
+Patients with ADPKD may present either with symptoms, through screening due to a positive family history, or it may be identified incidentally after abdominal imaging.
+Patients with ADPKD usually develop symptoms
+between the ages of 30 and 60
+. Whilst both types of ADPKD have the same symptoms, they often present earlier and are more severe in type 1 ADPKD.
+Typically, patients with ADPKD present with:
+Haematuria
+(65%): both microscopic and macroscopic haematuria are common
+Loin pain
+(60%): chronic loin pain may be due to distension of the renal capsule, traction of the renal pedicle, and/or hepatic enlargement. Acute loin pain may be caused by kidney stones, cyst haemorrhage and/or infection.
+Hypertension
+(60%)
+Recurrent UTIs  (50%)
+Kidney stones (20%)
+Headache (10%): this may be a sign of a
+ruptured berry aneurysm and subsequent subarachnoid haemorrhage
+Signs on examination may include:
+Palpable kidneys/abdominal mass
+Hepatomegaly due to hepatic cysts
+Abdominal wall hernias
+These are more common in ADPKD, affecting 45% of patients
+Cardiac murmur
+This is due to an increased incidence of mitral valve prolapse, mitral regurgitation, aortic regurgitation and dilated aortic root in patients with ADPKD.
+Symptoms of
+renal failure
+caused by ADPKD typically develop in the 5th decade of life and include:
+Peripheral oedema
+Shortness of breath
+Poor appetite and weight loss
+Polyuria
+Pruritus
+Nausea
+Improve
+Investigations
+The investigation of ADPKD involves a combination of imaging studies, genetic testing and laboratory tests. The choice of investigations is influenced by the patient's age, family history, symptoms and renal function.
+First-line Investigations:
+Imaging Studies:
+Renal ultrasound is the first-line imaging modality in suspected cases of ADPKD. It provides information about kidney size, number and size of cysts, presence of stones or hydronephrosis. The diagnostic criteria for ADPKD using ultrasound are age-dependent with younger patients requiring more cysts for a definitive diagnosis.
+Laboratory Tests:
+Serum creatinine and estimated glomerular filtration rate (eGFR) are used to assess renal function. Additionally, urinalysis can identify
+haematuria
+or proteinuria which may indicate disease progression.
+Further Investigations:
+Magnetic Resonance Imaging (MRI):
+MRI is more sensitive than ultrasound in detecting smaller cysts and can be beneficial in equivocal cases or when assessing for complications such as cyst infection or bleeding.
+Genetic Testing:
+In certain situations where imaging results are inconclusive, genetic testing can be utilised to confirm the diagnosis. This involves sequencing the PKD1 and PKD2 genes responsible for most cases of ADPKD. However, due to its cost and complexity it's not routinely recommended in all patients.
+Additional Laboratory Tests:
+If renal function is impaired, additional tests may include serum electrolytes to check for hyperkalaemia or metabolic acidosis; complete blood count to assess for anaemia; and urate levels to evaluate for hyperuricaemia.
+Imaging Studies in Detail:
+The diagnosis of ADPKD is primarily based on imaging criteria. Renal ultrasound is the preferred initial modality due to its accessibility, lack of radiation exposure and ability to provide a rapid assessment of kidney size and cyst burden. The Ravine criteria are often used, which define a positive diagnosis based on the presence of a certain number of renal cysts according to age groups.
+In patients younger than 30 years old, at least two unilateral or bilateral renal cysts are required. For those aged 30-59 years, at least two cysts in each kidney are necessary. In individuals aged 60 years or older, four cysts in each kidney must be present for a definitive diagnosis.
+MRI can detect smaller cysts not visualised on ultrasound and provides more detailed anatomical information. It's particularly useful when assessing for complications such as cyst infection or haemorrhage.
+Genetic Testing in Detail:
+Genetic testing is not routinely performed in all suspected ADPKD cases due to its cost and complexity. However, it can be beneficial in specific situations such as equivocal imaging findings or when there's no family history of the disease. Genetic testing involves sequencing the PKD1 and PKD2 genes which account for approximately 85% and 15% of ADPKD cases respectively.
+Improve
+Differential diagnosis
+There are a number of conditions which may have similar symptoms to those in ADPKD and must be considered as
+important differential diagnoses
+. These include:
+Autosomal recessive polycystic kidney disease (ARPKD)
+Similarities: both cause multiple renal cysts with or without hepatic cysts
+Differences: in ARPKD symptoms present
+soon after birth
+and there may be no family history
+Acquired cystic kidney disease
+Similarities: both cause renal cysts
+Differences: acquired cystic kidney disease occurs in patients with pre-existing renal disease, and kidneys are usually smaller than those affected by ADPKD
+Simple renal cysts
+Similarities: both cause renal cysts
+Differences: simple renal cysts do not meet Ravine's criteria, they occur in the absence of a family history and are usually asymptomatic
+Tuberous sclerosis
+Similarities: both are autosomal dominant conditions which cause multiple renal cysts
+Differences: tuberous sclerosis is characterised by the presence of other features such as facial angiofibromas, ash-leaf spots, Shagreen patches, subungual fibromas, giant cell astrocytomas and is associated with epilepsy
+Von-Hippel-Lindau syndrome (VHL)
+Similarities: both are genetic disorders that cause renal cysts
+Differences: renal cell carcinoma is strongly associated with VHL but rare in ADPKD
+Medullary cystic renal disease
+Similarities: both are autosomal dominant conditions causing renal cysts
+Differences: in medullary cystic renal disease the kidneys are often smaller than those affected by ADPKD, and
+recurrent gout
+is a common feature
+Improve
+Management
+There is no cure for ADPKD, therefore treatment focuses on symptom control and management of complications.
+In 2015
+KDIGO
+(Kidney Disease: Improving Global Outcomes) published recommendations for the management of ADPKD.
+Referral to a nephrologist: all patients newly  diagnosed with ADPKD should be referred to a nephrologist
+Blood pressure control: this should be achieved with antihypertensive medications and lifestyle modifications
+Management of renal pain: underlying causes such as renal stones or cyst haemorrhage should first be excluded before starting analgesic medications
+Treatment of UTIs:
+This should be achieved using antibiotics according to culture and sensitivity results and local guidelines
+A 7-14 day course of antibiotics is recommended
+Treatment of kidney stones:
+This is achieved with analgesia and appropriate surgical techniques depending on the composition and size of the stone
+Management of
+ESRD:
+Renal transplantation is the management of choice for ESRD caused by ADPKD; a living donor is preferable to a cadaveric donor
+Dialysis is the second-line management of ESRD caused by ADPKD; haemodialysis is preferred to peritoneal dialysis in this group
+Tolvaptan
+for select patient groups:
+The 2015 NICE Guidelines recommend the use of tolvaptan to slow the progression of cyst formation and renal insufficiency in adults with ADPKD if:
+They have chronic kidney disease stage 2 or 3 at the start of treatment
+There is evidence of rapidly progressive disease
+Tolvaptan is a vasopressin V
+2
+receptor antagonist which has been shown to inhibit cyst growth and preserve kidney function
+Common side effects of tolvaptan are thirst, polyuria and nocturia
+Improve
+Complications
+ADPKD can lead to serious
+renal and extrarenal
+complications.
+Hepatic cysts
+75% of patients with ADPKD have
+hepatic cysts
+by the age of 60
+The majority of hepatic cysts are asymptomatic and do not require treatment
+Some patients may experience heartburn, nausea, early satiety and an increased abdominal circumference due to hepatomegaly caused by hepatic cysts
+Cardiovascular disease
+Approximately 60% of patients with ADPKD have
+hypertension
+which increases the risk of
+coronary heart disease, stroke and myocardial infarction
+Mitral valve prolapse, mitral regurgitation, aortic regurgitation and dilated aortic root are also associated with ADPKD
+Intracranial aneurysms and subarachnoid haemorrhage
+Intracranial berry aneurysms can be found in
+6%
+of patients with ADPKD
+without a family history of brain aneurysms
+In patients with ADPKD
+with a family history of brain aneurysms
+, up to
+16%
+have intracranial berry aneurysms
+Due to the increased incidence of berry aneurysms in ADPKD, the risk of
+subarachnoid haemorrhage
+is increased
+Subarachnoid haemorrhages cause substantial morbidity and mortality
+Patients with ADPKD and a family history of subarachnoid haemorrhages are offered a magnetic resonance angiography (MRA) scan at intervals of 1 to 5 years to screen for intracranial aneurysms
+If aneurysms are detected they may be treated surgically using a clip or coil to prevent rupture
+Complications during pregnancy
+The incidence of
+gestational hypertension and preeclampsia
+is higher in women with ADPKD
+Hypertension during pregnancy increases the risk of adverse fetal and maternal outcomes
+End-stage renal disease
+ADPKD accounts for 4-10% of all cases of ESRD
+Management involves
+renal transplantation or dialysis
+Improve
+Prognosis
+Over 50% of patients with ADPKD develop ESRD requiring dialysis or renal transplantation.
+Factors indicating a poorer prognosis are:
+Earlier age at diagnosis
+Male sex
+Type 1 ADPKD (mutation in PKD1)
+Rapidly increasing kidney size
+Hypertension
+Cardiovascular disease is the most common cause of death in patients with ADPKD.
+Improve
+Screening and prevention
+Screening adults with a positive family history of ADPKD
+Screening should be offered to asymptomatic adults with a positive family history  of ADPKD
+Screening is most commonly performed using an abdominal ultrasound, but occasionally MRI or CT may be used
+Although there is no proven treatment to prevent ADPKD developing, screening can help identify
+hypertension
+earlier and therefore reduce the risk of cardiovascular disease
+Screening children with a positive family history of ADPKD
+Asymptomatic children with a positive family history of ADPKD may be screened at any age, however, false negative results are higher as imaging may miss small cysts in younger people
+For this reason, children with a positive family history of ADPKD tend not to be screened unless they are symptomatic
+This means that children often require additional screening scan/s in adulthood
+Improve
+Nephrology
+Autosomal dominant polycystic kidney disease

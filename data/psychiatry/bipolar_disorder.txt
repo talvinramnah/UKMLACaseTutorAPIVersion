@@ -1,0 +1,216 @@
+Bipolar disorder
+Bipolar disorder
+Bipolar disorder, formerly known as manic
+depression
+, is a chronic psychiatric condition characterised by severe mood swings. These can range from depressive lows to manic highs. The pathophysiology of bipolar disorder remains unclear but is believed to involve genetic predisposition and neurotransmitter imbalances, particularly with serotonin, dopamine and norepinephrine.
+The disorder's presentation varies greatly among individuals. Manic episodes may include symptoms such as elevated mood, increased energy, reduced need for sleep, and risk-taking behaviour. Depressive episodes typically feature low mood, lack of interest in activities (anhedonia), fatigue and suicidal ideation.
+Diagnosis requires a comprehensive psychiatric evaluation and exclusion of other conditions that may mimic the symptoms. Management involves pharmacotherapy with mood stabilisers such as
+lithium
+or anticonvulsants like valproate or lamotrigine. Adjuvant therapy with
+antipsychotics
+or antidepressants may be required. Psychoeducation and cognitive-behavioural therapy form an integral part of management.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 25.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Bipolar disorder, a complex and multifactorial psychiatric condition, is characterised by recurrent episodes of
+mania
+and
+depression
+. The exact cause remains elusive; however, several factors have been identified that contribute to the risk and development of the disorder.
+Genetic Factors
+Family studies consistently demonstrate a higher prevalence of bipolar disorder among first-degree relatives of affected individuals compared to the general population, indicating a strong genetic component. Twin studies reveal a higher concordance rate in monozygotic twins than in dizygotic twins, further supporting this notion.
+Genome-wide association studies (GWAS) have identified numerous susceptibility loci associated with bipolar disorder. These include genes involved in neurotransmission, ion channels, and intracellular signalling pathways.
+Despite these findings, no single gene has been definitively implicated in the pathogenesis of bipolar disorder. It is likely that multiple genes interact with each other and with environmental factors to increase susceptibility.
+Environmental Factors
+Stressful life events can precipitate the onset of bipolar disorder or trigger episodes in those already diagnosed. These events may include physical or emotional trauma, significant loss or change, substance misuse or certain medical conditions.
+Prenatal and perinatal factors such as maternal viral infections during pregnancy or complications during delivery have also been associated with an increased risk for bipolar disorder.
+Neurobiological Factors
+Dysregulation of neurotransmitter systems - particularly dopamine, serotonin and glutamate - has been implicated in the pathophysiology of bipolar disorder. Imbalances in these neurotransmitters may underlie mood instability and other symptoms characteristic of this disorder.
+Structural brain abnormalities have been observed in individuals with bipolar disorder. These include reductions in grey matter volume, particularly in the prefrontal cortex and hippocampus, and alterations in white matter integrity.
+Disruptions in circadian rhythms and sleep patterns are common features of bipolar disorder, suggesting a role for biological rhythms in its aetiology.
+Psychosocial Factors
+Certain personality traits, such as neuroticism or extraversion, may predispose individuals to bipolar disorder. Likewise, negative cognitive styles or maladaptive coping strategies can contribute to symptom severity and progression.
+Social factors including isolation, poor social support or high levels of conflict can exacerbate symptoms and increase the risk of relapse.
+Improve
+Pathophysiology
+Bipolar disorder is characterised by alternating periods of
+mania
+and
+depression
+, with pathophysiological mechanisms involving complex interactions between genetic, neurochemical, and neuroanatomical factors.
+Genetic predisposition plays a significant role in the development of bipolar disorder. Multiple genes implicated in neurotransmitter pathways contribute to the condition. These genetic variations affect neurotransmission and synaptic plasticity, influencing mood regulation.
+Neurotransmitter dysregulation is central to the pathophysiology. Alterations in monoamines such as serotonin, dopamine, and norepinephrine are observed. During manic episodes, increased dopaminergic activity leads to heightened arousal and euphoria. Conversely, depressive episodes are associated with reduced serotonergic and noradrenergic transmission, resulting in low mood and anhedonia.
+Neuroimaging studies reveal structural brain abnormalities. Patients often exhibit reduced grey matter volume in prefrontal cortex regions responsible for executive function and emotional regulation. Additionally, abnormalities in the amygdala and hippocampus are noted, affecting emotional processing and memory consolidation.
+Functional imaging demonstrates altered connectivity within neural circuits. Dysregulated activity between the prefrontal cortex and limbic system disrupts emotional homeostasis. Hyperactivity in subcortical structures during mania contrasts with hypoactivity during depressive phases.
+Inflammatory processes also play a role. Elevated levels of pro-inflammatory cytokines such as interleukin-6 (IL-6) have been detected during mood episodes. These inflammatory markers can cross the blood-brain barrier, influencing neuronal function and contributing to mood dysregulation.
+Mitochondrial dysfunction has been implicated in bipolar disorder pathogenesis. Aberrant energy metabolism affects neuronal resilience and plasticity. Impaired mitochondrial function may lead to oxidative stress, further exacerbating cellular damage within critical brain regions.
+The hypothalamic-pituitary-adrenal (HPA) axis exhibits dysregulation in bipolar patients. Hyperactivity of this axis results in elevated cortisol levels during depressive states while blunted HPA response is seen during manic episodes. This hormonal imbalance impacts stress response mechanisms.
+Mania:
+Increased dopaminergic activity → Heightened arousal & euphoria
+Depression:
+Reduced serotonergic & noradrenergic transmission → Low mood & anhedonia
+Neuroanatomy:
+Reduced grey matter volume → Impaired executive function & emotional regulation
+Circuitry:
+Dysregulated prefrontal-limbic connectivity → Emotional instability
+Inflammation:
+Elevated IL-6 levels → Neuronal dysfunction
+Mitochondria:
+Oxidative stress → Cellular damage
+HPA Axis:
+Cortisol imbalance → Altered stress responses
+Improve
+Classification
+DSM-5 Classification
+Bipolar I Disorder
+is characterised by at least one manic episode, which may be preceded or followed by hypomanic or major depressive episodes.
+A manic episode is defined as a distinct period of abnormally and persistently elevated, expansive, or irritable mood and increased activity or energy, lasting at least 1 week (or any duration if hospitalisation is required).
+Notably, a diagnosis of Bipolar I can now be made based on a manic episode alone, without the necessity of a depressive episode.
+Bipolar II Disorder
+is characterised by at least one hypomanic episode and at least one major depressive episode, without any full manic episodes.
+Hypomanic episodes are similar to manic episodes but less severe, lasting at least 4 consecutive days, and not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalisation.
+The depressive episodes in Bipolar II can be as severe as those in Bipolar I.
+Cyclothymic Disorder
+involves numerous periods of hypomanic symptoms and numerous periods of depressive symptoms that do not meet criteria for hypomanic or major depressive episodes.
+These symptoms must be present for at least 2 years (1 year in children and adolescents).
+The person must not have been without symptoms for more than 2 months at a time.
+ICD-11 Classification
+The ICD-11 classification system, used predominantly in the UK, categorises bipolar disorder as:
+Bipolar type I disorder
+: At least one manic episode with or without depressive episodes
+Bipolar type II disorder
+: At least one hypomanic episode and at least one depressive episode, without any manic episodes
+Cyclothymia
+: A persistent instability of mood over at least 2 years, involving numerous periods of
+depression
+and hypomania
+Other Specified Bipolar and Related Disorders
+This category includes presentations that do not meet the full criteria for the above disorders but cause clinically significant distress or impairment.
+Short-duration hypomanic episodes
+(2-3 days) and major depressive episodes
+Hypomanic episodes without prior major depressive episode
+Rapid-cycling bipolar disorder
+: Four or more mood episodes within a 12-month period, which can occur in either Bipolar I or II
+Specifiers
+can be added to any bipolar diagnosis to provide additional clinical information:
+With anxious distress
+With mixed features (simultaneous symptoms of opposite polarity)
+With rapid cycling
+With
+psychotic features
+(mood-congruent or mood-incongruent)
+With seasonal pattern
+With peripartum onset
+Improve
+Clinical features
+What is
+mania
+/hypomania?
+both terms relate to abnormally elevated mood or irritability
+with mania there is severe functional impairment or psychotic symptoms for 7 days or more
+hypomania describes decreased or increased function for 4 days or more
+from an exam point of view the key differentiation is psychotic symptoms (e.g.delusions of grandeur or auditory hallucinations) which suggest mania
+Improve
+Differential diagnosis
+When diagnosing bipolar disorder, it is essential to consider other psychiatric conditions that may present with similar symptoms. The three most common differentials include major depressive disorder (MDD), borderline personality disorder (BPD), and schizophrenia.
+Major Depressive Disorder
+Presentation:
+MDD typically presents with persistent low mood, anhedonia, and cognitive changes such as impaired concentration. Unlike bipolar disorder, there are no periods of
+mania
+or hypomania.
+Differences:
+The absence of manic or hypomanic episodes distinguishes MDD from bipolar disorder. A history of even one manic episode would warrant a diagnosis of bipolar disorder instead.
+Borderline Personality Disorder
+Presentation:
+BPD often presents with emotional instability, impulsive behaviour, unstable relationships and chronic feelings of emptiness. Mood swings in BPD can be rapid and intense but usually last for hours rather than days or weeks as seen in bipolar disorder.
+Differences:
+While both conditions involve mood swings, the duration, frequency and triggers differ significantly. In BPD, mood swings are often reactive to environmental factors and resolve quickly whereas in bipolar disorder they occur independently of environmental stimuli and persist for longer durations.
+Schizophrenia
+Presentation:
+Schizophrenia is characterised by positive symptoms (hallucinations, delusions), negative symptoms (anhedonia, avolition) and cognitive dysfunction. Although some patients with bipolar disorder may experience
+psychotic features
+during severe manic or depressive episodes, these are not required for a diagnosis.
+Differences:
+The presence of persistent psychotic symptoms in the absence of mood symptoms may suggest a diagnosis of schizophrenia. In bipolar disorder, psychotic features are typically mood-congruent and occur during episodes of mania or
+depression
+.
+Improve
+Management
+Management of Bipolar disorder primarily involves pharmacotherapy, psychological interventions and social support. The choice of treatment should be guided by the individual's current episode, pattern of illness and prior treatment responses.
+Pharmacotherapy:
+Mood stabilisers are the cornerstone for long-term management.
+Lithium
+remains the gold standard for long-term mood stabilisation and suicide prevention. Regular monitoring of serum levels is essential to avoid toxicity.
+Valproate and lamotrigine are alternatives, particularly in patients who do not tolerate lithium well or have contraindications to its use.
+Atypical
+antipsychotics
+like olanzapine or aripiprazole can be used adjunctively for maintenance therapy, especially in patients with frequent relapses.
+In acute
+mania
+, antipsychotics or benzodiazepines may be required to manage agitation and psychotic symptoms. Antidepressants should be avoided due to risk of triggering a manic episode.
+In depressive episodes, quetiapine or a combination of olanzapine and fluoxetine are recommended. If these are ineffective or not tolerated, lamotrigine may be considered.
+Psychological Interventions:
+Cognitive Behavioural Therapy (CBT) can help individuals understand their condition better and develop coping strategies for mood swings.
+Family-focused therapy can provide education about the disorder and improve communication within the family unit.
+Interpersonal and Social Rhythm Therapy (IPSRT) aims to stabilise daily routines and sleep patterns which can help manage symptoms.
+Social Support:
+Education about the disorder is important for both the individual and their support network. This includes recognising early signs of relapse, understanding medication side effects, and knowing when to seek help.
+Vocational rehabilitation may be necessary in some cases where work functioning has been impacted by the illness.
+Multidisciplinary care with psychiatrists, psychologists, occupational therapists and social workers is often beneficial in managing Bipolar disorder. A treatment plan should be individualised, taking into account the patient's preferences and needs.
+Improve
+Complications
+Bipolar disorder, a chronic mental health condition characterised by oscillating episodes of
+mania
+and
+depression
+, can lead to several complications if not effectively managed. These include:
+Co-occurring psychiatric disorders:
+Comorbid conditions are common in patients with bipolar disorder. Anxiety disorders, substance misuse disorders and attention-deficit/hyperactivity disorder (ADHD) frequently coexist.
+Suicidality:
+The risk of suicide is significantly elevated in individuals with bipolar disorder. Both depressive and manic episodes may be associated with suicidal thoughts or actions.
+Cognitive impairment:
+Persistent cognitive deficits, including impairments in memory, executive function and attention, may occur even during euthymic periods.
+Physical health issues:
+Patients with bipolar disorder have an increased risk of developing various physical health problems such as cardiovascular disease, diabetes mellitus and obesity due to factors like medication side effects, lifestyle choices and the physiological impact of chronic stress.
+Social and occupational dysfunction:
+Recurring mood episodes can disrupt personal relationships and occupational functioning leading to social isolation, unemployment or underemployment.
+Improve
+Prognosis
+The prognosis of bipolar disorder varies significantly based on multiple factors including the subtype, comorbid conditions, and treatment adherence. Bipolar disorder is characterised by recurrent episodes of
+mania
+and
+depression
+which can lead to substantial psychosocial impairment.
+Course and Outcome:
+The course is typically chronic and relapsing. Approximately 60-70% of individuals with bipolar I disorder will experience a recurrence within five years.
+Functional Impairment:
+Many patients exhibit functional impairment even during euthymic periods, affecting occupational, social, and cognitive domains.
+Suicide Risk:
+There is a high lifetime risk of suicide, estimated at 15 times greater than the general population. Early intervention and continuous management are critical.
+Comorbidities:
+Common comorbid conditions include anxiety disorders, substance use disorders, and cardiovascular disease. These can complicate the clinical course and worsen prognosis.
+Treatment Response:
+Long-term pharmacotherapy with mood stabilisers such as
+lithium
+or valproate, combined with psychotherapeutic interventions, can improve outcomes. Non-adherence to treatment regimens is associated with poorer prognoses.
+The presence of rapid cycling (≥4 mood episodes per year) is associated with a more challenging prognosis. Early diagnosis and tailored treatment plans are essential for improving patient outcomes in bipolar disorder.
+Improve
+References
+NICE - 2014 Bipolar disorder: assessment and management
+Psychiatry
+Bipolar disorder

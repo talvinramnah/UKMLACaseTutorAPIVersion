@@ -1,0 +1,120 @@
+Dermatitis herpetiformis
+Dermatitis herpetiformis
+Dermatitis herpetiformis
+(DH) is a chronic, intensely pruritic, blistering skin condition associated with gluten sensitivity. It is related to
+coeliac disease
+and represents the cutaneous manifestation of this systemic disorder. DH is characterised by clusters of small vesicles or papules on extensor surfaces such as elbows, knees and buttocks. Histologically, it presents with subepidermal blisters and granular IgA deposits in dermal papillae.
+The pathogenesis involves an abnormal immune response to dietary gluten proteins found in wheat, barley and rye. The diagnosis is confirmed by skin biopsy showing IgA deposition at the dermo-epidermal junction. Strict adherence to a gluten-free diet is the mainstay of treatment, supplemented by dapsone or sulfapyridine for acute symptom control.
+Despite its association with coeliac disease, gastrointestinal symptoms are not always present in patients with DH. Therefore, physicians should consider this diagnosis even in patients without overt signs of malabsorption.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Shingles
+180.00
+Dermatitis herpetiformis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Dermatitis herpetiformis (DH) is an autoimmune blistering skin disorder that is intimately associated with
+gluten-sensitive enteropathy
+, commonly referred to as
+coeliac disease
+. The exact aetiology of DH, similar to other autoimmune disorders, remains elusive but is believed to involve a complex interplay between genetic predisposition and environmental triggers.
+Genetic Factors
+Strong genetic predispositions have been identified in patients with DH. Most notably, over 90% of patients with DH express the human leukocyte antigen (HLA) haplotypes DQ2 or DQ8, which are also commonly found in patients with coeliac disease.
+The presence of these HLA haplotypes increases susceptibility to DH but is not sufficient for disease development, indicating the role of additional non-HLA genes and environmental factors.
+Environmental Factors
+Exposure to gluten appears to be the primary environmental trigger for DH. Gluten ingestion leads to the formation of circulating autoantibodies against tissue transglutaminase (tTG), an enzyme involved in protein cross-linking. These antibodies are believed to play a pivotal role in the pathogenesis of both DH and coeliac disease.
+The role of other environmental factors such as infections, drugs, or stress in triggering or exacerbating DH remains unclear and warrants further research.
+Associated Conditions
+DH is frequently associated with coeliac disease; up to 80% of patients with DH have varying degrees of gluten-sensitive enteropathy on small bowel biopsy.
+Other autoimmune disorders such as thyroid disease and type 1 diabetes mellitus are also more common in patients with DH than in the general population.
+Gender and Age
+DH affects both males and females, but appears to be slightly more prevalent in males. The disease can occur at any age, but most commonly presents in adulthood, with a peak incidence between 30 and 40 years of age.
+Improve
+Pathophysiology
+Dermatitis herpetiformis is an autoimmune blistering disorder characterised by intensely pruritic papulovesicular eruptions. The pathophysiology involves a complex interplay of genetic predisposition, gluten sensitivity, and immune mechanisms.
+The initial step in the pathogenesis is the ingestion of gluten, which contains gliadin peptides. In genetically susceptible individuals, these peptides are resistant to complete digestion and cross the intestinal epithelium. Once in the lamina propria, gliadin interacts with tissue transglutaminase (tTG), forming deamidated gliadin-tTG complexes.
+These complexes are then presented by antigen-presenting cells to CD4+ T cells via HLA-DQ2 or HLA-DQ8 molecules. Activated T cells release cytokines that promote B cell differentiation into plasma cells, which produce IgA antibodies against tTG. These anti-tTG IgA antibodies cross-react with epidermal transglutaminase (eTG), a key enzyme in keratinocyte adhesion found within dermal papillae.
+The deposition of IgA-eTG immune complexes within dermal papillae initiates an inflammatory cascade. Complement activation occurs via the classical pathway, leading to recruitment of neutrophils and other inflammatory cells to the site. Neutrophils release proteolytic enzymes such as elastase and matrix metalloproteinases that degrade basement membrane components.
+This degradation results in subepidermal blister formation, manifesting clinically as vesicles and bullae on extensor surfaces like elbows, knees, buttocks, and scalp. The intense
+pruritus
+characteristic of dermatitis herpetiformis is mediated by histamine release from mast cells activated during this inflammatory process.
+Histopathologically, there is a presence of neutrophilic microabscesses at the tips of dermal papillae along with subepidermal cleft formation. Direct immunofluorescence studies reveal granular IgA deposits within dermal papillae.
+Improve
+Clinical features
+Patients with DH typically present with symmetrical, erythematous, and intensely pruritic papules and vesicles, often distributed over the extensor surfaces, such as the elbows, knees, and buttocks. Lesions may also appear on the scalp, face, and neck. Scratching often leads to excoriation and crusting. The onset of symptoms is variable and can occur at any age, although it is most common in the third to fifth decades of life. The disease course is characterized by periods of exacerbation and remission.
+Improve
+Investigations
+The diagnosis of DH relies on a combination of clinical presentation, histopathology, direct immunofluorescence (DIF) microscopy, and serology. A skin biopsy should be performed on perilesional skin for DIF, which typically shows granular IgA deposits in the dermal papillae, a pathognomonic finding for DH. Histopathology of lesional skin reveals subepidermal blisters with neutrophilic infiltration in the dermal papillae. Serologic testing can detect the presence of IgA anti-tTG antibodies, which are also found in
+coeliac disease
+.
+Although gastrointestinal symptoms are not always present in patients with DH, screening for coeliac disease is recommended. This can be done through serologic testing for IgA anti-tTG and IgA anti-endomysial antibodies, as well as an upper gastrointestinal endoscopy with small bowel biopsy to assess for villous atrophy and crypt hyperplasia.
+Improve
+Diagnosis
+The diagnostic criteria for dermatitis herpetiformis (DH) in the UK are as follows:
+Clinical presentation:
+Symmetrical distribution of pruritic vesicles, papules, and urticarial plaques. Commonly affected areas include extensor surfaces such as elbows, knees, buttocks, and scalp.
+Histopathology:
+Skin biopsy from a perilesional area demonstrating subepidermal blisters with neutrophilic infiltrate. Direct immunofluorescence (DIF) of perilesional skin shows granular IgA deposits at the dermoepidermal junction.
+Serology:
+Elevated levels of anti-tissue transglutaminase (tTG) antibodies or endomysial antibodies (EMA). Anti-deamidated gliadin peptide (DGP) antibodies may also be elevated.
+Response to diet:
+Improvement of symptoms upon adherence to a strict gluten-free diet is supportive but not solely diagnostic.
+Additional considerations may include:
+Differential diagnosis:
+Conditions such as bullous pemphigoid, linear IgA disease, and other vesiculobullous disorders should be excluded through clinical evaluation and laboratory testing.
+Celiac disease
+association:
+Given the strong association between DH and celiac disease, duodenal biopsy may be performed to assess for villous atrophy consistent with celiac disease. However, gastrointestinal symptoms may not always be present in DH patients.
+The combination of clinical presentation, histopathological findings, serological markers, and response to a gluten-free diet forms the basis for diagnosing dermatitis herpetiformis in the UK medical practice.
+Improve
+Management
+The mainstay of treatment for DH is a strict, lifelong
+gluten-free diet
+, which leads to a reduction in IgA anti-tTG antibodies, resolution of skin lesions, and prevention of potential complications associated with untreated
+coeliac disease
+.
+In addition to the gluten-free diet, patients with severe
+pruritus
+and skin lesions may require pharmacologic treatment with
+dapsone
+, a sulfone antibiotic, which provides rapid relief of symptoms. However, dapsone has potential side effects, such as hemolytic anaemia and methemoglobinemia, and requires regular monitoring of complete blood counts and methemoglobin levels. Other medications, such as sulfapyridine and colchicine, can be considered in patients who cannot tolerate dapsone.
+Improve
+Complications
+Complications of dermatitis herpetiformis can be significant and multifaceted. The most likely complications include:
+Enteropathy-associated T-cell lymphoma (EATL)
+: Patients with dermatitis herpetiformis have an increased risk of developing EATL, a rare but aggressive form of non-Hodgkin lymphoma.
+Small bowel adenocarcinoma
+: There is a heightened risk for small bowel adenocarcinoma, particularly in patients with long-standing disease.
+Osteoporosis
+: Chronic malabsorption associated with dermatitis herpetiformis can lead to deficiencies in calcium and vitamin D, resulting in decreased bone mineral density and osteoporosis.
+Malabsorption syndromes
+: Persistent villous atrophy may cause malabsorption of nutrients, leading to anaemia (iron deficiency or megaloblastic), hypocalcaemia, and other related conditions.
+Hypothyroidism
+: Autoimmune thyroid diseases such as Hashimoto's thyroiditis are more prevalent among patients with dermatitis herpetiformis.
+Dermatological complications
+: Secondary bacterial infections due to excoriation, chronic skin changes such as lichenification and hyperpigmentation can occur due to persistent
+pruritus
+and scratching.
+Improve
+References
+DermNet NZ - Dermatitis herpetiformis
+Dermatology
+Dermatitis herpetiformis

@@ -1,0 +1,249 @@
+Syphilis
+Syphilis
+Syphilis is a sexually transmitted disease caused by the spirochaetal bacterium
+Treponema pallidum
+which enters the body through a break in the skin or mucous membranes following contact with an individual with early (primary or secondary) syphilis. Congenital infection may occur through maternal transmission during pregnancy.
+Historically, syphilis has been a highly stigmatised disease, due to its association and proliferative spread through prostitution. Untreated syphilis can cause considerable morbidity such as cardiovascular and neurological disease.
+Nowadays, the majority of patients present with a painless anogenital ulcer and are treated appropriately without progression from primary to secondary syphilis.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 8:1
+Condition
+Relative
+incidence
+Genital herpes
+30.00
+Syphilis
+1
+Chancroid
+0.01
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Syphilis is a sexually transmitted infection (STI) caused by the spirochete bacterium
+Treponema pallidum
+subspecies
+pallidum
+. The primary mode of transmission is through sexual contact; however, it can also be transmitted from mother to child during pregnancy or at birth, resulting in congenital syphilis.
+Risk Factors
+Unprotected sexual intercourse:
+Engaging in unprotected vaginal, anal or oral sex increases the risk of acquiring syphilis. The bacterium can enter the body through minor cuts or abrasions in the skin or mucous membranes.
+Multiple sexual partners:
+Having multiple sexual partners or engaging in casual sex increases the probability of exposure to infected individuals.
+Co-infection with HIV:
+Individuals infected with HIV are more susceptible to contracting syphilis due to compromised immune systems. Moreover, co-infection can complicate treatment and progression of both diseases.
+Men who have sex with men (MSM):
+Statistically, MSM represent a significant proportion of reported syphilis cases. This group tends to have higher rates of incidence due to factors such as higher prevalence within the community and practices that facilitate transmission.
+Pregnancy:
+Pregnant women infected with syphilis can transmit the disease to their unborn child, leading to congenital syphilis. This underscores the importance of prenatal screening for STIs.
+The underlying cause of all forms of syphilis is infection with
+T. pallidum
+. Risk factors only increase an individual's susceptibility and likelihood of exposure to the bacterium. Understanding these risk factors is essential in formulating effective prevention strategies and interventions.
+Improve
+Pathophysiology
+Treponema pallidum
+initiates infection via microscopic abrasions allowing access to subcutaneous tissues.
+Evasion of early host defences allows the bacterium to establish the initial ulcerative lesion that characterises primary syphilis, the
+chancre
+The primary ulcer contains the
+Treponema pallidum
+bacterium
+Initial infiltration of the lesion is with polymorphonuclear leukocyte
+Infiltration appears to coincide with the resolution of the primary chancre which occurs over 3-6 weeks
+Secondary syphilis is caused by the haematogenous spread of the bacterium resulting in endarteritis obliterans.
+Immune complexes of antibodies, spirochetal components and complement are present in arterial walls
+Mucocutaneous lesions in secondary syphilis also contain treponemes
+Resolution is likely due to macrophage driven and cell-mediated immunity.
+Approximately 15-40% of patients with untreated secondary syphilis progress to late syphilis involving
+Neurosyphilis
+Chronic inflammation of the meninges due to the presence of treponemes
+Parenchymal involvement of the spinal cord results in tabes dorsalis, predominantly due to dorsal column loss
+Parenchymal involvement with neuronal loss will result in general paresis.
+Gummatous syphilis
+Characterised pathologically by the presence of granulomas, consistent with a cellular hypersensitivity reaction
+Cardiovascular syphilis
+A consequence of vasculitis of the vasa vasorum
+Lymphocytes and plasma cells infiltrate blood vessels and perivascular tissues
+Occlusion of the aortic vasa vasorum causes necrosis of the tunica media and weakening of the aortic wall leading to aortic aneurysms.
+Narrowing of the coronary ostia typically results in aortic regurgitation.
+Improve
+Clinical features
+Early syphilis
+is defined as the first 2 years after infection and includes 3 stages:
+(1)
+Primary syphilis
+is how the majority of patients will present
+It is characterised by:
+A painless
+chancre
+, which is a highly infectious, hard anogenital ulcer
+Local lymphadenopathy
+The chancre forms at the site of entry of bacterium and develops about 3 weeks post exposure
+The chancre may be hidden within the vagina or rectum
+The chancre heals within approximately 3 to 6 weeks
+(2)
+Secondary syphilis
+(6 weeks - 6 months post infection) is systemic involvement and might present with a wide range of clinical features:
+Symmetrical maculopapular rash
+, typically on the trunk, face, palms or soles
+90% have some skin involvement
+Might be scaly
+Constitutional symptoms including fever, malaise, myalgia, fatigue, and arthralgia (25%)
+Lymphadenopathy
+Tonsillitis
+Condylomata lata (flat papules around/ beyond the genitals)
+Oral snail-track ulcers
+Alopecia
+Hepatitis (33%)
+Hepatosplenomegaly
+Rhinitis
+Uveitis
+Optic neuritis
+Meningism (1-2%)
+Glomerulonephritis
+Periosteitis
+(3)
+Early latent syphilis
+is confirmed infection in the absence of any current clinical features.
+If left untreated, early syphilis might progress to
+tertiary or late syphilis
+(defined as more than 2 years after infection).
+This is described further within the complications section, as only 15-30% of untreated patients will go on to develop the complications of tertiary syphilis.
+In the late stage, the disease may damage the brain, nerves, eyes, heart, blood vessels, liver, bones, and joints
+These problems may occur many years after the original, untreated infection.
+Improve
+Investigations
+Investigating a patient with suspected syphilis involves a series of steps, beginning with first-line investigations and potentially advancing to further diagnostic measures. Understanding these procedures is essential for effective diagnosis and treatment.
+First-line Investigations
+The initial investigation of syphilis typically involves serological testing, which includes both treponemal and non-treponemal tests:
+Treponemal tests:
+These are specific for
+Treponema pallidum
+, the bacterium that causes syphilis. Examples include T. pallidum particle agglutination assay (TPPA) and enzyme immunoassay (EIA). A positive result suggests exposure to the bacteria but does not distinguish between current or past infection.
+Non-treponemal tests:
+These measure the response to cellular damage caused by the infection rather than directly detecting the bacterium. The Rapid Plasma Reagin (RPR) test and Venereal Disease Research Laboratory (VDRL) test are examples. These tests can be used to monitor disease progression and response to treatment as they often correlate with disease activity.
+Further Investigations
+If serology results suggest syphilis, further investigations may be necessary depending on clinical presentation:
+Darker field microscopy:
+This can be used in primary syphilis if there is a visible lesion such as a chancre. A sample from the lesion can be examined under dark-field microscopy to look for
+Treponema pallidum
+.
+Cerebrospinal fluid examination:
+In cases of suspected neurosyphilis, a lumbar puncture may be performed to examine cerebrospinal fluid (CSF). The CSF VDRL test is highly specific for neurosyphilis, but it may be negative in early infection. Therefore, abnormal CSF cell count or protein level combined with a positive blood VDRL or FTA-ABS test may suggest neurosyphilis.
+HIV testing:
+As syphilis and HIV often coexist due to shared modes of transmission, an HIV test should be offered to all patients with syphilis.
+Improve
+Differential diagnosis
+Syphilis is often referred to as the 'great imitator' due to its ability to mimic many other diseases, particularly those that present with anogenital ulcers or sores. Due to this, any anogenital sore or ulcer should be suspected syphilis until proven otherwise.
+The two main differentials are:
+Chancroid
+: most common cause of genital ulcers worldwide
+Similarities: initially painless papule
+Differences: recent travel to subtropical or tropical areas, develops into a tender and painful ragged deep ulcer or pustule after several weeks, accompanied by inguinal lymphadenopathy that may suppurate
+Genital herpes
+Similarities: anogenital sore or blister, localised lymphadenopathy
+Differences: typically painful, one or more sore(s) around genitals and mouth, lymphadenopathy is usually tender,
+Herpes and syphilis are notoriously difficult to distinguish and a herpes virus PCR should be performed
+Other differentials that should be considered include:
+Primary HIV infection
+Similarities: maculopapular rash, may present with a genital ulcer
+Psoriasis
+Similarities: maculopapular rash
+Alopecia areata
+Similarities: alopecia
+Oral cancer
+Similarities: snail tract lesions
+More unusual causes of genital ulcers: lymphogranuloma venereum, granuloma inguinale, candidiasis, trauma, Reiter's syndrome, BehÃ§et's syndrome, fixed-drug eruption, and scabies
+Improve
+Staging
+- Early syphilis occurs before 2 years of infection
+Primary syphilis
+is characterised by generalised lymphadenopathy and a chancre
+Secondary syphilis
+occur 3-12 weeks after appearance of the initial chancre and is characterised by systemic features, skin lesions, alopecia, and mucous patches
+Early latent syphilis
+is serological confirmation of infection in the absence of clinical features
+Tertiary or late syphilis occurs after 2 years of infection (typically 15-40 years)
+Tertiary syphilis
+may present with gummatous syphilis, cardiovascular syphilis or neurosyphilis
+Tertiary latent syphilis
+is serological confirmation of  infection in the absence of clinical features
+Improve
+Management
+NICE guidelines recommend all patients with suspected syphilis should be referred to a genito-urinary medicine (GUM) clinic or other specialist local sexual health service.
+Currently recommended first-line treatments for syphilis (including parenteral benzathine and procaine penicillin) are not readily available for use in primary care.
+(1)
+Explanation
+of the condition, risk factors, methods of prevention and complications should be provided for the patient
+(2)
+Avoidance of all sexual contact
+until either
+Diagnosis is excluded OR
+Successful treatment has been confirmed
+(3)
+Contact tracing
+and partner notification should be discussed at diagnosis
+(4) Consideration of
+testing for HIV infection
+in addition to
+full sexual health screen
+Co-infection leads to higher risk of treatment failure
+If diagnosis is confirmed:
+(5)
+Benzathine benzylpenicillin
+1.8g IM 2-3 doses, 1 week apart
+Alternative: Doxycycline 100mg/12h
+14 days for early syphilis
+28 days for late syphilis
+In pregnancy: Erythromycin 500mg/6h PO
+(6)
+Follow up
+at 3, 6, and 12 months in specialist GUM clinic
+Improve
+Complications
+Around 30% of patients who are untreated or have the failure of treatment of primary or secondary syphilis progress to late tertiary symptomatic syphilis.
+Late syphilis
+typically follow at least a 2 year latency period, where patients are non infectious. Patients may present with
+Gummas
+(16% of untreated patients): granulomas in skin, mucosa, bone, joints, and viscera such as the lung and testis
+These granulomatous rubbery lesions have a necrotic centre and may gradually replace normal tissue.
+Cardiovascular disease
+(10% of untreated patients): ascending aortic aneurysm or aortic regurgitation
+Neurosyphilis
+(6% of untreated patients): might present in three separate ways
+Meningovascular
+: cranial nerve palsies e.g. decreased vision, stroke
+General paresis of insane
+: dementia, psychosis
+Tabes dorsalis
+: loss of proprioception, vibration sense, incontinence and ataxia
+Improve
+Screening and prevention
+Any anogenital ulcer or sore should be investigated as suspected syphilis until proven otherwise.
+Preventative measures include:
+Increased use of condoms
+Avoidance of drugs and alcohol when having sex
+Risk reduction counselling and regular syphilis screening for people at high risk
+Available through GUM
+Early recognition of clinical features of syphilis, prompt treatment and prophylactic treatment of exposed contacts
+All pregnant females are screened for syphilis as part of routine antenatal care.
+Improve
+References
+Clinical Knowledge Summaries - Syphilis guidelines
+DermNet NZ - Syphilis images
+British Association for Sexual Health and HIV - UK National Guidelines on the Management of Syphilis 2015
+DermIS.net - Picture of condylomata lata
+Infectious diseases
+Syphilis

@@ -1,0 +1,85 @@
+Cubital tunnel syndrome
+Cubital tunnel syndrome
+Cubital tunnel syndrome occurs due to compression of the ulnar nerve as it passes through the cubital tunnel.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Clincial features
+Tingling and numbness of the 4th and 5th finger which starts off intermittent and then becomes constant.
+Over time patients may also develop weakness and muscle wasting
+Pain worse on leaning on the affected elbow
+Often a history of osteoarthritis or prior trauma to the area.
+Improve
+Investigations
+- Cubital tunnel syndrome is primarily a clinical diagnosis, but investigations are useful to confirm the diagnosis, evaluate severity, and exclude alternative or contributory pathologies.
+First-line investigations
+Nerve conduction studies (NCS) and electromyography (EMG)
+These are the gold standard for confirming ulnar nerve compression at the elbow.
+NCS typically demonstrate slowed conduction velocity across the cubital tunnel segment of the ulnar nerve.
+EMG may show evidence of denervation in ulnar-innervated muscles if there is significant or chronic compression.
+These tests help to distinguish cubital tunnel syndrome from other sites of ulnar neuropathy or more proximal neurological disorders.
+Further investigations
+Imaging is not routinely required but may be indicated in specific scenarios:
+Plain radiographs of the elbow can identify bony abnormalities such as osteophytes, previous fractures, or deformities that could contribute to nerve compression.
+Ultrasound can visualise dynamic changes in the ulnar nerve during elbow movement and assess for structural lesions (e.g. ganglion cysts).
+MRI is reserved for complex cases where a mass lesion or atypical pathology is suspected.
+Key points
+Nerve conduction studies are essential for confirmation and localisation of ulnar nerve compression.
+Imaging should be reserved for atypical presentations or when secondary causes are suspected.
+Blood tests have no role unless systemic disease (e.g. diabetes) is suspected as a contributing factor.
+Improve
+Management
+Management Approach
+The primary aim of treatment is to relieve ulnar nerve compression, reduce symptoms, and prevent progression of neurological deficit
+Management strategy depends on symptom severity, duration, and the presence of motor weakness or muscle wasting
+Conservative management is appropriate for mild to moderate cases, while surgical intervention may be necessary for severe or progressive disease
+Conservative Management
+First-line treatment for mild to moderate symptoms without significant motor weakness:
+Avoidance of activities that exacerbate symptoms, particularly prolonged elbow flexion
+Patient education regarding positional modifications to reduce nerve compression
+Nocturnal elbow splinting in extension or slight flexion (15-45°) to prevent prolonged elbow flexion during sleep
+Elbow padding to protect the ulnar nerve from external compression
+Activity modification to avoid direct pressure on the elbow and repetitive flexion/extension
+Physiotherapy may be beneficial:
+Nerve gliding exercises to improve nerve mobility
+Strengthening exercises for the intrinsic hand muscles if weakness is present
+NICE Clinical Knowledge Summary
+recommends a trial of conservative management for 3-6 months before considering surgical referral
+Surgical Management
+Surgical intervention should be considered in:
+Patients with severe symptoms unresponsive to conservative management
+Cases with progressive neurological deficit or muscle wasting
+Patients with persistent symptoms after 3-6 months of conservative treatment
+Surgical options include:
+In situ decompression
+- simple release of compressive structures around the nerve
+Medial epicondylectomy
+- removal of part of the medial epicondyle to reduce tension on the nerve
+Anterior transposition
+- relocating the nerve anterior to the medial epicondyle (subcutaneous, intramuscular, or submuscular)
+Post-operative rehabilitation is essential:
+Gradual return to activities with physiotherapy guidance
+Nerve gliding exercises to prevent adhesions
+Strengthening exercises for intrinsic hand muscles
+Patients should be counselled that:
+Complete symptom resolution may take several months
+Sensory symptoms typically improve before motor function
+Recovery may be incomplete in cases with longstanding motor deficit
+Improve
+Orthopaedic surgery
+Cubital tunnel syndrome

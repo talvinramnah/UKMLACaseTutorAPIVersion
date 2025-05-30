@@ -1,0 +1,114 @@
+Perthes' disease
+Perthes' disease
+Perthes' disease, or Legg-Calve-Perthes, is a childhood orthopaedic condition characterized by idiopathic avascular necrosis of the femoral head. Primarily affecting children aged 4-8, it is more prevalent in boys. Aetiology remains unknown, but possible factors include genetics, trauma, or vascular anomalies. The disease progresses through four stages: necrosis, fragmentation, reossification, and remodelling. Patients may present with hip, groin, or knee pain, limping, or limited range of motion. Management includes conservative (e.g., physical therapy, anti-inflammatory medications, orthotics) and surgical approaches (e.g., osteotomy, femoral head reduction), with the primary goal being the preservation of the hip joint's range of motion and congruence.
+Last updated: 23
+rd
+May 2023
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: more common in males 5:1
+Condition
+Relative
+incidence
+Transient synovitis
+15.00
+Perthes' disease
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact aetiology of Perthes disease remains elusive, with several hypotheses proposed. Potential contributing factors include:
+Genetic predisposition:
+Familial clustering and higher concordance rates in monozygotic twins suggest a genetic component. Studies have identified associations with certain HLA haplotypes and polymorphisms in genes encoding collagen and matrix metalloproteinases.
+Vascular anomalies:
+Abnormal blood supply to the femoral head may play a role. Vascular studies have shown reduced or absent blood flow to the affected femoral head, implicating ischemia in the pathogenesis.
+Trauma:
+Minor repetitive trauma may disrupt blood supply to the femoral head, leading to avascular necrosis.
+Inflammatory processes:
+Altered immune responses and inflammatory mediators, such as cytokines and prostaglandins, have been implicated in the disease process.
+Endocrine factors:
+Hormonal imbalances or deficiencies may contribute to Perthes disease, given its association with delayed skeletal maturation and short stature.
+Improve
+Pathophysiology
+Perthes disease progresses through four overlapping stages:
+Necrosis:
+Avascular necrosis of the femoral head occurs due to compromised blood supply. This leads to bone cell death, marrow oedema, and subchondral microfractures. Radiographically, this stage may appear normal or show early signs of femoral head involvement.
+Fragmentation:
+As necrotic bone is resorbed, the femoral head begins to fragment and collapse. Osteoclasts remove dead bone, while the reparative process involving osteoblasts and new blood vessels commences. Radiographs reveal fragmentation and decreased density of the femoral head.
+Reossification:
+New bone formation occurs, and the femoral head starts to regain its original shape. Radiographically, there is increased density and restoration of the femoral head contour.
+Remodeling:
+The femoral head continues to remodel and reshape to its final form. Normal joint function may be restored depending on the congruence achieved between the femoral head and acetabulum. Long-term complications include early degenerative changes, hip dysplasia, or femoroacetabular impingement.
+Improve
+Classification
+Catterall staging
+Stage
+Features
+Stage 1
+Clinical and histological features only
+Stage 2
+Sclerosis with or without cystic changes and preservation of the articular surface
+Stage 3
+Loss of structural integrity of the femoral head
+Stage 4
+Loss of acetabular integrity
+Improve
+Clinical features
+The clinical presentation of Perthes disease can vary, with some children being asymptomatic while others experience significant pain and disability. Key presenting features include:
+Pain:
+The most common presenting symptom is pain localized to the hip, groin, or medial thigh. The pain may be aggravated by activity and alleviated by rest. In some cases, pain may be referred to the knee, which can lead to misdiagnosis.
+Limping:
+Children may exhibit a
+limp
+, which can be antalgic (caused by pain) or Trendelenburg (resulting from hip abductor muscle weakness). The limp may be intermittent, becoming more pronounced after periods of activity.
+Limited range of motion:
+Affected children may show decreased hip range of motion, particularly in abduction, internal rotation, and extension. These limitations may be due to pain, joint effusion, or muscle spasm.
+Leg length discrepancy:
+In advanced or bilateral cases, a leg length discrepancy may be present, with the affected limb appearing shorter.
+Muscle atrophy:
+Prolonged disuse of the affected limb can lead to muscle atrophy, particularly in the hip abductor and quadriceps muscles.
+Gait abnormalities:
+In addition to limping, children with Perthes disease may develop gait abnormalities, such as a waddling gait due to abductor muscle weakness.
+Delayed skeletal maturation:
+Children with Perthes disease may show signs of delayed skeletal maturation, including short stature and delayed bone age.
+Incidental radiographic findings:
+In asymptomatic cases, Perthes disease may be discovered incidentally during radiographic evaluation for other reasons.
+Improve
+Investigations
+Radiography:
+Plain radiographs of the pelvis, including anteroposterior and frog-leg lateral views, are the initial imaging modality. Findings include femoral head fragmentation, sclerosis, and flattening.
+Magnetic resonance imaging (MRI):
+MRI can detect early stages of Perthes disease and assess the extent of avascular necrosis, joint effusion, and marrow oedema.
+Bone scintigraphy:
+This can identify early-stage disease and provide information about the extent of involvement, but is less commonly used due to radiation exposure.
+Improve
+Management
+Treatment aims to preserve hip joint range of motion and congruence, minimize deformity, and reduce pain. Management strategies are based on the child's age, disease severity, and stage.
+Conservative management: This includes activity modification, pain management with analgesics or anti-inflammatory medications, and physical therapy to maintain range of motion and muscle strength. Orthotic devices, such as casts or braces, may be used to provide containment of the femoral head within the acetabulum.
+Surgical management: Indications for surgery include persistent pain, progressive deformity, or failed conservative management. Procedures include femoral or pelvic osteotomies to improve hip joint congruence, arthrodiastasis to decompress the hip joint, and, in severe cases, hip arthroplasty.
+Improve
+Complications
+Complications can arise from both the disease process and its treatment. These include:
+Residual deformity: Inadequate remodelling or severe disease can lead to residual deformity, compromising hip joint congruence and function.
+Leg length discrepancy: Unequal limb growth may result in leg length discrepancies, causing gait abnormalities and long-term functional issues.
+Osteoarthritis: Altered joint biomechanics and cartilage damage predispose patients to early-onset osteoarthritis.
+Femoroacetabular impingement: Abnormal joint morphology can cause femoroacetabular impingement, leading to pain, limited range of motion, and cartilage damage.
+Avascular necrosis recurrence: Rarely, avascular necrosis can recur in the same or contralateral hip.
+Surgical complications: Infections, bleeding, neurovascular injuries, and hardware failure may occur following surgical interventions.
+Close monitoring and timely interventions are critical in minimizing complications and preserving hip joint function in children with Perthes disease.
+Improve
+Prognosis
+Prognosis
+Most cases will resolve with conservative management. Early diagnosis improves outcomes.
+Improve
+Paediatric musculoskeletal problems
+Perthes' disease

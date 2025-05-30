@@ -1,0 +1,89 @@
+Congenital adrenal hyperplasia
+Congenital adrenal hyperplasia
+Congenital adrenal hyperplasia (CAH)
+is an autosomal recessive disorder characterised by impaired cortisol production due to enzymatic defects in the adrenal steroidogenesis pathway. The most common variant, accounting for approximately 95% of cases, is 21-hydroxylase deficiency. This results in a compensatory increase in adrenocorticotropic hormone (ACTH) secretion, leading to adrenal hyperplasia and overproduction of adrenal androgens.
+Patients present with varying degrees of virilisation or salt-wasting symptoms depending on the severity of enzyme deficiency. Females with classic CAH often exhibit ambiguous genitalia at birth while males may appear phenotypically normal but can develop signs of precocious puberty. Non-classic CAH presents later in life with symptoms including hirsutism, menstrual irregularities, and infertility.
+The diagnosis is confirmed by elevated serum 17-hydroxyprogesterone levels and genetic testing. Management involves glucocorticoid replacement to suppress ACTH secretion and control symptoms. Surgical correction may be required for females with ambiguous genitalia.
+Last updated: 24
+th
+July 2024
+Aetiology
+Congenital adrenal hyperplasia (CAH) is primarily attributed to genetic mutations affecting enzymes involved in steroidogenesis within the adrenal cortex. The following outlines key risk factors and underlying causes:
+Genetic Mutations:
+CAH is most commonly caused by autosomal recessive mutations in genes encoding enzymes required for cortisol biosynthesis. The most frequent mutation occurs in the CYP21A2 gene, resulting in 21-hydroxylase deficiency.
+Enzyme Deficiencies:
+21-Hydroxylase deficiency: Accounts for approximately 95% of CAH cases. Impaired conversion of 17-hydroxyprogesterone to 11-deoxycortisol leads to cortisol deficiency and androgen excess.
+11β-Hydroxylase deficiency: Results from mutations in the CYP11B1 gene, leading to accumulation of 11-deoxycortisol and increased production of androgen precursors.
+17α-Hydroxylase/17,20-Lyase deficiency: Caused by mutations in the CYP17A1 gene, leading to impaired synthesis of both glucocorticoids and sex steroids.
+3β-Hydroxysteroid dehydrogenase type II deficiency: Results from HSD3B2 gene mutations, disrupting the conversion of pregnenolone to progesterone, affecting all steroidogenic pathways.
+Familial History:
+A positive familial history increases the likelihood of inheriting CAH due to its autosomal recessive inheritance pattern. Genetic counselling is often recommended for families with a known history of CAH.
+Prenatal Exposure:
+Maternal exposure to certain medications or environmental toxins that interfere with fetal steroidogenesis can potentially contribute to adrenal insufficiency resembling CAH phenotypes.
+Improve
+Pathophysiology
+Congenital adrenal hyperplasia (CAH) is a group of autosomal recessive disorders characterised by enzyme deficiencies in the steroidogenesis pathway of the adrenal cortex. The most common form involves 21-hydroxylase deficiency, which impairs cortisol and aldosterone synthesis.
+The pathophysiology begins with mutations in the CYP21A2 gene encoding the 21-hydroxylase enzyme. This deficiency reduces cortisol production, leading to diminished negative feedback on the hypothalamus and pituitary gland. As a result, adrenocorticotropic hormone (ACTH) secretion increases, stimulating adrenal hyperplasia and overproduction of steroid precursors.
+Accumulation of 17-hydroxyprogesterone occurs due to blocked conversion to 11-deoxycortisol. Excess 17-hydroxyprogesterone is diverted towards androgen synthesis, resulting in elevated levels of androstenedione and testosterone. This androgen excess causes virilisation in females and early virilisation or precocious puberty in males.
+Aldosterone synthesis may also be impaired due to deficient 21-hydroxylase activity, leading to salt-wasting forms of CAH. Reduced aldosterone levels cause sodium loss and potassium retention, manifesting as hyponatraemia, hyperkalaemia, dehydration, and hypotension.
+Chronic ACTH stimulation leads to adrenal hyperplasia but does not correct the underlying hormonal imbalances. Persistent elevation in androgen levels can disrupt normal growth patterns and skeletal maturation, potentially causing short stature if untreated.
+Other less common forms of CAH involve deficiencies in other enzymes such as 11β-hydroxylase, 17α-hydroxylase, and 3β-hydroxysteroid dehydrogenase. Each of these enzyme deficiencies results in a unique combination of excesses and deficiencies of various adrenal hormones.
+In summary:
+CYP21A2 mutations impair 21-hydroxylase function
+Reduced cortisol production increases ACTH secretion
+Adrenal hyperplasia results from chronic ACTH stimulation
+Steroid precursors accumulate due to enzymatic blockages
+Excess androgen synthesis causes virilisation
+Aldosterone deficiency leads to electrolyte imbalances
+Persistent hormonal disturbances affect growth and development
+Improve
+Diagnosis
+The diagnosis of Congenital adrenal hyperplasia (CAH) involves a multi-faceted approach, incorporating clinical presentation, biochemical evaluation, and genetic testing. The diagnostic pathway includes:
+Clinical Presentation:
+Newborns with severe forms of CAH often present with ambiguous genitalia in females and salt-wasting crises in both sexes. Milder forms may remain undiagnosed until later in life when symptoms such as premature pubarche, hirsutism, oligomenorrhoea, or infertility become apparent.
+Biochemical Evaluation:
+This involves assessing the levels of 17-hydroxyprogesterone (17-OHP), which is typically elevated in CAH due to 21-hydroxylase deficiency. A baseline early morning level of 17-OHP greater than 30 nmol/L is suggestive of CAH. In cases where the result is borderline, an ACTH stimulation test may be necessary to confirm the diagnosis.
+Genetic Testing:
+Genetic testing can provide definitive confirmation of the diagnosis by identifying mutations in the CYP21A2 gene that are responsible for more than 90% of CAH cases.
+In line with UK protocols for newborn screening programmes, all infants should undergo screening for CAH using a heel prick blood spot sample collected between day five and eight after birth. An elevated level of 17-OHP on this screening test is indicative of potential CAH and warrants further investigation.
+Improve
+Differential diagnosis
+When considering the differential diagnosis of congenital adrenal hyperplasia (CAH), it is essential to distinguish it from other conditions that may present with similar clinical features. The following are three of the most likely alternative diagnoses, with a focus on their differences in clinical presentation:
+Androgen Insensitivity Syndrome (AIS)
+Genetics: AIS is caused by mutations in the androgen receptor gene located on the X chromosome, leading to varying degrees of resistance to androgens.
+Clinical Presentation: Patients with complete AIS typically present with female external genitalia despite having a 46,XY karyotype. Individuals may have undescended testes and lack Müllerian structures such as the uterus and fallopian tubes. Partial AIS can result in ambiguous genitalia.
+Hormonal Profile: Elevated levels of luteinising hormone (LH) and testosterone are common due to impaired androgen action. Unlike CAH, there is no elevation in 17-hydroxyprogesterone.
+Turner Syndrome
+Genetics: Turner syndrome results from monosomy X (45,X) or other structural abnormalities involving the X chromosome.
+Clinical Presentation: Phenotypically female individuals often exhibit short stature, webbed neck, low-set ears, and primary amenorrhoea due to ovarian dysgenesis. They do not display virilisation or ambiguous genitalia typical of CAH.
+Hormonal Profile: Gonadotrophins (LH and follicle-stimulating hormone [FSH]) are elevated due to gonadal failure. Unlike CAH, there is no evidence of adrenal hyperandrogenism or elevated 17-hydroxyprogesterone levels.
+Pituitary Adenoma
+Aetiology: Pituitary adenomas are benign tumours that can secrete various hormones depending on their cell type origin.
+Clinical Presentation: Symptoms vary based on the hormonal activity of the adenoma. For example, corticotroph adenomas cause Cushing's disease characterised by central obesity, moon face, hypertension, and skin changes. Gonadotroph adenomas may lead to menstrual irregularities but do not cause virilisation or ambiguous genitalia seen in CAH.
+Hormonal Profile: Hormone secretion profiles differ based on tumour type but do not show elevated 17-hydroxyprogesterone as seen in CAH. Imaging studies often reveal an enlarged pituitary gland or mass effect symptoms such as headaches and visual disturbances.
+Improve
+Complications
+Complications of congenital adrenal hyperplasia (CAH) vary depending on the specific enzyme deficiency and its severity. The most likely complications include:
+Adrenal insufficiency:
+This is an acute life-threatening condition characterised by hypotension, electrolyte imbalances, and hypoglycaemia. It requires immediate medical intervention with intravenous hydrocortisone and fluid resuscitation.
+Electrolyte imbalances:
+Salt-wasting forms of CAH can lead to hyponatraemia, hyperkalaemia, and hypovolaemic shock due to aldosterone deficiency.
+Virilisation:
+Excess androgen production can result in ambiguous genitalia in female infants and precocious puberty in both sexes.
+Fertility issues:
+Females with CAH often suffer from fertility problems due to irregular menstrual cycles, polycystic ovarian syndrome (PCOS), or anatomical abnormalities. Males may experience reduced fertility due to testicular adrenal rest tumours (TART).
+Poor growth and short stature:
+Chronic glucocorticoid therapy can result in iatrogenic Cushing syndrome, negatively affecting growth velocity and final adult height.
+Psychosocial issues:
+Gender identity concerns, psychological distress, and social stigma may arise due to atypical physical development.
+Lesser-known but significant complications include:
+Hypertension:
+Some forms of CAH such as 11β-hydroxylase deficiency are associated with mineralocorticoid excess leading to hypertension.
+Bone density reduction:
+Long-term glucocorticoid use can induce osteoporosis or osteopenia.
+Pseudomonas aeruginosa
+-related infections: Increased susceptibility due to impaired neutrophil function has been documented in some patients on chronic steroid therapy.
+A multidisciplinary approach is essential for managing the diverse complications associated with CAH effectively. Regular monitoring and tailored treatment plans are crucial for optimising patient outcomes.
+Improve
+Congenital abnormalities
+Congenital adrenal hyperplasia

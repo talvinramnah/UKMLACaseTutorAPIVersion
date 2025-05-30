@@ -1,0 +1,186 @@
+Febrile convulsion
+Febrile convulsion
+Febrile convulsions are
+seizures
+associated with
+fever
+(>37.8ÂºC) and not due to other underlying pathology such as epilepsy or infection. Febrile convulsions occur in children aged between 6 months and 5 years and are relatively common, with around 2-5% of children experiencing at least one.
+Though by definition febrile convulsions are not the same as epileptic seizures, which are non-febrile, a small proportion of children who experience them do go on to develop epilepsy later in childhood, particularly if they have experienced more than one.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 2100.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Febrile convulsion
+1
+Epilepsy: first
+seizure
+0.02
+Bacterial meningitis
+0.004
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Exact mechanisms are unknown but likely multifactorial. There is some suggestion of a genetic component, and family history is an important predicting factor; around 24% of affected children have a first-degree family member who has had febrile seizures. Concordance rates of febrile seizures are also higher in monozygotic twins than in dizygotic twins.
+Any febrile illness can cause febrile seizures, but around 80% are viral. Common causes include:
+Respiratory tract infections
+Otitis media
+Urinary tract infections
+Influenza.
+Human herpes virus 6 (HHV-6) has been implicated in particular. HHV-6 causes roseola infantum, or sixth disease, and studies have suggested a relatively high incidence of primary HHV-6 infection in children with febrile seizures compared with other viral infection.
+In rare cases, febrile seizures may occur post-immunisation. Associations with the MMR and diphtheria-tetanus-pertussis vaccines in particular have been suggested, with
+fever
+and resultant
+seizure
+occurring within around 1-2 weeks of receiving the vaccination. However, their benefits outweigh the risks and children should still receive all vaccinations as normal.
+There is also evidence of an association between febrile convulsions and prematurity.
+Risk of recurrence is lower in older children. Risk of recurrence is also lower with a higher temperature threshold for seizure; that is, children who experience seizures with a lower fever are more likely to experience another. Seizures are also more closely associated with a sudden rise in temperature rather than the absolute height of the fever alone.
+Improve
+Clinical features
+The majority of children (75%) present with a
+simple febrile convulsion
+. This is typically a generalised tonic-clonic
+seizure
+, presenting with muscle stiffness and jerking or shaking of the limbs, without focal features. Additional features may include:
+Breathing difficulties
+Pallor
+Cyanosis
+Loss of consciousness
+This is often followed by post-ictal drowsiness and confusion, which may last anywhere from several minutes to hours. Seizures rarely last longer than 10 minutes, occur once within 24 hours or within the same febrile illness, and resolve spontaneously, the vast majority with full recovery within 1 hour.
+Complex febrile convulsions
+present similarly but with more focal features, such as movement limited to only one side of the body. These last longer than 15 minutes and recur within 24 hours or within the same illness, unlike simple convulsions. The post-ictal period is often prolonged compared with simple convulsions.
+Febrile status epilepticus
+is defined as a seizure lasting longer than 30 minutes; these occur in 5% of children with febrile seizures and is unlikely to resolve without intervention.
+Seizures typically occur within the first 24 hours of a febrile illness, though may also present later. Though by definition these seizures are associated with
+fever
+, they do not necessarily present at the temperature peak. Seizures are more commonly associated with a sudden rise in temperature, rather than the absolute height of a fever.
+An eyewitness history is key to establish the duration and nature of the seizure. Important features to ask about:
+Presence of fever
+Onset
+Peak temperature
+Duration
+Details of seizure
+Characteristics
+Duration
+It is also important to clarify whether this is the first presentation of a seizure.
+Additional factors to note include developmental history and immunisation history, including any recent immunisations.
+Improve
+Investigations
+Diagnosis of a febrile convulsion is typically clinical and may not warrant further investigation on first presentation. Temperature should be checked following the
+seizure
+, and assessment of the child's level of consciousness and any focal neurological deficits, e.g. muscle weakness.
+Initial investigations may be carried out with regards to the
+fever
+if necessary, e.g. if the cause is uncertain:
+Bloods: FBC, U&E, ESR, coagulation, glucose
+Urine culture, if <18 months of age or complex seizure.
+Additional investigations are primarily to exclude more serious differentials and can be considered based on clinical judgement.
+Lumbar puncture is important to consider to rule out meningitis, though only if there are indicative signs and/or symptoms, e.g. neck stiffness, Kernig and/or Brudzinski signs. The American Association of Pediatrics details guidance on indication for lumbar puncture, including:
+Presence of indicative signs and/or symptoms, e.g. neck stiffness or Kernig and/or Brudzinski signs.
+If meningitis is suspected, blood cultures can be taken in addition to identify any bacteraemia.
+The child has not received all scheduled immunisations to date (in particular Haemophilus influenza B and pneumococcal vaccines).
+There is recent or current use of antibiotics.
+There are several reasons to reconsider performing a lumbar puncture, not least because it is an invasive and often painful procedure. Parent/carer preference and unnecessary use of resources are all important factors; that said, risks vs. benefits must be weighed up in the case of a child with suspected
+bacterial meningitis
+, for example, which can be fatal if left untreated.
+Alternative investigations that may be considered:
+Electroencephalography (EEG) is not usually indicated for febrile convulsions; it cannot predict the likelihood of a recurrence or development of epilepsy. It may however be considered in children with a history of febrile convulsions who then develop afebrile seizures.
+Brain MRI is not indicated for simple febrile convulsions but may be considered if encephalopathy is suspected, or with an atypical developmental history or neurological exam that could be suggestive of an intracranial space-occupying lesion.
+Improve
+Differential diagnosis
+Most additional investigations are performed to exclude or diagnose an important differential, though several are rare.
+Epileptic seizures
+are important to rule out. These are typically afebrile, and epileptiform activity is seen on EEG.
+Viral meningitis
+may present with
+fever
+and seizures. However, other classic symptoms of meningitis including neck stiffness, nausea, and photophobia are unlikely to present with a febrile convulsion.
+Bacterial meningitis
+similarly involves additional symptoms including lethargy and rash. CSF analysis through lumbar puncture is also indicative, typically showing pleocytosis, elevated protein, and positive culture.
+Asking about any recent or current
+use of antibiotics
+is key, as they may mask symptoms of meningitis.
+Acute encephalopathy
+may present with seizures alongside other symptoms such as vomiting and impairment of consciousness. If this is suspected, other investigations such as lumbar puncture, EEG, and MRI may be warranted.
+Dravet syndrome
+, previously known as severe myoclonic epilepsy of infancy, is a much more serious, lifelong condition, presenting with intractable seizures that are difficult to manage. The first
+seizure
+often occurs with a fever, but it is distinct from febrile convulsions in that it commonly presents with additional issues including developmental delay. It is also unlikely to present after the first year of life.
+Fever is often associated with rigors, i.e. 'chills' or spells of shivering. A key difference here is that the child will be conscious and responsive.
+Additional possible causes include head trauma, hypoglycaemia, or breath-holding spells.
+Improve
+Management
+Advice to parents/carers prior to seeing a healthcare professional includes:
+Check the airway and breathing of the child
+Protect from injury during the
+seizure
+by cushioning their head and removing from any potential harm
+Monitor duration of the seizure.
+Simple, brief febrile convulsions will typically self-resolve and do not require specific treatment. Antipyretics such as ibuprofen or paracetamol are commonly given to reduce
+fever
+, though they themselves do not prevent additional febrile convulsions.
+If the seizure lasts for longer than 5 minutes or recur, advice is to call an emergency ambulance.
+If possible and if previously advised by a specialist, urgent management with benzodiazepines should be given, either
+buccal midazolam
+or
+rectal diazepam
+, as per NICE guidelines. Another dose can be given if the seizure does not abate within 10 minutes.
+International guidelines may differ; for example, guidance in the US is to administer benzodiazepines intravenously rather than orally/rectally. Considerations here are based on the more rapid response that can be achieved with IV preparations, vs. the potential difficulties in gaining IV access.
+Consider outpatient referral if an alternative cause is suspected, e.g. epilepsy. Urgent referral for assessment by a paediatrician should be arranged under certain circumstances:
+First presentation of febrile convulsion
+Diagnostic uncertainty
+Aged <18 months; signs of CNS infection may be more subtle in these children
+Antibiotics have recently been taken, due to potential masking of symptoms of meningitis.
+Improve
+Complications
+Complications are more common following complex febrile seizures.
+Todd's paresis
+, or Todd's palsy, is defined as transient hemiparesis following a febrile
+seizure
+. This is a potential short-term complication of complex or focal seizures in particular, and usually subsides completely within 48 hours.
+Non-febrile seizure
+or
+epilepsy
+(recurrent non-febrile seizures) are potential outcomes for children with febrile convulsions, particularly those that recur or are prolonged.
+Seizures may develop into
+febrile status epilepticus
+, which is a risk factor for further seizures.
+Parental anxiety is understandably very common. Reassurance and education about management are important to address.
+Improve
+Prognosis
+Long-term outlook is generally very good, and it is important to communicate this to parents/carers. Common concerns are about the potential for recurrence, the risk of developing epilepsy, and whether or not their child should be given medication.
+Febrile convulsions recur in approximately 30% of children, and normally do not recur beyond approximately age 5. Important risk factors for recurrence include:
+Early onset, under 18 months of age
+History of complex febrile seizures
+Episode of febrile status epilepticus
+Short duration of
+fever
+prior to
+seizure
+Family history of febrile seizures or epilepsy.
+The risk of developing epilepsy in children who have experienced febrile seizures is slightly higher than in those who have not. Several prospective cohort studies have highlighted differences depending on the nature of the seizures, including age of onset, simple vs. complex, and recurrence.
+On average, around
+1% of children with simple febrile seizures subsequently develop epilepsy
+, rising to around
+4-6% with complex seizures
+or any of the aforementioned risk factors. This is compared with children in the general population, of whom around 0.5% are estimated to be diagnosed with epilepsy.
+One key study followed a cohort of children with febrile seizures up until the age of 7, identifying those who developed epilepsy by this time and looking at the effect of three pre-defined risk factors: experiencing a complex seizure, family history, and preexisting neurological abnormality. Of the children with no risk factors, 1% developed epilepsy by the age of 7. 2% of those with 1 risk factor developed epilepsy, rising to 10% with 2 or more. The same study also found that the major factor in recurrence of febrile seizures was earlier age at onset.
+Another review highlighted that a cohort of children with febrile seizures who were followed up for a period of 10 years were no different in terms of behaviour or academic progress compared with controls, regardless of the type of seizure(s) they had experienced. Another group, some of whom were given prophylactic benzodiazepines following a seizure and some who were not, were also almost identical with regards to IQ and cognitive abilities at their follow-up assessment.
+Improve
+References
+Clinical Knowledge Summaries - Febrile convulsions
+Paediatric neurology
+Febrile convulsion

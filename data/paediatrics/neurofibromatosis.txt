@@ -1,0 +1,90 @@
+Neurofibromatosis
+Neurofibromatosis
+Neurofibromatosis is a group of genetic disorders characterised by the growth of neurofibromas, benign tumours that affect nerve tissue. It encompasses two distinct types: Neurofibromatosis type 1 (NF1), also known as von Recklinghausen disease, and Neurofibromatosis type 2 (NF2). NF1 typically presents with café-au-lait spots, freckling in the axillary or inguinal regions, Lisch nodules in the iris, and neurofibromas. NF2 is less common and primarily associated with bilateral vestibular schwannomas leading to sensorineural hearing loss. Both types can result in various neurological complications, including learning disabilities and seizures. Diagnosis is based on clinical criteria; however, molecular genetic testing can confirm it. Management involves multidisciplinary care to address specific symptoms and prevent complications. The condition has an autosomal dominant inheritance pattern but half of cases arise from de novo mutations.
+Last updated: 24
+th
+July 2024
+Clinical features
+A stereotypical presentation of neurofibromatosis often includes cutaneous manifestations, such as café-au-lait macules and neurofibromas. The former are pigmented patches that typically appear at birth or early childhood, while the latter are benign tumours that develop from the nerve sheath and may not become apparent until later in life.
+Cutaneous Features
+Café-au-lait macules:
+These hyperpigmented lesions are usually present at birth or appear during the first year of life. They have smooth borders and can vary in size. Six or more café-au-lait macules over 5mm in prepubertal individuals and over 15mm in postpubertal individuals is a diagnostic criterion for neurofibromatosis type 1 (NF1).
+Neurofibromas:
+These benign tumours may be superficial or deep-seated. Superficial neurofibromas present as soft, skin-coloured nodules, while deep-seated ones can cause a variety of symptoms depending on their location.
+Freckling:
+Axillary or inguinal freckling is another characteristic feature of NF1. These freckles tend to be smaller and denser than typical sun-induced freckles.
+Ocular Features
+Lisch nodules:
+These harmless hamartomas of the iris are nearly pathognomonic for NF1. They do not affect vision but their presence aids diagnosis.
+Optic pathway gliomas:
+While these benign brain tumours occur in approximately 15% of people with NF1, they may be asymptomatic and only detected through routine screening.
+Skeletal Features
+Scoliosis:
+This may be present in up to half of individuals with NF1. It can lead to significant morbidity if not detected and treated early.
+Pseudarthrosis:
+A false joint resulting from a pathologic fracture that fails to heal normally. This is more common in the tibia and can cause limb-length discrepancy or deformity.
+Neurological Features
+Learning disabilities:
+These are seen in approximately half of individuals with NF1, although intelligence is usually within the normal range.
+Epilepsy:
+Seizures occur in 5-10% of people with NF1, often secondary to structural brain abnormalities.
+Malignant peripheral nerve sheath tumours (MPNSTs):
+These aggressive cancers occur in approximately 10% of people with NF1 and represent a significant cause of mortality.
+Improve
+Diagnosis
+Neurofibromatosis is classified into two types: Neurofibromatosis type 1 (NF1) and Neurofibromatosis type 2 (NF2), each with distinct diagnostic criteria.
+Diagnostic Criteria for Neurofibromatosis Type 1 (NF1)
+A patient should be diagnosed as having NF1 if two or more of the following features are present:
+Six or more café-au-lait macules over 5 mm in greatest diameter in prepubertal individuals and over 15 mm in greatest diameter in postpubertal individuals.
+Two or more neurofibromas of any type or one plexiform neurofibroma.
+Freckling in the axillary or inguinal regions.
+Optic glioma (tumour on the optic nerve).
+Two or more Lisch nodules (iris hamartomas).
+A distinctive osseous lesion such as sphenoid dysplasia or thinning of long bone cortex with or without pseudoarthrosis.
+A first-degree relative (parent, sibling, child) with NF1 as per above diagnostic criteria.
+Diagnostic Criteria for Neurofibromatosis Type 2 (NF2)
+NF2 is less common than NF1 and its diagnosis requires either of the following:
+Bilateral vestibular schwannomas. The definitive diagnosis is made by magnetic resonance imaging. This remains the hallmark feature of NF2 even though it may not be initially present in young patients who eventually manifest other stigmata of NF2.
+A first-degree relative with NF2 and either unilateral vestibular schwannoma at age less than 30 years, or any two of the following: meningioma, glioma, schwannoma, juvenile posterior subcapsular lenticular opacity/cataract.
+It is important to note that these diagnostic criteria are based on clinical findings alone. Genetic testing can provide additional confirmation of the diagnosis but is not required for it. Furthermore, the absence of a family history does not exclude NF1 or NF2 as these conditions may arise from spontaneous mutations.
+Improve
+Management
+The management of Neurofibromatosis (NF) is multifaceted, necessitating a multidisciplinary team approach. This should include a geneticist, neurologist, oncologist, orthopaedic surgeon and ophthalmologist.
+Medical Management:
+Analgesia: Non-steroidal anti-inflammatory drugs (NSAIDs) or opioids may be required for pain related to plexiform neurofibromas.
+Antihypertensives: Angiotensin-converting enzyme inhibitors or calcium channel blockers are recommended for hypertension secondary to renal artery stenosis in NF1 patients.
+Malignant Peripheral Nerve Sheath Tumours (MPNSTs): MPNSTs require aggressive treatment with surgery, radiation therapy and chemotherapy. The MEK inhibitor Selumetinib has shown promise in shrinking tumours in children with NF1.
+Surgical Management:
+Plexiform Neurofibromas: These can cause significant morbidity due to their size and location. Surgical debulking is often necessary but complete resection is usually not possible due to the infiltrative nature of these tumours.
+Optic Pathway Gliomas: Surgery may be indicated if there is rapid progression of symptoms despite medical therapy. However, it carries significant risk due to the proximity of critical structures.
+Scoliosis: Orthopaedic intervention may be required for progressive scoliosis associated with NF1. Spinal fusion might be necessary for severe cases.
+Ophthalmological Management:
+Lisch Nodules: These hamartomas do not require treatment but regular ophthalmological assessments are essential to monitor for optic pathway gliomas.
+Psychological and Educational Support:
+Children with NF1 are at increased risk of learning disabilities, ADHD and autism spectrum disorder. An individualised education plan and psychological support should be provided.
+Genetic counselling is an integral part of management due to the autosomal dominant inheritance pattern of NF. Prenatal testing and preimplantation genetic diagnosis may be offered to affected individuals or couples at risk.
+Improve
+Complications
+Complications of neurofibromatosis include:
+Cutaneous and subcutaneous neurofibromas:
+These may cause disfigurement, pain, and functional impairment depending on their size and location.
+Plexiform neurofibromas:
+These can lead to significant morbidity due to potential for malignant transformation into malignant peripheral nerve sheath tumours (MPNSTs).
+Optic pathway gliomas:
+Common in children with NF1, these can result in vision loss or other ocular complications.
+Skeletal abnormalities:
+Scoliosis, tibial dysplasia, and sphenoid wing dysplasia are frequently observed. These conditions may necessitate surgical intervention.
+Cognitive impairments:
+Learning disabilities and attention deficit hyperactivity disorder (ADHD) are prevalent among patients with NF1.
+Cardiovascular issues:
+Hypertension is common; vascular abnormalities such as renal artery stenosis or moyamoya syndrome may occur.
+Aqueductal stenosis and hydrocephalus:
+These complications require prompt neurosurgical evaluation and potential intervention.
+Meningiomas and astrocytomas:
+Increased risk of central nervous system tumours requiring regular monitoring through imaging studies.
+Lesser-known complications include gastrointestinal stromal tumours (GISTs), pheochromocytomas, and an increased risk of breast cancer in women under 50 years old. Regular surveillance is recommended to manage these risks effectively. Genetic counselling should be offered to affected individuals due to the hereditary nature of the disorder.
+Improve
+References
+National Center for Biotechnology Information - Guidelines for the diagnosis and management of individuals with neurofibromatosis 1
+Paediatric neurology
+Neurofibromatosis

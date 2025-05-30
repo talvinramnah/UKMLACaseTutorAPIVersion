@@ -1,0 +1,386 @@
+Non-Hodgkin's lymphoma
+Non-Hodgkin's lymphoma
+Non-Hodgkin lymphomas (NHL) are a heterogeneous group of cancers occurring from the malignant proliferation of lymphocytes. The majority of these are derived from B cells (85-90%), with the remainder occurring from T cells or natural killer cells. Together, these comprise the sixth most common
+cancer
+in the UK.
+NHL is 5 times as common as
+Hodgkin's
+lymphoma
+(HL). Differences between these two diseases are listed below:
+Hodgkin's
+Non-Hodgkin's
+Mature B cells - Reed Sternberg cells
+B or T cells affected, at various stages of maturation
+Bimodal age distribution
+More common with increasing age
+Contiguous spread
+Non-contiguous spread
+Extranodal disease uncommon
+Extranodal disease common
+Systemic symptoms common
+Systemic symptoms not common
+Despite considerable diversity, NHL share some common clinical and pathological features.
+Last updated: 24
+th
+December 2023
+Epidemiology
+Incidence: 21.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.2:1
+Condition
+Relative
+incidence
+Non-
+Hodgkin's
+lymphoma
+1
+Chronic lymphocytic leukaemia
+0.29
+Hodgkin's lymphoma
+0.16
+Castleman's disease
+0.07
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact aetiology of many NHL is unknown. However, some conditions as associated with a significantly higher risk for development of lymphomas.
+Immunosuppression:
+Patients receiving immunosuppressive therapy following bone marrow or solid organ transplantation have a risk of developing post-transplant lymphoproliferative disorders
+Infections:
+HIV
+infection relays a 60-100 fold increased risk for NHL - usually diffuse large B-cell
+lymphoma
+or Burkitt lymphoma
+AIDS-related NHL is an AIDS defining illness, and is the second commonest tumour affecting people with HIV
+Older age, low CD4 cell counts and failure of prior treatment with highly active anti retroviral therapy (HAART) increase risk
+HTLV-I
+causes adult T-cell leukaemia/lymphoma
+EBV
+causes Burkitt lymphoma
+Helicobacter pylori
+infection may cause mucosa-associated lymphoid tissue (MALT) lymphoma, particularly of the stomach.
+Hepatitis C
+Autoimmune diseases:
+Patients with rheumatoid arthritis, lupus, Sjogren syndrome and coeliac disease, Hashimoto's thyroiditis have a higher risk for NHL.
+Improve
+Pathophysiology
+As mentioned above, NHL may arise from B-, T-, or NK- cells, and either involving precursor or mature cells. The stage of lymphocyte differentiation at which the oncogenic event occurs determines the disease presentation and outcome.
+Lymphoma
+develops due to the progressive acquisition of DNA alterations that include gene mutation, amplification or deletion and chromosomal translocation. Particular subtypes of lymphoma are associated with specific acquired genetic abnormalities:
+Translocation of the BCL2 oncogene in follicular lymphoma
+Translocation of the MYC oncogene in Burkitt lymphoma
+Improve
+Classification
+The World Health Organisation have proposed a histological classification of NHL, based on the origin of the neoplastic cell. This consists of two main categories: mature B-cell neoplasms, and mature T-cell and NK-cell neoplasms.
+NHL may also be classified into low- and high-grade.
+Low-grade NHL have relatively good prognosis. Once advanced, however they are not curable.
+High-grade NHL progess more quickly, but chemotherapy is more effective in these types.
+90% of NHLs originate from B-cells. Of these, follicular and diffuse large B-cell lymphomas are the most common:
+Follicular
+lymphoma
+Most common type of indolent NHL
+35% of all NHL
+Diffuse large B-cell lymphoma
+Most common type of aggressive NHL
+30-58% of all NHL
+30-40% of all B-cell lymphomas
+The full classification is listed below:
+B-cell neoplasms
+1.	Precursor B-cell neoplasm: precursor B-acute lymphoblastic leukemia/lymphoblastic lymphoma
+2.	Peripheral B-cell neoplasms
+B-cell
+chronic lymphocytic leukaemia
+/small lymphocytic lymphoma
+B-cell prolymphocytic leukaemia
+Lymphoplasmacytic lymphoma/immunocytoma
+Mantle cell lymphoma
+Follicular lymphoma
+Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphatic tissue (MALT) type
+Nodal marginal zone B-cell lymphoma (Â± monocytoid B-cells)
+Splenic marginal zone lymphoma (Â± villous lymphocytes)
+Hairy cell leukemia
+Plasmacytoma/plasma cell myeloma
+Diffuse large B-cell lymphoma
+Burkitt lymphoma
+T-cell and NK-cell neoplasms
+1.	Precursor T-cell neoplasm: precursor T-acute lymphoblastic leukaemia/lymphoblastic lymphoma
+2.	Peripheral T-cell and NK-cell neoplasms
+T-cell chronic lymphocytic leukaemia/prolymphocytic leukaemia
+T-cell granular lymphocytic leukaemia
+Mycosis fungoides/Sezary syndrome
+Peripheral T-cell lymphoma, not otherwise characterized
+Hepatosplenic gamma/delta T-cell lymphoma
+Subcutaneous panniculitis-like T-cell lymphoma
+Angioimmunoblastic T-cell lymphoma
+Extranodal T-/NK-cell lymphoma, nasal type
+Enteropathy-type intestinal T-cell lymphoma
+Adult T-cell lymphoma/leukaemia (human T-lymphotrophic virus [HTLV] 1+)
+Anaplastic large cell lymphoma, primary systemic type
+Anaplastic large cell lymphoma, primary cutaneous type
+Aggressive NK-cell leukaemia
+Improve
+Clinical features
+NHL is typically disseminated at presentation, with two-thirds of patients presenting with
+painless
+lymphadenopathy
+: cervical, axillary, inguinal, and femoral lymph nodes are the most commonly involved. Extranodal involvement is also common, and may affect any organ; the most common sites are the GI tract (stomach, in particular), skin, and bone marrow. Where bone marrow involvement is seen, cytopenia may occur - presentation may involve
+anaemia
+, infections or purpura. The central nervous system may also be affected, either primarily, or as part of disease dissemination.
+Enlarging nodes can cause symptoms due to mass effect:
+Compression of the superior vena cava: shortness of breath and facial oedema
+Compression of the external biliary tree: jaundice
+Compression of the ureters: hydronephrosis
+Bowel obstruction: vomiting and constipation
+Impaired lymph drainage: chylous pleural or peritoneal fluid, or lymphoedema of the lower limbs
+B symptoms
+indicate worse prognosis. These comprise
+weight loss
+>10%,
+night sweats
+,
+pyrexia
+>38ÂºC.
+Manifestations of some specific NHL presentations include:
+Mycosis fungoides: skin lesions including an eczematous reaction which proceeds to form plaques, tumours, and fungating ulcers. Erythroderma may also occur - this is highly pruritic
+Lymphoblastic
+lymphoma
+: mediastinal mass, superior vena cava syndrome and meningeal disease with cranial nerve palsies
+Burkitt's lymphoma: large abdominal mass and symptoms of bowel obstruction
+Adult T-cell leukaemia-lymphoma: fulminating clinical course with skin infiltrates, lymphadenopathy, hepatosplenomegaly, and leukaemia. May also be associated with symptoms of hypercalcemia
+Anaplastic large cell lymphoma: rapidly progressive skin lesions, adenopathy, and visceral lesions
+Improve
+Investigations
+Initial investigations include:
+Blood tests: FBC (
+anaemia
+, thrombocytopenia, neutropenia,
+lymphocytosis
+), U&E (acute kidney injury from obstructive nephropathy), LFTs, LDH (often elevated in high grade lymphomas, but non-specific), screening tests (hepatitis B/C, HIV, HTLV-1), β2-microglobulin
+Chest x-ray: mediastinal adenopathy, pleural or pericardial effusions and parenchymal involvement
+MRI of brain and/or spinal cord if neurologic symptoms are present
+Diagnostic tests
+Biopsy:
+If the lesion is easily palpable, an excisional biopsy is preferred.
+If the lesion is in the lung or abdomen, a core needle biopsy is preferred
+Immunophenotyping:
+FISH (fluorescence in situ hybridisation) is used to identify a MYC rearrangement (Burkitt's
+lymphoma
+) in all people newly presenting with histologically high-grade B-cell lymphoma
+If a MYC rearrangement is found, FISH is then used to identify the immunoglobulin partner and the presence of BCL2 and BCL6 rearrangements
+Staging tests:
+CT chest abdomen pelvis or PET/CT
+FDG-PET-CT imaging to confirm staging should be offered to people diagnosed with:
+Stage I diffuse large B-cell lymphoma by clinical and CT criteria
+Stage I or localised stage II follicular lymphoma if disease is thought to be encompassable within a radiotherapy field
+Stage I or II Burkitt lymphoma with other low-risk features
+Improve
+Differential diagnosis
+NHL may present in a similar manner to HL. Some differences in clinical features may guide diagnosis:
+Alcohol-induced pain at sites of nodal disease is specific to HL, but only occurs in <10% of patients.
+Pruritis is common in HL
+Lymph node involvement occurs in a contiguous manner in HL, but is non-contiguous in NHL
+Painless
+lymphadenopathy
+Infectious mononucleosis
+Toxoplasmosis
+Cytomegalovirus
+Primary HIV infection
+Leukaemia
+HL
+Similar chest x-ray findings
+Lung
+cancer
+Sarcoidosis
+Tuberculosis
+HL
+Peripheral
+lymphocytosis
+Leukaemia
+Epstein-Barr virus
+Duncan syndrome (X-linked lymphoproliferative syndrome)
+Improve
+Staging
+The Lugano classification system is used to stage lymphomas. It was developed to update and replace the older Ann Arbor staging system, with the aim of incorporating modern imaging techniques, particularly positron emission tomography (PET) scans, into the staging process.
+Stage
+Stage I: Involvement of a single lymph node region (I) or a single extralymphatic organ or site (IE).
+Stage II: Involvement of two or more lymph node regions on the same side of the diaphragm (II) or localized involvement of an extralymphatic organ or site and one or more lymph node regions on the same side of the diaphragm (IIE).
+Stage III: Involvement of lymph node regions on both sides of the diaphragm (III), which may also be accompanied by localized involvement of an extralymphatic organ or site (IIIE), involvement of the spleen (IIIS), or both (IIIE+S).
+Stage IV: Diffuse or disseminated involvement of one or more extralymphatic organs, with or without associated lymph node involvement.
+In addition to these stages, the classification includes the following:
+A/B Symptom Designation: The absence of significant symptoms is designated as 'A', while the presence of
+fever
+,
+night sweats
+, or
+weight loss
+is designated as 'B'.
+E: The presence of extranodal disease is denoted by the letter 'E'.
+S: Involvement of the spleen is denoted by the letter 'S'.
+X: Bulky disease (large tumour mass) is denoted by the letter 'X'.
+The Lugano classification also emphasizes the role of PET scans in determining the stage of the disease, particularly in assessing whether the
+lymphoma
+is metabolically active in different parts of the body.
+Improve
+Management
+Referral for further investigation
+:
+NICE advises a suspected
+cancer
+pathway referral (for an appointment within 2 weeks) for adults, or a very urgent referral (for appointment within 48 hours) for children, in patients presenting with unexplained
+lymphadenopathy
+or
+splenomegaly
+.
+Typical criteria for urgent referral:
+Persistent (>6 weeks) lymphadenopathy
+One or more lymph nodes >2â€‰cm in diameter
+Rapidly increasing lymphadenopathy
+Generalised lymphadenopathy
+Persistent and unexplained splenomegaly
+Treatment:
+Treatment options vary because of the heterogeneous nature of NHL. Options include watchful waiting, single-agent or multi-agent chemotherapy, and regional or extended radiotherapy.
+Basic principles:
+Surgery is not the mainstay of NHL treatment, but may be useful for localised disease, complications such as GI obstruction/perforation, or orchidectomy in testicular NHL
+Polyvalent pneumococcal vaccine and influenza vaccine should be given to all patients with NHL
+Meningococcal group C conjugate vaccine and Haemophilus influenzae type b (Hib) vaccine are also recommended, especially for patients receiving treatment and those with asplenia or splenic dysfunction
+Any patient with severe neutropenia should be given antibiotic prophylaxis with chemotherapy
+Recombinant human granulocyte colony-stimulating factor (rhG-CSF) stimulates the production of neutrophils and may reduce the duration of chemotherapy-induced neutropaenia and associated sepsis
+Options for indolent NHL:
+Local radiotherapy is the first-line treatment to people with localised stage IIA follicular
+lymphoma
+Watchful waiting for asymptomatic patients
+Rituximab with/without chemotherapy
+Combination chemotherapy
+Palliative radiation therapy
+Options for aggressive NHL:
+R-CHOP = Rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone
+Radiation therapy
+Bone marrow or stem cell transplantation
+Treatments for specific cases:
+HIV
+Patients with HIV and high-grade lymphomas should then go on to receive combination chemotherapy followed by highly active anti-viral therapy (HAART)
+Prophylaxis against Pneumocystis carinii pneumonia should also be considered
+Diffuse large B-cell NHL:
+R-CHOP is recommended first line
+Fewer cycles of treatment with rituximab and CHOP with additional regional radiotherapy are an alternative
+Concurrent CNS prophylaxis with intrathecal methotrexate or cytarabine has been recommended for patients at risk of CNS involvement (defined as lymphoma involvement in the bone marrow, testis, nasal or paranasal sinuses, orbits, bone or peripheral blood)
+Mantle cell lymphoma:
+These are usually responsive to chemotherapy but often relapse after treatment
+Chemotherapy options include R-CHOP or fludarabine given in combination with cyclophosphamide and rituximab (FCR)
+High-dose chemotherapy treatment with stem cell support.
+Radiotherapy.
+Temsirolimus is a possible treatment for relapsed or refractory mantle cell lymphoma but evidence is weak currently
+Follicular lymphoma:
+Stages I-II
+Involved field radiotherapy is the standard of care for newly diagnoses IA disease
+Involved or extended field radiotherapy is the preferred treatment for stage I-II but patients with large tumours may be treated with chemotherapy prior to optional radiotherapy
+Stages III-IV
+Rituximab, in combination with:
+Cyclophosphamide, vincristine and prednisolone (CVP).
+Cyclophosphamide, doxorubicin, vincristine and prednisolone (CHOP).
+Mitoxantrone, chlorambucil and prednisolone (MCP).
+Cyclophosphamide, doxorubicin, etoposide, prednisolone and interferon-α (CHVPi) or chlorambucil is recommended as an option for the treatment of symptomatic stage III and IV follicular lymphoma in previously untreated people
+Rituximab, in combination with chemotherapy, is recommended as an option for the induction of remission in people with relapsed stage III or IV follicular NHL
+Rituximab monotherapy is recommended as an option for the treatment of people with relapsed or refractory stage III or IV follicular NHL (if there is resistance to, or intolerance of, chemotherapy)
+Rituximab maintenance therapy is recommended as an option for the treatment of people with follicular non-
+Hodgkin's lymphoma
+that has responded to first-line induction therapy with rituximab in combination with chemotherapy
+Primary CNS lymphoma:
+Chemotherapy (high-dose methotrexate) is first-line treatment.
+Dexamethasone is the treatment of choice for short-term palliation.
+Gastric MALT lymphoma:
+1 or more lines of Helicobacter pylori eradication therapy should be offered, without any concurrent therapy, to people with H. pylori-positive gastric MALT lymphoma
+H. pylori eradication therapy should be considered for people with H. pylori-negative gastric MALT lymphoma
+Consider 'watch and wait' (observation without therapy) for people with gastric MALT lymphoma that responds clinically and endoscopically to H. pylori eradication therapy but who have residual disease shown by surveillance biopsies of the stomach, unless high-risk features are present
+For people with residual MALT lymphoma after H. pylori eradication therapy who are at high risk of progression [H. pylori-negative at initial presentation or t(11:18) translocation], options include:
+Chemotherapy (for example, chlorambucil or CVP) in combination with rituximab
+Gastric radiotherapy
+For people with progressive gastric MALT lymphoma, options include:
+Chemotherapy (for example, chlorambucil or CVP) in combination with rituximab
+Gastric radiotherapy
+Non-gastric MALT lymphoma:
+Chemotherapy (for example, chlorambucil or CVP) in combination with rituximab should be offered to people with non-gastric MALT lymphoma for whom radiotherapy is not suitable or who have disseminated disease and need treatment
+Radiotherapy should be considered for people with localised disease sites of non-gastric MALT lymphoma, irrespective of stage
+Consider 'watch and wait' (observation without therapy) for people with clinically non-progressive localised non-gastric MALT lymphoma that is unlikely to result in vital organ dysfunction, who are asymptomatic and for whom radiotherapy is not suitable
+Improve
+Complications
+Complications of the disease:
+Neutropenia,
+anaemia
+, thrombocytopenia secondary to bone marrow infiltration
+Bleeding secondary to thrombocytopenia, disseminated intravascular coagulation or direct vascular invasion by the tumour
+Large pericardial effusion or arrhythmias secondary to cardiac metastases
+Respiratory problems secondary to pleural effusion and/or parenchymal lesions
+Superior vena cava obstruction secondary to a large mediastinal tumour
+Neurological problems, including spinal cord compression, secondary to primary CNS
+lymphoma
+, lymphomatous meningitis, or vertebral metastases
+Gastrointestinal obstruction, perforation, and bleeding in a patient with gastrointestinal lymphoma
+Pain secondary to tumour invasion
+Chemotherapy-related complications:
+Short term complications
+Hair loss
+Change in taste
+Loss of appetite
+Nausea
+Fatigue
+Anaemia, thrombocytopenia, and neutropaenia
+Neutropaenic patients are vulnerable to bacterial septicaemia
+Tumour lysis syndrome
+Commonly occurs after treatment of high-grade lymphomas
+Comprises hyperuricaemia, hyperkalaemia, hyperphosphataemia, hypocalcaemia, and acute kidney injury
+May be prevented by pre-chemotherapy rasburicase
+Long term complications:
+Peripheral neuropathy
+Cardiomyopathy (associated with anthracycline use)
+Hypogammaglobulinaemia (associated with rituximab use)
+Renal damage from nephrotoxic chemotherapy, such as the platinum based drugs, as well as from tumour lysis syndrome
+Reduced fertility
+Risk of secondary malignancy
+Improve
+Prognosis
+Prognosis varies by the type and stage of
+lymphoma
+, and individual patient factors. In general, patients with peripheral T-cell or NK-cell lymphomas typically have a worse prognosis than those with B-cell lymphoma.
+Almost two thirds of people diagnosed with NHL in England and Wales survive for more than 10 years. Survival is similar in women and men.
+Low grade lymphomas (30%):
+Indolent clinical behaviour
+Symptoms are often non-specific, thus the disease is usually disseminated at presentation
+There is little scope for curative treatment
+There is a tendency to transform to high-grade lymphomas
+Intermediate and high grade lymphomas (70%):
+More aggressive than low grade lymphomas, but more responsive to chemotherapy
+Recurrences are more common within the first 2 years
+Relapse or resistance to chemotherapy indicates very poor prognosis - <5-10% alive at 2 years.
+Prognostic scoring systems:
+The most commonly used prognostic scoring system is the International Prognostic Index (IPI) for diffuse large B-cell lymphoma There are also scoring systems for follicular lymphoma (FLIPI) and mantle cell lymphoma (MIPI).
+The IPI considers 5 risk factors:
+Age > 60 years
+Poor performance status (can be measured using the Eastern Cooperative Oncology Group tool)
+Elevated lactate dehydrogenase (LDH) level
+> 1 extranodal site
+Stage III or IV disease
+Outcome is worse with an increasing number of risk factors. Patients in the highest risk groups (patients with 4 or 5 risk factors) now have a 50% 5-year survival. Patients without any of the risk factors have a very high cure rate.
+The FLIPI also incorporates 5 parameters:
+Age >60 years
+Stage III or IV disease
+Hb <12g/dL.
+>4 nodal sites of involvement
+Elevated LDH
+Prognosis in mycosis fungoides relates to extent and type of skin involvement.
+Average survival in the early stage is at least 10-15 years.
+Patients with Sezary syndrome have a median survival of less than 5 years.
+For gastric MALT lymphomas, the prognosis is better for gastric lymphoma - 40-50% five year survival compared to those sited more distally in the gastrointestinal tract.
+Improve
+References
+Clinical Knowledge Summaries - Haematological cancers - recognition and referral
+Cancer
+Non-Hodgkin's lymphoma

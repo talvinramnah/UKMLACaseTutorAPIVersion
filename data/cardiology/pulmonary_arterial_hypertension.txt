@@ -1,0 +1,272 @@
+Pulmonary arterial hypertension
+Pulmonary arterial hypertension
+Pulmonary arterial hypertension
+(PAH) is a collective term for a group of conditions characterized by progressive elevation of the mean pulmonary arterial pressure (mPAP) to more than 25mmHg at rest or more than 30mmHg on exercise. PAH represents one subgroup of a larger group of conditions known as
+pulmonary hypertension
+. The different types of pulmonary arterial hypertension are united by histological similarities and a raised
+pulmonary vascular resistance
+(PVR). PAH is a rare disease, with an incidence of 2.5-7.1 cases/million. However, patients who have PAH have a poor life expectancy with a five-year survival rate of around 77%. PAH can cause complications including cor pulmonale and arrhythmias. It is typically managed by supportive therapies for symptom control and medical therapies such as calcium channel blockers, endothelin receptor antagonists, phosphodiesterase type 5 inhibitors and prostaglandin analogues.
+Last updated: 22
+nd
+November 2023
+Epidemiology
+Incidence: 0.40 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Chronic heart failure
+500.00
+Angina pectoris
+375.00
+Pulmonary embolism
+175.00
+Pulmonary arterial hypertension
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Pulmonary arterial hypertension (PAH) is a complex disease with multifactorial origins. Risk factors and underlying causes can be categorised into three primary groups: genetic predisposition, environmental triggers, and associated conditions.
+Genetic Predisposition
+Heritable PAH: Mutations in the
+BMPR2
+gene are the most common genetic cause, present in approximately 70% of cases. Other genes implicated include
+ALK1
+,
+ENG
+, and
+SMAD9
+.
+Familial PAH: A positive family history increases risk, even without identifiable mutations.
+Idiopathic PAH: This form lacks an identifiable cause or family history but may still have a genetic component.
+Environmental Triggers
+Anorexigen use: Certain appetite suppressants such as fenfluramine derivatives have been linked to PAH development.
+Toxin exposure: Substances including tobacco smoke, amphetamines and cocaine can contribute to disease onset.
+Infections: Human immunodeficiency virus (HIV), schistosomiasis caused by
+Schistosoma mansoni
+, and other infections can increase susceptibility.
+Associated Conditions
+Connective tissue diseases: Systemic sclerosis is the most common associated condition; others include systemic lupus erythematosus and mixed connective tissue disease.
+Congenital heart diseases: Left-to-right shunts such as patent ductus arteriosus or atrial septal defects can lead to PAH.
+Liver disease: Portal hypertension, often secondary to cirrhosis, is a common associated condition.
+HIV infection: Patients with HIV have an increased risk of developing PAH, even in the absence of advanced immunosuppression.
+Improve
+Pathophysiology
+In PAH, there is disruption in three major
+signalling pathways
+:
+Nitric oxide pathway
+Prostacyclin pathway
+Endothelin pathway
+The nitric oxide and prostacyclin pathways are disrupted reducing in impaired pulmonary arterial vasodilations. There is concurrent increase in the endothelin pathway which results in
+increased vasoconstriction
+.
+These changes result in increased contractility of the arteries, dysfunction of the endothelium, over-proliferation of the endothelial cells and the vascular smooth muscle cells, and an increased thrombotic risk.
+The increased contractility and dysfunction of the endothelium particularly affect the small arteries, which results in
+increased pulmonary vascular resistance
+and pulmonary arterial pressure.
+Improve
+Classification
+As stated above, PAH is a subgroup of PH, specifically PH Class I as defined by the WHO. The classes of PH are:
+Class I: Pulmonary arterial hypertension
+Class II: Pulmonary hypertension owing to left heart disease
+Class III: Pulmonary hypertension secondary to Chronic Obstructive Pulmonary Disease (COPD)
+Class IV: Pulmonary hypertension owing to chronic thromboemboli
+Class V: Pulmonary hypertension owing to multiple miscellaneous causes
+Following a symposium in 2008, PAH is subdivided into its own five categories:
+1.1 - Idiopathic PAH
+1.2 - Hereditary PAH
+1.3 - PAH associated with other conditions (including connective tissue disorders, associated HIV infection, cirrhosis with portal hypertension congenital heart disease, schistosomiasis and chronic haemolytic anaemia)
+1.4 - PAH associated with venous or capillary conditions (including pulmonary veno-occlusive disease and pulmonary capillary hemangiomatosis)
+1.5 PAH of the newborn
+Alongside this aetiological classification, PAH can be classified according to the patient's functional capacity (New York Heart Association/WHO classification)
+I - No limitations during day-to-day physical activity
+II - Mild limitations during day-to-day physical activity
+III - Marked limitation during day-to-day physical activity
+IV - Unable to perform day-to-day physical activity and also may have symptoms at rest.
+Improve
+Clinical features
+Initially, patients with PAH present with problems related to
+right ventricular dysfunction
+leading to reduced organ perfusion. These symptoms particularly present on exertion when there is higher demand placed on the heart. Symptoms include:
+Dyspnoea
+(presenting complaint in 60% of cases)
+Fatigue
+Weakness
+Angina
+Syncope
+Cough, sometimes with haemoptysis
+Hypotension
+Hoarseness
+Related to compression of the left recurrent laryngeal nerve.
+As the disease progresses, patients may have symptoms during periods of rest. In advanced cases, patients may get abdominal distention and peripheral oedema. The symptoms closely resemble those of
+heart failure
+and it can be difficult to differentiate between the two.
+Physical signs of PAH include:
+Cyanosis
+Left parasternal heave
+Signs on auscultation of the heart including
+Tricuspid regurgitation murmur (pansystolic)
+Pulmonary regurgitation murmur (diastolic)
+Accentuation of the pulmonary component of the second heart sound
+When examining a patient with possible PAH, it is important to also look for any underlying signs of an aetiological cause, e.g. signs of scleroderma, interstitial lung disease or cirrhosis.
+Improve
+Investigations
+Investigations that should be performed include:
+Chest X-ray
+. May show central pulmonary arterial dilatation and in more severe cases enlargement of the right side of the heart. It may also help to differentiate between PAH and other causes of pulmonary hypertension such as due to left heart disease or lung disease.
+ECG
+. In mild and moderate cases ECG is likely to be normal in PAH. In more severe cases, ECG may show abnormalities related to damage to the right side of the heart including:
+Right axis deviation
+Right bundle branch block
+Right ventricular hypertrophy
+QTc prolongation
+Pulmonary function tests
+to look for causes of PH related to lung disease e.g. COPD.
+Echocardiogram
+. Transthoracic echocardiogram (TTE) can be used to estimate the mPAP, based on analysis of the peak tricuspid regurgitation velocity (TRV), and look at the effects of PAH on the heart.
+High-resolution CT scan
+or
+cardiac MRI
+can be used to assess the size, morphology, and function of the right ventricle and to look for clues as to the underlying cause.
+6-minute walking distance
+(6MWD) is used to assess the patient's symptoms and the severity of their disease.
+B-type natriuretic peptide
+(BNP, also known as brain natriuretic peptide) if elevated can suggest a raised mPAP and pulmonary vascular resistance, which can signify PAH.
+If after these investigations a diagnosis of PAH is suspected,
+right heart catheterization
+(RHC) is required to diagnose it. These should only be performed by experienced clinicians in expert centres. In RHC, pressure measurements are made in multiple locations including the pulmonary artery, right ventricle, and right atrium to determine the blood pressure within these structures.
+Improve
+Differential diagnosis
+Pulmonary Arterial Hypertension (PAH) often presents initially with exertional
+dyspnoea
+, making the differential diagnosis broad. This succinct guide aims to aid clinicians in distinguishing PAH from other conditions with similar clinical presentations through systematic investigation and evaluation.
+Left-Sided
+Heart Failure
+and Coronary Artery Disease
+Symptoms and Signs:
+Peripheral edema, exertional
+chest pain
+, exertional
+syncope
+, and
+right upper quadrant pain
+due to hepatic congestion.
+Diagnostic Tools:
+Echocardiography, left and right heart catheterization, stress testing.
+Differentiating Features:
+Features on echocardiogram such as left ventricular hypertrophy, delayed diastole, or a pulmonary artery pressure (PAP) under 30 mmHg suggest heart failure rather than PAH.
+Chronic Thromboembolic Pulmonary Hypertension (CTEPH)
+Symptoms and Signs:
+Exertional dyspnoea, fatigue, chest pain, syncope, possible history of venous thromboembolism.
+Diagnostic Tools:
+CT pulmonary angiograms, ventilation-perfusion scanning.
+Differentiating Features:
+Signs of deep vein thrombosis, right ventricular heave.
+Lung Diseases and Hypoxia
+Conditions:
+Chronic Obstructive Pulmonary Disease (COPD), Interstitial Lung Disease (ILD).
+Symptoms and Signs:
+Overlapping symptoms include dyspnoea and fatigue; specific symptoms like cough and sputum production in COPD, dry cough and clubbing in ILD.
+Diagnostic Tools:
+Pulmonary function tests, chest imaging, arterial blood gases.
+Differentiating Features:
+Physical exam may reveal wheezes or crackles; cyanosis or digital clubbing indicates chronic hypoxia.
+Pulmonary Embolism
+Symptoms and Signs:
+May present acutely with chest pain, sudden onset dyspnoea, or chronically in the case of CTEPH.
+Diagnostic Tools:
+CT pulmonary angiograms, ventilation-perfusion scanning.
+Differentiating Features:
+Acute presentation, risk factors for thromboembolism.
+Valvular Disease
+Symptoms and Signs:
+Can lead to symptoms of heart failure due to backflow or stenosis affecting cardiac output.
+Diagnostic Tools:
+Echocardiography.
+Differentiating Features:
+Murmurs heard on auscultation, echocardiographic evidence of valvular abnormalities.
+Clinical Evaluation Strategy
+History and Physical Examination:
+Focus on the onset, duration, and progression of symptoms, known comorbidities, and any history of heart or lung disease.
+Diagnostic Imaging and Functional Testing:
+Initiate with chest radiography, echocardiography, and consider advanced imaging based on initial findings and clinical suspicion.
+Specialised Testing:
+Right heart catheterization remains the gold standard for confirming PAH and should be considered when clinical suspicion persists after initial evaluations.
+Improve
+Management
+Initial assessment
+Conduct a thorough clinical evaluation including history, physical examination, and assessment of functional class using the WHO classification.
+Perform baseline investigations: ECG, chest X-ray, echocardiography, pulmonary function tests (including DLCO), blood tests (including liver function tests, thyroid function tests, and BNP/NT-proBNP).
+Right heart catheterisation to confirm diagnosis and assess haemodynamics.
+Vasoreactivity testing
+Administer acute vasodilator testing with agents such as nitric oxide or intravenous epoprostenol during right heart catheterisation.
+Classify patients as responders or non-responders based on mean pulmonary artery pressure (mPAP) reduction criteria.
+Treatment for responders
+Initiate calcium channel blockers (CCBs) in those identified as acute responders. Monitor for efficacy and side effects.
+Treatment for non-responders or CCB failures
+Endothelin receptor antagonists (ERAs): bosentan, ambrisentan.
+PDE-5 inhibitors:
+sildenafil
+,
+tadalafil
+.
+Soluable guanylate cyclase stimulators: riociguat.
+Prostacyclin analogues: epoprostenol (IV), treprostinil (SC/IV/inhaled), iloprost (inhaled).
+Select combination therapy based on risk stratification and patient response to monotherapy. Consider sequential combination therapy if initial treatment is inadequate.
+Surgical interventions
+Balloon atrial septostomy might be considered in patients with severe refractory right
+heart failure
+not responding to medical therapy but this is a high-risk procedure and should only be performed at specialist centres.
+Lung transplantation may be an option for selected patients who fail to respond to medical therapy. Referral should be made early to allow sufficient time for assessment and potential transplantation.
+Supportive therapies
+Anticoagulation may be considered in idiopathic PAH unless contraindicated due to bleeding risk.
+Diuretics should be used to manage right heart failure symptoms such as oedema and ascites.
+Disease-specific anaemia management strategies should be employed when indicated.
+Disease-specific vaccinations are recommended to prevent respiratory infections.
+Improve
+Complications
+Cor pulmonale
+is a notable complication that can arise from PAH. Pulmonary hypertension can lead to overflow of the pulmonary arteries back into the right ventricle, ultimately leaving to right ventricular hypertrophy and right
+heart failure
+. This is called cor pulmonale. Patients with cor pulmonale may present with :
+Peripheral oedema
+Raised jugular venous pressure (JVP)
+Hepatomegaly
+Parasternal heave.
+Arrhythmias
+are a common complication of PAH, particularly atrial flutter and atrial fibrillation. They can both result in worsening of symptoms, deterioration of right ventricular function, and a high mortality rate.
+Haemoptysis
+is also a common complication of PAH, particularly in hereditary PAH and in PAH associated with congenital heart disease. It is associated with a high mortality rate and may need emergency treatment.
+Dilatation of the pulmonary arteries may also result in complications including
+Aneurysms
+Dissection
+Compression of other structures within the mediastinum for example:
+Bronchi
+Recurrent laryngeal nerves.
+Improve
+Prognosis
+PAH is a serious condition that significantly impacts life expectancy. An article published by the Taiwan Society of
+Cardiology
+in 2017 suggested that the
+5-year survival
+rate was around 77%. Factors that suggest a poor prognosis include:
+Deterioration in WHO/NYHC functional class
+Increased serum uric acid level
+Low 6 minute walking distance at initial assessment
+Improve
+References
+European Society of Cardiology - 2015 Guidelines for the diagnosis and treatment of pulmonary hypertension
+Respiratory Medicine journal - Pulmonary vasodilator testing and use of calcium channel blockers in pulmonary arterial hypertension
+Medcomic - Pulmonary hypertension
+Cardiology
+Pulmonary arterial hypertension

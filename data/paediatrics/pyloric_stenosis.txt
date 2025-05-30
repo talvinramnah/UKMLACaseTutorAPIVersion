@@ -1,0 +1,178 @@
+Pyloric stenosis
+Pyloric stenosis
+Pyloric stenosis, also known as infantile hypertrophic pyloric stenosis, is the most common cause of non-bilious
+vomiting
+in children.
+It is the result of hypertrophy of the pylorus muscles of the stomach leading to gastric outlet obstruction. Typically, infants are well at birth and then from 2-8 weeks of age develop increasingly frequent and forceful vomiting. This can lead to dehydration and weight loss.
+The exact aetiology of pyloric stenosis is unknown but there are a number of risk factors that increase the likelihood of an infant developing the condition.
+The definitive management is surgery.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 4.00 cases per 100,000 person-years
+Most commonly see in infants
+Sex ratio: more common in males 4:1
+Condition
+Relative
+incidence
+Gastro-oesophageal reflux in children
+12.50
+Pyloric stenosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The exact aetiology of pyloric stenosis is unknown. The condition occurs in around 2 to 5 in 1000 live births. Risk factors include:
+Male sex
+There is a 4:1
+male predominance
+Being a firstborn child
+Family history of pyloric stenosis
+One study showed the heritability of the condition to be 87%
+Maternal smoking
+Bottle feeding
+Preterm birth
+Ethnicity
+It is more common in the Caucasian and Hispanic populations and is rare in African, Asian and Indian infants
+Erythromycin
+There is an association between the use of erythromycin in the first two weeks of life and an increased risk of pyloric stenosis
+A link between maternal macrolide use and increased incidence of pyloric stenosis has not been consistently demonstrated.
+Improve
+Clinical features
+The clinical features of pyloric stenosis are:
+Increasingly forceful and ultimately
+projectile non-bilious
+vomiting
+The vomiting usually occurs immediately following a feed and the child is often extremely hungry and irritable after the episode.
+The course of the disease is variable. Some children can become sick very quickly and others develop increasingly forceful vomiting over a period of days - weeks. The typical symptoms usually develop during the third week of life.
+Haematemesis in around 10% of cases
+Due to reflux oesophagitis resulting from gastric outlet obstruction
+Weight loss or inadequate weight gain
+Occurs in infants with delayed presentation
+Dehydration
+Vomiting leads to
+severe hypochloraemic, hypokalaemic dehydration with metabolic
+alkalosis
+Signs of dehydration
+in infants include sunken fontanelles, sunken eyes, dry mucous membranes, poor skin turgor, decreased tearing, lethargy, tachycardia, prolonged capillary refill time, and decreased urine output
+Can predispose to pre-renal acute kidney injury
+Stool changes
+Often small and hard, sometimes the child passes little to no stool
+Firm, non-tender 1-2cm mass in the right upper quadrant of the abdomen
+As a result of the thickening of the pylorus muscles, often described as an 'olive'
+Visible peristalsis
+May become more prominent following a feed
+Parents may have tried multiple formula changes
+This is due to initial symptoms being vague and similar to formula intolerances.
+Improve
+Investigations
+Pyloric stenosis is usually a clinical diagnosis and therefore suspicion demands a thorough history and examination. The
+classical triad of a palpable pyloric mass, visible peristalsis, and projectile
+vomiting
+are not always present. Examination should include an assessment of the degree of dehydration. Weight and height should be plotted on a growth chart and compared with previous weights.
+There are no specific guidelines for the investigation and management of pyloric stenosis. The following investigations are recommended:
+Bloods
+Urea and electrolytes to assess the degree of dehydration, electrolyte imbalance, and whether there is evidence of acute kidney injury
+There is often a hypochloraemic metabolic
+alkalosis
+with severe potassium depletion
+Ultrasonography of the abdomen
+Sensitivity of ultrasound in diagnosing pyloric stenosis has been reported to be 97-99%
+A positive test is pyloric thickness >3mm and pyloric length >15-17mm (based on measurements for term infants - pyloric canal length is shorter in premature infants)
+A
+'target sign'
+is often described on ultrasound - this is due to hypertrophied hypoechoic muscle surrounding echogenic mucosa
+Improve
+Differential diagnosis
+The causes of
+vomiting
+in an infant are broad and diagnosis requires a high index of suspicion alongside thorough history and examination. Other causes of vomiting in this age group include:
+Intestinal malrotation and volvulus
+Presents with intermittent
+bilious vomiting
+associated with
+abdominal distension
+, haemodynamic instability, and severe abdominal pain due to bowel ischaemia.
+Duodenal atresia
+May present with either bilious or non-bilious vomiting depending on whether the atresia is distal to the ampulla of vater or not.
+Classically shows the
+'double-bubble sign'
+on x-ray.
+Necrotising enterocolitis
+More common in premature infants.
+Acute life-threatening emergency presenting with poor feeding, abdominal distension, bilious vomiting, and haematochezia.
+Can lead to intestinal perforation causing peritonitis, sepsis, and death.
+'Pneumatosis intestinalis'
+is the classical x-ray finding.
+Tracheoesophageal fistula
+Presentation depends on type.
+Associated with other birth defects in the VACTERL association.
+Presents with cough, recurrent pneumonia, cyanotic episodes when feeding, and respiratory distress.
+Meconium ileus
+Associated with cystic fibrosis.
+Presents with intestinal obstruction and bilious vomiting within hours of birth.
+Hirschprung disease
+A birth defect characterised by complete absence of neuronal ganglion cells from a section of the intestine.
+Presents with
+failure to pass meconium
+in the first 48 hours, severe or complete
+constipation
+, abdominal distension, and bilious vomiting.
+Anorectal anomalies
+Can cause bilious vomiting if not identified at the newborn and infant physical examination.
+Also associated with the VACTERL association of birth defects.
+Gastroesophageal reflux disease (GORD)
+Reflux associated with worrying symptoms or complications such as uncontrollable crying, abdominal pain, arching of the back, food refusal, choking, respiratory symptoms, poor weight gain, and sleep disturbance.
+Non-gastrointestinal causes:
+Infection - gastroenteritis, meningitis, pyelonephritis, and sepsis may present with vomiting.
+Milk protein allergy
+Inborn errors of metabolism
+Congenital adrenal hyperplasia
+Intoxication/ poisoning
+Improve
+Management
+Pyloric stenosis is usually first noticed at home. Parents may notice forceful
+vomiting
+after feeds or signs of dehydration. Parents may bring their child to see the GP or attend the emergency department.
+There is no consensus guidelines on the management of pyloric stenosis. The definitive management is
+pyloromyotomy
+. Initial management includes:
+Fluid resuscitation
+Surgery must be delayed until hypovolaemia and electrolyte disturbances are corrected.
+If
+alkalosis
+is not corrected the risk of postoperative respiratory depression is increased. This is because patients with a metabolic alkalosis will respond with a respiratory acidosis resulting in postoperative apnoea.
+If clinically shocked the patient should receive an initial fluid bolus prior to initiating maintenance fluids.
+Maintenance fluids should be initiated at 150% of the normal maintenance rate for the infant's weight.
+Surgery
+Pyloromyotomy involves the extra mucosal longitudinal splitting of the pylorus muscle.
+Surgery can be performed both laparoscopically and open with the laparoscopic method providing shorter recovery times and fewer analgesia requirements.
+A
+nasogastric tube
+is also passed pre-operatively and put on free drainage. Any losses from the nasogastric tube must also be replaced ml by ml as IV fluids.
+As there is no consensus guideline post-operative management will depend on local protocols. Infants will usually be started on reduced feeds and these will be slowly increased to full feeds. Vomiting is common postoperatively.
+Improve
+Complications
+The complications of pyloric stenosis are directly related to the symptoms and how late the condition presents.
+Vomiting
+can lead to dehydration, weight loss, and electrolyte disturbance (hypochloraemic hypokalaemic metabolic
+alkalosis
+).
+The complications of pyloromyotomy include:
+Anaesthetic risk
+Persistent vomiting due to incomplete pyloromyotomy
+Mucosal perforation
+Surgical site infection
+Foveolar cell hyperplasia (a rare case of persistent gastric outlet obstruction)
+Improve
+Paediatric gastroenterology
+Pyloric stenosis

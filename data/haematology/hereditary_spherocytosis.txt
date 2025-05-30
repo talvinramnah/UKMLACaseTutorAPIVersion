@@ -1,0 +1,217 @@
+Hereditary spherocytosis
+Hereditary spherocytosis
+Hereditary Spherocytosis (HS) is an inherited condition which affects the structure of red blood cells (RBCs). Although rare, it is the most common cause of
+haemolytic anaemia
+caused by a defect in the RBC membrane. The high destruction rate of the abnormal RBCs manifests clinically with symptoms and signs of a
+haemolytic anaemia
+.
+HS is most common among
+Northern European
+populations with a prevalence of 1 in 5000. However, some research suggests many mild cases of HS are undiagnosed and it is more common than previously stated. With 75% of cases inherited in an
+autosomal dominant
+pattern, there is commonly a
+family history of anaemia,
+jaundice
+and/or
+splenomegaly
+.
+HS is diagnosed by the presence of non-immune mediated haemolytic anaemia, elevated MCHC, positive family history and/or the identification of abnormally shaped RBCs called spherocytes on a blood film. Specialised tests are not usually needed to confirm the diagnosis unless clinical uncertainty or confirmation will alter management.
+HS is usually managed according to the severity of the disease, with the main aim of management to prevent and minimise complications of haemolysis and anaemia. Most individuals are managed conservatively with folate supplements, while others may require transfusions.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.50 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Glucose-6-phosphate dehydrogenase deficiency
+10.00
+Hereditary spherocytosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+HS is caused by mutations in certain genes that code for the
+structural membrane proteins of a RBC
+. The proteins are responsible for linking the inner RBC membrane skeleton to the outer lipid bilayer and maintaining the biconcave shape of a RBC. The most commonly mutated structural proteins include;
+Ankyrin
+; Major protein linking the plasma membrane to the underlying cytoskeleton proteins.
+Spectrin
+; flexible protein which binds to ankyrin and helps to maintain the composition of other proteins and lipids in the RBC membrane.
+Composed of both alpha and beta heterodimers, either of which may be mutated leading to defective spectrin protein.
+It is heavily responsible for maintaining the biconcave shape as RBC travel around the body through microvasculature.
+Band 3 protein
+; anion exchange protein that provides two main functions;
+Provides a mechanical link between the cell membrane and underlying cytoskeleton proteins, preventing loss of surface membrane.
+Exchanges bicarbonate for chloride ions, which maintain the intracellular water content, preventing cellular dehydration.
+Protein 4.2
+; strengthens the link between band 3 protein and ankyrin.
+A defect in or absence of any of these structural membrane proteins reduces erythrocyte elastic deformability and leads to a loss of membrane surface area and abnormal spherical-shaped RBCs called
+spherocytes
+. These spherocytes are more likely to undergo haemolysis.
+Improve
+Pathophysiology
+RBC structural membrane proteins are involved in linking the lipid bilayer of the cell membrane and the underlying cytoskeleton proteins, which provides support to the RBC structure. Mutated structural membrane proteins â→ RBC lose their structure â→ become more spherical with reduced deformability â→
+spherocytes
+.
+Spherocytes are selectively removed from the circulation and destroyed by the
+spleen
+when they pass through the reticuloendothelial system.
+This
+extravascular haemolysis
+, significantly
+reduces the RBC lifespan
+.
+The extent of haemolysis, and thus disease severity can vary between individuals, and is related to the type and extent of RBC membrane disruption.
+Improve
+Clinical features
+The age of presentation and disease severity varies between affected individuals and is mainly determined by the extent of haemolysis.
+Mild:
+(20-30% of cases) haemolysis and turnover rate of RBCs is adequately compensated for, not clinically anaemic or
+jaundice
+.
+Asymptomatic, incidental finding on a blood test.
+Unexplained
+splenomegaly
+(very common, which apart from helping support the diagnosis is of little clinical significance, there is no evidence to support an increased risk in splenic rupture).
+Moderate:
+(60-75% of cases) usually present in childhood.
+Anaemia;
+fatigue
+, pallor, dyspnoea
+Jaundice
+Splenomegaly
+Severe:
+(5% of cases)
+Anaemic (usually dramatic drop in Hb after first week of life)
+Splenomegaly
+Neonatal jaundice
+Improve
+Investigations
+The following standard investigations should be included for all cases of suspected HS based on positive
+family history
+, clinical features, or neonatal
+jaundice
+. In most cases, the following tests are sufficient to establish a diagnosis of HS.
+FBC
+Low
+haemoglobin
+[exception: can have normal haemoglobin levels when haemolysis is adequately compensated for by the bone marrow, as in mild cases]
+Elevated mean corpuscular haemoglobin concentration
+(MCHC)
+- is often the most useful parameter to identify HS. MCHC >36G/dl is highly suggestive of HS (due to the reduced surface area to volume ratio of spherocytes).
+Low mean corpuscular volume
+(MCV)
+can help support a diagnosis of HS, but varying degrees of reticulocytosis, often found in older individuals mean MCV is not as useful as other parameters.
+Elevated red cell distribution width
+(RDW)
+- this reflects reticulocytosis found in individuals and supports the diagnosis but would need to be taken into account alongside the other parameters.
+Peripheral Blood film;
+Spherocytes
+(RBCs with loss of central pallor on the blood film is due to loss of normal biconcave shape of RBCs).
+There may be some evidence of reticulocytes on the blood film to further support the diagnosis.
+Tests for
+haemolysis
+Elevated
+unconjugated bilirubin
+[exception: in mild cases the rate of RBC destruction can be compensated for, leading to normal bilirubin levels].
+Elevated LDH
+Low haptoglobin
+Elevated
+reticulocyte count
+[exception: aplastic anaemia].
+Direct coombs test
+- negative
+Always performed in the presence of confirmed haemolysis to exclude immune-mediated causes of haemolysis (haemolysis of newborn or autoimmune
+haemolytic anaemia
+).
+In some atypical cases of HS (limited spherocytes on the blood film, no family history or no other lab findings), other specialised confirmatory tests are performed.
+EMA binding test - EMA (eosin-5-maleimide) is a fluorescent dye that binds to RBC membrane proteins. Using flow cytometry, the mean fluorescent of EMA-labelled membrane proteins can be identified. EMA test in individuals with HS shows less EMA-labelled RBC membrane proteins.
+Osmotic fragility test - positive
+Spherocytes show increased fragility and haemolysis in a hypotonic solution.
+This test is usually only performed if EMA binding test is not available as it is not very helpful due to its low sensitivity and specificity.
+Improve
+Differential diagnosis
+Other inherited haemolytic anaemic conditions, including hereditary elliptocytosis, elliptocytosis variants and RBC enzyme deficiency disorders, can all present with similar clinical features [differentiated by their
+distinctive morphology on blood film
+, and absence of spherocytosis].
+The differential diagnoses of spherocytes on blood film are;
+Haemolytic disease of the fetus and newborn - haemolysis is caused by maternal antibodies which bind to fetal RBC, and mark for destruction is differentiated from HS by a
+positive direct Coombs test
+.
+Autoimmune
+haemolytic anaemia
+- warm haemagglutinin, cold haemagglutinin or drug-induced, haemolysis is triggered by autoantibodies which are produced and directed against RBC surface antigens, this is differentiated from HS by a
+positive Coombs test
+, absence of family history and previously normal RBC indices.
+Other causes of damaged erythrocyte membranes which may look similar to spherocytes on blood film are;
+Mechanical trauma (heart valves)
+Microangiopathic haemolytic anaemia
+Heat eg. Burns
+Toxins eg. Clostridium perfringens
+Improve
+Management
+The main aim of management is to prevent and minimise complications from chronic haemolysis and anaemia. The need for regular monitoring depends on disease severity and follow-up blood tests are not usually required if the baseline blood test results are acceptable. All patients should receive education about their diagnosis and the risk of transient aplastic crisis and how to recognise it.
+General supportive measures may include;
+Folic acid supplementation
+is usually indicated in moderate to severely affected individuals or those who are pregnant to avoid megaloblastic anaemia due to the relative folate deficiency that occurs when the rate of RBC production increases to compensate for the increased rate of haemolysis.
+Red cell transfusions
+are indicated in severely affected individuals or during certain clinical scenarios when they develop anaemia (eg. during pregnancy or aplastic anaemia) but they are not indicated on an ongoing basis due to the risk of iron overload.
+Transfusion thresholds take into account the individuals age, (older individuals may be able to tolerate lower haemoglobin levels), other comorbidities and the clinical scenario.
+Erythropoietin
+may reduce the need for transfusions in young infants until they can mount an adequate hematopoietic response to the haemolysis.
+Splenectomy
+significantly reducing the rate of haemolysis, minimising symptoms and the risk of complications.
+Usually indicated in severely affected cases, where an individual is transfusion-dependent, suffering from severe symptoms or complications from haemolysis.
+If possible, total splenectomy is delayed until the child is
+at least 6 years old
+to avoid the risk of post-splenectomy sepsis, but in some cases delaying the splenectomy is not possible and a partial splenectomy is recommended instead.
+Post-splenectomy management is important (need immunisations and antibiotic prophylaxis against encapsulated bacteria).
+Splenectomy may be contra-indicated in some forms of HS, due to an increased risk of venous thrombosis. Thus it is important for haematologists to correctly identify the subtype of HS before splenectomy.
+If
+symptomatic gallstones
+, a concomitant cholecystectomy may also be indicated at the same time as splenectomy.
+Improve
+Complications
+For some individuals the following complications can be the first clinical presentation of HS;
+Haemolytic crisis - is triggered by a
+non-specific viral infection
+that cause hyperplasia of the reticuloendothelial system and
+splenomegaly
+eg. Infectious mononucleosis
+, this leads to splenic pooling, increased haemolysis and leads to worsening of symptoms.
+Anaemia;
+fatigue
+, weakness, dyspnoea
+Splenomegaly; Left upper quadrant pain, abdomen discomfort, early satiety
+Jaundice
+Megaloblastic crisis - due to
+relative folate deficiency
+when the body tries to compensate for increased destruction of RBCs
+Aplastic crisis
+Triggered by
+parvovirus B19
+, which attacks erythroid precursors in the bone marrow, causing erythroid aplasia for about 10 days.
+Compared to the lifespan of a healthy RBC 120 days, all individuals with HS have a reduced RBC lifespan and are heavily dependent on the increased rate of RBC production. When bone marrow production is arrested they will start to develop symptoms of severe anaemia as circulating RBC run out (diagnosis is supported by low reticulocytes count).
+Pigment gallstones
+(calcium pigmented gallstones)
+Constant destruction of RBC leads to a high level of circulating unconjugated bilirubin, which promotes pigmented gallstone formation.
+Gallstones are uncommon <10years old.
+The likelihood of developing gallstones increases with concomitant Gilbert's syndrome.
+The increased risk of gallstones can be minimised by splenectomy, due to reduced haemolysis.
+Improve
+References
+British Committee for Standards in Haematology - 2011 Hereditary spherocytosis guidelines
+Haematology
+Hereditary spherocytosis

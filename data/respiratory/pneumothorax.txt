@@ -1,0 +1,196 @@
+Pneumothorax
+Pneumothorax
+A pneumothorax refers to the presence of air within the pleural space, disrupting the negative intrapleural pressure and leading to partial or complete lung collapse. Aetiologically, it can be categorised as spontaneous, traumatic or iatrogenic. The former is further classified into primary, where there is no underlying pulmonary disease, or secondary, often associated with conditions such as COPD or cystic fibrosis. Clinically, patients may present with sudden onset
+dyspnoea
+,
+pleuritic chest pain
+, and decreased breath sounds on the affected side. Physical findings might be subtle in a small pneumothorax but can include
+tachypnoea
+,
+tachycardia
+, and hypoxia in larger or tension pneumothoraces. Chest X-ray is diagnostic, displaying visceral pleural lines or absence of lung markings peripherally. Management varies based on size and symptoms, ranging from observation to needle aspiration or chest tube insertion. Secondary pneumothoraces and those resulting from trauma often necessitate more intervention.
+Last updated: 9
+th
+May 2024
+Epidemiology
+Incidence: 15.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 3:1
+Condition
+Relative
+incidence
+Acute exacerbation of asthma
+66.67
+Pneumothorax
+1
+Aortic dissection
+0.20
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk factors
+primary spontaneous pneumothoraces are more prevalent in tall, lean males and are often linked to subpleural bleb rupture
+pre-existing lung disease: COPD, asthma, cystic fibrosis, lung cancer, Pneumocystis pneumonia
+connective tissue disease: Marfan's syndrome, rheumatoid arthritis
+ventilation, including non-invasive ventilation
+catamenial pneumothorax is the cause of 3-6% of spontaneous pneumothoraces occurring in menstruating women. It is thought to be caused by endometriosis within the thorax
+Improve
+Pathophysiology
+Pneumothorax
+refers to the presence of air or gas in the pleural space, resulting in lung collapse. The pathogenesis of pneumothorax can be explained through a series of physiological and anatomical disruptions.
+The first step in the development of pneumothorax involves damage to either the visceral or parietal pleura. This disruption can occur due to direct trauma, underlying lung disease, or iatrogenic causes such as invasive procedures. The integrity of the pleural layers is critical for maintaining negative intrapleural pressure; therefore, any compromise can lead to pneumothorax.
+Once there is a breach in the pleural layers, air from either the alveoli (in case of a ruptured visceral pleura) or the atmosphere (in case of damaged parietal pleura) enters the intrapleural space. This influx disrupts the negative pressure within this space which is vital for lung expansion during inspiration.
+Intrapleural Pressure:
+Normally, intrapleural pressure is negative relative to atmospheric pressure, allowing for lung expansion during inspiration. However, when air enters this space due to a breach in the pleura, it equalises with atmospheric pressure leading to partial or complete lung collapse on that side.
+Lung Collapse:
+As air continues to enter the intrapleural space with each breath taken and unable to exit efficiently due to one-way valve mechanism at site of rupture, it leads to progressive compression and subsequent collapse of affected lung. This phenomenon is termed as tension pneumothorax if unchecked.
+The degree and speed at which pneumothorax develops depend on two factors: size of defect and rate at which air accumulates within intrapleural space. A small defect may allow slow accumulation of air causing gradual onset of symptoms, while a larger defect can lead to rapid lung collapse and immediate symptom onset.
+Finally, the body's response to pneumothorax involves inflammation and repair. Inflammation leads to pleural pain and systemic signs such as
+tachycardia
+. The healing process begins with the formation of adhesions, which may eventually obliterate the intrapleural space preventing recurrence of pneumothorax.
+Improve
+Classification
+Pneumothoraces can be classified as follows:
+spontaneous pneumothorax
+primary spontaneous pneumothorax (PSP)
+: Occurs without underlying lung disease, often in tall, thin, young individuals. PSP is associated with the rupture of subpleural blebs or bullae.
+secondary spontaneous pneumothorax (SSP)
+: Occurs in patients with pre-existing lung disease, such as COPD, asthma, cystic fibrosis, lung cancer, Pneumocystis pneumonia. Certain connective tissue diseases such as Marfan's syndrome are also a risk factor
+traumatic pneumothorax: results from penetrating or blunt chest trauma, leading to lung injury and pleural air accumulation.
+iatrogenic pneumothorax: occurs as a complication of medical procedures, such as thoracentesis, central venous catheter placement, ventilation, including non-invasive ventilation or lung biopsy.
+An important clinical entity is a
+tension pneumothorax
+- this describes a severe pneumothorax resulting in the displacement of mediastinal structures that may result in severe
+respiratory
+distress and haemodynamic collapse.
+Catamenial pneumothorax is the cause of 3-6% of spontaneous pneumothoraces occurring in menstruating women. It is thought to be caused by endometriosis within the thorax.
+Improve
+Clinical features
+Patients with pneumothorax typically present with sudden-onset
+pleuritic chest pain
+and
+dyspnea
+. Physical examination findings may include diminished breath sounds, hyper resonance on percussion, and decreased chest wall movement on the affected side. In severe cases, patients may develop hypoxia, tachypnea,
+tachycardia
+, and hypotension.
+A tension pneumothorax, which is a life-threatening condition, may present with severe
+respiratory
+distress, tracheal deviation, jugular venous distension, and haemodynamic instability.
+Improve
+Investigations
+The diagnosis of pneumothorax is based on the clinical presentation and imaging studies. The initial imaging modality is typically a chest X-ray (CXR) in posteroanterior (PA) and lateral views, which may reveal a visceral pleural line and the absence of lung markings peripheral to the line. In cases where the diagnosis is uncertain or the CXR is inconclusive, a computed tomography (CT) scan of the chest may be performed. Point-of-care ultrasound (POCUS) can be a valuable tool for rapid bedside diagnosis, especially in cases of tension pneumothorax or in unstable patients.
+Improve
+Differential diagnosis
+The differential diagnosis of a pneumothorax often includes conditions such as pleural effusion, pneumonia and acute
+respiratory
+distress syndrome (ARDS), each with distinct clinical presentations.
+Pleural Effusion
+Unlike pneumothorax, which is characterised by the presence of air in the pleural space causing lung collapse, pleural effusion involves the accumulation of fluid instead. This can lead to compression atelectasis but not the abrupt lung collapse seen in pneumothorax.
+Clinical presentation varies depending on the volume and rate of fluid accumulation. Symptoms may include
+dyspnoea
+, cough and
+pleuritic chest pain
+. Physical examination often reveals decreased breath sounds, dullness to percussion and reduced tactile fremitus on the affected side - contrasting with hyperresonance and decreased or absent breath sounds found in pneumothorax.
+Pneumonia
+While both conditions may present with acute onset dyspnoea and chest pain, pneumonia is an infection of the lung parenchyma caused by various organisms like
+Streptococcus pneumoniae
+or
+Mycoplasma pneumoniae
+, rather than air leakage into the pleural space.
+Clinically, patients with pneumonia typically exhibit systemic symptoms such as fever, malaise and productive cough with purulent sputum - features not commonly associated with pneumothorax. Auscultation may reveal crackles or bronchial breath sounds, unlike the decreased breath sounds observed in pneumothorax.
+Acute Respiratory Distress Syndrome (ARDS)
+ARDS is a severe form of diffuse alveolar damage resulting from various insults including sepsis, trauma or aspiration. It does not involve air or fluid in the pleural space as seen in pneumothorax and pleural effusion respectively.
+Patients with ARDS present acutely with severe dyspnoea, hypoxaemia and bilateral infiltrates on chest imaging. The onset is usually within a week of a known clinical insult. In contrast, pneumothorax can occur spontaneously without an apparent trigger and typically shows unilateral lung involvement on imaging.
+Improve
+Management
+The British Thoracic Society (BTS) published updated guidelines for the management of spontaneous pneumothorax in 2023.
+The updated guidelines put less emphasis on the size of the pneumothorax and more emphasis on whether the patient is symptomatic and the presence of high-risk characteristics.
+Decision algorithm
+The first step is assessing whether the patient is symptomatic
+the BTS define minimal symptoms as '
+no significant pain or
+breathlessness
+and no physiological compromise
+'
+no or minimal symptoms → conservative care, regardless of pneumothorax size
+symptomatic → assess for high-risk characteristics
+If a pneumothorax is symptomatic, the next step is assessment for high-risk characteristics
+high-risk characteristics are defined as follows:
+haemodynamic compromise (suggesting a tension pneumothorax)
+significant hypoxia
+bilateral pneumothorax
+underlying lung disease
+≥ 50 years of age with significant smoking history
+haemothorax
+if no high-risk characteristics are present, and it is safe to intervene, then there is a choice of intervention:
+conservative care
+ambulatory device
+needle aspiration
+if high-risk characteristics are present, and it is safe to intervene →  chest drain
+How is safety or intervention determined?
+before a needle aspiration/chest drain insertion, the safety of intervention should be assessed
+this depends on the clinical context, but is usually:
+2cm laterally or apically on chest x-ray, or
+any size on CT scan which can be safely accessed with radiological support
+Management options
+Conservative care
+patients with a primary spontaneous pneumothorax that is managed conservatively should be reviewed every 2-4 days as an outpatient
+patients with a secondary spontaneous pneumothorax that is managed conservatively should be monitored as an inpatient
+if stable, follow-up in the outpatients department in 2-4 weeks
+Ambulatory care
+an example of an ambulatory device is the Rocket Pleural Vent
+it includes an 8FG catheter mounted on an 18G needle and a pigtail catheter to minimize the risk of occlusion
+ambulatory devices typically have a one-way valve and vent to prevent air and fluid return to the pleural space while allowing for controlled escape of air and drainage of fluid
+many devices also have an indication diaphragm that signals when the catheter tip enters the pleural space and continues to fluctuate with respiration, aiding in the assessment of pneumothorax resolution
+Needle aspiration
+a chest drain should be inserted if needle aspiration of a pneumothorax is unsuccessful
+if resolved, discharge and follow-up in the outpatients department in 2-4 weeks
+Chest drain insertion
+daily review as an inpatient
+remove drain when resolved
+discharge and follow-up in the outpatients department in 2-4 weeks
+Persistentent / recurrent pneumothorax
+If a patient has a persistent air leak or insufficient lung reexpansion despite chest drain insertion, or the patient has recurrent pneumothoraces, then video-assisted thoracoscopic surgery (VATS) should be considered to allow for mechanical/chemical pleurodesis +/- bullectomy.
+Discharge advice
+Smoking
+patients should be advised to avoid smoking to reduce the risk of further episodes - the lifetime risk of developing a pneumothorax in healthy smoking men is around 10% compared with around 0.1% in non-smoking men
+Fitness to fly
+absolute contraindication, the CAA suggest patients may travel 2 weeks after successful drainage if there is no residual air. The British Thoracic Society used to recommend not travelling by air for a period of 6 weeks but this has now been changed to 1 week post check x-ray
+Scuba diving
+the BTS guidelines state:
+'Diving should be permanently avoided unless the patient has undergone bilateral surgical pleurectomy and has normal lung function and chest CT scan postoperatively.'
+Image gallery
+Improve
+Complications
+Pneumothorax, while typically manageable with appropriate intervention, may lead to several serious complications if not timely diagnosed or treated. These complications can be categorised as immediate and long-term.
+Immediate Complications:
+Tension pneumothorax:
+This is a life-threatening condition that occurs when air enters the pleural space but cannot escape, leading to increased intrathoracic pressure. Clinical features include hypotension,
+tachycardia
+, and decreased breath sounds on the affected side.
+Re-expansion pulmonary oedema:
+A rare but potentially fatal complication that occurs after rapid re-expansion of a collapsed lung. It presents with cough,
+dyspnoea
+, and hypoxia.
+Infection:
+The risk of infection increases with invasive procedures such as chest tube insertion. Infections range from local wound infections to empyema or pneumonia.
+Long-term Complications:
+Recurrence:
+Patients who have experienced one episode of spontaneous pneumothorax are at higher risk for recurrence. This is more common in patients with underlying lung disease.
+Blebs and bullae formation:
+These air-filled sacs can form on the surface of the lungs following pneumothorax. They may rupture causing recurrent episodes of pneumothorax.
+Pleural thickening or fibrosis:
+This is often an outcome of chronic inflammation due to persistent pneumothorax or repeated episodes. It can impair lung function over time.
+Improve
+References
+British Thoracic Society - 2023 Pleural disease guidelines
+Respiratory
+Pneumothorax

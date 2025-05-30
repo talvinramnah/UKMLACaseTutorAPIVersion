@@ -1,0 +1,100 @@
+Obsessive-compulsive disorder
+Obsessive-compulsive disorder
+Obsessive-compulsive disorder (OCD) is characterised by the presence of either obsessions or compulsions, but commonly both. The symptoms can cause significant functional impairment and/ or distress.
+An obsession is defined as an unwanted intrusive thought, image or urge that repeatedly enters the person's mind. Compulsions are repetitive behaviours or mental acts that the person feels driven to perform. A compulsion can either be overt and observable by others, such as checking that a door is locked, or a covert mental act that cannot be observed, such as repeating a certain phrase in one's mind.
+It is thought that 1 to 2% of the population have OCD, although some studies have estimated 2 to 3%.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology is multifactorial but possible factors include:
+genetic
+psychological trauma
+pediatric autoimmune neuropsychiatric disorder associated with streptococcal infections (PANDAS)
+Associations
+depression (30%)
+schizophrenia (3%)
+Sydenham's chorea
+Tourette's syndrome
+anorexia nervosa
+Improve
+Clinical features
+A diagnosis of OCD requires the presence of obsessions, compulsions, or both:
+Obsessions are defined as:
+Recurrent and persistent thoughts, impulses, or images that are experienced as intrusive and unwanted.
+Attempts to ignore or suppress these thoughts, impulses, or images or to neutralize them with another thought or action (i.e., performing a compulsion).
+Compulsions are defined as:
+Repetitive behaviours (e.g., handwashing) or mental acts (e.g., counting) that an individual feels driven to perform in response to an obsession.
+The behaviours or mental acts aim at preventing or reducing
+anxiety
+or distress; however, they are either not connected in a realistic way with what they are designed to neutralize/prevent or are clearly excessive.
+The obsessions/compulsions must cause significant distress and/or functional impairment and cannot be attributed solely to the physiological effects of a substance (e.g., drug abuse) or another medical condition.
+Clinical Presentation
+Obsessive Themes:
+Contamination fears: Fear of becoming contaminated by germs, dirt, or harmful substances.
+Harm-related obsessions: Fear of causing harm to oneself or others due to negligence or unintentional actions.
+Unwanted sexual thoughts: Intrusive and distressing sexual thoughts or images involving inappropriate behaviours.
+Religious/moral obsessions: Excessive concern with religious or moral issues, also known as scrupulosity.
+Perfectionism/symmetry: Intense need for orderliness, symmetry, or exactness.
+Compulsive Behaviors:
+Cleaning/washing: Excessive handwashing, showering, cleaning of objects, etc., in response to contamination fears.
+Checking rituals: Repeatedly checking doors, appliances, etc., to ensure safety and prevent harm.
+Counting/repeating rituals: Performing mental acts (e.g., counting) or repeating actions a specific number of times to reduce anxiety.
+Ordering/arranging behaviours: Arranging objects in a particular manner or following strict routines to achieve a sense of orderliness and control.
+Mental neutralizing strategies: Attempting to counteract intrusive thoughts with other thoughts (e.g., prayer) in an effort to alleviate distress.
+Comorbidities
+OCD is often associated with comorbid psychiatric conditions such as major depressive disorder, anxiety disorders (e.g., generalized anxiety disorder), tic disorders (e.g., Tourette's syndrome), and personality disorders (e.g., obsessive-compulsive personality disorder).
+Improve
+Diagnosis
+Several assessment tools can aid in the evaluation of OCD symptom severity and treatment response:
+Yale-Brown Obsessive-Compulsive Scale (Y-BOCS): A widely used clinician-administered scale that measures the severity of obsessions and compulsions.
+Obsessive-Compulsive Inventory-Revised (OCI-R): A self-report questionnaire assessing the severity of various OCD symptoms.
+Improve
+Differential diagnosis
+It is essential to differentiate OCD from other psychiatric conditions that may present with similar features such as:
+Generalized
+Anxiety
+Disorder - Characterized by excessive worry about various life domains rather than specific obsessive themes.
+Body Dysmorphic Disorder - Preoccupation with perceived flaws in physical appearance leading to repetitive behaviours (e.g., mirror checking).
+Hoarding Disorder - Accumulation of possessions due to perceived need or difficulty discarding items, without the presence of obsessions or compulsions.
+Trichotillomania (hair-pulling disorder) and Excoriation (skin-picking) Disorder - Involves repetitive hair pulling or skin picking resulting in noticeable hair loss or skin lesions, respectively.
+Improve
+Management
+Management
+If functional impairment is mild
+low-intensity psychological treatments: cognitive behavioural therapy (CBT) including exposure and response prevention (ERP)
+If this is insufficient or can't engage in psychological therapy, then offer choice of either a course of an
+SSRI
+or more intensive CBT (including ERP)
+If moderate functional impairment
+offer a choice of either a course of an SSRI (any SSRI for OCD but
+fluoxetine
+specifically for body dysmorphic disorder) or more intensive CBT (including ERP)
+If severe functional impairment
+offer combined treatment with an SSRI and CBT (including ERP)
+Notes on treatments
+ERP is a psychological method which involves exposing a patient to an
+anxiety
+provoking situation (e.g. for someone with OCD, having dirty hands) and then stopping them engaging in their usual safety behaviour (e.g. washing their hands). This helps them confront their anxiety and the habituation leads to the eventual extinction of the response
+if treatment with SSRI is effective then continue for at least 12 months to prevent relapse and allow time for improvement
+If SSRI ineffective or not tolerated try either another SSRI
+Improve
+References
+NICE - 2005 Obsessive-compulsive disorder and body dysmorphic disorder: treatment
+National Institute of Mental Health - What is Obsessive-Compulsive Disorder (OCD)?
+Anxiety, phobias, OCD
+Obsessive-compulsive disorder

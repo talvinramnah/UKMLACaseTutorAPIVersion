@@ -1,0 +1,181 @@
+Lyme disease
+Lyme disease
+Lyme disease is a multisystemic, tick-borne illness caused by the spirochete bacterium
+Borrelia burgdorferi
+, transmitted to humans primarily through the bite of infected
+Ixodes
+ticks. The disease is prevalent in North America, Europe, and Asia, with the highest incidence in heavily wooded and grassy areas. Lyme disease manifests in three stages: early localized, early disseminated, and late disseminated.
+Early localized infection is characterized by erythema migrans, a bull's-eye rash, accompanied by flu-like symptoms such as
+fever
+,
+malaise
+, and joint aches. If left untreated, the infection can disseminate, leading to neurological, cardiac, and musculoskeletal involvement. Manifestations include
+facial nerve palsy
+, meningitis, carditis with heart block, and migratory
+joint pain
+. Late disseminated disease can present as chronic arthritis, encephalopathy, or peripheral neuropathy.
+Diagnosis is primarily based on clinical presentation, epidemiological context, and serological testing. Treatment involves antibiotics, with
+doxycycline
+or amoxicillin as first-line agents for most patients, and ceftriaxone for severe cases or those with neurological involvement. Early diagnosis and treatment are crucial to prevent long-term complications. Primary prevention strategies include tick avoidance, prompt removal of attached ticks, and prophylactic antibiotic treatment in high-risk cases.
+Last updated: 23
+rd
+March 2023
+Epidemiology
+Incidence: 12.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Lyme disease
+1
+Reactive arthritis
+0.42
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Causative agent
+Lyme disease is caused by the spirochete bacterium
+Borrelia burgdorferi
+, with closely related species
+Borrelia afzelii
+and
+Borrelia garinii
+causing disease in Europe and Asia. These bacteria possess a unique double-membrane structure and a corkscrew-like motility, which enables them to penetrate various tissues and evade the host immune response.
+Vector
+Lyme disease is transmitted primarily through the bite of infected
+Ixodes
+ticks, including
+Ixodes scapularis
+(black-legged tick) in the United States and
+Ixodes ricinus
+(castor bean tick) in Europe. The risk of transmission increases with the duration of tick attachment, with the highest risk occurring after 36-48 hours.
+Improve
+Pathophysiology
+The pathogenesis of Lyme disease involves a complex interplay between the
+Borrelia
+spirochetes and the host immune response, resulting in varied clinical manifestations.
+Inoculation and Localized Infection
+Following a tick bite,
+Borrelia
+spirochetes are inoculated into the skin, where they multiply and begin to disseminate. The host immune response and tissue tropism of the spirochetes contribute to the development of erythema migrans, the characteristic bull's-eye rash that develops in approximately 70-80% of infected individuals.
+Dissemination
+As the infection progresses,
+Borrelia
+spirochetes can disseminate through the bloodstream and lymphatics, invading various tissues such as the joints, heart, and nervous system. This widespread dissemination results in the early disseminated stage of Lyme disease, characterized by neurological, cardiac, and musculoskeletal manifestations, including
+facial nerve palsy
+, meningitis, carditis with heart block, and migratory
+joint pain
+.
+Host Immune Response
+The host immune response plays a crucial role in the pathogenesis of Lyme disease. While the immune response can initially help control the infection, it may also contribute to tissue damage and inflammation, leading to the late disseminated stage of Lyme disease. This stage can present as chronic arthritis, encephalopathy, or peripheral neuropathy.
+Immune Evasion
+Borrelia
+spirochetes have developed several immune evasion strategies, including antigenic variation, the ability to suppress host immune responses, and the formation of biofilms. These mechanisms enable the bacteria to persist in the host and contribute to the chronic manifestations of Lyme disease.
+Improve
+Clinical features
+Early features (within 30 days)
+erythema migrans
+'bulls-eye' rash is typically at the site of the tick bite
+typically develops 1-4 weeks after the initial bite but may present sooner
+usually painless, more than 5 cm in diameter and slowlly increases in size
+present in around 80% of patients
+.
+systemic features
+headache
+lethargy
+fever
+arthralgia
+Later features (after 30 days)
+cardiovascular
+heart block
+peri/
+myocarditis
+neurological
+facial nerve palsy
+radicular pain
+meningitis
+Improve
+Investigations
+Investigation
+NICE recommend that
+Lyme disease can be diagnosed clinically if erythema migrans is present
+erythema migrans is therefore an indication to start antibiotics
+enzyme-linked immunosorbent assay
+(ELISA) antibodies to
+Borrelia burgdorferi
+are the first-line test
+if negative and Lyme disease is still suspected in people tested within 4 weeks from symptom onset,
+repeat the ELISA 4-6 weeks
+after the first ELISA test. If still suspected in people who have had symptoms for 12 weeks or more then an immunoblot test should be done
+if positive or equivocal then an immunoblot test for Lyme disease should be done
+Improve
+Differential diagnosis
+Mononucleosis (Glandular
+Fever
+):
+Epstein-Barr Virus (EBV)
+is the primary causative agent in Mononucleosis, unlike Lyme disease which is caused by the spirochete bacterium
+Borrelia burgdorferi
+.
+Both diseases may present with
+fatigue
+, headache, and lymphadenopathy. However, a sore throat and splenomegaly are more commonly associated with Mononucleosis.
+A heterophile antibody test (Monospot) can help confirm a diagnosis of Mononucleosis while serological tests are used for diagnosing Lyme disease.
+Improve
+Management
+Management of
+asymptomatic tick bites
+tick bites can be a relatively common presentation to GP practices, and can cause significant anxiety
+if the tick is still present, the best way to
+remove it is using fine-tipped tweezers, grasping the tick as close to the skin as possible and pulling upwards firmly
+. The area should be washed following.
+NICE guidance does not recommend routine antibiotic treatment to patients who've suffered a tick bite
+Management of suspected/confirmed Lyme disease
+doxycycline
+if early disease.
+Amoxicillin is an alternative if doxycycline is contraindicated (e.g. pregnancy)
+people with erythema migrans should be commenced on antibiotic without the need for further tests
+ceftriaxone
+if disseminated disease
+Jarisch-Herxheimer reaction is sometimes seen after initiating therapy:
+fever
+, rash, tachycardia after first dose of antibiotic (more commonly seen in syphilis, another spirochaetal disease)
+Improve
+Complications
+Neurological Complications
+Borrelia burgdorferi
+, the causative agent of Lyme disease, can infiltrate the central nervous system leading to neuroborreliosis. This may manifest as lymphocytic meningitis, cranial neuritis (particularly
+facial nerve palsy
+), and radiculoneuritis.
+Encephalomyelitis, a rare complication, is characterised by focal abnormalities in the brain or spinal cord.
+Late-stage neurological complications include Lyme encephalopathy and chronic axonal polyneuropathy.
+Cardiac Complications
+Lyme carditis occurs when
+Borrelia burgdorferi
+infects the heart tissue. The most common manifestation is fluctuating degrees of atrioventricular block. Other presentations include myopericarditis and dilated cardiomyopathy.
+Musculoskeletal Complications
+The most common musculoskeletal manifestations are intermittent attacks of oligoarticular arthritis that primarily affect the knee joint. Chronic Lyme arthritis, a late disease manifestation, can develop into erosive arthritis if untreated.
+Ocular Complications
+Lyme disease can cause several ocular complications including conjunctivitis, keratitis, uveitis, retinal vasculitis, optic neuritis and choroiditis.
+Dermatological Complications
+Acrodermatitis chronica atrophicans (ACA) is a late dermatological manifestation of Lyme disease. It is characterised by progressive skin fibrosis and atrophy, predominantly on the extensor surfaces of extremities.
+Psychiatric Complications
+Untreated Lyme disease may lead to psychiatric complications over time. These include cognitive impairments, mood disturbances, sleep disorders, and
+fatigue
+.
+Improve
+References
+NICE - 2018 Lyme disease guidelines
+Clinical Knowledge Summaries - Lyme disease: management
+Dermnet NZ - Lyme disease
+Infectious diseases
+Lyme disease

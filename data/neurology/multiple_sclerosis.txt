@@ -1,0 +1,442 @@
+Multiple sclerosis
+Multiple sclerosis
+Multiple sclerosis (MS) is an inflammatory demyelinating disease, clinically defined by two episodes of neurological dysfunction (brain, spinal cord or optic nerves) separated in space and time. Thought to be an autoimmune disease and multifactorial origin, MS is the most common cause of neurological disability in those younger than 40 years old and affects ~ 190 per 100,000 population. The female to male ratio is around 3:1 with increasing frequency of MS in women, which suggests an environmental factor working in a sex-specific manner.
+Last updated: 21
+st
+June 2024
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Multiple sclerosis
+1
+Transverse myelitis
+0.05
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The underlying cause for this autoimmune response appears to be multifactorial in nature, associated with environmental factors in those with genetic susceptibility:
+Genetics
+15-20% of MS patients report a family history of the disease
+Concordance rate in monozygotic twins is ~ 25% and dizygotic/1st degree relatives are 2-5%
+Genes in the HLA and IL region have been implicated
+Environmental
+EBV
+People with EBV antibody-positive serology have a 5.5 times greater risk of MS than those without
+Hypothesised that primary EBV infection increases blood-brain barrier permeability to lymphocytes
+Smoking
+Increased odds or rate ratio of 1.22 to 1.51 of MS in smokers
+Nitric oxide and carbon monoxide can cause neuronal damage
+Vitamin D
+A prospective case-control study of 7 million military personnel found the risk of MS decreased with higher Vitamin D levels
+Role in gene expression and immunity regulation
+Latitude
+The prevalence of MS appears to increase with higher geographic latitudes
+Also associated with earlier onset of MS
+This appears to be linked with exposure to sunlight (and therefore vitamin D)
+Pregnancy
+Since MS has a higher predilection in females of childbearing age, knowledge of managing MS in pregnancy is important to prevent delay of treatment and safety to mother and baby
+In 2018 Association of British Neurologists devised a consensus on pregnancy in MS. In summary:
+Prepregnancy counselling should inform women who have MS to involve their MS specialist
+MS does not affect conception or increase the risk of miscarriage
+Treatment should not be deferred because they wish to have children in the future
+Having MS does not necessarily make a pregnancy high risk and should not limit birthing options
+During pregnancy many find their symptoms improve and experience fewer relapses. However, ~25% of women will relapse within 3 months postpartum
+If a relapse occurs women should be treated with corticosteroids
+MRI is not contraindicated in pregnancy,
+however
+Gd contrast should be avoided
+1st line therapies for MS in pregnancy include interferon beta or glatiramer acetate
+Improve
+Pathophysiology
+The exact pathogenesis of MS is still unknown, however it is thought to be an autoimmune mediated (mostly T cell activated) response, that results in 2 distinct phases:
+Inflammatory
+T-lymphocyte activation and interaction with CNS endothelial cells, leading to inflammatory cytokine and macrophage induced demyelination
+Degenerative
+Demyelination leads to affects axonal support and membrane potentials
+Eventual degeneration and loss over time
+Histopathologically MS is characterised by:
+Multifocal demyelination
+Loss of oligodendroctyes
+Astrogliosis and loss of axons in mostly white matter
+Improve
+Classification
+In 2014, the International Advisory Committee on Clinical Trials of MS in collaboration with the European Committee for Treatment and Research in MS (ECTRMS) and National MS Society, redefined the original clinical phenotypes first set out in 1996. Clinical descriptive terminology in relation to MS was further defined:
+Dissemination in space (DIS)
+Development of lesions in different anatomical locations within the CNS
+Demonstrated on MRI by
+≥1 T2 hyperintense lesion characteristic of MS
+In 2 or more of: periventricular, cortical or juxtacortical and infratentorial brain regions or the spinal cord
+Dissemination in time (DIT)
+Development of new CNS lesions appearing over time
+Demonstrated on MRI by
+Simultaneous gadolinium (Gd) enhancing and non enhancing lesions at any time
+or
+New T2 hyperintense or Gd enhancing lesions compared to a baseline MRI
+Relapse
+Reported symptoms or objective findings suggestive of focal or multifocal MS pathology
+Lasting at least 24 hours
+Developed acutely or subacutely
+With or without recovery
+In the absence of fever or infection
+Preceded by a stable neurological state of at least 30 days.
+Attack, exacerbation
+and (when it is the first episode)
+clinically isolated syndrome
+are synonyms
+Active
+Clinical relapses and/or radiological evidence of new lesions on MRI
+Progressive
+An MS course characterised by steadily worsening neurological disability (objectively documented)
+Stability and superimposed relapses can occur
+Can be further classified as
+primary progressive
+or
+secondary progressive
+(see below)
+Worsening disease
+Increase in neurological disability secondary to relapses and/or progressive disease
+The 3 main patterns of the disease are based on disease activity and progression:
+Relapsing-remitting
+MS (RRMS) (~85% of cases):
+Relapses are followed by periods of neurological stability between episodes.
+Relapse symptoms can last anywhere from a few days to months, however, they usually resolve after 4-6 weeks.
+Periods of stability can then occur for months, even years before another relapse
+Multiple relapses can result in irreversible CNS damage leading to partial recovery during remissions
+Secondary progressive
+MS (SPMS):
+A progressive neurological disability after an initial RRMS course.
+~50% of RRMS progress to SPMS within 15 years of disease onset
+~66% by 30 years of disease onset
+Primary progressive
+MS (PPMS) (~10-15% of cases):
+Steady progressive worsening of neurological symptoms from onset
+Clinically isolated syndrome
+(CIS):
+A separate entity to MS, but can subsequently lead to a diagnosis of the condition
+This is similar to relapse, but in a patient
+not known
+to have MS
+Typical presentation include optic neuritis, focal supratentorial, brainstem or cerebellar syndrome
+If the patient is subsequently diagnosed with MS, the CIS is defined as their first attack
+Improve
+Clinical features
+Since MS affects the CNS, its presentation of symptoms and signs can differ greatly between individuals day to day.
+Some of the most common symptoms are:
+Vision problems (~85%)
+Around 1 in 4 cases of MS present with optic neuritis
+This can present as temporary vision loss (including a scotoma), colour blindness and painful eye movements
+Examination may reveal internuclear ophthalmoplegia or a pale optic disc on fundoscopy
+Fatigue
+(~80%)
+Exhaustion disproportionate to the activity being carried out
+Causes of fatigue are in MS are thought to be due to the disease process (primary) and as a consequence of living with it (secondary) e.g. pain affecting sleep
+Pain (neuropathic and nociceptive) and
+altered sensation
+(~80%)
+Trigeminal neuralgia
+Optic neuritis
+Chest tightness (or banding)
+Lhermitte's phenomenon
+A shock-like sensation radiating down the spine induced by neck flexion)
+Muscle spasticity, stiffness and weakness (~80%)
+Spasticity usually affects legs more than arms.
+Can be associated with spasms that may disturb sleep and lead to falls and issues with mobility
+Weakness usually affects both lower limbs>one lower limb>upper and lower limb same side>an upper limb
+Mobility issues (~75%)
+Demyelination of cerebellar pathways can lead to ataxia
+Upper limb intention tremor is common due to thalamus and basal ganglia involvement
+Bladder and bowel dysfunction (~75-90%)
+Increased frequency and urgency
+Urinary retention
+Recurrent UTIs
+Constipation is the most common bowel complaint
+Sexual dysfunction (40-90%)
+Erectile dysfunction is the most common complaint in men
+Loss of libido and anorgasmia have been documented in both sexes
+Depression and anxiety (~40-60%)
+Most common mood disorder in MS
+No clear correlation with severity, type of MS or symptom duration
+Often associated with cognitive impairment, fatigue and pain
+Cognitive impairment (~43%)
+Problems with learning and short term memory common
+Executive functions (e.g. problem solving and planning) affected
+Speech and swallowing issues (~40%)
+Bulbar muscle problems causing dysarthria or dysphagia
+Improve
+Investigations
+The
+2019 NICE Guidelines
+recommend the following 1st line blood tests in those suspected of MS prior to referring to
+neurology
+:
+FBC
+Rule out evidence of anaemia (macrocytic in B12 deficiency) and malignancy (thrombocytopenia in lymphoma)
+Inflammatory markers (e.g. CRP and ESR)
+Elevated in infections of the CNS or vasculitides
+LFTs
+Chronic liver disease can cause polyneuropathy and hepatic encephalopathy
+U&Es
+Calcium
+Hypocalcaemia classically presents with
+paraesthesia
+and tetany
+Glucose
+Peripheral neuropathy secondary to poor diabetic control
+TFTs
+Hypothyroidism can present with
+fatigue
+, muscle weakness, constipation, slowed movement and thought processing
+Vitamin B12
+Severe deficiency leading to subacute combined degeneration of spinal cord
+HIV serology
+Progressive multifocal leukoencephalopathy due to reactivation of the JC virus
+Lesions occur anywhere in the CNS mimicking MS
+In the absence of abnormal blood tests and high clinical suspicion of MS, referral to a consultant neurologist is recommended.
+Investigations carried out in secondary care to confirm diagnosis of MS as recommended in the
+2017 McDonald Criteria
+include:
+MRI brain in all suspected MS patients
+MRI spine if:
+Suggestion of spinal cord lesion
+Primary progressive pattern
+MS in atypical demographic
+To confirm diagnostic confidence of MRI brain
+CSF examination recommended when:
+Insufficient clinical of MRI evidence to diagnose MS
+Any presentation other than CIS
+Atypical clinical, imaging or lab findings of MS
+MS in atypical demographic
+Improve
+Diagnosis
+The McDonald criteria devised in 2001, has undergone a number iterations, most recently revised in 2017 by the International Panel on Diagnosis of MS. This combines clinical, radiological and lab-based findings for diagnosis.
+Their position paper describes the following diagnostic criteria for MS:
+Clinical Presentation
+Additional Data Needed for Diagnosis
+≥ 2 clinical attacks and objective clinical evidence of ≥ 2 lesions
+None
+≥ 2 clinical attacks and objective clinical evidence of 1 lesion
+DIS: a further attack indicating a different CNS site
+or
+by MRI
+1 clinical attack
+and
+objective clinical evidence of ≥ 2 lesions
+DIT: a further attack or by MRI
+OR
+CSF-specific oligoclonal bands
+1 attack and objective clinical evidence of 1 lesion
+DIS: a further attack indicating a different CNS site or by MRI
+OR
+DIT: further clinical attack or by MRI
+OR
+CSF-specific oligoclonal bands
+Specifically when assigning a specific MS clinical phenotype the following diagnostic criteria apply:
+RRMS
+Requires evidence of:
+Dissemination in space on MRI
+Gadolinium enhancing and hypointense T2 lesions and/or
+Subsequent clinical or radiological relapse
+PPMS
+≥ 1 year of disability progression (determined prospectively or retrospectively) irrespective of relapses
+With two of the following:
+≥1 T2 hyperintense lesions characteristic of MS in one or more of the following regions: periventricular, cortical or juxtacortical, or infratentorial
+≥2 T2 hyperintense spinal cord lesions
+Presence of CSF-specific oligoclonal bands
+SPMS
+Currently, there are no clearly defined clinical, imaging or biochemical diagnostic criteria that define SPMS
+Diagnosis is frequently retrospective
+A definition based on the Expanded Disability Status Scale (EDSS) is currently being explored
+Improve
+Differential diagnosis
+MS can present with a wide range of symptoms including visual disturbance, muscle weakness and sensory disturbance. The following conditions below represent the most common differentials:
+Differential diagnosis
+History
+Exam
+Investigations
+Migraine
+Headache lasting between 4 to 72 hours
+Aura
+Photophobia
+Nausea and vomiting
+Risk factors
+Neurological examination normal
+Clinical diagnosis
+Further investigations to rule out plausible alternative diagnoses e.g. bloods, LP, MRI
+TIA/stroke
+Sudden onset of symptoms (weakness,
+visual loss
+, aphasia, ataxia)
+Risk factors
+Neurological exam in keeping with single neurological lesion rather than multiple
+CT head shows ischaemic/haemorrhagic changes
+Giant Cell Arteritis
+Usually >50 years old
+F>M
+Headache
+Visual disturbance
+Jaw claudication
+Scalp tenderness
+Fever
+Malaise
+Myalgia
+Absent temporal pulses
+Pale optic disc on fundoscopy
+Raised ESR
+Positive temporal artery biopsy
+Fibromyalgia
+Chronic multi-focal pain
+Generalised weakness
+Non-specific
+fatigue
+Sleep and mood disturbance
+Family history
+Neurological examination normal
+No biochemical abnormalities
+MRI may show non-specific white matter changes not indicative of MS
+Myelopathy secondary to cervical pathology
+Previous neck trauma, surgery or history of cancer
+Usually painless
+Reports of hand weakness and reduced coordination
+Rarely loss of proximal muscle function
+Symptoms involving a single nerve root
+Upper motor neurone signs on examination
+Cervical MRI demonstrating spinal cord or nerve root compression, bony lesions or degenerative changes
+Neuromyelitis optica
+(NMO) and NMO Spectrum Disorders (NMOSD)
+Primary presentation is visual disturbance, usually bilateral and more severe than MS
+May also present with motor or sensory dysfunction
+As for MS
+Positive anti-aquaporin-4 antibody and/or +ve anti myelin oligodendrocyte glycoprotein
+Transverse myelitis
+Bimodal age presentation: 10-19 or 30-39 years old
+Muscle weakness and sensory loss
+Bladder and bowel dysfunction also common
+Can be a precursor to MS or post infectious (EBV, HSV, CMW and VZV are common)
+Upper motor neurone signs (hyperreflexia, Babinski sign and spasticity)
+Hyperintense T2 and Gd enhancing lesions in the spinal cord, but no evidence of brain involvement (if positive likely MS)
+Increased white cell count on CSF analysis
+Autoimmune conditions (Lupus, Sjogren's, Antiphospholipid Syndrome (APS)
+Fever
+Fatigue
+Rash
+Arthralgia/myalgia
+Thromboembolic events
+Neurological exam usually normal
+Raised autoantibodies (anti-Ro/anti-La in Sjogren's, anti-nuclear/anti-DS DNA antibodies in lupus and anticardiolipin in APS)
+SACD
+Sensory loss
+Fatigue
+Memory loss
+Decreased vibration sense
+Gait abnormalities
+Peripheral neuropathy
+Low B12 levels
+Macrocytic anaemia
+Improve
+Management
+Treatment in multiple sclerosis is focused on reducing the frequency and duration of relapses. There is no cure.
+Acute relapse
+High-dose steroids (e.g. oral or IV methylprednisolone) may be given for 5 days to shorten the length of an acute relapse. It should be noted that steroids shorten the duration of a relapse and do not alter the degree of recovery (i.e. whether a patient returns to baseline function)
+Disease modifying drugs
+A number of drugs have been shown to reduce the risk of relapse in patients with MS. Typical indications for disease-modifying drugs include:
+relapsing-remitting disease + 2 relapses in past 2 years + able to walk 100m unaided
+secondary progressive disease + 2 relapses in past 2 years + able to walk 10m (aided or unaided)
+Drug options for reducing the risk of relapse in MS
+natalizumab
+a recombinant monoclonal antibody that antagonises alpha-4 beta-1-integrin found on the surface of leucocytes
+inhibit migration of leucocytes across the endothelium across the blood-brain barrier
+generally considered to have the strongest evidence base for preventing relapse of the disease-modifying and hence is often used first-line
+given intravenously
+ocrelizumab
+humanized anti-CD20 monoclonal antibody
+like natalizumab, it is considered a high-efficacy drug that is often used first-line
+given intravenously
+fingolimod
+sphingosine 1-phosphate (S1P) receptor modulator
+prevents lymphocytes from leaving lymph nodes
+oral formulations are available
+beta-interferon
+not considered to be as effective as alternative disease-modifying drugs
+given subcutaneously/intramuscularly
+glatiramer acetate
+immunomodulating drug - acts as an 'immune decoy'
+given subcutaneously
+along with beta-interferon considered an 'older drug' with less effectiveness compared to monoclonal antibodies and S1P) receptor modulators
+Some specific problems
+Fatigue
+once other problems (e.g. anaemia, thyroid or depression) have been excluded NICE recommend a trial of amantadine
+other options include mindfulness training and CBT
+Spasticity
+baclofen and gabapentin are first-line. Other options include diazepam, dantrolene and tizanidine
+physiotherapy is important
+cannabis and botox are undergoing evaluation
+Bladder dysfunction
+may take the form of urgency, incontinence, overflow etc
+guidelines stress the importance of getting an ultrasound first to assess bladder emptying - anticholinergics may worsen symptoms in some patients
+if significant residual volume → intermittent self-catheterisation
+if no significant residual volume → anticholinergics may improve urinary frequency
+Oscillopsia (visual fields appear to oscillate)
+gabapentin is first-line
+Improve
+Complications
+Multiple sclerosis (MS) can lead to numerous complications, both as direct consequences of the disease process and indirect results from mobility or lifestyle changes. Understanding these complications is essential for comprehensive patient management.
+Neurological Complications
+Spasticity:
+This is a common complication in MS patients, manifesting as muscle stiffness and spasms, particularly in lower extremities. It can significantly impair mobility and quality of life.
+Fatigue
+:
+Up to 80% of individuals with MS experience fatigue, which can be debilitating and significantly interfere with daily activities.
+Cognitive Impairment:
+Cognitive dysfunction affects approximately 40-60% of MS patients, impacting memory, attention, information processing speed, and executive functioning.
+Dysphagia:
+Difficulty swallowing may occur in later stages of MS due to neurological impairment. This increases the risk for aspiration pneumonia.
+Mental Health Complications
+Depression:
+Depression rates are high among people with MS. It can result from the psychological stress of living with a chronic illness or as a direct effect of MS on mood-regulating regions in the brain.
+Anxiety Disorders:
+These are also prevalent among individuals with MS and may coexist with depression.
+Skeletal/Muscular Complications
+Osteoporosis:
+Reduced mobility or steroid use may lead to accelerated bone loss and increased fracture risk in individuals with MS.
+Vascular Complications
+Venous Thromboembolism (VTE):
+Immobility due to advanced disease raises the risk for deep vein thrombosis (DVT) and pulmonary embolism (PE).
+Bladder, Bowel and Sexual Dysfunction
+Bladder Dysfunction:
+Neurogenic bladder is common in MS, leading to symptoms such as urgency, frequency, incontinence or urinary retention.
+Bowel Dysfunction:
+Constipation and faecal incontinence can occur due to disrupted neurological control of bowel function.
+Sexual Dysfunction:
+Both men and women with MS may experience sexual dysfunction due to neurological impairment or psychological factors.
+The management of these complications often requires a multidisciplinary approach involving neurologists, physiotherapists, occupational therapists, psychologists, dieticians and other healthcare professionals. Early identification and proactive management can help mitigate their impact on patients' quality of life.
+Improve
+Prognosis
+It is difficult to prognosticate in MS patients as some may follow a very benign course whilst others will develop rapid onset disability within years of diagnosis. This can be influenced by:
+MS phenotype
+A study of 220 MS patients, showed after 15 years: RRMS patients had a survival rate of ~95% (PPMS, ~90%), those without a wheelchair (EDSS <7.0) ~84% (PPMS, ~42%) and ~71% (PPMS, ~9%) walking without an aid.
+Severity and frequency of relapses
+RRMS prognosis more favourable in those with less frequent initial relapses and if there is more than 2-3 years between 1st and 2nd relapse.
+Newer studies show higher lesion burden at onset=poorer prognosis.
+Responsiveness to treatment
+Steroids reduces length and severity of relapse, but no long term effect on disease course or prognosis.
+DMTs may reduce the number and severity of relapses.
+A 2013 Cochrane review found they can prevent disability progression, but longer-term studies needed.
+Improve
+References
+NICE - 2014 Multiple sclerosis guidelines
+NICE - 2014 Multiple Sclerosis guidelines
+Multiple Sclerosis Society - Primary care guidelines
+Neurology
+Multiple sclerosis

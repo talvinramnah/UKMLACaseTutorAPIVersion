@@ -1,0 +1,388 @@
+Atrial fibrillation
+Atrial fibrillation
+Atrial fibrillation (AF) refers to a characteristic disordered pattern of contraction in the atria, associated with mortality and morbidity.  Atrial fibrillation is one of the most common
+arrhythmias
+in the UK and is associated with a high risk of ischaemic stroke without treatment.
+AF requires prompt treatment whenever it is found, with the aim of controlling both symptoms, which range from mild to life-threatening, and the risk of stroke. As AF can be the result of multiple pathological processes in the cardiovascular system it should also be regarded as a non-specific sign of further underlying cardiovascular dysfunction until proven otherwise.
+Last updated: 21
+st
+June 2024
+Epidemiology
+Incidence: 700.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in males 1.2:1
+Condition
+Relative
+incidence
+Atrial fibrillation
+1
+Supraventricular
+tachycardia
+0.05
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+In this section we will aim to list some of the many underlying risk factors, whether they be disease processes or lifestyle processes, which contribute to AF. In order to compile a reasonable list a number of sources have been used, which are listed below, but include review articles, guidelines and textbooks.
+As noted by Andrade et al. (2014), it is important to understand that AF is most often the result of an underlying risk modifying process, and it is rare for it to occur without the presence of risk factors or in an electrically normal heart. There are multiple pathways via which risk factors can result in AF but some common pathways described by the AHA/ACC/HRS guidelines (2014) include structural remodelling of and changes to the properties of action potentials within the atria. In addition to these processes, the AHA/ACC/HRS (2014) also note that some presentations of AF, collectively called Lone AF, can also be idiopathic.
+The major risk factors to be aware of for AF are listed below. Unless noted otherwise, these risk factors are derived from the AHA/ACC/HRS guidelines (2014):
+Risk factors affecting cardiovascular system:
+these diseases and lifestyle factors can result in AF via changes to the heart. Kumar and Clark (2017) note that a wide variety of changes in the atria can contribute to AF, including irritation, inflammation, high pressure or hypertrophy of the atria, by creating conditions where aberrations in the conduction of electrical signals in the heart are more likely to occur. They include:
+Hypertension, which according to Andrade et al. (2014) results in a moderate risk increase
+Ischaemic Heart Disease, according to Shah and Kantharia (n.d.)
+Heart Failure, including due to valvular disease which, according to Andrade et al (2014) results in an especially large risk increase
+Cardiomyopathy, according to Andrade et al. (2014)
+Cardiothoracic surgery
+Diabetes Mellitus
+Obesity
+Risk factors affecting the respiratory system:
+these diseases and lifestyle factors can also result in structural changes to the heart. Processes behind this include, but are not limited to, increased pulmonary arterial pressure and increased cardiac demand during states of respiratory distress. They include:
+Pneumonia
+Smoking
+Obstructive Sleep Apnoea
+Other modifiable risk factors:
+these diseases can contribute to AF via their affect on the autonomic nervous system or via other mechanisms. The autonomic nervous system is notable as it plays a key role in the control of heart chronotropy and inotropy. They include:
+Thyrotoxicosis
+Caffeine, according to Shah and Kantharia (n.d.)
+Alcohol excess
+Chronic kidney disease, according to Andrade et al. (2014)
+Non-modifiable risk factors
+to be aware of include:
+Increasing age, according to Andrade et al. (2014) the risk of AF doubles with each decade of life
+Male sex, according to Shah and Kantharia (n.d.). Andrade et al. (2014) note that males are 1.5 times more likely to develop AF than in females
+Inherited risk factors, according to Andrade et al. (2014)
+It is important to be aware of the fact that acute exacerbations of the above risk factors, especially acute respiratory diseases like infective pneumonia, can act as triggers for symptomatic AF. The management of these risk factors, including the modification of lifestyle factors, can be of benefit in the overall management of AF.
+Improve
+Pathophysiology
+Atrial fibrillation (AF) is a complex arrhythmia with a multifactorial pathophysiology. The process can be divided into three main components: triggers, substrate and perpetuators.
+Triggers
+The most common trigger for AF is rapid firing from the pulmonary veins (PVs). Other sites include the superior vena cava, coronary sinus, vein of Marshall and atrial appendages. The exact mechanism by which these foci initiate AF is not fully understood but it's thought to involve automaticity, triggered activity or micro-reentry.
+Automaticity:
+This refers to spontaneous depolarisation of myocardial cells in the absence of an external stimulus. In this context, it's often due to enhanced automaticity where cells outside the sinoatrial node begin firing at a rate faster than the node itself.
+Triggered Activity:
+This involves afterdepolarisations that are caused by influx of calcium ions during phase 4 of the action potential. These can be early (occurring during phase 2 or 3) or delayed (occurring after completion of phase 3).
+Micro-reentry:
+This occurs when there is a small circuit that allows for re-entry within an anatomical or functional obstacle.
+Substrate
+The substrate refers to structural and electrophysiological changes that facilitate maintenance of AF once it has been initiated. There's evidence suggesting that atrial fibrosis plays a major role in creating this substrate by causing electrical and structural remodelling.
+Electrical Remodelling:
+This includes shortening of the action potential duration, decrease in wavelength and refractory period heterogeneity leading to multiple wavelet re-entry circuits.
+Structural Remodelling:
+This involves changes in atrial size, shape and fibrosis. Fibrosis disrupts the normal myocardial architecture leading to slow conduction and re-entry circuits.
+Perpetuators
+AF itself can lead to further remodelling (termed 'AF begets AF') which then perpetuates the arrhythmia. This includes progressive atrial dilatation and fibrosis, as well as alterations in calcium handling proteins and ion channels.
+Atrial Dilatation:
+AF leads to atrial stretch which can increase the dispersion of refractoriness and promote re-entry. It also upregulates angiotensin II, promoting fibroblast proliferation and fibrosis.
+Fibrosis:
+Further fibrosis due to AF creates a more heterogeneous substrate that promotes maintenance of the arrhythmia.
+Ionic Remodelling:
+Changes in ion channel expression (e.g., downregulation of L-type calcium channels) can alter action potential characteristics further promoting AF.
+Improve
+Classification
+Atrial fibrillation (AF) can be categorised based on the duration of episodes and the response to treatment. The four main categories are:
+Paroxysmal atrial fibrillation
+: This type of AF is self-terminating, typically within 48 hours. However, it may last up to 7 days. Paroxysmal AF may recur with variable frequency.
+Persistent atrial fibrillation
+: Persistent AF lasts longer than seven days, including long-term episodes that are sustained for a year or more. It is not self-terminating and requires pharmacological or electrical cardioversion for termination.
+Long-standing persistent atrial fibrillation
+: This category includes patients who have been in continuous AF for one year or longer. Decision to restore and maintain sinus rhythm depends on patient-specific factors including symptoms, cardiac function, and thromboembolic risk.
+Permanent atrial fibrillation
+: In permanent AF, the presence of the arrhythmia is accepted by the patient and clinician. Therefore, rhythm control strategies are no longer pursued.
+It's important to note that these categories aren't mutually exclusive; a patient might transition from one form to another over time. For example, someone initially diagnosed with paroxysmal AF could progress to persistent or even long-standing persistent AF if interventions are unsuccessful or not sought after.
+The classification of atrial fibrillation also includes a consideration of whether it's
+valvular
+or
+non-valvular
+. Valvular AF refers to cases where rheumatic mitral valve disease, a prosthetic heart valve, or mitral valve repair is present. Non-valvular refers to all other cases of AF without these specific valvular heart diseases.
+Lastly, AF can be classified based on whether it's the primary condition or secondary to another illness.
+Primary (or lone) atrial fibrillation
+refers to AF in individuals younger than 60 years of age without clinical or echocardiographic evidence of cardiopulmonary disease, including hypertension.
+Secondary atrial fibrillation
+is associated with conditions such as hypertension, coronary artery disease, chronic lung disease, and hyperthyroidism.
+Improve
+Clinical features
+AF is a condition with a wide spectrum of clinical features.  Patients with AF can be asymptomatic or may have severe or even life-threatening symptoms. In addition, AF can also cause numerous embolic complications, which can themselves cause patients to present to primary or secondary care. The most common clinical presentations to be aware of are patients with
+asymptomatic AF, AF with non life-threatening symptoms, AF presenting with complications and AF presenting with haemodynamic instability/compromise.
+Asymptomatic AF
+Patients with AF who are asymptomatic can remain undiagnosed for a long time, and may only be found when they develop serious complications or symptoms. AF in this form is extremely common, with up to 35% of those with AF being unaware of its presence, according to Andrade et al (2014). As asymptomatic AF has the potential to cause harm, our approach should be to attempt to diagnose it before serious symptoms appear.
+Patients who exhibit risk factors for AF should always be screened by palpation of the radial pulse, which in AF is
+irregularly irregular.
+Patients with an irregularly irregular pulse should then have their diagnosis confirmed and treatment initiated.
+Irregularly irregular pulse: this refers to a heart rhythm where heartbeats follow each other in an entirely random pattern, and is a characteristic sign of AF.
+While the presence of risk factors may already be apparent from the past medical history of a patient or due to the presentation of the patient if they are already in hospital, it is important to take a full history and examination to identify undiagnosed risks. A list of risk factors to consider can be found in the aetiology section.
+AF with non-life threatening symptoms
+Patients with AF who are symptomatic most often present with a complaint of
+palpitations
+. The key secondary symptom identified in the 2014 AHA/ACC/HRS guidelines is
+fatigue
+.
+Presentations of AF can vary with respect to how often these symptoms occur, how long they occur for and triggering and alleviating factors. It is recommended in the AHA/ACC/HRS guidelines (2014) that physicians attempt to elicit this information to aid with further management.
+The symptoms of AF can become more severe as the heart rate increases, and may become life threatening with
+haemodynamic instability
+at high heart rates, or in those with underlying disease. The term 'fast AF' refers to patients with AF who have a high heart rate, these patients often require more urgent assessment and management due to the risk their high heart rate poses.
+AF presenting with complications
+A significant proportion of patients may present with the complications of AF, with or without a pre-existing diagnosis of AF. These complications include ischaemic stroke, mesenteric ischaemia and acute limb ischaemia, all of which are due to the formation of emboli in the heart.
+Patients who have AF should always be asked if they are experiencing symptoms that can be due to these complications. Neurological exams can also be employed in patients in whom a stroke is suspected. Patients who present with disease that could be of embolic origin should likewise be screened for AF, as it is one of the most common causes of embolic phenomena.
+The pathophysiology of these complications will be discussed in the pathophysiology section.
+AF presenting with haemodynamic instability
+The most serious symptoms associated with AF in the absence of complications are those where the presence of AF causes some form of circulatory failure, referred to as
+haemodynamic instability
+in 2014 NICE guidelines. This is known to occur in patients with high heart rates, and in those with underlying disease. This can manifest with:
+Acute heart failure, causing:
+Shortness of breath
+, due to pulmonary oedema
+Raised JVP
+Cardiogenic shock, the signs of which are:
+Tachycardia
+Hypotension
+Syncope
+or pre-syncope
+Cardiac
+chest pain
+, including myocardial infarction
+This is most common in patients with some level of pre-existing coronary heart disease
+Signs of haemodynamic compromise in AF according to NICE (2020)
+Heart Rate >150 bpm
+Blood Pressure <90 mmHg
+Syncope or severe
+dizziness
+Shortness of breath
+Chest Pain
+Patients presenting with these symptoms require immediate emergency treatment in a secondary care facility.
+Prognosis
+The prognosis of AF is widely variable and can change based on factors such as age, frailty, the presence of co-morbidities and the severity of initial and continuing symptoms. Embolic complications, if they arise, often result high morbidity and mortality and a negative prognosis.
+Improve
+Investigations
+First-line Investigations
+The first-line investigations for atrial fibrillation (AF) are primarily non-invasive and aim to confirm the diagnosis, determine the type of AF (paroxysmal, persistent or permanent), and identify any underlying causes or complications.
+12-Lead Electrocardiogram (ECG):
+This is the primary diagnostic tool for AF. It characteristically shows irregularly irregular rhythm, absence of P waves and variable ventricular response. ECG can also provide information about heart rate control and may indicate possible underlying cardiac conditions such as myocardial infarction or hypertrophy.
+Transthoracic Echocardiogram (TTE):
+TTE is crucial in identifying structural abnormalities that might have led to AF or could impact treatment decisions. It provides information about left atrial size, ventricular function, valvular disease, and may detect intracardiac thrombi.
+Further Investigations
+If first-line investigations do not provide enough information or if more specific details are required regarding the aetiology or management of AF, further investigations should be considered.
+Blood Tests:
+Full blood count, renal function tests, liver function tests and thyroid function tests can help identify potential reversible causes of AF like anaemia, electrolyte imbalance or hyperthyroidism. Coagulation profile may also be considered especially before initiating anticoagulation therapy.
+Holter Monitor:
+If paroxysmal AF is suspected but not captured on a single ECG tracing, a Holter monitor can be used for continuous ECG monitoring over 24-72 hours. This can also assess the burden of arrhythmia and response to treatment.
+Transoesophageal Echocardiogram (TOE):
+TOE is more sensitive than TTE in detecting left atrial or left atrial appendage thrombi, particularly before cardioversion or catheter ablation procedures. It can also provide detailed assessment of the mitral valve and pulmonary veins.
+Specialist Investigations
+In some cases, specialist investigations may be required, usually under the guidance of a cardiologist or electrophysiologist.
+Cardiac Magnetic Resonance Imaging (MRI) or Computed Tomography (CT):
+These imaging techniques can provide detailed structural and functional information about the heart and are particularly useful in identifying underlying cardiac conditions such as congenital heart disease, cardiomyopathies or pericardial disease.
+Catheter Ablation:
+Although primarily a therapeutic procedure, catheter ablation can also provide diagnostic information by mapping the electrical activity of the heart to identify areas triggering or maintaining AF.
+Improve
+Differential diagnosis
+With respect to key signs:
+Irregular pulse:
+A regularly irregular pulse can be due to second- or third-degree heart block. When in doubt, use an ECG to differentiate these bradyarrhythmias from AF
+With respect to key symptoms:
+Palpitations
+:
+Most atrial arrythmias can cause a symptom of palpitations. This includes but is not limited to
+atrial flutter
+, AVNRTs and AVRTs
+Ventricular ectopic beats
+Sinus
+tachycardia
+Anxiety and anxiety attacks
+Thyroid disease
+Ischaemia due to cardiac emboli
+Endocarditis
+With respect to ECG findings:
+Irregular QRS complexes
+Second- and third-degree heart block
+Irregular baselines
+Atrial flutter
+Ventricular fibrillation
+Loss of p-waves
+Hyperkalaemia
+Improve
+Management
+Rate control and maintenance of sinus rhythm
+NICE updated its guidelines on the management of atrial fibrillation (AF) in 2021. The following is also based on the joint American Heart Association (AHA), American College of
+Cardiology
+(ACC) and European Society of Cardiology (ESC) 2012 guidelines
+Patients presenting acutely with AF
+If a patient has signs of haemodynamic instability (e.g. hypotension, heart failure) they should be electrically cardioverted, as per the peri-arrest
+tachycardia
+guidelines.
+For haemodynamically stable patients, the management depends on how acute the AF is:
+< 48 hours:  rate or rhythm control
+≥ 48 hours or uncertain (e.g. patient not sure when symptoms started): rate control
+if considered for long-term rhythm control, delay cardioversion until they have been maintained on therapeutic anticoagulation for a minimum of 3 weeks
+Rate control
+Rate control should be offered as the first-line treatment strategy for atrial fibrillation except in people:
+whose atrial fibrillation has a reversible cause
+who have heart failure thought to be primarily caused by atrial fibrillation
+with new-onset atrial fibrillation (< 48 hours)
+with
+atrial flutter
+whose condition is considered suitable for an ablation strategy to restore sinus rhythm
+for whom a rhythm-control strategy would be more suitable based on clinical judgement
+Medications
+Agents used to control rate in patients with atrial fibrillation
+beta-blockers
+a common contraindication for beta-blockers is asthma
+calcium channel blockers
+digoxin
++ not considered first-line anymore as they are less effective at controlling the heart rate during exercise
+should only be considered if he person does no or very little physical exercise or other rate-limiting drug options are ruled out because of comorbidities
+may have a role if there is coexistent heart failure
+Rhythm control
+Agents used to maintain sinus rhythm in patients with a history of atrial fibrillation
+beta-blockers
+dronedarone: second-line in patients following cardioversion
+amiodarone: particularly if coexisting heart failure
+Catheter ablation
+NICE recommends the use of catheter ablation for those with AF who have not responded to or wish to avoid, antiarrhythmic medication.
+Technical aspects
+the aim is to ablate the faulty electrical pathways that are resulting in atrial fibrillation. This is typically due to aberrant electrical activity between the pulmonary veins and left atrium
+the procedure is performed percutaneously, typically via the groin
+both radiofrequency (uses heat generated from medium frequency alternating current) and cryotherapy can be used to ablate the tissue
+Anticoagulation
+should be used 4 weeks before and during the procedure
+it should be remember that catheter ablation controls the rhythm but does not reduce the stroke risk, even if patients remain in sinus rhythm. Therefore, patients still require anticoagulation as per their CHA
+2
+DS
+2
+-VASc score
+if score = 0: 2 months anticoagulation recommended
+if score > 1: longterm anticoagulation recommended
+Outcome
+notable complications include
+cardiac tamponade
+stroke
+pulmonary vein stenosis
+success rate
+around 50% of patients experience an early recurrence (within 3 months) of AF that often resolves spontaneously
+longer term, after 3 years, around 55% of patients who've had a single procedure remain in sinus rhythm. Of patients who've undergone multiple procedures around 80% are in sinus rhythm
+Anticoagulation
+NICE updated their guidelines on the management of atrial fibrillation (AF) in 2021.
+Does the patient need anticoagulation?
+The need for anticoagulation should be considered in patients with any history of AF, not just if they are in AF currently, i.e. the following groups should be assessed:
+symptomatic or asymptomatic paroxysmal, persistent or permanent atrial fibrillation
+atrial flutter
+a continuing risk of arrhythmia recurrence after cardioversion back to sinus rhythm or catheter ablation
+NICE suggest using the
+CHA
+2
+DS
+2
+-VASc
+score to determine the most appropriate anticoagulation strategy. This scoring system superceded the CHADS
+2
+score.
+Risk factor
+Points
+C
+Congestive heart failure
+1
+H
+Hypertension (or treated hypertension)
+1
+A
+2
+Age >= 75 years
+2
+Age 65-74 years
+1
+D
+Diabetes
+1
+S
+2
+Prior Stroke, TIA or thromboembolism
+2
+V
+Vascular disease (including ischaemic heart disease and peripheral arterial disease)
+1
+S
+Sex (female)
+1
+The table below shows a suggested anticoagulation strategy based on the score:
+Score
+Anticoagulation
+0
+No treatment
+1
+Males: Consider anticoagulation
+Females: No treatment (this is because their score of 1 is only reached due to their gender)
+2 or more
+Offer anticoagulation
+Remember that if a CHA
+2
+DS
+2
+-VASc score suggests no need for anticoagulation it is important to ensure a transthoracic echocardiogram has been done to exclude valvular heart disease, which in combination with AF is an absolute indication for anticoagulation.
+Assessing bleeding risk
+Doctors have always thought carefully about the risk/benefit profile of starting someone on
+warfarin
+. A history of falls, old age, alcohol excess and a history of previous bleeding are common things that make us consider whether anticoagulation is in the best interests of the patient., but NICE warn us not to withhold anticoagulation solely on the grounds of age or risk falls. NICE now recommend we formalise this risk assessment using the ORBIT scoring system. Previously the HAS-BLED scoring system was recommended.
+Variable
+Points
+Haemoglobin <130 g/L  for males and < 120 g/L for females, or haemtocrit < 40% for males and < 36% for females
+2
+Age > 74 years
+1
+Bleeding history (GI bleeding, intracranial bleeding or haemorrhagic stroke)
+2
+Renal impairment (GFR < 60 mL/min/1.73m
+2
+)
+1
+Treatment with antiplatelet agents
+1
+There are no formal rules on how we act on the ORBIT score and individual patient factors should be taken into account. However, the following table acts as a guide:
+ORBIT score
+Risk group
+Bleeds per 100 patient-years
+0-2
+Low
+2.4
+3
+Medium
+4.7
+4-7
+High
+8.1
+If treatment is indicated, which anticoagulant?
+For many years warfarin was the anticoagulant of choice in atrial fibrillation. This changed following the development of
+direct oral anticoagulants (
+DOACs
+)
+. These have the advantage of not requiring regular blood tests to check the INR and now recommended as the first-line anticoagulant for patients with AF. If a patient was previously started on warfarin, NICE recommend discussing switching to a
+DOAC
+during a routine follow-up appointment.
+The following DOACs are recommended by NICE for reducing stroke risk in AF:
+apixaban
+dabigatran
+edoxaban
+rivaroxaban
+Warfarin is now used second-line, in patients where a DOAC is contraindicated or not tolerated.
+Aspirin is not recommended for reducing stroke risk in patients with AF.
+Improve
+Complications
+Major complications of AF are those that result from cardiac emboli. These emboli can result in lesions in any organ system but the most common ones to be aware of are as below:
+Brain â→ stroke
+Limb Arteries â→ acute limb ischaemia
+Mesentery â→ mesenteric Ischaemia
+Stroke is the most common complication of AF and modification of the risk of stroke is the main justification for interventions such as anticoagulation.
+Improve
+References
+NICE - 2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+NICE - 2014 NICE guidelines
+NICE - 2021 Atrial fibrillation guidelines
+European Society of Cardiology - 2020 Atrial fibrillation guidelines
+SPARCtool - Stroke Prevention in Atrial Fibrillation Risk Tool
+Arrhythmias
+Atrial fibrillation

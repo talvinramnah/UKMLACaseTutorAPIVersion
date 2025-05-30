@@ -1,0 +1,124 @@
+Seborrhoeic dermatitis in adults
+Seborrhoeic dermatitis in adults
+Seborrhoeic dermatitis is a common, chronic or relapsing form of eczema/dermatitis that primarily affects sebum-gland rich areas of the scalp, face, and trunk. It's characterised by erythematous plaques with greasy, yellowish scales. The exact pathophysiology remains unclear but
+Malessezia
+yeast species are thought to play a significant role, alongside genetic predisposition and external environmental factors.
+The condition can present in varying degrees of severity from mild dandruff to extensive skin lesions which may cause intense itching. Diagnosis is typically clinical, based on the appearance and distribution of lesions. Skin biopsy is rarely necessary.
+Treatment aims to reduce inflammation and scale production, suppress
+Malessezia
+growth or reduce pruritus if present. Topical antifungal agents (such as ketoconazole), topical corticosteroids, calcineurin inhibitors (such as pimecrolimus) and keratolytics (like salicylic acid) are commonly used options. Systemic therapy may be required in severe cases.
+Last updated: 5
+th
+October 2023
+Epidemiology
+Incidence: 500.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Seborrhoeic dermatitis in adults
+1
+Periorificial dermatitis
+0.40
+Rosacea
+0.33
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of Seborrhoeic dermatitis in adults is multifactorial, with several risk factors and underlying causes contributing to the onset and progression of this common skin disorder. These include:
+Yeast Infection:
+The lipophilic yeast
+Malassezia
+, particularly
+M. globosa
+and
+M. restricta
+, plays a significant role in the pathogenesis of Seborrhoeic dermatitis. These yeasts proliferate in the sebum-rich areas of the body, leading to inflammation and flaking.
+Immunological Factors:
+Immunocompromised individuals, such as HIV patients or organ transplant recipients, are at an increased risk of developing Seborrhoeic dermatitis. This suggests that immune system dysregulation may contribute to its development.
+Genetic Predisposition:
+Family history and genetic predisposition appear to play a role in Seborrhoeic dermatitis, although specific genes have yet to be identified.
+Hormonal Factors:
+Androgens may influence the development of Seborrhoeic dermatitis due to their role in sebum production.
+Psychological Stress:
+Stress and mental health disorders such as depression have been associated with exacerbation of Seborrhoeic dermatitis symptoms, suggesting that psychological factors may influence disease severity.
+Parkinson's Disease:
+Patients with Parkinson's disease are more likely to develop Seborrhoeic dermatitis, possibly due to autonomic dysfunction affecting sebum production.
+In addition to these primary factors, certain environmental conditions can exacerbate symptoms or trigger flare-ups. These include cold, dry weather and infrequent shampooing or skin cleansing, which can allow for the accumulation of skin oils and yeast.
+Although the exact pathophysiology is not fully understood, it's clear that a complex interplay between host factors (e.g., immune status, genetic predisposition) and external influences (e.g., presence of
+Malassezia
+, environmental conditions) contribute to the development and progression of Seborrhoeic dermatitis in adults.
+Improve
+Pathophysiology
+Seborrhoeic dermatitis
+(SD) is a chronic, relapsing skin disorder primarily affecting sebum-rich areas. The pathophysiology of SD in adults is multifactorial and involves an interplay between the skin barrier, sebaceous gland activity, microbial flora and immune response.
+Skin Barrier Disruption:
+The stratum corneum functions as the primary physical barrier of the skin. In SD, there's a disruption in this barrier due to increased transepidermal water loss (TEWL), leading to dryness and flaking of the skin.
+Sebaceous Gland Activity:
+Sebum production plays a significant role in SD pathogenesis. Increased sebum excretion rate (SER) promotes the proliferation of lipophilic yeasts of the
+Malassezia
+genus, which are implicated in SD.
+Malassezia
+:
+These lipophilic yeasts are part of normal skin microbiota but can become pathogenic under certain conditions such as increased SER. They metabolise triglycerides present in sebum into free fatty acids, some of which have been found to be irritants leading to inflammation and scaling characteristic of SD.
+Inflammatory Response:
+The host immune response contributes significantly to SD symptoms. There is an increase in T-helper 2 (Th2) cytokines interleukin-4 (IL-4) and IL-13, which promote B-cell proliferation and IgE production against
+Malassezia
+. This hypersensitivity reaction leads to inflammation causing erythema and itching associated with SD.
+Keratinocyte Proliferation:
+Hyperproliferation and abnormal differentiation of keratinocytes are observed in SD, leading to increased corneocyte cohesion and hence, scaling. The exact mechanism is unclear but it's suggested that inflammatory mediators released during the immune response may play a role.
+In summary, the pathophysiology of SD involves an interplay between skin barrier disruption, sebaceous gland activity,
+Malassezia
+, immune response and keratinocyte proliferation. These factors together lead to the clinical manifestations of erythema, scaling and itching characteristic of this condition.
+Improve
+Clinical features
+Features
+eczematous lesions on the sebum-rich areas: scalp (may cause dandruff), periorbital, auricular and nasolabial folds
+otitis externa and blepharitis may develop
+Improve
+Differential diagnosis
+The differential diagnosis of Seborrhoeic dermatitis (SD) in adults includes Psoriasis, Atopic dermatitis (AD), and Tinea capitis.
+Psoriasis
+Clinical presentation:
+Psoriasis is characterised by well-demarcated plaques with silvery scales, typically found on extensor surfaces such as the elbows and knees. Unlike SD, psoriasis does not favour sebum-rich areas like the scalp or nasolabial folds. In addition, nail changes such as pitting or onycholysis are more commonly associated with psoriasis.
+Distinguishing features from SD:
+The presence of Auspitz's sign (pinpoint bleeding after scale removal) and Koebner phenomenon (new psoriatic lesions at sites of injury) provide key differentiating points from SD. Furthermore, psoriatic plaques tend to be thicker and less greasy compared to the yellowish, oily scales seen in SD.
+Atopic Dermatitis (AD)
+Clinical presentation:
+AD often manifests as pruritic, erythematous patches with lichenification in chronic cases. It typically affects flexural areas such as antecubital and popliteal fossae rather than seborrhoeic areas.
+Distinguishing features from SD:
+While both conditions can present with pruritus and erythema, AD tends to be more intensely itchy. Moreover, personal or family history of atopy including asthma or allergic rhinitis can point towards AD rather than SD.
+Tinea Capitis
+Clinical presentation:
+This fungal infection, caused by dermatophytes such as
+Trichophyton
+and
+Microsporum
+, typically presents with scaly patches on the scalp that may be accompanied by hair loss.
+Distinguishing features from SD:
+Tinea capitis often leads to alopecia in affected areas, a feature not typical of SD. Furthermore, a positive fungal culture or fluorescence under Wood's lamp can confirm the diagnosis of tinea capitis.
+Improve
+Management
+Scalp disease management
+the first-line treatment is ketoconazole 2% shampoo
+over the counter preparations containing zinc pyrithione ('Head & Shoulders') and tar ('Neutrogena T/Gel') may be used if ketoconazole is not appropriate or acceptable to the person
+selenium sulphide and topical corticosteroid may also be useful
+Face and body management
+topical antifungals: e.g. ketoconazole
+topical steroids: best used for short periods
+difficult to treat - recurrences are common
+Improve
+References
+Clinical Knowledge Summaries - Seborrhoeic dermatitis guidelines
+DermNet NZ - Overview and pictures of seborrhoeic dermatitis
+Dermatology
+Seborrhoeic dermatitis in adults

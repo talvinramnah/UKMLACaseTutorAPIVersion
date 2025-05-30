@@ -1,0 +1,232 @@
+Small bowel obstruction
+Small bowel obstruction
+Small bowel obstruction (SBO)
+refers to a partial or complete blockage of the small intestine, disrupting the normal passage of contents. Aetiologies include adhesions, hernias, neoplasms, and inflammatory strictures secondary to Crohn's disease.
+Patients typically present with
+abdominal pain
+, distension,
+vomiting
+, and
+constipation
+. Diagnosis is primarily confirmed via imaging modalities such as plain radiography or computed tomography (CT), which may reveal dilated loops of bowel proximal to the obstruction site.
+Management strategies encompass both non-operative and surgical interventions. Initial treatment often involves fluid resuscitation, nasogastric decompression, and electrolyte correction. Surgical intervention becomes necessary in cases of strangulation, perforation, or when conservative management fails. Complications can include bowel ischemia, necrosis, and sepsis.
+Last updated: 30
+th
+August 2023
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Acute appendicitis
+5.50
+Paralytic ileus
+2.50
+Acute pancreatitis
+2.00
+Small bowel obstruction
+1
+Large bowel obstruction
+0.30
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Small bowel obstruction (SBO) is primarily caused by mechanical blockages that interrupt the normal flow of intestinal contents. These obstructions can be categorised into intrinsic, extrinsic, and intraluminal causes.
+Intrinsic Causes:
+Adhesions:
+Postoperative adhesions are the leading cause of SBO, accounting for approximately 60-70% of all cases. They result from fibrous bands forming after abdominal surgery, particularly those involving the small bowel or pelvic region.
+Tumours:
+Malignant neoplasms such as carcinoid tumours, lymphomas, and metastatic cancers can lead to SBO. However, they are less common than adhesions.
+Crohn's Disease:
+This inflammatory bowel disease can cause strictures in the small intestine due to chronic inflammation and fibrosis.
+Hernias:
+Inguinal, femoral, incisional and internal hernias may trap a portion of the small bowel within an abnormal opening or defect in the abdominal wall or mesentery.
+Extrinsic Causes:
+Volvulus:
+This involves a segment of the bowel twisting around its mesenteric axis causing luminal obstruction and potential strangulation. It is more commonly seen in regions with a high fibre diet.
+Intussusception:
+This occurs when one segment of the intestine telescopes into an adjacent segment. It is more common in children but when occurring in adults it often has an organic lesion as a lead point.
+Intraluminal Causes:
+Gallstone Ileus:
+This is a rare cause of SBO occurring when a gallstone erodes through the gallbladder into the bowel causing an obstruction. It is more common in elderly women.
+Bezoars:
+These are conglomerations of indigestible material, such as vegetable fibres or certain medications, which accumulate within the gastrointestinal tract.
+The risk factors for small bowel obstruction include previous abdominal or pelvic surgery, history of radiation therapy to the abdomen, Crohn's disease, and hernias. Certain demographic factors such as increasing age and female sex are also associated with a higher risk of developing SBO due to conditions like gallstone ileus.
+Improve
+Pathophysiology
+Small bowel obstructions are caused by a blockage in the lumen of the gastrointestinal tract, meaning the normal passage and digestion of food contents are interrupted. As a result, the bowel distal to the obstruction will collapse. The bowel proximal will continue to dilate with the continuous build up and stasis of luminal contents and gas. It is the combination of the dilation of the intestine, and the continuing intestinal peristalsis, which leads to the colicky nature of the
+abdominal pain
+.
+As luminal contents fail to pass through the bowel, it results in subsequent
+nausea
+and
+vomiting
+.
+Often bilious in nature
+Leads to loss of fluid, Na+, K+, H+ and Cl-
+Results in a metabolic alkalosis, hypokalemia and hypovolemia
+With time, bowel wall oedema forms, which compresses the intestinal veins and lymphatics, reducing the venous drainage of the bowel. As this occurs, it compresses intestinal arterioles and capillaries, preventing arterial perfusion to the bowel wall. This can lead to subsequent bowel ischaemia, infarction, necrosis, and perforation.
+Improve
+Clinical features
+Symptoms
+Absence of passing flatus (90%) or stool (80%)
+Abdominal pain
+(90%)
+Ranges in severity
+Often cramping in nature
+Intermittent every 3-4 minutes. Constant pain may indicate bowel ischaemia.
+Often precedes
+vomiting
+(constant pain may indicate bowel ischaemia)
+Nausea
+and vomiting (80%)
+May be bilious
+Abdominal distension
+(65%)
+Signs
+Bowel sounds
+Initially high pitched (tinkling)
+Increased frequency
+In delayed presentations, bowel sounds can be reduced due to secondary ileus
+Abdominal tenderness
+Fever and tachycardia (if hernia strangulation is the cause of obstruction)
+In more proximal bowel obstructions, patients tend to present earlier. Characteristically,
+abdominal pain
+and
+vomiting
+are the predominant symptoms.
+In distal small bowel obstructions, patients usually present after 2-3 days of abdominal pain. The predominant symptoms are
+abdominal distension
+and
+constipation
+.
+In the case of a severe, complete and/or complicated obstruction, the common features include:
+Complete obstipation
+Severe lethargy
+Fevers and rigors
+Bilious vomiting
+Tachycardia and tachypnoea
+Improve
+Investigations
+Abdominal X-Ray
+The ideal initial investigation for a suspected SBO is plain radiography, as it is a usually fast and reliable test to confirm the diagnosis.
+Upright image
+To assess for air-fluid levels and pneumoperitoneum
+If not possible, UpToDate suggests a patient should be placed in lateral decubitus position to show free air and/or fluid levels
+Supine image
+Findings on x-ray consistent with SBO include:
+Dilated bowel loops with/without air-fluid levels
+Considered dilated if small bowel is >3cm diameter
+Proximal bowel dilation and distal bowel collapse
+Absence of gas in the abdomen
+Due to complete filling of bowel loops with sequestered fluid
+CT Scan
+BMJ indicate that plain radiography can be poorly sensitive for early and low grade SBO
+If there is a high clinical suspicion from the history and examination, and x-rays are negative, BMJ recommend ordering an abdominal CT scan also
+Where possible, if available, BMJ suggest that CT scan should be used
+instead
+of plain radiography due to higher sensitivity as well as ability to identify the cause of the obstruction in the first place
+Findings consistent with SBO include:
+Dilated bowel loops proximal to the transition point
+Small bowel diameter >3cm
+Bowel wall thickening
+>3mm
+Collapsed bowel distal to transitional point
+Pneumoperitoneum
+Indicates perforation and therefore increased urgency of management
+Submucosal oedema/haemorrhage
+Additional investigations
+Small bowel follow through (barium or gastrografin)
+May also be therapeutic for SBO as well as diagnostic
+If concerned about perforation, a water soluble contrast only should be used (e.g. gastrografin)
+Presence of contrast in the large bowel at 24 hours post-administration predicts the resolution of a SBO with 97% sensitivity and 96% specificity
+Improve
+Differential diagnosis
+There are a number of differential diagnosis for SBO, as while many patients will present with the classical symptom profile, the signs/symptoms can also be similarly present in a number of other conditions.
+Large bowel obstruction
+Similarities
+Similar aetiologies to SBO e.g. adhesions, hernias
+Both present with colicky
+abdominal pain
+and
+vomiting
+Differences
+LBO more frequently caused by malignant tumours and volvulus
+Faeculent vomiting is more frequently associated with LBO (late symptom)
+Abdominal distention is more common in LBO
+Typically the interval at which cramping pain occurs is longer
+Paralytic ileus
+Similarities
+Present with abdominal pain, vomiting and
+constipation
+Both commonly caused by abdominal surgery
+Differences
+More frequently caused by
+recent
+abdominal surgery and medications (e.g. opioids)
+Presents with diffuse, continual abdominal pain (rather than colicky abdominal pain)
+Bowel sounds tend to be absent
+Appendicitis
+Similarities
+Present with abdominal pain,
+nausea
+, and vomiting
+Differences
+Vomiting is non-bilious in nature
+Usually are febrile, whereas SBO usually must be complete/complicated to cause a low-grade fever
+Typically in younger patients with no previous surgical history
+Pseudo-obstruction
+Similarities
+Present with abdominal distention,
+nausea and vomiting
+Differences
+Often have chronic constipation, with diarrhoea (paradoxically) during acute episodes
+Often a chronic condition with recurrent episodes
+Improve
+Management
+The management of SBO can be divided into non-operative and operative strategies.
+Non-operative Management
+This is appropriate for patients with partial obstruction or complete obstruction without signs of strangulation or peritonitis.
+Nasogastric tube: Decompression of the upper gastrointestinal tract should be initiated early to avoid
+vomiting
+, as well as to reduce gastric and small bowel distention
+IV fluids and electrolyte repletion: To correct dehydration and electrolyte imbalances.
+Nil by mouth: Until the resolution of the obstruction.
+Observation: Close monitoring of the patient's symptoms, physical examination findings, and serial abdominal X-rays.
+Serial examinations: To assess for signs of worsening obstruction or development of complications that would necessitate surgery.
+Operative Management
+Surgery is indicated in patients with complete obstruction with signs of strangulation, peritonitis, or ischemia, as well as in those who fail to improve with non-operative management after 48-72 hours. Approximately 1/4 of patients will not respond to non-operative management, and therefore will eventually require surgery.
+Laparotomy or laparoscopy: The approach depends on the surgeon's expertise and the patient's anatomy and condition. Adhesiolysis is commonly performed.
+Bowel resection: If nonviable bowel is encountered.
+Postoperative Care
+Nasogastric tube: Should be kept in place until bowel function returns.
+Nutrition: Parenteral nutrition may be necessary initially, progressing to enteral nutrition as tolerated.
+Thromboprophylaxis: With low molecular weight heparin.
+Pain management: With a multimodal approach, including opioids, NSAIDs, and regional analgesia as appropriate.
+Improve
+Complications
+If left untreated, small bowel obstructions can cause serious, life-threatening complications, leading to significant morbidity and mortality.
+Bowel ischaemia
+A change in the character of the pain (e.g. intermittent to continuous pain, increase in severity) or worsening of abdominal signs (e.g. rebound tenderness, guarding) should highlight the possibility of complications and the need for immediate intervention
+If SBO is managed promptly, resolution tends to occur within 24-48 hours. However, beyond this time frame, without resolution, the risk of vascular compromise increases significantly.
+Strangulation is the arguably one of most severe complications of SBO, occurring when bowel wall oedema compromises the perfusion of the intestine and necrosis follows
+If this progresses further, it can result in bowel wall perforation, causing leakage of contents into the abdominal cavity, resulting in peritonitis, abdominal sepsis and potentially death
+Sepsis
+Increasingly more common if bowel perforation is present, sepsis can be a life-threatening condition and has a significant morbidity and mortality
+Can result in multi-organ failure and therefore death
+Short bowel syndrome
+This complication occurs if surgical management of SBO is necessary, and requires a large portion of small intestine to be removed for appropriate management
+With reduction in the surface area and distance for absorption of gastric nutrients, it essentially may lead a patient to require lifelong supplemental nutrition or intestinal transplantation
+Improve
+Colorectal surgery
+Small bowel obstruction

@@ -1,0 +1,50 @@
+Lipoma
+Lipoma
+Lipoma is a benign mesenchymal neoplasm, primarily composed of mature adipocytes, typically presenting as a soft, mobile, and painless mass. Although lipomas are the most common soft tissue tumour in adults, they rarely undergo malignant transformation into liposarcoma. They can occur anywhere in the body where adipose tissue is present but are predominantly found in the subcutaneous layer of the trunk and extremities.
+Last updated: 1
+st
+February 2024
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Histologically classified as either simple or angiolipoma, these slow-growing tumours may occasionally infiltrate surrounding tissues or cause discomfort due to their size or location. Lipomas can be solitary or multiple (as observed in familial multiple lipomatosis), with occasional association with conditions like Madelung's disease and Gardner's syndrome.
+Improve
+Clinical features
+Features
+lump
+characteristics:
+smooth
+mobile
+painless
+Improve
+Investigations
+Diagnosis is often clinical; however, imaging modalities such as ultrasound and MRI may aid in confirming the diagnosis and excluding malignancy. In cases with atypical presentation or rapid growth, fine-needle aspiration cytology (FNAC) or excisional biopsy may be performed for histopathological evaluation.
+Improve
+Management
+Management of lipoma depends on factors such as size, location, and patient preference. Asymptomatic lipomas generally do not require intervention; however, surgical excision remains the primary treatment modality when intervention is indicated due to cosmetic concerns or functional impairment. Alternative methods such as liposuction have also been employed with varying degrees of success. Recurrence following complete excision is rare; nevertheless, long-term follow-up is recommended for cases involving deep-seated or infiltrating lipomas.
+Improve
+Complications
+Liposarcoma
+Features suggestive of sarcomatous change:
+Size >5cm
+Increasing size
+Pain
+Deep anatomical location
+In one series the presence of all 4 features was associated with up to 85% being sarcomatous.
+Improve
+References
+Primary Care Dermatology Society - Lipoma
+General surgery
+Lipoma

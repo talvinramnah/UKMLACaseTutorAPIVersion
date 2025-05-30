@@ -1,0 +1,162 @@
+Goodpasture's syndrome
+Goodpasture's syndrome
+Goodpasture's syndrome is a rare autoimmune disease where antibodies attack the alpha-3 subunit of type IV collagen found in the basement membrane of the lungs and kidneys. This anti-glomerular basement membrane (anti-GBM) disease leads to small vessel vasculitis in the kidneys and lungs causing bleeding in the lungs and renal failure. This results in permanent damage to both organs and leads to death if left untreated. In treated individuals, the five-year survival rate is over 80%.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 0.10 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: more common in males 2:1
+Condition
+Relative
+incidence
+Granulomatosis with polyangiitis
+10.00
+Post-streptococcal glomerulonephritis
+3.00
+Eosinophilic granulomatosis with polyangiitis
+2.00
+Goodpasture's syndrome
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+While the exact aetiology remains incompletely understood, several factors have been implicated:
+Genetic Predisposition:
+Individuals with specific HLA (human leukocyte antigen) subtypes, particularly HLA-DRB1, are more susceptible to the syndrome.
+Environmental Triggers:
+Exposure to hydrocarbons, tobacco smoke, or viral respiratory infections may act as triggers for the disease.
+Immunological Factors:
+The presence of circulating anti-GBM antibodies target type IV collagen in the glomerular and alveolar basement membranes, causing tissue damage.
+Improve
+Pathophysiology
+The pathogenesis of Goodpasture's syndrome involves a multi-step process, as described below:
+Autoantibody Formation:
+In susceptible individuals, environmental triggers or other factors may cause B-cells to produce anti-GBM antibodies.
+Circulation and Deposition:
+These antibodies circulate in the bloodstream and eventually deposit on the glomerular and alveolar basement membranes, which are rich in type IV collagen.
+Immune Complex Formation:
+Antibody binding leads to the formation of immune complexes, which attract inflammatory cells to the site.
+Complement Activation:
+The immune complexes activate the complement cascade, releasing chemotactic factors and cytokines, further enhancing inflammation and tissue damage.
+Cellular Infiltration and Damage:
+Neutrophils and macrophages infiltrate the tissue, releasing reactive oxygen species (ROS) and proteolytic enzymes, leading to tissue destruction. In the kidneys, this results in crescentic glomerulonephritis and renal failure. In the lungs, it can cause alveolar haemorrhage.
+Renal and Pulmonary Symptoms:
+The end result is a rapidly progressing decline in renal function, often accompanied by respiratory symptoms like coughing up blood, which could be severe enough to warrant immediate intervention.
+Chronicity and Scarring:
+In the absence of timely treatment, the ongoing inflammation can cause irreversible damage, leading to renal scarring and fibrosis.
+Improve
+Clinical features
+The classic clinical presentation of Goodpasture's syndrome is a patient with no history of lung or renal dysfunction who presents after noticing an abrupt onset of
+haemoptysis
+, cough, shortness of breath, peripheral oedema, dark urine and oliguria.
+The majority of patients (90%) present with rapidly progressing glomerulonephritis with accompanying alveolar haemorrhage (25-60%).
+Very few patients present with isolated lung findings (10%).
+Symptoms:
+Haemoptysis (65%)
+Cough (30%)
+Shortness of breath (30%)
+Nausea
+and
+vomiting
+(20%)
+Chest pain (20%)
+Decreased urine output (15%)
+Fatigue
+and
+malaise
+Haematuria (5%)
+Signs:
+Lung crackles (45%)
+Fever (30%)
+Lower extremity oedema (15%)
+Risk factors:
+Men to women ratio 3:2
+Bimodal age distribution (at 20-30 years and 60-70 years)
+Improve
+Investigations
+There are no NICE guidelines on Goodpasture's syndrome and all BMJ recommendations are based on the 2012 KDIGO (Kidney Disease: Improving Global Outcomes) guidelines which recommend the following investigations:
+Renal biopsy - should be performed for definitive diagnosis
+Crescentic glomerulonephritis
+Linear IgG staining on immunofluorescence
+Bloods
+Anti-GBM antibody titre - useful confirmatory diagnostic test in addition to the renal biopsy.
+Anti-neutrophil cytoplasmic antibodies (ANCA) - positive in up to 30% of patients with anti-GBM disease.
+Urea & electrolytes - high urea and creatinine
+Urinalysis - proteinuria, hematuria and casts
+Chest imaging
+X-ray may show diffuse opacities
+CT characteristically shows ground glass or consolidative opacities in a diffuse and bilateral distribution
+Improve
+Differential diagnosis
+The three most likely alternative diagnoses include systemic lupus erythematosus (SLE), Wegener's granulomatosis (now known as
+Granulomatosis with Polyangiitis
+or GPA), and Anti-Glomerular Basement Membrane Disease (Anti-GBM disease).
+Systemic Lupus Erythematosus (SLE)
+SLE is an autoimmune disorder that can affect multiple organ systems. While both SLE and Goodpasture's syndrome can result in glomerulonephritis, the presence of non-renal symptoms such as arthritis, malar rash, photosensitivity, and oral ulcers would suggest SLE.
+Laboratory findings may reveal positive ANA and anti-dsDNA antibodies in SLE while anti-GBM antibodies are characteristic for Goodpasture's syndrome.
+Granulomatosis with Polyangiitis (GPA)
+GPA, like Goodpasture's syndrome, can cause rapidly progressive glomerulonephritis and pulmonary haemorrhage. However, upper respiratory tract involvement including sinusitis, otitis media, or mastoiditis is more indicative of GPA.
+In terms of diagnostic tests, c-ANCA/PR3-ANCA positivity is associated with GPA while anti-GBM antibodies are found in Goodpasture's syndrome.
+Anti-Glomerular Basement Membrane Disease (Anti-GBM disease)
+Although Anti-GBM disease shares many similarities with Goodpasture's syndrome - both are characterised by circulating anti-GBM antibodies leading to rapidly progressive glomerulonephritis and potential pulmonary haemorrhage - they are not identical. Goodpasture's syndrome is a form of Anti-GBM disease where there is also lung involvement.
+Thus, the key distinguishing feature between these two conditions lies in the clinical presentation: isolated renal involvement suggests Anti-GBM disease, while combined renal and pulmonary presentation supports a diagnosis of Goodpasture's syndrome.
+Improve
+Management
+A typical patient would be managed in a secondary setting using plasmapheresis, oral prednisolone and cyclophosphamide. If they develop respiratory failure or massive
+haemoptysis
+they may be moved to an intensive care unit.
+There are no NICE guidelines on Goodpasture's syndrome and all BMJ recommendations are based on the 2012 KDIGO (Kidney Disease: Improving Global Outcomes) guidelines which recommend the following management of Goodpasture's syndrome:
+Acute management:
+Intensive plasmapheresis
+Removes the pathogenic antibody and inflammatory mediators
+4 litres per day for 10-14 days, or until anti-GBM is undetectable
+Prednisone
+The dose is tapered over the course of 3 months
+Cyclophosphamide
+Suppresses the immune system
+Long term management
+Optimal duration of treatment is unknown but the cessation of autoantibody formation can take at least 6 to 9 months.
+Maintenance therapy should include less toxic drugs such as azathioprine and low dose prednisolone.
+Smoking cessation as this causes glomerular and alveolar damage leading to the release of increased amounts of auto-antigen.
+Improve
+Complications
+Short term
+Pulmonary haemorrhage
+High likelihood in smokers.
+Plasmapheresis related bleeding
+This removes clotting factors from the blood which may need to be replaced with fresh frozen plasma.
+Cyclophosphamide-related neutropenia
+This drug can cause dose-related leukopenia, therefore should be stopped and recommenced at a lower dose.
+Immunosuppression related infection
+May need antibiotic prophylaxis for
+Pneumocystis jirovecii
+pneumonia infection
+Long term
+Chronic kidney disease requiring dialysis
+Most patients are left with a degree of renal impairment which may need dialysis.
+Long term prednisolone complications
+Requires prophylactic proton pump inhibitor for prevention of gastric ulcers
+Requires prophylactic bisphosphonates for prevention of osteoporosis
+Cyclophosphamide complications
+Can cause sterility if used for over 2-3 months. Gamete preservation should be considered.
+At high doses cyclophosphamide increases the risk of bladder cancer or haemorrhagic cystitis.
+Improve
+Prognosis
+- Early treatment is associated with good chances of recovery with a five-year survival rate of over 80%.
+With aggressive treatment, out of the patients with mild to moderate kidney failure who do not need dialysis at arrival, 82-95% do not require dialysis at one year.
+In patients with more severe disease, the chance of renal recovery is 8%.
+Patients with end-stage renal disease and undetectable anti-GBM may undergo transplantation.
+Reports of recurrence is low.
+Improve
+Nephrology
+Goodpasture's syndrome

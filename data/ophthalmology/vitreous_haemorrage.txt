@@ -1,0 +1,86 @@
+Vitreous haemorrage
+Vitreous haemorrage
+Vitreous haemorrhage is bleeding into the vitreous humour.  It is one of the most common causes of sudden painless loss of vision. It causes disruption to vision to a variable degree, ranging from
+floaters
+to complete
+visual loss
+. The source of bleeding can be from disruption of any vessel in the retina as well as the extension through the retina from other areas. Once the bleeding stops, the blood is typically cleared from the retina at an approximate rate of 1% per day.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 7.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Vitreous haemorrhage can result from a variety of causes, including:
+Diabetic retinopathy: Proliferative diabetic retinopathy is the most common cause of vitreous haemorrhage, resulting from neovascularization and subsequent rupture of fragile blood vessels on the retina's surface.
+Retinal tear or detachment: A tear in the retina can lead to fluid accumulation under the retina, resulting in retinal detachment and haemorrhage.
+Retinal vein occlusion: Occlusion of the retinal veins can lead to venous congestion, neovascularization, and haemorrhage.
+Trauma: Blunt or penetrating injuries can disrupt the retinal or choroidal blood vessels, causing bleeding into the vitreous humour.
+Age-related macular degeneration (AMD): Choroidal neovascularization associated with wet AMD may result in vitreous haemorrhage.
+Posterior vitreous detachment (PVD): Separation of the vitreous from the retina can cause traction on retinal blood vessels, leading to haemorrhage.
+Tumours: Intraocular tumours, such as retinoblastoma or choroidal melanoma, may cause bleeding into the vitreous.
+Improve
+Clinical features
+Patients with vitreous haemorrhage typically present with sudden, painless vision loss or
+floaters
+. The extent of visual impairment depends on the severity and location of the haemorrhage. On examination, the affected eye may have reduced visual acuity, and the red reflex may be absent or diminished. Fundoscopic examination can be challenging due to the opacity caused by the blood in the vitreous. In some cases, ultrasonography may be required to visualize the retina and assess for retinal detachment or other underlying abnormalities.
+Improve
+Investigations
+First-line investigations
+Initial assessment of a patient with suspected vitreous haemorrhage should include the following first-line investigations:
+Slit-lamp examination:
+Utilise both direct and indirect ophthalmoscopy to assess the extent of the haemorrhage. This can help identify any associated retinal tears or detachments.
+B-scan ultrasonography:
+If fundus visualisation is obscured by dense vitreous haemorrhage, B-scan ultrasound is essential. It allows for evaluation of the posterior segment, detection of retinal detachment, and identification of intraocular foreign bodies or tumours.
+Optical coherence tomography (OCT):
+Useful in cases where some fundus details are visible. OCT can help in assessing macular status and may reveal underlying causes such as neovascularisation.
+Further investigations
+If initial investigations do not provide a definitive diagnosis or if there are indications of systemic disease, further evaluations may be necessary:
+Fluorescein angiography (FA):
+Indicated when there is suspicion of diabetic retinopathy, retinal vein occlusion, or other vascular abnormalities. FA helps in identifying areas of leakage and neovascularisation.
+Complete blood count (CBC) and coagulation profile:
+Essential if there is suspicion of bleeding disorders. These tests can identify thrombocytopenia, coagulopathies, or other haematological conditions contributing to vitreous haemorrhage.
+Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP):
+Useful in evaluating for inflammatory conditions such as vasculitis which might present with vitreous haemorrhage.
+Toxoplasma gondii
+serology: Considered if ocular toxoplasmosis is suspected based on clinical presentation or history.
+Cytomegalovirus
+, herpes simplex virus (HSV), varicella-zoster virus (VZV) PCR: Indicated if viral retinitis is suspected.
+Improve
+Differential diagnosis
+The differential diagnosis of vitreous haemorrhage includes retinal detachment, posterior vitreous detachment (PVD), and age-related macular degeneration (AMD). These conditions may present with similar symptoms such as
+floaters
+, flashes, or reduced vision, but they can be differentiated based on clinical presentation and examination findings.
+Retinal Detachment
+Patients with retinal detachment often describe a sudden onset of floaters and flashes. This is followed by progressive visual field loss that may be described as a 'curtain' falling across their vision. The visual acuity can remain good until the macula detaches.
+On direct ophthalmoscopy, the retina appears elevated with folds or tears. Additionally, there may be visible pigment granules in the vitreous humour from retinal pigment epithelial cells.
+Retinal detachments are more common in myopic patients and those who have had previous ocular surgery or trauma.
+Posterior Vitreous Detachment (PVD)
+PVD typically presents with sudden onset of floaters and flashes. However, unlike retinal detachment, there is no associated visual field loss.
+Ophthalmoscopic examination reveals a Weiss ring - a circular opacity representing the detached posterior hyaloid face - in the vitreous cavity. There are typically no visible changes to the retina itself.
+PVD is most commonly seen in older individuals due to age-related liquefaction of the vitreous humour.
+Age-Related Macular Degeneration (AMD)
+In AMD, patients usually report gradual distortion or loss of central vision. There may be associated metamorphopsia (distorted vision) and micropsia (objects appearing smaller).
+Examination findings include drusen (yellow deposits beneath the retina), pigmentary changes, and in late stages, choroidal neovascularisation or geographic atrophy.
+AMD is more common in older individuals and those with a history of smoking or family history of AMD.
+Improve
+Management
+The management of vitreous haemorrhage depends on the underlying cause and severity of the condition. Treatment options include:
+Observation: Mild, non-threatening vitreous haemorrhages may be managed conservatively, with observation and follow-up to monitor for spontaneous resolution.
+Treatment of underlying cause: Addressing the primary cause of the haemorrhage, such as laser photocoagulation for diabetic retinopathy or intravitreal injections for wet AMD, can help prevent further bleeding and vision loss.
+Vitrectomy: In cases of severe or persistent vitreous haemorrhage, surgical intervention with pars plana vitrectomy may be necessary to remove the blood and restore vision. This procedure also allows for the treatment of underlying retinal pathology, such as retinal detachment or proliferative retinopathy.
+Improve
+Ophthalmology
+Vitreous haemorrage

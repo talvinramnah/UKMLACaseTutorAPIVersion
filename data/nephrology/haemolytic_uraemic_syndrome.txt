@@ -1,0 +1,74 @@
+Haemolytic uraemic syndrome
+Haemolytic uraemic syndrome
+Haemolytic uraemic syndrome (HUS) is a rare but serious condition that can lead to renal failure,
+anaemia
+and
+thrombocytopenia
+. It is most commonly caused by an infection with certain strains of
+E. coli
+bacteria, particularly in children under the age of five. HUS can also be caused by other infections, medications, or genetic factors.
+The symptoms of HUS can include bloody
+diarrhoea
+,
+abdominal pain
+,
+vomiting
+, and decreased urine output.
+Treatment for HUS involves supportive care, such as fluid and electrolyte management, blood transfusions, and dialysis if necessary. Antibiotics are not recommended unless there is evidence of an active bacterial infection.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 1.50 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Haemolytic uraemic syndrome
+1
+Thrombotic thrombocytopenic purpura
+0.27
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Most cases are secondary (termed 'typical HUS'):
+classically Shiga toxin-producing Escherichia coli (STEC) 0157:H7 ('verotoxigenic', 'enterohaemorrhagic'). This is the most common cause in children, accounting for over 90% of cases
+pneumococcal infection
+HIV
+rare: systemic lupus erythematosus, drugs, cancer
+Primary HUS ('atypical') is due to complement dysregulation.
+Improve
+Clinical features
+Haemolytic uraemic syndrome is generally seen in young children and produces a triad of:
+acute kidney injury
+microangiopathic haemolytic
+anaemia
+thrombocytopenia
+Improve
+Investigations
+Investigations
+full blood count:
+anaemia
+, thrombocytopaenia, fragmented blood film
+U&E: acute kidney injury
+stool culture
+Improve
+Management
+Management
+treatment is supportive e.g. Fluids, blood transfusion and dialysis if required
+there is no role for antibiotics, despite the preceding diarrhoeal illness in many patients
+the indications for plasma exchange in HUS are complicated. As a general rule plasma exchange is reserved for severe cases of HUS not associated with
+diarrhoea
+eculizumab (a C5 inhibitor monoclonal antibody) has evidence of greater efficiency than plasma exchange alone in the treatment of adult atypical HUS
+Improve
+Nephrology
+Haemolytic uraemic syndrome

@@ -1,0 +1,96 @@
+Aplastic anaemia
+Aplastic anaemia
+Aplastic anaemia
+is a rare, potentially life-threatening haematological condition characterised by pancytopenia and hypocellular bone marrow. It results in insufficiency of all three blood cell lines: erythrocytes, leukocytes, and thrombocytes. The pathophysiology typically involves damage to the pluripotent stem cells leading to bone marrow failure. This can be idiopathic or secondary to exposure to toxins, radiation, viral infections or certain medications.
+The clinical presentation is variable but often includes fatigue (secondary to anaemia), recurrent infections (due to neutropenia) and bleeding tendencies (owing to thrombocytopenia). Diagnosis is confirmed by bone marrow biopsy showing hypocellularity without infiltration by abnormal cells or fibrosis.
+Treatment options encompass supportive care with transfusions and antibiotics, immunosuppressive therapy with antithymocyte globulin and cyclosporine, and allogeneic haematopoietic stem cell transplantation. Prognosis depends on several factors including patient age, severity of pancytopenia, response to treatment, and availability of suitable donors for transplantation.
+Last updated: 24
+th
+July 2024
+Aetiology
+- Idiopathic
+Congenital: Fanconi anaemia, dyskeratosis congenita
+Drugs: cytotoxics, chloramphenicol, sulphonamides, phenytoin, gold
+Toxins: benzene
+Infections: parvovirus, hepatitis
+Radiation
+Improve
+Pathophysiology
+Aplastic anaemia is characterised by pancytopenia and hypocellular bone marrow. The condition arises due to the failure of haematopoietic stem cells (HSCs) within the bone marrow, leading to insufficient production of blood cells.
+The initial insult often involves damage to HSCs or their microenvironment. This can be mediated by immune mechanisms, where cytotoxic T-lymphocytes target HSCs, or through direct toxic effects from drugs or radiation. The damaged HSCs undergo apoptosis or become senescent, reducing the pool of progenitor cells available for haematopoiesis.
+With a diminished population of HSCs, there is inadequate replenishment of erythrocytes, leukocytes, and thrombocytes. The resultant erythropoiesis insufficiency leads to anaemia, manifesting as fatigue, pallor, and dyspnoea due to reduced oxygen-carrying capacity. Leukocyte depletion compromises the immune response, predisposing patients to frequent infections. Thrombocytopenia results in impaired haemostasis, presenting clinically with petechiae, ecchymoses, and an increased risk of bleeding.
+The bone marrow biopsy typically reveals a hypocellular marrow with fatty infiltration and residual islands of haematopoietic tissue. This histopathological finding confirms the diagnosis when correlated with peripheral blood pancytopenia.
+At a molecular level, mutations in genes such as
+TERT
+,
+TERC
+, and
+GATA2
+may compromise telomere maintenance and genomic stability in HSCs. Additionally, autoimmune destruction is facilitated by aberrant expression of antigens on HSCs that are targeted by autoreactive T-cells.
+Cytokine dysregulation also plays a role; elevated levels of interferon-gamma (IFN-γ) and tumour necrosis factor-alpha (TNF-α) contribute to suppression of haematopoiesis through induction of apoptosis in progenitor cells.
+Treatment strategies focus on immunosuppression to mitigate immune-mediated destruction or allogeneic stem cell transplantation to restore functional haematopoiesis. Understanding these mechanisms aids in tailoring therapeutic approaches based on the underlying pathophysiology.
+Improve
+Classification
+Classification of aplastic anaemia:
+Acquired aplastic anaemia
+Idiopathic
+: No identifiable cause, accounts for the majority of cases.
+Drug-induced
+: Commonly associated with medications such as chloramphenicol, non-steroidal anti-inflammatory drugs (NSAIDs), and chemotherapeutic agents.
+Chemical exposure
+: Including benzene and other organic solvents.
+Infectious causes
+: Viral infections such as Epstein-Barr virus (EBV), cytomegalovirus (CMV), hepatitis viruses, and HIV.
+Radiation-induced
+: Resulting from ionising radiation exposure.
+Inherited aplastic anaemia
+Fanconi anaemia
+: Autosomal recessive disorder characterised by congenital abnormalities, progressive pancytopenia, and increased cancer risk. Diagnosed via chromosomal breakage tests.
+Dyskeratosis congenita
+: X-linked recessive or autosomal dominant disorder involving mutations in telomerase complex genes. Presents with mucocutaneous abnormalities and bone marrow failure.
+Shwachman-Diamond syndrome
+: Autosomal recessive disorder featuring exocrine pancreatic insufficiency, skeletal abnormalities, and bone marrow dysfunction. Associated with SBDS gene mutations.
+Diamond-Blackfan anaemia
+: Congenital pure red cell aplasia presenting in infancy or early childhood. Involves mutations in ribosomal protein genes.
+Aplastic anaemia is further classified based on severity:
+Mild: Bone marrow cellularity 20-30%, absolute neutrophil count (ANC) >1.5 x 10^9/L, platelet count >50 x 10^9/L, reticulocyte count >60 x 10^9/L.
+Moderate: Bone marrow cellularity 10-20%, ANC 0.5-1.5 x 10^9/L, platelet count 20-50 x 10^9/L, reticulocyte count 20-60 x 10^9/L.
+Severe: Bone marrow cellularity less than 25%, ANC less than 0.5 x 10^9/L, platelet count less than 20 x 10^9/L, reticulocyte count less than 20 x 10^9/L.
+Improve
+Clinical features
+- Normochromic, normocytic anaemia
+Leukopenia, with lymphocytes relatively spared
+Thrombocytopenia
+May be the presenting feature acute lymphoblastic or myeloid leukaemia
+A minority of patients later develop paroxysmal nocturnal haemoglobinuria or
+myelodysplasia
+Improve
+Differential diagnosis
+Three potential differential diagnoses for aplastic anaemia include
+myelodysplastic syndrome
+(MDS), paroxysmal nocturnal haemoglobinuria (PNH) and hypoplastic myelodysplastic syndrome.
+Myelodysplastic Syndrome (MDS)
+MDS is a heterogeneous group of clonal bone marrow disorders characterised by ineffective haematopoiesis, leading to blood cytopenias. Unlike aplastic anaemia, which typically presents with pancytopenia in the peripheral blood and a hypocellular bone marrow on biopsy, MDS often presents with macrocytic anaemia and may show hypercellular or normocellular marrow with dysplasia in one or more cell lines.
+In terms of clinical presentation, patients with MDS may also present with symptoms related to anaemia such as fatigue and dyspnoea but unlike aplastic anaemia, they can have isolated cytopenias or bicytopenia rather than pancytopenia.
+Paroxysmal Nocturnal Haemoglobinuria (PNH)
+PNH is an acquired stem cell disorder that leads to the production of defective red blood cells susceptible to complement-mediated lysis. It can mimic aplastic anaemia due to similar presentations of pancytopenia and marrow failure. However, it has unique features including episodic haemolysis often associated with dark urine in the morning.
+The Ham test or sugar water test are diagnostic for PNH but not for aplastic anaemia. Additionally, flow cytometry showing CD55/CD59 deficient red cells supports the diagnosis of PNH.
+Hypoplastic Myelodysplastic Syndrome
+This is a subtype of MDS where the bone marrow is hypocellular, similar to aplastic anaemia. However, unlike aplastic anaemia, dysplasia in one or more cell lines is present.
+Clinically, patients can present with symptoms related to cytopenias such as fatigue, pallor and infection susceptibility. Cytogenetic analysis showing abnormalities can help differentiate this from aplastic anaemia.
+Improve
+Management
+Supportive
+Blood products
+Prevention and treatment of infection
+Anti-thymocyte globulin (ATG) and anti-lymphocyte globulin (ALG)
+Prepared in animals (e.g. rabbits or horses) by injecting human lymphocytes
+Is highly allergenic and may cause serum sickness (fever, rash, arthralgia), therefore steroid cover usually given
+Immunosuppression using agents such as ciclosporin may also be given
+Stem cell transplantation
+Allogeneic transplants have a success rate of up to 80%
+Improve
+References
+British Committee for Standards in Haematology - 2015 aplastic anaemia guidelines
+Haematology
+Aplastic anaemia

@@ -1,0 +1,168 @@
+Guillain-Barre syndrome
+Guillain-Barre syndrome
+Guillain-Barre syndrome (GBS)
+is a rare, acute polyradiculoneuropathy characterised by rapidly evolving ascending muscle weakness with mild sensory changes. The aetiology is autoimmune, often precipitated by infection, most commonly
+Campylobacter jejuni
+, Epstein-Barr virus, or cytomegalovirus. Pathophysiologically, it involves molecular mimicry leading to an immune response against peripheral nerve components.
+The clinical presentation includes progressive bilateral and relatively symmetric limb weakness, areflexia or hyporeflexia, and mild sensory symptoms. Severe cases may result in respiratory failure due to diaphragmatic weakness. Diagnosis is confirmed through cerebrospinal fluid analysis revealing albuminocytologic dissociation and electrophysiological studies demonstrating demyelination or axonal damage.
+Management comprises supportive care focusing on monitoring vital capacity and preventing complications. Specific treatments include intravenous immunoglobulin (IVIG) or plasma exchange (PE). Despite treatment, approximately 20% of patients remain significantly disabled.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Guillain-Barre syndrome
+1
+Chronic inflammatory demyelinating polyneuropathy
+0.80
+Transverse myelitis
+0.25
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Guillain-Barre syndrome (GBS) is a post-infectious, immune-mediated polyneuropathy. The precise aetiology remains unclear, although it is believed to be associated with dysregulation of the immune response following exposure to specific environmental triggers.
+Risk Factors:
+Infections:
+A preceding infection is identified in approximately two-thirds of GBS cases. The most commonly implicated organisms include
+Campylobacter jejuni
+,
+Mycoplasma pneumoniae
+, and
+Haemophilus influenzae
+. Viral infections such as cytomegalovirus (CMV), Epstein-Barr virus (EBV), and Zika virus have also been linked with GBS.
+Vaccinations:
+While vaccinations are generally safe and strongly recommended, rare associations between certain vaccines (such as influenza and rabies) and GBS have been reported. However, the absolute risk remains extremely low.
+Surgery:
+Some studies suggest an increased risk of GBS following surgical procedures, possibly due to immune system activation in response to surgery-induced inflammation or infection.
+The exact mechanisms through which these risk factors contribute to the development of GBS are not fully understood but may involve molecular mimicry or bystander activation leading to an aberrant autoimmune response against peripheral nerve components.
+Underlying Causes:
+Molecular Mimicry:
+This theory suggests that antibodies generated in response to infection cross-react with gangliosides present on peripheral nerves due to structural similarities, resulting in nerve damage. This has been particularly noted with
+Campylobacter jejuni
+infections, where specific strains possess lipooligosaccharides similar to human gangliosides.
+Bystander Activation:
+This occurs when an infection leads to a non-specific activation of the immune system, which subsequently attacks peripheral nerves. This mechanism is thought to be more relevant in cases associated with viral infections.
+Genetic factors may also contribute to GBS susceptibility, although the evidence is currently limited and further research is required in this area.
+Improve
+Pathophysiology
+Pathogenesis
+cross reaction of antibodies with gangliosides in the peripheral nervous system
+correlation between anti-ganglioside antibody (e.g. anti-GM1) and clinical features has been demonstrated
+anti-GM1 antibodies in 25% of patients
+Improve
+Clinical features
+The characteristic features of Guillain-Barre syndrome is progressive weakness of all four limbs. The weakness is classically ascending i.e. the lower extremities are affected first, however it tends to affect proximal muscles earlier than the distal ones. Sensory symptoms tend to be mild (e.g. distal paraesthesia) with very few sensory signs. Some patients experience
+back pain
+in the initial stages of the illness
+Other features
+there may be a history of gastroenteritis
+areflexia
+cranial nerve involvement e.g.
+diplopia
+autonomic involvement: e.g.
+urinary retention
+,
+diarrhoea
+Less common findings
+papilloedema: thought to be secondary to reduced CSF resorption
+Improve
+Investigations
+Investigations
+lumbar puncture
+rise in protein with a normal white blood cell count (albuminocytologic dissociation) - found in 66%
+nerve condution studies may be performed
+Improve
+Diagnosis
+The diagnosis of Guillain-Barre syndrome (GBS) is primarily clinical, based on the characteristic presentation of progressive, usually symmetric muscle weakness with or without sensory disturbances. However, additional diagnostic criteria can further support the diagnosis.
+Clinical Features:
+Progressive motor weakness: This typically starts in the lower limbs and ascends to involve upper limb and facial muscles. The severity can range from mild difficulty with walking to nearly complete paralysis.
+Areflexia or hyporeflexia: Reduced or absent deep tendon reflexes are a key feature of GBS, although these may not be apparent in the early stages of the disease.
+Sensory symptoms: While primarily a motor disorder, GBS may also involve sensory disturbances such as numbness or tingling, though these are generally less pronounced than motor symptoms.
+Supportive Investigations:
+Cerebrospinal fluid (CSF) analysis: A distinctive feature of GBS is albuminocytologic dissociation in CSF, characterised by elevated protein levels (>0.55 g/L) with normal cell count (<50 cells/mm3). This is typically observed 1-2 weeks after symptom onset.
+Nerve conduction studies (NCS): These may show features consistent with demyelination such as slowed conduction velocities, prolonged distal latencies, and temporal dispersion or conduction block. However, axonal forms of GBS may demonstrate reduced amplitude potentials instead.
+Exclusion Criteria:
+The presence of an identified alternative diagnosis for the presenting symptoms would exclude a diagnosis of GBS.
+Note that while supportive investigations can aid in confirming a suspected diagnosis, they should not delay initiation of treatment in a patient with a high clinical suspicion of GBS.
+Variants and Subtypes:
+Certain clinical features may suggest a specific variant or subtype of GBS, such as Miller Fisher syndrome (characterised by ataxia, areflexia, and ophthalmoplegia) or acute motor axonal neuropathy (AMAN).
+Improve
+Differential diagnosis
+Differential diagnosis of Guillain-Barre syndrome (GBS) can be challenging due to its variable clinical presentation. However, discerning GBS from other similar conditions is essential for appropriate management and prognosis. The following are three conditions that should be considered when diagnosing GBS:
+Acute
+transverse myelitis
+(ATM)
+ATM presents with a rapid onset of spinal cord dysfunction, which may mimic the ascending weakness seen in GBS. Key distinguishing features include:
+Sensory level: A clear sensory level is indicative of ATM and not typically seen in GBS.
+Bladder or bowel dysfunction: More commonly associated with ATM than GBS at onset.
+MRI findings: In ATM, T2-weighted images often show hyperintense lesions in the spinal cord.
+Chronic inflammatory demyelinating polyneuropathy
+(CIDP)
+CIDP is another peripheral neuropathy that can present similarly to GBS. However, there are important differences to note:
+Course of disease: CIDP has a more protracted course, developing over at least two months, while GBS typically presents acutely over days to weeks.
+Response to treatment: CIDP patients usually respond well to immunosuppressive therapy and may require long-term treatment; whereas GBS is generally self-limiting once treated.
+Botulism
+The clinical presentation of botulism can closely resemble that of GBS. However, certain characteristics can help differentiate between these conditions:
+Eyelid ptosis and fixed pupils: These are early signs in
+Clostridium botulinum
+poisoning but are not common in GBS.
+History of food ingestion: A history of ingestion of home-canned, preserved or fermented foods can point towards botulism.
+Descending paralysis: Botulism typically presents with a descending pattern of weakness, whereas GBS is classically ascending.
+Improve
+Management
+Management
+plasma exchange
+IV immunoglobulins (IVIG): as effective as plasma exchange. No benefit in combining both treatments. IVIG may be easier to administer and tends to have fewer side-effects
+steroids and immunosuppressants have not been shown to be beneficial
+FVC regularly to monitor respiratory function
+Improve
+Complications
+Respiratory Complications
+Respiratory failure is the most serious complication, resulting from the weakness of respiratory muscles. It necessitates mechanical ventilation in approximately 30% of patients.
+Pulmonary embolism and aspiration pneumonia are other potential complications due to prolonged immobility and dysphagia respectively.
+Autonomic Dysregulation
+Patients can experience cardiovascular instability with labile blood pressure, arrhythmias, and even cardiac arrest due to involvement of autonomic fibres.
+Gastrointestinal motility issues such as ileus may also occur.
+Musculoskeletal Complications
+Prolonged immobility can lead to deep vein thrombosis (DVT), muscle atrophy, contractures, pressure sores and osteoporosis.
+Neurological Complications
+Persistent numbness, tingling, or pain in the limbs may occur due to peripheral nerve damage.
+A small percentage of patients may experience recurrent episodes or chronic progressive disease leading to significant disability.
+Infectious Complications
+The risk of infections increases with prolonged hospitalisation. Urinary tract infection (UTI) is common due to catheter use. Sepsis could be a life-threatening complication particularly in ventilated patients with central venous lines.
+Psychological Complications
+Anxiety and depression are common psychological complications related to the acute illness and long-term disability. Cognitive impairment may also occur in some cases.
+Improve
+Prognosis
+Poor prognostic features
+age > 40 years
+poor upper extremity muscle strength
+previous history of a diarrhoeal illness (specifically
+Campylobacter
+jejuni
+)
+high anti-GM1 antibody titre
+need for ventilatory support
+There is currently contradictory evidence as to whether a gradual or rapid onset of GBS is associated with a poor outcome
+Prognosis
+severe motor problems persist in about 15%
+around 5% die
+Improve
+References
+Patient.info - Guillain-Barre syndrome review
+Medcomic - Guillain-Barre syndrome
+Neurology
+Guillain-Barre syndrome

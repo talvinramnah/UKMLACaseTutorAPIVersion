@@ -1,0 +1,113 @@
+Acute heart failure
+Acute heart failure
+Acute
+heart failure
+(AHF) is life-threatening emergency.  AHF is a term used to describe the sudden onset or worsening of the symptoms of heart failure. Thus it may present with or without a background history of pre-existing heart failure.  AHF without a past history of heart failure is called de-novo AHF. Decompensated AHF is more common (66-75%) and presents with a background history of HF.
+Last updated: 4
+th
+June 2024
+Epidemiology
+Incidence: 200.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Acute exacerbation of COPD
+7.50
+Acute
+heart failure
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+AHF is usually caused by a reduced cardiac output that results from a functional or structural abnormality.
+De-novo
+heart failure
+is caused by and increased cardiac filling pressures and myocardial dysfunction usually as a result of ischaemia. This causes reduced cardiac output and therefore hypoperfusion. This, in turn can cause pulmonary oedema. Other less common causes of de-novo AHF are:
+Viral myopathy
+Toxins
+Valve dysfunction
+Decompensated heart failure accounts for most cases of AHF. The most common precipitating causes of acute AHF are:
+Acute coronary syndrome
+Hypertensive crisis: e.g. bilateral
+renal artery stenosis
+Acute arrhythmia
+Valvular disease
+There is generally a history of pre-existing cardiomyopathy. It usually presents with signs of fluid congestion, weight gain, orthopnoea and
+breathlessness
+.
+Improve
+Clinical features
+Generally speaking, the signs and symptoms of AHF are as follows:
+Symptoms
+Signs
+Breathlessness
+Cyanosis
+Reduced exercise tolerance
+Tachycardia
+Oedema
+Elevated jugular venous pressure
+Fatigue
+Displaced apex beat
+Chest signs: classically bibasal crackles but may also cause a wheeze
+S3-heart sound
+Sometimes the presentation will be that of the underlying cause (e.g: chest pain, viral infection)
+Over 90% of patients with AHF have a normal or increased blood pressure (mmHg).
+Improve
+Investigations
+The diagnostic workup for patients with AHF includes:
+Blood tests - this is to look for any underlying abnormality such as anaemia, abnormal electrolytes or infection.
+Chest X-ray - findings include pulmonary venous congestion, interstitial oedema and cardiomegaly
+Echocardiogram - this will identify pericardial effusion and cardiac tamponade
+B-type natriuretic peptide - raised levels (>100mg/litre) indicate myocardial damage and are supportive of the diagnosis.
+Improve
+Management
+Recommended treatments for all patients
+IV
+loop diuretics
+e.g. furosemide or bumetanide
+Possible additional treatments
+oxygen
+this should be given in line with British Thoracic Society guidelines, i.e. keep oxygen saturations at 94-98%
+vasodilators
+nitrates
+should not be routinely given to all patients
+they may, however, have a role if concomitant myocardial ischaemia, severe hypertension or regurgitant aortic or mitral valve disease
+the major side-effect/contraindication is hypotension
+Patients with respiratory failure
+CPAP
+Patients with hypotension (e.g. < 85 mmHg)/cardiogenic shock
+this can be a difficult scenario to manage
+some of the treatments typically used for acute
+heart failure
+(e.g. loop diuretics and nitrates) may exacerbate the hypotension
+inotropic agents
+e.g. dobutamine
+should be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock
+vasopressor agents
+e.g. norepinephrine
+normally only used if insufficient response to inotropes and evidence of end-organ hypoperfusion
+mechanical circulatory assistance
+e.g. intra-aortic balloon counterpulsation or ventricular assist devices
+Other treatments
+opiates
+NICE state 'do not routinely offer opiates to people with acute heart failure'
+they were previously used routinely and help to reduce
+dyspnoea
+/distress in patients
+however some studies have suggested increased morbidity in patients given opiates
+General points
+regular medication for heart failure such as beta-blockers ACE-inhibitors should be continued
+beta-blockers should only be stopped if the patient has heart rate less than 50 beats per minute, second or third degree atrioventricular block, or shock
+Improve
+Cardiac failure
+Acute heart failure

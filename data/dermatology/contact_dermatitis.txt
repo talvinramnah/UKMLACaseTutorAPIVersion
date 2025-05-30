@@ -1,0 +1,160 @@
+Contact dermatitis
+Contact dermatitis
+Contact dermatitis
+is an inflammatory skin condition induced by exposure to allergens (allergic contact dermatitis) or irritants (irritant contact dermatitis). It manifests as erythematous, pruritic, and sometimes vesicular rashes at the site of contact. Allergic contact dermatitis involves a delayed hypersensitivity reaction mediated by T-cells, with common allergens including nickel, fragrances, and rubber accelerators. On the contrary, irritant contact dermatitis represents a non-immunological response to direct skin injury from substances such as soaps, detergents and solvents. Diagnosis is primarily clinical but patch testing can confirm allergic causes. Management involves avoidance of identified triggers and use of topical corticosteroids for symptom relief. In severe cases, systemic therapy may be required.
+Last updated: 1
+st
+January 2025
+Aetiology
+Contact dermatitis is a cutaneous reaction resulting from direct exposure to an offending agent. It comprises two subtypes: irritant contact dermatitis (ICD) and allergic contact dermatitis (ACD). The aetiological factors differ for both types.
+Irritant Contact Dermatitis (ICD)
+ICD, the more common subtype, results from exposure to substances that cause direct damage to the skin. These irritants strip the skin of its natural oils leading to dryness, itching, and inflammation.
+Common irritants include detergents, soaps, cleaning products, solvents, acids and alkalis. Occupations involving frequent hand washing or use of these substances pose a higher risk.
+Environmental factors such as low humidity can also exacerbate ICD.
+Individuals with atopic dermatitis are particularly susceptible due to impaired skin barrier function.
+Allergic Contact Dermatitis (ACD)
+In ACD, an allergic response ensues following sensitisation to an allergen. Upon re-exposure to the same allergen, a delayed-type hypersensitivity reaction occurs.
+Risk factors include previous sensitisation to the allergen and genetic predisposition. Certain HLA alleles have been associated with increased susceptibility.
+Common allergens include nickel, fragrances, rubber accelerators and preservatives in personal care products. Occupational exposure to these allergens increases risk.
+Mixed Contact Dermatitis (MCD)
+Mixed contact dermatitis is characterised by features of both ICD and ACD. This condition often occurs when patients with pre-existing ACD are exposed to irritants.
+Improve
+Pathophysiology
+Contact dermatitis, a common cutaneous disorder, revolves around the immunological response of the skin to exogenous substances. The pathogenesis involves both innate and adaptive immune responses and can be categorised into two types: irritant contact dermatitis (ICD) and allergic contact dermatitis (ACD).
+Irritant Contact Dermatitis
+The process commences when an irritant breaches the stratum corneum, the outermost layer of the skin. This disruption leads to keratinocyte damage, triggering a cascade of inflammatory responses.
+Keratinocytes, upon damage, release pro-inflammatory cytokines such as interleukin-1α (IL-1α), tumour necrosis factor α (TNF-α), and IL-18. These cytokines recruit neutrophils and monocytes to the site of inflammation.
+Simultaneously, damaged keratinocytes also produce chemokines like IL-8 and macrophage inflammatory protein 3 alpha (MIP-3α) that further enhance leukocyte infiltration.
+Additional mediators involved in ICD include matrix metalloproteinases (MMPs), antimicrobial peptides (AMPs), and nerve growth factor (NGF). These contribute to further tissue damage and inflammatory response.
+Allergic Contact Dermatitis
+In ACD, a type IV hypersensitivity reaction occurs where sensitisation is an essential initial step. Small molecules known as haptens penetrate through the skin barrier and conjugate with proteins to form complete antigens.
+Langerhans cells or dendritic cells capture these haptens, migrate to regional lymph nodes where they present them to naïve T-cells. This results in clonal expansion of hapten-specific T-cells.
+Upon re-exposure to the same hapten, these memory T-cells recognise the antigen and release cytokines such as interferon-γ (IFN-γ), TNF-α, and IL-2. These cytokines initiate an inflammatory response leading to skin damage.
+Simultaneously, chemokines released by activated T-cells recruit more inflammatory cells to the site of inflammation, amplifying the reaction.
+The role of regulatory T-cells in controlling this immune response is crucial. A failure or reduction in their function may lead to persistent or exaggerated responses, characteristic of chronic contact dermatitis.
+Improve
+Classification
+Contact dermatitis can be classified into two main categories:
+allergic contact dermatitis (ACD)
+and
+irritant contact dermatitis (ICD)
+.
+Allergic Contact Dermatitis
+This is a delayed type hypersensitivity reaction induced by allergens. The sensitisation phase involves the presentation of allergens to T cells by antigen-presenting cells, leading to clonal expansion of allergen-specific T cells.
+The elicitation phase occurs upon re-exposure to the same allergen, where memory T cells are recruited causing inflammation and resultant dermatitis.
+Common examples of allergens include nickel, fragrances, rubber additives, and topical medications such as neomycin and corticosteroids.
+Irritant Contact Dermatitis
+This is a non-immunological response caused by direct injury to the skin from chemical or physical agents. The damage leads to activation of innate immune responses and inflammatory changes in the skin.
+Cumulative irritant contact dermatitis refers to repeated exposure over time leading to chronic changes in the skin. Acute irritant contact dermatitis results from a single or infrequent exposures that are sufficiently potent to cause immediate skin damage.
+Examples of irritants include soaps, detergents, solvents, acids and alkalis. Occupational exposure is common in certain professions such as healthcare workers, hairdressers and cleaners.
+In addition to these primary classifications, there are several subtypes based on specific causative factors:
+Phototoxic and Photoallergic Contact Dermatitis
+These conditions occur when an individual comes into contact with certain substances and then exposes their skin to sunlight. Phototoxic reactions are non-immunological and occur in most individuals upon sufficient exposure. Photoallergic reactions, on the other hand, are immunologically mediated and only occur in sensitised individuals.
+Systemic Contact Dermatitis
+This condition occurs when a person who is already sensitised to an allergen comes into systemic contact with it (such as through ingestion or inhalation). This can result in widespread dermatitis.
+Pigmented Contact Dermatitis
+This is a variant of irritant contact dermatitis where exposure to certain substances leads to hyperpigmentation of the skin. Commonly implicated substances include azo dyes, fragrances and preservatives.
+Improve
+Clinical features
+The stereotypical presentation of contact dermatitis often manifests as an inflammatory reaction confined to the area of skin directly exposed to the offending agent. The primary characteristics include erythema, vesiculation, and pruritus, which can be accompanied by burning or stinging sensations.
+Acute Phase
+Erythema:
+This is typically the initial sign, characterised by redness of the skin due to capillary dilation.
+Vesicles and Bullae:
+Small fluid-filled blisters (vesicles) or larger ones (bullae) may develop, particularly in severe cases.
+Oedema:
+Swelling from excess accumulation of serous fluid can occur in tissues affected by contact dermatitis.
+Pruritus:
+Itching is a common symptom that can range from mild to severe. It tends to be more intense during the acute phase.
+Chronic Phase
+Lichenification:
+Chronic scratching or rubbing can lead to thickening of the skin and an exaggeration of normal skin markings, a process known as lichenification.
+Fissuring:
+Cracks or splits in the skin (fissures) may develop over time due to dryness and reduced elasticity.
+Hypopigmentation or Hyperpigmentation:
+Repeated episodes of inflammation can alter melanocyte activity leading to changes in skin colour over time. Hypopigmentation refers to lightened areas while hyperpigmentation denotes darkened patches.
+In terms of distribution, patterns may provide clues about potential allergens. For instance, involvement of dorsal hands suggests exposure related to professional activities, whereas involvement of the face and neck might point towards personal care products.
+It's important to note that symptoms can vary between individuals and may not always strictly adhere to this presentation. Furthermore, contact dermatitis can coexist with other dermatological conditions such as atopic dermatitis or psoriasis, which may alter its typical appearance.
+Systemic manifestations are rare but can occur in severe or widespread cases. These could include fever, malaise, and lymphadenopathy. However, these are more commonly associated with other forms of dermatitis such as atopic or seborrhoeic.
+Improve
+Investigations
+The investigation of contact dermatitis is primarily based on a detailed history and clinical examination. However, when the diagnosis is unclear or in cases of chronic or recurrent dermatitis, further investigations may be warranted.
+Patch Testing
+Patch testing is the gold standard investigation for allergic contact dermatitis. It involves the application of allergens to the skin under occlusion for 48 hours, followed by readings at 48 and 96 hours.
+In the UK, a standard series of allergens (the British Standard Series) is used initially, with additional series available depending on the patient's history and occupational exposure.
+False positives can occur due to irritant reactions, active dermatitis or systemic medication. False negatives can occur due to improper technique, too weak allergen concentration or systemic immunosuppression.
+Skin Biopsy
+A skin biopsy may be helpful in cases where differential diagnoses such as psoriasis or cutaneous T-cell lymphoma need to be excluded. Histological findings are not specific but show spongiotic dermatitis.
+Laboratory Tests
+Routine laboratory tests are generally not necessary in the investigation of contact dermatitis. However, they may be indicated if there is suspicion of an underlying systemic disease such as HIV or hepatitis C infection.
+Referral to Specialist Services
+Referral to a specialist
+dermatology
+service should be considered for patients with severe contact dermatitis that fails to respond to initial treatment, those who require patch testing or have occupational contact dermatitis.
+Photopatch testing, performed in specialist centres, may be indicated for patients with a history suggestive of photo-aggravated contact dermatitis.
+Improve
+Differential diagnosis
+When evaluating a patient presenting with symptoms consistent with contact dermatitis, it is essential to consider other potential diagnoses. The three most likely alternative diagnoses are atopic dermatitis, psoriasis and seborrheic dermatitis.
+Atopic Dermatitis
+Symptoms:
+Atopic dermatitis often presents as pruritic, erythematous patches or plaques. It can be accompanied by lichenification in chronic cases. Unlike contact dermatitis, which tends to occur after exposure to an irritant or allergen, atopic dermatitis frequently has an early onset in childhood and may be associated with a personal or family history of atopy.
+Distribution:
+Atopic dermatitis typically affects the flexural surfaces such as the antecubital and popliteal fossae. This contrasts with contact dermatitis where lesions tend to localise to areas of direct exposure.
+Investigations:
+While there are no specific diagnostic tests for atopic dermatitis, elevated serum IgE levels and eosinophilia may be present. Patch testing is typically negative unlike in allergic contact dermatitis.
+Psoriasis
+Symptoms:
+Psoriasis presents as well-defined erythematous plaques covered by silvery scales. Itching is less intense compared to contact or atopic dermatitis.
+Distribution:
+Lesions commonly occur on extensor surfaces such as elbows and knees, scalp and sacral region; contrasting with the pattern seen in contact dermatitis.
+Investigations:
+Histopathological examination shows parakeratosis, elongation of dermal papillae and neutrophilic infiltrates (Munro microabscesses). Psoriasis may also be associated with nail changes and arthritis.
+Seborrheic Dermatitis
+Symptoms:
+Seborrheic dermatitis is characterised by erythema and greasy scaling, often accompanied by pruritus. It can mimic contact dermatitis but tends to have a chronic or relapsing course.
+Distribution:
+Lesions typically occur in sebum-rich areas such as the scalp, face and central chest, which differentiates it from contact dermatitis.
+Investigations:
+Diagnosis is primarily clinical. However, skin scraping for fungal elements can be performed to rule out tinea infections.
+Improve
+Management
+Management of contact dermatitis primarily involves identification and avoidance of the offending agent, symptomatic treatment to reduce inflammation and itch, and patient education. In severe cases or when first-line treatments are ineffective, referral to a dermatologist may be necessary.
+Identification and Avoidance of Offending Agent
+Patch testing can be used to identify causative allergens.
+Once identified, patient should avoid direct contact with the allergen.
+Symptomatic Treatment
+Topical corticosteroids are first-line treatment for acute flares.
+Emollients should be used regularly to restore skin barrier function.
+Patient Education
+Patients should be educated on the importance of avoiding the offending agent.
+Instruction on proper use of topical treatments is essential.
+Referral to
+Dermatology
+If symptoms persist despite appropriate management, consider referral for further assessment and possible systemic therapy.
+Follow-up
+Patients should be reviewed at regular intervals to monitor response to treatment and adjust management as necessary.
+Improve
+Complications
+Complications of contact dermatitis primarily revolve around secondary bacterial infections, chronic skin changes and psychological distress. These issues often arise as a result of persistent or recurrent episodes of the condition.
+Secondary Infections
+Impetigo:
+Frequent scratching can lead to skin breaks and subsequent infection with Staphylococcus aureus or Streptococcus pyogenes, leading to impetigo. This presents with honey-coloured crusted lesions on the affected area.
+Cellulitis:
+Deeper skin layers can also become infected, resulting in cellulitis. Symptoms include erythema, warmth, swelling and pain at the site of infection. Fever may also be present.
+Chronic Skin Changes
+Lichenification:
+Chronic rubbing or scratching can lead to thickened, leathery skin (lichenification), which is often associated with increased skin markings and hyperpigmentation.
+Hypopigmentation or Hyperpigmentation:
+Contact dermatitis can leave areas of lighter (hypopigmentation) or darker (hyperpigmentation) skin after resolution of the rash.
+Mental Health Complications
+Anxiety and Depression:
+Persistent itching and discomfort associated with contact dermatitis can significantly impact quality of life, leading to anxiety and depression in some individuals.
+Sensitivity Spread
+Allergic Contact Dermatitis:
+Prolonged exposure to allergens may cause sensitisation beyond the initial contact area leading to widespread allergic reactions.
+Improve
+References
+DermNet NZ - Contact dermatitis review
+British Association of Dermatologists - 2017 Guidelines for the management of contact dermatitis
+Dermatology
+Contact dermatitis

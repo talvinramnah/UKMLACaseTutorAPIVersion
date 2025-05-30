@@ -1,0 +1,138 @@
+Hypoglycaemia
+Hypoglycaemia
+Hypoglycaemia occurs when glucose concentration falls below the normal fasting glucose level. Generally, this is defined as blood glucose levels below 3.3 mmol/L.
+Episodes of hypoglycaemia are more common in patients with diabetes due to the variable response of blood glucose levels to their medications. However, hypoglycaemia may present for other reasons.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 250.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Hypoglycaemia is most often associated with diabetes and is frequently a multi-factorial presentation.
+Diabetes:
+One study found that at least one episode of hypoglycaemia occurred in 90% of type I and 60% of type II diabetics who injected insulin over a 4 week period.
+Excess levels of insulin causes hypoglycaemia. Most commonly this is from exogenous, injectable insulin used in the management of type I or type II diabetes mellitus. Levels of insulin may be higher than necessary if the patient has taken too much insulin, or has used the same amount of insulin whilst not eating enough or skipping a meal or snack.
+Sulfonylureas (e.g. gliclazide) act by increasing the secretion of insulin from β-cells. Hypoglycaemia is a common adverse effect, especially when starting this medication or increasing dose.
+Hypoglycaemia is more likely to occur in diabetics who have a viral illness, have drunk alcohol, exercised more than usual or have just started or changed dosage of a new medication.
+Non-diabetic causes:
+Iatrogenic: indomethacin, pentamidine, quinine, sulfonamide, IGF-1 and lithium.
+Alcohol consumption is the most common non-iatrogenic cause of hypoglycaemia. This is due to its inhibitory effect on gluconeogenesis and glycogenolysis.
+Rarer causes:
+Hypopituitarism and Addison's disease: both of these rare conditions cause a reduced physiological response to hypoglycaemia as there is reduced secretion of growth hormone from the pituitary in hypopituitarism, and adrenaline and cortisol from the adrenals in Addison's disease.
+Another rare cause of hypoglycaemia is an insulinoma, a neuroendocrine tumour of the pancreas which causes unregulated secretion of insulin.
+Improve
+Pathophysiology
+Hypoglycaemia occurs when blood glucose levels fall below the normal range, leading to a variety of physiological responses. The brain is particularly sensitive to low glucose levels as it relies heavily on glucose for energy.
+The initial response to declining blood glucose involves the autonomic nervous system and counter-regulatory hormones. As glucose levels drop, the pancreas reduces insulin secretion, which normally facilitates cellular uptake of glucose. Concurrently, there is an increase in glucagon release from pancreatic alpha cells. Glucagon promotes glycogenolysis and gluconeogenesis in the liver, elevating plasma glucose concentrations.
+Adrenaline (epinephrine) is also released from the adrenal medulla, stimulating hepatic glycogenolysis and inhibiting insulin release further. This hormone additionally activates lipolysis in adipose tissue, providing free fatty acids as an alternative energy source for peripheral tissues, thereby sparing glucose for cerebral use.
+Cortisol and growth hormone are secreted in response to prolonged hypoglycaemia. Cortisol enhances gluconeogenesis and decreases peripheral utilisation of glucose by antagonising insulin action at target tissues. Growth hormone similarly supports gluconeogenesis while promoting lipolysis.
+The symptoms of hypoglycaemia can be attributed to neuroglycopenia and autonomic activation. Neuroglycopenic symptoms arise due to insufficient glucose supply to the brain, manifesting as
+confusion
+, altered consciousness,
+seizures
+or even coma if untreated. Autonomic symptoms such as tremors,
+palpitations
+and
+sweating
+are mediated by adrenaline release.
+Hypoglycaemia-Related Autonomic Failure (HAAF)
+The development of HAAF further exacerbates the risk of hypoglycaemic episodes. This syndrome is characterised by both a diminished autonomic response to hypoglycaemia and a reduction in symptomatic awareness of low blood glucose levels.
+Repeated episodes of hypoglycaemia can lead to this phenomenon, creating a vicious cycle. With reduced autonomic responses, the body's ability to counteract falling glucose levels is further compromised. Meanwhile, decreased symptomatic awareness may delay the recognition and treatment of hypoglycaemic events.
+In summary, hypoglycaemia triggers a cascade of hormonal responses aimed at restoring euglycaemia through increased hepatic glucose output and reduced peripheral utilisation. The clinical manifestations reflect both direct effects on cerebral function due to inadequate substrate availability and systemic effects mediated by autonomic activation.
+Improve
+Clinical features
+A stereotypical presentation of hypoglycaemia often involves a triad of symptoms: autonomic symptoms, neuroglycopenic symptoms and non-specific symptoms. These are typically seen in patients with poorly controlled diabetes mellitus who have taken an excessive dose of insulin or oral hypoglycaemic agents, but they can also occur in non-diabetic patients due to various other causes.
+Autonomic Symptoms
+Sweating
+:
+This is often the first symptom experienced by patients, as the body attempts to increase glucose production through sympathetic stimulation.
+Tachycardia:
+Increased heart rate is another early sign of hypoglycaemia, resulting from adrenaline release.
+Pallor:
+The skin may appear pale due to vasoconstriction caused by sympathetic activation.
+Tremors:
+Patients often report feeling shaky or jittery as a result of increased adrenergic activity.
+Hunger:
+Excessive appetite (polyphagia) may be present as the body signals for more glucose intake.
+Neuroglycopenic Symptoms
+Cognitive impairment:
+Reduced cerebral glucose supply can lead to
+confusion
+, difficulty concentrating and even loss of consciousness in severe cases.
+Dizziness
+and weakness:
+These symptoms result from decreased availability of glucose for cellular metabolism within the nervous system.
+Vision changes:
+Blurred vision or visual disturbances may occur due to impaired function of neurons in the retina and optic nerve.
+Mood changes:
+Irritability, mood swings and abnormal behaviour are common as glucose levels drop further affecting brain function. In extreme cases, it may even result in aggression or psychosis.
+Seizures
+:
+In severe hypoglycaemia, seizures can occur due to the brain's increased excitability from lack of glucose.
+Non-specific Symptoms
+Fatigue:
+Lack of cellular energy production can lead to a generalised feeling of tiredness or malaise.
+Nausea or abdominal discomfort:
+These symptoms can be present and are likely related to autonomic neuropathy in patients with long-standing diabetes.
+Paresthesias:
+Patients may experience tingling or numbness, particularly around the mouth and in the extremities. This is thought to be due to changes in nerve function associated with reduced glucose supply.
+The severity and combination of these symptoms can vary widely between individuals and episodes, making clinical diagnosis challenging. It is important for clinicians to maintain a high index of suspicion for hypoglycaemia, especially in diabetic patients presenting with non-specific symptoms. Prompt recognition and treatment are essential to prevent serious complications such as permanent neurological damage or death.
+Improve
+Investigations
+Whipple's triad aids the diagnosis of hypoglycaemia. It consists of symptoms or signs of hypoglycaemia, low blood glucose, and the resolution of symptoms with the correction of blood glucose.
+Further tests to diagnose the cause of hypoglycaemia include:
+Serum insulin: elevated in insulinoma.
+Serum C-peptide: elevated in insulinoma or sulfonylurea use.
+Serum cortisol: reduced in adrenal insufficiency or hypopituitarism.
+48 to 72-hour fast with serial blood glucose, serum proinsulin, C-peptide and insulin levels: the gold standard investigation for insulinoma.
+TSH, U&E, LFTs: abnormalities help identify secondary causes of hypoglycaemia such as hypothyroidism, chronic liver disease or kidney disease.
+Improve
+Differential diagnosis
+Conditions which may present with similar symptoms to hypoglycaemia:
+Stroke or transient ischaemic attack (TIA): may present with sensory and/or motor deficits, visual disturbances, autonomic dysfunction, reduced consciousness and
+confusion
+. However, symptoms of stroke/TIA will be of sudden onset whereas symptoms of hypoglycaemia will develop more gradually. Serum blood glucose may be deranged in stroke/TIA. If stroke is suspected, patients should undergo non-contrast head CT which will be abnormal. However, CT may be unremarkable in TIA. The resolution of symptoms with the correction of blood glucose would suggest a diagnosis hypoglycaemia over TIA.
+Myocardial infarction: may present with weakness, nausea and vomiting, especially in diabetics where chest pain is more likely to be absent. Serial troponin and ECG should be performed which will be abnormal.
+Sepsis: altered mental status may be the only presenting feature of sepsis, especially in elderly patients or patients with neurological disorders such as dementia. Temperature will be high or low and there may be a specific source of infection as well as signs of shock (low blood pressure and poor capillary refill time).
+Epilepsy: focal
+seizures
+may present with sensory and/or motor deficits, aphasia and impaired consciousness. However, blood glucose is likely to be normal and symptoms will begin and resolve suddenly.
+Pseudohypoglycaemia (idiopathic postprandial syndrome)
+A rare condition that presents with symptoms of hypoglycaemia after ingesting a meal, with a normal blood glucose level.
+Improve
+Management
+The following guidelines are based on the BNF hypoglycaemia treatment summary.
+Management of hypoglycaemia in the community (for example, diabetes mellitus patients who inject insulin):
+Initially, oral glucose 10-20g should be given in liquid form or sugar lumps. This may be done in the community.
+Alternatively, a propriety quick-acting carbohydrate may be given: GlucoGel or Dextrogel.
+A 'HypoKit' may be prescribed which contains a syringe and vial of glucagon for IM or SC injection at home
+Management of hypoglycaemia in hospital setting
+If the patient is alert, a quick-acting carbohydrate may be given (as above).
+If the patient is unconscious or unable to swallow, subcutaneous or intramuscular injection glucagon may be given.
+Alternatively, intravenous 20% glucose solution may be given through a large vein
+Further management
+Diazoxide may be used in some patients with chronic hypoglycaemia from excess endogenous insulin secretion
+Depending on the cause of hypoglycaemia, patients may require medical management (renal or liver failure, sepsis, endocrinopathy) or surgical management (insulinoma, IGF-II secreting tumour).
+Improve
+Complications
+Short term
+Neuroglycopenic complications include coma and
+seizures
+. These can lead to permanent neurological sequelae and should be managed in an intensive care setting.
+Long term
+Recurrent episodes of hypoglycaemia lead to 'hypoglycaemic unawareness' where patients do not develop autonomic symptoms of low blood glucose. This is more frequent in type II diabetes and increases the chance of neuroglycopenic complications of hypoglycaemia.
+Improve
+Endocrinology
+Hypoglycaemia

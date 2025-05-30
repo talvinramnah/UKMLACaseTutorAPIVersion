@@ -1,0 +1,156 @@
+Acute kidney injury
+Acute kidney injury
+Acute kidney injury (AKI), previously termed acute renal failure, describes a reduction in renal function following an insult to the kidneys. In years gone by the kidneys were very much a neglected organ in acute medicine - the recognition of decreasing renal function was often slow and action limited. Around 15% of patients admitted to hospital develop AKI.
+Last updated: 18
+th
+November 2024
+Aetiology
+The aetiology of AKI is traditionally categorised into three primary groups: prerenal, intrinsic renal, and postrenal.
+Prerenal Causes:
+Volume Depletion:
+Such as from haemorrhage, gastrointestinal losses (vomiting, diarrhoea), and excessive diuresis.
+Reduced Cardiac Output:
+Conditions like heart failure, shock (septic, hypovolaemic, cardiogenic), or large vessel occlusion can lead to reduced renal perfusion.
+Systemic Vasodilation:
+Septic shock and anaphylaxis can lead to systemic vasodilation and relative renal hypoperfusion.
+Drugs:
+Non-steroidal anti-inflammatory drugs (NSAIDs) and angiotensin-converting enzyme (ACE) inhibitors can interfere with renal autoregulation.
+Intrinsic Renal Causes:
+Acute Tubular Necrosis (ATN):
+Caused by ischaemia (sustained prerenal factors) or toxins (drugs, contrast, rhabdomyolysis).
+Acute Interstitial Nephritis (AIN):
+Typically drug-induced, but can also be caused by infections or autoimmune diseases.
+Vascular:
+Includes conditions like renal artery or vein thrombosis, malignant hypertension, and vasculitides.
+Glomerular:
+Rapidly progressive glomerulonephritis or other glomerulopathies.
+Postrenal Causes:
+Obstruction:
+Obstruction can occur at any level from the renal pelvis to the urethra due to stones, tumours, strictures, or prostatic hypertrophy.
+Improve
+Pathophysiology
+Understanding the pathogenesis of AKI requires a breakdown of the events and mechanisms that underlie each primary aetiological category.
+Prerenal AKI:
+Reduction in renal perfusion without primary damage to kidney tissue.
+This diminished perfusion leads to decreased glomerular filtration, triggering the release of renin, aldosterone, and antidiuretic hormone to conserve fluid and maintain perfusion pressure.
+Prolonged prerenal states, if not rectified, can progress to ATN, causing intrinsic renal damage.
+Intrinsic Renal AKI:
+Acute Tubular Necrosis:
+Ischaemic ATN occurs due to prolonged prerenal states, leading to tubular epithelial cell death. Cells slough off and can form casts, obstructing tubules.
+Toxic ATN results from direct toxin exposure, leading to necrosis and apoptosis of tubular cells.
+Glomerulopathies: Immune-mediated injury to the glomeruli results in inflammation and often crescent formation, diminishing the filtering capacity of the glomerulus.
+Interstitial Diseases: Inflammatory infiltration of the interstitium disrupts tubular function and can cause tubular atrophy.
+Vascular Causes: Compromise of the renal vasculature leads to ischaemic injury or inflammation, damaging the renal parenchyma.
+Postrenal AKI:
+Obstruction results in increased intratubular pressure. Initially, this increases tubular reabsorption, but if prolonged, it can diminish glomerular filtration rate (GFR).
+Backflow of urine can cause tubular damage and expose the kidney to infection.
+Improve
+Investigations
+Initial Investigations
+Baseline blood tests:
+Urea and electrolytes (U&Es) to assess renal function and identify electrolyte abnormalities
+Full blood count (FBC) to identify anaemia or evidence of haemolysis
+Liver function tests (LFTs) to identify hepatorenal syndrome or systemic disease
+Calcium, phosphate, and albumin to assess bone mineral disorders associated with AKI
+C-reactive protein (CRP) to identify inflammatory or infective causes
+Urinalysis:
+Dipstick for blood, protein, leucocytes, nitrites, and glucose
+Microscopy and culture if infection suspected
+Presence of blood and protein may suggest glomerulonephritis
+Absence of abnormalities more consistent with prerenal or postrenal causes
+Urine output monitoring:
+Accurate fluid balance recording is essential
+Consider urinary catheterisation if accurate measurement required
+Oliguria
+(<0.5 mL/kg/hour for >6 hours) is a diagnostic criterion for AKI
+Further Investigations
+Imaging:
+Renal ultrasound should be performed within 24 hours if obstruction suspected or cause unclear
+Ultrasound may identify hydronephrosis, renal size, and cortical thickness
+CT urogram may be indicated if stones or malignancy suspected
+Renal Doppler studies to assess vascular causes in selected cases
+Specialist blood tests:
+Immunological screen (including anti-neutrophil cytoplasmic antibodies, anti-glomerular basement membrane antibodies, complement levels) if glomerulonephritis suspected
+Creatine kinase if rhabdomyolysis suspected
+Serum and urine electrophoresis if myeloma suspected
+Troponin if cardiorenal syndrome suspected
+Urine biochemistry:
+Urine sodium and osmolality may help differentiate prerenal from intrinsic causes
+Urine protein:creatinine ratio (uPCR) or albumin:creatinine ratio (ACR) to quantify proteinuria
+Fractional excretion of sodium (FENa) <1% suggests prerenal cause
+Assessment of AKI Severity and Progression
+Serial monitoring:
+Daily U&Es to track progression or resolution
+Regular acid-base assessment in severe cases (arterial or venous blood gases)
+Fluid balance and weight monitoring
+Risk assessment tools:
+NICE recommends using clinical judgement alongside biochemical parameters
+Consider comorbidities, frailty, and baseline renal function when assessing prognosis
+Indications for renal biopsy:
+Unexplained AKI with normal imaging
+Suspected glomerulonephritis or vasculitis
+AKI in the context of systemic disease
+Persistent AKI without clear cause
+NICE guidance emphasises the importance of prompt investigation: "Perform urgent renal ultrasound in adults, children and young people with AKI if obstruction is suspected or there is no identified cause of AKI."
+Improve
+Diagnosis
+-
+AKI is diagnosed when one of the following criteria is met:
+Serum creatinine rise by ≥26 μmol/L within 48 hours
+Serum creatinine rise ≥1.5 times baseline, known or presumed to have occurred within the prior 7 days
+Urine volume <0.5 mL/kg/hour for 6 consecutive hours
+AKI is staged according to severity:
+Stage 1:
+Serum creatinine rise ≥26 μmol/L within 48 hours OR increase to 1.5-1.9 times baseline OR urine output <0.5 mL/kg/hour for 6-12 hours
+Stage 2:
+Serum creatinine increase to 2.0-2.9 times baseline OR urine output <0.5 mL/kg/hour for ≥12 hours
+Stage 3:
+Serum creatinine increase to ≥3.0 times baseline OR increase to ≥354 μmol/L OR initiation of renal replacement therapy OR urine output <0.3 mL/kg/hour for ≥24 hours OR anuria for ≥12 hours
+These criteria are based on the Kidney Disease: Improving Global Outcomes (KDIGO) classification, which has been adopted in UK clinical practice
+The baseline creatinine is defined as:
+Known value within the previous 3 months
+For patients without a known baseline, the lowest creatinine during admission or an estimated creatinine based on an assumed GFR of 75 mL/min/1.73m² may be used
+AKI alerts
+are generated by laboratory systems when creatinine rises meet the above thresholds
+These alerts should prompt clinical assessment to determine the cause and appropriate management
+The absence of an alert does not exclude AKI, particularly in cases of
+oliguria
+without creatinine rise
+Improve
+Management
+The management of AKI is largely supportive. This means patients require careful fluid balance to ensure that the kidneys are properly perfused but not excessively to avoid fluid overload. It is also important to  review a patient's medication list to see what treatments may either be exacerbating their renal dysfunction or may be dangerous as a consequence of renal dysfunction. The table below gives some examples of common drugs:
+Usually safe to continue in AKI
+Should be stopped in AKI as may worsen renal function
+May have to be stopped in AKI as increased risk of toxicity (but doesn't usually worsen AKI itself)
+• Paracetamol
+• Warfarin
+• Statins
+• Aspirin (at a cardioprotective dose of 75mg od)
+• Clopidogrel
+• Beta-blockers
+• NSAIDs
+• Aminoglycosides
+• ACE inhibitors
+• Angiotensin II receptor antagonists
+• Diuretics
+• Metformin
+• Lithium
+• Digoxin
+Treatments which are
+not recommend
+include the routine use of loop diuretics (to artificially boost urine output) and low-dose dopamine (in an attempt to increase renal perfusion). There is however a role for loop diuretics in patients who experience significant fluid overload.
+Specialist input from a nephrologist is required for cases where the cause is not known or where the AKI is severe.
+All patients with suspected AKI secondary to urinary obstruction require prompt review by a urologist.
+Renal replacement therapy (e.g. haemodialysis) is used when a patient is not responding to medical treatment of complications, for example
+hyperkalaemia
+, acidosis or uraemia.
+Improve
+Prognosis
+Whilst most patients with AKI recover their renal function there are many patients who will have long term impaired kidney function due to AKI. As well as long-term morbidity, AKI may also result in acute complications including death. Whilst exact figures are difficult to calculate NICE estimate that inpatient mortality of AKI in the UK might typically be 25-30% or more.
+Improve
+References
+NICE - 2019 Acute kidney injury: prevention, detection and management
+Royal College of Physicians - 2012 Recognising acute kidney injury
+Think Kidneys  - Resources for doctors
+Nephrology
+Acute kidney injury

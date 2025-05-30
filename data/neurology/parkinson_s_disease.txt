@@ -1,0 +1,349 @@
+Parkinson's disease
+Parkinson's disease
+Parkinson's disease is a chronic, progressive, degenerative neurological condition which characteristically leads to disordered control of bodily movements. It is one of the most common neurological conditions, affecting 1-2 people per 1000 at any given time. The prevalence of this condition increases with age, with approximately 1% of people aged over 60-years-old being diagnosed with the condition. Due to the increase in the ageing population, the prevalence of Parkinson's disease is only expected to grow in the coming years.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 13.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in males 1.5:1
+Condition
+Relative
+incidence
+Lewy body dementia
+4.62
+Essential tremor
+1.92
+Parkinson's disease
+1
+Multiple system atrophy
+0.05
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Currently, the cause of Parkinson's disease still remains unknown. The pathophysiology of the condition has been well studied and understood, however the initial insult which results in the process is still not known. Despite an unclear aetiology, there are a number of protective and risk factors associated with the development of Parkinson's disease.
+Protective factors
+Smoking
+The risk of Parkinson's disease is significantly lower for current smokers compared to non-smokers
+Furthermore, the risk is also lower for past-smokers compared to non-smokers
+The theory has been proposed that nicotine has a somewhat neuroprotective effect
+Caffeine intake
+Physical activity
+Particularly aerobic exercise has been shown to be protective
+Studies have shown a 30% reduction in the risk ratio if people undertake moderate-vigorous physical activity
+Risk factors
+Family history
+Although Parkinson's disease is not a genetically inherited condition, there is some evidence to suggest that those with a family history are more likely to develop the condition
+This is particularly evident if onset of disease is in people less than 50-years-old
+Previous head injury
+There is a current hypothesis that head injury increases the risk for developing Parkinson's disease, and this has been examined in multiple studies during past decades
+Although at this point the evidence is unclear, there is still a thought that previous head injury does increase the risk for Parkinson's disease
+This is particularly evident if there has been multiple head injuries, post-traumatic brain injury, and if the injury occurs in later life (>55 years old)
+Improve
+Pathophysiology
+Parkinson's disease
+is a neurodegenerative disorder characterised by the progressive loss of dopaminergic neurons in the substantia nigra pars compacta (SNpc), leading to dopamine deficiency in the striatum. The pathogenesis of Parkinson's disease involves several key processes:
+The initiation of cell death in SNpc is associated with mitochondrial dysfunction. This leads to increased oxidative stress due to an imbalance between the production and neutralisation of reactive oxygen species (ROS).
+Increased oxidative stress results in damage to cellular components, including proteins, lipids, and nucleic acids. In particular, protein oxidation can lead to misfolding and aggregation.
+A major pathological hallmark of Parkinson's disease is the accumulation of
+Lewy bodies
+, intracellular aggregates composed primarily of misfolded α-synuclein. Misfolded α-synuclein has a propensity to aggregate and forms insoluble fibrils that contribute to Lewy body formation.
+Lewy bodies disrupt normal cellular functions, impairing neuronal communication and causing synaptic dysfunction. They also induce endoplasmic reticulum stress and disrupt protein degradation pathways, further contributing to neuronal death.
+In addition to Lewy body formation, there is evidence for a role of neuroinflammation in Parkinson's disease pathogenesis. Activation of microglia, the resident immune cells in the brain, leads to chronic inflammation and exacerbates neuronal damage.
+Neuronal loss in SNpc reduces dopamine availability in the striatum, resulting in motor symptoms characteristic of Parkinson's disease such as
+bradykinesia
+,
+rigidity
+, tremor at rest and postural instability.
+This understanding informs therapeutic strategies aimed at slowing or halting disease progression by targeting these processes: reducing oxidative stress; preventing α-synuclein aggregation; modulating neuroinflammation; and replacing lost dopaminergic neurons or restoring striatal dopamine levels.
+Improve
+Clinical features
+The three cardinal features of Parkinson's disease are a
+resting tremor
+, muscle
+rigidity
+and
+bradykinesia
+. If these features are present, Parkinson's disease should immediately be suspected. At this point, it is imperative that people are referred quickly and untreated to a specialist with expertise in this condition, in order to optimise outcomes for the patient. Furthermore, alongside this triad of clinical features, there are a number of other symptoms and signs associated with this condition.
+Motor symptoms
+Tremor
+The tremor is characteristically resting in nature, meaning it is exacerbated by rest, and improves when a person engages in purposeful actions
+It is often described as 'pill-rolling', where a person appears to be rolling a pill or small, round object between the index finger and the thumb
+Usually begins as a unilateral tremor, however as the condition progresses over time it tends to become bilateral
+Often begins as an intermittent tremor, and as the disease progresses the tremor becomes more continuous
+Present at onset of disease in 75% of patients
+Muscle rigidity
+Increased resistance to movement about a joint
+Typically described as 'cogwheel rigidity', a ratchet-like start/stop movement through the range of joint motion, creating cogwheel-like jerks
+Manifests for the patient as muscular stiffness, stooped posture, and reduced arm swing when walking
+Present at onset in 80% of patients
+Bradykinesia
+Slowness of movements and delay in initiation
+Progressive reduction in amplitude of repetitive movements
+Typically manifests as a reduction in manual dexterity of finger movements (e.g. fastening buttons, picking up small items), difficulty standing from a seated position, and troubles when walking (e.g. dragging feet,
+shuffling gait
+)
+Present at onset of disease in 80% of patients
+Postural instability
+This is also a characteristic feature of Parkinson's disease, however it does not tend to be present at onset of disease, rather occurs in the later courses. Therefore this is not always considered a cardinal sign as it is not usually present at initial diagnosis
+Is described as the tendency to fall and be unstable, due to the loss of centrally-mediated postural reflexes necessary to maintain an upright position
+Once this begins, it can be a major contributor to morbidity and disability for patients, as it often contributes to falls and subsequent injuries, and is not particularly responsive to dopaminergic treatment
+Other motor features
+Mask-like facies (hypomimia), including decreased eye blinking
+Hypo-kinetic dysarthria and speech impairment
+Micrographia (abnormally small and cramped handwriting)
+Dysphagia (due to bradykinesia of pharyngeal muscles)
+Non-motor symptoms
+Although Parkinson's disease characteristically affects the motor systems, over 95% of patients also report a number of non-motor symptoms throughout the disease course
+Mood disturbance
+Depression
+(50%)
+Apathy ( 40%)
+Anxiety (30%)
+Psychiatric symptoms
+Psychotic episodes (may be due to dopaminergic medications, underlying Lewy-body dementia, or both)
+Visual hallucinations
+Paranoid delusions (typically patients have good insight)
+Sleep dysfunction
+Frequently restless legs syndrome, insomnia and daytime somnolence
+Frequent awakening through the night and early morning waking are common, independent from depression
+Improve
+Investigations
+The diagnosis of Parkinson's disease is made clinically, rather than via investigations. The NICE guidelines recommend that the diagnosis is made using the UK Parkinson's Disease Society Brain Bank Clinical Diagnostic Criteria, which is explained further below in the 'diagnostic criteria' section.
+Investigations tend to be performed only when there is uncertainty regarding the diagnosis, in order to distinguish it from other differentials.
+Structural MRI
+Structural MRIs are
+not
+recommended for diagnosis of Parkinson's disease, however again may be considered if there are atypical features of disease which question the diagnosis
+These may be features such as atypical course of disease, early onset of dementia, early autonomic dysfunction or visual gaze abnormalities
+The MRI will be usually normal in a patient with Parkinson's disease, or there may be cortical atrophy in advanced disease with dementia
+Absence of the 'swallow-tail-sign' (dorsolateral nigral hyperintensity on 3.0 Tesla susceptibility-weighted scan)
+may
+be seen, and if so, this reliably suggests neurodegenerative
+parkinsonism
+Can exclude structural abnormalities as the cause of the symptoms e.g. hydrocephalus, cerebral tumours, infarcts
+Single photon emission computed tomography (SPECT)
+Useful to distinguish Parkinson's disease from an
+essential tremor
+, and vascular/drug-induced/psychogenic parkinsonism
+The NICE guidelines recommend considering SPECT if the essential tremor cannot be clinically differentiated from parkinsonism
+In Parkinson's disease, there will be a decreased basal ganglia (putaminal) pre-synaptic dopamine uptake
+Olfactory testing
+Although the NICE guidelines do not recommend use of olfactory testing for diagnosis, they may be useful to differentiate Parkinson's disease from other parkinsonian disorders
+The BMJ best practice guidelines and UptoDate suggest that olfactory testing may still be useful, as hyposmia or anosmia is common in Parkinson's, and is a supporting feature under many diagnostic criteria
+Olfactory tests available include:
+The University of Pennsylvania Smell Identification Test
+Sniffin' Sticks test
+Improve
+Diagnosis
+As per the NICE guidelines, Parkinson's disease should be diagnosed using the 'UK Parkinson's Disease Society Brain Bank Clinical Diagnostic Criteria'. These criteria closely align with what are considered the cardinal features of Parkinson's disease, and include a number of inclusion and exclusion criteria which should be considered in a three-step approach. All three steps are involved in coming to the diagnosis of Parkinson's disease.
+1. Diagnosis of a Parkinsonian syndrome
+Firstly, for diagnosis of Parkinson's disease, it requires presence of
+bradykinesia
+(slowness in voluntary movement, reduced speed and amplitude of repetitive actions) plus at least one of the following:
+Muscular
+rigidity
+Resting tremor
+(4-6 Hz frequency)
+Postural instability (not caused by a visual, vestibular, cerebellar or proprioceptive dysfunction)
+Please note, these also align with the Movement Disorder Society (MDS) criteria which can also be used, where diagnosis requires the presence of bradykinesia plus tremor or muscle rigidity, the triad of features considered central and essential to this disease
+2. Exclusion criteria
+Next, a diagnosis other than Parkinson's disease should be considered if any of multiple of the following criteria are present
+History of repeated strokes with stepwise progression of parkinsonian clinical features
+History of repeated head injury
+History of definite encephalitis
+History or current oculogyric crises
+Neuroleptic treatment at time of symptom onset
+More than one affected relative
+Sustained remission
+Strictly unilateral features after 3 years
+(Note: Parkinson's progresses from unilateral to the contralateral side with time, but the initial side affected tends to remain more greatly impacted)
+Supranuclear gaze palsy
+Cerebellar signs
+Early severe autonomic involvement
+(Note: consider
+multiple system atrophy
+)
+Early severe dementia with disturbances of memory, language, and praxis
+Positive babinski sign
+Presence of cerebral tumour or communication hydrocephalus on imaging
+Negative response to large doses of levodopa in absence of malabsorption
+MPTP exposure (a compound which causes selective degeneration of the substantia nigra, in users of illicit drug MPPP contaminated with MPTP)
+3. Supportive positive criteria
+Next, if at this point Parkinson's disease is still suspected, three or more of the following features are required for diagnosis of Parkinson's disease
+These must be in addition to any criteria present in step 1 (i.e. if resting tremor was used in step 1, this cannot be one of the three additional criteria used in this section)
+Unilateral onset
+Resting tremor
+Progressive disease
+Persistent asymmetry, affecting initial side of onset most
+Excellent response (70-100%) to levodopa treatment
+Severe levodopa-induced chorea
+Levodopa response for greater than 5 years
+Clinical course of greater than 10 years
+Other supportive criteria according to the Movement Disorder Society (MDS) criteria include:
+The presence of either olfactory loss or cardiac sympathetic denervation on metaiodobenzylguanidine (MIBG, iobenguane I-123) scintigraphy
+Unequivocal and marked on-off fluctuations, which must have at some point included predictable end-of-dose wearing off
+The presence of levodopa-induced dyskinesia
+Improve
+Differential diagnosis
+There are a number of possible differential diagnoses for Parkinson's disease, as the characteristic clinical features can be present in a number of other neurological disorders. Therefore, in the early stages of Parkinson's disease, it may be difficult to distinguish these conditions and as a result, referral to a specialist with expertise in this area is paramount.
+Essential tremor
+In the early stages of Parkinson's disease, a tremor may be the prominent or only clinical symptom
+An essential tremor is one of the most common causes of tremor, with an approximate prevalence of 5%, therefore this is a likely differential
+Similarities
+Both present with a tremor
+Incidence of both increases with increasing age
+Both tremors usually affect the hands and arms predominantly
+Differences
+An essential tremor worsens when holding the arms outstretched
+An essential tremor worsens with activities such as writing, whereas the tremor associated with Parkinson's disease improves with purposeful actions
+Most often is symmetrical, however can sometimes be asymmetric
+Multiple system atrophy
+Multiple system atrophy very frequently can be misdiagnosed as Parkinson's disease, as early in the course, they both appear very similar in symptom profile
+Similarities
+Both may initially present with parkinsonian features
+Both may respond to levodopa therapy
+Both have an element of autonomic dysfunction, although this tends to be more pronounced in multiple system atrophy
+Differences
+In multiple system atrophy, there is usually a degree of cerebellar involvement, which is part of the exclusion criteria for Parkinson's disease
+Cognition is well preserved in multiple system atrophy
+Lewy-body dementia
+Both present very similar initially and the differentiation often comes after a period of time after Parkinson's disease diagnosis, as usually they are non-distinguishable in the early stages
+Similarities
+Both are characterised by having parkinsonian features (tremor,
+bradykinesia
+,
+rigidity
+)
+Both can involve visual hallucinations
+Both have a similar aetiology, related to the intra-neuronal aggregation of alpha-synuclein proteins
+Differences
+Characterised by a triad of visual hallucinations, fluctuating cognition, and
+parkinsonism
+In Lewy-body dementia, the dementia usually occurs concomitantly with, or prior to, the development of parkinsonism (and must occur no later than a year after onset of motor symptoms)
+Secondary parkinsonism
+Classical parkinsonian features can be a result from a number of other conditions, as opposed to idiopathic Parkinson's disease
+Most commonly, secondary parkinsonism can be caused by medications, usually medications which utilise dopaminergic receptor blockade (e.g. atypical antipsychotics), or vascular disease
+Drug-induced parkinsonism
+Anti-psychotics and anti-emetic drugs which act via dopaminergic antagonism are those most implicated
+Can be distinguished via a thorough medication history
+Other movement disorders also caused by these drugs can help differentiate, such as akathisia, tardive dyskinesia and acute dystonia
+Usually causes symmetrical symptoms
+Vascular parkinsonism
+Due to multiple infarcts affecting the basal ganglia
+Usually can be identified via a thorough history and radiological findings
+Probably step-wise progression rather than continuous
+Improve
+Management
+There are a number of available treatments to help control the symptoms of Parkinson's disease, however unfortunately none are curative and it is a progressive condition. When first suspected by any medical professional, the NICE guidelines recommend that a person should be referred quickly and
+untreated
+to a specialist with Parkinson's disease expertise first for assessment.
+Available medications
+Levodopa
+Levodopa is a precursor to dopamine which is converted both in the CNS and periphery
+Frequently dosed with carbidopa, a dopamine decarboxylase inhibitor, to reduce the amount that is converted in the periphery, thus increasing the amount available in the CNS and reducing peripheral side effects
+Monoamine oxidase B (MAO-B) inhibitors
+Commonly used medications are rasagiline and selegiline
+These are inhibitors of MAO-B, which are responsible for degrading dopamine, therefore increasing the amount of dopamine available
+Dopamine agonists
+Mimic dopamine and bind to dopamine receptors to exert their effect
+Non-ergot (e.g. ropinirole, pramipexole)
+Ergot-derived dopamine agonists (e.g. bromocriptine, cabergoline)
+Recommendations for medical treatment
+As per the NICE guidelines, the first-line treatment for early stage disease depends on the impact of the motor symptoms on the patient's quality of life
+If motor symptoms impact on quality of life - levodopa
+If motor symptoms do not impact on quality of life - dopamine agonist, levodopa or MAO-B inhibitors
+As explained by the NICE guidelines and UptoDate, the choice between a dopamine agonist, levodopa or MAO-B inhibitors should be based on a number of patient specific factors, including:
+The patient's current symptom profile
+Patient age (UptoDate indicate that for patients over 65-years-old, levodopa is better tolerated than dopamine agonists)
+Current co-morbidities and existing medications (need to consider the risk of polypharmacy and medication interactions)
+Possible risks and side effects of each medication, taking into account patient preference
+Over time, there is a potential for the effect of current medications to decrease, as well as worsening in symptoms due to the chronic progression of neurodegeneration
+In there situations, if a patient is on sole levodopa therapy, the NICE guidelines recommend adding either a dopamine agonist, MAO-B inhibitor or catechol-O-methyl transferase (COMT) inhibitors as adjunctive therapy
+According to the NICE guidelines, ergot-derived dopamine agonists should not be used first line, only if required as an adjunct or alternative after failure of initial therapy
+Deep brain stimulation
+The NICE guidelines and BMJ best practice recommend using deep brain stimulation for people whose symptoms are
+not
+adequately controlled by medical therapy
+This should
+never
+be used as first-line treatment
+Involves applying an intermittent direct electrical current to the selected area
+The two primary cortical structures to be targeted are the globus pallidus interna and the subthalamic nucleus
+This procedure aims to correct the imbalance created by reduced function of the substantia nigra, to improve the symptoms for patients
+The evidence suggests that this procedure improves motor function and movement abnormalities, however poses a risk of strokes, confusion and speech dysfunction
+Adjuvant therapy
+Physiotherapy
+Specialist physiotherapy by a therapist who is experienced in Parkinson's disease may provide techniques to improve mobility and balance
+Important for falls reduction as well as improvement in quality of life
+Speech therapy
+A speech therapist may be required for patients experiencing worsening dysarthria or dysphagia complications
+Is particularly pertinent for patients with dysphagia to reduce the risk of aspiration
+Occupational therapy
+The NICE guidelines recommend referral for occupational therapy for patients whom are having difficulty and requiring assistance for activities of daily living (e.g. showering, dressing, cooking, gardening)
+Improve
+Complications
+Autonomic dysfunction
+This occurs when the autonomic nervous system fails to work appropriately, leading to abnormalities in the control of normal bodily homeostasis
+This can be a complication of progressive Parkinson's disease, however can also be present in
+multiple system atrophy
+mistakenly diagnosed as Parkinson's disease and therefore this must be considered
+Postural hypotension
+is one of the most common manifestations, with no compensatory tachycardia due to dysfunction of the autonomic nervous system
+Contributes to dizziness, light-headedness and subsequent falls
+Constipation is also common due to dysregulated colonic smooth muscle activity
+Urinary dysfunction, notably increased urinary frequency and urgency
+May lead to urge incontinence due to involuntary detrusor muscle activity
+Recurrent falls
+Patients with Parkinson's disease are at a significantly raised risk of falls due to the significant motor symptoms (particularly due to postural instability and impaired corrective reflexes)
+Approximately 2-fold greater risk of falls compared to comparable peers without Parkinson's disease, with approximately 60% reporting at least one fall
+Can lead to subsequent fractures, hospitalisation and sometimes wheelchair confinement due to concern regarding further falls
+Also contributed to by orthostatic hypotension from autonomic dysregulation
+Cognitive impairment
+Dementia has been reported to affect over 40% of people with Parkinson's disease, particularly in the later stages of the disease, typically subcortical
+The diagnosis can be complicated depending on what stage the dementia begins in the course of the disease
+If dementia develops >1 year after Parkinson's disease diagnosis, it is considered to be Parkinson's disease dementia
+However, if dementia begins prior or alongside the Parkinson's disease diagnosis (<1 year), Lewy-body dementia is more likely
+If identified early, cholinesterase inhibitors such as rivastigmine or donepezil can confer some benefit
+Improve
+Prognosis
+Parkinson's disease (PD) is a progressive neurodegenerative disorder characterised by a variable prognosis, with patient outcomes influenced by multiple factors. Although PD typically shortens life expectancy, the progression of symptoms is highly variable, making it challenging to predict the future course for any given individual at the time of diagnosis.
+Key Prognostic Factors
+Age at Onset: Early-onset PD (diagnosis before age 50) generally progresses more slowly than late-onset PD.
+Symptom Presentation: Patients presenting predominantly with tremor tend to experience slower progression compared to those whose initial symptoms are
+rigidity
+and
+bradykinesia
+.
+Cognitive Status: Cognitive impairment or dementia at diagnosis is associated with faster disease progression and reduced survival.
+Comorbidities: The presence of comorbid conditions such as cardiovascular disease, diabetes, or pulmonary diseases can negatively impact prognosis.
+Motor Complications
+Early Response to Treatment: Motor symptoms are often highly responsive to dopaminergic therapies early in the disease course.
+Motor Fluctuations: Motor fluctuations and "wearing off" develop in 30 to 40 percent of patients by five years and up to 60 percent by ten years.
+Progression of Disability
+A transition from disease impairment to disability (loss of independent function) typically occurs between three and seven years after diagnosis.
+In a longitudinal study of 142 patients followed from 2000 to 2012, about 77 percent had a poor outcome (death, dementia, or postural instability) ten years post-diagnosis.
+A minority of patients exhibit a particularly slow disease progression, maintaining balance and postural stability for over 10 years and avoiding severe disability even after 20 years.
+Life Expectancy
+Most studies suggest that mortality is modestly increased for patients with PD compared to age-matched controls, with a pooled mortality ratio of 1.5.
+Median survival from diagnosis ranges from 6 to 22 years.
+Increased age and the presence of dementia are associated with a higher risk of mortality.
+Complications and Mortality
+While PD itself is not a direct cause of death, complications from advanced stages—such as pneumonia due to dysphagia or falls resulting in fractures—contribute significantly to mortality.
+Management and Quality of Life
+The primary treatment goal for PD is symptom management to improve quality of life, given its chronic and progressive nature.
+Regular monitoring and timely adjustments in therapeutic strategies are essential for effective management of the condition.
+Improve
+References
+NICE - 2017 Parkinson's disease guidelines
+Neurology
+Parkinson's disease

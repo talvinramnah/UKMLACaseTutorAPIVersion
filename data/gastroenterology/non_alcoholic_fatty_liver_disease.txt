@@ -1,0 +1,66 @@
+Non-alcoholic fatty liver disease
+Non-alcoholic fatty liver disease
+Non-alcoholic fatty liver disease (NAFLD) is a common condition characterized by the accumulation of fat in the liver. It is closely associated with obesity, insulin resistance, and metabolic syndrome. NAFLD can progress to non-alcoholic steatohepatitis (NASH), which is a more severe form of the disease that can lead to
+cirrhosis
+, liver failure, and hepatocellular carcinoma. The diagnosis of NAFLD is based on imaging studies and elevated liver enzymes, while the diagnosis of NASH requires a liver biopsy. Management of NAFLD involves lifestyle modifications such as weight loss, exercise, and a healthy diet. There are currently no approved pharmacological therapies for NAFLD or NASH, but several drugs are being investigated in clinical trials.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 330.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in males 3:1
+Condition
+Relative
+incidence
+Non-alcoholic fatty liver disease
+1
+Alcoholic liver disease
+0.06
+Haemochromatosis
+0.004
+Autoimmune hepatitis
+0.003
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Clinical features
+Most patients with NAFLD are asymptomatic and the condition is often discovered incidentally during routine blood tests or imaging studies.
+Some patients may present with non-specific symptoms such as:
+fatigue
+malaise
+right upper quadrant discomfort.
+Patients with NAFLD are at increased risk of developing metabolic syndrome, type 2 diabetes mellitus, and cardiovascular disease.
+Improve
+Investigations
+NICE produced guidelines on the investigation and management of NAFLD in 2016. Key points:
+there is no evidence to support screening for NAFLD in adults, even in at risk groups (e.g. type 2 diabetes)
+the guidelines are therefore based on the management of the
+incidental
+finding of NAFLD - typically asymptomatic fatty changes on liver ultrasound
+in these patients, NICE recommends the use of the enhanced liver fibrosis (ELF) blood test to check for advanced fibrosis
+the ELF blood test is a combination of hyaluronic acid + procollagen III + tissue inhibitor of metalloproteinase 1. An algorithm based on these values results in an ELF blood test score, similar to triple testing for Down's syndrome
+An excellent review by Byrne et Al in 2018 reviewed the diagnosis and monitoring of NAFLD. It made the following suggestions if the ELF blood test was not available:
+non-invasive tests may be used to assess the severity of fibrosis
+these include the FIB4 score or NALFD fibrosis score
+these scores may be used in combination with a FibroScan (liver stiffness measurement assessed with transient elastography)
+this combination has been shown to have excellent accuracy in predicting fibrosis
+Patients who are likely to have advanced fibrosis should be referred to a liver specialist. They will then likely have a liver biopsy to stage the disease more accurately.
+Improve
+Management
+Management
+the mainstay of treatment is lifestyle changes (particularly weight loss) and monitoring
+there is ongoing research into the role of gastric banding and insulin-sensitising drugs (e.g. metformin, pioglitazone)
+Improve
+References
+NICE - 2016 Non-alcoholic fatty liver disease (NAFLD): assessment and management
+Gastroenterology
+Non-alcoholic fatty liver disease

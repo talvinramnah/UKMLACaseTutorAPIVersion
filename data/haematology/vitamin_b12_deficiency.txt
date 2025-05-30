@@ -1,0 +1,298 @@
+Vitamin B12 deficiency
+Vitamin B12 deficiency
+Vitamin B12 (cobalamin) is a water-soluble vitamin that is naturally found in animal and dairy products. Since human bodies are incapable of synthesising vitamin B12, we heavily rely on dietary absorption. Cobalamin is essential for deoxyribonucleic acid (DNA) synthesis in combination with folic acid (vitamin B9), red blood cells production, and nerve myelination. A lack of vitamin B12, which is one of the most common causes of megaloblastic anaemia, can lead to detrimental health-related consequences, varying from neurological to psychiatric.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: more common in females 1:1
+Condition
+Relative
+incidence
+Alcohol excess
+20.00
+Vitamin B12 deficiency
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Vitamin B12 deficiency is a multi-factorial condition; causes can be categorised into inadequate intake, increase in requirement, malabsorption, drug-induced and congenital.
+Malabsorption (most common)
+Chronic alcoholism
+Pernicious anaemia
+Helicobacter pylori
+infection
+Atrophic gastritis (mainly due to pernicious anaemia and
+Helicobacter pylori
+infection)
+Bowel related conditions, e.g. Crohn's disease, Coeliac disease, tropical sprue
+Surgery: gastrectomy, gastric bypass, terminal ileum resection
+Bacterial overgrowth
+Inadequate intake
+Dietary: vegan, vegetarian
+Increase in requirement
+Pregnancy
+Breastfeeding
+Hyperthyroidism
+Acquired immunodeficiency syndrome (AIDS)
+α-thalassaemia
+Drug induced
+Any drugs that alters the metabolism of purine, pyrimidine, or both
+Nitrous oxide
+Metformin use for >4 months
+Proton pump inhibitor (PPI) use for >1 year
+Congenital
+Inborn error of metabolism
+Cobalamin transport disorder, e.g. transcobalamin-II deficiency
+Genetics, e.g. Imerslund-GrÃ¤sbeck disease
+Improve
+Pathophysiology
+Vitamin B12 is naturally bound to peptides in food. It has to go through different steps in order to be absorbed by our body.
+In the stomach and duodenum
+The following steps are carried out in the stomach and duodenum:
+Food meets hydrochloric acid in the stomach
+Pepsin, facilitate by the low pH environment, cleaves vitamin B12 from the food protein
+R protein from ingested saliva then binds to cobalamin and travel to the duodenum together
+In the descending duodenum, R protein-cobalamin complex is degraded by pancreatic proteolysis
+This allows IF to bind with cobalamin to form IF-cobalamin complex
+Although IF is also present in the stomach, since R protein has a higher affinity for vitamin B12, IF-cobalamin complex can't be formed until reaching the descending duodenum. A less acidic environment in the small intestine also supports the formation of IF-cobalamin complex.
+Haptocorrin and IF are both glycoproteins, they are produced by:
+Heptocorrin: salivary glands (also known as R protein), plasma, breast milk, bile and gastric mucosa
+IF: parietal cells in the gastric mucosa
+In the terminal ileum
+The following steps are carried out in the terminal ileum:
+IF-cobalamin complex reaches the terminal ileum
+The complex is absorbed into the enterocytes via receptor-mediated calcium-dependent endocytosis
+Then enters a lysosome within the enterocyte
+Vitamin B12 is released whilst IF is degraded
+Liberated vitamin B12 have 2 destinations
+Converted to its active co-factor form â→ use by enterocytes
+Is released into the portal circulation
+In the bloodstream
+In the bloodstream, vitamin B12 exists in two bound forms:
+Holo-haptocorrin: when vitamin B12 binds to protein haptocorrin (Holo-haptocorrin is historically known as transcobalamin I and III)
+HoloTC: when vitamin B12 binds to protein transcobalamin (Transcobalamin is previously known as transcobalamin II)
+Only vitamin B12 that is present in the form of HoloTC is available for cellular uptake. Around 50% of HoloTC will be delivered to the liver, the rest is distributed to other tissues. Vitamin B12 can be stored in the liver for years.
+Holo-haptocorrin is not available for extrahepatic cellular uptake as heptocorrin receptors are absent on most cells. Instead, there is an abundance of asialoglycoprotein receptors on hepatocytes, facilitating the hepatic absorption of both vitamin B12 and vitamin B12 analogues that are bound to haptocorrin/R protein. This mechanism enables unwanted or harmful vitamin B12 to be removed from the circulation and excreted in bile.
+Unwanted/harmful vitamin B12
+Any unwanted or harmful cobalamin and its analogues, either from consumed food or produced by intestinal bacteria, remained bound to R protein or form new complexes with haptocorrin, so as to prevent being absorbed. Eventually, they are excreted as faeces together with any unabsorbed biliary vitamin B12 present in bile.
+Improve
+Classification
+Serum vitamin B12 level
+According to National Institute for Health and Care Excellence (NICE), the normal range of vitamin B12 levels is not clear cut; yet, a serum vitamin B12 level of 148 picomole/L is generally used as the lower threshold.
+Vitamin B12 deficiency can be classified into the following three groups using serum vitamin B12 level:
+Deficiency is likely: <148 picomole/L
+Deficiency is probable: 148 to 258 picomole/L
+Deficiency is unlikely: >258 picomole/L
+Aetiology
+Apart from using serum vitamin B12 level, the causes of cobalamin deficiency can also be used as a classification criterion.
+Malabsorption, e.g. Pernicious anaemia,
+Helicobacter pylori
+infection, atrophic gastritis
+Inadequate intake, e.g. vegan or vegetarian diet
+Increase in requirement, e.g. pregnancy, hyperthyroidism
+Drug induced
+Congenital, e.g. cobalamin transport disorder
+Pernicious anaemia status
+An alternative to using aetiological factors in classifying vitamin B12 deficiency is to determine whether it is related to pernicious anaemia, which is the most common cause of cobalamin deficiency. There are specific blood tests that can be performed in aiding diagnosis. Patients with pernicious anaemia would show the following blood test results:
+Serum vitamin B12: â≤258 picomole/L
+Methylmalonic acid (MMA) level: high
+Anti-intrinsic factor antibodies: positive (positive predictive value: 95%)
+A negative test for anti-intrinsic antibodies, does not rule out pernicious anaemia; therefore serum anti-parietal cell antibodies should be obtained to confirm diagnosis, as shown below:
+Low: vitamin B12 deficiency not due to pernicious anaemia
+High: consistent with pernicious anaemia
+Improve
+Clinical features
+A typical presentation of Vitamin B12 deficiency often mirrors that of a general systemic illness. The patient may complain of
+fatigue
+, weakness, and light-headedness. These symptoms are often accompanied by
+pallor
+due to anaemia, which is a common characteristic of this condition.
+However, the clinical features can extend beyond these general symptoms and may affect multiple systems. Detailed below are the possible presenting features:
+Haematological Features
+Megaloblastic Anaemia:
+This is the most common manifestation where patients exhibit macrocytosis (MCV >100fL) with oval macrocytes and hypersegmented neutrophils on peripheral blood smear.
+Pancytopenia:
+In severe cases, there might be a reduction in all three cellular components of blood (red cells, white cells and platelets).
+Neurological Features
+Subacute Combined Degeneration of Spinal Cord:
+This involves demyelination resulting in impaired proprioception and vibratory sense, muscle weakness and ataxia.
+Polyneuropathy:
+Patients may present with peripheral neuropathy characterised by numbness or tingling in hands or feet.
+Cognitive Impairment:
+Memory loss or mood changes such as depression or irritability can occur. In severe cases, psychosis or dementia-like syndrome may be observed.
+Gastrointestinal Features
+Glossitis
+: It's characterised by an inflamed tongue that appears smooth due to loss of papillae.
+Anorexia
+and
+weight loss
+: Reduced appetite can lead to weight loss over time.
+Dermatological Features
+Vitiligo
+: There may be patches of skin losing their pigment.
+Angular cheilitis
+: This presents as inflammation of one or both corners of the mouth.
+The clinical features of Vitamin B12 deficiency can be quite diverse and non-specific, making it a challenging diagnosis. It is important to have a high index of suspicion, especially in at-risk groups such as vegetarians, vegans, and those with pernicious anaemia or malabsorption syndromes. Early identification and treatment can prevent irreversible neurological damage.
+Improve
+Investigations
+Full blood count
+A full blood count (FBC) in determining baseline haematocrit, haemoglobin level, mean cell volume (MCV) and reticulocyte count is the cornerstone for testing vitamin B12 deficiency. The following picture may show in patients' blood test results:
+Haematocrit: low
+MCV: high
+Reticulocyte: low (raised in haemolytic anaemia)
+Lactate dehydrogenase (LDH): high
+Although this is a typical picture of megaloblastic anaemia, megaloblastic anaemia can also give normal test results. FBC is not very good at detecting early vitamin B12 deficiency, however it is useful in diagnosing prolonged or severe presentations. Leucopenia and thrombocytopenia associated with severe anaemia may be found.
+Blood film
+Blood film is another helpful tool in detecting megaloblastic anaemia. Nonetheless, similar to FBC, blood film has a low specificity and sensitivity in detecting early vitamin B12 deficiency. The following features may be found:
+Hypersegmented polymorphonucleated cells (non-specific)
+More than 5% of neutrophils have five or more lobes, or one or more neutrophils with six or more lobes
+Oval megalocytes (non-specific)
+Circulating megaloblasts (specific)
+Megaloblastic changes in bone marrow (specific)
+Hypersegmented polymorphonucleated cells and oval megalocytes are not specific to vitamin B12 deficiency as folate deficiency can also produce the same blood film result.
+Serum vitamin B12
+Serum vitamin B12 level can be diagnostic but some patients may still present with normal serum B12 levels. NICE suggests that a level of less than 200 nanograms/L (148 picomole/L) has a high sensitivity in diagnosing 97% patients with cobalamin deficiency. In some elderly patients, even though vitamin B12 deficiency is clinically significant, serum B12 level may still be within the normal range. Studies show that the correlation between the level of serum vitamin B12 and severity of symptoms is poor.
+Ladies who take oral contraceptives may have reduced vitamin B12 carrier protein; therefore, a low cobalamin level may be seen. Yet, this does not warrant a diagnosis of cobalamin deficiency. Likewise, cobalamin level is reduced naturally in pregnancy, so deficiency may not be easily detected.
+Overall, serum B12 level should be interpreted with care, and in conjunction with clinical features and other test results.
+Methylmalonic acid and Homocysteine
+Methylmalonic acid (MMA) and homocysteine (Hcy) level should be performed alongside with serum cobalamin level in aiding diagnosis, especially in those with borderline serum B12 levels. MMA and Hcy are usually elevated when deficiency is present, yet specificity of MMA is questioned, especially in the elderly population.
+MMA can also be elevated in other conditions:
+People aged 65 or over with renal disease
+Small bowel bacterial growth
+Low fluid content in blood
+Hcy can also be raised in conditions such as:
+B9 (folate) deficiency
+B6 (pyridoxine) deficiency
+End stage renal disease
+Hypothyroidism
+Oestrogen deficiency
+For those reasons, solitary elevated MMA and/or Hcy without a low serum B12 level is not useful in ruling in vitamin B12 deficiency.
+It's essential to perform follow up tests to check if MMA and Hcy level return to normal after adequate treatment, as well as requesting other tests (for example thyroid function test and folic acid level) to rule out differential diagnoses.
+Holotranscobalamin
+Holotranscobalamin (HoloTC) is a metabolically active component of vitamin B12. A low HoloTC level indicates inadequate vitamin B12 absorption. Several authors suggest that HoloTC is a more sensitive marker for cobalamin deficiency than serum B12 level, and the accuracy of the test results may be enhanced when the Active-B12 assay is used in testing for HoloTC. Additionally, serum vitamin B12 level may be misleading in those with alcoholic liver disease as it can be falsely raised. It is suggested that HoloTC level can be useful in identifying cobalamin deficiency in alcoholic patients.
+Antibody testing
+When a diagnosis of vitamin B12 deficiency is confirmed, further testing can be used to determine the underlying cause. Anti-parietal cell (APC) antibody and anti-intrinsic factor antibody are tested positive in pernicious anaemia, which is one of the most common conditions causing cobalamin deficiency.
+Imaging
+In suspected cases of SCAD, magnetic resonance imaging (MRI) should be performed. Abnormalities that can be identified on MRI include selective demyelination of the dorsal and lateral column of the spinal cord, and distinctive signs such as 'inverted V sign', 'pairs of binocular sign' and 'dot signs'.
+Special test
+The Schilling test had been used as a diagnostic test for vitamin B12 deficiency traditionally. The test is divided into two stages.
+First stage
+Take an oral dose of radiolabeled vitamin B12
+Followed by a dose of unlabelled vitamin B12 injected intramuscularly (IM) an hour later
+A 24-hour urine sample is collected to study cobalamin level
+A low level of urine radioactive vitamin B12 suggests either a defect in terminal ileum absorption or a lack of intrinsic factor (IF)
+Any abnormal results in the first stage warrant a second stage investigation
+Second stage
+Take an oral dose of radiolabeled vitamin B12
+Followed by a dose of IM unlabelled vitamin B12 an hour later
+and
+an oral dose of IF
+A 24-hour urine sample is collected to study cobalamin level
+A low urine cobalamin level suggests absorption defect in terminal ileum; further tests should be performed to assess the underlying cause.
+Yet, the Schilling test is no longer commonly used due to recent advanced development in laboratory techniques.
+Improve
+Differential diagnosis
+When considering a diagnosis of vitamin B12 deficiency, it is important to also consider other conditions that may present with similar symptoms. The three most likely alternative diagnoses include folate deficiency, iron deficiency anaemia, and myelodysplastic syndrome.
+Folate Deficiency
+Like vitamin B12 deficiency, folate deficiency can result in
+macrocytic anaemia
+. However, while the neurological symptoms seen in vitamin B12 deficiency are due to combined systems disease involving the spinal cord, these are typically absent in folate deficiency.
+Laboratory findings can also help differentiate between these two conditions. Serum folate levels will be low in folate deficiency but may be normal or high in vitamin B12 deficiency. Additionally, serum homocysteine levels are elevated in both conditions, but methylmalonic acid levels are only elevated in vitamin B12 deficiency.
+Iron Deficiency Anaemia
+Iron deficiency anaemia primarily presents as microcytic hypochromic anaemia rather than the macrocytic anaemia typical of vitamin B12 deficiency.
+Clinical symptoms such as
+fatigue
+and
+pallor
+are common to both conditions. However, specific signs like
+glossitis
+and angular cheilitis are more often associated with iron deficiency.
+Differentiating laboratory findings include low serum ferritin and transferrin saturation seen in iron-deficiency anaemia. In contrast, these parameters tend to be normal or elevated in vitamin B12 deficiency.
+Myelodysplastic Syndrome (MDS)
+MDS is a group of disorders caused by poorly formed blood cells or cells that do not work properly, which can result in macrocytic anaemia mimicking vitamin B12 deficiency.
+Unlike vitamin B12 deficiency, MDS is often associated with cytopenias affecting multiple cell lines leading to symptoms such as infections and bleeding. Dysplastic changes in cells are a key feature of MDS but are absent in B12 deficiency.
+Diagnosis of MDS requires bone marrow examination showing dysplastic changes and cytogenetic analysis revealing specific abnormalities.
+Improve
+Management
+Most patients with vitamin B12 deficiency are managed in primary care with intramuscular (IM) vitamin B12 injections as replacement and maintenance therapy. However, patients with neurological symptoms or certain medical background should be referred to secondary or tertiary care for follow-up and treatment.
+Primary care
+A combination of conservative and medical management should be performed in primary care.
+Conservatively, the following dietary advice should be provided to all patients:
+According to European Food Safety Authority, consuming 4 µg/d of vitamin B12 is recommended; requirement is higher during pregnancy and breastfeeding
+Increase consumption in food rich in vitamin B12, for example eggs, meat, dairy products, fish, cobalamin fortified food and multivitamin supplements, should be encouraged
+If patients demonstrate any of the followings, urgent referral should be sought:
+Haematological: neurological symptoms, pregnancy, pancytopenia, suspected haematological malignancy, unexplained vitamin B12 deficiency, response to treatment is absent
+Gastroenterological: suspected pernicious anaemia, inflammatory bowel diseases, malabsorption syndromes, malignancy
+Dietetic: poor diet
+Medical management includes regular IM hydroxocobalamin injection. Treatment should be initiated in patients with neurological symptoms whilst waiting for any results or referral. Treatment algorithm is mainly dictated by whether there is any neurological involvement.
+With neurological involvement
+Replacement therapy: IM hydroxocobalamin 1mg once daily on alternative days until no further improvement
+Maintenance therapy: IM Hydroxocobalamin 1mg, which usually lasts for life, once every 2 months
+Without neurological involvement
+Replacement therapy: IM Hydroxocobalamin 1mg three times a week for 2 weeks
+Maintenance therapy (diet related): IM Hydroxocobalamin 1mg twice a year
+Maintenance therapy (non-diet related): IM Hydroxocobalamin 1mg once every 2-3 months for life
+Amongst diet related cobalamin deficiency patients, treatment can cease once vitamin B12 level has normalised and their diet has improved. If a restricted diet is adhered, for instance vegan and vegetarian, treatment needs to be lifelong. All patients should receive dietary counselling as discussed.
+If the deficiency is thought to be drug-induced, with or without neurological involvement, medication should be reviewed to establish whether existing treatment can be replaced by more suitable alternatives. Adequate intake or supplementation of folate and vitamin B12 should be insured.
+Ladies who take oral contraception or hormonal replacement therapy with mild reduction in serum vitamin B12 level 150-200 nanograms/L (110-148 picomol/L) don't need to be investigated further. However, dietary counselling should be performed, and supplementations should be considered.
+Patient discussion
+Patient discussion regarding neurological symptoms should be initiated across all care settings. Patient should be advised that neurological improvement takes time but usually starts within 1 week of treatment. Complete resolution may take up to 3 months.
+Unfortunately, neurological symptoms may persist for some patients despite adequate treatment. Therefore, it is important to explain to those patients that the aim of current treatment is to prevent further neurological deterioration.
+Pregnancy and breastfeeding
+Patients who are pregnant, even in absence of neurological features, should seek specialist advice from a haematologist as soon as possible. This is because the risk of the growing fetus developing a neural tube defect is high.
+Breastfeeding mothers who adapt a vegan diet can only supply adequate amount of vitamin B12 to her infant via breast milk, if the mother has met the cobalamin requirement through taking supplements.
+Monitoring
+Within 7 to 10 days of starting treatment, FBC should be performed to check for treatment response.
+No response: check serum folate level
+Haemoglobin level and reticulocyte index above normal range: adequate treatment
+Serum iron and folate level should be checked 8 weeks after treatment; MCV should be within the normal range.
+Serum vitamin B12 should not be used as an indicator of treatment progress as cobalamin level increases regardless of how effective the treatment is. However, NICE suggests that vitamin B12 level can be measured 1-2 months after initiating treatment if there is no response.
+Ongoing monitoring is not required unless:
+Medication non-adherence
+No improvement or worsened neurological symptoms
+Anaemia recurs
+Cyanocobalamin versus hydroxocobalamin
+In some countries, including the United Kingdom - according to the BNF which was last updated 12 May 2020, have completely replaced cyanocobalamin with hydroxocobalamin as first line treatment. This is because hydroxocobalamin:
+Can be retained in the body for longer
+Can be administered at intervals of up to 3 months
+Cyanocobalamin exists in both oral and IM form. However, it is recommended that hydroxocobalamin injection should be used instead of cyanocobalamin injection. IM cyanocobalamin is not prescriptible in NHS primary care.
+Oral versus IM therapy
+The efficacy of oral and IM vitamin B12 therapy have been debated for over many years, yet a consensus still can't be reached.
+Alongside several case control and case series studies conducted previously, a recent Cochrane database systematic review pointed out that the efficacy and safety of oral vitamin B12 has been overlooked; the oral form of vitamin B12 has rarely been prescribed. This could probably due to the lack of awareness of this option and unavailability in healthcare systems. With the exception of Canada and Sweden, which are the two countries prescribing over 70% oral vitamin B12 in 2000.
+The benefit of oral vitamin B12 therapy includes:
+Avoiding pain caused by injection, especially in thin people
+Can provide an alternative to patients who are anti-coagulated (unsuitable to receive injection)
+No reported adverse effects
+As oral and IM are both effective means of replacing vitamin B12, IM therapy is preferred in those with severe deficiency, malabsorption syndromes or severe neurological symptoms as it achieves a more rapid improvement. For patients who are asymptomatic, with mild disease with no absorption or compliance concerns, oral therapy can be considered.
+Although the review suggests that the efficacy of high dose (1 to 2mg per day) oral vitamin B12 may be on par with the IM route in acquiring haematological and neurological responses in the short-term, the quality of evidence was felt to be low. This was possibly due to biases and inconsistency between trials. Additionally, not only did MMA level was observed to improve better with IM than oral therapy, there are also insufficient evidence on the long-term benefit of oral vitamin B12 as it is associated more with patient compliance issues.
+Improve
+Complications
+Apart from those debilitating haematological, neurological and psychiatric complications as mentioned previously, the following may occur as well.
+Malignancy
+One of the biggest complications associated with vitamin B12 deficiency, in patients with untreated pernicious anaemia particularly, is gastric cancer. Pernicious anaemia is an autoimmune condition; antibodies against acid producing parietal cells and IF are produced. Consequently:
+Dietary vitamin B12 absorption aided by IF is impaired
+Synthesis of normal red blood cells is affected
+Chronic gastric inflammation and achlorhydria
+This favour the growth of
+Helicobacter pylori
+- a major risk factor for gastric malignancy.
+Obstetric
+Poor obstetric outcomes is correlated with low vitamin B12 level. Spontaneous abortion, intrauterine growth restriction, low birth weight and neural tube defects are all fatal consequences, which can lead to fetal developmental deficit. Hence, maternal vitamin B12 deficiency should not be taken lightly.
+Fertility
+Vitamin B12 deficiency can also lead to temporary infertility in both males and female; yet, the mechanism is poorly understood. Fortunately, this improves with adequate treatment.
+Improve
+References
+Clinincal Knowledge Summaries - Anaemia - B12 and folate deficiency
+Haematology
+Vitamin B12 deficiency

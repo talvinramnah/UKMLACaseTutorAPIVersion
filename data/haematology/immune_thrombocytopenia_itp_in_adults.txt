@@ -1,0 +1,180 @@
+Immune thrombocytopenia (ITP) in adults
+Immune thrombocytopenia (ITP) in adults
+Immune thrombocytopenic
+purpura
+(ITP), also known as idiopathic thrombocytopenic purpura, is an autoimmune disorder whereby antibodies are produced against the body's own platelets. It is a type of bleeding disorder. The presentation is different between children and adults. For the purpose of this article, the focus shall be on ITP in adults. ITP occurs in 3 in 100000 adults per year. Between the age groups 30-60, the disease is more common in women than men. At the extremes of ages, ITP is equally common in men and women. In adults, ITP often have an insidious onset and have a relapsing and remitting nature. Patients may be asymptomatic most of their lives but require a few hospital admissions. The mainstay of treatment involves use of oral steroids. Surgical options such as splenectomy have traditionally been offered to steroid refractory cases.
+Last updated: 25
+th
+July 2024
+Epidemiology
+Incidence: 5.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: more common in females 2:1
+Condition
+Relative
+incidence
+Immune
+thrombocytopenia
+(ITP) in adults
+1
+Thrombotic thrombocytopenic
+purpura
+0.08
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Below is an explanation for the aetiology of ITP:
+It is thought that ITP is an
+autoimmune disorder
+resulting in antibodies produced to target against individual's own platelets, leading to
+thrombocytopenia
+.
+This in turn results in petechiae and in rarer cases more severe bleeding.
+Furthermore, ITP can be primary or secondary. Primary ITP occurs when there is isolated thrombocytopenia is found with no co-existing conditions. Secondary ITP is associated with co-existing conditions. These include:
+Rheumatological diseases
+CLL
+Lymphoma
+Viral infections
+Various pharmacological agents
+Improve
+Pathophysiology
+ITP is an autoimmune disorder. In ITP abnormal immune system leads to
+destruction of own platelets
+.  Although the precise mechanism for ITP is not completely understood, there have been several widely accepted theories:
+In ITP, autoantibodies are produced by the patient's B cells, principally of IgG. These target against platelet membrane glycoproteins GPIIb/IIIa.
+These platelets with autoantibodies are then engulfed by macrophages and degraded in the spleen.
+The bone marrow compensates by producing megakaryocytes (precursor to platelets).
+Purpura
+occurs as a result of increased permeability in capillary due to
+low platelets
+.
+In some cases, it is thought that viral infections can precede development of ITP. Antibodies against viral antigens cross react with normal antigens on platelet surfaces thus producing molecular mimicry.
+Improve
+Clinical features
+In adults, ITP can present in a number of different ways. In normal individuals, platelet counts range between 150 to 400.
+Thrombocytopenia
+, or low platelets, occurs when the count drops below 100. The onset of presentation may be within days or months. ITP can be categories depending on duration of thrombocytopenia:
+Newly diagnosed when thrombocytopenia is present for less than 3 months;
+Persistent ITP refers to thrombocytopenia of 3 to 12 months;
+Chronic ITP is defined as thrombocytopenia of greater than 12 months.
+Clinical Presentations:
+Approximately 1/3 of patients are asymptomatic and have incidental discovery on blood test.
+Approximately 2/3 of patients have bleeding. Commonly patients with ITP present to their doctors with
+petechiae
+, small red dots on the skin.
+Purpura
+, formed by petechiae joined together, can also occur.
+Mild epistaxis is common. Continuous epistaxis requiring nasal packing or cauterisation may pose greater risks of bleeding.
+In women, patients with ITP may have prolonged and heavy menstrual cycles.
+Very rarely, nonetheless the most importantly, ITP can present with intracranial bleeding; this occurs in 1.4% of the cases.
+Severe non-intracranial bleeds such as large gastrointestinal bleed occur in 9.6% of the cases.
+Patients with ITP can present as generally unwell, i.e. feeling lethargic.
+Occasionally, patients with ITP may present with strokes and TIA, often referred to as paradoxical thrombotic events in ITP.
+ITP may be discovered incidentally. In some cases there may be associated precedent events such as a viral infection. Moreover, various medications have been associated with thrombocytopenia; these include various antibiotics, quinine, statin, calcineurin inhibitors and herbal remedies such as ginkgo plant. Hence it is important to elicit these in the history.
+Improve
+Investigations
+There are a number of investigations to be considered in patients presenting with bleeding and in those with incidental findings of
+thrombocytopenia
+. There is no single blood marker for ITP. Rather it is a diagnosis of exclusion. Minimum investigations to be done if thrombocytopenia is found include:
+Firstly,
+full blood count
+and
+blood film
+need to be requested. This would demonstrate isolated decrease in platelet counts, with normal counts in all other cell lineages. Additionally, there should be no evidence of fragments on the film.
+Secondly, a
+virology screen
+including HIV, EBV, hepatitis screen.
+Further investigations to be considered, as guided by history and examination findings:
+Clotting screen including PT and APTT, especially in those with severe bleeding.
+Thyroid function tests
+Malarial screen
+Myeloma screen.
+Immunological tests including ANA is considered especially if coexisting rheumatological features are present.
+Imaging including CT may be useful if there is a high index of suspicion for cancer.
+Bone marrow biopsy is no longer a standard investigation for ITP. If there are blood count abnormalities such as anaemia, leucopenia or other unexplained haematological findings, a bone marrow biopsy is warranted. In cases where ITP is not responsive to treatment and there is a high clinical suspicion for MDS, bone marrow biopsy should be carried out.
+Improve
+Differential diagnosis
+ITP is a diagnosis of exclusion.
+Thrombocytopenia
+can be caused by
+increased destruction
+of platelets, and/or
+reduced production
+of platelets. Important differential diagnoses to consider include:
+Non-immunological causes of increased destruction of platelets include disseminated intravascular coagulation (DIC) i.e. in the setting of sepsis or malignancy.
+Pregnancy and its complications such as HELLP syndrome can also cause thrombocytopenia.
+Chronic liver disease and hypersplenism is associated with thrombocytopenia.
+Thrombotic thrombocytopenic
+purpura
+(
+TTP
+) is life-threatening disease which presents with thrombocytopenia but can result in multi-organ failure, cardiac complications, strokes and other thrombotic events. The hallmark for DIC and TTP is the presence of fragments on the blood film.
+Additionally, drugs such as
+heparin
+may result in thrombocytopenia, known as heparin-induced thrombocytopenia or HIT.
+Immunomodulatory drugs such as gold, alemtuzumab and more recently immunotherapy agents such as nivolumab and pembrolizumab have been associated with ITP.
+Thrombocytopenia may be the first sign in well patients with underlying viral infections such as HIV or hepatitis.
+Many
+haematological malignancies
+can result in thrombocytopenia such as leukaemia, lymphoma, myelofibrosis, myelodysplasia and myeloma. Therefore it is important to take a careful history, as patients with these diseases often present with constitutional symptoms.
+Finally, rheumatological diseases such as SLE and rheumatoid arthritis can present with thrombocytopenia.
+Improve
+Management
+Initial management of newly diagnosed adult ITP should consider the severity of
+thrombocytopenia
+and presence of bleeding symptoms. Corticosteroids are the first-line treatment for most patients, typically administered as prednisolone or dexamethasone.
+For patients with contraindications to corticosteroids or those who do not respond adequately, intravenous immunoglobulin (IVIg) can be used as an adjunct or alternative therapy.
+the mechanism of action is unknown but it was thought that one way is by blocking the Fc receptor of macrophages.
+Second-line treatments include:
+Thrombopoietin receptor agonists (TPO-RAs):
+Agents such as eltrombopag or romiplostim can be considered for patients with persistent or chronic ITP.
+Rituximab:
+This monoclonal antibody against CD20 may be utilised in cases refractory to initial therapies.
+Splenectomy:
+Surgical removal of the spleen remains a definitive option for patients with chronic ITP unresponsive to medical management.
+For emergency situations involving severe bleeding or critically low platelet counts, immediate intervention includes high-dose IVIg and/or platelet transfusions. High-dose corticosteroids may also be employed in these scenarios.
+The choice of second-line therapy should be individualised based on patient-specific factors, including comorbidities, risk of adverse effects, and patient preferences. Regular reassessment is necessary to determine efficacy and adjust therapeutic strategies accordingly.
+In cases where Helicobacter pylori infection is identified, eradication therapy may improve platelet counts and should be considered as part of the treatment plan.
+Avoidance of medications that impair platelet function, such as nonsteroidal anti-inflammatory drugs (NSAIDs) and aspirin, is recommended unless absolutely necessary for other medical conditions. If anticoagulation is required due to concomitant conditions like atrial fibrillation or venous thromboembolism, a careful risk-benefit analysis must be conducted to balance the risks of bleeding versus thrombosis.
+Pregnant women with ITP require specialised management in collaboration with
+haematology
+and obstetric teams to ensure maternal and fetal safety. Options include corticosteroids, IVIg, and TPO-RAs under careful monitoring.
+Improve
+Complications
+Complications of treatment are related to side effects of specific drugs used for treatment of ITP. A
+referral to local
+haematology
+department is desirable to weigh up the risks and benefits of choosing a particular modality of treatment against the risks of bleeding. I.e. if platelet counts are stable and above a certain acceptable threshold (depending on hospital guidelines, i.e. >50 and asymptomatic), it may be reasonable to continue monitoring.
+Patients who received splenectomy require long term prophylactic penicillin V and pneumococcal/meningococcal vaccines.
+Most patients with ITP do not have severe bleeding. In a review of adult ITP cases in Oklahoma over a 10 year period, 83% patients were managed on an outpatient bases. Indications for inpatient management of ITP include:
+Large bleeding;
+Haemodynamic compromise;
+Intracranial
+haemorrhage
+;
+Platelet count of less than < 30.
+Inadequate response to conventional therapy agents.
+Improve
+Prognosis
+In adults, ITP is often a chronic disorder of
+relapsing and remitting
+nature. Patients may be in remission for many years before a relapse occurs.  A recent study demonstrated that >85% ITP patients with platelet count of >30 had identical long term mortality to the general population. Most patients with ITP have good outcomes and few hospital admissions. Below is a reference from British society of
+haematology
+:
+An estimate of 2/3 of patients respond to steroid therapy, as such it is given as first line therapy.
+Pooled normal human immunoglobulins are shown to be effective in elevating platelet count in 75% of ITP patients, of which 50% achieve normal platelet count. Nevertheless, the effect of rise in platelet count may be transient and lasts only a few weeks long.
+Furthermore, a randomised trial of 122 patients compared the efficacy of high dose methylprednisolone versus IVIG in treating ITP. They measured platelet count at day 5 as an endpoint. 60% of patients who received high dose methylprednisolone responded at day 5 with an increment of >50 platelet count; In the IVIG group, 79% of patients had >50 platelet count at day 5. Moreover, patients in the age group <60 appear to have greater increment in platelet counts following treatment compared with >60 years. The greater increments was observed over a 3-year period.
+In steroid refractory ITP and chronic ITP, splenectomy should be considered. 2/3 of patients who receive splenectomy achieve normal platelet count. Those who do not achieve normal count can expect some improvements in platelet count.
+Improve
+References
+British Committee for Standards in Haematology - 2003 ITP guidelines
+Haematology
+Immune thrombocytopenia (ITP) in adults

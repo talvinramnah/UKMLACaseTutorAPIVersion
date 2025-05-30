@@ -1,0 +1,140 @@
+Acute respiratory distress syndrome
+Acute respiratory distress syndrome
+Acute
+respiratory
+distress syndrome (ARDS) is caused by the increased permeability of alveolar capillaries leading to fluid accumulation in the alveoli, i.e. non-cardiogenic pulmonary oedema. It is a serious condition that has a mortality of around 40% and is associated with significant morbidity in those who survive.
+Last updated: 3
+rd
+September 2023
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+ARDS is a clinical syndrome that can be triggered by a wide range of direct pulmonary injuries and indirect systemic insults. It represents a final common pathway of acute lung injury from diverse aetiologies.
+Direct lung injury causes:
+Pneumonia (viral, bacterial, fungal) - the most common direct cause
+COVID-19 is a significant cause of ARDS
+Aspiration of gastric contents
+Pulmonary contusion
+Inhalation injury
+Toxic gas inhalation
+Smoke inhalation
+Near-drowning
+Primary pulmonary vasculitis
+Indirect lung injury causes:
+Sepsis - the most common overall cause of ARDS
+Particularly gram-negative septicaemia
+Major trauma with shock and multiple transfusions
+Pancreatitis
+Major burns
+Non-cardiogenic shock
+Drug overdose
+Opioids
+Salicylates
+Transfusion-related acute lung injury (TRALI)
+Severe non-thoracic trauma
+Cardiopulmonary bypass
+Risk Factors
+Pre-existing alcohol misuse
+Cigarette smoking
+Advanced age
+Genetic predisposition
+Polymorphisms in genes related to inflammation, coagulation, and endothelial function
+Obesity
+Diabetes mellitus
+Chronic liver disease
+Modifying Factors
+Mechanical ventilation strategies can exacerbate lung injury
+High tidal volumes
+High airway pressures
+Fluid management
+Excessive fluid administration may worsen outcomes
+Oxygen toxicity
+Prolonged exposure to high FiO₂
+NICE guidelines recognise that early identification of patients at risk of developing ARDS is crucial for implementing preventative strategies, particularly in those with sepsis, trauma, or other predisposing conditions.
+Improve
+Clinical features
+Acute
+Respiratory
+Distress Syndrome (ARDS) is a clinical syndrome characterised by acute onset of hypoxemia and bilateral pulmonary infiltrates, in the absence of cardiac failure. The clinical features of ARDS can vary but commonly include:
+- Acute Onset: Symptoms usually develop within 1 week of an inciting event or worsening of an existing condition.
+-
+Dyspnoea
+: Shortness of breath is usually the first symptom and is often severe.
+- Hypoxemia: Low levels of oxygen in the blood, typically with a PaO2/FiO2 ratio less than 300 mmHg.
+-
+Tachypnoea
+- Crackles
+-
+Tachycardia
+- Use of Accessory Muscles
+- Cyanosis
+Improve
+Investigations
+Diagnostic Approach
+ARDS is primarily a clinical diagnosis based on the Berlin Definition criteria, requiring assessment of timing, chest imaging, origin of oedema, and severity of hypoxaemia
+Initial investigations should focus on both confirming ARDS and identifying the underlying cause
+No single diagnostic test exists for ARDS
+- diagnosis requires integration of clinical, radiological and physiological parameters
+First-line Investigations
+Arterial blood gas (ABG)
+Essential for assessing severity of hypoxaemia and calculating PaO2/FiO2 ratio
+Severity classification per Berlin criteria: mild (200-300 mmHg), moderate (100-200 mmHg), severe (<100 mmHg)
+Also provides information on acid-base status and ventilation (PaCO2)
+Chest imaging
+Chest X-ray: bilateral opacities not fully explained by effusions, collapse or nodules
+CT chest may be considered if diagnosis is uncertain or to exclude alternative pathologies
+Radiological findings often lag behind clinical deterioration
+Echocardiography
+Critical to exclude cardiogenic pulmonary oedema
+Assesses left ventricular function and estimates filling pressures
+NICE CG187 recommends echocardiography in all patients with unexplained
+respiratory
+failure
+Microbiological sampling
+Blood cultures, sputum cultures, and respiratory tract samples
+Bronchoalveolar lavage (BAL) may be indicated if infection is suspected but standard cultures are negative
+Consider testing for viral pathogens including influenza and SARS-CoV-2
+Additional Investigations
+Biomarkers
+No specific biomarkers are validated for routine clinical use in ARDS
+Inflammatory markers (CRP, procalcitonin) may help identify underlying infection
+Lung ultrasound
+Can detect B-lines (indicating interstitial oedema), pleural effusions, and consolidation
+Increasingly used as a bedside tool for rapid assessment and monitoring
+Investigations for underlying cause
+Guided by clinical suspicion of the precipitating condition
+May include pancreatic enzymes (pancreatitis), toxicology screens (drug-induced), or specific tests for autoimmune conditions
+Identifying and treating the underlying cause is crucial for improving outcomes
+Improve
+Diagnosis
+Criteria (American-European Consensus Conference)
+acute onset (within 1 week of a known risk factor)
+pulmonary oedema: bilateral infiltrates on chest x-ray ('not fully explained by effusions, lobar/lung collapse or nodules)
+non-cardiogenic (pulmonary artery wedge pressure needed if doubt)
+pO2/FiO2 < 40kPa (200 mmHg)
+Improve
+Management
+Management
+due to the severity of the condition patients are generally managed in ITU
+oxygenation/ventilation to treat the hypoxaemia
+general organ support e.g. vasopressors as needed
+treatment of the underlying cause e.g. antibiotics for sepsis
+certain strategies such as prone positioning and muscle relaxation have been shown to improve outcome in ARDS
+Improve
+References
+Royal College of Physicians - 2011 Acute lung injury review
+Radiopaedia - Acute respiratory distress syndrome
+Respiratory
+Acute respiratory distress syndrome

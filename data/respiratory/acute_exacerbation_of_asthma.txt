@@ -1,0 +1,162 @@
+Acute exacerbation of asthma
+Acute exacerbation of asthma
+Asthma is a very common chronic obstructive inflammatory condition of the airways. It affects around 1 in 11 people in the UK and it most commonly presents early in life.
+An
+acute exacerbation of asthma
+(or an asthma attack) is the progressive worsening of symptoms including
+dyspnoea
+,
+wheeze
+,
+cough
+, and chest tightness over an acute or subacute time period. An acute asthma exacerbation will often be marked by a sharp decrease in pulmonary function, demonstrated by a reduced peak expiratory flow rate (PEFR) compared to their baseline level or an estimated value based on the patient's height and age. According to a review in BMC Pulmonary Medicine from 2017, around 8.4% of patients with asthma in the UK are likely to have an asthma exacerbation each year. In 2018, 1400 people died as a result of an asthma exacerbation in the UK.
+Exacerbations of asthma can be stratified into severity groups ranging from moderate to near-fatal. This categorization is based on multiple factors including clinical features, PEFR and investigation findings.
+Last updated: 22
+nd
+November 2023
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Acute exacerbation of COPD
+1.50
+Acute exacerbation of asthma
+1
+Pulmonary embolism
+0.07
+Pneumothorax
+0.02
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Classification
+An acute exacerbation of asthma can be classified based on the patient's PEFR, arterial oxygen saturation (SpOâ‚‚), partial arterial pressure of oxygen (PaOâ‚‚), and partial arterial pressure of carbon dioxide (PaCOâ‚‚). The classification helps us to know in which settings and by which methods we should be treating patients with acute exacerbations of asthma. The National Institute of Health and Care Excellence (NICE) categorize acute exacerbations of asthma as follows:
+Moderate acute asthma exacerbation:
+Increasing symptoms.
+PEFR >50-75% of the patient's best or predicted score.
+No features of acute severe asthma.
+Acute severe asthma exacerbation:
+PEFR 33-50% of the patient's best or predicted score.
+Respiratory
+rate (RR) ≥ 25 breaths per minute.
+Heart rate (HR) ≥ 110 beats per minute.
+Inability to complete sentences in one breath.
+Life-threatening asthma exacerbation:
+PEFR <33% of the patient's best or predicted score.
+SpOâ‚‚ <92%.
+In life-threatening asthma exacerbations, PaCOâ‚‚ will be normal. If the PaCOâ‚‚ rises, then this is now classed as a near-fatal asthma exacerbation.
+PaOâ‚‚ <8kPa.
+Absence of audible breath sounds over the chest (silent chest).
+Cyanosis (usually of the lips).
+Reduced respiratory effort.
+New-onset arrhythmia.
+Exhaustion.
+Reduced Glasgow coma score (GCS).
+Hypotension.
+Near-fatal asthma exacerbation:
+Raised PaCOâ‚‚ (>6kPa) and/or need for mechanical ventilation.
+Guidelines are inserted verbatim.
+Improve
+Clinical features
+Acute exacerbations of asthma can be unprovoked or be provoked by viruses (the most common being rhinovirus), bacteria, allergens such as mold and pet dander, or tobacco smoke.
+Acute exacerbations of asthma are usually
+sub-acute in onset
+, developing in less than six hours. Patients will typically present with progressive worsening of
+breathlessness
+,
+cough
+,
+wheeze
+,
+and
+chest tightness
+. Other signs and symptoms may suggest an increase in severity of the exacerbation, including:
+Tachypnoea
+.
+Tachycardia.
+Inability to speak in full sentences
+A silent chest
+50% of patients who present with a severe acute exacerbation of asthma, however, will not have any of these features.
+Improve
+Investigations
+The 2019 British Thoracic Society and SIGN guidelines on the management of asthma recommend the following investigations:
+PEFR
+or forced expiratory volume in one second (FEV1). This is used to assess the severity of the patient's acute exacerbation and to aid in decision making about treatment strategies and admitting to hospital.
+In an acute setting, PEFR is often easier.
+PEFR is expressed as a percentage of the patient's best or predicted score prior to coming into hospital. The predicted score is based on the patient's age and height, but should only be used if the patient does not have an accurate best score from the last two years.
+SpOâ‚‚
+measurement using a pulse oximeter. Normal saturation levels are >94%. A drop in SpOâ‚‚ <92% suggests that the acute exacerbation of asthma is life-threatening and requires urgent treatment. It is also associated with an increased risk of hypercapnia. Pulse oximetry is inadequate if the patient is in shock or is anaemic.
+Arterial blood gas
+(ABG) is indicated if the patient's SpOâ‚‚ is <92% or PEFR is â≤30% of best or predicted. ABG measurement includes PaOâ‚‚ and PaCOâ‚‚. Generally, the more severe the obstruction, the lower the PaOâ‚‚ will be. Hypercapnia (PaCOâ‚‚ >6kPa) suggests that a patient's attack is near-fatal. It typically correlates with an FEV1 around 20% of predicted or less. The majority of patients will have a
+respiratory
+alkalosis, but if the patient becomes hypercapnic they are likely to become acidotic. In very severe cases this can result in metabolic acidosis.
+Venous blood gas
+may be used if ABG is not possible. However, venous PaOâ‚‚ does not correlate well with arterial PaOâ‚‚ and hence is less useful for the investigation of asthma exacerbations.
+A
+chest X-ray
+might isn't generally required unless another diagnosis such as pneumonia is suspected.
+Improve
+Differential diagnosis
+Patients who are presenting with a severe acute exacerbation of asthma commonly have a previous diagnosis of asthma, and often have had previous hospital admission due to an acute exacerbation of asthma.
+Some other possible differentials to consider include:
+Acute exacerbation of COPD
+. This can be difficult to differentiate from an acute exacerbation of asthma. However, patients with COPD are more likely to be diagnosed later in life than in asthma, will often have a history of smoking (usually at least twenty pack-years) and won't have a history of diurnal variation and day-to-day worsening.
+Pneumothorax
+. This can have a very similar presentation to an acute exacerbation of asthma, but it does commonly cause pleuritic pain which isn't classically seen in asthma.
+If it is suspected as a possible diagnosis, it is important to perform a chest x-ray to look for a pneumothorax.
+Foreign body aspiration
+. This may also cause a
+wheeze
+, but would likely be more acute onset. It can be differentiated from asthma by performing a chest x-ray and looking for radiopaque structures.
+Vocal cord dysfunction
+. This occurs when the vocal cords do not open properly. Clinically presents with
+dyspnoea
+and stridor. It can be difficult to differentiate from asthma, particularly as many patients presenting with vocal cord dysfunction have asthma as well. There may be evidence of vocal cord dysfunction on a video laryngostroboscopy.
+Pulmonary embolism
+. Usually presents more acutely than an exacerbation of asthma. It also commonly presents with pleuritic pain and haemoptysis which aren't classically seen in an acute exacerbation of asthma.
+Improve
+Management
+Patients with near-fatal or life-threatening acute asthma should be
+admitted to hospital
+and treatment should be started as soon as possible. Patients with features of severe acute asthma should also be admitted if they fail to respond to initial treatment.
+If patients are hypoxaemic, it is important to start them on
+supplemental
+oxygen therapy
+. If patients are acutely unwell they should be started on 15L of supplemental via a non-rebreathe mask, which can then be titrated down to a flow rate where they are able to maintain a SpOâ‚‚ 94-98%. Nasal cannulae and Venturi masks may also be used.
+Initial treatment of an acute exacerbation of asthma is high-dose inhaled
+short acting betaâ‚‚-agonist
+(SABA) e.g. salbutamol, terbutaline. In patients without features of life-threatening or near-fatal asthma, this can be given by a standard pressurised metered-dose inhaler (pMDI) or by an oxygen-driven nebulizer. In patients with features of a life-threatening exacerbation of asthma, nebulised betaâ‚‚-agonists are recommended. If the patient doesn't respond to an initial dose of betaâ‚‚-agonist via an inhaler, nebulisation should be considered.
+All patients who present with an acute exacerbation of asthma should be given 40-50mg of
+prednisolone
+orally (PO) daily, which should be continued for at least five days or until the patient recovers from the attack. During this time, patients should continue their normal medication routine including inhaled corticosteroids.
+In patients with a severe or life-threatening asthma, or in patients who have not responded to betaâ‚‚-agonist and corticosteroid treatment, nebulised
+ipratropium bromide
+, a short acting muscarinic antagonist, can be given 0.5mg 4-6 hourly.
+It is possible to add
+magnesium sulphate
+either intravenously or nebulised as a treatment option in those who have a severe or life-threatening acute exacerbation of asthma and haven't responded to initial treatment. However, there is little evidence for the use of magnesium sulphate. Similarly,
+intravenous aminophylline
+may be considered in those with a near-fatal or life-threatening acute exacerbation of asthma.
+Mechanical ventilation
+is a clinical decision for which there are few clear indications apart from coma and arrest. However, findings such as severe fatigue, cardiovascular compromise and
+pneumothorax
+may be useful in decision making about mechanical ventilation. Mechanical ventilation can be helpful in treating acute exacerbations of asthma but there is also a high rate of complications associated. According to the British Journal of Anaesthesia around half of all life-threatening complications of acute exacerbations of asthma occur following mechanical ventilation. One such complication is hypotension resulting in complete cardiac compromise. Therefore, patients should only be commenced on mechanical ventilation with advice and aid from senior physicians and an anaesthetic consult.
+Following a patient presenting with an acute exacerbation of their asthma, a review of their situation and treatment plan should be taken, including:
+Any possible triggers for the attack.
+Inhaler use and technique.
+Optimisation of treatment and a plan for preventing further exacerbations.
+Improve
+References
+BNF - Acute asthma treatment summary
+Respiratory
+Acute exacerbation of asthma

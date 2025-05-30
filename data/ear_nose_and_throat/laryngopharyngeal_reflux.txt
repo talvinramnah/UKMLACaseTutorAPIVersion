@@ -1,0 +1,138 @@
+Laryngopharyngeal reflux
+Laryngopharyngeal reflux
+Laryngopharyngeal reflux (LPR) is a condition caused by gastro-oesophageal reflux resulting in inflammatory changes to the larynx/hypopharynx mucosa. It is a common diagnosis and thought to account for around 10% of
+ear, nose and throat
+referrals.
+Last updated: 23
+rd
+July 2024
+Epidemiology
+Incidence: 500.00 cases per 100,000 person-years
+Peak incidence: 40-50 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Allergic rhinitis
+4.00
+Laryngopharyngeal reflux
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Risk Factors
+Obesity:
+Increased intra-abdominal pressure in obese patients can contribute to the dysfunction of the lower oesophageal sphincter (LES), predisposing them to reflux.
+Dietary habits:
+Consumption of fatty foods, caffeine, alcohol, chocolate, and spicy foods can relax the LES or increase gastric acid production.
+Smoking:
+Nicotine weakens the LES and impairs mucosal defence mechanisms.
+Meds:
+Certain medications such as calcium channel blockers, anticholinergics, and nitrates can reduce LES tone.
+Pregnancy:
+Hormonal changes and increased intra-abdominal pressure during pregnancy can exacerbate reflux symptoms.
+Underlying Causes
+Dysfunction of the lower oesophageal sphincter (LES):
+Incompetence or transient relaxation of the LES allows gastric contents to reflux into the oesophagus and pharynx.
+Anatomical abnormalities:
+Hiatal hernia is a common anatomical defect that predisposes individuals to gastro-oesophageal reflux disease (GORD) and subsequently laryngopharyngeal reflux. Other structural anomalies may include oesophageal strictures or diverticulae.
+Conditions such as gastroparesis or delayed gastric emptying increase the risk for laryngopharyngeal reflux by prolonging stomach content retention time, thus increasing intragastric pressure.: Some patients may have an increased sensitivity to even minimal amounts of acid exposure due to heightened sensory nerve responses in the pharynx and larynx.
+Prolonged nasogastric tube placement can disrupt normal gastroesophageal barriers and promote reflux.
+Supine positioning during sleep reduces gravitational clearance of gastric contents from the oesophagus, increasing nocturnal episodes of laryngopharyngeal reflux.
+Improve
+Pathophysiology
+Laryngopharyngeal reflux (LPR) is a condition characterised by the retrograde flow of gastric contents into the larynx and pharynx, leading to a variety of symptoms and potential tissue damage.
+The pathophysiology begins with the dysfunction of the lower oesophageal sphincter (LES), which normally acts as a barrier to prevent gastric contents from re-entering the oesophagus. In LPR, transient relaxations or structural incompetence of the LES allow acidic and non-acidic gastric contents to ascend into the oesophagus.
+As these contents move proximally, they may traverse past an incompetent upper oesophageal sphincter (UES). The UES typically functions as a secondary barrier, protecting the laryngopharyngeal structures from exposure to refluxate. When this barrier fails, gastric contents can reach sensitive mucosal surfaces in the larynx and pharynx.
+Upon contact with these tissues, several mechanisms contribute to symptomatology and tissue injury:
+Direct chemical injury:
+Gastric acid and pepsin can directly damage epithelial cells in the laryngopharyngeal region. Pepsin remains active even at neutral pH levels when bound to mucosal surfaces, exacerbating injury.
+Inflammatory response:
+Exposure to acidic content triggers an inflammatory cascade. Pro-inflammatory cytokines such as IL-6 and TNF-α are released, causing local inflammation, oedema, erythema, and increased vascular permeability.
+Mucosal defence impairment:
+Repeated exposure diminishes mucosal defences including bicarbonate secretion and mucus production. This impairs epithelial repair mechanisms and prolongs inflammation.
+The resultant clinical manifestations include chronic
+cough
+,
+hoarseness
+, throat clearing,
+globus
+sensation, dysphonia, and
+dysphagia
+. These symptoms arise due to both direct irritation of sensory nerve endings in affected tissues and secondary inflammatory changes that alter normal function.
+Anatomically, LPR affects various structures within the upper aerodigestive tract. The posterior commissure of the larynx is particularly susceptible due to its anatomical position relative to refluxate flow. Subglottic stenosis may occur over time due to chronic inflammation-induced fibrosis.
+Improve
+Clinical features
+Features
+around 50% of patients have the sensation of a lump in the throat '
+globus
+pharyngeus'
+typically felt in the midline
+typically worse when swallowing saliva rather than eating or drinking
+other features
+hoarseness
+(70%)
+chronic
+cough
+(50%)
+dysphagia
+(35%)
+heartburn
+(30%)
+sore throat
+examination findings
+the external examination of the neck should be normal, with no masses
+the posterior pharynx may appear erythematous
+Improve
+Investigations
+Diagnosis
+in the absence of red flags a clinical diagnosis of LPR can be made without further investigations
+the NICE cancer referral guidelines should be reviewed for red flags, examples of which include:
+persistent, unilateral throat discomfort
+dysphagia
+, odynophagia (i.e. with food rather than just saliva)
+persistent
+hoarseness
+Improve
+Differential diagnosis
+Laryngopharyngeal reflux (LPR) can present similarly to a number of other conditions, making an accurate diagnosis challenging. The differential diagnosis primarily includes gastroesophageal reflux disease (GERD), eosinophilic oesophagitis (EoE), and
+globus
+pharyngeus.
+Gastroesophageal Reflux Disease (GERD)
+Both GERD and LPR are manifestations of the same pathophysiological process involving abnormal reflux of gastric contents, but they differ in their clinical presentation. While GERD typically presents with
+heartburn
+and regurgitation, LPR is often characterised by atypical symptoms such as chronic
+cough
+,
+hoarseness
+, throat clearing, and globus sensation.
+The presence or absence of typical GERD symptoms does not reliably differentiate between these two conditions as up to 70% of patients with LPR do not experience heartburn.
+However, nocturnal symptoms are more common in LPR than in GERD due to the absence of swallowing during sleep which normally helps clear any refluxate from the oesophagus.
+Eosinophilic Oesophagitis (EoE)
+This is a chronic immune-mediated condition characterised by eosinophilic infiltration of the oesophageal mucosa. It shares some clinical features with LPR including
+dysphagia
+and food impaction but unlike LPR it may also present with failure to thrive in children or young adults.
+The hallmark histological finding on endoscopic biopsy is >15 eosinophils per high power field which is absent in LPR.
+Furthermore, EoE often responds to dietary modification and topical corticosteroids whereas LPR is primarily managed by lifestyle changes and acid suppression therapy.
+Globus Pharyngeus
+This is characterised by a persistent or intermittent non-painful sensation of a lump or foreign body in the throat. While it shares this symptom with LPR, it is typically devoid of other LPR symptoms such as hoarseness, chronic cough, or throat clearing.
+Moreover, the globus sensation in globus pharyngeus does not change with swallowing or eating which differentiates it from LPR where symptoms may worsen postprandially.
+Investigations including laryngoscopy and barium swallow are usually normal in globus pharyngeus while they may reveal signs of inflammation or damage in LPR such as vocal cord erythema or oedema.
+Improve
+Management
+Management
+lifestyle measures
+possible triggers include fatty foods, caffeine, chocolate and alcohol
+proton pump inhibitor
+sodium alginate liquids (e.g. Gaviscon)
+Improve
+Ear, nose and throat
+Laryngopharyngeal reflux

@@ -1,0 +1,80 @@
+Cervical spondylitic myelopathy
+Cervical spondylitic myelopathy
+Cervical spondylosis is a degenerative condition affecting the cervical spine, essentially osteoarthritis of the cervical vertebral bodies. If the spinal canal is narrowed due to this process it can press on the spinal cord resulting in neurological dysfunction. Myelopathy is thought to occur in around 5-10% of patients who have cervical spondylosis.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 20.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Cervical spondylitic myelopathy
+1
+Transverse myelitis
+0.03
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Features
+a variety of motor weakness, sensory loss and bladder/bowel dysfunction may be seen
+neck pain
+wide-based, ataxic or spastic gait
+upper motor neuron weakness in the lower legs - increased reflexes, increased tone and upgoing plantars
+bladder dysfunction e.g. urgency, retention
+Improve
+Investigations
+Cervical spondylotic myelopathy (CSM) requires a systematic diagnostic approach combining clinical assessment with appropriate imaging to confirm the diagnosis and determine the extent of spinal cord compression.
+Initial Imaging
+Plain radiographs
+of the cervical spine (AP and lateral views)
+May demonstrate degenerative changes including osteophyte formation, disc space narrowing, and facet joint arthropathy
+Limited utility as they do not directly visualise the spinal cord or neural elements
+Can help identify instability with flexion-extension views
+MRI of the cervical spine
+is the gold standard investigation
+Provides detailed assessment of spinal cord compression, cord signal changes, and the extent of degenerative changes
+T2-weighted images may show hyperintense signal within the cord, indicating myelomalacia or oedema
+T1-weighted images may demonstrate hypointense signal, suggesting more chronic changes or myelomalacia
+Sagittal images allow assessment of canal stenosis at multiple levels
+Axial images help evaluate the cross-sectional area of the spinal cord and foraminal stenosis
+NICE recommends MRI as the first-line investigation when myelopathy is suspected
+Additional Investigations
+CT myelography
+may be considered when:
+MRI is contraindicated (e.g., pacemakers, claustrophobia)
+Further clarification of bony anatomy is required for surgical planning
+There is a discrepancy between clinical findings and MRI results
+Neurophysiological studies
+may be helpful in selected cases:
+Somatosensory evoked potentials (SSEPs) can detect subclinical cord compression
+Motor evoked potentials (MEPs) may help assess corticospinal tract function
+These studies are not routinely required but may help in complex cases or when clinical-radiological correlation is unclear
+Blood tests are not diagnostic for CSM but may be performed to:
+Exclude alternative diagnoses (e.g., vitamin B12 deficiency, which can mimic myelopathy)
+Assess surgical fitness if intervention is being considered
+Dynamic MRI
+(in flexion and extension) may occasionally be required:
+Helps identify dynamic cord compression not apparent on standard imaging
+Particularly useful when there is suspicion of instability contributing to myelopathy
+Improve
+Management
+All patients with degenerative cervical myelopathy should be urgently referred for assessment by specialist spinal services (neurosurgery or orthopaedic spinal surgery). This is due to the importance of early treatment. The timing of surgery is important, as any existing spinal cord damage can be permanent. Early treatment (within 6 months of diagnosis) offers the best chance of a full recovery but at present, most patients are presenting too late. In one study, patients averaged over 5 appointments before diagnosis, representing >2 years.
+Currently, decompressive surgery is the only effective treatment. It has been shown to prevent disease progression. Close observation is an option for mild stable disease, but anything progressive or more severe requires surgery to prevent further deterioration. Physiotherapy should only be initiated by specialist services, as manipulation can cause more spinal cord damage.
+Improve
+Complications
+Complications of surgery
+Postoperatively, patients with cervical myelopathy require ongoing follow-up as pathology can 'recur' at adjacent spinal levels, which were not treated by the initial decompressive surgery. This is called adjacent segment disease. Furthermore, surgery can change spinal dynamics increasing the likelihood of other levels being affected. Patients sometimes develop mal-alignment of the spine, including kyphosis and spondylolisthesis, and this can also affect the spinal cord. All patients with recurrent symptoms should be evaluated urgently by specialist spinal services.
+Improve
+Neurology
+Cervical spondylitic myelopathy

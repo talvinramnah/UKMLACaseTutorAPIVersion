@@ -1,0 +1,199 @@
+Neoplastic spinal cord compression
+Neoplastic spinal cord compression
+Spinal cord compression is an oncological emergency and affects up to 5% of cancer patients. Extradural compression accounts for the majority of cases, usually due to vertebral body metastases. It is more common in patients with lung, breast and prostate cancer.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 10.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Lower
+back pain
+(non-specific, without sciatica)
+300.00
+Lower back pain: prolapsed disc
+50.00
+Osteoporotic vertebral fracture
+5.00
+Neoplastic spinal cord compression
+1
+Cauda equina syndrome
+0.10
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Neoplastic spinal cord compression can be due to:
+Metastatic deposits
+Primary cancer of the spine
+Metastatic spinal cord compression is more common. Up to 90% of masses on spinal imaging can be attributed to metastatic deposits. The three most common primary cancers that metastasis to bone are:
+Breast
+Account for approximately 21% of spinal metastases.
+Lung
+Accounts for approximately 19% of spinal metastases.
+Small cell lung cancer tends to be more aggressive than non-small cell lung cancer and has often metastasised at presentation.
+Prostate
+Accounts for 8% of spinal metastases.
+Primary spinal tumours account for only a small percentage of neoplastic spinal tumours and include sarcomas and haematological cancers.
+Myeloma is a cancer of plasma cells
+There is a change in the balance between osteoblast and osteoclast activity, favouring bone resorption. This leaves bones such as vertebrae weaker and prone to collapse. Fragments of bone from the compression fracture can compress on the spine.
+A plasmacytoma is a collection of plasma cells that can form in the vertebrae or soft tissues on the spine, and if large enough cause cord compression.
+Lymphoma
+CNS (central nervous system) lymphomas affect the brain and more rarely the spinal cord.
+These extra-nodal lesions can be found in the extradural lymphoid tissue or intramedullary.
+Lymphoma can also metastasise to the spine via the blood, lymphatics and also leptomeningeal spread from brain lesions.
+Improve
+Pathophysiology
+The spine consists of:
+The spinal cord
+Bony vertebrae
+These encase the spinal cord.
+Intervertebral discs
+These are fibrocartilaginous discs with a jelly-like centre called the nucleus pulposus.
+They are interlinked with the vertebrae to make up the spine.
+Other soft tissues such as ligaments
+Neoplastic spinal cord compression is due to primary cancer or cancer deposits (metastases) that grow in the vertebrae or soft tissues of the spine. They destroy normal spinal architecture leading to pain, and mass effect can cause compression of the spinal cord. The pressure on the spinal cord gives rise to symptoms such limb weakness below the level of compression, sphincter disturbance etc.
+Metastases usually spread via the blood (haematogenous), lymphatics system or transcoelomic spread (cancer spread across a body cavity such as the peritoneum).
+Metastases to the bone are usually via haematogenous spread. For cancers such as prostate and breast, this is via the venous system. Blood from these areas drains into the paravertebral venous plexus. In contrast, lung cancers usually spread via the arterial system.
+Improve
+Clinical features
+Features
+back pain
+- the earliest and most common symptom - may be worse on lying down and coughing
+lower limb weakness
+sensory changes: sensory loss and numbness
+neurological signs depend on the level of the lesion. Lesions above L1 usually result in upper motor neuron signs in the legs and a sensory level. Lesions below L1 usually cause lower motor neuron signs in the legs and perianal numbness. Tendon reflexes tend to be increased below the level of the lesion and absent at the level of the lesion
+Improve
+Investigations
+Neoplastic spinal cord compression is an
+oncology
+emergency that needs investigating and managing in a secondary care setting.
+The 2019 NICE guidelines recommend a whole MRI spine within 24 hours of presentation to the hospital as the gold standard investigation. If a patient presents to a hospital where they do not have the facilities to accommodate this, the patient should be transferred to a unit where this can be done.
+Sagittal T1 (fat appears bright) and T2 (fat and water appear bright) weighted images of the whole spine are required from an MRI scan, along with axial imaging. The sensitivity of MRI in detecting neoplastic spinal cord compression ranges from 44%-93% and specificity 90%-98%. Therefore MRI is very good at ruling out people who have spinal problems that are not due to cancer.
+Not all patients will be able to undergo MRI (e.g. severe claustrophobia, implants, etc.) therefore these patients will need to be discussed with the MSCC coordinator to decide on the best imaging modality. Options include Multidetector CT, but this does not accurately show spinal cord lesions compared to MRI. CT Myelography is another option where the contrast agent in instilled intra-thecal and then images are taken. This is an invasive procedure and access to this may be limited.
+Plain radiographs have no role in the diagnosis of neoplastic spinal cord compression.
+Blood tests are not diagnostic of the condition but can be useful as part of management work up:
+Full blood count
+To see if there is any evidence of anaemia or bone marrow infiltration due to cancer.
+Renal function
+Maybe impaired due to underlying cancer such as in myeloma or prostate cancer if this is causing obstructive uropathy.
+Liver function tests
+Maybe abnormal if there are liver metastases.
+Bone profile
+Elevated calcium can be due to bone metastases or a feature of a paraneoplastic syndrome.
+Clotting studies
+Will need to be checked if the patient is deemed for surgical intervention.
+Some patients will present with neoplastic spinal cord compression with no previous cancer diagnosis. These patients will need further investigations to identify the primary malignancy. The 2017 NICE guidelines recommend:
+Referral to the malignancy of unknown primary team (all cancer centres will have this).
+Full history and examination.
+Ask about constitutional symptoms.
+Examination should include checking for lymphadenopathy, breast examination and digital rectal examination.
+Further investigation will be guided by the results of the history and examination but often include
+Tumour markers e.g. PSA in men, CA125 in women, LDH
+Myeloma screen
+Chest x-ray
+CT of the chest, abdomen and pelvis.
+Improve
+Differential diagnosis
+Neoplastic spinal cord compression presents with
+back pain
+in 90% of cases. Possible differentials include:
+Mechanical back pain:
+This is by far the most common cause of back pain, usually due to overstretching muscles/ligaments of the spine.
+Similarities - pain localised to the spine and paraspinal muscle area.
+Differences - no associated neurological symptoms such as limb weakness or sphincter disturbance.
+Prolapsed intervertebral disc
+This commonly occurs in the lumbosacral region of the spine.
+Similarities - back pain that may be associated with radicular pain, paraesthesia and weakness due to compression of spinal roots.
+Differences - not typically associated with constitutional symptoms such as weight loss.
+Osteoporotic vertebral fracture
+Similarities - acute back pain at any level of the spine.
+Differences - pain improves on lying flat.
+There may be a history of other fragility fractures.
+Other less common causes of back pain to keep in mind are:
+Epidural/subdural haematoma
+There will usually be a history of recent trauma or spinal procedure such as an epidural.
+This event is more likely if the patient is on anticoagulant therapy.
+Infective causes including epidural/subdural abscess, vertebral osteomyelitis and discitis
+Acute infection may be accompanied by febrile illness; however, fever can be a feature of malignancy as well
+You may have a positive blood culture growth (
+Staphylococcus aureus
+is the most common pathogen implicated in discitis).
+Trauma
+Trauma affecting the spine should be evident from the history or the way the patient presents to the hospital.
+Vertebral subluxation
+This can happen in inflammatory conditions such as rheumatoid arthritis.
+Improve
+Management
+The main aims of treatment for neoplastic spinal cord compression are to relieve pain and minimise neurological deficit. Initial management needs to take place in secondary care. Further rehabilitation after definitive management may take place in the primary care setting.
+The 2019 NICE guidelines comprehensively cover how neoplastic spinal cord compression should be managed:
+Mobilisation
+Patients should be nursed supine and central spine alignment should be maintained.
+Regular turns to prevent pressure ulcers are required.
+Corticosteroids
+Any suspected neoplastic spinal cord compression patients should be commenced on corticosteroids immediately.
+Usually dexamethasone is the agent of choice.
+Steroids need to be continued till a definitive treatment plan is made; and then can be tapered off.
+Whether the patient is diabetic or not, they need regular blood glucose monitoring due to the risk of steroid-induced diabetes.
+Analgesia
+Laxatives should be co-prescribes with any opioid analgesics.
+Sphincter function (bladder and bowel incontinence) needs to be assessed for daily. A patient may be continent at presentation, but this can change depending on the extent of the cord compression.
+Urinary catheterisation may be required for acute urinary retention.
+Bowel management can be complex requiring simple measures such as medication (laxatives or constipating agents) up to manual evacuation.
+Venous thromboembolism (VTE) prophylaxis
+These patients are at high risk of VTE given their active cancer and immobility.
+Anti embolic stockings, intermittent pneumatic pressure devices and low molecular weight heparin are options to manage VTE risk.
+The definitive treatment for neoplastic cord compression should be commenced within 24 hours of diagnosis. This is to prevent any further neurological deterioration. A multidisciplinary team (oncologists, orthopaedic surgeons etc.) will be involved in treatment decisions in conjunction with the patient.
+Surgical management can be used to decompress and stabilise the spine if the patient is suitable for surgery. The patient needs to be 'fit' to undergo surgical intervention and ASA (American Society of Anaesthetics) grading is recommended by NICE to assess patients physical status. NICE also advocate the use of the revised Tokuhashi scoring system which gives prognostic outcome in terms of mortality for patients with spinal metastases. Surgery should only be offered to patients with an expected survival of greater than 3 months. Also, if the patient has a severe neurological impairment (i.e. paraplegia or tetraplegia) for greater than 24 hours, spinal stabilisation surgery should only be offered for pain relief.
+Radiotherapy can be the sole treatment or given post-operative. All patients who are operated on should be offered postoperative radiotherapy. Patients not suitable for spinal surgery should receive radiotherapy treatment; unless they have severe neurological impairment for over 24 hours and pain is under control, or their prognosis is deemed to be too poor for any treatment (i.e. imminently palliative).
+Physiotherapy to aid and maximise mobility for the patients who are still ambulatory (patients do not necessarily need to remain an inpatient in an acute hospital; may be discharged home with OPD follow up or discharged to a rehabilitation centre).
+Improve
+Complications
+Complications can be split into physical and psychological.
+Physical complications:
+The severity of the sensory and motor deficit below the level of the lesion will depend on the extent of the cord compression.
+Patients may lose their ability to walk and therefore their care needs will change.
+Bladder and bowel incontinence as described above.
+Pressure ulcers, infection and DVT risk related to immobility.
+Immobile patients will need regular turns to prevent pressure ulcers.
+Pressure ulcers can become infected and patients are at higher risk of pneumonia.
+Related to surgery and radiotherapy treatment.
+Surgical complications include wound complications but also any anaesthetic complications such as postoperative atelectasis.
+Radiotherapy complications include skin irritation/blistering.
+Psychological complications:
+Depression due to the effects of neoplastic spinal cord compression such as loss of mobility and independence.
+Shock and anxiety if this is a new diagnosis of cancer.
+Improve
+Prognosis
+Prognosis can be viewed in terms of neurological outcome and mortality.
+The revised Tokuhashi scoring system, as mentioned in the management section, is recommended by NICE to help assess a patient to determine prognosis, and therefore suitability for surgical intervention. It takes into account:
+Overall health
+The number of non-vertebral  bone metastases
+The number of vertebral metastases
+The number of metastases to other internal organs
+Primary cancer
+Neurological deficit
+Each parameter is scored 0-2. Dependent on the score, a patient will have a prognosis of:
+Fewer than 6 months
+6 months to 1 year
+Greater than 1 year
+Patients are more likely to be considered for surgical intervention if they have a more favourable prognosis.
+The neurological outcome is heavily determined by the severity of neurological deficit at presentation as the spinal cord has limited potential to regenerate. The Scottish Cord Compression Group found that only 7% of patients regained ambulation if they were unable to walk at diagnosis. Furthermore, those with any mobility impairment at presentation were more likely to be discharged into a care setting, as their care needs significantly increased, even with treatment.
+Neoplastic spinal cord compression is usually reflective of advanced disease and therefore the prognosis is poor. Median life expectancy post-diagnosis is 2-3 months.
+Improve
+References
+NICE - 2008 Metastatic spinal cord compression guidelines
+St Luke's Alliance - Suspected metastatic spinal cord compression pathway
+Oncology
+Neoplastic spinal cord compression

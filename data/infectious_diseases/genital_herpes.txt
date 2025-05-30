@@ -1,0 +1,231 @@
+Genital herpes
+Genital herpes
+Genital herpes is a common viral infection caused by type 1 and 2 herpes simplex virus (HSV). HSV infection is lifelong and remains latent in sensory neurones after the initial infection, with the possibility of reactivation later. It is a sexually transmitted infection; transmission can occur even in the absence of symptoms, due to asymptomatic shedding of the virus by the host. The virus replicates inside epithelial cells at mucosal surfaces resulting in vesicles or ulceration of the genitals. Antiviral therapy has a limited role in management: it helps to reduce the severity and duration of symptoms and the risk of complications, but does not cure the patient.
+Last updated: 19
+th
+September 2023
+Epidemiology
+Incidence: 300.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Genital herpes
+1
+Syphilis
+0.03
+Behcet's syndrome
+0.003
+Chancroid
+0.0002
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Genital herpes is predominantly caused by the herpes simplex virus type 2 (HSV-2), though herpes simplex virus type 1 (HSV-1) can also lead to genital lesions, especially in cases of orogenital contact. While HSV-1 traditionally is responsible for orolabial herpes, the incidence of HSV-1 causing genital infections is on the rise.
+The shift in HSV-1 being implicated in genital infections can be attributed to changes in sexual practices, including increased oral-genital contact. As oral hygiene practices have improved and fewer people acquire HSV-1 during childhood, there is an increased susceptibility to HSV-1 in adolescence and adulthood through oral-genital intimacy.
+Certain factors increase the likelihood of acquiring genital herpes, including:
+Multiple sexual partners.
+Having another sexually transmitted infection.
+Being female: Biologically, women are more susceptible to acquiring HSV.
+Having a weakened immune system, whether due to diseases such as HIV or medications such as immunosuppressants.
+It's also worth noting that individuals can be asymptomatic carriers of the virus, shedding the virus intermittently in the absence of symptoms. This silent shedding plays a significant role in the transmission dynamics, making the control and prevention of HSV spread challenging.
+Improve
+Pathophysiology
+Upon initial contact with the mucosal surface or broken skin, HSV adheres to heparan sulphate on the cell surface, facilitating its entry into the cell. The virus then fuses with the cell membrane, releasing its DNA and capsid into the cell's cytoplasm.
+Once inside, the virus navigates to the cell's nucleus, where it starts its replication. HSV uses its DNA polymerase to synthesise new viral DNA.
+After replication, HSV causes the host cell to produce a multitude of viral particles. This viral assembly primarily occurs in the host cell's nucleus, after which new virions are transported to the cell surface.
+Virions exit the infected cell either by causing cell lysis or through exocytosis, thereby infecting neighbouring cells and further propagating the infection.
+Concurrently, HSV infects nerve endings in the dermis, especially the sensory nerve endings. The virus then uses retrograde axonal transport to navigate to the neuron's nucleus in the dorsal root ganglia.
+Once in the dorsal root ganglia, the virus can either initiate a lytic cycle, leading to the death of the neuron, or establish latency. During latency, the virus remains dormant, with its DNA existing as episomes in the host neuron's nucleus. The viral genome is maintained, but there's limited viral protein production, thus evading the host's immune surveillance.
+Factors such as UV light exposure, emotional stress, or immunosuppression can reactivate the latent virus. Upon reactivation, HSV utilises anterograde axonal transport to return to the epidermis, causing recurrent episodes of herpes lesions.
+The host's immune response, primarily involving T-lymphocytes, attempts to control the viral replication and spread. This immune response leads to the inflammatory manifestations seen with herpes lesions and partially controls the infection, but it fails to eradicate the virus.
+Improve
+Clinical features
+Symptoms vary for different people and between sexes. They are usually more severe during primary infection, with recurrences becomes less severe and less frequent with time.
+Presentation in the first episode:
+Genital lesions:
+Grouped painful blisters which burst after 2-3 days, resulting in crusted erosions and ulcers on the external genitalia.
+Lesions can also occur on the thigh, buttocks, cervix and rectum.
+These can be extremely painful, making urinating and even sitting down painful (especially in women).
+Other genital symptoms:
+Tingling or burning pain around the genitals: often occur as a prodrome.
+Dysuria (in women), which can lead to
+urinary retention
+.
+Urethral or vaginal discharge.
+Inguinal lymphadenopathy
+(30%):
+Painful, bilateral enlargement.
+Systemic illness:
+Occur in around 50% of primary episodes.
+Symptoms include: headache,
+fever
+, myalgia, malaise and constipation.
+Duration:
+Primary episodes can last up to 20 days.
+Presentation in recurrent episodes (due to re-activation of latent HSV infection):
+Prodrome:
+Tingling and burning sensation in the genitals.
+May precede the appearance of lesions by up to 48 hours.
+Genital lesions:
+Usually recur in the same area but lesions less severe than in the initial episode.
+Duration:
+Lesions crust and heal within 10 days.
+Improve
+Investigations
+Confirmation of the presence of HSV infection and its type (HSV-1 or 2) are key for diagnosis, prognosis, management and counselling. Ideally genital herpes should be diagnosed in a specialised genitourinary medicine clinic to allow for type identification.
+Polymerase chain reaction (PCR):
+More sensitive than viral culture for detection of the virus, but not available in some locations.
+Most effective if a scraped sample of an ulcer's base can be taken.
+Nucleic acid amplification tests (NAAT) are a type of PCR.
+BASHH 2014 guidelines recommend NAAT as the first-line method of diagnosis in genital herpes.
+Viral culture:
+Most effective if a scraped sample of an ulcer's base can be taken.
+BASHH 2014 guidelines recommend viral culture to diagnose genital herpes if NAAT is not available.
+Serology:
+To test for HSV type-specific antibodies (IgG).
+Presence of antibodies can be used to diagnose HSV infection.
+BASHH 2014 guidelines state virus typing should be done via serology in all patients with a new diagnosis of genital herpes (in addition to NAAT or culture).
+Consider testing for other sexually transmitted infections too if there is a history of unprotected sex.
+Improve
+Differential diagnosis
+Genital ulceration can be of infectious or non-infection aetiology.
+Infectious differentials for genital herpes (most common)
+Primary
+syphilis
+A sexually transmitted infection (STI) caused by
+Treponema pallidum
+, a spirochaetal bacterium.
+Diagnosis involves clinical examination and serology.
+Treatment is with penicillin.
+Similarities: genital ulceration, sexual transmission.
+Differences: singular, usually painless ulcer.
+Chancroid
+STI caused by the gram-negative
+Haemophilus ducreyi
+bacterium.
+Rare in the UK; most common in resource-poor countries.
+Treatment consists of antibiotic therapy.
+Similarities: painful genital ulceration, sexual transmission.
+Differences: single, deep ulcer.
+Lymphogranuloma venereum
+Caused by
+Chlamydia trachomatis
+infection.
+Rare in the UK. Increasing in men who have sex with men.
+First-line treatment is doxycycline.
+Similarities: genital ulceration, lymphadenopathy.
+Differences: lymphadenopathy is unilateral, lack of vesicles, single or few ulcers.
+Candidiasis
+A fungal infection.
+Similarities: genital burning and irritation.
+Differences: absence of ulcers and vesicles, presence of thick white discharge.
+Non-infectious differentials for genital herpes (less common)
+BehÃ§et's disease
+A vasculitis resulting in mucocutaneous, vascular, ophthalmological, gastrointestinal, and CNS manifestations.
+Similarities: genital ulceration.
+Differences: absence of vesicles, coexistence of oral, eye, skin or neurological involvement.
+Fixed drug eruption
+Similarities: genital ulceration.
+Differences: history of medicine use.
+Genital trauma
+Usually due to forced or excessively vigorous sexual intercourse.
+Similarities: genital irritation and erythema.
+Differences: abrasions rather than true ulcers.
+Inflammatory bowel disease
+Similarities: genital ulceration.
+Differences: additional oral ulceration and gastrointestinal symptoms.
+Improve
+Management
+Management of genital herpes depends on whether it is the patient's first episode or a recurrence. All patients should be given verbal and written explanations about genital herpes, including cause, signs and symptoms, treatment, transmission, complications and prognosis.
+Management of a first episode:
+BASHH and NICE recommend that a first episode should ideally be diagnosed and treated at a specialist genitourinary medicine centre, especially if the patient is pregnant or immunocompromised.
+Antiviral therapy
+Indicated within 5 days of onset of symptoms or while new lesions are still forming.
+Aims to reduce the duration and severity of the episode, but do not cure the patient.
+Oral agents are more effective than topical agents.
+Examples include acyclovir, valaciclovir and famciclovir.
+Supportive care
+Analgesia: paracetamol, ibuprofen, topical 5% lidocaine ointment
+Saline bathing
+Ice packs between the legs
+Abstain from sexual intercourse until lesions have gone.
+Management of recurrence:
+Recurrences generally only cause mild symptoms and are self-limiting. Patients should be involved in treatment decisions.
+Recurrences can be treated in general practice, but referral should be considered in pregnancy, immunocompromise and complications.
+Supportive self-care only
+Analgesia, saline bathing, ice packs.
+Abstain from sexual intercourse until lesions have gone.
+Episodic antiviral treatment
+If attacks are infrequent, and self-care measures are not sufficiently controlling symptoms.
+Reduces the duration and severity of the episode.
+This could be self-initiated by patients, enabling early treatment induction and hence maximising effectiveness.
+Suppressive antiviral therapy
+BASHH and NICE recommend this for patients with at least 6 recurrences per year.
+Duration of therapy is commonly 6 months to 1 year.
+Management in pregnancy:
+Specialist management is important during pregnancy to reduce the risk of transmission to the baby.
+The Royal College of Obstetricians and Gynaecologists has published the advice below.
+Antiviral therapy
+If the first episode is before week 28 of the pregnancy, offer the mother antiviral therapy at that time, and then again from 36 weeks until the birth.
+If the first episode is at or after week 28 of the pregnancy, advise the mother to take antiviral treatment from then until the birth.
+Delivery method
+If the first episode is within 6 weeks of the due date, offer an elective caesarean section to reduce the risk of neonatal herpes.
+If the first episode is earlier in the pregnancy, normal vaginal birth is advised as the risk of transmission is very low.
+Mothers should seek further advice from their midwife or doctor if they have any further concerns.
+Advice for all patients:
+Patients should disclose their herpes status to sexual partners.
+Sexual intercourse should be avoided during symptomatic episodes (prodrome or genital lesions), as transmission is most likely at this time.
+The virus can still spread to sexual partners even in the absence of symptoms, thus consistent condom use can lower the risk of spread.
+Pregnant women should inform their healthcare provided of their herpes status so measures can be taken to reduce transmission to the baby.
+Improve
+Complications
+Complications of genital herpes are uncommon, but can be serious.
+Early complications:
+Other sexually transmitted infections (STIs)
+The presence of genital ulcers increases the patient's risk of contracting other STIs, including HIV.
+Psychosocial impact
+Psychological distress and social stigma can impact on a patient's quality of life and future sexual relationships.
+Thus, it is important to provide verbal and written explanations about genital herpes to patients.
+Superinfection of lesions
+Bacterial (e.g. streptococcal) or fungal (
+Candida
+).
+Usually occurs in the 1-2 weeks following the emergence of lesions.
+Urinary retention
+This could be due to dysuria and genital swelling.
+Autoinoculation
+To the fingers (herpetic whitlow) from scratching the itchy lesions.
+To skin adjacent to the genitals (e.g. thighs).
+Late complications:
+Aseptic meningitis
+Can occur during primary or recurrent episodes.
+Sacral myeloradiculitis
+Rare HSV-associated autonomic neuropathy.
+Can cause urinary retention, perineal paraesthesia and erectile dysfunction.
+Complications during pregnancy:
+Neonatal HSV
+Higher risk of transmission if the HSV is acquired by the mother during the 3rd trimester.
+Can cause neonatal
+fever
+, seizures, sepsis or vesicular blisters.
+Improve
+Prognosis
+- Genital herpes is a chronic viral infection with a very variable course. Some patients will remain asymptomatic, while others will have frequent disease outbreaks of varying severity.
+On average, following a symptomatic primary episode due to HSV-2, a patient will have 4 recurrences in the following year.
+By contrast, the recurrence rate for HSV-1 is 4 times less frequent than HSV-2.
+Over time, the frequency of recurrence usually reduces.
+Improve
+References
+British Association for Sexual Health and HIV - 2014 Genital herpes guidelines
+Infectious diseases
+Genital herpes

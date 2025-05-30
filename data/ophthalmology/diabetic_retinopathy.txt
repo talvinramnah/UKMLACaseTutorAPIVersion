@@ -1,0 +1,52 @@
+Diabetic retinopathy
+Diabetic retinopathy
+Diabetic retinopathy is a common and potentially devastating microvascular complication of diabetes mellitus, characterized by progressive damage to the retina's blood vessels. It is a leading cause of blindness in adults worldwide.
+Last updated: 23
+rd
+May 2023
+Pathophysiology
+Diabetic retinopathy is closely linked to the duration and control of diabetes, both type 1 and type 2. The underlying mechanism involves chronic hyperglycemia leading to basement membrane thickening, loss of pericytes, and endothelial cell damage in retinal blood vessels. These changes result in the formation of microaneurysms, vascular permeability, capillary occlusion, and neovascularization.
+The process can be divided into two primary stages: non-proliferative diabetic retinopathy (NPDR) and proliferative diabetic retinopathy (PDR). NPDR, the early stage, is marked by microaneurysms, retinal haemorrhages, and hard exudates. PDR, the more advanced and severe stage, is characterized by the proliferation of new, fragile blood vessels that can bleed into the vitreous, leading to vision loss.
+Improve
+Classification
+Diabetic retinopathy is traditionally classified into two main stages: non-proliferative diabetic retinopathy (NPDR) and proliferative diabetic retinopathy (PDR). Each stage has unique characteristics and can further be subdivided based on severity.
+Non-Proliferative Diabetic Retinopathy (NPDR)
+This is the early stage of diabetic retinopathy, and it can be classified further into mild, moderate, and severe, based on the clinical findings:
+Mild NPDR:
+Characterized by the presence of at least one microaneurysm. At this stage, the disease might not be apparent to the patient.
+Moderate NPDR:
+More extensive microaneurysms are present, along with haemorrhages and hard exudates. The retina may also exhibit cotton-wool spots, which are areas of nerve fibre layer infarctions.
+Severe NPDR:
+Defined by the '4:2:1 rule'. This means there are either more than 20 intraretinal haemorrhages in each of 4 quadrants (4), definite venous beading in 2 or more quadrants (2), or prominent intraretinal microvascular abnormalities (IRMA) in 1 or more quadrant (1).
+Proliferative Diabetic Retinopathy (PDR)
+This is the advanced stage of the disease, marked by the growth of new blood vessels (neovascularization) due to widespread retinal ischemia. These new vessels are fragile and prone to leaking, which can lead to complications such as vitreous haemorrhage and tractional retinal detachment. PDR can further be subdivided based on the extent and location of the neovascularization and associated complications:
+Early PDR:
+New vessels less than 1/3 of the disc area, no vitreous haemorrhage, and no tractional retinal detachment.
+High-risk PDR:
+Characterized by any of the following: neovascularization of the disc (NVD) greater than or equal to 1/3 of the disc area, any NVD associated with vitreous or preretinal haemorrhage, or neovascularization elsewhere (NVE) greater than or equal to 1/2 disc area with vitreous or preretinal haemorrhage.
+Diabetic Macular oEdema (DME)
+DME is not a stage but rather a complication of diabetic retinopathy, and it can occur at any stage. It's the most common cause of vision loss in people with diabetic retinopathy. It occurs when fluid and protein deposits collect on or under the macula, causing it to thicken and swell (oedema).
+DME is further classified into two types based on location:
+Focal DME:
+Caused by foci of vascular abnormalities, primarily microaneurysms.
+Diffuse DME:
+Characterized by dilated capillaries in the retina.
+This classification system is important as it aids in clinical decision-making and prognosis. For instance, high-risk PDR is usually an indication for immediate treatment to prevent severe vision loss.
+Improve
+Clinical features
+In the early stages, diabetic retinopathy may be asymptomatic. As the disease progresses, patients may experience blurred vision, floaters, dark areas in their visual field, and eventually, significant vision loss.
+Improve
+Investigations
+Diabetic retinopathy is diagnosed primarily through a comprehensive dilated eye exam, which allows a direct view of the retina and its vasculature. Important signs include microaneurysms, haemorrhages, hard exudates, cotton-wool spots, venous beading, and intraretinal microvascular abnormalities (IRMA) in NPDR, and neovascularization or vitreous/preretinal haemorrhage in PDR.
+Fluorescein angiography and optical coherence tomography (OCT) can provide additional details about retinal and macular thickness, oedema, and blood flow.
+Improve
+Management
+The primary goal in the management of diabetic retinopathy is preventing progression and preserving vision. This involves optimal control of blood sugar levels, blood pressure, and lipids.
+In terms of specific ophthalmological treatment:
+Laser photocoagulation has been a mainstay of treatment for PDR and diabetic macular oedema (DME), focusing on areas of retinal non-perfusion or directly treating leaking microaneurysms.
+Anti-VEGF therapy, with agents such as ranibizumab or aflibercept, has revolutionized the treatment of PDR and DME, reducing the need for laser therapy in many cases. These medications inhibit vascular endothelial growth factor (VEGF), reducing vascular leakage and neovascularization.
+Corticosteroids (triamcinolone, dexamethasone implant) can also be used, particularly in refractory DME.
+In severe cases, a vitrectomy may be necessary to clear severe vitreous hemorrhage or to relieve tractional retinal detachment.
+Improve
+Diabetic eye disease
+Diabetic retinopathy

@@ -1,0 +1,167 @@
+Shigellosis
+Shigellosis
+Shigellosis is an infectious disease caused by a group of bacteria called
+Shigella
+that typically affects the gastrointestinal tract.
+Shigella
+are gram negative rods. Most who are infected develop diarrhea,
+fever
+, and stomach cramps starting 1-3 days after they are exposed to the bacteria. Symptoms typically last five to seven days and it may take several months before bowel habits return entirely to normal. In developing countries,
+Shigella
+is the most common cause of moderate to severe diarrhea among children younger than five years old. Shigellosis is less of a concern in developed nations with advanced sanitation systems. After the age of 5, the incidence of shigellosis significantly decreases.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 6.00 cases per 100,000 person-years
+Peak incidence: 1-5 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Viral gastroenteritis
+833.33
+Campylobacter infection
+8.33
+Non-typhoidal
+Salmonella
+5.00
+Shigellosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Shigellosis is endemic in developing countries were sanitation is poor.
+Young children are most commonly affected and outbreaks of
+Shigella
+gastroenteritis may occur in childcare settings and schools. Travellers are also a commonly affected group. Foodborne outbreaks can occur, with raw vegetables most commonly implicated as the bacterial vector. Sexually transmitted
+Shigella
+may occur via the faecal-oral route, especially in men who have sex with men (MSM).
+Shigella
+is a gram-negative, nonmotile, facultatively anaerobic rod.
+It has 4 serotypes:
+Serotype A
+Shigella dysenteriae
+Serotype B
+Shigella flexneri
+Serotype C
+Shigella boydii
+Serotype D
+Shigella soneii
+Improve
+Pathophysiology
+Route of transmission
+Developed countries:
+Faecal-oral
+Developing countries:
+Faecal-oral
+Water-borne
+Food-borne
+Shigellae
+are remarkably infectious enteric pathogens that can cause disease after the ingestion of as few as 10 organisms. This virulence is likely due to the acid-resistant nature of the bacterium (through the formation of a biofilm) and the efficient invasion of colonic epithelium.
+Once ingested,
+Shigella
+may cause an inflammatory reaction in the large intestine through direct invasion of epithelial cells and production of enterotoxins 1 and 2. These enterotoxins increase the chloride permeability of the apical membrane of intestinal mucosal cells. This leads to an influx of chloride and water into the intestine and development of a secretory
+diarrhoea
+within a few hours of ingesting Shigella.
+Shigella dysenteriae
+may produce the Shiga toxin which is associated with haemolytic uraemic syndrome. The Shiga toxin targets the endothelium of intestinal blood vessels, inhibiting cell protein synthesis and causing haemorrhage through cell breakdown.
+Improve
+Clinical features
+Patients with
+Shigella
+gastroenteritis can present with anything from mild
+abdominal pain
+to life-threatening illness characterized by bloody
+diarrhoea
+, high
+fever
+and severe abdominal cramps.
+Symptoms include:
+Abdominal pain - 80%
+Diarrhoea:
+Mucoid diarrhoea - 80%
+Bloody diarrhoea - 45%
+Watery diarrhoea - 35%
+Fever - 35%
+Vomiting
+- 35%
+Some individuals may be asymptomatic.
+On average, the incubation period is 3 days, with a range of 1-7 days.
+Patients initially experience constitutional symptoms such as fever and
+malaise
+. Diarrhoea tends to be watery at first, but subsequently may contain blood and mucus.
+Symptoms typically last five to seven days and it may take several months before bowel habits return entirely to normal.
+Improve
+Investigations
+Diagnosis of shigellosis is made based on clinical suspicion and subsequent stool culture.
+Stool culture
+This is the preferred method for the diagnosis, as it provides an isolate for subsequent susceptibility testing. The stool sample requires prompt handling and optimally should be inoculated onto agar at the bedside. The sensitivity of the culture is is operator dependent and has a sensitivity of about 50%.
+Improve
+Differential diagnosis
+Infective causes
+It is often difficult to identify the causative organism based on symptoms alone. The bacteria listed can all cause
+fever
+, bloody
+diarrhoea
+, and
+abdominal pain
+. A dietary history may indicate the causative organism, but a stool culture is necessary for a definitive diagnosis.
+Campylobacter
+Associated with the consumption of undercooked chicken and pork, contaminated water, unpasteurised milk and through contact with infected domestic or farm animals.
+Salmonella
+Associated with the consumption of raw or undercooked meat, eggs or egg products.
+Yersinia
+Associated with the consumption of undercooked pork.
+Enteroinvasive
+Escherichia coli
+Associated with the consumption of raw or undercooked meat or deficiently pasteurised dairy products.
+Clostridium difficile
+A history of antibiotic use may be present.
+Non-infective causes
+Inflammatory bowel disease
+Although the symptoms of IBD are similar to that of shigellosis, the clinical features tend to be more chronic in nature and are associated with more significant weight loss. A family history of IBD increases the likelihood of this diagnosis.
+Improve
+Management
+Patients with shigellosis can usually be managed in primary care, as the disease is generally mild and self-limiting. However, those with life-threatening signs or symptoms must be admitted to hospital.
+General principles of management include rehydration, nutritional support, and antibiotic therapy.
+Supportive therapy
+Hydration is important to compensate for fluid loss from the gastrointestinal tract; oral rehydration is sufficient in most cases.
+Continued feeding is recommended, particularly in young children, to improve recovery.
+Antibacterial therapy
+British Medical Journal (BMJ) best practice guidelines for shigellosis, last updated in 2018,  recommend antibiotic therapy for malnourished, immunocompromised or elderly patients. Food handlers and healthcare workers should also be treated. Furthermore, all individuals with severe disease, defined as bloody
+diarrhoea
+with cramping while systemically unwell, should be given antibiotics.
+The British National Formulary (BNF) recommends ciprofloxacin as the antibiotic of choice.
+Preventive therapy
+The spread of
+Shigella
+can be stopped by frequent and careful handwashing with soap and taking other hygiene measures.
+Improve
+Complications
+Intestinal complications
+These are uncommon and include toxic megacolon, rectal prolapse, intestinal obstruction and colonic perforation.
+Systemic complications
+Dehydration - 50%
+Metabolic disturbances
+Hyponatremia may occur due to Syndrome of Inappropriate Anti-Diuretic Hormone secretion (SIADH).
+Febrile seizures - 25%
+Haemolytic Uraemic Syndrome (HUS)
+HUS complicates 10% of infections with
+Shigella
+dysenteriae
+. HUS is the most frequent cause of acute renal failure among young children worldwide. It is most often due to infection with enterohaemorrhagic Escherichia coli (particularly type O157:H7), but may also be caused by infection with
+Shigella dysenteriae 1
+.
+Reactive arthritis
+Improve
+Infectious colitis
+Shigellosis

@@ -1,0 +1,54 @@
+Cytomegalovirus retinitis
+Cytomegalovirus retinitis
+Cytomegalovirus (CMV) retinitis is common, affecting 30-40% of patients who have a CD4 count < 50. Diagnosis is clinical as there are no diagnostic tests
+Last updated: 1
+st
+January 2025
+Clinical features
+A stereotypical presentation of cytomegalovirus (CMV) retinitis involves a patient with advanced immunosuppression, most commonly in the context of untreated or late-stage HIV infection with a CD4 count less than 50 cells/μL. Patients typically present with
+painless, progressive visual loss
+in one eye, although bilateral involvement may occur if left untreated.
+The initial symptom is often blurred vision or a scotoma (area of partial vision loss), which may be accompanied by floaters.
+In some cases, patients may notice reduced peripheral vision or difficulty reading.
+There is usually an absence of ocular pain or photophobia, distinguishing CMV retinitis from other causes of infectious retinitis.
+Ophthalmic Examination Findings
+Fundoscopy reveals characteristic retinal lesions:
+Areas of
+full-thickness retinal necrosis
+with yellow-white granular opacification and associated haemorrhages ("pizza pie" or "cottage cheese and ketchup" appearance).
+Lesions typically begin at the posterior pole and progress centrifugally along the vascular arcades.
+Retinal vasculitis and perivascular sheathing are common.
+Minimal to no vitritis is seen compared to other viral retinitides such as acute retinal necrosis.
+Course and Complications
+Without treatment, lesions enlarge over weeks to months, leading to increasing visual field defects and potentially total blindness due to retinal detachment.
+Secondary complications include optic nerve involvement resulting in further visual impairment.
+Painless progressive visual loss in a severely immunocompromised patient should prompt urgent consideration of CMV retinitis.
+Early ophthalmological assessment is essential to confirm the diagnosis and prevent irreversible sight loss.
+Improve
+Management
+- The primary aim of management is to preserve vision by suppressing viral replication and preventing progression of retinal necrosis. Early treatment is essential to minimise irreversible visual loss.
+Management should be coordinated with an HIV specialist, as CMV retinitis almost exclusively occurs in the context of advanced immunosuppression.
+Antiviral therapy
+First-line treatment is systemic antiviral therapy. Intravitreal therapy may be considered in certain circumstances.
+Oral valganciclovir is usually preferred for induction and maintenance due to its efficacy and convenience (
+NICE NG203
+).
+Intravenous ganciclovir or foscarnet are alternatives where oral absorption is unreliable, or in severe sight-threatening disease.
+Intravitreal ganciclovir injections can provide rapid local control, especially in cases threatening the macula or optic nerve; these are generally used alongside systemic agents rather than alone.
+Treatment is continued until immune reconstitution (CD4 count >100 cells/mm³ for at least 3-6 months) and resolution of active retinitis.
+Management of underlying immunosuppression
+Prompt initiation or optimisation of antiretroviral therapy (ART) is essential for long-term control and prevention of recurrence.
+Coordination between
+ophthalmology
+, infectious diseases, and HIV services is required.
+Immune recovery uveitis
+may develop following ART initiation; this requires specialist assessment as management differs from active CMV retinitis.
+Monitoring and complications
+Patients require regular ophthalmological review to assess response to therapy, detect complications such as retinal detachment, and monitor for drug toxicity (notably myelosuppression with ganciclovir).
+Secondary prophylaxis (maintenance antiviral therapy) should be continued until sustained immune recovery has been achieved (
+NICE NG203
+).
+Treatment interruption risks vision loss—adherence must be emphasised.
+Improve
+Ophthalmology
+Cytomegalovirus retinitis

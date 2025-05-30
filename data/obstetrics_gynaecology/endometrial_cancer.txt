@@ -1,0 +1,291 @@
+Endometrial cancer
+Endometrial cancer
+Endometrial carcinoma is an epithelial malignancy of the uterine corpus mucosa, of which 90% are
+adenocarcinomas
+. It is the most common gynaecological malignancy in the developed world.
+The development of endometrial
+cancer
+is strongly linked to high levels of oestrogen production or the use of oestrogen based therapies in the absence of progestogen opposition.
+The prevalence of the disease is highest at around 60 years of age and most commonly presents with painless,
+post-menopausal bleeding
+.
+Women are investigated first using a transvaginal ultrasound scan (TVUSS) to evaluate endometrial thickness. Those with an endometrial thickness of >5mm undergo endometrial biopsy as confirmatory diagnostic testing.
+The mainstay of treatment for endometrial carcinoma is surgical. All women will diagnosed are offered a total hysterectomy,  bilateral salpingo-oophorectomy and lymphadenectomy. Depending on the stage of the disease, select patient groups may be offered adjunct therapy which can include radiotherapy or chemotherapy
+Most women with endometrial carcinoma present early (75% are found to have stage 1 disease at diagnosis) and in these patients 5 year survival rate is up to 85%.
+Last updated: 30
+th
+January 2023
+Epidemiology
+Incidence: 30.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Condition
+Relative
+incidence
+Atrophic vaginitis
+33.33
+Endometrial
+cancer
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Unopposed oestrogen action:
+may be a result of both endogenous and exogenous oestrogen production. It results in the proliferation of the glandular endometrial cells, producing a greater gland:stroma ratio than is seen in normal endometrium.
+Factors include:
+Polycystic ovary syndrome (PCOS)
+Nulliparity
+Early menarche and late menopause
+Unopposed exogenous oestrogen action
+Hormone replacement therapy
+Tamoxifen therapy used in the management of breast
+cancer
+Metabolic syndrome
+Includes obesity and T2DM
+Fat cells contain the enzyme
+aromatase
+which enables them to synthesise extra-ovarian oestrogen.
+As well as this, anabolic insulin can stimulate the proliferation of endometrial cells via IGF-1 activation.
+Lynch syndrome (also known as hereditary non-polyposis colon cancer (HNPCC)).
+Autosomal dominant mutation in DNA mismatch repair genes.
+Up to 40% of patients with the mutation will go on to develop endometrial carcinoma.
+Also associated with an increased risk in the development of colorectal, gastric and ovarian carcinoma.
+Protective factors
+Most of the factors which are thought to be protective against endometrial carcinoma are due to either a reduction in oestrogen levels or the provision of the protective effect of progesterone.
+Multiparity
+Combined oral contraceptive pill use
+Regular exercise
+Tobacco consumption has been shown to provide a protective effect in the development of endometrial carcinoma, but the reason why is unclear.
+Improve
+Pathophysiology
+Type 1 tumours
+(adenocarcinomas) account for the majority of endometrial cancers, and are directly linked to long term exposure to increased oestrogen levels.
+The normal endometrial lining is responsive to both oestrogen and progesterone.
+In pre-menopausal women during the first 14 days of the menstrual cycle, the endometrial glands elongate and the lining thickens in response to oestrogen, in the
+'proliferative phase.'
+After ovulation comes the
+secretory phase (luteal phase)
+, where the glands swell and the blood supply to the endometrium increases. This process is under the influence of progesterone. Toward the end of the luteal phase, progesterone levels drop and the secretory endometrium disintegrates and is shed, resulting in menstruation.
+Endometrial adenocarcinoma results from the
+abnormal proliferation of the endometrial glands
+.
+This is almost always a result of chronic oestrogenic stimulation of the endometrium in the absence of opposition by progesterone.
+The absence of progesterone
+prevents the shedding of the endometrial lining
+as is normally seen in healthy, pre-menopausal women.
+Unopposed oestrogen action In the absence of ovulation â→ persistence of the proliferative endometrium â→ glandular cell hyperplasia â→ â↑somatic mutations â→ production of atypical endometrial cells â→ neoplasia.
+Type 2 tumours
+are rarer and have non-endometrioid histology.
+They are made up of serous and clear cell carcinomas.
+They are mostly oestrogen independent and are strongly associated with
+genetic
+predisposition.
+90% of type 2 tumours are associated with p53 mutations.
+Improve
+Clinical features
+The stereotypical presentation of endometrial
+cancer
+is typically postmenopausal women presenting with
+abnormal vaginal bleeding
+. This symptom accounts for approximately 90% of all cases. However, it's essential to note that other presentations can be less obvious and vary widely.
+Abnormal Uterine Bleeding
+Abnormal uterine bleeding (AUB) is the most common clinical feature, often manifesting as heavy menstrual periods (menorrhagia) in pre-menopausal women or as irregular, intermenstrual spotting. In postmenopausal women, any form of vaginal bleeding should be considered abnormal and warrants further investigation.
+Other possible presenting features
+Pelvic pain
+: Although less common, some patients may experience pelvic discomfort or pain, which can be indicative of advanced disease.
+Discharge
+: Non-bloody
+vaginal discharge
+can occasionally be a presenting feature. The discharge might be watery or purulent in nature.
+Systemic symptoms
+: In advanced cases, patients might present with systemic symptoms such as weight loss and fatigue due to metastatic spread or significant tumour burden.
+Dysuria or urinary frequency
+: These symptoms may occur if the tumour exerts pressure on the bladder.
+Bowel changes
+: Constipation or other alterations in bowel habits can occur if the tumour affects the rectum or sigmoid colon.
+Pelvic Examination Findings
+An enlarged uterus:
+While this finding is not specific to endometrial cancer, a significantly enlarged uterus may suggest the presence of a neoplasm.
+Cervical stenosis or an irregular cervical canal:
+These findings may suggest malignancy and warrant further investigation.
+A palpable pelvic mass:
+A mass could indicate advanced disease or a different gynaecological malignancy such as ovarian cancer.
+Asymptomatic Cases
+A small proportion of endometrial cancers are discovered incidentally during routine gynaecological examinations or investigations for other conditions. These cases, often early-stage disease, may not have any presenting symptoms.
+Atypical Presentations
+Atypical presentations can occur, particularly in younger women and those with inherited cancer syndromes like Lynch syndrome. In these cases, symptoms such as infertility, irregular menstrual periods or anovulatory cycles may be the initial presenting features.
+Improve
+Referral criteria
+NICE
+cancer
+referral guidelines for cancer suggest the following:
+Refer women using a suspected cancer pathway referral (for an appointment within 2 weeks) for endometrial cancer if they are aged 55 and over with
+post-menopausal bleeding
+(unexplained
+vaginal bleeding
+more than 12 months after menstruation has stopped because of the menopause).
+Consider a suspected cancer pathway referral (for an appointment within 2 weeks) for endometrial cancer in women aged under 55 with post-menopausal bleeding.
+Consider a direct access ultrasound scan to assess for endometrial cancer in women aged 55 and over with:
+unexplained symptoms of
+vaginal discharge
+who:
+are presenting with these symptoms for the first time or
+have
+thrombocytosis
+or
+report
+haematuria
+, or
+visible haematuria and:
+low haemoglobin levels or
+thrombocytosis or
+high blood glucose levels.
+Improve
+Investigations
+Any woman over 55 with
+post menopausal bleeding
+should receive a 2 week wait suspected
+cancer
+referral.
+Suspected endometrial cancer should be investigated with:
+Transvaginal ultrasound scan:
+a transvaginal ultrasound scan is usually the first step in investigating patients. Ultrasound can also identify other, benign causes of
+post-menopausal bleeding
+such as polyps.
+An endometrial thickness of
+>5mm
+is associated with a 96% probability of endometrial cancer.
+Endometrial biopsy:
+following a suspicious ultrasound scan, an outpatient endometrial biopsy allows for the
+confirmatory diagnosis
+of endometrial cancer and provides a means of histological identification. It also allows the tumour subtype and grade to be identified, in order to inform further management.
+Hysteroscopy, dilatation and curettage:
+performed under general anaesthesia and is useful for histological confirmation if endometrial biopsy cannot be performed/will not be tolerated by the patient.
+CT chest, abdomen and pelvis:
+useful for staging if significant, advanced disease is suspected.
+Improve
+Differential diagnosis
+Endometrial
+cancer
+may easily be confused with other causes of
+abnormal vaginal bleeding
+.
+Atrophic vaginitis
+:
+inflammation associated with the thinning of the vaginal walls which occurs as a result of reducing oestrogen production leading up to and after the menopause.
+This is one of the most common causes of
+postmenopausal bleeding
+and often improves upon the administration of oestrogen cream.
+Also associated with dyspareunia, itching, postcoital bleeding and increased risk of urinary tract infections.
+Endometrial hyperplasia:
+occurs when the endometrial lining becomes too thick and mainly affects post-menopausal women.
+Endometrial hyperplasia is caused by unopposed oestrogen action, resulting in the proliferation of the lining of the uterus. If ovulation does not occur this lining is not shed, resulting in hyperplasia. Some types of endometrial hyperplasia may result in an increased risk in the development of malignancy.
+Can only be differentiated from endometrial cancer by biopsy.
+Endometrial polyp:
+usually asymptomatic but when polyps are a cause of abnormal vaginal bleeding, they produce a history similar to that of endometrial cancer.
+Polyps can usually be differentiated from malignancy using a transvaginal ultrasound scan, where localised endometrial thickening will be present instead of generalised, uniform thickening.
+Improve
+Staging
+Most patients who have biopsy-confirmed endometrial
+cancer
+will undergo
+surgical staging
+to determine the extent of the disease and to guide further treatment.
+Standard procedure involves a
+total hysterectomy, bilateral salpingo-oophorectomy and lymphadenectomy
+.
+As well as providing a means to investigate the extent of the disease, surgical staging also allows for the removal of much of the malignant disease.
+Following surgery the revised 2009 FIGO stages are used to classify endometrial carcinoma.
+Stage
+Description
+1
+The cancer is contained to the body of the uterus and hasn't spread to further sites.
+Approximately 75% of women have stage 1 disease on first diagnosis, which can be further divided into 1A and 1B.
+Stage 1A:
+The cancer is in the lining of the uterus and has invaded no more than 50% into the myometrium.
+Stage 1B:
+The cancer is in the lining of the uterus and has invaded more than 50% of the myometrium.
+2:
+The cancer has spread through the body of the uterus and extends to the connective tissue of the cervix (the cervical stroma).
+3:
+The cancer has spread beyond the uterus to other sites but is still confined to the pelvis.
+Stage 3 malignancy can be further divided into 3A, 3B and 3C.
+Stage 3A:
+Extension to the outer layer of the uterus (serosa) and/or to the fallopian tubes/adnexa.
+Stage 3B:
+Extension to the vagina and/or the parametric (the tissues surrounding the uterus.)
+stage 3C:
+Involvement of the pelvic or para-aortic lymph nodes.
+4:
+Involvement of distant metastasis, which can further be divided into stage 4A and 4B.
+Stage 4A:
+Involvement of the bowel or bladder mucosa.
+Stage 4B:
+Involvement of other organs such as the lungs, liver or bones. This also includes the development of malignant ascites and peritoneal involvement.
+Improve
+Management
+The mainstay of management for endometrial
+cancer
+is
+surgery.
+Standard treatment offered to all women diagnosed with endometrial carcinoma involves a total hysterectomy, bilateral salpingo-oophorectomy and lymphadenectomy.
+Very occasionally endometrial carcinoma develops in a younger patient who wishes to preserve their fertility.
+If these women have very low-risk disease (stage 1A) they can be carefully counselled on alternative therapy in order to attempt to preserve fertility.
+This involves the use of a
+progestin
+(e.g. low dose megestrol) and intensive monitoring using endometrial sampling every 3-6 months.
+This approach is only suitable for a small selection of patients and is not commonly used.
+Chemotherapy and radiotherapy can be used as adjuncts depending on the stage and grade of the disease.
+Radiotherapy:
+may be used as an adjunct in patients with stage 1B and above.
+Vaginal brachytherapy and pelvic external beam radiotherapy (EBRT) are two regimes that may be offered either together or separately.
+Alternatively, radiotherapy might be offered with palliative intent to patients with symptomatic metastases, such as to the bone or brain.
+Chemotherapy:
+is less commonly used in endometrial carcinoma.
+Chemotherapy may rarely be part of a multi-modality approach to management of stage III and above disease.
+Platinum-based chemotherapy is recommended, with the preferred regimen comprising paclitaxel plus carboplatin.
+Chemotherapy may also be used with palliative intent in those with metastatic or recurrent disease.
+Improve
+Complications
+Many of the complications of endometrial
+cancer
+are associated with its management.
+Lymphoedema:
+This complication may occur after lymphadenectomy as a result of injury to the lymphatic system.
+Bladder instability:
+A common complication following surgery, often involving denervation of the bladder.
+This may result in bladder pain, incontinence, urgency and symptoms of cystitis.
+Vaginal stenosis:
+A complication of radiotherapy which may disrupt future pelvic examinations and result in sexual dysfunction.
+Bowel or bladder fistulae:
+A rare complication of radiotherapy which usually requires surgical diversion or visceral products e.g. colostomy.
+Premature menopause:
+Removal of the ovaries during surgery will result in premature menopause in patients who are pre-menopausal at the time of diagnosis. This can result in some of the typical symptoms associated with menopause including vasomotor symptoms, vaginal dryness, headaches and mood disturbances.
+Improve
+Prognosis
+Most cases of endometrial
+cancer
+are diagnosed in the early stages (stage 1 in 75% of women).
+As a result of early presentation, 5-year survival for patients with endometrial cancer is high.
+Outcomes are better in patients with endometrial cancer than in other gynaecological malignancies.
+These early stages can usually be managed with surgery alone.
+Stage
+5 year survival
+1
+85%
+2
+70%
+3
+50%
+4
+25%
+Improve
+Cancer
+Endometrial cancer

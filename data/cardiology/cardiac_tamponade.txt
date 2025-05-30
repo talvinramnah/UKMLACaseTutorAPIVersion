@@ -1,0 +1,52 @@
+Cardiac tamponade
+Cardiac tamponade
+Cardiac tamponade is characterized by the accumulation of pericardial fluid under pressure.
+Last updated: 1
+st
+January 2025
+Clinical features
+Classical features - Beck's triad:
+Hypotension
+Raised JVP
+Muffled heart sounds
+Other features:
+Dyspnoea
+Tachycardia
+An absent Y descent on the JVP - this is due to the limited right ventricular filling
+Pulsus paradoxus - an abnormally large drop in BP during inspiration
+Kussmaul's sign - much debate about this
+ECG: electrical alternans
+Improve
+Differential diagnosis
+When evaluating a patient with suspected cardiac tamponade, it's essential to consider other differential diagnoses that may present with similar clinical features. These include acute myocardial infarction (AMI), constrictive pericarditis, and tension pneumothorax.
+Acute Myocardial Infarction (AMI)
+The presentation of AMI can be similar to cardiac tamponade as both conditions can lead to chest pain, dyspnoea and hypotension. However, in AMI the pain is often described as crushing or pressure-like and may radiate to the arm, neck or jaw. The pain typically lasts longer than 20 minutes and does not change with position or respiration.
+Electrocardiogram (ECG) findings in AMI usually demonstrate ST-segment elevation or depression along with T-wave inversion which are generally absent in cardiac tamponade.
+In contrast to cardiac tamponade where pulsus paradoxus is often present, this phenomenon is not typical in AMI.
+Constrictive Pericarditis
+This condition can mimic cardiac tamponade due to the presence of pericardial effusion. Both conditions can cause elevated jugular venous pressure, Kussmaul's sign, and peripheral oedema. However, constrictive pericarditis tends to have a more chronic course while cardiac tamponade is an acute event.
+The hallmark of constrictive pericarditis includes a pericardial knock on auscultation and signs of right heart failure such as hepatomegaly and ascites.
+An ECG might show low voltage QRS complexes due to the thickened pericardium whereas in cardiac tamponade, electrical alternans may be seen.
+The key differences between constrictive pericarditis and cardiac tamponade are summarised in the table below:
+Cardiac tamponade
+Constrictive pericarditis
+JVP
+Absent Y descent
+X + Y present
+Pulsus paradoxus
+Present
+Absent
+Kussmaul's sign
+Rare
+Present
+Characteristic features
+Pericardial calcification on CXR
+Tension Pneumothorax
+Tension pneumothorax can also present with acute chest pain, dyspnoea and hypotension similarly to cardiac tamponade. However, the onset of symptoms in tension pneumothorax is usually sudden and often associated with a traumatic event or invasive procedure.
+Physical examination typically reveals decreased breath sounds and hyperresonance on the affected side which are not characteristic findings in cardiac tamponade.
+A chest radiograph will demonstrate a collapsed lung and mediastinal shift towards the opposite side in tension pneumothorax, while in cardiac tamponade it may show an enlarged cardiac silhouette if pericardial effusion is substantial.
+Improve
+References
+Life in the Fast Lane - ECG Findings in Massive Pericardial Effusion
+Cardiology
+Cardiac tamponade

@@ -1,0 +1,146 @@
+Presbycusis
+Presbycusis
+Presbycusis is a common age-related
+hearing loss
+that affects individuals over the age of 65. It is characterized by a gradual decline in hearing ability, particularly in the high-frequency range. The exact cause of presbycusis is not fully understood, but it is believed to be due to a combination of genetic and environmental factors, including exposure to loud noises and ototoxic medications.
+Patients with presbycusis may experience difficulty understanding speech, especially in noisy environments, and may also have trouble hearing high-pitched sounds such as birds chirping or doorbells ringing. They may also experience
+tinnitus
+, or ringing in the ears.
+Diagnosis of presbycusis involves a thorough medical history and physical examination, as well as hearing tests such as pure-tone audiometry and speech audiometry. Treatment options include hearing aids, cochlear implants, and assistive listening devices.
+Last updated: 24
+th
+July 2024
+Epidemiology
+Incidence: 1000.00 cases per 100,000 person-years
+Peak incidence: 70+ years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Presbycusis, or age-related
+hearing loss
+, is a multifactorial disease with various risk factors and underlying causes contributing to its development. Although the exact aetiology remains elusive due to its complex nature, several key factors have been identified.
+Genetic Factors
+There is substantial evidence supporting a genetic predisposition to presbycusis. Certain genes such as GRM7 (which encodes metabotropic glutamate receptor 7) and NAT2 (N-acetyltransferase 2) have been associated with an increased susceptibility to presbycusis.
+Ototoxic Medications
+Chronic exposure to ototoxic medications such as aminoglycoside antibiotics, loop diuretics, and platinum-based chemotherapy agents can result in damage to the cochlear hair cells leading to progressive hearing loss.
+Noise Exposure
+Prolonged exposure to excessive noise has been established as a significant risk factor for presbycusis. The resultant mechanical stress damages the delicate structures within the cochlea causing sensorineural hearing loss.
+Lifestyle Factors
+Certain lifestyle factors such as smoking and alcohol consumption have also been linked with presbycusis. These substances can lead to vascular changes reducing blood flow to the inner ear thereby causing damage over time.
+Comorbid Conditions
+Systemic conditions like hypertension, diabetes mellitus and hyperlipidaemia may contribute towards the onset of presbycusis via microvascular changes in the auditory system.
+Oxidative Stress and Mitochondrial Dysfunction
+Age-related changes such as increased oxidative stress and mitochondrial dysfunction have been implicated in the pathogenesis of presbycusis. These factors can lead to apoptosis of cochlear hair cells, resulting in progressive hearing loss.
+Improve
+Pathophysiology
+Presbycusis
+, also known as age-related
+hearing loss
+, is a complex and multifactorial condition. Its pathophysiology is best understood by examining the key underlying mechanisms that contribute to its onset and progression.
+The primary process begins with
+senile degeneration
+of auditory structures. This is characterised by atrophy of sensory cells in the cochlea, especially in the basal turn where high-frequency sounds are perceived. The hair cells of the organ of Corti, particularly outer hair cells, are most affected. This cellular loss leads to reduced transduction of mechanical sound vibrations into electrical signals for central processing.
+Concurrently, there is a decline in the number of spiral ganglion neurons, which serve as primary auditory neurons transmitting signals from hair cells to the brainstem. This neuronal degeneration further contributes to impaired signal transmission.
+In addition to these peripheral changes,
+central presbycusis
+involves degenerative changes within central auditory pathways. Age-related alterations such as synaptic loss and demyelination in the ascending auditory pathway can lead to decreased temporal processing and speech discrimination abilities.
+Cochlear Conductive Presbycusis:
+Ageing also affects middle ear function due to stiffening of ossicular joints or tympanic membrane reducing sound conduction efficiency. This results in a mild conductive hearing loss termed cochlear conductive presbycusis.
+Mixed Presbycusis:
+Often patients present with mixed presbycusis where both sensorineural and conductive components coexist.
+Apart from structural alterations, metabolic changes also play a role in presbycusis pathogenesis. Stria vascularis maintains endolymphatic potential necessary for hair cell stimulation. With ageing, atrophy and degeneration of stria vascularis occur, leading to a decline in endolymphatic potential, thereby affecting auditory transduction.
+It is also important to note that presbycusis can be influenced by
+genetic factors
+. Certain genetic mutations can make individuals more susceptible to age-related cochlear degeneration. These mutations often affect genes involved in oxidative stress response, ion homeostasis or mitochondrial function.
+Furthermore, the role of
+oxidative stress
+and
+inflammation
+should not be underestimated. Increased production of reactive oxygen species (ROS) and reduced antioxidant defence mechanisms with ageing lead to cellular damage. Chronic inflammation can further exacerbate this process by releasing pro-inflammatory cytokines causing cellular apoptosis.
+In summary, presbycusis is a multifactorial disorder arising from a combination of structural, metabolic and genetic alterations compounded by oxidative stress and inflammation. These changes result in impaired sound conduction and neural transmission culminating in hearing loss.
+Improve
+Clinical features
+Patients typically present with a chronic, slowly progressing history of:
+Gradual onset of
+hearing loss
+, typically affecting high-frequency sounds
+Difficulty understanding speech, especially in noisy environments
+Need for increased volume on the television or radio
+Difficulty using the telephone
+Loss of directionality of sound
+Worsening of symptoms in noisy environments
+Hyperacusis: Heightened sensitivity to certain frequencies of sound (Less common)
+Tinnitus
+(Uncommon)
+Improve
+Differential diagnosis
+The differential diagnosis for presbycusis can be challenging due to the overlap of symptoms with other auditory disorders. The three most likely alternative diagnoses are Noise-induced
+hearing loss
+(NIHL), Otosclerosis, and Meniere's disease.
+Noise-Induced Hearing Loss (NIHL)
+Unlike presbycusis which predominantly affects high frequencies initially, NIHL typically presents with a 'notch' in the audiogram at 3000, 4000 or 6000 Hz, followed by recovery at 8000 Hz.
+Patients may report a history of significant noise exposure such as loud music or occupational noise. This contrasts with presbycusis where there is typically no such specific exposure.
+NIHL can occur at any age depending on noise exposure, while presbycusis is an age-related phenomenon.
+Otosclerosis
+Otosclerosis primarily causes conductive hearing loss due to stapedial fixation but may also lead to sensorineural hearing loss. Unlike presbycusis which is bilateral and symmetric, otosclerosis can present unilaterally or asymmetrically.
+Audiometric testing usually shows a characteristic dip at 2000 Hz known as Carhart's notch in otosclerosis whereas presbycusis displays high-frequency hearing loss.
+The onset of otosclerosis often occurs between the ages of 20 and 40 years, much earlier than typical onset of presbycusis.
+Meniere's Disease
+Meniere's disease is characterised by episodic vertigo,
+tinnitus
+, fluctuating sensorineural hearing loss and aural fullness. These episodic symptoms differentiate it from presbycusis.
+The audiogram in Meniere's disease often shows low-frequency sensorineural hearing loss initially, which is in contrast to the high-frequency loss seen in presbycusis.
+Furthermore, Meniere's disease can present at any age but most commonly starts between 20 and 50 years, whereas presbycusis tends to affect older individuals.
+Improve
+Management
+The primary goal in managing presbycusis is to improve patients' communication abilities and overall quality of life. Several interventions may be employed depending on individual needs:
+Hearing aids:
+These devices amplify sounds according to the patient's specific
+hearing loss
+profile. Selecting appropriate hearing aids should consider factors such as cosmetic preferences, manual dexterity limitations, and cost constraints.
+Assistive listening devices (ALDs):
+ALDs like personal FM systems or induction loops can enhance speech understanding in challenging listening environments by reducing background noise levels.
+Cochlear implants:
+In cases of severe-to-profound presbycusis unresponsive to conventional amplification methods, cochlear implantation may be considered as a viable treatment option.
+Tinnitus
+management:
+For patients experiencing tinnitus, a multidisciplinary approach involving sound therapy, cognitive behavioural therapy (CBT), and relaxation techniques may be beneficial.
+Aural rehabilitation is an essential component of presbycusis management, aiming to maximise the benefits derived from amplification devices and facilitate effective communication strategies. Components of aural rehabilitation include:
+Hearing aid orientation:
+Ensure patients receive thorough guidance on the use, maintenance, and troubleshooting of their hearing aids.
+Auditory training:
+Encourage patients to engage in regular auditory training exercises to improve speech perception in noise and enhance overall listening skills.
+Communication strategies:
+Educate patients about effective communication tactics such as optimal seating arrangements, utilising visual cues, and advocating for their needs in social settings.
+Support networks:
+Encourage participation in local support groups or online forums where individuals with presbycusis can share experiences and advice.
+Improve
+Complications
+Complications of presbycusis can significantly impact patients' quality of life and overall health. The most likely complications include:
+Communication difficulties:
+Reduced ability to understand speech, especially in noisy environments, leading to social isolation and decreased participation in daily activities.
+Cognitive decline:
+Increased risk of cognitive impairment and dementia due to the reduced auditory input and subsequent neural changes.
+Depression and anxiety:
+Higher prevalence of mood disorders as a result of social withdrawal and frustration related to
+hearing loss
+.
+Balance issues:
+Potential for increased falls due to impaired vestibular function often associated with age-related auditory decline.
+Tinnitus
+:
+Persistent ringing or buzzing in the ears which can exacerbate stress and negatively affect sleep quality.
+Adverse effects on personal relationships:
+Strain on family dynamics and interpersonal relationships due to communication barriers.
+Improve
+Ear, nose and throat
+Presbycusis

@@ -1,0 +1,299 @@
+Psoriatic arthropathy
+Psoriatic arthropathy
+Psoriatic arthritis is a
+chronic inflammatory arthritis
+which is associated with
+psoriasis
+. It may be develop alongside the rash seen in psoriasis, or years later. In rare cases it can be seen without a psoriatic rash.
+It is a type of
+seronegative
+arthritis, with characteristic features which may differentiate it from
+rheumatoid arthritis
+(RA) and other inflammatory arthritides.
+Presentation can be varied and as such it can be easily overlooked.
+However, as it is potentially progressive, causing joint destruction and worsening disability over time, it is an important diagnosis.
+Management of the condition is focussed on preventing joint destruction, and features the use of
+disease modifying anti-rheumatic drugs
+(DMARDs) in a similar way to that of RA.
+Last updated: 21
+st
+May 2025
+Epidemiology
+Incidence: 8.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Rheumatoid arthritis
+5.00
+Psoriatic arthropathy
+1
+Reactive arthritis
+0.63
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of psoriatic arthritis is not fully understood. Nevertheless, both
+genetic
+and
+environmental
+factors have been implicated in the disease.
+Genetic factors:
+First degree relatives of patients with psoriatic arthritis have an increased risk of psoriasis (30-50%) and of psoriatic arthritis (15%)
+Specific HLA B and HLA C alleles have been implicated in the development of psoriatic arthritis.
+HLA B27 and HLA B39
+are associated with development of joint and skin disease
+HLA Cw0606 is associated most strongly with early onset, severe psoriasis and late onset arthritis
+Trauma and infection:
+Trauma to joints or tendons has been linked with the development of psoriatic arthritis
+Infections such as HIV have been implicated in the development of the disease
+Improve
+Pathophysiology
+Various
+cellular mechanisms
+have been implicated in the disease process in psoriatic arthritis.
+The synovium in psoriatic arthritis has been found to be
+more vascular
+than in
+rheumatoid arthritis
+, with vessels being more tortuous.
+This has been linked with the
+overexpression of vascular growth factors
+(eg vascular endothelial growth factor)
+Vascular growth factors work with
+tumour necrosis factor
+to cause bony destruction.
+Cytokines lead to
+osteoclast activation
+, causing joint erosions and osteolysis
+Cytokines have been found to have a role in synovitis in psoriatic arthritis.
+Improve
+Classification
+Psoriatic arthritis can be classified according to the pattern of joints which are affected:
+Oligoarthritis
+Less than five joints affected
+Tends to be asymmetrical
+Thought to be the most common presentation
+Symmetrical polyarthritis
+Also known as 'rheumatoid pattern'
+Distal interphalangeal joints (DIPs) tend to be affected rather than metacarpophalangeal joints (MCPs), as seen in
+rheumatoid arthritis
+A common presenting pattern in psoriatic arthritis
+DIP predominant
+Seen more often in men
+Less common, affecting <20% patients
+Spondyloarthritis
+Spondylitis (inflammation of the vertebrae) +/- sacroiliitis (inflammation at the sacroiliac joint)
+Presents with inflammatory back pain
+Arthritis mutilans
+Rarest form of psoriatic arthritis causing severe deformity of the hands
+Destruction of the terminal phalanx causes a 'telescopic' appearance of the fingers
+There may be some crossover between types, and patterns of affected joints can vary over time. Estimating prevalence of each type is therefore difficult, but it is agreed that
+oligoarthritis and symmetrical polyarthritis
+are more common, and
+arthritis mutilans
+is least common.
+Improve
+Clinical features
+Psoriasis:
+current or past psoriatic rash or
+nail changes
+is seen in the majority of patients with psoriatic arthritis. Rash/nail changes usually precede joint involvement.
+Wilson et al. (2009) found that 41% of patients with psoriatic arthritis had arthritis at the time of first presentation with rash. The remainder developed arthritis after the rash, with a mean onset time of 7 years.
+Skin/nail changes are sometimes absent or unreported and
+psoriatic rash or nail changes are not essential to diagnosis
+.
+Nail changes may be subtle, and can include pitting, ridges or onycholysis.
+Inflammatory arthritis:
+joint pain which is worse after long periods of rest, features prolonged morning stiffness of >30 minutes, and improves with activity.
+On examination, there are often signs of synovitis (tenderness and swelling of joints).
+The pattern of joint involvement may mimic
+rheumatoid arthritis
+, or ankylosing spondylitis, or may form distinct patterns as discussed above.
+Features specific to psoriatic arthritis:
+Dactylitis
+Swelling of a whole digit
+NICE guidelines (2017) advise referral of anyone with dactylitis to a rheumatologist for assessment
+Enthesitis
+Inflammation at the site of tendon attachment
+Commonly presents as elbow, heel or lateral hip pain
+Patients may report history of achilles tendonitis, plantar fasciitis or epicondylitis
+Improve
+Investigations
+Diagnosis can often be made from history and examination, and there is no single diagnostic investigation.
+Diagnosis and management of psoriatic arthritis should be coordinated by secondary care, and so
+referral
+to a rheumatologist should be made if psoriatic arthritis is suspected. Specialists may employ validated diagnostic criteria (such as the Classification of Psoriatic Arthritis [CASPAR] criteria) to aid diagnosis.
+Investigations can be used to support diagnosis, or to help in differentiating between different forms of arthritis.
+Blood tests
+Inflammatory markers (ESR/CRP)
+Often raised, especially in active disease
+Normal inflammatory markers do not exclude psoriatic arthritis
+Rheumatoid Factor (RF)
+Non-specific, so may be positive in up to 10% patients with psoriatic arthritis
+A negative RF may help to differentiate between psoriatic and
+rheumatoid arthritis
+Anti-cyclic citrullinated peptides (anti-CCP)
+More specific for RA than RF, but may still be positive in 8-16% of patients with psoriatic arthritis, more likely in severe disease
+A negative anti-CCP may help to differentiate between RA and psoriatic arthritis
+HLA-B27
+A positive result increases the probability of spondyloarthritis
+A negative HLA-B27 test does not exclude spondyloarthritis
+Imaging
+Plain film x-rays
+Hands and feet if symptomatic; x-rays of other symptomatic joints should be considered
+X-ray changes may be
+absent in early disease
+DIP joint erosion and periarticular new-bone formation
+Osteolysis and pencil-in-cup deformity in advanced disease/arthritis mutilans
+Ultrasound
+Helpful for diagnosis in absence of x-ray changes
+Tendon swelling, increased blood flow and erosions
+suggest inflammation
+MRI of affected joints may be considered
+If psoriatic arthritis is confirmed,
+sacroiliac x-rays should be offered
+to look for evidence of asymptomatic involvement.
+Improve
+Diagnosis
+CASPAR Criteria for Psoriatic Arthritis
+The CASPAR (Classification Criteria for Psoriatic Arthritis) criteria are used to classify psoriatic arthritis (PsA) in patients with inflammatory joint disease. They are highly specific and sensitive, especially in differentiating PsA from
+rheumatoid arthritis
+and other spondyloarthropathies.
+To meet the criteria, the patient must have evidence of
+inflammatory articular disease
+(joint, spinal, or entheseal) and score
+≥3 points
+from the following features:
+Scoring Criteria
+Evidence of psoriasis
+current psoriasis: 2 points
+personal history of psoriasis (if not currently active): 1 point
+family history of psoriasis (if no personal history): 1 point
+Note:
+only one of the above may be counted; use the highest scoring item
+Nail changes
+typical of psoriasis (1 point)
+includes onycholysis, nail pitting, and hyperkeratosis
+Negative rheumatoid factor (RF)
+by standard testing (1 point)
+Dactylitis
+(1 point)
+current or previously recorded by a clinician
+Radiographic evidence of juxta-articular new bone formation
+(1 point)
+must be seen on plain radiographs of hands or feet
+excludes osteophytes (degenerative bone changes)
+Interpretation
+Total score must be
+≥3 points
+to classify the patient as having psoriatic arthritis
+Criteria have a
+sensitivity of ~91%
+and
+specificity of ~98%
+in specialist settings
+Use in Practice
+While originally developed for classification in clinical trials, the CASPAR criteria are also used in clinical practice to support diagnosis, particularly when features overlap with rheumatoid arthritis or other spondyloarthropathies
+Improve
+Differential diagnosis
+Psoriatic arthritis may be mistaken for
+other causes of arthritis
+and key differential diagnoses include:
+Rheumatoid arthritis
+SImilarities: inflammatory arthritis of multiple joints including the hands and feet, RF may be positive in both
+Differences:
+dactylitis
+is not a feature of RA, lumbar and sacroiliac involvement is not typical of RA, rheumatoid nodules not seen in psoriatic arthritis
+Reactive arthritis
+Similarities: can present with oligoarthritis, enthesitis and dactylitis
+Differences: strong history of past gastrointestinal/genitourinary infection not seen in psoriatic arthritis, rash absent in reactive arthritis
+Gout
+Similarities: can present with oligoarthritis affecting the feet
+Differences: absence of rash in gout, presence of crystals in synovial fluid in gout
+Improve
+Management
+Management of psoriatic arthritis should be
+holistic
+, addressing symptoms, disease progression and potential complications and disability. A
+multidisciplinary approach
+is essential. Management of joint disease in psoriatic arthritis is
+similar to in RA
+, with early use of DMARDs to induce remission and prevent joint destruction.
+Given the varied nature of presentation and progression, no single approach can be used for all patients.
+Concomitant management of skin disease may require dermatology input
+The
+NICE guidelines (2017) and European League Against Rheumatism guidelines (2016)
+discuss the facets of management, which can be broken down into conservative and medical (both symptomatic and disease-modifying).
+Conservative:
+For patients with difficulties with activities of daily living, referral should be considered to:
+Physiotherapy
+Hand therapy
+Podiatry
+Occupational therapy
+Aim to assess their needs, provide advice/equipment, and regular follow-up
+Medical:
+Symptomatic
+NSAIDs - offer symptomatic relief for joint pain. EULAR guidelines recommend they may be used alone in initial management for limited disease. There is some disagreement, however, as NICE guidelines recommend using NSAIDs as an adjunct to DMARDs (this is the same as the approach seen in RA)
+Intra-articular corticosteroid injections - may be used alone or in combination with oral medication
+DMARDs
+DMARDs may be considered if there is a
+failure of response
+to initial medical treatment or if there is
+severe disease at diagnosis
+1st line:
+standard DMARDs
+(methotrexate, leflunomide or sulfasalazine). EULAR guidelines recommend methotrexate first (as also recommended in RA) given its concomitant effect on skin as well as joints
+2nd line:
+biological agents
+(etanercept, infliximab, apremilast)
+DMARDs can be
+combined
+if necessary
+Short courses of
+oral corticosteroids
+may be needed while initiating DMARD therapy
+Improve
+Complications
+Complications of psoriatic arthritis may be related to disease activity or treatment.
+Joint deformity
+Progressive disease is associated with
+joint destruction
+and resultant deformity
+Shortening of digits due to
+bone lysis
+The proportion of patients affected by joint deformity is unclear due to a paucity of epidemiological data showing the long term impact of the now widely-used DMARDs
+Functional limitation
+Pain and joint deformities
+can cause difficulties with work and activities of daily living
+EULAR guidelines point out that absence of active disease does not preclude functional limitations
+Cardiovascular risk
+Patients with psoriatic arthritis have been shown to have higher rates of
+hypertension and ischaemic heart disease
+Risk is higher for patients with
+diabetes and obesity
+as comorbidities
+An association between psoriatic arthritis and
+metabolic syndrome
+has been demonstrated, which is thought to play a role in this
+Malignancy
+Treatment with DMARDs has been associated with an increased risk of malignancy
+NICE guidelines recommend advising patients on a
+TNF-α inhibitor
+(infliximab, etanercept, gomilimumab) that they are at an increased risk of
+skin cancer
+Improve
+References
+Annals of the Rheumatic Diseases - Relative incidence of polyarthritis vs. oligoarthritis
+Patient.info - Psoriatic arthropathy review
+Rheumatology
+Psoriatic arthropathy

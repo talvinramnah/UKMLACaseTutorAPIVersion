@@ -1,0 +1,296 @@
+Migraine
+Migraine
+Migraine is a complex neurological disorder characterized by recurrent, moderate-to-severe headaches often accompanied by additional symptoms such as
+nausea
+,
+vomiting
+, and sensitivity to light and sound. The pathophysiology of migraines is not fully understood, but it is believed to involve neuronal hyperexcitability, cortical spreading depression, and activation of the trigeminovascular system, leading to inflammation and vasodilation. Additionally, migraines can present with or without
+aura
+, a transient focal neurological phenomenon that precedes or accompanies the headache.
+Diagnosis is based on clinical history, physical examination, and the exclusion of secondary causes. Management includes both acute and preventive treatments. Acute treatment options consist of
+NSAIDs
+,
+triptans
+, and antiemetics. Preventive strategies involve lifestyle modifications, pharmacological agents such as beta-blockers, anticonvulsants, and CGRP inhibitors, and non-pharmacological interventions like biofeedback and cognitive-behavioural therapy.
+Last updated: 13
+th
+May 2025
+Epidemiology
+Incidence: 5000.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Tension-type headache
+3.00
+Migraine
+1
+Temporal arteritis
+0.004
+Cluster headache
+0.002
+Paroxysmal hemicrania
+0.00004
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Genetic and Biological Factors
+Migraine has a strong genetic component, with up to 50% of patients reporting a family history.
+Multiple genes are implicated in migraine susceptibility, particularly those involved in ion channel function and neurotransmitter regulation.
+Rare monogenic forms exist, such as familial hemiplegic migraine, which follow autosomal dominant inheritance patterns.
+Hormonal Influences
+Migraine is two to three times more common in women than men
+, with the highest prevalence during reproductive years.
+Fluctuations in oestrogen levels are closely linked to migraine attacks, explaining increased frequency around menstruation (menstrual migraine), pregnancy, and menopause.
+The lower prevalence in prepubertal children and postmenopausal women further supports the role of sex hormones.
+Environmental and Lifestyle Triggers
+While not causative, certain triggers can precipitate migraines in susceptible individuals:
+Stress or emotional upset
+Irregular sleep patterns or sleep deprivation
+Dietary factors (e.g., alcohol—especially red wine, caffeine withdrawal, specific foods such as chocolate or cheese)
+Bright lights, loud noises, or strong odours
+Changes in weather or atmospheric pressure
+Other Contributing Factors
+Comorbidities such as depression, anxiety disorders, and epilepsy are more prevalent among migraineurs and may influence disease expression.
+Use of certain medications (e.g., oral contraceptives or vasodilators) can trigger or exacerbate migraines in predisposed individuals.
+The precise pathogenesis remains multifactorial
+, involving an interplay between genetic predisposition, hormonal status—particularly female sex hormones—and environmental factors.
+Improve
+Pathophysiology
+Cortical Spreading Depression
+Cortical spreading depression (CSD) is a key process in migraine pathogenesis. It is characterized by a wave of transient neuronal depolarization followed by a prolonged period of suppressed neuronal activity. CSD has been implicated in the initiation of migraine
+aura
+and the subsequent headache phase.
+Neurovascular Changes
+Migraine is associated with changes in cerebral blood flow and vascular function. During the early phase of an attack, there may be a decrease in cerebral blood flow, followed by vasodilation and increased blood flow. This process may contribute to the activation of nociceptive trigeminal nerve fibres, leading to the release of vasoactive neuropeptides and inflammation.
+Neuropeptides and Neurotransmitters
+Several neuropeptides and neurotransmitters have been implicated in migraine pathophysiology:
+Calcitonin gene-related peptide (CGRP): CGRP is a potent vasodilator and is involved in the activation of trigeminal nerve fibres, promoting inflammation and pain transmission.
+Serotonin (5-HT): Serotonin is thought to play a role in migraine through its vasoactive properties and modulation of pain pathways. Low levels of serotonin have been found in migraine patients during an attack.
+Glutamate: Glutamate, an excitatory neurotransmitter, has been implicated in the initiation and maintenance of CSD and the sensitization of trigeminal nociceptive neurons.
+Improve
+Classification
+Migraines are classified based on their clinical presentation and associated symptoms. The International Classification of Headache Disorders (ICHD-3) is widely accepted for this purpose.
+Migraine without
+aura
+This is the most common type of migraine, accounting for about 70% to 90% of all migraines. It is characterised by moderate to severe pulsating headache lasting between 4 and 72 hours, usually unilateral in location. Other symptoms include:
+Photophobia
+and
+phonophobia
+Nausea
+or
+vomiting
+Aggravation by routine physical activity
+Migraine with aura
+About one quarter of individuals with migraines experience an 'aura', a complex of neurological symptoms that precede the headache phase.
+Typical aura:
+Visual, sensory, speech or language, motor, brainstem or retinal symptoms preceding the headache phase.
+Hemiplegic migraine:
+A subtype characterised by reversible motor weakness as part of the aura.
+Retinal migraine:
+Characterised by transient monocular visual loss or blindness.
+Chronic migraine
+A diagnosis of chronic migraine is made when a patient experiences a headache on 15 or more days per month for at least three months, and migraines are present on at least eight days per month.
+Complicated migraines
+This includes several subtypes where migraines appear to directly cause neurological damage or other complications.
+Migrainous infarction:
+An ischemic stroke that occurs during a typical attack of migraine with aura.
+Migraine aura-triggered seizure:
+A seizure triggered by a migraine with aura.
+Persistent aura without infarction:
+Aura symptoms that last for one week or more, without evidence of stroke on neuroimaging.
+Probable migraine
+This is a term used when a patient's condition has some but not all the characteristics of migraines, and in which other diagnoses have been ruled out.
+Episodic syndromes that may be associated with migraine
+These are conditions that occur in patients who have or will likely develop migraines. These include cyclic vomiting syndrome, abdominal migraine, and benign paroxysmal
+vertigo
+of childhood.
+Improve
+Clinical features
+Migraine is a common type of primary headache. It is characterised typically by:
+a severe, unilateral, throbbing headache
+associated with
+nausea
+,
+photophobia
+and
+phonophobia
+attacks may last up to 72 hours
+patients characteristically go to a darkened, quiet room during an attack
+'classic' migraine attacks are precipitated by an
+aura
+. These occur in around one-third of migraine patients
+typical aura are visual, progressive, last 5-60 minutes and are characterised by transient hemianopic disturbance or a spreading scintillating scotoma
+Improve
+Investigations
+Migraines are typically diagnosed based on clinical history and physical examination, thus investigations are not usually necessary in the primary care setting.
+However, if secondary causes of headache are suspected or there is an atypical presentation, further investigations may be warranted.
+First-line Investigations
+Neuroimaging:
+Neuroimaging is not routinely recommended for patients with migraine as per NICE guidelines. It should only be considered if there are clinical features suggestive of significant neurological pathology such as sudden onset of severe headache (thunderclap headache), new neurological deficits, change in personality or mental status, seizures or signs of elevated intracranial pressure.
+Blood tests:
+Routine blood tests including full blood count, electrolytes, liver function tests and thyroid function tests can be useful to exclude systemic conditions that might present with headaches such as anaemia, electrolyte imbalance, liver disease or thyroid disorders.
+Further Investigations
+If initial investigations do not reveal a cause and symptoms persist or worsen, further investigations may be necessary. These might include:
+Magnetic Resonance Imaging (MRI):
+MRI brain can provide more detailed images than CT scan and is preferred if structural lesions like tumours or vascular malformations are suspected.
+Lumbar puncture:
+Lumbar puncture is indicated if there is suspicion of central nervous system infection or subarachnoid haemorrhage that was not detected on the CT scan.
+Invasive angiography:
+Invasive angiography may be required in rare cases where vascular anomalies need to be delineated before intervention.
+Detailed Discussion on Relevant Investigations
+The decision to proceed with neuroimaging in patients with migraine should be a judicious one. The NICE guideline CG150 on headaches in over 12s: diagnosis and management clearly states that neuroimaging is not required in patients presenting with headache and a normal neurological examination unless there are specific clinical features or 'red flags'. These include sudden onset headache, new neurological deficits, seizures, change in personality or cognitive function, symptoms suggestive of elevated intracranial pressure such as
+nausea
+,
+vomiting
+or visual disturbances.
+However, if secondary causes are suspected after thorough clinical evaluation, MRI brain is preferred over CT scan due to its superior sensitivity in detecting small lesions and lack of ionising radiation. It can detect structural abnormalities like tumours, vascular malformations or demyelinating diseases that might present with headache.
+Improve
+Diagnosis
+The International Headache Society has produced the following diagnostic criteria for migraine without
+aura
+:
+Point
+Criteria
+A
+At least 5 attacks fulfilling criteria B-D
+B
+Headache attacks lasting 4-72 hours* (untreated or unsuccessfully treated)
+C
+Headache has at least two of the following characteristics:
+1. unilateral location*
+2. pulsating quality (i.e., varying with the heartbeat)
+3. moderate or severe pain intensity
+4. aggravation by or causing avoidance of routine physical activity (e.g., walking or climbing stairs)
+D
+During headache at least one of the following:
+1.
+nausea
+and/or
+vomiting
+*
+2.
+photophobia
+and
+phonophobia
+E
+Not attributed to another disorder (history and examination do not suggest a secondary headache disorder or, if they do, it is ruled out by appropriate investigations or headache attacks do not occur for the first time in close temporal relation to the other disorder)
+*In children, attacks may be shorter-lasting, headache is more commonly bilateral, and gastrointestinal disturbance is more prominent.
+Migraine with aura (seen in around 25% of migraine patients) tends to be easier to diagnose with a typical aura being progressive in nature and may occur hours prior to the headache. Typical aura include a transient hemianopic disturbance or a spreading scintillating scotoma ('jagged crescent'). Sensory symptoms may also occur
+If we compare these guidelines to the
+NICE criteria
+the following points are noted:
+NICE suggests migraines may be unilateral or bilateral
+NICE also give more detail about typical auras:
+Auras may occur with or without headache and:
+are fully reversible
+develop over at least 5 minutes
+last 5-60 minutes
+The following aura symptoms are atypical and may prompt further investigation/referral;
+motor weakness
+double vision
+visual symptoms affecting only one eye
+poor balance
+decreased level of consciousness.
+Improve
+Differential diagnosis
+The differential diagnosis of migraine, a common neurological disorder, encompasses several conditions with overlapping clinical presentations. Three of the most likely alternative diagnoses include
+tension-type headache
+(TTH),
+cluster headache
+and
+temporal arteritis
+.
+Tension-Type Headache (TTH)
+TTH is the most common type of primary headache disorder. The key differentiating factors between TTH and migraine include:
+Quality and location of pain: TTH typically presents as a bilateral, pressing or tightening sensation of mild to moderate intensity, often described as a 'band around the head'. This contrasts with the unilateral, pulsating quality of pain typically associated with migraines.
+Associated symptoms: Unlike migraines, TTHs are not accompanied by
+nausea
+or
+vomiting
+.
+Photophobia
+and
+phonophobia
+may be present but never both concurrently.
+Aggravation by physical activity: Migraine pain is usually exacerbated by routine physical activity, whereas TTH pain remains unaffected.
+Cluster Headache
+The episodic nature and severe intensity of pain in cluster headaches can mimic migraines. However, their distinct features aid in differentiation:
+Pain characteristics: Cluster headaches are characterised by strictly unilateral pain that is typically centred around the eye or temple. The pain has a piercing or burning quality and is significantly more intense than typical migraine attacks.
+Duration and frequency: Cluster headaches have a shorter duration (15 minutes to 3 hours) compared to migraines, but occur more frequently – up to several times a day during an active cluster period.
+Autonomic symptoms: Cluster headaches are associated with ipsilateral autonomic symptoms such as lacrimation, nasal congestion or rhinorrhoea which are not commonly seen in migraines.
+Temporal Arteritis
+Temporal arteritis, a form of giant cell arteritis, is an important differential to consider in older patients due to its potential for serious complications such as blindness. It differs from migraine in several ways:
+Age of onset: Temporal arteritis typically affects individuals over the age of 50, whereas migraines often begin in young adulthood.
+Pain characteristics: The headache of temporal arteritis is new-onset, persistent and localised to the temples or occiput. It lacks the pulsating quality seen in migraines.
+Systemic symptoms: Temporal arteritis may be associated with systemic symptoms like fever, weight loss and jaw claudication. These are not typical features of a migraine presentation.
+Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP): These inflammatory markers are typically elevated in temporal arteritis but are normal in migraine.
+Improve
+Management
+It should be noted that as a general rule 5-HT receptor agonists are used in the acute treatment of migraine whilst 5-HT receptor antagonists are used in prophylaxis. NICE produced guidelines in 2012 on the management of headache, including migraines.
+Acute treatment
+first-line: offer combination therapy with
+an oral triptan and an NSAID, or
+an oral triptan and
+paracetamol
+for young people aged 12-17 years consider a nasal triptan in preference to an oral triptan
+if the above measures are not effective or not tolerated offer a non-oral preparation of metoclopramide or prochlorperazine and consider adding a non-oral NSAID or triptan
+caution should be exercised when prescribing metoclopramide to young patients as acute dystonic reactions may develop
+Prophylaxis
+prophylaxis should generally be given if '
+Migraine attacks are having a significant impact on quality of life and daily function, for example they occur frequently (more than once a week on average) or are prolonged and severe despite optimal acute treatment
+'
+NICE advise one of the following:
+propranolol
+topiramate: should be avoided in women of childbearing age as it may be teratogenic and it can reduce the effectiveness of hormonal contraceptives
+amitriptyline
+if these measures fail NICE recommends 'a course of up to 10 sessions of acupuncture over 5-8 weeks'
+NICE recommend: '
+Advise people with migraine that riboflavin (400 mg once a day) may be effective in reducing migraine frequency and intensity for some people
+'
+for women with predictable menstrual migraine treatment NICE recommend either frovatriptan (2.5 mg twice a day) or zolmitriptan (2.5 mg twice or three times a day) as a type of 'mini-prophylaxis'
+treatment options that may be considered by specialists, but fall outside the NICE guidelines:
+candesartan: recommended by the  British Association for the Study of Headache guidelines
+monoclonal antibodies directed against the calcitonin gene-related peptide (CGRP) receptor: examples include erenumab
+pizotifen is no longer recommended. Adverse effects such as weight gain & drowsiness are common
+Improve
+Complications
+The complications of migraines can be categorised into acute and chronic.
+Acute Complications
+Status Migrainosus:
+This is a severe, debilitating migraine attack that lasts for more than 72 hours, despite treatment. It often necessitates hospitalisation and can lead to dehydration and stroke.
+Migrainous Infarction:
+A rare complication where patients experience an ischaemic stroke during a migraine with
+aura
+. The neurological deficits persist beyond the typical duration of the aura.
+Persistent Aura without Infarction:
+In this condition, the visual or sensory symptoms of the aura last longer than one week after the headache phase has resolved. Stroke and other intracranial pathologies must be ruled out.
+Chronic Complications
+Chronic Migraine:
+Characterised by headaches occurring on 15 or more days per month for at least three months, which have the features of migraine headache on at least eight days per month.
+Medication Overuse Headache (MOH):
+This occurs when analgesics or specific anti-migraine medications are used excessively. MOH can complicate any type of primary headache and typically resolves after overused medication is withdrawn.
+Transformed Migraine:
+Also known as chronic daily headache, it refers to a progression from episodic migraines to a pattern of daily or near-daily headaches over months to years.
+Psychiatric Comorbidities
+Migraines also have psychiatric comorbidities including depression, anxiety disorders, bipolar disorder, and panic disorder. These conditions may exacerbate migraines and complicate treatment.
+Cardiovascular Complications
+Migraine, particularly migraine with aura, is associated with an increased risk of ischaemic stroke and myocardial infarction. Other vascular events such as venous thromboembolism and hemorrhagic stroke have also been reported.
+Improve
+References
+NICE - 2012 Headache guidelines
+Clinical Knowledge Summaries - Migraine guidelines
+SIGN - 2023 Pharmacological management of migraine
+British Association for the Study of Headache - Headache guidelines
+International Headache Society - 2019 The International Classification of Headache Disorders
+Neurology
+Migraine

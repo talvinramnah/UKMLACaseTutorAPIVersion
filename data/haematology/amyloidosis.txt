@@ -1,0 +1,212 @@
+Amyloidosis
+Amyloidosis
+Amyloidosis is a rare disease characterized by the deposition of abnormal protein called amyloid in various organs and tissues. The amyloid protein can accumulate in any part of the body, including the heart, kidneys, liver, spleen, and nervous system, leading to organ dysfunction and failure. There are several types of amyloidosis, each with different clinical presentations, underlying causes, and treatment options. The diagnosis of amyloidosis requires a high index of suspicion and a combination of clinical, laboratory, and imaging tests, as well as tissue biopsy for confirmation.
+Treatment options depend on the type and extent of amyloid deposition, and may include chemotherapy, stem cell transplantation, supportive care, and organ-specific interventions. The prognosis of amyloidosis varies widely depending on the type and severity of the disease.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.80 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Myeloma
+12.50
+Amyloidosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The reasons for amyloid deposition and production are not yet known, however the specific potential aetiologies vary depending on the subtype of amyloidosis.
+The tendency for proteins to fold irregularly and therefore form amyloid fibrils can be increased by a few factors:
+A sustained increase in the concentration of the protein due to a pathology
+The presence of an unstable protein with a tendency to fold incorrectly
+However, these factors are not enough to completely explain the predisposition for amyloid deposition.  Instead, there must be a combination of environmental and genetic factors that lead to amyloidogenesis.
+Amyloidosis subtypes
+AA amyloidosis
+Tends to result as complication of severe long-term inflammatory disorders, for example, Crohn's disease, rheumatoid arthritis, ankylosing spondylitis, malignancies and conditions predisposing to recurrent infections.
+AL amyloidosis
+Usually complicates the excessive proliferation of a single clone of plasma cells but can be associated with multiple
+myeloma
+or, less commonly, Waldenstrom macroglobulinemia or non-Hodgkin lymphoma.
+ATTR amyloidosis
+This is an autosomal-dominant disease.  It is associated with at least 100 different TTR mutations, the most common being the substitution of methionine for valine at position 30.
+Improve
+Pathophysiology
+Amyloidosis results from the extracellular and or intracellular tissue deposition of insoluble amyloid fibrils that prevent the normal functioning of tissues and organs affected.  An example of this is the deposition of amyloid in the brain in Alzheimer's dementia.
+Amyloid fibrils
+Amyloid formation occurs when a protein fails to fold in a correct manner.
+These incorrectly folded proteins then assembles into an ordered fashion to form fibrils (insoluble polymers made up of low molecular weight proteins) that accumulate in the interstitial space.
+This accumulation disrupts the tissue architecture and function of organs.
+Amyloidosis subtypes
+AA amyloidosis
+Caused by deposition of the acute-phase reactant serum amyloid A (SAA)
+AL amyloidosis
+Due to fibril deposition of protein derived from monoclonal  immunoglobulin light chain fragments. It is a complication of plasma cell dyscrasia.
+ATTR amyloidosis
+The fibrils in this type of amyloidosis are made up of transthyretin (TTR).
+Improve
+Classification
+Amyloidosis is classified by the fibril protein that is deposited.  The names of these classifications start with the letter 'A' (for amyloid) followed by an abbreviation of the fibril protein involved.
+Main subtypes
+AL amyloidosis
+Formally known as primary amyloidosis, this is the most common subtype in developed countries.  The presentation with this subtype varies, but most commonly includes weakness & dyspnoea.
+The 'L' refers to the  fibril-forming monoclonal immunoglobulin light chains (most commonly of lambda isotype).  These cause damage by extracellular deposition and are usually secreted by a small plasma cell clone.
+Whist this form of plasma cell neoplasia is closely associated with multiple
+myeloma
+, it is often not malignant, with only 20% of cases progressing to myeloma.
+AL is the most severe form of amyloidosis
+AA amyloidosis
+The main target organs are the kidneys, liver and spleen.  This subtype is a complication of severe long-term inflammatory disorders.
+Common inflammatory disorders associated include: Crohn's disease, rheumatoid arthritis, ankylosing spondylitis, malignancies and conditions predisposing to recurrent infections.
+The second 'A' refers to the acute-phase reactant serum amyloid A (SAA).  Organ damage occurs from extracellular deposition of these proteolytic fragments as amyloid fibrils.
+Transthyretin amyloidosis (ATTR)
+This subtype is the most commonly inherited form of amyloidosis.
+The 'TTR' part of the name refers to the transthyretin, the transport protein that is associated in the fibril formation.
+ATTR amyloidosis is autosomal-dominant in inheritance and there are at least 100 different mutations in TTR that are associated with it.
+Improve
+Clinical features
+Clinical features vary depending on the organs involved.  The presentation often includes a multitude of signs and symptoms affecting multiple systems.
+Non-specific features are common, such as dyspnoea,
+weight loss
+, and
+fatigue
+.
+Renal disease
+Commonly presents as nephrotic syndrome (e.g. 70% present with
+proteinuria
+in AL amyloidosis).
+Common in AA amyloidosis (in 80% of cases) & AL amyloidosis, but less likely in ATTR amyloidosis.
+Cardiac disease
+Can lead to a presentation similar to heart failure.
+Syncope due to arrhythmia or heart block.
+Infarction due to deposits in coronary arteries.
+>95% is caused by ATTR & AL amyloidosis and approximately 60% of people with this subtype have cardiac infiltrates.
+Gastrointestinal disease
+Present in as many as 60% of patients with AA amyloidosis, but is less common in those with AL amyloidosis.
+Hepatomegaly
++/- splenomegaly.
+Commonly has a cholestatic picture on liver function tests.
+Other symptoms include bleeding and constipation.
+Neurological disease
+Ischaemic stroke
+Peripheral & autonomic neuropathy
+Improve
+Investigations
+Amyloidosis can be considered on clinical presentation, however it can only be diagnosed by biopsy. Whenever amyloidosis is suspected, histological investigations into the fibril type and organ involvement should be carried out.
+Primary investigations if AL amyloidosis is suspected
+:
+Serum/urine immunofixation
+A positive result shows the presence of monoclonal protein
+Serum immunofixation is positive in 60% of cases
+Urine immunofixation is positive in 80% of cases
+Immunoglobulin free light chain assay
+A positive result shows an abnormal kappa to lambda ratio
+>95% specific
+Bone marrow biopsy
+A positive result shows clonal plasma cells
+Diagnosis and determination of amyloid type:
+A biopsy of the affected organ or screening tissue (e.g. fat aspirate or rectum) is stained with
+Congo-red stain
+to test for amyloid deposits.
+This test is positive if
+apple green birefringence
+is seen under polarised light.
+Rectal biopsies were the investigation of choice in the past, however these have largely been replaced by fat pad aspiration due to lower cost and less complications.
+A negative biopsy of fat pad aspiration or rectum does not exclude amyloidosis as a diagnosis as the sensitivity of this is approximately 65%, therefore a biopsy from an apparently affected organ is preferred.
+Further investigations to evaluate organ involvement:
+Evaluation of renal involvement:
+Urinalysis -
+proteinuria
+U&Es - raised creatinine
+FBC - anaemia (caused by renal insufficiency)
+Evaluation of cardiac involvement:
+ECG - poor R wave progression in the limb leads
+Echocardiogram - reduction in ventricular size with ventricular wall thickening
+Evaluation of gastrointestinal involvement:
+LFTs - raised ALP
+Clotting - raised INR
+Blood film - Howell-Jolly bodies (reduced splenic function)
+FBC - thrombocytopenia (caused by hepatic involvement)
+Improve
+Differential diagnosis
+When a form of amyloidosis is suspected, it should be differentiated other forms of amyloidosis.  When it is not possible to identify the specific amyloid deposits, genetic studies should be used to determine any hereditary amyloidosis.
+Alternative differentials should be considered in all patients with suspected amyloidosis who have a proven plasma cell dyscrasia, for example:
+Other paraprotein-associated diseases including monoclonal immunoglobulin deposition diseases.
+Monoclonal immunoglobulin depositions disease
+:
+Randall-type light chain deposition disease (LCDD) is a systemic monoclonal immunoglobulin deposition disease characterised by light chain deposition, along basement membranes in most tissues.
+Similarities: Often leads to kidney disease, commonly presenting with
+proteinuria
+and nephrotic syndrome
+Differences: Hypertension and microscopic hematuria are more commonly and disease outside of the kidneys is rare at presentation.  This disease is Congo-red stain negative.
+Improve
+Management
+AA amyloidosis
+The mainstay of management is to treat the underlying inflammatory disorder that is causing AA amyloidosis (e.g. rheumatoid arthritis).
+Agents that help to clear amyloid from tissues are still undergoing clinical studies.
+Colchicine is useful in prophylactic treatment of AA amyloidosis complicating familial Mediterranean fever and anecdotal evidence suggests success in treatment when AA amyloidosis is a complication of inflammatory bowel disease and BehÃ§et syndrome.
+Dimethylsulfoxide (DMSO) may have anti-amyloid activity in a few forms of the disorder.  For example, it has been shown to be of use in case reports of patients with AA amyloidosis due to rheumatoid arthritis or to Crohn's disease.
+Cytotoxic and immunosuppressive agents have shown to be useful in certain cases of AA amyloidosis complicating treatment-responsive inflammatory conditions.
+AL amyloidosis
+Treatment is centred on anti-
+myeloma
+therapy, however there is no standard treatment and it should be tailored on a patient-to-patient basis depending on their values and the characteristics of the disease severity.
+First line treatment is with combination chemotherapy regimens commonly including dexamethasone.
+Proteasome inhibitor-based regimens are a preferred choice due to better response rates and outcomes in phase II studies and a bortezomib-alkylator-steroid combination is preferred where a rapid response is desirable (e.g. cardiac involvement and renal impairment).
+Local AL amyloidosis, whist rare, can occur and may be treated by surgical resection or radiotherapy .
+ATTR amyloidosis
+Treatment aims to reduce TTR synthesis and stabilise TTR tetramers.
+Reduction in TTR synthesis:
+Patisiran is an anti-TTR small interfering ribonucleic acid (siRNA). It has been shown to significantly reduce the production of both mutant and non-mutant forms of TTR.  In a study of symptomatic patient,s it reduced symptoms and improved quality of life cardiac biomarkers and function also improved.
+Inotersen is an antisense oligonucleotide inhibitor which inhibits TTR production. In a study of individuals with ATTR amyloidosis, it reduced symptoms and improved quality of life.  However, over half of patients in the  study developed thrombocytopaenia.
+Stabilisation of TTR tetramers:
+Tafamidis, a small molecule stabiliser of the TTR tetramer, which has been shown to slow progression of neuropathy in some affect patients.
+Diflunisal, a non-steroidal anti-inflammatory drug, was shown to stabilise TTR tetramers and reduce the progression of neurological impairment and preserve quality of life in a randomised control trial.
+Improve
+Complications
+Complications vary depending on the organs/systems affected.
+Common complications by organ/system involvement :
+Renal:
+End-stage renal disease - develops in approximately 20% of patients with nephrotic syndrome and is associated with a poor prognosis
+Heart:
+Heart failure (diastolic > systolic)
+Myocardial infarction (rare)
+Neurological:
+Ischaemic stroke - may be the initial presentation of amyloidosis (approx 33% of patients with biopsy confirmed primary amyloidosis and ischaemic stroke presented with stroke as their initial presentation)
+Alzheimer disease - accumulation of amyloid beta (Aβ) protein in the central nervous system.
+Endocrine:
+Type-2 diabetes (T2DM) - the majority of patients with T2DM have amyloid deposits in the islets of Langerhans, however it is not known whether these amyloid deposits have a causative role in T2DM, or are a consequence of defective insulin secretion.  Furthermore, patients with T2DM have almost twice the probability of developing Alzheimer's dementia.
+Improve
+Prognosis
+AL amyloidosis
+Prognosis largely depends on the success of the treatment to suppress light chain synthesis.
+With complete response to therapy, the 7-year survival is approximately 80%.
+With patients that achieve a 50% reduction with therapy at 7 years, survival is 57%.
+The outcome is also determined by organ involvement.  Median survival may be as short as four to six months, with cardiac or hepatic failure and infection being the major causes of death.
+On the other hand, patients with limited organ involvement can expect a median survival in excess of five years.
+AL amyloidosis presenting in combination with multiple
+myeloma
+has a poor prognosis.
+AA amyloidosis
+AA amyloidosis is slowly progressive but can be fatal without treatment.
+Prognosis is impacted by whether amyloid deposition is glomerular or purely vascular.
+A study from Finland found that the diagnosis of amyloidosis shortened the lifespan of rheumatoid arthritis patients by 7.7 years.
+ATTR amyloidosis
+Median survival  is typically 3-5â-years from diagnosis.
+Death is most commonly caused by arrhythmias or heart failure due to myocardial amyloidosis and cardiac involvement has the worst prognosis.
+Improve
+References
+Journal of the American Heart Association - Updates in Cardiac Amyloidosis: A Review
+Haematology
+Amyloidosis

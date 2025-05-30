@@ -1,0 +1,80 @@
+Benign paroxysmal positional vertigo
+Benign paroxysmal positional vertigo
+Benign paroxysmal positional
+vertigo
+(BPPV) is one of the most common causes of vertigo encountered. It is characterised by the sudden onset of dizziness and vertigo triggered by changes in head position. The average age of onset is 55 years and it is less common in younger patients.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 64.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: more common in females 3:1
+Condition
+Relative
+incidence
+Benign paroxysmal positional
+vertigo
+1
+Vestibular neuronitis
+0.06
+Viral labyrinthitis
+0.05
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Features
+vertigo
+triggered by change in head position (e.g. rolling over in bed or gazing upwards)
+may be associated with
+nausea
+each episode typically lasts 10-20 seconds
+positive Dix-Hallpike manoeuvre
+Improve
+Management
+BPPV has a good prognosis and usually resolves spontaneously after a few weeks to months. Symptomatic relief may be gained by:
+Epley manoeuvre
+(successful in around 80% of cases)
+teaching the patient exercises they can do themselves at home, termed vestibular rehabilitation, for example Brandt-Daroff exercises
+Medication is often prescribed (e.g. Betahistine) but it tends to be of limited value.
+Improve
+Prognosis
+Natural History
+BPPV is generally a
+self-limiting condition
+with approximately 20-30% of cases resolving spontaneously within 1 month and up to 50% within 3 months without treatment
+However, recurrence is common, with 15-50% of patients experiencing a relapse within 1-5 years after the initial episode
+Recurrence rates are higher in older patients and those with secondary BPPV (e.g. post-traumatic)
+The posterior canal is most commonly affected in recurrent cases, though canal involvement may change between episodes
+Treatment Outcomes
+Canalith repositioning procedures (CRPs) such as the Epley manoeuvre significantly improve prognosis
+Single Epley manoeuvre resolves symptoms in approximately 80% of patients after one session
+Success rates increase to >90% with repeated procedures
+NICE Clinical Knowledge Summary
+recommends CRPs as first-line treatment due to their high efficacy and safety profile
+Untreated BPPV is associated with increased risk of falls, particularly in the elderly population
+This risk is substantially reduced following successful treatment
+Long-term Considerations
+Persistent or frequently recurring BPPV may lead to:
+Avoidance behaviours and activity limitation
+Increased anxiety and reduced quality of life
+Higher healthcare utilisation
+Factors associated with poorer prognosis include:
+Advanced age (>70 years)
+Multiple canal involvement
+Secondary BPPV (particularly post-traumatic)
+Coexisting vestibular disorders
+No evidence suggests that BPPV leads to permanent vestibular damage or neurological sequelae
+Improve
+References
+Clinical Knowledge Summaries - Benign paroxysmal positional vertigo guidelines
+Ear, nose and throat
+Benign paroxysmal positional vertigo

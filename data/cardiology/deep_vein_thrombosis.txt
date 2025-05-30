@@ -1,0 +1,269 @@
+Deep vein thrombosis
+Deep vein thrombosis
+Deep vein thrombosis (DVT)
+is a significant medical condition characterised by the formation of a thrombus within the deep venous system, typically in the lower extremities. DVT can be categorised as either proximal, involving the popliteal vein or above, or distal, confined to the calf veins. The pathogenesis is attributed to Virchow's triad: endothelial damage, hypercoagulability and stasis.
+The clinical presentation varies, with some patients being asymptomatic while others present with pain, swelling and erythema. The Wells score aids in determining pre-test probability of DVT. Diagnostic confirmation typically involves compression ultrasonography and D-dimer testing.
+The mainstay of treatment is anticoagulation therapy to prevent propagation or embolisation of the clot. Low molecular weight heparin and direct oral anticoagulants are commonly utilised.
+Last updated: 9
+th
+May 2024
+Epidemiology
+Incidence: 100.00 cases per 100,000 person-years
+Peak incidence: 60-70 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Cellulitis
+15.00
+Deep vein thrombosis
+1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+There are several risk factors for developing a DVT, including:
+Demographic: male, over 60
+Immobilisation: hospitalisation, bedbound, long haul flights
+Major risk factor for the development of DVT with long haul flights conferring a 2 fold increased risk and hospitalisation conferring a 10 fold increased risk.
+Inflammatory state: vasculitis, sepsis
+Malignancy
+Approximately 20% of patients with a DVT or PE have a form of cancer.
+Patients who have an unprovoked DVT need a thorough history and examination to screen for malignancy (an further investigation if any positive findings).
+Medication: chemotherapy, hormone replacement therapy/oral contraceptive pill
+Obesity
+Confers a 2-3 fold increased risk when BMI is >30kg/mÂ².
+Pregnancy
+This is a prothrombotic state as there is venous stasis from the gravid uterus obstructing venous return, cardiovascular changes associated with pregnancy affect the endothelium and changes in the clotting cascade favour hypercoagulability.
+Associated with a 5 fold increase in developing DVT compared to pre-pregnancy.
+Previous
+venous thromboembolism
+(may indicate underlying thrombophilia)
+Recent surgery or trauma
+Smoking
+Varicose veins
+These factors affect one of Virchow's triad, predisposing to DVT.
+Improve
+Pathophysiology
+Virchow's triad encompasses the 3 changes that contribute to the formation of venous thromboses:
+Hypercoagulability of blood
+Hereditary causes: factor V Leiden, anti-thrombin 3 deficiency, protein C/S deficiency
+Acquired causes: malignancy, oral contraceptive pill, hormone replacement therapy, pregnancy
+Stasis of blood
+Usually due to immobilisation e.g. in plaster casts or long haul flights
+Changes to endothelium
+Endothelial dysfunction due to hypertension or the effects of cigarette smoking
+Endothelial damage from trauma or cental venous access lines
+Altered blood flow in pockets adjacent to venous valves â→ changes in blood flow/composition/endothelium (Virchow's triad) further compound this micro-environment to make it prothrombotic  â→ venous thrombus forms which is composed of platelets centrally and red cell/fibrin exterior â→ DVT propagates proximally (in the direction of blood flow)
+Improve
+Clinical features
+Deep vein thrombosis (DVT) usually presents with unilateral
+leg pain
+and swelling:
+The pain is commonly found in the lower leg and exacerbated by exertion.
+The patient may describe this as 'cramping' or 'throbbing' in nature.
+The severity of pain is not correlated with the extent of the DVT.
+Swelling is usually confined to the calves.
+An extensive DVT may cause swelling of the entire leg.
+There may be associated pitting oedema.
+Skin changes include
+Discolouration of the affected leg ranging from pallor (uncommon) to cyanosis and diffuse erythema.
+Superficial veins become distended and more prominent in approximately 17% of patients (it is worth noting that up to 20% of patients without DVT will have dilated superficial leg veins).
+Examination of the affected leg may reveal
+Increased temperature.
+A tender calf that is more solid in consistency.
+Tenderness upon palpation of the deep veins of the leg.
+A difference in size in the calves (each calf should be measured at the level of 10cm below the tibial tuberosity and a difference of 3cm or more is counted as significant).
+Pulmonary embolism (PE) is a complication of DVT and co-exists in 40-50% of patients. Up to 30% of patients will have no symptoms attributable to a PE.
+*This article focuses lower limb DVTs as these account for approximately 90% of limb DVTs. DVTs that occur in the upper limb are usually on the background of there being an anatomical variance in the vasculature, central line placement or malignancy.
+Improve
+Investigations
+If a patient is suspected of having a DVT a two-level DVT Wells score should be performed:
+Two-level DVT Wells score
+Clinical feature
+Points
+Active cancer (treatment ongoing, within 6 months, or palliative)
+1
+Paralysis, paresis or recent plaster immobilisation of the lower extremities
+1
+Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia
+1
+Localised tenderness along the distribution of the deep venous system
+1
+Entire leg swollen
+1
+Calf swelling
+at least 3 cm larger than asymptomatic side
+1
+Pitting oedema confined to the symptomatic leg
+1
+Collateral superficial veins (non-varicose)
+1
+Previously documented DVT
+1
+An alternative diagnosis is at least as likely as DVT
+-2
+Clinical probability simplified score
+DVT likely: 2 points or more
+DVT unlikely: 1 point or less
+If a DVT is 'likely' (2 points or more)
+a proximal leg vein ultrasound scan should be carried out within 4 hours
+if the result is positive then a diagnosis of DVT is made and anticoagulant treatment should start
+if the result is negative a D-dimer test should be arranged.  A negative scan and negative D-dimer makes the diagnosis unlikely and alternative diagnoses should be considered
+if a proximal leg vein ultrasound scan cannot be carried out within 4 hours a D-dimer test should be performed and interim therapeutic anticoagulation administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)
+interim therapeutic anticoagulation used to mean giving low-molecular weight heparin
+NICE updated their guidance in 2020. They now recommend using an anticoagulant that can be continued if the result is positive.
+this means normally a direct oral anticoagulant (
+DOAC
+) such as
+apixaban
+or
+rivaroxaban
+if the scan is negative but the D-dimer is positive:
+stop interim therapeutic anticoagulation
+offer a repeat proximal leg vein ultrasound scan 6 to 8 days later
+If a DVT is 'unlikely' (1 point or less)
+perform a D-dimer test
+this should be done within 4 hours. If not, interim therapeutic anticoagulation should be given until the result is available
+if the result is negative then DVT is unlikely and alternative diagnoses should be considered
+if the result is positive then a proximal leg vein ultrasound scan should be carried out within 4 hours
+if a proximal leg vein ultrasound scan cannot be carried out within 4 hours interim therapeutic anticoagulation should be administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)
+D-dimer tests
+NICE recommend either a point-of-care (finger prick) or laboratory-based test
+age-adjusted cut-offs should be used for patients > 50 years old
+Improve
+Diagnosis
+Diagnosis
+NICE published guidelines in 2012 relating to the investigation and management of deep vein thrombosis (DVT).
+If a patient is suspected of having a DVT a two-level DVT Wells score should be performed:
+Two-level DVT Wells score
+Clinical feature
+Points
+Active cancer (treatment ongoing, within 6 months, or palliative)
+1
+Paralysis, paresis or recent plaster immobilisation of the lower extremities
+1
+Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia
+1
+Localised tenderness along the distribution of the deep venous system
+1
+Entire leg swollen
+1
+Calf swelling
+at least 3 cm larger than asymptomatic side
+1
+Pitting oedema confined to the symptomatic leg
+1
+Collateral superficial veins (non-varicose)
+1
+Previously documented DVT
+1
+An alternative diagnosis is at least as likely as DVT
+-2
+Clinical probability simplified score
+DVT likely: 2 points or more
+DVT unlikely: 1 point or less
+If a DVT is 'likely' (2 points or more)
+A proximal leg vein ultrasound scan should be carried out within 4 hours and, if the result is negative, a D-dimer test
+If a proximal leg vein ultrasound scan cannot be carried out within 4 hours a D-dimer test should be performed and low-molecular weight heparin administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)
+If a DVT is 'unlikely' (1 point or less)
+Perform a D-dimer test and if it is positive arrange:
+A proximal leg vein ultrasound scan within 4 hours
+If a proximal leg vein ultrasound scan cannot be carried out within 4 hours low-molecular weight heparin should be administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)
+Improve
+Differential diagnosis
+Possible differential diagnoses for DVT include:
+Cellulitis
+Is usually caused by
+Staphylococci
+or
+Streptococci
+infection of the skin/subcutaneous tissue.
+Risk factors include diabetes mellitus, lymphoedema, intravenous drug use and chronic venous insufficiency.
+Similarities: presents with unilateral (usually) erythema, swelling, pain and warmth of the affected area.
+Differences: usually accompanied by fever and raised inflammatory markers.
+Superficial thrombophlebitis
+Is due to an inflammatory response in a superficial vein, which causes the blood to clot within it.
+Can be iatrogenic due to cannulas/infusion of an irritant drug.
+Similarities: pain and erythema are common presentations.
+Differences: oedema and erythema are localised to the area around the affected part of the vein rather than causing changes in the whole leg; the thrombus may be palpable as feel along the course of the affected vein.
+Dependent oedema
+Similarities: oedema may be pitting.
+Differences: often bilateral and worse at the end of the day.
+Liver cirrhosis/nephrotic syndrome
+Similarities: leg oedema is common (due to hypoalbuminaemia) and there may be associated erythema.
+Differences: symptoms are bilateral.
+Ruptured Baker's cyst
+There is likely to be a history of swelling behind the knee.
+Similarities: presents with pain in the calf.
+Differences: bruising may appear below the medial malleolus which is known as the crescent sign.
+Trauma
+Includes leg fractures and calf haematoma, and should be evident from the history.
+Improve
+Management
+The cornerstone of
+VTE
+management is anticoagulant therapy. This was historically done with warfarin, often preceded by heparin until the INR was stable. However, the development of
+DOACs
+, and an evidence base supporting their efficacy, has changed modern management.
+Choice of anticoagulant
+the big change in the 2020 guidelines was the increased use of DOACs
+apixaban
+or
+rivaroxaban
+(both DOACs) should be offered first-line following the diagnosis of a DVT
+instead of using low-molecular weight heparin (LMWH) until the diagnosis is confirmed, NICE now advocate using a
+DOAC
+once a diagnosis is suspected, with this continued if the diagnosis is confirmed
+if neither apixaban or rivaroxaban are suitable then either LMWH followed by
+dabigatran
+or
+edoxaban
+OR LMWH followed by a vitamin K antagonist (VKA, i.e. warfarin)
+if the patient has active cancer
+previously LMWH was recommended
+the new guidelines now recommend using a DOAC, unless this is contraindicated
+if renal impairment is severe (e.g. < 15/min) then LMWH, unfractionated heparin or LMWH followed by a VKA
+if the patient has antiphospholipid syndrome (specifically 'triple positive' in the guidance) then LMWH followed by a VKA should be used
+Length of anticoagulation
+all patients should have anticoagulation for at least 3 months
+continuing anticoagulation after this period is partly determined by whether the VTE was provoked or unprovoked
+a provoked VTE is due to an obvious precipitating event e.g. immobilisation following major surgery. The implication is that this event was transient and the patient is no longer at increased risk
+an unprovoked VTE occurs in the absence of an obvious precipitating event, i.e. there is a possibility that there are unknown factors (e.g. mild thrombophilia) making the patient more at risk from further clots
+if the  VTE was provoked the treatment is typically stopped after the initial 3 months (3 to 6 months for people with active cancer)
+if the VTE was unprovoked then treatment is typically continued for up to 3 further months (i.e. 6 months in total)
+NICE recommend that whether a patient has a total of 3-6 months anticoagulant is based upon balancing  a person's risk of VTE recurrence and their risk of bleeding
+the HAS-BLED score can be used to help assess the risk of bleeding
+NICE state: '
+Explain to people with unprovoked DVT or PE and a low bleeding risk that the benefits of continuing anticoagulation treatment are likely to outweigh the risks.
+'. The implication of this is that in the absence of a bleeding risk factors, patients are generally better off continuing anticoagulation for a total of 6 months
+Improve
+Complications
+Deep vein thrombosis (DVT) can lead to serious complications, notably pulmonary embolism (PE) and post-thrombotic syndrome (PTS).
+Pulmonary Embolism (PE)
+PE occurs in approximately 10% of patients with untreated DVT and is a major cause of morbidity and mortality. The condition involves the dislodgement of a thrombus from the deep veins, typically in the legs, which then travels to the pulmonary arteries, causing a blockage.
+Clinical Presentation:
+Symptoms of PE can vary greatly but typically include acute onset shortness of breath, chest pain that intensifies with deep breathing, rapid heart rate, and in severe cases, syncope.
+Diagnosis:
+Computed tomography pulmonary angiography (CTPA) is the preferred diagnostic tool due to its high sensitivity and specificity. Additional diagnostic methods include D-dimer testing and, where appropriate, ventilation-perfusion (V/Q) scans.
+Post-Thrombotic Syndrome (PTS)
+PTS develops in approximately 20% to 50% of patients within two years following a DVT. This syndrome results from chronic venous insufficiency due to damaged valves in the veins, leading to blood pooling and increased venous pressure.
+Clinical Presentation:
+Common manifestations include persistent
+leg pain
+, swelling, and heaviness. Chronic venous insufficiency may also lead to skin changes such as hyperpigmentation, eczema, and, ultimately, venous ulcers.
+Diagnosis:
+PTS is primarily diagnosed based on clinical evaluation and history of DVT. Duplex ultrasonography is crucial for confirming venous reflux and valve dysfunction.
+Improve
+References
+NICE - 2020 Venous thromboembolism guidelines
+MDCalc - Wells' criteria for DVT
+Cardiology
+Deep vein thrombosis

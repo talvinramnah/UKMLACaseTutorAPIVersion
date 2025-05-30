@@ -1,0 +1,63 @@
+Achalasia
+Achalasia
+Achalasia is a rare primary oesophageal motility disorder characterized by impaired relaxation of the lower oesophageal sphincter (LES) and the absence of coordinated peristalsis in the oesophageal body. This leads to
+dysphagia
+, regurgitation of undigested food, and
+chest pain
+. The aetiology remains poorly understood, but it is believed to involve an autoimmune or viral insult to the myenteric plexus.
+Last updated: 21
+st
+April 2023
+Epidemiology
+Incidence: 2.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+The pathophysiology of achalasia involves a loss of inhibitory neurons in the myenteric plexus, leading to the absence of nitric oxide (NO) and vasoactive intestinal peptide (VIP). This results in the failure of the LES to relax and uncoordinated peristalsis in the oesophagal body. Additionally, there is a relative increase in excitatory neurotransmitters such as acetylcholine and substance P, leading to an imbalance in the oesophagal motor function.
+Improve
+Clinical features
+Clinical features
+dysphagia
+of BOTH liquids and solids
+typically variation in severity of symptoms
+heartburn
+regurgitation of food - may lead to
+cough
+, aspiration pneumonia etc
+malignant change in small number of patients
+Improve
+Investigations
+Oesophagogastroduodenoscopy (OGD)
+usually done first-line to rule out mechanical obstruction and assess for mucosal abnormalities
+Specific investigations
+oesophageal manometry
+excessive LOS tone which doesn't relax on swallowing
+considered the most important diagnostic test
+barium swallow
+shows grossly expanded oesophagus, fluid level
+'bird's beak' appearance
+chest x-ray
+wide mediastinum
+fluid level
+Improve
+Management
+Treatment
+pneumatic (balloon) dilation is increasingly the preferred first-line option
+less invasive and quicker recovery time than surgery
+patients should be a low surgical risk as surgery may be required if complications occur
+surgical intervention with a Heller cardiomyotomy should be considered if recurrent or persistent symptoms
+intra-sphincteric injection of botulinum toxin is sometimes used in patients who are a high surgical risk
+drug therapy (e.g. nitrates, calcium channel blockers) has a role but is limited by side-effects
+Improve
+Gastroenterology
+Achalasia

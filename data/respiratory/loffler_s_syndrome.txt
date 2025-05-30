@@ -1,0 +1,141 @@
+Loffler's syndrome
+Loffler's syndrome
+Loffler's syndrome
+is a rare, transient pulmonary condition characterised by peripheral eosinophilia and migratory pulmonary infiltrates. It's primarily induced by parasitic infections, especially helminths like
+Ascaris lumbricoides
+,
+Strongyloides stercoralis
+, and
+Toxocara canis
+. However, it may also occur due to drugs or idiopathically.
+The syndrome typically presents with non-specific symptoms such as fever, cough and malaise. Radiographic findings often show fleeting infiltrates, while laboratory investigations reveal marked eosinophilia. The diagnosis is confirmed through serological tests identifying specific antigens or antibodies for the suspected parasite.
+Treatment primarily involves addressing the underlying cause. Antiparasitic therapy is given in case of parasitic infestations while offending drugs are discontinued in drug-induced cases. Corticosteroids may be used in severe cases or when the cause cannot be identified.
+Last updated: 1
+st
+January 2025
+Aetiology
+Loffler's syndrome, also known as eosinophilic pneumonia, is characterised by a transient pulmonary infiltrate and peripheral eosinophilia. It was first described by Wilhelm Loffler in 1932. The underlying causes and risk factors for the development of this condition are multifactorial and can be categorised into parasitic infections, drugs and idiopathic causes.
+Parasitic Infections
+The most common cause of Loffler's syndrome worldwide is parasitic infection. The primary pathogens implicated include
+Ascaris lumbricoides
+,
+Strongyloides stercoralis
+,
+Ancylostoma duodenale
+,
+Necator americanus
+, and
+Toxocara canis
+.
+These parasites induce a type II hypersensitivity reaction leading to tissue eosinophilia.
+Risk factors for these infections typically include poor sanitation, close contact with soil, and consumption of contaminated food or water.
+Drug-Induced Causes
+Certain medications have been associated with drug-induced Loffler's syndrome. These include nonsteroidal anti-inflammatory drugs (NSAIDs), antibiotics such as penicillins and cephalosporins, anticonvulsants, antidepressants, and illicit drugs like cocaine.
+The pathophysiological mechanism involves an immunological reaction to the drug or its metabolites leading to eosinophilic lung infiltration.
+Predisposing factors for drug-induced Loffler's syndrome are not clearly defined but may include genetic predisposition or concurrent autoimmune diseases.
+Idiopathic Causes
+In some cases, the cause of Loffler's syndrome remains unknown and is termed idiopathic. These cases are often referred to as simple pulmonary eosinophilia.
+The pathophysiological mechanism is unclear but may involve an abnormal immune response leading to eosinophilic infiltration of the lungs.
+Improve
+Pathophysiology
+Loffler's syndrome
+, also known as eosinophilic pneumonia, is characterised by a transient pulmonary infiltrate and peripheral eosinophilia. The pathophysiology of Loffler's syndrome is complex and multifactorial, involving interplay between various components of the immune system, lung parenchyma and environmental triggers.
+The key steps in the pathophysiology are:
+Eosinophilic activation:
+The initial trigger for Loffler's syndrome is often an exposure to certain drugs or parasites. This exposure stimulates T-helper 2 (Th2) cells to release interleukins (IL-4, IL-5, IL-13), which promote differentiation of eosinophils in the bone marrow and their subsequent release into circulation.
+Eosinophilic infiltration:
+Under the influence of chemokines like eotaxin and RANTES (Regulated on Activation, Normal T Cell Expressed and Secreted), circulating eosinophils migrate to the lungs. Here they adhere to vascular endothelium via selectins and integrins before transmigrating across it into lung tissue.
+Pulmonary inflammation:
+Once within lung parenchyma, eosinophils release cytotoxic granules containing major basic protein (MBP), eosinophil cationic protein (ECP), eosinophil-derived neurotoxin (EDN) and eosinophil peroxidase (EPO). These proteins cause local tissue damage leading to inflammation and formation of pulmonary infiltrates characteristic of Loffler's syndrome.
+Fibrosis:
+In some cases where there is persistent inflammation, fibroblasts proliferate excessively leading to deposition of extracellular matrix proteins such as collagen. This results in fibrosis, which can cause restrictive lung disease if extensive.
+It is important to note that the severity of Loffler's syndrome is largely dependent on the degree of eosinophilic infiltration and subsequent inflammation. Mild cases may be asymptomatic or present with non-specific symptoms such as cough and dyspnoea, while severe cases can lead to
+respiratory
+failure due to extensive lung parenchyma damage.
+Improve
+Clinical features
+A stereotypical presentation of Loffler's syndrome often commences with a prodromal phase characterised by general malaise, fatigue, low-grade fever and cough. The cough may initially be non-productive but can progress to producing mucoid or purulent sputum. As the disease progresses, the patient may also exhibit dyspnoea and wheezing due to eosinophilic infiltration of the lung parenchyma.
+Respiratory
+Manifestations
+Cough:
+It is typically dry at first but may later become productive with clear or yellowish sputum.
+Dyspnoea:
+Shortness of breath that can range from mild exertional dyspnoea to severe respiratory distress.
+Wheezing:
+This occurs secondary to bronchospasm as a result of eosinophilic inflammation.
+Chest discomfort:
+This could be due to pleuritic chest pain or discomfort on deep inspiration.
+Systemic Manifestations
+Fever:
+Low-grade fever is common in the early stages of the disease.
+Musculoskeletal symptoms:
+Patients may experience myalgia, arthralgia or even arthritis.
+Skin manifestations:
+Dermatological presentations can include urticaria, angioedema and erythema nodosum.
+Gastrointestinal symptoms:
+These are less common but can include abdominal pain, nausea and diarrhoea. In rare cases, eosinophilic gastroenteritis may occur.
+In addition to these clinical features, Loffler's syndrome is characterised by peripheral eosinophilia and transient pulmonary infiltrates on imaging studies. The diagnosis is often confirmed by a high eosinophil count in the blood or tissues.
+It should be noted that the presence of cardiac symptoms, such as palpitations, chest pain or signs of congestive heart failure, may suggest progression to eosinophilic myocarditis, a serious complication associated with
+Loeffler's syndrome
+.
+The clinical presentation can also be influenced by the underlying cause of Loffler's syndrome. For instance, patients with parasitic infections may have additional features like hepatosplenomegaly, lymphadenopathy or signs of systemic illness. Similarly, drug-induced Loffler's syndrome may be associated with specific drug-related side effects.
+Improve
+Investigations
+Loffler's syndrome, also known as eosinophilic pneumonia, requires a systematic approach for its investigation. The primary aim is to confirm the diagnosis and exclude other diseases with similar presentations. This guide will outline the necessary steps in investigating a patient with suspected Loffler's syndrome.
+First-line investigations
+The initial investigations should focus on confirming eosinophilia and assessing the pulmonary involvement.
+Full Blood Count (FBC):
+An elevated eosinophil count (>500 cells/µL) is typically seen in Loffler's syndrome. It provides an initial confirmation of systemic eosinophilia.
+Chest X-ray:
+Radiological findings are non-specific but usually reveal transient migratory infiltrates. However, these changes may not be visible in the early stages of the disease.
+Pulmonary function tests:
+These tests assess lung function and can show restrictive lung disease pattern which is common in Loffler's syndrome.
+Further Investigations
+If first-line investigations suggest Loffler's syndrome, further diagnostic procedures may be required to rule out other causes of pulmonary eosinophilia and confirm the diagnosis.
+Sputum Examination:
+Induced sputum sample should be obtained for cytology to identify any increase in eosinophils. It can also be used for microbiological examination to rule out parasitic infections such as
+Ascaris lumbricoides
+,
+Strongyloides stercoralis
+, or fungal infections that may cause pulmonary eosinophilia.
+Blood Parasite Serology:
+Specific serological tests can help identify parasitic infestations causing similar symptoms.
+High-resolution Computed Tomography (HRCT):
+HRCT of the chest may show ground-glass opacities, centrilobular nodules or consolidation. These findings can help differentiate Loffler's syndrome from other eosinophilic lung diseases.
+Bronchoscopy with Bronchoalveolar Lavage (BAL):
+This invasive procedure is considered when non-invasive tests are inconclusive. BAL fluid analysis typically reveals eosinophilia (>25%). It also helps exclude infectious causes and malignancies.
+In some cases, a tissue biopsy may be required to confirm the diagnosis. However, this is generally avoided due to its invasive nature and potential risks.
+Improve
+Differential diagnosis
+While diagnosing Loffler's syndrome, it is essential to consider other conditions that present with similar clinical manifestations. The most likely alternative diagnoses include:
+Asthma
+Asthma is a chronic inflammatory disorder of the airways characterised by reversible airflow obstruction and bronchospasm. Unlike Loffler's syndrome, which is typically transient and associated with peripheral eosinophilia, asthma is a long-term condition often related to an atopic background. The presence of nocturnal symptoms, exercise-induced bronchoconstriction and family history may suggest asthma over Loffler's syndrome.
+Eosinophilic pneumonia
+Eosinophilic pneumonia presents with a similar clinical picture to Loffler's syndrome but tends to have a more severe course. It can be idiopathic or secondary to drugs, infections or connective tissue diseases. Both conditions are characterised by pulmonary infiltrates and peripheral eosinophilia; however, eosinophilic pneumonia often manifests with severe
+respiratory
+distress requiring oxygen therapy or mechanical ventilation.
+Tuberculosis (TB)
+Tuberculosis can mimic the clinical presentation of Loffler's syndrome in its early stages. Both conditions may present with cough, fever, weight loss and night sweats. However, TB typically has a more gradual onset and may be associated with haemoptysis and chest pain. The presence of risk factors such as close contact with a TB patient, immunocompromising conditions or travel history to endemic areas should raise suspicion for tuberculosis.
+Improve
+Management
+Management of Loffler's syndrome primarily involves treating the underlying cause, typically a parasitic infection, and managing symptoms. Antiparasitic therapy is often necessary, along with corticosteroids to reduce inflammation. Close monitoring of patient's condition is essential due to potential complications such as cardiac involvement.
+Treatment of underlying cause:
+Antiparasitic therapy: Effective against the causative organism. The choice of agent depends on the specific parasite identified.
+If an allergic reaction or drug toxicity is suspected as the cause, immediate discontinuation of the offending agent should be done.
+Symptomatic management:
+Corticosteroids: These are used to manage eosinophilic inflammation, particularly in cases where
+respiratory
+symptoms are prominent.
+Oxygen therapy may be required in severe cases presenting with hypoxia.
+Monitoring and follow-up:
+Regular clinical assessment: Monitor for signs of disease progression or complications such as cardiac involvement.
+Laboratory monitoring: Regular full blood counts should be performed to monitor eosinophil levels. Other tests may include liver function tests and renal function tests depending on the patient's clinical status and response to treatment.
+Referral and multi-disciplinary approach:
+In complex cases or when there is uncertainty regarding diagnosis or management, referral to a specialist in infectious diseases or haematology may be appropriate.
+A multi-disciplinary approach involving cardiologists, pulmonologists, and other specialists may be needed for patients with severe disease or complications.
+Improve
+Prognosis
+Generally a self-limiting disease.
+Improve
+Respiratory
+Loffler's syndrome

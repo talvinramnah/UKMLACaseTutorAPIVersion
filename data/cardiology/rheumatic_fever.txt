@@ -1,0 +1,134 @@
+Rheumatic fever
+Rheumatic fever
+Rheumatic
+fever
+develops following an immunological reaction to recent (2-6 weeks ago)
+Streptococcus pyogenes
+infection. The condition can affect multiple organ systems, including the heart, joints, skin, and central nervous system, and may lead to long-term sequelae, such as rheumatic heart disease.
+Last updated: 28
+th
+March 2023
+Epidemiology
+Incidence: 1.00 cases per 100,000 person-years
+Peak incidence: 6-15 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Pathophysiology
+Pathogenesis
+Streptococcus pyogenes
+infection → activation of the innate immune system leading to antigen presentation to T cells
+B and T cells produce IgG and IgM antibodies and CD4+ T cells are activated
+there is then a cross-reactive immune response (a form of type II hypersensitivity) thought to be mediated by molecular mimicry
+the cell wall of
+Streptococcus pyogenes
+includes M protein, a virulence factor that is highly antigenic. It is thought that the antibodies against M protein cross-react with myosin and the smooth muscle of arteries
+this response leads to the clinical features of rheumatic
+fever
+Aschoff bodies describes the granulomatous nodules found in rheumatic heart fever
+Improve
+Clinical features
+Diagnosis is based on evidence of recent streptococcal infection accompanied by:
+2 major criteria
+1 major with 2 minor criteria
+Evidence of recent streptococcal infection
+raised or rising streptococci antibodies,
+positive throat swab
+positive rapid group A streptococcal antigen test
+Major criteria
+erythema marginatum
+a cutaneous manifestation seen in approximately 5% of patients with rheumatic
+fever
+it presents as non-pruritic erythematous macules or annular lesions with clear centres and well-defined margins that typically appear on the trunk and proximal extremities
+the
+rash
+may be transient or recurrent and often worsens with heat exposure.
+Sydenham's
+chorea
+: this is often a late feature
+this neurological manifestation occurs in about 10-30% of patients with rheumatic fever and is characterized by involuntary movements, muscular weakness, and emotional disturbances
+chorea presents with involuntary, non-rhythmic, and purposeless movements that can affect the extremities, trunk, or facial muscles
+emotional lability, irritability, and attention deficit may also be present.
+polyarthritis
+migratory polyarthritis affects approximately 75% of patients with rheumatic fever and typically involves large joints such as knees, ankles, elbows, and wrists
+the arthritis presents as painful joint swelling with overlying erythema that migrates from one joint to another over a period of days or weeks
+aspiration of synovial fluid may reveal sterile inflammation without any organisms present.
+carditis and valvulitis (eg, pancarditis)
+carditis is the most significant manifestation of rheumatic fever due to its potential for causing long-term sequelae such as rheumatic heart disease
+it occurs in approximately 50% to 70% of cases and can involve all three layers of the heart - pericardium, myocardium, and endocardium
+pericarditis presents with chest pain, friction rubs on auscultation, and possible evidence of pericardial effusion on imaging
+myocarditis may manifest as congestive heart failure with symptoms such as dyspnoea, orthopnoea, paroxysmal nocturnal dyspnea or even cardiogenic shock in severe cases.
+endocarditis is characterized by valvular regurgitation murmurs (most commonly mitral and aortic), which may lead to chronic valvular dysfunction.
+the latest iteration of the Jones criteria (published in 2015) state that rheumatic carditis cannot be based on pericarditis or myocarditis alone and that there must be evidence of endocarditis (the clinical correlate of which is valvulitis which manifests as a regurgitant
+murmur
+)
+subcutaneous nodules
+an uncommon manifestation of rheumatic fever, occurring in about 1-5% of cases
+these painless nodules are usually small (0.5 to 2 cm in diameter) and firm, located over bony prominences or extensor surfaces such as elbows, wrists, knees, ankles or spinous processes of vertebrae
+they are typically mobile and not attached to the overlying skin.
+Minor criteria
+raised ESR or CRP
+pyrexia
+arthralgia
+(not if arthritis a major criteria)
+prolonged PR interval
+Improve
+Diagnosis
+Diagnosis is based on evidence of recent streptococcal infection accompanied by:
+2 major criteria
+1 major with 2 minor criteria
+Evidence of recent streptococcal infection
+raised or rising streptococci antibodies,
+positive throat swab
+positive rapid group A streptococcal antigen test
+Major criteria
+erythema marginatum
+Sydenham's
+chorea
+: this is often a late feature
+polyarthritis
+carditis and valvulitis (eg, pancarditis)
+The latest iteration of the Jones criteria (published in 2015) state that rheumatic carditis cannot be based on pericarditis or myocarditis alone and that there must be evidence of endocarditis (the clinical correlate of which is valvulitis which manifests as a regurgitant
+murmur
+)
+subcutaneous nodules
+Minor criteria
+raised ESR or CRP
+pyrexia
+arthralgia
+(not if arthritis a major criteria)
+prolonged PR interval
+fever
+. It is rare in adults">
+Improve
+Management
+Eradication of GAS infection:
+Antibiotics: Penicillin is the drug of choice for treating GAS infection. Oral penicillin V or intramuscular benzathine penicillin G is typically administered. For patients allergic to penicillin, alternatives include oral erythromycin, azithromycin, or first-generation cephalosporins.
+Anti-inflammatory therapy:
+Aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs): High-dose aspirin or other NSAIDs are used to manage inflammation and reduce symptoms such as
+fever
+,
+joint pain
+, and swelling. These medications should be used with caution in patients with gastrointestinal, renal, or bleeding risks.
+Corticosteroids: Prednisolone may be used in cases of severe carditis or heart failure, as well as in patients who do not respond to NSAIDs.
+Management of heart failure and arrhythmias:
+Diuretics, angiotensin-converting enzyme inhibitors, beta-blockers, and other standard heart failure medications may be used as appropriate based on the severity of the carditis and heart failure.
+Antiarrhythmic medications may be used to manage arrhythmias if they occur.
+Management of Sydenham
+chorea
+:
+Anticonvulsant medications, such as valproic acid or carbamazepine, may be used to manage the symptoms of Sydenham chorea.
+In severe cases, corticosteroids or intravenous immunoglobulin (IVIG) may be considered.
+Improve
+References
+DermNet NZ - Rheumatic fever
+Cardiology
+Rheumatic fever

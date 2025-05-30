@@ -1,0 +1,88 @@
+Salivary gland stones
+Salivary gland stones
+Salivary gland stones (sialolithiasis) are a common complaint. They primarily affect the submandibular glands but are also seen in the parotid and sublingual glands. In severe cases they can cause obstruction of the flow of saliva, infection and abscess formation.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 6.00 cases per 100,000 person-years
+Peak incidence: 50-60 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Salivary gland stones
+1
+Sjogren's syndrome
+0.83
+Pleomorphic adenoma
+0.50
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+The aetiology of salivary gland stones is not well understood, hence there is no proven way to prevent their occurrence.
+Calcium metabolism may play a role but this is not certain
+History of renal stones is associated with increased risk
+The only systemic disease associated with stone formation is gout, in which case stones will be formed of uric acid rather than calcium.
+Multiple medications are associated with higher risk:
+Diuretics
+Anticholinergic medications
+Other risk factors include smoking, trauma and hypovolaemia
+Improve
+Pathophysiology
+The pathophysiology of salivary gland stones is not well understood.
+Stones are largely composed of calcium phosphate. The saliva produced by the submandibular glands contains a higher concentration of calcium than the parotids, hence their predominance in this condition.
+Gland anatomy with slower, more tortuous flow of saliva likely predisposes to stone development.
+Improve
+Clinical features
+Most stones (80-90%) occur in the submandibular glands, 6-20% in the parotid glands and 1-2% in the sublingual glands.
+Patients usually present with pain and swelling of the affected gland, usually triggered when salivary flow is stimulated, such as eating or chewing.
+Symptoms will often resolve slowly after mealtimes as the flow of saliva slows.
+Not all stones are symptomatic - some may be found incidentally on imaging.
+Patients may some times present with a hard, palpable lump within the salivary duct or orifice.
+Secondary infection is suggested by persistent pain and swelling, sometimes with fever and systemic upset. Sometimes these infections can lead to spreading cellulitis with deep neck infection and airway compromise.
+Improve
+Investigations
+Salivary gland stones are usually diagnosed clinically based upon history and examination alone. Sometimes a stone may be seen at the opening of the salivary duct into the oral cavity.
+Imaging can be used if there is diagnostic doubt or there is suspicion of secondary infection/abscess formation. Both CT and ultrasound are highly sensitive for detection of stones.
+Imaging is essential if salivary gland malignancy is possible, but NICE guidelines 2016 advise not to delay referral by organising imaging in primary care and to instead refer to head & neck under the two-week-wait pathway.
+If an infective or inflammatory cause of salivary gland swelling is being considered appropriate bloods/swabs may be sent.
+Improve
+Differential diagnosis
+There are multiple differentials for salivary gland calculi:
+Salivary gland malignancy
+: This should be considered in any patient with a unilateral salivary gland mass, particularly if it persistent or painless. Parotid gland tumors can cause facial nerve palsy. If this is suspected the patient should be referred on a two week wait pathway to head and neck.
+Viral sialadenitis
+: Multiple viruses can cause sialadenitis but the most common by far is mumps. This presents as bilateral (unilateral mumps is rare) swelling of the parotid glands. It is usually accompanied by fever and malaise. It is a notifiable disease so Public Health England should be informed.
+Bacterial sialadenitis
+: Bacterial infection in the absence of stones can occur, usually in older people or those with immunocompromise. This usually presents with rapid, painful enlargement of the affected gland alongside fever and systemic upset. Pus may be expressed into the oral cavity on palpation of the gland.
+Sjogren's syndrome
+: This is an autoimmune condition that tends to present with dry eyes/mouth ('sicca symptoms'). It may sometimes present with gradual swelling of the salivary glands, usually bilateral. If it is suspected the patient should be referred to a rheumatologist.
+Granulomatous disease
+: Diseases such as sarcoid or TB can cause chronic gland swelling, usually affecting both parotids. The glands can be tender or painless.
+Human immunodeficiency virus (HIV)
+: Patients with HIV can develop diffuse swelling of the salivary glands, usually bilateral.
+Improve
+Management
+Most salivary gland stones are managed conservatively in primary care. If symptoms are recurrent the patient may be referred to an ENT specialist for further management. There are no NICE guidelines specifying when referral is appropriate.
+Advise patients to remain well hydrated
+Stop medications (if able) that can impair saliva flow, such as amitriptyline
+Encourage saliva flow my advising the patient to suck on citrus fruits/sweets
+NSAIDs can be used to relieve any pain
+Improve
+Complications
+The most common complication is secondary bacterial infection of the duct cause by obstruction of the outflow of saliva.
+Patients will present with a warm, tender swelling of the duct and systemic signs of infection. Parotid abscess may cause facial secondary facial nerve palsy.
+Treatment is with antibiotics, if abscess, tracking infection or sepsis is suspected the patient should be referred for same day ENT assessment.
+Recurrent infection within the same gland (chronic sialadenitis) can lead to atrophy and cessation of saliva production.
+Improve
+Ear, nose and throat
+Salivary gland stones

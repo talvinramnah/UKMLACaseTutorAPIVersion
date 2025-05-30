@@ -1,0 +1,271 @@
+Type 1 diabetes mellitus
+Type 1 diabetes mellitus
+Type 1
+diabetes mellitus
+(T1DM, formerly known as juvenile diabetes) is a chronic autoimmune disease. It causes immune-mediated destruction of insulin-producing pancreatic beta cells, which results in an absolute insulin deficiency and subsequent hyperglycaemia.
+Patients may commonly present in childhood or adolescence with
+polyuria
+,
+polydipsia
+,
+weight loss
+,
+lethargy
+, or critically unwell with potentially life-threatening
+diabetic ketoacidosis
+(DKA).
+Long-term hyperglycaemia in T1DM can lead to many complications including macrovascular damage (e.g. cardiovascular, cerebrovascular or peripheral vascular disease) and microvascular damage (e.g. nephropathy, retinopathy and neuropathy).
+The long-term management of T1DM requires a multidisciplinary team approach within primary and secondary care. Treatment is with exogenous insulin administration, diet and exercise education, with an aim to achieve tight glycaemic control to minimise acute risk of DKA and chronic complications.
+T1DM is relatively common and accounts for 10% of all patients with diabetes and 85% of patients with diabetes under the age of 20.
+The incidence of T1DM has wide geographical variation, but in the UK, 24.5 in every 100,000 children under the age of 14 are diagnosed.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 4.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+Condition
+Relative
+incidence
+Type 2
+diabetes mellitus
+58.25
+Type 1 diabetes mellitus
+1
+Diabetes insipidus
+0.25
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Type 1
+diabetes mellitus
+(T1DM) results from an immune-mediated destruction of insulin-producing pancreatic beta cells. The triggers for the autoimmune attack are not fully understood but it is thought to be influenced by both genetic and environmental factors.
+Genetic factors:
+The risk of T1DM can be influenced by many different gene polymorphisms, particularly those relating to human leukocyte antigen (HLA) alleles, specifically HLA-DR and HLA-DQ alleles.
+The HLA-DQ2 genotype sometimes seen in T1DM is also associated with coeliac disease, and therefore coeliac disease is more common in those with T1DM. People with T1DM are also more likely to have other co-existing autoimmune disorders such as Hashimoto's thyroiditis, Addison's disease, vitiligo, and systemic lupus erythematosus (SLE).
+The risk of developing T1DM is 3-5% if a parent has it, and 40-50% if an identical twin has it.
+The presence of autoantibodies to islet cells, insulin, islet antigens (IA2 and IA2-beta), glutamic acid decarboxylase (GAD), or the zinc transporter ZnT8 indicate autoimmune beta-cell destruction and are suggestive of T1DM. However, it is unclear which of these are involved in initiating the insult or which develop secondary to the insult.
+Environmental factors:
+The wide geographic variation in prevalence of T1DM suggests an environmental contribution to its development, however specific causative factors have not been identified.
+In genetically susceptible patients, environmental associations which have been postulated include:
+Viral infections
+Cow's milk ingestion
+Vitamin D deficiency
+Early introduction of cereals
+Nitrate concentration in drinking water
+Improve
+Pathophysiology
+Type 1
+diabetes mellitus
+(T1DM) results from the autoimmune destruction of the insulin-producing beta cells in the islets of Langerhans of the pancreas. This process is thought to be influenced by a combination of genetic and environmental factors.
+Normal action of insulin:
+Insulin activates insulin-receptors on the membranes of insulin-responsive tissues (e.g. peripheral muscle and adipose tissue), stimulating the migration of glucose transporters to the cell membrane to facilitate uptake of circulating glucose into these tissues.
+In addition, insulin stimulates glycogen synthesis, and inhibits gluconeogenesis, glycogenolysis and lipolysis.
+In the absence of insulin (as in T1DM), glucose cannot be taken up by insulin-responsive tissues, causing hyperglycaemia.
+Pathophysiological process in T1DM:
+T1DM is most commonly a type IV hypersensitivity autoimmune reaction, in which CD4+ T helper cells and CD8+ cytotoxic T cells attack pancreatic beta cells, eventually eliminating any insulin production.
+Destruction of the beta cells occurs over months to years and usually only results in hyperglycaemia once ~90% of the beta cells have been destroyed.
+Progressive beta cell destruction also leads to dysfunction of neighbouring alpha cells which produce the counter-regulatory hormone, glucagon. This dysfunction can cause overstimulation of glucagon, especially after meals, leading to gluconeogenesis, glycogenolysis and ketogenesis, thereby worsening hyperglycaemia and causing a metabolic acidosis (
+diabetic ketoacidosis
+).
+Long-term complications:
+The mechanism by which hyperglycaemia causes chronic macrovascular and microvascular damage is thought to be related to oxidative stress, free radical damage, sorbitol production and glycosylation of tissues.
+Improve
+Clinical features
+The stereotypical presentation of Type 1
+diabetes mellitus
+often includes a triad of symptoms:
+polyuria
+,
+polydipsia
+and unexplained
+weight loss
+. These symptoms are typically accompanied by a history of increased
+fatigue
+and possibly blurred vision. However, the clinical manifestation can vary considerably, and the condition may present with a range of features.
+Polyuria and Polydipsia
+Patients frequently report excessive urination (polyuria) along with an increased thirst (polydipsia). This is due to hyperglycaemia causing osmotic diuresis in the renal tubules, leading to dehydration which stimulates thirst.
+Unexplained Weight Loss
+Despite normal or even increased food intake, patients often experience unexplained weight loss. This is attributed to depletion of glycogen stores and breakdown of adipose tissue as the body attempts to compensate for cellular glucose deficiency by increasing energy production from proteins and fats.
+Fatigue
+Fatigue can be a common presenting feature, resulting from impaired glucose utilisation within cells leading to low energy levels.
+Glycosuria
+Glycosuria can be detected on urinalysis due to an excess amount of glucose in the urine. This happens when blood glucose levels exceed renal threshold for reabsorption.
+Ketosis
+In severe cases or late presentations, ketosis may occur due to increased fat metabolism. Symptoms include nausea, vomiting,
+abdominal pain
+and a distinctive breath odour (often described as fruity or like nail polish remover).
+Nocturnal Enuresis
+In children, nocturnal enuresis may be a presenting feature due to polyuria.
+Blurred Vision
+Blurred vision can occur as a result of changes in lens osmolality due to hyperglycaemia.
+Genital Pruritus or Thrush
+Patients may present with genital pruritus or recurrent thrush due to increased susceptibility to infections in a high glucose environment, particularly
+Candida
+species.
+It's also important to note that a significant proportion of patients may present in
+diabetic ketoacidosis
+(DKA), a potentially life-threatening complication characterised by hyperglycaemia, metabolic acidosis and ketonaemia. Symptoms include severe dehydration, tachypnoea (Kussmaul breathing), abdominal pain and altered consciousness.
+In some instances, patients may be asymptomatic with the diagnosis made through routine screening or incidentally when investigations are carried out for other reasons.
+Improve
+Investigations
+First-line Investigations
+Blood glucose testing:
+This is the primary investigation for diagnosing Type 1
+diabetes mellitus
+. A fasting plasma glucose test or a random plasma glucose test can be used. Fasting plasma glucose level ≥7.0 mmol/L or random plasma glucose ≥11.1 mmol/L, on more than one occasion, confirms the diagnosis.
+Glycated haemoglobin (HbA1c):
+This test provides an overview of blood sugar levels over the past 2-3 months. An HbA1c level of 48 mmol/mol (6.5%) or higher on two separate tests indicates diabetes.
+Urine testing:
+Glucosuria and ketonuria are common findings in type 1 diabetes and can be detected through urine dipstick analysis.
+Further Investigations
+Autoantibody testing:
+If the clinical presentation suggests type 1 diabetes but the initial investigations are inconclusive, autoantibody testing can be considered to confirm the diagnosis. These include glutamic acid decarboxylase (GAD) antibodies, Islet cell cytoplasmic autoantibodies (ICA), Insulinoma-associated-2 antibodies (IA-2A), and insulin autoantibodies (IAA).
+C-peptide measurement:
+C-peptide is co-released with insulin from beta cells in pancreas. Low levels of C-peptide (<0.6 ng/mL) along with hyperglycaemia suggest type 1 diabetes due to beta-cell destruction.
+The above investigations should be supplemented by routine blood tests including full blood count, renal function tests, and lipid profile to assess for associated complications.
+Imaging
+Imaging is not routinely used in the diagnosis of type 1 diabetes. However, it may be employed in research settings or to rule out other causes of symptoms.
+Referral for Specialist Assessment
+If there is uncertainty about the type of diabetes or difficulty in achieving glycaemic control, referral to a specialist diabetes service should be considered. This may involve further investigations guided by the clinical scenario.
+Improve
+Diagnosis
+There are several different types of
+diabetes mellitus
+. The first step in the diagnosis of type 1 diabetes mellitus (T1DM) is the identification of diabetes mellitus itself, before distinguishing the cause.
+Criteria for a diagnosis of diabetes mellitus (as per the World Health Organisation):
+Random plasma glucose level ≥11.1 mmol/L (≥200 mg/dL) in the presence of symptoms of hyperglycaemia; OR
+Fasting plasma glucose ≥7.0 mmol/L (≥126 mg/dL); OR
+Plasma glucose level ≥11 mmol/L (≥200 mg/dL) 2 hours after a 75 g oral glucose load; OR
+HbA1c ≥48 mmol/mol (≥6.5%) - note that HbA1c can be unreliable if a patient has any concurrent condition affecting red blood cell survival.
+In a symptomatic patient, a single positive result from one test confirms a diagnosis of diabetes mellitus. In an asymptomatic patient (uncommon in T1DM), repeat measurements of the same test on different days is required to confirm the diagnosis.
+Identifying T1DM as cause of diabetes mellitus:
+Diabetes mellitus can broadly be classified into T1DM,
+T2DM
+, and gestational diabetes. It is important to differentiate the type of diabetes due to the difference in long-term management.
+Differentiating the cause of diabetes mellitus is mainly through clinical presentation and history, but may sometimes be supported by laboratory studies.
+Factors supporting a diagnosis of T1DM over other subtypes include:
+Age: most commonly diagnosed in childhood or adolescence but can occur later in life.
+Clinical presentation:
+polyuria
+,
+polydipsia
+,
+weight loss
+,
+lethargy
+, or
+diabetic ketoacidosis
+(DKA).
+Ketosis: often present, and may develop DKA which can be life-threatening.
+Family history: up to 10% have a close relative with T1DM; may also have personal or family history of other autoimmune disorders such as coeliac disease.
+Autoantibodies: presence of autoantibodies to islet cells, insulin, islet antigens (IA2 and IA2-beta), glutamic acid decarboxylase (GAD), or the zinc transporter ZnT8 indicate autoimmune beta-cell destruction and are suggestive of T1DM. However, their absence does not rule out a diagnosis of T1DM.
+C-peptide: low or undetectable. C-peptide is a byproduct of the conversion of pro-insulin to insulin and therefore reflects endogenous insulin production.
+Improve
+Differential diagnosis
+The differential diagnoses of type 1
+diabetes mellitus
+(T1DM) to consider can be categorised into: other causes of diabetes and causes of temporary hyperglycaemia.
+Other causes of diabetes
+The similarities between T1DM and the differentials listed include: criteria met for a diagnosis of diabetes mellitus; symptoms of hyperglycaemia; long-term complications including macrovascular and microvascular disease.
+1)
+Type 2 diabetes mellitus
+(T2DM)
+Differences:
+Results from insulin resistance and a relative insulin deficiency, but the pancreas usually continues to produce some insulin.
+Slower onset and older age at diagnosis.
+Ketosis uncommon.
+Strong association with obesity, cardiovascular risk factors and family history of T2DM (75-90% have an affected close relative).
+Negative for autoantibodies.
+May have initial response to oral anti-hyperglycaemic drugs.
+2) Gestational diabetes
+Differences:
+Onset during pregnancy.
+Caused by insulin resistance relating to pregnancy hormones and an increased demand for insulin during pregnancy.
+Generally resolves after birth but increased risk of T2DM in future.
+3) Maturity onset diabetes of the young (
+MODY
+)
+Differences:
+Monogenic diabetes caused by mutations in an autosomal dominant gene.
+Strong family history (50% of first-degree relatives will inherit mutation).
+Often absence of autoantibodies.
+4) Latent autoimmune diabetes in adults (LADA)
+Similarities:
+Form of T1DM.
+Positive for autoantibodies.
+Low detection of C-peptide.
+Differences:
+Presents in adults.
+Slower onset.
+5) Drug-induced diabetes
+Differences:
+Often history of prolonged courses of drugs such as corticosteroids, tacrolimus, L-asparaginase or antipsychotics.
+6) Diseases of the exocrine pancreas e.g. cystic fibrosis, chronic pancreatitis, hereditary haemochromatosis.
+7) Endocrinopathies e.g. Cushing's syndrome, acromegaly, phaeochromocytoma, glucagonoma.
+Causes of temporary hyperglycaemia
+Critical illness e.g. sepsis
+Drugs
+Neonatal hyperglycaemia
+Improve
+Management
+The long-term management of type 1 diabetics is an important and complex process requiring the input of many different clinical specialties and members of the healthcare team. A diagnosis of type 1
+diabetes
+can still reduce the life expectancy of patients by 13 years and the micro and macrovascular complications are well documented.
+NICE released guidelines on the diagnosis and management of type 1 diabetes in 2015.  We've only highlighted a very select amount of the guidance here which will be useful for any clinician looking after a patient with type 1 diabetes.
+HbA1c
+should be monitored every 3-6 months
+adults should have a target of HbA1c level of 48 mmol/mol (6.5%) or lower. NICE do however recommend taking into account factors such as the person's daily activities, aspirations, likelihood of complications, comorbidities, occupation and history of
+hypoglycaemia
+Self-monitoring of blood glucose
+recommend testing at least 4 times a day, including before each meal and before bed
+more frequent monitoring is recommended if frequency of hypoglycaemic episodes increases; during periods of illness; before, during and after sport; when planning pregnancy, during pregnancy and while breastfeeding
+Blood glucose targets
+5-7 mmol/l on waking and
+4-7 mmol/l before meals at other times of the day
+Type of insulin
+offer multiple daily injection basal-bolus insulin regimens, rather than twice-daily mixed insulin regimens, as the insulin injection regimen of choice for all adults
+twice-daily insulin detemir is the regime of choice. Once-daily insulin glargine or insulin detemir is an alternative
+offer rapid-acting insulin analogues injected before meals, rather than rapid-acting soluble human or animal insulins, for mealtime insulin replacement for adults with type 1 diabetes
+Metformin
+NICE recommend considering adding metformin if the BMI >= 25 kg/m²
+Improve
+Complications
+Patients with Type 1
+diabetes mellitus
+(T1DM) are at risk of developing a range of complications, both acute and chronic. These complications can significantly impact the quality of life and overall prognosis.
+Acute Complications:
+Diabetic Ketoacidosis
+(DKA):
+This is a potentially life-threatening complication characterised by hyperglycaemia, ketosis, and metabolic acidosis. Symptoms include
+polyuria
+,
+polydipsia
+, nausea, vomiting,
+abdominal pain
+and altered mental state.
+Hypoglycaemia
+:
+This can occur due to an imbalance between insulin administration and carbohydrate intake or physical activity. It presents with sweating, tremors, tachycardia, confusion and in severe cases can lead to seizures or loss of consciousness.
+Chronic Complications:
+Nephropathy:
+Diabetes is the leading cause of end-stage renal disease. Nephropathy typically develops after a duration of 10-20 years from T1DM onset. Early detection via microalbuminuria screening is vital for timely intervention.
+Retinopathy:
+Diabetic retinopathy is a common cause of blindness in adults. Non-proliferative retinopathy may progress to proliferative retinopathy characterised by neovascularisation leading to vitreous haemorrhage or retinal detachment.
+Neuropathy:
+Peripheral neuropathy often presents as distal symmetric polyneuropathy with symptoms like numbness, tingling or burning sensation in extremities. Autonomic neuropathy affects cardiovascular, gastrointestinal and genitourinary systems causing postural hypotension, gastroparesis or erectile dysfunction respectively.
+Cardiovascular disease:
+T1DM increases the risk of coronary artery disease, peripheral arterial disease and stroke. Cardiovascular complications are a major cause of morbidity and mortality in these patients.
+The management of these complications involves optimal glycaemic control, regular screening and early intervention to prevent progression and minimise impact on patient's quality of life.
+Improve
+Diabetes mellitus
+Type 1 diabetes mellitus

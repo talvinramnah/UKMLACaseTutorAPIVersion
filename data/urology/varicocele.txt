@@ -1,0 +1,142 @@
+Varicocele
+Varicocele
+Varicocele is a common condition that affects approximately 15% of men. It is characterized by the enlargement of veins within the scrotum, which can cause discomfort and pain. Varicoceles are most commonly found on the left side of the scrotum, but can also occur on the right side or bilaterally. The exact cause of varicocele is unknown, but it is thought to be related to faulty valves within the veins that allow blood to pool and enlarge the veins.
+While many men with varicoceles do not experience symptoms, those who do may experience pain, swelling, or
+infertility
+. Surgery may be recommended for men with severe pain or infertility, as it has been shown to improve sperm count and motility.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 250.00 cases per 100,000 person-years
+Peak incidence: 20-30 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Varicoceles are abnormal enlargements of the pampiniform venous plexus in the scrotum. They are akin to varicose veins that occur in the legs. The aetiology of varicoceles is multifactorial, with several risk factors and underlying causes identified.
+Risk Factors
+Age:
+Varicoceles typically develop during puberty and are most commonly diagnosed in men aged 15-25 years.
+Height:
+Taller stature has been associated with an increased risk of varicoceles due to the increased length of venous structures.
+Body Mass Index (BMI):
+Lower BMI may increase the risk of varicoceles as adipose tissue can compress and support veins, reducing venous pooling.
+Underlying Causes
+Venous Insufficiency:
+Incompetent or absent valves in the spermatic veins result in retrograde blood flow, leading to venous enlargement and formation of a varicocele.
+Nutcracker Syndrome:
+Compression of the left renal vein between the superior mesenteric artery and aorta can cause increased pressure in the left spermatic vein, resulting in a varicocele. This phenomenon predominantly explains why approximately 90% of cases involve the left testicle.
+Anatomic Variations:
+Individuals with certain anatomic variations such as duplication or rotation anomalies of kidney vessels may have an elevated risk for developing a varicocele due to altered hemodynamics.
+Improve
+Pathophysiology
+The pathophysiology of varicocele is multifactorial and involves a series of interconnected steps. The primary event is the dilation and tortuosity of the pampiniform venous plexus, which forms the bulk of the spermatic cord. This dilation can be attributed to various mechanisms:
+Venous valve incompetence:
+The retrograde blood flow in the internal spermatic veins due to faulty venous valves contributes significantly to varicocele formation.
+Nutcracker phenomenon:
+Compression of the left renal vein between the superior mesenteric artery and aorta (nutcracker phenomenon) results in increased pressure, leading to reflux into the left gonadal vein and subsequent varicocele development.
+The pathogenesis then progresses from anatomical changes to physiological alterations that impact testicular function.
+Increased scrotal temperature:
+Varicoceles increase intratesticular temperature due to impaired cooling mechanism caused by abnormal blood flow. This elevated temperature may impair spermatogenesis.
+Hypoxia:
+Impaired circulation leads to hypoxia within seminiferous tubules, affecting normal spermatogenesis and testosterone synthesis.
+Oxidative stress:
+Hypoxia also triggers oxidative stress, which damages cellular components including DNA, proteins, and lipids in sperms.
+The final stages involve immunological responses that further compromise fertility.
+Autoimmunity:
+The disruption of the blood-testis barrier due to varicocele may expose autoantigens leading to anti-sperm antibodies production. These antibodies can interfere with sperm functions such as motility, oocyte penetration and fertilisation.
+Improve
+Clinical features
+Possible Presentations
+Asymptomatic Presentation
+Majority of patients remain asymptomatic throughout their lives
+Incidental findings during physical examination or imaging studies for unrelated conditions
+Pain and Discomfort
+Dull, aching pain in the affected hemiscrotum, exacerbated by prolonged standing or physical activity
+Heaviness or dragging sensation in the scrotum, often relieved by lying down
+Infertility-related Symptoms
+Subfertility
+due to impaired spermatogenesis secondary to elevated intratesticular temperature and venous pressure
+Abnormal semen parameters including oligospermia, asthenospermia, teratospermia, and decreased sperm viability
+Examination Findings
+Scrotal Asymmetry
+Enlargement of the affected hemiscrotum
+Prominent veins visible on the scrotal surface, particularly when standing
+Palpable Dilated Veins
+'Bag of worms' sensation upon palpation of the spermatic cord
+Dilated veins may collapse when supine and become more prominent with Valsalva manoeuvre
+Testicular Atrophy
+Decreased testicular volume in comparison to contralateral side
+Softening or decreased consistency of the affected testicle
+Improve
+Differential diagnosis
+Hydrocele
+Fluid collection within the tunica vaginalis causing scrotal enlargement
+Transillumination test can help differentiate from varicocele
+Spermatocele
+Cystic mass arising from the epididymis containing spermatozoa
+Palpation reveals a separate, smooth mass distinct from the testicle
+Testicular Tumour
+Solid mass arising from the testicle itself
+Firm and irregular in consistency compared to the 'bag of worms' sensation of varicocele
+Epididymitis or Orchitis
+Inflammatory process involving the epididymis or testicle, respectively
+Associated with erythema, warmth, and tenderness on examination
+Improve
+Staging
+Dubin-Amelar Classification
+Grade I - Subclinical Varicocele
+Not detectable by visual inspection or palpation at rest
+Detected only through imaging modalities such as Doppler ultrasound or venography
+Grade II - Moderate Varicocele
+Detectable upon palpation without Valsalva manoeuvre but not visible on inspection
+May present with mild symptoms such as discomfort or heaviness
+Grade III - Large Varicocele
+Visible on inspection and palpable at rest, with prominent dilated veins
+More likely to present with symptoms such as pain,
+scrotal swelling
+, or testicular atrophy
+Improve
+Management
+The management of varicocele is primarily conservative unless specific indications for intervention are present. These include:
+Symptomatic varicocele: Persistent pain or discomfort that interferes with daily activities.
+Testicular atrophy: Disproportionate reduction in size compared to the contralateral testis.
+Infertility:
+Subfertility
+associated with abnormal semen parameters (e.g., oligospermia, asthenospermia, teratospermia) and/or impaired sperm function tests.
+Conservative Management
+Asymptomatic varicoceles without any complications should be managed conservatively through observation and regular follow-up visits every 6-12 months. Patients should be counselled on potential risks and benefits of treatment options if intervention becomes necessary in the future.
+Interventional Techniques
+The primary goal of interventional management is to occlude or obliterate the refluxing venous channels while preserving arterial inflow and lymphatic drainage. Several techniques are available for this purpose:
+Surgical ligation: High retroperitoneal (Palomo), inguinal (Ivanissevich), or subinguinal approaches can be used for ligating the internal spermatic vein(s). Microsurgical techniques have shown improved outcomes with reduced postoperative complications (e.g., hydrocele formation, recurrence).
+Radiological embolisation: Percutaneous transcatheter embolisation using coils, sclerosants, or occlusion devices can be performed under fluoroscopic guidance to occlude the spermatic veins. This minimally invasive procedure has comparable success rates to surgery with quicker recovery times.
+Laparoscopic varicocelectomy: A minimally invasive approach that involves ligation of the spermatic veins through small abdominal incisions under general anaesthesia. It offers similar benefits as radiological embolisation but requires advanced surgical skills.
+Improve
+Complications
+The primary complication of varicocele is male
+infertility
+. The abnormal dilation and tortuosity of the pampiniform plexus veins in a varicocele can lead to elevated testicular temperature and venous pressure, resulting in impaired spermatogenesis.
+Impaired Spermatogenesis:
+Varicoceles frequently cause decreased sperm count, motility, and morphology. They may also result in increased levels of reactive oxygen species, causing oxidative stress that damages sperm DNA.
+Hypogonadism:
+Varicoceles can lead to primary or secondary hypogonadism. Primary hypogonadism results from direct injury to the Leydig cells due to increased testicular temperature or venous pressure. Secondary hypogonadism arises from hypothalamic-pituitary-gonadal axis dysfunction caused by similar mechanisms.
+Testicular Atrophy:
+Long-standing varicoceles can cause progressive testicular damage leading to atrophy. The pathophysiology involves ischemic injury due to venous stasis and increased intratesticular pressure.
+Pain:
+While many varicoceles are asymptomatic, some patients may experience scrotal pain or discomfort that worsens with prolonged standing or physical exertion. This symptom is likely due to distension of the tunica vaginalis from increased venous pressure.
+In addition, there are potential complications related to treatment methods for varicocele such as surgical intervention or percutaneous embolisation.
+Surgical Complications:
+These include hydrocele formation, recurrence of varicocele, arterial injury leading to testicular atrophy, infection, and post-operative pain.
+Percutaneous Embolisation Complications:
+These include coil migration, contrast reactions, and puncture site complications such as hematoma or pseudoaneurysm. Rarely, non-target embolisation can occur leading to renal or pulmonary emboli.
+Improve
+Urology
+Varicocele

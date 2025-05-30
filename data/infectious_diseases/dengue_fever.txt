@@ -1,0 +1,239 @@
+Dengue fever
+Dengue fever
+Dengue is a globally important arbovirus transmitted by the aedes mosquito, with an estimated 100 million cases a year worldwide. Cases of dengue can be found in nearly all countries between the tropics of Cancer and Capricorn, with large yearly outbreaks in South East Asia and South America.
+Vector control of the
+Aedes
+mosquito is challenging and dengue is seen as an emerging global threat.
+Dengue largely affects the paediatric population but can present in adults. There is no human to human transmission.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 0.60 cases per 100,000 person-years
+Peak incidence: 20-30 years
+Sex ratio: 1:1
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Aetiology
+Dengue virus is a single-stranded RNA flavivirus with 4 different but closely related serotypes. It is contracted by a bite from an infected
+Aedes
+mosquito. Dengue cannot be transmitted from person to person directly.
+Aedes
+mosquitos are found throughout the tropics, which means dengue is endemic in many countries including:
+Africa
+The Americas
+Western Pacific
+South-East Asia
+The main vector for dengue is the
+Aedes aegypti
+mosquito. There are also some other
+Aedes
+species including
+Aedes albopictus
+which can transmit dengue.
+The
+Aedes
+mosquito is typically found in urban settings, increasing human exposure and risk of contracting dengue. The mosquitos:
+Rest and breed indoors
+Lay eggs in containers e.g. tyres
+Very drought-resistant eggs
+Limited flight range (<100m)
+Prefer to bite humans
+Diurnally active
+Bed nets less effective
+The major risk factors for developing dengue are:
+Visiting a dengue-endemic region
+High population density
+Poor standards of hygiene
+Severe dengue is more likely to develop in:
+Children under 15 years old
+Repeated dengue infections
+Specific viral genotypes
+Malnourished children.
+Improve
+Pathophysiology
+Dengue virus is the most important arbovirus worldwide. It is:
+Single-stranded RNA virus
+Within Flavivirus genus
+Has 4 different but closely related serotypes (DEN-1, DEN-2, DEN-3, DEN-4)
+May also be 5th genotype
+DEN-2 and DEN-3 (Asian serotypes) often associated with severe disease
+Especially if the dengue infection is a secondary infection.
+Dengue has a 4-10 day incubation period after the bite from an infected mosquito. Viral multiplication occurs in macrophages, monocytes, and B cells. Can also happen in mast cells, dendritic cells, and endothelial cells. Patients can only transmit the infection via the
+Aedes
+for 4-5 days (maximum 12 days).
+No direct human to human transmission
+Lifelong immunity to 1 specific viral serotype develops after infection. However, there is an increased risk of severe dengue in subsequent infections with different serotypes. This is called antibody-dependent enhancement.
+Unclear mechanism
+Only in 2-4% of patients
+Initial presentation of dengue is with flu-like illness
+Fever
+typically starts on day 3
+Lasts for 5-6 days  (viraemic phase)
+Can then recover or progress to severe dengue
+Mild haemorrhagic symptoms
+Dengue fever is rarely fatal
+The major pathophysiological process in severe dengue is increased vascular permeability due to capillary leakage causing plasma leakage into tissues. This leads to:
+Cytokine response
+Suppression of T- cell response
+Improve
+Clinical features
+Dengue can be asymptomatic (75%) or present as a non-specific febrile illness (25%), especially in young children. Dengue has a broad clinical spectrum ranging from a mild flu-like illness to severe haemorrhagic, shock and multi-organ failure.
+The current classification system is the 2009 World Health Organisation scheme described below. This has superseded the previous classifications of dengue
+fever
+, dengue haemorrhagic fever and dengue shock syndrome.
+1.
+Non-severe dengue: fever followed by recovery
+Without warning signs
+Fever with two of the following:
+Nausea/vomiting
+Rash
+Aches and pains
+Positive tourniquet test
+Leukopenia
+With warning signs
+Abdominal pain
+or tenderness, persistent vomiting, clinical fluid accumulation, mucosal bleed, lethargy, restlessness, liver enlargement >2cm, increasing haematocrit with reducing platelets
+The initial presentation of dengue is:
+Intermittent high pyrexias 'break-bone fever' lasting 3-7 days
+Arthralgia
+Rash
+Typically blanching maculopapular erythematous rash similar to measles or scarlet fever
+May develop into petechiae
+Other bleeding manifestations including
+Bleeding gums
+Epistaxis
+GI bleeds
+Other features may be quite non-specific and can include:
+Headache
+Nausea & vomiting
+Lymphadenopathy
+Generalised
+myalgia
+Backache
+Ocular manifestations:
+Retro-orbital pain
+Conjunctival injection
+Conjunctivitis
+2.
+Severe dengue (5% of patients)
+dengue with severe plasma leakage, severe haemorrhage and severe organ impairment.
+Severe symptoms may include:
+Pulmonary and facial oedema
+Ascites
+Pleural effusions
+Meningism including photophobia
+Worsening or more profuse haemorrhage
+Improve
+Investigations
+The investigations used will depend on the resources available and the clinical setting but the majority of investigations are likely to be performed in secondary care.
+Blood tests tend to show
+thrombocytopenia
+(up to 80%, although may be mild) and
+leucopenia
+(also up to 80%, tends to improve after day 5) for the majority of all patients (severe and non-severe). Haematocrit can be a useful monitoring tool, with increasing haematocrit often reflective of clinical deterioration.
+Other bloods may show:
+Prolongation of APTT and PT
+Deranged U&E's
+Elevated LFTs especially AST
+Diagnosis can be confirmed by:
+Viral isolation from serum
+Sample needs to be collected early during the viraemic period (before day 5)
+PCR (where available)
+Antibody detection using ELISA: IgM and IgG
+Can be used after day 5
+Form used in rapid testing kits
+Allow distinguishing of primary (first flavivirus exposure) from secondary (previously exposed to different flavivirus)
+The tourniquet test can also be used but is only positive about 1/3 of patients, with a specificity of 71%. It can be used in low resource settings with limited access to serological testing.
+Inflate a BP cuff to halfway between systolic and diastolic pressure for 5 mins
+A positive test shows 20+ petechiae in a 2.5cm square on the forearm
+Improve
+Differential diagnosis
+The differential diagnosis can be incredibly broad and will vary depending on the stage of clinical presentation. A clear travel history is vital for these patients.
+Dengue often presents with a mild flu-like illness which may be difficult to separate from many other common viral illnesses in UK practice.
+Consider travel history and vaccination status
+Common UK viral illnesses may include:
+Influenza
+Infectious mononucleosis
+Enterovirus
+Measles
+Rubella
+Common and important tropical infections to consider include:
+Viral
+Chikungunya
+Joint swelling more prominent feature
+Zika
+Often mild or no
+fever
+Purulent conjunctivitis
+Other viral haemorrhagic fevers e.g. Lassa fever, Ebola
+Often geographically localised, especially in West Africa
+Acute HIV seroconversion
+Consider risk factors for HIV e.g. high risk sexual activities
+Parasitic
+Malaria
+Bacterial
+Typhoid
+Often presents with GI symptoms
+Rickettsia infections (typhus, scrub typhus)
+Leptospirosis
+Consider water exposure
+Meningococcal septicaemia
+Meningism
+Consider immunisation history and contact exposure
+Other
+Autoimmune diseases (e.g. SLE)
+Adverse drug reaction
+Improve
+Management
+Patients presenting with suspected dengue
+fever
+should be seen or discussed with the infectious disease team to exclude other differentials, and because of the risk of clinical deterioration.
+There is no specific treatment for dengue. Antivirals and steroids have not been shown to improve outcomes.
+There is no direct human to human transmission so no requirement for isolation.
+Non-severe cases:
+Conservative treatment with oral fluid and paracetamol
+Avoid aspirin
+Increased haemorrhage risk
+Should also be avoided in children due to risk of Reye's syndrome
+Severe cases (uncommon in returned travellers):
+IV fluids
+Used to restore circulatory volume due to plasma leakage into third space
+Regular observation and monitoring of haematocrit, platelets and renal function
+May require High Dependency or Intensive Care
+Deterioration may be rapid (over several hours)
+Severe GI haemorrhage
+Rare
+Will require blood transfusion +/- FFP
+Preventative measures:
+Use of personal protection equipment
+DEET
+Long-sleeved clothing
+Vaccine but it is not currently recommended for use
+Potential to precipitate more severe cases of dengue in people who have been immunised.
+Improve
+Complications
+The major complication is the potential development of severe dengue. This presents with severe multi-organ involvement, haemorrhage and shock.
+50% mortality rate if untreated.
+Reduced to under 5% with treatment.
+The usual mortality rate of dengue is <1%.
+Patients can also develop:
+Hepatic failure
+Encephalopathy
+Myocarditis
+Disseminated intravascular coagulation
+Septicaemia
+Improve
+References
+Royal College of Physicians - 2011 Dengue fever review
+Postgraduate Medical Journal - Review of dengue fever
+Infectious diseases
+Dengue fever

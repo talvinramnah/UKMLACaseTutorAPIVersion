@@ -1,0 +1,79 @@
+Polycystic ovarian syndrome
+Polycystic ovarian syndrome
+Polycystic ovary syndrome (PCOS) is a complex condition of ovarian dysfunction thought to affect between 5-20% of women of reproductive age. The aetiology of PCOS is not fully understood. Both hyperinsulinaemia and high levels of luteinizing hormone are seen in PCOS and there appears to be some overlap with the metabolic syndrome.
+Last updated: 1
+st
+January 2025
+Epidemiology
+Incidence: 90.00 cases per 100,000 person-years
+Peak incidence: 30-40 years
+<1
+1-5
+6+
+16+
+30+
+40+
+50+
+60+
+70+
+80+
+Clinical features
+Features
+subfertility
+and infertility
+menstrual disturbances: oligomenorrhea and amenorrhoea
+hirsutism
+,
+acne
+(due to hyperandrogenism)
+obesity
+acanthosis nigricans
+(due to insulin resistance)
+Improve
+Investigations
+Investigations
+pelvic ultrasound: multiple cysts on the ovaries
+FSH, LH, prolactin, TSH, and testosterone are useful investigations: raised LH:FSH ratio is a 'classical' feature but is no longer thought to be useful in diagnosis. Prolactin may be normal or mildly elevated. Testosterone may be normal or mildly elevated - however, if markedly raised consider other causes
+check for impaired glucose tolerance
+Improve
+Diagnosis
+The most commonly used diagnostic criteria are the
+Rotterdam criteria
+Two out of three of the following criteria are required to make the diagnosis:
+Oligo- and/or anovulation
+i.e. oligo- or amenorrhoea
+Clinical and/or biochemical signs of hyperandrogenism
+e.g.
+hirsutism
+,
+acne
+, or elevated levels of total or free testosterone
+Polycystic ovaries (by ultrasound)
+defined as the presence of 12 or more follicles (measuring 2-9 mm in diameter) in one or both ovaries and/or increased ovarian volume (greater than 10 cm3).
+Improve
+Management
+General
+weight reduction if appropriate
+if a women requires contraception then a combined oral contraceptive (COC) pill may help regulate her cycle and induce a monthly bleed (see below)
+Hirsutism
+and
+acne
+a COC pill may be used help manage hirsutism. Possible options include a third generation COC which has fewer androgenic effects or co-cyprindiol which has an anti-androgen action. Both of these types of COC may carry an increased risk of venous thromboembolism
+if doesn't respond to COC then topical eflornithine may be tried
+spironolactone, flutamide and finasteride may be used under specialist supervision
+Infertility
+weight reduction if appropriate
+the management of infertility in patients with PCOS should be supervised by a specialist. There is an ongoing debate as to whether metformin, clomifene or a combination should be used to stimulate ovulation
+a 2007 trial published in the New England Journal of Medicine suggested clomifene was the most effective treatment. There is a potential risk of multiple pregnancies with anti-oestrogen* therapies such as clomifene. The RCOG published an opinion paper in 2008 and concluded that on current evidence metformin is not a first line treatment of choice in the management of PCOS
+metformin is also used, either combined with clomifene or alone, particularly in patients who are obese
+gonadotrophins
+*work by occupying hypothalamic oestrogen receptors without activating them. This interferes with the binding of oestradiol and thus prevents negative feedback inhibition of FSH secretion
+Improve
+References
+Clinical Knowledge Summaries - Polycystic ovarian syndrome
+ESHRE (European Society of Human Reproduction and Embryology) - 2018 International Evidence Based Guideline for the Assessment and Management of PCOS
+RCOG - Opinion paper on metformin in PCOS
+Patient.info - Polycystic ovarian syndrome review
+Royal College of Obstetricians and Gynaecologists - 2014 Long-term Consequences of Polycystic Ovary Syndrome
+Women's health
+Polycystic ovarian syndrome
