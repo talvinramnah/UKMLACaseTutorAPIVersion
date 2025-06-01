@@ -1233,26 +1233,28 @@ async def new_case_same_condition(request: NewCaseSameConditionRequest, authoriz
         # Read case content
         case_content = read_case_file_cached(case_file)
 
-        # Update thread metadata with new case variation
-        client.beta.threads.modify(
-            thread_id=request.thread_id,
+        # --- FIX: Create a new thread for the new case variation ---
+        new_thread = client.beta.threads.create(
             metadata={
-                **metadata,
+                "user_id": user_id,
+                "condition": condition,
+                "ward": ward,
                 "case_variation": str(case_variation),
                 "start_time": datetime.now(timezone.utc).isoformat()
             }
         )
+        logger.info(f"Created new thread {new_thread.id} for user {user_id} and condition {condition} (variation {case_variation})")
 
-        # Return streaming response with new case
+        # Return streaming response with new case on the new thread
         return StreamingResponse(
-            stream_assistant_response_real(request.thread_id, condition, case_content, case_variation),
+            stream_assistant_response_real(new_thread.id, condition, case_content, case_variation),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
                 "Connection": "keep-alive",
                 "X-Accel-Buffering": "no",
                 "Content-Type": "text/event-stream",
-                "X-Thread-Id": request.thread_id,
+                "X-Thread-Id": new_thread.id,
                 "X-Case-Variation": str(case_variation)
             }
         )
