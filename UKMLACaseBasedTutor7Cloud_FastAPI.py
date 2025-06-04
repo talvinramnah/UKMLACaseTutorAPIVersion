@@ -1646,6 +1646,7 @@ class OnboardingRequest(BaseModel):
     name: str = Field(..., min_length=1, max_length=100)
     med_school: str = Field(..., min_length=1, max_length=100)
     year_group: str = Field(..., min_length=1, max_length=10)
+    desired_specialty: str = Field(..., min_length=1, max_length=100)
 
 @app.post("/onboarding", response_model=dict)
 async def onboarding(request: OnboardingRequest, authorization: str = Header(...)):
@@ -1706,6 +1707,7 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
         "name": request.name,
         "med_school": request.med_school,
         "year_group": request.year_group,
+        "desired_specialty": request.desired_specialty,
         "anon_username": anon_username
     }
     resp = requests.post(
@@ -1741,7 +1743,7 @@ async def get_user_metadata_me(authorization: str = Header(...)):
     }
 
     resp = requests.get(
-        f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}&select=name,med_school,year_group,anon_username",
+        f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}&select=name,med_school,year_group,desired_specialty,anon_username",
         headers=headers
     )
 
