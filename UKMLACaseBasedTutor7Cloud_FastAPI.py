@@ -287,7 +287,7 @@ app.add_middleware(
         "http://localhost:3000",                # Local development
         "https://ukmla-case-tutor.framer.website",
         "https://streamlined-style-184093.framer.app",
-        "https://ukmla-frontend-878aksx2x-talvinramnahs-projects.vercel.app/auth"# Framer website
+        "https://ukmla-frontend-878aksx2x-talvinramnahs-projects.vercel.app"# Framer website
     ],
     allow_credentials=True,
     allow_methods=["*"],  # Allow all methods including OPTIONS
