@@ -290,6 +290,7 @@ app.add_middleware(
         "https://ukmla-frontend-878aksx2x-talvinramnahs-projects.vercel.app",
         "https://ukmla-frontend.vercel.app",
         "https://bleep64.com"
+        "https://www.bleep64.com"
     ],
     allow_credentials=True,
     allow_methods=["*"],  # Allow all methods including OPTIONS
