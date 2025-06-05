@@ -289,7 +289,7 @@ app.add_middleware(
         "https://streamlined-style-184093.framer.app",
         "https://ukmla-frontend-878aksx2x-talvinramnahs-projects.vercel.app",
         "https://ukmla-frontend.vercel.app",
-        "https://bleep64.com"
+        "https://bleep64.com",
         "https://www.bleep64.com"
     ],
     allow_credentials=True,

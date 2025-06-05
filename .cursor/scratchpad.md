@@ -20,6 +20,8 @@ The user has added a `desired_specialty` column to the `user_metadata` table in 
 - [x] **Task 2**: Update /onboarding endpoint database insertion ✅
 - [x] **Task 3**: Update /user_metadata/me endpoint response ✅
 - [ ] **Task 4**: Test the implementation
+- [x] Fix CORS allow_origins list to include both https://bleep64.com and https://www.bleep64.com (missing comma bug)
+- [ ] Redeploy/restart FastAPI server to apply CORS changes
 
 ## Current Status / Progress Tracking
 - Status: Implementation completed, ready for testing
@@ -37,7 +39,10 @@ The changes are minimal and focused, maintaining consistency with the existing c
 
 **Ready for Testing**: The implementation should now work seamlessly with the frontend code that's already sending the `desired_specialty` field.
 
+- The missing comma between 'https://bleep64.com' and 'https://www.bleep64.com' in the CORS allow_origins list has been fixed. Please redeploy or restart the FastAPI server for the change to take effect. After redeployment, test login and API requests from both https://bleep64.com and https://www.bleep64.com to confirm CORS is working.
+
 ## Lessons
 - The backend was well-structured, making it easy to add the new field by following existing patterns
 - All three components (model, insertion, retrieval) needed to be updated for complete functionality
-- The Supabase REST API approach used in the onboarding endpoints made the changes straightforward 
+- The Supabase REST API approach used in the onboarding endpoints made the changes straightforward
+- Always check for missing or extra commas in Python lists, especially in configuration sections like CORS allow_origins. A missing comma can silently break CORS and is easy to overlook. 
