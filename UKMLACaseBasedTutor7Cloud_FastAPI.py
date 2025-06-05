@@ -1055,10 +1055,7 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
                         for content in event.data.delta.content:
                             if hasattr(content, 'text') and hasattr(content.text, 'value'):
                                 chunk_data = json.dumps({
-                                    'content': content.text.value,
-                                    'is_completed': False,
-                                    'feedback': None,
-                                    'score': None
+                                    'content': content.text.value
                                 })
                                 yield f"data: {chunk_data}\n\n"
                 
@@ -1067,7 +1064,6 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
                     # Get the final message
                     messages = client.beta.threads.messages.list(thread_id=thread_id)
                     latest_message = messages.data[0].content[0].text.value
-                    
                     # Check for case completion
                     is_completed = "CASE COMPLETED" in latest_message
                     feedback = None
@@ -1075,7 +1071,6 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
                     thread_metadata = None
                     next_case_variation = None
                     available_actions = []
-                    
                     if is_completed:
                         try:
                             completion_index = latest_message.find("[CASE COMPLETED]")
@@ -1083,13 +1078,11 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
                             feedback_json = json.loads(json_text)
                             feedback = feedback_json.get("feedback")
                             score = feedback_json.get("score")
-                            
                             # Get enhanced completion data
                             try:
                                 thread = client.beta.threads.retrieve(thread_id=thread_id)
                                 thread_metadata = thread.metadata
                                 condition = thread_metadata.get("condition", "")
-                                
                                 # Extract user_id from thread metadata for next case variation
                                 user_id = thread_metadata.get("user_id", "")
                                 if user_id and condition:
@@ -1102,20 +1095,24 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
                                     ]
                             except Exception as meta_error:
                                 logger.error(f"Error getting enhanced completion data: {str(meta_error)}")
-                                
                         except Exception as e:
                             logger.error(f"Error processing completion data: {str(e)}")
-                    
-                    final_data = json.dumps({
-                        'content': '',  # Empty since we already sent chunks
-                        'is_completed': is_completed,
-                        'feedback': feedback,
-                        'score': score,
-                        'thread_metadata': thread_metadata,
-                        'next_case_variation': next_case_variation,
-                        'available_actions': available_actions
-                    })
-                    yield f"data: {final_data}\n\n"
+                        final_data = json.dumps({
+                            'content': '',  # Empty since we already sent chunks
+                            'is_completed': True,
+                            'feedback': feedback,
+                            'score': score,
+                            'thread_metadata': thread_metadata,
+                            'next_case_variation': next_case_variation,
+                            'available_actions': available_actions
+                        })
+                        yield f"data: {final_data}\n\n"
+                    else:
+                        # Not completed, just yield a status update (no is_completed)
+                        final_data = json.dumps({
+                            'content': '',
+                        })
+                        yield f"data: {final_data}\n\n"
                     break
                 
                 # Handle run failure

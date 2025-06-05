@@ -22,11 +22,12 @@ The user has added a `desired_specialty` column to the `user_metadata` table in 
 - [ ] **Task 4**: Test the implementation
 - [x] Fix CORS allow_origins list to include both https://bleep64.com and https://www.bleep64.com (missing comma bug)
 - [ ] Redeploy/restart FastAPI server to apply CORS changes
+- [x] Fix /continue_case streaming so 'is_completed' is only sent when the case is truly finished
 
 ## Current Status / Progress Tracking
-- Status: Implementation completed, ready for testing
-- Completed: Updated all three required components
-- Next: Test the implementation
+- Status: Streaming fix for 'is_completed' in /continue_case implemented
+- Completed: Now, 'is_completed' is only included in the response when the case is truly finished (i.e., after '[CASE COMPLETED]' is detected in the final message). For all intermediate steps, it is omitted.
+- Next: Test the streaming endpoint with a real case to ensure the frontend only shows feedback and post-case actions at the correct time.
 
 ## Executor's Feedback or Assistance Requests
 **Implementation Complete**: I have successfully updated the backend to handle the `desired_specialty` field:
@@ -45,4 +46,5 @@ The changes are minimal and focused, maintaining consistency with the existing c
 - The backend was well-structured, making it easy to add the new field by following existing patterns
 - All three components (model, insertion, retrieval) needed to be updated for complete functionality
 - The Supabase REST API approach used in the onboarding endpoints made the changes straightforward
-- Always check for missing or extra commas in Python lists, especially in configuration sections like CORS allow_origins. A missing comma can silently break CORS and is easy to overlook. 
+- Always check for missing or extra commas in Python lists, especially in configuration sections like CORS allow_origins. A missing comma can silently break CORS and is easy to overlook.
+- Only include 'is_completed': true in the streaming response when the case is truly finished. Including it too early causes the frontend to end the chat and show feedback prematurely. 
