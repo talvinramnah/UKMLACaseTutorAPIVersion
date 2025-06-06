@@ -339,4 +339,47 @@ The changes are minimal and focused, maintaining consistency with the existing c
 - All three components (model, insertion, retrieval) needed to be updated for complete functionality
 - The Supabase REST API approach used in the onboarding endpoints made the changes straightforward
 - Always check for missing or extra commas in Python lists, especially in configuration sections like CORS allow_origins. A missing comma can silently break CORS and is easy to overlook.
-- Only include 'is_completed': true in the streaming response when the case is truly finished. Including it too early causes the frontend to end the chat and show feedback prematurely. 
+- Only include 'is_completed': true in the streaming response when the case is truly finished. Including it too early causes the frontend to end the chat and show feedback prematurely.
+
+---
+
+## Planner: Fix Backend Not Streaming Initial Case JSON
+
+### Background and Problem Statement
+- The frontend receives only `data: {"status": "completed"}` from `/start_case`, not the expected initial case JSON (demographics, presenting complaint, ICE).
+- The backend is supposed to stream the initial case JSON as the first SSE message, but this is not happening.
+- As a result, the chat UI does not display the case content.
+
+### Root Cause Analysis
+- Possible causes:
+  1. The OpenAI Assistant is not returning the initial case JSON (prompt or config issue).
+  2. The backend streaming function (`stream_assistant_response_real`) is not yielding the initial JSON, only the completion status.
+  3. The backend is buffering or discarding the initial JSON chunk due to parsing or logic error.
+
+### Plan to Fix
+
+#### 1. Debugging and Logging
+- Add detailed logging to `stream_assistant_response_real` to log every chunk received from the Assistant and every yield to the frontend.
+- Log the full Assistant response for the initial prompt (test in isolation if needed).
+
+#### 2. Prompt/Assistant Check
+- Review the system prompt to ensure it **requires** the initial response to be a JSON object with demographics, presenting complaint, and ICE.
+- Test the OpenAI Assistant API call directly (e.g., in a notebook or script) to confirm the initial response is as expected.
+
+#### 3. Backend Streaming Logic Fix
+- Ensure the backend parses and yields the first valid JSON object from the Assistant stream before yielding the completion status.
+- If the Assistant response is correct but not yielded, fix the buffer/parse logic to yield the initial JSON.
+- If the Assistant response is incorrect, update the prompt and retest.
+
+#### 4. Success Criteria
+- The frontend receives and displays the initial case JSON (demographics, presenting complaint, ICE) as the first message in the chat.
+- The chat flow proceeds as expected, with subsequent question/response cycles and feedback.
+
+### Project Status Board (for this fix)
+- [ ] Add logging to backend streaming function
+- [ ] Test OpenAI Assistant API call directly
+- [ ] Review and update system prompt if needed
+- [ ] Fix backend streaming logic to yield initial JSON
+- [ ] Confirm frontend displays initial case JSON
+
+**Next step:** Add logging to backend streaming function and test what is received from the Assistant and what is yielded to the frontend. 

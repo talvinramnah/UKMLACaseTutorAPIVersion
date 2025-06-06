@@ -807,7 +807,7 @@ def validate_feedback_json(data):
     jsonschema.validate(instance=data, schema=schema)
 
 async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int) -> AsyncGenerator[str, None]:
-    """Stream assistant responses using OpenAI's native streaming API, with JSON validation."""
+    """Stream assistant responses using OpenAI's native streaming API, with JSON validation and detailed logging for debugging."""
     try:
         # Send initial case prompt (preserving exact original content)
         client.beta.threads.messages.create(
@@ -1035,22 +1035,24 @@ You've just worked through the recognition, investigation, and management of car
             buffer = ""
             first_json_sent = False
             for event in stream:
+                logger.info(f"[STREAM] Event: {event.event}")
                 # Handle text delta events (real-time chunks)
                 if event.event == 'thread.message.delta':
                     if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
                         for content_block in event.data.delta.content:
                             if content_block.type == 'text' and hasattr(content_block.text, 'value'):
                                 chunk = content_block.text.value
+                                logger.info(f"[STREAM] Received chunk: {repr(chunk)}")
                                 if chunk:
                                     buffer += chunk
                                     # Try to parse JSON if not yet sent
                                     if not first_json_sent:
                                         try:
-                                            # Try to find a complete JSON object in the buffer
                                             json_start = buffer.find('{')
                                             json_end = buffer.rfind('}')
                                             if json_start != -1 and json_end != -1 and json_end > json_start:
                                                 json_str = buffer[json_start:json_end+1]
+                                                logger.info(f"[STREAM] Attempting to parse initial JSON: {json_str}")
                                                 data = json.loads(json_str)
                                                 # Validate initial case JSON
                                                 try:
@@ -1062,31 +1064,35 @@ You've just worked through the recognition, investigation, and management of car
                                                             "message": f"Initial case JSON validation failed: {str(ve)}"
                                                         }
                                                     }
+                                                    logger.info(f"[STREAM] Yielding validation error: {error_obj}")
                                                     yield f"data: {json.dumps(error_obj)}\n\n"
                                                     return
                                                 # If valid, yield the JSON and mark as sent
+                                                logger.info(f"[STREAM] Yielding initial case JSON: {data}")
                                                 yield f"data: {json.dumps(data)}\n\n"
                                                 first_json_sent = True
                                                 buffer = buffer[json_end+1:]
                                         except Exception as e:
-                                            # Not yet a complete JSON or parse error, keep buffering
+                                            logger.info(f"[STREAM] JSON parse error or incomplete: {e}")
                                             pass
                                     elif first_json_sent:
                                         # After first JSON, just yield further chunks as-is (assume valid JSON per schema)
-                                        # Try to parse and yield only valid JSON objects
                                         try:
                                             json_start = buffer.find('{')
                                             json_end = buffer.rfind('}')
                                             if json_start != -1 and json_end != -1 and json_end > json_start:
                                                 json_str = buffer[json_start:json_end+1]
+                                                logger.info(f"[STREAM] Attempting to parse subsequent JSON: {json_str}")
                                                 data = json.loads(json_str)
+                                                logger.info(f"[STREAM] Yielding subsequent JSON: {data}")
                                                 yield f"data: {json.dumps(data)}\n\n"
                                                 buffer = buffer[json_end+1:]
-                                        except Exception:
-                                            # Not yet a complete JSON or parse error, keep buffering
+                                        except Exception as e:
+                                            logger.info(f"[STREAM] JSON parse error or incomplete (subsequent): {e}")
                                             pass
                 # Handle run completion
                 elif event.event == 'thread.run.completed':
+                    logger.info(f"[STREAM] Yielding status completed")
                     yield f"data: {json.dumps({'status': 'completed'})}\n\n"
                     break
                 # Handle run failure
@@ -1094,10 +1100,12 @@ You've just worked through the recognition, investigation, and management of car
                     error_msg = 'Run failed'
                     if hasattr(event.data, 'last_error') and event.data.last_error:
                         error_msg = f'Run failed: {event.data.last_error}'
+                    logger.info(f"[STREAM] Yielding run failed: {error_msg}")
                     yield f"data: {json.dumps({'error': error_msg})}\n\n"
                     break
                 # Handle run expiration
                 elif event.event == 'thread.run.expired':
+                    logger.info(f"[STREAM] Yielding run expired")
                     yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
                     break
     except Exception as e:
