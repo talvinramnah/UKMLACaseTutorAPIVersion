@@ -39,6 +39,7 @@ from random_username.generate import generate_username
 import requests
 import asyncio
 import hashlib
+import jsonschema
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -708,8 +709,105 @@ def get_user_active_threads(user_id: str, limit: int = 10) -> List[Dict[str, Any
         logger.error(f"Error getting active threads for user_id={user_id}: {str(e)}")
         return []
 
+def validate_initial_case_json(data):
+    """Validate the initial case message JSON against the schema."""
+    schema = {
+        "type": "object",
+        "properties": {
+            "demographics": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "age": {"type": "integer"},
+                    "nhs_number": {"type": "string"},
+                    "date_of_birth": {"type": "string"},
+                    "ethnicity": {"type": "string"}
+                },
+                "required": ["name", "age", "nhs_number", "date_of_birth", "ethnicity"]
+            },
+            "presenting_complaint": {
+                "type": "object",
+                "properties": {
+                    "summary": {"type": "string"},
+                    "history": {"type": "string"},
+                    "medical_history": {"type": "string"},
+                    "drug_history": {"type": "string"},
+                    "family_history": {"type": "string"}
+                },
+                "required": ["summary", "history", "medical_history", "drug_history", "family_history"]
+            },
+            "ice": {
+                "type": "object",
+                "properties": {
+                    "ideas": {"type": "string"},
+                    "concerns": {"type": "string"},
+                    "expectations": {"type": "string"}
+                },
+                "required": ["ideas", "concerns", "expectations"]
+            }
+        },
+        "required": ["demographics", "presenting_complaint", "ice"]
+    }
+    jsonschema.validate(instance=data, schema=schema)
+
+def validate_question_response_json(data):
+    """Validate the question/response cycle JSON against the schema."""
+    schema = {
+        "type": "object",
+        "properties": {
+            "question": {"type": "string"},
+            "attempt": {"type": "integer"},
+            "user_response": {"type": "string"},
+            "assistant_feedback": {"type": "string"},
+            "is_final_attempt": {"type": "boolean"},
+            "correct_answer": {"type": "string"},
+            "next_step": {"type": "string"}
+        },
+        "required": ["question", "attempt", "user_response", "assistant_feedback", "is_final_attempt", "correct_answer", "next_step"]
+    }
+    jsonschema.validate(instance=data, schema=schema)
+
+def validate_feedback_json(data):
+    """Validate the end-of-case feedback JSON against the schema."""
+    schema = {
+        "type": "object",
+        "properties": {
+            "result": {"type": "string", "enum": ["pass", "fail"]},
+            "feedback": {
+                "type": "object",
+                "properties": {
+                    "what_went_well": {
+                        "type": "object",
+                        "properties": {
+                            "management": {"type": "string"},
+                            "investigation": {"type": "string"},
+                            "other": {"type": "string"}
+                        },
+                        "required": ["management", "investigation", "other"]
+                    },
+                    "what_can_be_improved": {
+                        "type": "object",
+                        "properties": {
+                            "management": {"type": "string"},
+                            "investigation": {"type": "string"},
+                            "other": {"type": "string"}
+                        },
+                        "required": ["management", "investigation", "other"]
+                    },
+                    "actionable_points": {
+                        "type": "array",
+                        "items": {"type": "string"}
+                    }
+                },
+                "required": ["what_went_well", "what_can_be_improved", "actionable_points"]
+            }
+        },
+        "required": ["result", "feedback"]
+    }
+    jsonschema.validate(instance=data, schema=schema)
+
 async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int) -> AsyncGenerator[str, None]:
-    """Stream assistant responses using OpenAI's native streaming API."""
+    """Stream assistant responses using OpenAI's native streaming API, with JSON validation."""
     try:
         # Send initial case prompt (preserving exact original content)
         client.beta.threads.messages.create(
@@ -928,12 +1026,14 @@ You: Spot on — pericardial calcification on CXR suggests constrictive pericard
 You've just worked through the recognition, investigation, and management of cardiac tamponade, and contrasted it with constrictive pericarditis.
 """
         )
-        
+
         # Create streaming run using OpenAI's native streaming
         with client.beta.threads.runs.stream(
             thread_id=thread_id,
             assistant_id=ASSISTANT_ID
         ) as stream:
+            buffer = ""
+            first_json_sent = False
             for event in stream:
                 # Handle text delta events (real-time chunks)
                 if event.event == 'thread.message.delta':
@@ -941,14 +1041,54 @@ You've just worked through the recognition, investigation, and management of car
                         for content_block in event.data.delta.content:
                             if content_block.type == 'text' and hasattr(content_block.text, 'value'):
                                 chunk = content_block.text.value
-                                if chunk:  # Only yield non-empty chunks
-                                    yield f"data: {json.dumps({'content': chunk})}\n\n"
-                
+                                if chunk:
+                                    buffer += chunk
+                                    # Try to parse JSON if not yet sent
+                                    if not first_json_sent:
+                                        try:
+                                            # Try to find a complete JSON object in the buffer
+                                            json_start = buffer.find('{')
+                                            json_end = buffer.rfind('}')
+                                            if json_start != -1 and json_end != -1 and json_end > json_start:
+                                                json_str = buffer[json_start:json_end+1]
+                                                data = json.loads(json_str)
+                                                # Validate initial case JSON
+                                                try:
+                                                    validate_initial_case_json(data)
+                                                except Exception as ve:
+                                                    error_obj = {
+                                                        "error": {
+                                                            "type": "validation_error",
+                                                            "message": f"Initial case JSON validation failed: {str(ve)}"
+                                                        }
+                                                    }
+                                                    yield f"data: {json.dumps(error_obj)}\n\n"
+                                                    return
+                                                # If valid, yield the JSON and mark as sent
+                                                yield f"data: {json.dumps(data)}\n\n"
+                                                first_json_sent = True
+                                                buffer = buffer[json_end+1:]
+                                        except Exception as e:
+                                            # Not yet a complete JSON or parse error, keep buffering
+                                            pass
+                                    elif first_json_sent:
+                                        # After first JSON, just yield further chunks as-is (assume valid JSON per schema)
+                                        # Try to parse and yield only valid JSON objects
+                                        try:
+                                            json_start = buffer.find('{')
+                                            json_end = buffer.rfind('}')
+                                            if json_start != -1 and json_end != -1 and json_end > json_start:
+                                                json_str = buffer[json_start:json_end+1]
+                                                data = json.loads(json_str)
+                                                yield f"data: {json.dumps(data)}\n\n"
+                                                buffer = buffer[json_end+1:]
+                                        except Exception:
+                                            # Not yet a complete JSON or parse error, keep buffering
+                                            pass
                 # Handle run completion
                 elif event.event == 'thread.run.completed':
                     yield f"data: {json.dumps({'status': 'completed'})}\n\n"
                     break
-                
                 # Handle run failure
                 elif event.event == 'thread.run.failed':
                     error_msg = 'Run failed'
@@ -956,12 +1096,10 @@ You've just worked through the recognition, investigation, and management of car
                         error_msg = f'Run failed: {event.data.last_error}'
                     yield f"data: {json.dumps({'error': error_msg})}\n\n"
                     break
-                
                 # Handle run expiration
                 elif event.event == 'thread.run.expired':
                     yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
                     break
-                    
     except Exception as e:
         logger.error(f"Error in stream_assistant_response_real: {str(e)}")
         yield f"data: {json.dumps({'error': str(e)})}\n\n"
@@ -1033,110 +1171,88 @@ def sanitize_input(text: str) -> str:
     text = re.sub(r'[^\w\s\-.,!?]', '', text)
     return text.strip()
 
-async def stream_continue_case_response_real(thread_id: str, user_input: str) -> AsyncGenerator[str, None]:
-    """Stream assistant responses for continue_case using real OpenAI streaming."""
+# Update stream_continue_case_response_real to accept is_admin_sim flag
+default_is_admin_sim = False
+async def stream_continue_case_response_real(thread_id: str, user_input: str, is_admin_sim: bool = default_is_admin_sim) -> AsyncGenerator[str, None]:
+    """Stream assistant responses for continue_case using real OpenAI streaming, with JSON validation. If is_admin_sim is True, simulate the full case."""
     try:
-        # Send user message to thread
-        client.beta.threads.messages.create(
-            thread_id=thread_id,
-            role="user",
-            content=user_input
-        )
-        
+        # If admin simulation, send the special command to the Assistant
+        if is_admin_sim:
+            client.beta.threads.messages.create(
+                thread_id=thread_id,
+                role="user",
+                content="/simulate_full_case"
+            )
+        else:
+            # Normal user input
+            client.beta.threads.messages.create(
+                thread_id=thread_id,
+                role="user",
+                content=user_input
+            )
         # Create streaming run
         with client.beta.threads.runs.stream(
             thread_id=thread_id,
             assistant_id=ASSISTANT_ID
         ) as stream:
+            buffer = ""
             for event in stream:
                 # Handle text delta events (real-time chunks)
                 if event.event == 'thread.message.delta':
                     if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
                         for content in event.data.delta.content:
                             if hasattr(content, 'text') and hasattr(content.text, 'value'):
-                                chunk_data = json.dumps({
-                                    'content': content.text.value
-                                })
-                                yield f"data: {chunk_data}\n\n"
-                
+                                chunk = content.text.value
+                                if chunk:
+                                    buffer += chunk
+                                    # Try to parse JSON objects from the buffer
+                                    try:
+                                        json_start = buffer.find('{')
+                                        json_end = buffer.rfind('}')
+                                        if json_start != -1 and json_end != -1 and json_end > json_start:
+                                            json_str = buffer[json_start:json_end+1]
+                                            data = json.loads(json_str)
+                                            # Try to validate as question/response or feedback or error
+                                            try:
+                                                if 'question' in data:
+                                                    validate_question_response_json(data)
+                                                elif 'result' in data:
+                                                    validate_feedback_json(data)
+                                                elif 'error' in data:
+                                                    # Pass through error objects
+                                                    pass
+                                                else:
+                                                    raise Exception("Unknown JSON object type in stream.")
+                                            except Exception as ve:
+                                                error_obj = {
+                                                    "error": {
+                                                        "type": "validation_error",
+                                                        "message": f"Case JSON validation failed: {str(ve)}"
+                                                    }
+                                                }
+                                                yield f"data: {json.dumps(error_obj)}\n\n"
+                                                return
+                                            # If valid, yield the JSON
+                                            yield f"data: {json.dumps(data)}\n\n"
+                                            buffer = buffer[json_end+1:]
+                                    except Exception:
+                                        # Not yet a complete JSON or parse error, keep buffering
+                                        pass
                 # Handle run completion
                 elif event.event == 'thread.run.completed':
-                    # Get the final message
-                    messages = client.beta.threads.messages.list(thread_id=thread_id)
-                    latest_message = messages.data[0].content[0].text.value
-                    # Check for case completion
-                    is_completed = "CASE COMPLETED" in latest_message
-                    feedback = None
-                    score = None
-                    thread_metadata = None
-                    next_case_variation = None
-                    available_actions = []
-                    if is_completed:
-                        try:
-                            completion_index = latest_message.find("[CASE COMPLETED]")
-                            json_text = latest_message[completion_index + len("[CASE COMPLETED]"):].strip()
-                            feedback_json = json.loads(json_text)
-                            feedback = feedback_json.get("feedback")
-                            score = feedback_json.get("score")
-                            # Get enhanced completion data
-                            try:
-                                thread = client.beta.threads.retrieve(thread_id=thread_id)
-                                thread_metadata = thread.metadata
-                                condition = thread_metadata.get("condition", "")
-                                # Extract user_id from thread metadata for next case variation
-                                user_id = thread_metadata.get("user_id", "")
-                                if user_id and condition:
-                                    next_case_variation = get_next_case_variation(user_id, condition)
-                                    available_actions = [
-                                        "new_case_same_condition",
-                                        "save_performance", 
-                                        "view_progress",
-                                        "start_new_case"
-                                    ]
-                            except Exception as meta_error:
-                                logger.error(f"Error getting enhanced completion data: {str(meta_error)}")
-                        except Exception as e:
-                            logger.error(f"Error processing completion data: {str(e)}")
-                        final_data = json.dumps({
-                            'content': '',  # Empty since we already sent chunks
-                            'is_completed': True,
-                            'feedback': feedback,
-                            'score': score,
-                            'thread_metadata': thread_metadata,
-                            'next_case_variation': next_case_variation,
-                            'available_actions': available_actions
-                        })
-                        yield f"data: {final_data}\n\n"
-                    else:
-                        # Not completed, just yield a status update (no is_completed)
-                        final_data = json.dumps({
-                            'content': '',
-                        })
-                        yield f"data: {final_data}\n\n"
+                    yield f"data: {json.dumps({'status': 'completed'})}\n\n"
                     break
-                
                 # Handle run failure
                 elif event.event == 'thread.run.failed':
-                    error_data = json.dumps({
-                        'error': f'Run failed: {event.data.last_error}',
-                        'is_completed': False,
-                        'feedback': None,
-                        'score': None
-                    })
-                    yield f"data: {error_data}\n\n"
+                    error_msg = 'Run failed'
+                    if hasattr(event.data, 'last_error') and event.data.last_error:
+                        error_msg = f'Run failed: {event.data.last_error}'
+                    yield f"data: {json.dumps({'error': error_msg})}\n\n"
                     break
-                
                 # Handle run expiration
                 elif event.event == 'thread.run.expired':
-                    error_data = json.dumps({
-                        'error': 'Run expired',
-                        'is_completed': False,
-                        'feedback': None,
-                        'score': None
-                    })
-                    yield f"data: {error_data}\n\n"
+                    yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
                     break
-                    
     except Exception as e:
         logger.error(f"Error in stream_continue_case_response_real: {str(e)}")
         error_data = json.dumps({
@@ -1149,26 +1265,39 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
 
 @app.post("/continue_case")
 async def continue_case(request: ContinueCaseRequest, authorization: str = Header(...)):
-    """Continue an existing case with the OpenAI Assistant using streaming."""
+    """Continue an existing case with the OpenAI Assistant using streaming. If user input is 'SpeedRunGT86', trigger admin simulation command."""
     try:
         # Sanitize user input
         sanitized_input = sanitize_input(request.user_input)
-        
+
         # Validate token and get user ID
         if not authorization or not authorization.startswith("Bearer "):
             raise HTTPException(
                 status_code=status.HTTP_401_UNAUTHORIZED,
                 detail="Invalid authorization header"
             )
-        
         token = authorization.split(" ", 1)[1]
         user_id = extract_user_id(token)
-        
+
         logger.info(f"Continuing case for user {user_id} in thread {request.thread_id}")
-        
-        # Return streaming response
+
+        # If user input is the admin simulation command, trigger full case simulation
+        if sanitized_input.strip().lower() == 'speedrungt86'.lower():
+            admin_command = '/simulate_full_case'
+            return StreamingResponse(
+                stream_continue_case_response_real(request.thread_id, admin_command, is_admin_sim=True),
+                media_type="text/event-stream",
+                headers={
+                    "Cache-Control": "no-cache",
+                    "Connection": "keep-alive",
+                    "X-Accel-Buffering": "no",
+                    "Content-Type": "text/event-stream"
+                }
+            )
+
+        # Otherwise, normal case continuation
         return StreamingResponse(
-            stream_continue_case_response_real(request.thread_id, sanitized_input),
+            stream_continue_case_response_real(request.thread_id, sanitized_input, is_admin_sim=False),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
@@ -1177,7 +1306,6 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
                 "Content-Type": "text/event-stream"
             }
         )
-                
     except HTTPException:
         raise
     except Exception as e:
