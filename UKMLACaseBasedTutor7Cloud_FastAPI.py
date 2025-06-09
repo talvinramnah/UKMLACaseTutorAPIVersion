@@ -833,7 +833,7 @@ You are an expert UK medical educator and case simulator. You must ALWAYS respon
 CASE CONTENT:
 {case_content}
 
-INSTRUCTIONS:
+CRITICAL INSTRUCTIONS:
 1. FIRST: Send an initial case message JSON containing:
    - demographics: name (random), age, nhs_number (random 10 digits), date_of_birth (ISO format), ethnicity
    - presenting_complaint: summary (SOCRATES format), history, medical_history, drug_history, family_history  
@@ -841,26 +841,34 @@ INSTRUCTIONS:
 
 2. IMMEDIATELY AFTER: Send your first question as a separate JSON object using the question schema.
 
-3. Then wait for the user's response and continue step-by-step:
-   - For each question, start with attempt: 1 and empty assistant_feedback
-   - If user answers INCORRECTLY on attempt 1: respond with attempt: 2 and NO assistant_feedback (no hint yet)
-   - If user answers INCORRECTLY on attempt 2: respond with attempt: 3 and provide assistant_feedback (hint)
-   - If user answers INCORRECTLY on attempt 3: provide correct_answer and move to next question
-   - If user answers CORRECTLY at any attempt: acknowledge and proceed to next question
+3. THEN STOP AND WAIT FOR USER RESPONSE. Do NOT generate multiple questions at once.
 
-4. At case end, provide feedback JSON with:
+4. For each subsequent user response:
+   - ONLY evaluate the current question - do not ask new questions yet
+   - If user answers CORRECTLY: acknowledge briefly and ask the NEXT question (one question only)
+   - If user answers INCORRECTLY on attempt 1: respond with attempt: 2, NO assistant_feedback (no hint)
+   - If user answers INCORRECTLY on attempt 2: respond with attempt: 3, provide assistant_feedback (hint)
+   - If user answers INCORRECTLY on attempt 3: provide correct_answer and ask NEXT question
+
+5. HINT LOGIC - CRITICAL:
+   - Only provide hints (assistant_feedback) when user has answered incorrectly AND it's attempt 3
+   - Never provide hints for correct answers
+   - Never provide hints on attempt 1 or 2
+
+6. ONE QUESTION AT A TIME:
+   - Send only ONE question per response
+   - Wait for user answer before asking next question
+   - Never generate multiple questions in sequence
+
+7. At case end, provide feedback JSON with:
    - result: "pass" or "fail" (pass if safe/effective management, fail if patient harm/requires takeover)
-   - feedback: what_went_well, what_can_be_improved, actionable_points (with management/investigation/other breakdowns)
+   - feedback: what_went_well, what_can_be_improved, actionable_points
 
-5. If user sends 'SpeedRunGT86', simulate entire case automatically with all questions/answers/feedback.
+8. If user sends 'SpeedRunGT86', simulate entire case automatically.
 
-6. For nonsense/inappropriate input, respond with error JSON: {{"error": {{"type": "refusal", "message": "explanation"}}}}
+9. For nonsense/inappropriate input, respond with error JSON.
 
-7. Reference example cases (EXAMPLE 1-Acute Heart Failure Management.txt, etc.) when relevant.
-
-8. NEVER output free text or markdown. ONLY output valid JSON objects.
-
-9. IMPORTANT: Do NOT generate all questions at once. Send initial case, then first question, then STOP and wait for user response.
+10. NEVER output free text or markdown. ONLY output valid JSON objects.
 
 SCHEMAS:
 Initial case: {{"demographics": {{"name": "str", "age": int, "nhs_number": "str", "date_of_birth": "YYYY-MM-DD", "ethnicity": "str"}}, "presenting_complaint": {{"summary": "str", "history": "str", "medical_history": "str", "drug_history": "str", "family_history": "str"}}, "ice": {{"ideas": "str", "concerns": "str", "expectations": "str"}}}}
@@ -873,7 +881,7 @@ Error: {{"error": {{"type": "refusal|validation_error", "message": "str"}}}}
 
 Present case for: {condition} (Variation {case_variation})
 
-Remember: Send initial case JSON, then immediately send first question JSON, then STOP.
+REMEMBER: Send initial case JSON, then first question JSON, then STOP. One question at a time. Hints only on attempt 3 for wrong answers.
 """
         )
 
@@ -884,6 +892,8 @@ Remember: Send initial case JSON, then immediately send first question JSON, the
             buffer = ""
             first_json_sent = False
             final_feedback_sent = False
+            last_yield_time = time.time()
+            
             for event in stream:
                 logger.info(f"[STREAM] Event: {event.event}")
                 if event.event == 'thread.message.delta':
@@ -894,6 +904,14 @@ Remember: Send initial case JSON, then immediately send first question JSON, the
                                 logger.info(f"[STREAM] Received chunk: {repr(chunk)}")
                                 if chunk:
                                     buffer += chunk
+                                    
+                                    # Yield incremental progress for better UX (every 0.1 seconds or significant content)
+                                    current_time = time.time()
+                                    if (current_time - last_yield_time > 0.1) or len(chunk) > 10:
+                                        # Send a progress indicator to show streaming is happening
+                                        yield f"data: {json.dumps({'streaming': True, 'partial_content': len(buffer)})}\n\n"
+                                        last_yield_time = current_time
+                                    
                                     # Use bracket counting to extract complete JSON objects
                                     while True:
                                         json_str, new_buffer = extract_complete_json_from_buffer(buffer)
@@ -1031,6 +1049,8 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
         ) as stream:
             buffer = ""
             final_feedback_sent = False
+            last_yield_time = time.time()
+            
             for event in stream:
                 if event.event == 'thread.message.delta':
                     if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
@@ -1039,6 +1059,14 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
                                 chunk = content.text.value
                                 if chunk:
                                     buffer += chunk
+                                    
+                                    # Yield incremental progress for better UX (every 0.1 seconds or significant content)
+                                    current_time = time.time()
+                                    if (current_time - last_yield_time > 0.1) or len(chunk) > 10:
+                                        # Send a progress indicator to show streaming is happening
+                                        yield f"data: {json.dumps({'streaming': True, 'partial_content': len(buffer)})}\n\n"
+                                        last_yield_time = current_time
+                                    
                                     # Use bracket counting to extract complete JSON objects
                                     while True:
                                         json_str, new_buffer = extract_complete_json_from_buffer(buffer)

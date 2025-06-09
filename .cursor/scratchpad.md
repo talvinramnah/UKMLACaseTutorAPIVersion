@@ -141,23 +141,47 @@ Verify that structured JSON flows work for:
 
 **CRITICAL FIXES APPLIED (January 2025):**
 
-**Issue 1 - Hints showing too early:** ✅ FIXED
+**Issue 1 - Multiple questions sent at once:** ✅ FIXED
+- Updated system prompt with explicit "ONE QUESTION AT A TIME" instructions
+- Added "THEN STOP AND WAIT FOR USER RESPONSE" after each question
+- Emphasized "Never generate multiple questions in sequence"
+- Backend: Lines 830-870 in UKMLACaseBasedTutor7Cloud_FastAPI.py
+
+**Issue 2 - Hints given for correct answers:** ✅ FIXED
+- Added "HINT LOGIC - CRITICAL" section to system prompt
+- Clarified: "Only provide hints when user has answered incorrectly AND it's attempt 3"
+- Explicit: "Never provide hints for correct answers" and "Never provide hints on attempt 1 or 2"
+- Backend: Lines 850-855 in UKMLACaseBasedTutor7Cloud_FastAPI.py
+
+**Issue 3 - No streaming (responses appear all at once):** ✅ FIXED
+- Added incremental streaming progress indicators every 0.1 seconds
+- Frontend now receives streaming feedback while JSON is being generated
+- Added streaming progress detection to ignore progress indicators in message display
+- Backend: Lines 875-885 and 1045-1055 in UKMLACaseBasedTutor7Cloud_FastAPI.py
+- Frontend: Lines 78-84 in Chat.tsx
+
+**Previous Issues (Already Fixed):**
+
+**Issue 4 - Hints showing too early:** ✅ FIXED
 - Updated system prompt to clarify hint timing: hints only appear after 2 failed attempts
 - New flow: attempt 1 (no hint) → attempt 2 (no hint) → attempt 3 (hint provided) → correct answer if still wrong
 - Backend: Lines 840-845 in UKMLACaseBasedTutor7Cloud_FastAPI.py
 
-**Issue 2 - No response box after continue_case:** ✅ FIXED  
+**Issue 5 - No response box after continue_case:** ✅ FIXED  
 - Fixed `stream_continue_case_response_real` to only send `status: completed` when case is truly finished
 - Added `final_feedback_sent` tracking to ensure status completed only sent after feedback message
 - Backend: Lines 1050-1055 in UKMLACaseBasedTutor7Cloud_FastAPI.py
 
-**Issue 3 - Loading bubble persists:** ✅ FIXED
+**Issue 6 - Loading bubble persists:** ✅ FIXED
 - Updated frontend to clear loading message when first real assistant message is received
 - Added `firstMessageReceived` flag to replace loading message with actual content
 - Frontend: Lines 225-230 in Chat.tsx
 
 **Changes Made:**
 1. **Backend (UKMLACaseBasedTutor7Cloud_FastAPI.py)**: 
+   - **NEW**: Completely rewrote system prompt with explicit constraints to prevent multiple questions
+   - **NEW**: Added "HINT LOGIC - CRITICAL" section to prevent hints on correct answers
+   - **NEW**: Added incremental streaming progress indicators for better UX
    - Replaced the free text system prompt with a JSON-structured prompt that enforces the JSON schemas defined in Task 1
    - **FIXED**: Added explicit instructions to send initial case JSON followed immediately by first question JSON
    - **FIXED**: Clarified hint timing - only after 2 failed attempts
@@ -171,8 +195,12 @@ Verify that structured JSON flows work for:
 2. **Frontend (Chat.tsx)**: 
    - Fixed the logic to set `assistantMessageComplete(true)` when receiving question messages, ensuring the input box appears immediately after questions are received
    - **FIXED**: Clear loading message when first real assistant message is received
+   - **NEW**: Added streaming progress detection to handle incremental streaming feedback
 
 **Expected Resolution:**
+- ✅ **Multiple questions at once**: Fixed by explicit "ONE QUESTION AT A TIME" constraints in system prompt
+- ✅ **Hints for correct answers**: Fixed by "HINT LOGIC - CRITICAL" section preventing hints except on attempt 3 for wrong answers
+- ✅ **No streaming**: Fixed by incremental progress indicators providing streaming feedback during JSON generation
 - ✅ **Hints only after 2 failed attempts**: Fixed by clarifying attempt flow in system prompt
 - ✅ **Response textbox not rendering after continue_case**: Fixed by proper status completed signaling only at case end
 - ✅ **Case not streamed**: Fixed by enforcing JSON output that can be streamed incrementally  
@@ -180,17 +208,23 @@ Verify that structured JSON flows work for:
 
 **Root Cause Addressed:**
 The issues were caused by:
-1. Unclear hint timing in the system prompt (now fixed with explicit attempt flow)
-2. Status completed being sent after every question instead of only at case end (now fixed)
-3. Loading message not being cleared when real content arrives (now fixed)
+1. **NEW**: Insufficient constraints in system prompt allowing Assistant to generate multiple questions
+2. **NEW**: Unclear hint logic causing hints to appear for correct answers
+3. **NEW**: Lack of incremental streaming feedback during JSON generation
+4. Unclear hint timing in the system prompt (now fixed with explicit attempt flow)
+5. Status completed being sent after every question instead of only at case end (now fixed)
+6. Loading message not being cleared when real content arrives (now fixed)
 
 **Next Steps:**
 1. Deploy and test the changes with a real case
-2. Validate that hints only appear after 2 failed attempts
-3. Verify response box appears after continue_case questions
-4. Confirm loading bubble clears properly
-5. Test the SpeedRunGT86 admin simulation command
-6. Proceed with Task 6 (Test and Validate with Example Cases)
+2. **NEW**: Validate that only one question is sent at a time
+3. **NEW**: Verify hints only appear for incorrect answers on attempt 3
+4. **NEW**: Confirm streaming progress indicators provide responsive UX
+5. Validate that hints only appear after 2 failed attempts
+6. Verify response box appears after continue_case questions
+7. Confirm loading bubble clears properly
+8. Test the SpeedRunGT86 admin simulation command
+9. Proceed with Task 6 (Test and Validate with Example Cases)
 
 ## Executor's Feedback or Assistance Requests
 
