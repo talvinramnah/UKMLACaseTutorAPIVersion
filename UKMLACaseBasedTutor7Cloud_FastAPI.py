@@ -828,60 +828,53 @@ async def stream_assistant_response_real(thread_id: str, condition: str, case_co
             thread_id=thread_id,
             role="user",
             content=f"""
-You are an expert UK medical educator and case simulator. You must ALWAYS respond in valid JSON according to the following schemas:
+MEDICAL CASE SIMULATOR - STRICT JSON OUTPUT ONLY
 
 CASE CONTENT:
 {case_content}
 
-CRITICAL INSTRUCTIONS:
-1. FIRST: Send an initial case message JSON containing:
-   - demographics: name (random), age, nhs_number (random 10 digits), date_of_birth (ISO format), ethnicity
-   - presenting_complaint: summary (SOCRATES format), history, medical_history, drug_history, family_history  
-   - ice: ideas, concerns, expectations
+CRITICAL RULES - MUST FOLLOW EXACTLY:
 
-2. IMMEDIATELY AFTER: Send your first question as a separate JSON object using the question schema.
+1. STEP 1: Send initial case JSON with demographics, presenting_complaint, ice
+2. STEP 2: Send EXACTLY ONE question JSON 
+3. STEP 3: STOP - Wait for user response
+4. STEP 4: When user responds, evaluate answer and send EXACTLY ONE response
+5. REPEAT: Only send ONE question per interaction
 
-3. THEN STOP AND WAIT FOR USER RESPONSE. Do NOT generate multiple questions at once.
+FORBIDDEN ACTIONS:
+- NEVER send multiple questions in one response
+- NEVER generate question sequences
+- NEVER ask "What would you do next?" followed by another question
+- NEVER continue after sending a question - ALWAYS STOP
 
-4. For each subsequent user response:
-   - ONLY evaluate the current question - do not ask new questions yet
-   - If user answers CORRECTLY: acknowledge briefly and ask the NEXT question (one question only)
-   - If user answers INCORRECTLY on attempt 1: respond with attempt: 2, NO assistant_feedback (no hint)
-   - If user answers INCORRECTLY on attempt 2: respond with attempt: 3, provide assistant_feedback (hint)
-   - If user answers INCORRECTLY on attempt 3: provide correct_answer and ask NEXT question
+QUESTION FLOW:
+- If user answers CORRECTLY: Send next question (ONE only) 
+- If user answers WRONG (attempt 1): Send attempt 2 response (NO hint)
+- If user answers WRONG (attempt 2): Send attempt 3 response (WITH hint)
+- If user answers WRONG (attempt 3): Give correct answer, then ask NEXT question (ONE only)
 
-5. HINT LOGIC - CRITICAL:
-   - Only provide hints (assistant_feedback) when user has answered incorrectly AND it's attempt 3
-   - Never provide hints for correct answers
-   - Never provide hints on attempt 1 or 2
+JSON SCHEMAS (USE EXACTLY):
 
-6. ONE QUESTION AT A TIME:
-   - Send only ONE question per response
-   - Wait for user answer before asking next question
-   - Never generate multiple questions in sequence
+Initial Case:
+{{"demographics": {{"name": "str", "age": int, "nhs_number": "str", "date_of_birth": "YYYY-MM-DD", "ethnicity": "str"}}, "presenting_complaint": {{"summary": "str", "history": "str", "medical_history": "str", "drug_history": "str", "family_history": "str"}}, "ice": {{"ideas": "str", "concerns": "str", "expectations": "str"}}}}
 
-7. At case end, provide feedback JSON with:
-   - result: "pass" or "fail" (pass if safe/effective management, fail if patient harm/requires takeover)
-   - feedback: what_went_well, what_can_be_improved, actionable_points
+Question (ONLY ONE PER RESPONSE):
+{{"question": "str", "attempt": 1, "user_response": "", "assistant_feedback": "", "is_final_attempt": false, "correct_answer": "", "next_step": ""}}
 
-8. If user sends 'SpeedRunGT86', simulate entire case automatically.
+Final Feedback (ONLY at case end):
+{{"result": "pass|fail", "feedback": {{"what_went_well": {{"management": "str", "investigation": "str", "other": "str"}}, "what_can_be_improved": {{"management": "str", "investigation": "str", "other": "str"}}, "actionable_points": ["str"]}}}}
 
-9. For nonsense/inappropriate input, respond with error JSON.
+ERROR HANDLING:
+- For nonsense input: {{"error": {{"type": "validation_error", "message": "str"}}}}
+- For admin command 'SpeedRunGT86': Simulate full case
 
-10. NEVER output free text or markdown. ONLY output valid JSON objects.
+CONDITION: {condition} (Variation {case_variation})
 
-SCHEMAS:
-Initial case: {{"demographics": {{"name": "str", "age": int, "nhs_number": "str", "date_of_birth": "YYYY-MM-DD", "ethnicity": "str"}}, "presenting_complaint": {{"summary": "str", "history": "str", "medical_history": "str", "drug_history": "str", "family_history": "str"}}, "ice": {{"ideas": "str", "concerns": "str", "expectations": "str"}}}}
-
-Question: {{"question": "str", "attempt": 1, "user_response": "", "assistant_feedback": "", "is_final_attempt": false, "correct_answer": "", "next_step": ""}}
-
-Feedback: {{"result": "pass|fail", "feedback": {{"what_went_well": {{"management": "str", "investigation": "str", "other": "str"}}, "what_can_be_improved": {{"management": "str", "investigation": "str", "other": "str"}}, "actionable_points": ["str"]}}}}
-
-Error: {{"error": {{"type": "refusal|validation_error", "message": "str"}}}}
-
-Present case for: {condition} (Variation {case_variation})
-
-REMEMBER: Send initial case JSON, then first question JSON, then STOP. One question at a time. Hints only on attempt 3 for wrong answers.
+REMEMBER: 
+- Send initial case JSON
+- Send EXACTLY ONE question JSON  
+- STOP and wait for user response
+- ONE QUESTION AT A TIME - NO EXCEPTIONS
 """
         )
 
