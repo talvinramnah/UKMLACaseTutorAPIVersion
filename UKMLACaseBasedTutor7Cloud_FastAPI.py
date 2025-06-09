@@ -886,6 +886,7 @@ REMEMBER:
             first_json_sent = False
             final_feedback_sent = False
             last_yield_time = time.time()
+            sent_json_hashes = set()  # Track sent JSON to prevent duplicates
             
             for event in stream:
                 logger.info(f"[STREAM] Event: {event.event}")
@@ -910,21 +911,32 @@ REMEMBER:
                                         json_str, new_buffer = extract_complete_json_from_buffer(buffer)
                                         if json_str:
                                             try:
+                                                # Create hash of JSON content to prevent duplicates
+                                                json_hash = hash(json_str.strip())
+                                                if json_hash in sent_json_hashes:
+                                                    logger.info(f"[STREAM] Skipping duplicate JSON: {json_str[:100]}...")
+                                                    buffer = new_buffer
+                                                    continue
+                                                
                                                 data = json.loads(json_str)
                                                 # Validate and yield only one logical message per SSE event
                                                 if not first_json_sent and 'demographics' in data and 'presenting_complaint' in data and 'ice' in data:
                                                     validate_initial_case_json(data)
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    sent_json_hashes.add(json_hash)
                                                     first_json_sent = True
                                                 elif 'question' in data:
                                                     validate_question_response_json(data)
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    sent_json_hashes.add(json_hash)
                                                 elif 'result' in data and 'feedback' in data:
                                                     validate_feedback_json(data)
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    sent_json_hashes.add(json_hash)
                                                     final_feedback_sent = True
                                                 elif 'error' in data:
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    sent_json_hashes.add(json_hash)
                                                 buffer = new_buffer
                                             except Exception as e:
                                                 logger.info(f"[STREAM] JSON parse error or incomplete: {e}")
@@ -1043,6 +1055,7 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
             buffer = ""
             final_feedback_sent = False
             last_yield_time = time.time()
+            sent_json_hashes = set()  # Track sent JSON to prevent duplicates
             
             for event in stream:
                 if event.event == 'thread.message.delta':
@@ -1065,16 +1078,26 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
                                         json_str, new_buffer = extract_complete_json_from_buffer(buffer)
                                         if json_str:
                                             try:
+                                                # Create hash of JSON content to prevent duplicates
+                                                json_hash = hash(json_str.strip())
+                                                if json_hash in sent_json_hashes:
+                                                    logger.info(f"[CONTINUE] Skipping duplicate JSON: {json_str[:100]}...")
+                                                    buffer = new_buffer
+                                                    continue
+                                                
                                                 data = json.loads(json_str)
                                                 if 'question' in data:
                                                     validate_question_response_json(data)
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    sent_json_hashes.add(json_hash)
                                                 elif 'result' in data and 'feedback' in data:
                                                     validate_feedback_json(data)
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    sent_json_hashes.add(json_hash)
                                                     final_feedback_sent = True
                                                 elif 'error' in data:
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    sent_json_hashes.add(json_hash)
                                                 buffer = new_buffer
                                             except Exception as e:
                                                 break

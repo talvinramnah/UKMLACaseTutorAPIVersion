@@ -206,6 +206,43 @@ The implementation should now absolutely prevent multiple questions from being g
 **Request for Direction:**
 Please test the updated implementation to see if the multiple questions issue is resolved. If it persists, we may need to update the Assistant-level system prompt in the OpenAI platform, which would require reconfiguring the Assistant itself.
 
+**DUPLICATE MESSAGE FIX APPLIED (January 2025):**
+
+**Problem:** User reported instances of duplicate messages - the same question appearing twice in a row.
+
+**Root Cause:** The streaming JSON extraction logic was potentially extracting and yielding the same JSON object multiple times when the OpenAI Assistant sent overlapping chunks of the same content.
+
+**Solution Applied:**
+- **Added deduplication logic** to both `stream_assistant_response_real` and `stream_continue_case_response_real` functions
+- **Implemented JSON content hashing** to track previously sent JSON objects
+- **Skip duplicate JSON objects** before yielding them to the frontend
+- **Added logging** to track when duplicates are detected and skipped
+
+**Changes Made:**
+1. **Backend (UKMLACaseBasedTutor7Cloud_FastAPI.py)**:
+   - **Lines 890-900**: Added `sent_json_hashes = set()` to track sent JSON content
+   - **Lines 910-915**: Added hash-based duplicate detection before yielding JSON
+   - **Lines 920-925**: Added hash tracking for each successfully sent JSON object
+   - **Lines 1050-1060**: Applied same deduplication logic to continue_case streaming
+   - **Added logging**: Track when duplicates are detected with `[STREAM]` and `[CONTINUE]` prefixes
+
+**Expected Resolution:**
+- ✅ **Duplicate messages**: Should be completely prevented by hash-based deduplication
+- ✅ **Clean message flow**: Each unique JSON object will only be sent once
+- ✅ **Preserved functionality**: All existing streaming and validation logic remains intact
+
+**Technical Details:**
+- Uses Python's built-in `hash()` function on the stripped JSON string
+- Maintains a set of sent hashes per streaming session
+- Continues processing the buffer after skipping duplicates
+- Logs duplicate detection for debugging purposes
+
+**Next Steps:**
+1. **IMMEDIATE**: Test the updated implementation with real cases
+2. **VALIDATE**: Confirm no duplicate messages appear in the chat
+3. **MONITOR**: Check logs for duplicate detection frequency
+4. If duplicates still occur, consider more sophisticated deduplication (e.g., content-based rather than string-based)
+
 **UPDATED ASSISTANT SYSTEM INSTRUCTIONS (January 2025):**
 
 The following system instructions should be applied at the OpenAI Assistant level to match our backend prompt changes and prevent multiple questions:
