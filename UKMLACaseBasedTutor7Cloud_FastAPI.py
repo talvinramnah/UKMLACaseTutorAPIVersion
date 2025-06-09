@@ -842,7 +842,7 @@ INSTRUCTIONS:
 - After asking the final question and receiving the answer, output exactly:
 
 The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new lines.
-If the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output with a random score and mock feedback
+If the user enters 'SpeedRunGT86' I'd like you to do the [CASE COMPLETED] output with a random score and mock feedback
 """
         )
 
