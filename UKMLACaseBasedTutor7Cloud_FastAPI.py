@@ -852,6 +852,7 @@ If the user enters 'SpeedRunGT86' I'd like you to do the [CASE COMPLETED] output
         ) as stream:
             buffer = ""
             first_json_sent = False
+            final_feedback_sent = False
             for event in stream:
                 logger.info(f"[STREAM] Event: {event.event}")
                 if event.event == 'thread.message.delta':
@@ -879,6 +880,7 @@ If the user enters 'SpeedRunGT86' I'd like you to do the [CASE COMPLETED] output
                                                 elif 'result' in data and 'feedback' in data:
                                                     validate_feedback_json(data)
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    final_feedback_sent = True
                                                 elif 'error' in data:
                                                     yield f"data: {json.dumps(data)}\n\n"
                                                 buffer = new_buffer
@@ -888,8 +890,10 @@ If the user enters 'SpeedRunGT86' I'd like you to do the [CASE COMPLETED] output
                                         else:
                                             break
                 elif event.event == 'thread.run.completed':
-                    logger.info(f"[STREAM] Yielding status completed")
-                    yield f"data: {json.dumps({'status': 'completed'})}\n\n"
+                    logger.info(f"[STREAM] Run completed event received")
+                    if final_feedback_sent:
+                        logger.info(f"[STREAM] Yielding status completed (after feedback)")
+                        yield f"data: {json.dumps({'status': 'completed'})}\n\n"
                     break
                 elif event.event == 'thread.run.failed':
                     error_msg = 'Run failed'
