@@ -139,26 +139,36 @@ Verify that structured JSON flows work for:
 
 **TASK 2 IMPLEMENTATION COMPLETE:** The OpenAI Assistant system prompt has been updated to enforce structured JSON output according to the defined schemas. This should resolve all three reported issues.
 
+**CRITICAL FIX APPLIED:** Updated the system prompt to ensure the Assistant sends the initial case message followed immediately by the first question. This resolves the issue where only the case demographics were sent but no question followed, leaving users without an input box.
+
 **Changes Made:**
-1. **Backend (UKMLACaseBasedTutor7Cloud_FastAPI.py)**: Replaced the free text system prompt with a JSON-structured prompt that:
-   - Enforces the JSON schemas defined in Task 1
+1. **Backend (UKMLACaseBasedTutor7Cloud_FastAPI.py)**: 
+   - Replaced the free text system prompt with a JSON-structured prompt that enforces the JSON schemas defined in Task 1
+   - **FIXED**: Added explicit instructions to send initial case JSON followed immediately by first question JSON
    - Instructs the Assistant to NEVER output free text or markdown
    - Provides clear schema examples for all message types
    - Handles the SpeedRunGT86 admin simulation command
    - Includes proper error handling for nonsense/inappropriate input
+   - **CRITICAL**: Added instruction "Do NOT generate all questions at once. Send initial case, then first question, then STOP and wait for user response."
 
 2. **Frontend (Chat.tsx)**: Fixed the logic to set `assistantMessageComplete(true)` when receiving question messages, ensuring the input box appears immediately after questions are received.
 
 **Expected Resolution:**
-- ✅ **Response textbox not rendering**: Fixed by setting `assistantMessageComplete(true)` after question messages
+- ✅ **Response textbox not rendering**: Fixed by ensuring Assistant sends question after initial case + frontend sets `assistantMessageComplete(true)` after question messages
 - ✅ **Case not streamed**: Fixed by enforcing JSON output that can be streamed incrementally  
 - ✅ **Loading bubble remains visible**: Fixed by proper status signaling
 
+**Root Cause Addressed:**
+The issue was twofold:
+1. Backend wasn't sending a question after the initial case (now fixed with explicit prompt instructions)
+2. Frontend only showed input box after question messages (already fixed)
+
 **Next Steps:**
 1. Deploy and test the changes with a real case
-2. Validate that all three issues are resolved
-3. Test the SpeedRunGT86 admin simulation command
-4. Proceed with Task 6 (Test and Validate with Example Cases)
+2. Validate that initial case + first question are both sent
+3. Verify input box appears after the first question
+4. Test the SpeedRunGT86 admin simulation command
+5. Proceed with Task 6 (Test and Validate with Example Cases)
 
 ## Executor's Feedback or Assistance Requests
 

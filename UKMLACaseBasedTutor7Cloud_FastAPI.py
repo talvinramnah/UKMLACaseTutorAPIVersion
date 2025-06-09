@@ -834,39 +834,45 @@ CASE CONTENT:
 {case_content}
 
 INSTRUCTIONS:
-1. Start with an initial case message JSON containing:
+1. FIRST: Send an initial case message JSON containing:
    - demographics: name (random), age, nhs_number (random 10 digits), date_of_birth (ISO format), ethnicity
    - presenting_complaint: summary (SOCRATES format), history, medical_history, drug_history, family_history  
    - ice: ideas, concerns, expectations
 
-2. Guide the user through the case step-by-step. For each question:
-   - Respond with question/response JSON format
+2. IMMEDIATELY AFTER: Send your first question as a separate JSON object using the question schema.
+
+3. Then wait for the user's response and continue step-by-step:
+   - For each subsequent question, respond with question/response JSON format
    - Allow up to 2 incorrect attempts with gentle hints
    - On 3rd failed attempt, provide correct answer and move forward
    - If correct, acknowledge and proceed to next question
 
-3. At case end, provide feedback JSON with:
+4. At case end, provide feedback JSON with:
    - result: "pass" or "fail" (pass if safe/effective management, fail if patient harm/requires takeover)
    - feedback: what_went_well, what_can_be_improved, actionable_points (with management/investigation/other breakdowns)
 
-4. If user sends 'SpeedRunGT86', simulate entire case automatically with all questions/answers/feedback.
+5. If user sends 'SpeedRunGT86', simulate entire case automatically with all questions/answers/feedback.
 
-5. For nonsense/inappropriate input, respond with error JSON: {{"error": {{"type": "refusal", "message": "explanation"}}}}
+6. For nonsense/inappropriate input, respond with error JSON: {{"error": {{"type": "refusal", "message": "explanation"}}}}
 
-6. Reference example cases (EXAMPLE 1-Acute Heart Failure Management.txt, etc.) when relevant.
+7. Reference example cases (EXAMPLE 1-Acute Heart Failure Management.txt, etc.) when relevant.
 
-7. NEVER output free text or markdown. ONLY output valid JSON objects.
+8. NEVER output free text or markdown. ONLY output valid JSON objects.
+
+9. IMPORTANT: Do NOT generate all questions at once. Send initial case, then first question, then STOP and wait for user response.
 
 SCHEMAS:
 Initial case: {{"demographics": {{"name": "str", "age": int, "nhs_number": "str", "date_of_birth": "YYYY-MM-DD", "ethnicity": "str"}}, "presenting_complaint": {{"summary": "str", "history": "str", "medical_history": "str", "drug_history": "str", "family_history": "str"}}, "ice": {{"ideas": "str", "concerns": "str", "expectations": "str"}}}}
 
-Question: {{"question": "str", "attempt": int, "user_response": "str", "assistant_feedback": "str", "is_final_attempt": bool, "correct_answer": "str", "next_step": "str"}}
+Question: {{"question": "str", "attempt": 1, "user_response": "", "assistant_feedback": "", "is_final_attempt": false, "correct_answer": "", "next_step": ""}}
 
 Feedback: {{"result": "pass|fail", "feedback": {{"what_went_well": {{"management": "str", "investigation": "str", "other": "str"}}, "what_can_be_improved": {{"management": "str", "investigation": "str", "other": "str"}}, "actionable_points": ["str"]}}}}
 
 Error: {{"error": {{"type": "refusal|validation_error", "message": "str"}}}}
 
 Present case for: {condition} (Variation {case_variation})
+
+Remember: Send initial case JSON, then immediately send first question JSON, then STOP.
 """
         )
 
