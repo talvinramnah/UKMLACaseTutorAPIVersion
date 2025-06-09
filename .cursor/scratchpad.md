@@ -343,43 +343,66 @@ The changes are minimal and focused, maintaining consistency with the existing c
 
 ---
 
-## Planner: Fix Backend Not Streaming Initial Case JSON
+## Planner: Optimizing Structured JSON Case Streaming (UKMLA Case Tutor)
 
-### Background and Problem Statement
-- The frontend receives only `data: {"status": "completed"}` from `/start_case`, not the expected initial case JSON (demographics, presenting complaint, ICE).
-- The backend is supposed to stream the initial case JSON as the first SSE message, but this is not happening.
-- As a result, the chat UI does not display the case content.
+## Background and Motivation
+- The goal is to deliver a structured, stepwise medical case to the frontend using JSON objects for each logical step (demographics, history, questions, feedback, etc.).
+- The backend and frontend are set up to stream and display each JSON object as a separate SSE event.
+- Recent changes include a more concise system prompt to the OpenAI Assistant, aiming to reduce the time to first response.
 
-### Root Cause Analysis
-- Possible causes:
-  1. The OpenAI Assistant is not returning the initial case JSON (prompt or config issue).
-  2. The backend streaming function (`stream_assistant_response_real`) is not yielding the initial JSON, only the completion status.
-  3. The backend is buffering or discarding the initial JSON chunk due to parsing or logic error.
+## Key Issues Observed
+- **Initial case load is slow (16+ seconds):** The Assistant generates the entire intro as a single JSON object, causing a delay before anything is shown.
+- **No true streaming for the intro:** All content appears at once, not incrementally.
+- **Frontend UX issues:**
+  - Loading bubble remains after case loads.
+  - **Response textbox does not render when the initial assistant response (case intro) has been returned.**
+- **Prompt size/complexity:** Large prompts may increase latency; a more concise prompt may help.
 
-### Plan to Fix
+## Goals
+- Reduce the time to first meaningful content for the user (ideally <10s).
+- Preserve structured JSON output for robust frontend parsing and display.
+- Improve perceived streaming and frontend responsiveness.
+- Ensure the frontend removes the loading bubble and shows the response textbox at the right time.
 
-#### 1. Debugging and Logging
-- Add detailed logging to `stream_assistant_response_real` to log every chunk received from the Assistant and every yield to the frontend.
-- Log the full Assistant response for the initial prompt (test in isolation if needed).
+## Analysis
+- The OpenAI Assistant, when prompted to output a single JSON object for the intro, will not stream partial content; the backend can only yield when the full object is received.
+- A more concise prompt may reduce model latency, but the initial case will still be a single JSON object.
+- True incremental streaming of the intro would require the Assistant to output each section (demographics, history, ICE, etc.) as separate JSON objects, which is not the current prompt design.
+- Frontend logic must be robust to remove loading indicators and show the input box as soon as the first question is received. **Currently, the response textbox does not render after the initial assistant response, which blocks user interaction.**
 
-#### 2. Prompt/Assistant Check
-- Review the system prompt to ensure it **requires** the initial response to be a JSON object with demographics, presenting complaint, and ICE.
-- Test the OpenAI Assistant API call directly (e.g., in a notebook or script) to confirm the initial response is as expected.
+## High-Level Task Breakdown
 
-#### 3. Backend Streaming Logic Fix
-- Ensure the backend parses and yields the first valid JSON object from the Assistant stream before yielding the completion status.
-- If the Assistant response is correct but not yielded, fix the buffer/parse logic to yield the initial JSON.
-- If the Assistant response is incorrect, update the prompt and retest.
+1. **Monitor and Benchmark Initial Response Time**
+   - Measure time from request to first SSE event for various prompt sizes.
+   - Success: Initial case intro appears in <10s for most cases.
 
-#### 4. Success Criteria
-- The frontend receives and displays the initial case JSON (demographics, presenting complaint, ICE) as the first message in the chat.
-- The chat flow proceeds as expected, with subsequent question/response cycles and feedback.
+2. **Optimize System Prompt for Latency**
+   - Keep instructions concise but explicit about required JSON structure.
+   - Remove unnecessary examples or verbose text.
+   - Success: No loss of structure, but reduced latency.
 
-### Project Status Board (for this fix)
-- [ ] Add logging to backend streaming function
-- [ ] Test OpenAI Assistant API call directly
-- [ ] Review and update system prompt if needed
-- [ ] Fix backend streaming logic to yield initial JSON
-- [ ] Confirm frontend displays initial case JSON
+3. **(Optional/Future) Explore Incremental Streaming**
+   - Experiment with prompting the Assistant to output each section as a separate JSON object (demographics, then history, then ICE, etc.).
+   - Backend yields each as soon as received.
+   - Success: Perceived streaming for the intro.
 
-**Next step:** Add logging to backend streaming function and test what is received from the Assistant and what is yielded to the frontend. 
+4. **Frontend UX Improvements**
+   - Remove the loading bubble as soon as the first real assistant message is received.
+   - **Ensure the response textbox renders as soon as the assistant is ready for user input (e.g., after the first question is received).**
+   - Success: No lingering loading state; user can respond immediately after the first question.
+
+5. **Backend Robustness**
+   - Continue using bracket counting to ensure only complete JSON objects are parsed and yielded.
+   - Log and handle any parse errors gracefully.
+   - Success: No parse errors, no stuck frontend.
+
+## Success Criteria
+- Initial case intro appears in <10s for most cases.
+- Each logical step (intro, question, feedback) is streamed as a separate JSON object.
+- Frontend displays each step promptly, removes loading bubble, and shows input box at the right time.
+- No parse errors or stuck UI.
+
+## Next Steps
+- Benchmark current response times with the new concise prompt.
+- Update frontend logic for loading and input box display.
+- (Optional) Experiment with more granular streaming if further speedup is needed. 
