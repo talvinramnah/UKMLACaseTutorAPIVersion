@@ -842,10 +842,11 @@ INSTRUCTIONS:
 2. IMMEDIATELY AFTER: Send your first question as a separate JSON object using the question schema.
 
 3. Then wait for the user's response and continue step-by-step:
-   - For each subsequent question, respond with question/response JSON format
-   - Allow up to 2 incorrect attempts with gentle hints
-   - On 3rd failed attempt, provide correct answer and move forward
-   - If correct, acknowledge and proceed to next question
+   - For each question, start with attempt: 1 and empty assistant_feedback
+   - If user answers INCORRECTLY on attempt 1: respond with attempt: 2 and NO assistant_feedback (no hint yet)
+   - If user answers INCORRECTLY on attempt 2: respond with attempt: 3 and provide assistant_feedback (hint)
+   - If user answers INCORRECTLY on attempt 3: provide correct_answer and move to next question
+   - If user answers CORRECTLY at any attempt: acknowledge and proceed to next question
 
 4. At case end, provide feedback JSON with:
    - result: "pass" or "fail" (pass if safe/effective management, fail if patient harm/requires takeover)
@@ -1029,6 +1030,7 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
             assistant_id=ASSISTANT_ID
         ) as stream:
             buffer = ""
+            final_feedback_sent = False
             for event in stream:
                 if event.event == 'thread.message.delta':
                     if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
@@ -1049,6 +1051,7 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
                                                 elif 'result' in data and 'feedback' in data:
                                                     validate_feedback_json(data)
                                                     yield f"data: {json.dumps(data)}\n\n"
+                                                    final_feedback_sent = True
                                                 elif 'error' in data:
                                                     yield f"data: {json.dumps(data)}\n\n"
                                                 buffer = new_buffer
@@ -1057,7 +1060,9 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
                                         else:
                                             break
                 elif event.event == 'thread.run.completed':
-                    yield f"data: {json.dumps({'status': 'completed'})}\n\n"
+                    # Only send status completed if final feedback was sent (case truly finished)
+                    if final_feedback_sent:
+                        yield f"data: {json.dumps({'status': 'completed'})}\n\n"
                     break
                 elif event.event == 'thread.run.failed':
                     error_msg = 'Run failed'

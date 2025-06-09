@@ -139,36 +139,58 @@ Verify that structured JSON flows work for:
 
 **TASK 2 IMPLEMENTATION COMPLETE:** The OpenAI Assistant system prompt has been updated to enforce structured JSON output according to the defined schemas. This should resolve all three reported issues.
 
-**CRITICAL FIX APPLIED:** Updated the system prompt to ensure the Assistant sends the initial case message followed immediately by the first question. This resolves the issue where only the case demographics were sent but no question followed, leaving users without an input box.
+**CRITICAL FIXES APPLIED (January 2025):**
+
+**Issue 1 - Hints showing too early:** ✅ FIXED
+- Updated system prompt to clarify hint timing: hints only appear after 2 failed attempts
+- New flow: attempt 1 (no hint) → attempt 2 (no hint) → attempt 3 (hint provided) → correct answer if still wrong
+- Backend: Lines 840-845 in UKMLACaseBasedTutor7Cloud_FastAPI.py
+
+**Issue 2 - No response box after continue_case:** ✅ FIXED  
+- Fixed `stream_continue_case_response_real` to only send `status: completed` when case is truly finished
+- Added `final_feedback_sent` tracking to ensure status completed only sent after feedback message
+- Backend: Lines 1050-1055 in UKMLACaseBasedTutor7Cloud_FastAPI.py
+
+**Issue 3 - Loading bubble persists:** ✅ FIXED
+- Updated frontend to clear loading message when first real assistant message is received
+- Added `firstMessageReceived` flag to replace loading message with actual content
+- Frontend: Lines 225-230 in Chat.tsx
 
 **Changes Made:**
 1. **Backend (UKMLACaseBasedTutor7Cloud_FastAPI.py)**: 
    - Replaced the free text system prompt with a JSON-structured prompt that enforces the JSON schemas defined in Task 1
    - **FIXED**: Added explicit instructions to send initial case JSON followed immediately by first question JSON
+   - **FIXED**: Clarified hint timing - only after 2 failed attempts
+   - **FIXED**: Only send status completed when case is truly finished (after feedback)
    - Instructs the Assistant to NEVER output free text or markdown
    - Provides clear schema examples for all message types
    - Handles the SpeedRunGT86 admin simulation command
    - Includes proper error handling for nonsense/inappropriate input
    - **CRITICAL**: Added instruction "Do NOT generate all questions at once. Send initial case, then first question, then STOP and wait for user response."
 
-2. **Frontend (Chat.tsx)**: Fixed the logic to set `assistantMessageComplete(true)` when receiving question messages, ensuring the input box appears immediately after questions are received.
+2. **Frontend (Chat.tsx)**: 
+   - Fixed the logic to set `assistantMessageComplete(true)` when receiving question messages, ensuring the input box appears immediately after questions are received
+   - **FIXED**: Clear loading message when first real assistant message is received
 
 **Expected Resolution:**
-- ✅ **Response textbox not rendering**: Fixed by ensuring Assistant sends question after initial case + frontend sets `assistantMessageComplete(true)` after question messages
+- ✅ **Hints only after 2 failed attempts**: Fixed by clarifying attempt flow in system prompt
+- ✅ **Response textbox not rendering after continue_case**: Fixed by proper status completed signaling only at case end
 - ✅ **Case not streamed**: Fixed by enforcing JSON output that can be streamed incrementally  
-- ✅ **Loading bubble remains visible**: Fixed by proper status signaling
+- ✅ **Loading bubble remains visible**: Fixed by clearing loading message on first real message
 
 **Root Cause Addressed:**
-The issue was twofold:
-1. Backend wasn't sending a question after the initial case (now fixed with explicit prompt instructions)
-2. Frontend only showed input box after question messages (already fixed)
+The issues were caused by:
+1. Unclear hint timing in the system prompt (now fixed with explicit attempt flow)
+2. Status completed being sent after every question instead of only at case end (now fixed)
+3. Loading message not being cleared when real content arrives (now fixed)
 
 **Next Steps:**
 1. Deploy and test the changes with a real case
-2. Validate that initial case + first question are both sent
-3. Verify input box appears after the first question
-4. Test the SpeedRunGT86 admin simulation command
-5. Proceed with Task 6 (Test and Validate with Example Cases)
+2. Validate that hints only appear after 2 failed attempts
+3. Verify response box appears after continue_case questions
+4. Confirm loading bubble clears properly
+5. Test the SpeedRunGT86 admin simulation command
+6. Proceed with Task 6 (Test and Validate with Example Cases)
 
 ## Executor's Feedback or Assistance Requests
 
