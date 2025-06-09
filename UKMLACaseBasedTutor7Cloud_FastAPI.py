@@ -806,8 +806,23 @@ def validate_feedback_json(data):
     }
     jsonschema.validate(instance=data, schema=schema)
 
+def extract_complete_json_from_buffer(buffer: str):
+    """Extracts the first complete JSON object from the buffer using bracket counting."""
+    depth = 0
+    start = None
+    for i, c in enumerate(buffer):
+        if c == '{':
+            if depth == 0:
+                start = i
+            depth += 1
+        elif c == '}':
+            depth -= 1
+            if depth == 0 and start is not None:
+                return buffer[start:i+1], buffer[i+1:]
+    return None, buffer
+
 async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int) -> AsyncGenerator[str, None]:
-    """Stream assistant responses using OpenAI's native streaming API, with JSON validation and strict SSE event separation."""
+    """Stream assistant responses using OpenAI's native streaming API, with JSON validation and strict SSE event separation (bracket counting)."""
     try:
         client.beta.threads.messages.create(
             thread_id=thread_id,
@@ -1042,12 +1057,10 @@ You've just worked through the recognition, investigation, and management of car
                                 logger.info(f"[STREAM] Received chunk: {repr(chunk)}")
                                 if chunk:
                                     buffer += chunk
-                                    # Try to parse and yield each logical JSON object as a separate SSE event
+                                    # Use bracket counting to extract complete JSON objects
                                     while True:
-                                        json_start = buffer.find('{')
-                                        json_end = buffer.find('}', json_start)
-                                        if json_start != -1 and json_end != -1 and json_end > json_start:
-                                            json_str = buffer[json_start:json_end+1]
+                                        json_str, new_buffer = extract_complete_json_from_buffer(buffer)
+                                        if json_str:
                                             try:
                                                 data = json.loads(json_str)
                                                 # Validate and yield only one logical message per SSE event
@@ -1063,7 +1076,7 @@ You've just worked through the recognition, investigation, and management of car
                                                     yield f"data: {json.dumps(data)}\n\n"
                                                 elif 'error' in data:
                                                     yield f"data: {json.dumps(data)}\n\n"
-                                                buffer = buffer[json_end+1:]
+                                                buffer = new_buffer
                                             except Exception as e:
                                                 logger.info(f"[STREAM] JSON parse error or incomplete: {e}")
                                                 break
@@ -1157,8 +1170,8 @@ def sanitize_input(text: str) -> str:
 
 # Update stream_continue_case_response_real to accept is_admin_sim flag
 default_is_admin_sim = False
-async def stream_continue_case_response_real(thread_id: str, user_input: str, is_admin_sim: bool = default_is_admin_sim) -> AsyncGenerator[str, None]:
-    """Stream assistant responses for continue_case using real OpenAI streaming, with JSON validation and strict SSE event separation."""
+async def stream_continue_case_response_real(thread_id: str, user_input: str, is_admin_sim: bool = False) -> AsyncGenerator[str, None]:
+    """Stream assistant responses for continue_case using real OpenAI streaming, with JSON validation and strict SSE event separation (bracket counting)."""
     try:
         if is_admin_sim:
             client.beta.threads.messages.create(
@@ -1185,12 +1198,10 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
                                 chunk = content.text.value
                                 if chunk:
                                     buffer += chunk
-                                    # Try to parse and yield each logical JSON object as a separate SSE event
+                                    # Use bracket counting to extract complete JSON objects
                                     while True:
-                                        json_start = buffer.find('{')
-                                        json_end = buffer.find('}', json_start)
-                                        if json_start != -1 and json_end != -1 and json_end > json_start:
-                                            json_str = buffer[json_start:json_end+1]
+                                        json_str, new_buffer = extract_complete_json_from_buffer(buffer)
+                                        if json_str:
                                             try:
                                                 data = json.loads(json_str)
                                                 if 'question' in data:
@@ -1201,7 +1212,7 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
                                                     yield f"data: {json.dumps(data)}\n\n"
                                                 elif 'error' in data:
                                                     yield f"data: {json.dumps(data)}\n\n"
-                                                buffer = buffer[json_end+1:]
+                                                buffer = new_buffer
                                             except Exception as e:
                                                 break
                                         else:
