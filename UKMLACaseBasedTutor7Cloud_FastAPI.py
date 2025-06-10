@@ -843,6 +843,8 @@ FORBIDDEN ACTIONS:
 - NEVER generate question sequences
 - NEVER ask "What would you do next?" followed by another question
 - NEVER continue after sending a question - ALWAYS STOP
+- NEVER ask this question, or similair questions 'Question: What is the most likely diagnosis in this patient based on the history provided?'
+
 
 QUESTION FLOW:
 - If user answers CORRECTLY: Send next question (ONE only) 
@@ -1134,10 +1136,19 @@ async def stream_continue_case_freetext(thread_id: str, user_input: str, is_admi
                 content="/simulate_full_case"
             )
         else:
+            # Prepend instructions for plain text response to the user input
+            plain_text_instruction = (
+                "RESPOND IN PLAIN TEXT ONLY - NO JSON. "
+                "Give a natural, conversational response that continues the medical case. "
+                "Ask follow-up questions that build on the previous conversation. "
+                "User input: "
+            )
+            formatted_content = plain_text_instruction + user_input
+            
             client.beta.threads.messages.create(
                 thread_id=thread_id,
                 role="user",
-                content=user_input
+                content=formatted_content
             )
         
         with client.beta.threads.runs.stream(

@@ -915,3 +915,94 @@ I have successfully implemented the critical fix for the ConditionSelection.tsx 
 4. **RETURN TO**: Address the continue_case endpoint streaming issue mentioned in the user's note
 
 **Status:** ✅ COMPLETE - Critical data type bug fixed, ready for testing and validation
+
+## CURRENT ISSUE: continue_case Endpoint Showing Malformed JSON (January 2025)
+
+### **Problem Identified: Assistant Still Returning JSON Instead of Free Text**
+
+**Issue:** The user reports that while the `start_case` function works fine, the `continue_case` endpoint is displaying malformed JSON responses instead of properly formatted text.
+
+**Root Cause Analysis:**
+1. **Backend Implementation:** The `continue_case` endpoint correctly uses `stream_continue_case_freetext` function
+2. **Streaming Format:** The backend properly wraps text chunks in SSE format: `data: {"type": "text_chunk", "content": "..."}`
+3. **Frontend Handling:** The Chat.tsx component correctly processes `isTextChunk()` and `isCompletedMessage()` 
+4. **ACTUAL ISSUE:** The OpenAI Assistant is still configured to return structured JSON responses instead of plain text
+
+**Technical Details:**
+- **Backend Function:** `stream_continue_case_freetext` (lines 1129-1189) correctly handles streaming
+- **SSE Format:** Properly formatted as `data: {JSON}\n\n` for Server-Sent Events
+- **Frontend Processing:** Chat.tsx correctly accumulates text chunks into messages
+- **Assistant Configuration:** The OpenAI Assistant still has JSON-focused instructions
+
+**Example of Current Malformed Output:**
+Instead of: `"What would you like to investigate next?"`
+User sees: `{"question": "What would you like to investigate next?", "attempt": 1, "next_step": "..."}`
+
+**Solution Required:**
+The OpenAI Assistant needs to be instructed to return **plain text responses** for the `continue_case` flow, not structured JSON. The assistant should:
+1. **For continue_case:** Return natural, conversational text responses
+2. **For start_case:** Continue using structured JSON (working correctly)
+3. **Maintain context:** Questions should follow logically from previous responses
+4. **Avoid generic responses:** Create cohesive patient cases, not standalone questions
+
+**Implementation Options:**
+1. **Option A:** Update the Assistant's system prompt to detect context and respond appropriately
+2. **Option B:** Use different prompts for start_case vs continue_case
+3. **Option C:** Add a parameter to the Assistant call to specify response format
+
+**Priority:** HIGH - This affects the core user experience during case interactions
+
+**Next Steps:**
+1. **IMMEDIATE:** Examine the current Assistant prompt/instructions
+2. **UPDATE:** Modify Assistant configuration to return plain text for continue_case
+3. **TEST:** Verify that continue_case returns natural text while start_case maintains JSON
+4. **VALIDATE:** Ensure questions flow logically and create cohesive cases
+
+**Status:** 🔍 IDENTIFIED - Ready for Assistant prompt modification
+
+## SOLUTION IMPLEMENTED: continue_case Plain Text Response Fix (January 2025)
+
+### **Problem Solved: Assistant Now Instructed to Return Plain Text for continue_case**
+
+**Issue:** The `continue_case` endpoint was displaying malformed JSON responses because the OpenAI Assistant was still configured to return structured JSON responses instead of plain text.
+
+**Root Cause:** The `stream_continue_case_freetext` function was passing user input directly to the Assistant without any instructions to respond in plain text format, so the Assistant continued following its system prompt to return JSON.
+
+**Solution Implemented:**
+Modified the `stream_continue_case_freetext` function to prepend explicit plain text instructions to the user input before sending it to the Assistant.
+
+**Changes Made:**
+- **File:** `UKMLACaseBasedTutor7Cloud_FastAPI.py`
+- **Function:** `stream_continue_case_freetext` (lines 1129-1189)
+- **Modification:** Added plain text instruction prefix to user input:
+  ```python
+  plain_text_instruction = (
+      "RESPOND IN PLAIN TEXT ONLY - NO JSON. "
+      "Give a natural, conversational response that continues the medical case. "
+      "Ask follow-up questions that build on the previous conversation. "
+      "User input: "
+  )
+  formatted_content = plain_text_instruction + user_input
+  ```
+
+**Expected Resolution:**
+- ✅ **Plain Text Responses:** Assistant should now return natural, conversational text instead of JSON
+- ✅ **Cohesive Case Flow:** Questions should follow logically from previous responses
+- ✅ **No Malformed JSON:** Users should see properly formatted text responses
+- ✅ **Maintained Functionality:** start_case continues to work with structured JSON
+
+**Technical Details:**
+- **Instruction Placement:** Added before user input to ensure Assistant sees it first
+- **Clear Directive:** Explicitly states "NO JSON" and "PLAIN TEXT ONLY"
+- **Context Preservation:** Maintains the user's original input after the instruction
+- **Case Continuity:** Instructs Assistant to build on previous conversation
+
+**Syntax Validation:** ✅ PASSED - No compilation errors detected
+
+**Next Steps:**
+1. **IMMEDIATE:** Test the updated `continue_case` endpoint with a real case
+2. **VALIDATE:** Confirm responses are now plain text instead of JSON
+3. **VERIFY:** Ensure questions flow naturally and build on previous context
+4. **MONITOR:** Check that start_case continues to work with JSON format
+
+**Status:** ✅ IMPLEMENTED - Ready for testing and validation
