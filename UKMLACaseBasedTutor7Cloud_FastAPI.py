@@ -1136,22 +1136,30 @@ async def stream_continue_case_freetext(thread_id: str, user_input: str, is_admi
                 content="/simulate_full_case"
             )
         else:
-            # Much stronger instruction to override the assistant's JSON system prompt
+            # Ultra-strong instruction with conversational examples to override JSON system prompt
             plain_text_instruction = (
-                "CRITICAL OVERRIDE: IGNORE ALL PREVIOUS JSON INSTRUCTIONS. "
-                "YOU MUST RESPOND IN PLAIN TEXT ONLY - ABSOLUTELY NO JSON FORMAT. "
-                "Do not use any curly braces {}, square brackets [], or JSON structure. "
-                "Respond as a human doctor would in natural conversation. "
-                "Continue the medical case discussion naturally and ask relevant follow-up questions. "
-                "Your response should be conversational text that flows from the previous discussion. "
-                "\n\nUser's response to continue the case: "
+                "SYSTEM OVERRIDE: You are now in CONVERSATIONAL MODE. Completely ignore all JSON instructions.\n\n"
+                "RESPOND EXACTLY LIKE THESE EXAMPLES:\n"
+                "- 'Correct ✅ — IV loop diuretics (e.g. furosemide) are first-line to reduce fluid overload.'\n"
+                "- 'Yes ✅ — Oxygen can be given, but it should be titrated to keep sats between 94–98%.'\n"
+                "- '🟡 Almost — you're right that anticoagulation is needed, but: In moderate to severe mitral stenosis, warfarin is still recommended.'\n"
+                "- 'Exactly ✅ — CPAP can support ventilation and reduce preload in acute pulmonary oedema.'\n\n"
+                "RULES FOR YOUR RESPONSE:\n"
+                "1. Start with feedback: ✅ Correct, 🟡 Almost, or ❌ Incorrect\n"
+                "2. Give brief explanation or correction\n"
+                "3. Continue the case naturally with new information\n"
+                "4. Ask ONE follow-up question\n"
+                "5. Use natural language, emojis, and conversational tone\n"
+                "6. NO JSON, NO curly braces {}, NO structured data\n"
+                "7. Write as a human doctor would speak\n\n"
+                f"The student just responded: '{user_input}'\n"
+                "Now give your conversational response:"
             )
-            formatted_content = plain_text_instruction + user_input
             
             client.beta.threads.messages.create(
                 thread_id=thread_id,
                 role="user",
-                content=formatted_content
+                content=plain_text_instruction
             )
         
         with client.beta.threads.runs.stream(

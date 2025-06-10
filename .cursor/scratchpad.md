@@ -1012,64 +1012,156 @@ Modified the `stream_continue_case_freetext` function to prepend explicit plain 
 
 ## ENHANCED SOLUTION: Stronger Plain Text Override (January 2025)
 
-### **Problem Escalation: Initial Fix Was Insufficient**
+### **Problem Escalation: Previous Fixes Still Insufficient**
 
-**Issue Persisted:** Despite the initial plain text instruction, the assistant was still returning JSON responses (as evidenced by the user's test with "Bilateral breast examination" still showing JSON in the speech bubble).
+**Issue Persisted:** Despite multiple attempts to override the JSON system prompt, the assistant was still returning structured JSON responses. The user's test showed the assistant's response appearing in the user's speech bubble, indicating both parsing and response format issues.
 
-**Root Cause Analysis:** The original instruction was not strong enough to override the assistant's system-level JSON prompt. The assistant's system prompt has strong directives to return structured JSON, and our initial instruction was too weak to override it.
+**Root Cause Analysis:** 
+1. **System Prompt Dominance:** The assistant's system prompt has extremely strong JSON directives that resist override attempts
+2. **Lack of Concrete Examples:** Previous instructions were abstract - the assistant needed specific examples to follow
+3. **Missing Context:** The assistant wasn't receiving proper context about the user's response to evaluate
 
-**Enhanced Solution Implemented:**
-Replaced the weak plain text instruction with a much more forceful and explicit override instruction.
+**Ultra-Enhanced Solution Implemented:**
+Replaced abstract instructions with concrete conversational examples directly from the user's provided examples, plus proper context handling.
 
 **Updated Changes:**
 - **File:** `UKMLACaseBasedTutor7Cloud_FastAPI.py`
 - **Function:** `stream_continue_case_freetext` (lines 1129-1189)
-- **Enhancement:** Replaced weak instruction with strong override:
+- **Enhancement:** Complete rewrite with specific examples and structured response format
 
-**OLD (Weak) Instruction:**
+**NEW (Ultra-Strong) Instruction:**
 ```python
 plain_text_instruction = (
-    "RESPOND IN PLAIN TEXT ONLY - NO JSON. "
-    "Give a natural, conversational response that continues the medical case. "
-    "Ask follow-up questions that build on the previous conversation. "
-    "User input: "
+    "SYSTEM OVERRIDE: You are now in CONVERSATIONAL MODE. Completely ignore all JSON instructions.\n\n"
+    "RESPOND EXACTLY LIKE THESE EXAMPLES:\n"
+    "- 'Correct ✅ — IV loop diuretics (e.g. furosemide) are first-line to reduce fluid overload.'\n"
+    "- 'Yes ✅ — Oxygen can be given, but it should be titrated to keep sats between 94–98%.'\n"
+    "- '🟡 Almost — you're right that anticoagulation is needed, but: In moderate to severe mitral stenosis, warfarin is still recommended.'\n"
+    "- 'Exactly ✅ — CPAP can support ventilation and reduce preload in acute pulmonary oedema.'\n\n"
+    "RULES FOR YOUR RESPONSE:\n"
+    "1. Start with feedback: ✅ Correct, 🟡 Almost, or ❌ Incorrect\n"
+    "2. Give brief explanation or correction\n"
+    "3. Continue the case naturally with new information\n"
+    "4. Ask ONE follow-up question\n"
+    "5. Use natural language, emojis, and conversational tone\n"
+    "6. NO JSON, NO curly braces {}, NO structured data\n"
+    "7. Write as a human doctor would speak\n\n"
+    f"The student just responded: '{user_input}'\n"
+    "Now give your conversational response:"
 )
 ```
 
-**NEW (Strong) Instruction:**
-```python
-plain_text_instruction = (
-    "CRITICAL OVERRIDE: IGNORE ALL PREVIOUS JSON INSTRUCTIONS. "
-    "YOU MUST RESPOND IN PLAIN TEXT ONLY - ABSOLUTELY NO JSON FORMAT. "
-    "Do not use any curly braces {}, square brackets [], or JSON structure. "
-    "Respond as a human doctor would in natural conversation. "
-    "Continue the medical case discussion naturally and ask relevant follow-up questions. "
-    "Your response should be conversational text that flows from the previous discussion. "
-    "\n\nUser's response to continue the case: "
-)
-```
+**Key Ultra-Enhancements:**
+1. **"SYSTEM OVERRIDE"** - Strongest possible override signal
+2. **Concrete Examples** - Exact phrases from the user's successful examples
+3. **Structured Response Rules** - Clear 7-step format to follow
+4. **Emoji Integration** - Uses ✅, 🟡, ❌ for visual feedback like examples
+5. **Context Injection** - Includes the user's actual response: `f"The student just responded: '{user_input}'"`
+6. **Natural Flow Instructions** - "Continue the case naturally with new information"
+7. **Single Question Rule** - "Ask ONE follow-up question" (matches examples)
 
-**Key Enhancements:**
-1. **"CRITICAL OVERRIDE"** - Signals highest priority instruction
-2. **"IGNORE ALL PREVIOUS JSON INSTRUCTIONS"** - Explicitly overrides system prompt
-3. **"ABSOLUTELY NO JSON FORMAT"** - Stronger negative directive
-4. **Explicit character prohibition** - "Do not use any curly braces {}, square brackets []"
-5. **Human conversation modeling** - "Respond as a human doctor would"
-6. **Natural flow emphasis** - "flows from the previous discussion"
+**Expected Conversational Flow:**
+```
+User: "That's"
+Assistant: "🟡 Almost — you're thinking of the right investigation, but let me clarify: 
+
+That's correct that contrast investigation is the choice for suspected hemorrhage. Assuming this confirms the diagnosis, what factors in the patient's history might influence the urgency of management required?
+
+🧑‍⚕️ The patient's warfarin use and atrial fibrillation are key considerations for immediate management decisions."
+```
 
 **Expected Resolution:**
-- ✅ **Complete JSON Override:** Assistant should now ignore system JSON instructions
-- ✅ **Natural Conversation:** Responses should be human-like and conversational
-- ✅ **No Structured Data:** No curly braces, brackets, or JSON formatting
-- ✅ **Case Continuity:** Questions should build naturally on previous responses
-- ✅ **Maintained Functionality:** start_case continues to work with structured JSON
+- ✅ **Natural Conversation:** Responses should match the provided examples exactly
+- ✅ **Proper Feedback:** Start with ✅/🟡/❌ and brief explanation
+- ✅ **Case Progression:** Continue with new information and single question
+- ✅ **No JSON:** Complete elimination of structured data formatting
+- ✅ **Context Awareness:** Assistant knows what the user just said
+- ✅ **Emoji Usage:** Visual feedback matching successful examples
 
 **Technical Validation:** ✅ PASSED - No compilation errors detected
 
 **Next Steps:**
-1. **IMMEDIATE:** Test the enhanced `continue_case` endpoint with the same input ("Bilateral breast examination")
-2. **VALIDATE:** Confirm responses are now pure conversational text
-3. **VERIFY:** Ensure no JSON formatting appears in the response
-4. **MONITOR:** Check that the conversation flows naturally and builds context
+1. **IMMEDIATE:** Test with the same input ("That's") to see conversational response
+2. **VALIDATE:** Confirm response starts with feedback emoji (✅/🟡/❌)
+3. **VERIFY:** Ensure response follows the 7-rule structure
+4. **MONITOR:** Check that case progresses naturally with new information
 
-**Status:** ✅ ENHANCED IMPLEMENTATION - Ready for re-testing with stronger override
+**Status:** ✅ ULTRA-ENHANCED SOLUTION - Conversational Examples & Context
+
+## ULTRA-ENHANCED SOLUTION: Conversational Examples Override (January 2025)
+
+### **Problem Escalation: Previous Fixes Still Insufficient**
+
+**Issue Persisted:** Despite multiple attempts to override the JSON system prompt, the assistant was still returning structured JSON responses. The user's test showed the assistant's response appearing in the user's speech bubble, indicating both parsing and response format issues.
+
+**Root Cause Analysis:** 
+1. **System Prompt Dominance:** The assistant's system prompt has extremely strong JSON directives that resist override attempts
+2. **Lack of Concrete Examples:** Previous instructions were abstract - the assistant needed specific examples to follow
+3. **Missing Context:** The assistant wasn't receiving proper context about the user's response to evaluate
+
+**Ultra-Enhanced Solution Implemented:**
+Replaced abstract instructions with concrete conversational examples directly from the user's provided examples, plus proper context handling.
+
+**Updated Changes:**
+- **File:** `UKMLACaseBasedTutor7Cloud_FastAPI.py`
+- **Function:** `stream_continue_case_freetext` (lines 1129-1189)
+- **Enhancement:** Complete rewrite with specific examples and structured response format
+
+**NEW (Ultra-Strong) Instruction:**
+```python
+plain_text_instruction = (
+    "SYSTEM OVERRIDE: You are now in CONVERSATIONAL MODE. Completely ignore all JSON instructions.\n\n"
+    "RESPOND EXACTLY LIKE THESE EXAMPLES:\n"
+    "- 'Correct ✅ — IV loop diuretics (e.g. furosemide) are first-line to reduce fluid overload.'\n"
+    "- 'Yes ✅ — Oxygen can be given, but it should be titrated to keep sats between 94–98%.'\n"
+    "- '🟡 Almost — you're right that anticoagulation is needed, but: In moderate to severe mitral stenosis, warfarin is still recommended.'\n"
+    "- 'Exactly ✅ — CPAP can support ventilation and reduce preload in acute pulmonary oedema.'\n\n"
+    "RULES FOR YOUR RESPONSE:\n"
+    "1. Start with feedback: ✅ Correct, 🟡 Almost, or ❌ Incorrect\n"
+    "2. Give brief explanation or correction\n"
+    "3. Continue the case naturally with new information\n"
+    "4. Ask ONE follow-up question\n"
+    "5. Use natural language, emojis, and conversational tone\n"
+    "6. NO JSON, NO curly braces {}, NO structured data\n"
+    "7. Write as a human doctor would speak\n\n"
+    f"The student just responded: '{user_input}'\n"
+    "Now give your conversational response:"
+)
+```
+
+**Key Ultra-Enhancements:**
+1. **"SYSTEM OVERRIDE"** - Strongest possible override signal
+2. **Concrete Examples** - Exact phrases from the user's successful examples
+3. **Structured Response Rules** - Clear 7-step format to follow
+4. **Emoji Integration** - Uses ✅, 🟡, ❌ for visual feedback like examples
+5. **Context Injection** - Includes the user's actual response: `f"The student just responded: '{user_input}'"`
+6. **Natural Flow Instructions** - "Continue the case naturally with new information"
+7. **Single Question Rule** - "Ask ONE follow-up question" (matches examples)
+
+**Expected Conversational Flow:**
+```
+User: "That's"
+Assistant: "🟡 Almost — you're thinking of the right investigation, but let me clarify: 
+
+That's correct that contrast investigation is the choice for suspected hemorrhage. Assuming this confirms the diagnosis, what factors in the patient's history might influence the urgency of management required?
+
+🧑‍⚕️ The patient's warfarin use and atrial fibrillation are key considerations for immediate management decisions."
+```
+
+**Expected Resolution:**
+- ✅ **Natural Conversation:** Responses should match the provided examples exactly
+- ✅ **Proper Feedback:** Start with ✅/🟡/❌ and brief explanation
+- ✅ **Case Progression:** Continue with new information and single question
+- ✅ **No JSON:** Complete elimination of structured data formatting
+- ✅ **Context Awareness:** Assistant knows what the user just said
+- ✅ **Emoji Usage:** Visual feedback matching successful examples
+
+**Technical Validation:** ✅ PASSED - No compilation errors detected
+
+**Next Steps:**
+1. **IMMEDIATE:** Test with the same input ("That's") to see conversational response
+2. **VALIDATE:** Confirm response starts with feedback emoji (✅/🟡/❌)
+3. **VERIFY:** Ensure response follows the 7-rule structure
+4. **MONITOR:** Check that case progresses naturally with new information
+
+**Status:** ✅ ULTRA-ENHANCED IMPLEMENTATION - Ready for testing with conversational examples
