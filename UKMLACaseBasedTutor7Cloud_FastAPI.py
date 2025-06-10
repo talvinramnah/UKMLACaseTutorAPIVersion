@@ -1621,9 +1621,11 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
         
         # 3. Calculate statistics
         total_cases = len(completed_cases)
-        total_score = sum(case["score"] for case in completed_cases)
+        # Convert scores to numbers for proper calculation
+        scores = [float(case["score"]) for case in completed_cases if case["score"] is not None]
+        total_score = sum(scores)
         avg_score = total_score / total_cases if total_cases > 0 else 0
-        successful_cases = len([case for case in completed_cases if case["score"] >= 7])
+        successful_cases = len([case for case in completed_cases if case["score"] is not None and float(case["score"]) >= 7])
         success_rate = (successful_cases / total_cases * 100) if total_cases > 0 else 0
         
         # 4. Get badges
@@ -1645,8 +1647,10 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
                     "successful_cases": 0
                 }
             ward_stats[ward]["total_cases"] += 1
-            ward_stats[ward]["total_score"] += case["score"]
-            if case["score"] >= 7:
+            # Convert score to float for proper calculation
+            score = float(case["score"]) if case["score"] is not None else 0
+            ward_stats[ward]["total_score"] += score
+            if score >= 7:
                 ward_stats[ward]["successful_cases"] += 1
         
         # Calculate ward averages
@@ -1665,7 +1669,9 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
                     "total_score": 0
                 }
             condition_stats[condition]["total_cases"] += 1
-            condition_stats[condition]["total_score"] += case["score"]
+            # Convert score to float for proper calculation
+            score = float(case["score"]) if case["score"] is not None else 0
+            condition_stats[condition]["total_score"] += score
         
         # Calculate condition averages
         for condition in condition_stats:

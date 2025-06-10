@@ -869,16 +869,24 @@ GROUP BY condition
 
 I have successfully implemented the critical fix for the ConditionSelection.tsx component by enhancing the `/progress` endpoint:
 
+**CRITICAL BUG DISCOVERED AND FIXED:**
+**Issue:** Score values from Supabase were being returned as strings (e.g., `"7"`) instead of numbers, causing incorrect calculations
+**Root Cause:** PostgreSQL `numeric` type fields are returned as strings through Supabase Python client
+**Impact:** All statistics (condition_stats, ward_stats, overall) were showing 0 values due to string concatenation instead of numeric addition
+
 **Implementation Details:**
 1. **Added condition_stats field** to the API response structure
 2. **Database Logic:** Groups performance data by condition using existing completed_cases data
 3. **Calculation:** Computes total_cases and avg_score (rounded to 1 decimal) per condition
 4. **Data Structure:** Returns condition_stats as a dictionary with condition names as keys
-5. **Syntax Validation:** Confirmed no compilation errors in the updated FastAPI file
+5. **CRITICAL FIX:** Added proper type conversion from string to float for all score calculations
+6. **Syntax Validation:** Confirmed no compilation errors in the updated FastAPI file
 
 **Changes Made:**
 - **File:** `UKMLACaseBasedTutor7Cloud_FastAPI.py`
-- **Lines:** Added condition statistics calculation after ward statistics (around lines 1640-1655)
+- **Lines:** Enhanced condition statistics calculation after ward statistics (around lines 1620-1670)
+- **Critical Fix:** Added `float(case["score"])` conversion throughout all statistics calculations
+- **Affected Areas:** Overall stats, ward stats, and condition stats all now properly convert scores to numbers
 - **New Response Field:** `condition_stats` with format:
   ```json
   "condition_stats": {
@@ -889,15 +897,21 @@ I have successfully implemented the critical fix for the ConditionSelection.tsx 
   }
   ```
 
+**Database Verification:**
+- ✅ **Confirmed Myocarditis data exists:** 4 entries with scores 6, 7, 7, 7 (should show avg_score: 6.8, total_cases: 4)
+- ✅ **Verified score data type:** PostgreSQL `numeric` fields returned as strings by Supabase client
+- ✅ **Tested conversion logic:** `float("7")` properly converts string scores to numbers
+
 **Expected Resolution:**
-- ✅ **Frontend Error Fixed:** ConditionSelection.tsx should now receive the expected condition_stats data
+- ✅ **Frontend Error Fixed:** ConditionSelection.tsx should now receive the expected condition_stats data with correct values
 - ✅ **User Performance Display:** Each condition will show accurate total cases and average score
-- ✅ **Condition Selection Workflow:** Users can now properly select conditions and see their performance history
+- ✅ **Condition Selection Workflow:** Users can now properly select conditions and see their real performance history
+- ✅ **All Statistics Fixed:** Overall, ward, and condition statistics will all show correct numeric values
 
 **Next Steps:**
-1. **IMMEDIATE**: Test the enhanced /progress endpoint to verify condition_stats are returned correctly
-2. **VALIDATE**: Confirm ConditionSelection.tsx component loads without errors
-3. **VERIFY**: Check that condition performance data displays accurately in the frontend
+1. **IMMEDIATE**: Test the enhanced /progress endpoint to verify condition_stats show correct values (Myocarditis should show 4 cases, 6.8 avg)
+2. **VALIDATE**: Confirm ConditionSelection.tsx component loads without errors and displays real data
+3. **VERIFY**: Check that all statistics (overall, ward, condition) display accurate numeric values
 4. **RETURN TO**: Address the continue_case endpoint streaming issue mentioned in the user's note
 
-**Status:** ✅ COMPLETE - Ready for testing and validation
+**Status:** ✅ COMPLETE - Critical data type bug fixed, ready for testing and validation
