@@ -1136,12 +1136,15 @@ async def stream_continue_case_freetext(thread_id: str, user_input: str, is_admi
                 content="/simulate_full_case"
             )
         else:
-            # Prepend instructions for plain text response to the user input
+            # Much stronger instruction to override the assistant's JSON system prompt
             plain_text_instruction = (
-                "RESPOND IN PLAIN TEXT ONLY - NO JSON. "
-                "Give a natural, conversational response that continues the medical case. "
-                "Ask follow-up questions that build on the previous conversation. "
-                "User input: "
+                "CRITICAL OVERRIDE: IGNORE ALL PREVIOUS JSON INSTRUCTIONS. "
+                "YOU MUST RESPOND IN PLAIN TEXT ONLY - ABSOLUTELY NO JSON FORMAT. "
+                "Do not use any curly braces {}, square brackets [], or JSON structure. "
+                "Respond as a human doctor would in natural conversation. "
+                "Continue the medical case discussion naturally and ask relevant follow-up questions. "
+                "Your response should be conversational text that flows from the previous discussion. "
+                "\n\nUser's response to continue the case: "
             )
             formatted_content = plain_text_instruction + user_input
             

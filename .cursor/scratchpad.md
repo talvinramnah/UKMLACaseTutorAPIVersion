@@ -977,10 +977,13 @@ Modified the `stream_continue_case_freetext` function to prepend explicit plain 
 - **Modification:** Added plain text instruction prefix to user input:
   ```python
   plain_text_instruction = (
-      "RESPOND IN PLAIN TEXT ONLY - NO JSON. "
-      "Give a natural, conversational response that continues the medical case. "
-      "Ask follow-up questions that build on the previous conversation. "
-      "User input: "
+      "CRITICAL OVERRIDE: IGNORE ALL PREVIOUS JSON INSTRUCTIONS. "
+      "YOU MUST RESPOND IN PLAIN TEXT ONLY - ABSOLUTELY NO JSON FORMAT. "
+      "Do not use any curly braces {}, square brackets [], or JSON structure. "
+      "Respond as a human doctor would in natural conversation. "
+      "Continue the medical case discussion naturally and ask relevant follow-up questions. "
+      "Your response should be conversational text that flows from the previous discussion. "
+      "\n\nUser's response to continue the case: "
   )
   formatted_content = plain_text_instruction + user_input
   ```
@@ -1005,4 +1008,68 @@ Modified the `stream_continue_case_freetext` function to prepend explicit plain 
 3. **VERIFY:** Ensure questions flow naturally and build on previous context
 4. **MONITOR:** Check that start_case continues to work with JSON format
 
-**Status:** ✅ IMPLEMENTED - Ready for testing and validation
+**Status:** ✅ ENHANCED SOLUTION IMPLEMENTED - Stronger JSON Override
+
+## ENHANCED SOLUTION: Stronger Plain Text Override (January 2025)
+
+### **Problem Escalation: Initial Fix Was Insufficient**
+
+**Issue Persisted:** Despite the initial plain text instruction, the assistant was still returning JSON responses (as evidenced by the user's test with "Bilateral breast examination" still showing JSON in the speech bubble).
+
+**Root Cause Analysis:** The original instruction was not strong enough to override the assistant's system-level JSON prompt. The assistant's system prompt has strong directives to return structured JSON, and our initial instruction was too weak to override it.
+
+**Enhanced Solution Implemented:**
+Replaced the weak plain text instruction with a much more forceful and explicit override instruction.
+
+**Updated Changes:**
+- **File:** `UKMLACaseBasedTutor7Cloud_FastAPI.py`
+- **Function:** `stream_continue_case_freetext` (lines 1129-1189)
+- **Enhancement:** Replaced weak instruction with strong override:
+
+**OLD (Weak) Instruction:**
+```python
+plain_text_instruction = (
+    "RESPOND IN PLAIN TEXT ONLY - NO JSON. "
+    "Give a natural, conversational response that continues the medical case. "
+    "Ask follow-up questions that build on the previous conversation. "
+    "User input: "
+)
+```
+
+**NEW (Strong) Instruction:**
+```python
+plain_text_instruction = (
+    "CRITICAL OVERRIDE: IGNORE ALL PREVIOUS JSON INSTRUCTIONS. "
+    "YOU MUST RESPOND IN PLAIN TEXT ONLY - ABSOLUTELY NO JSON FORMAT. "
+    "Do not use any curly braces {}, square brackets [], or JSON structure. "
+    "Respond as a human doctor would in natural conversation. "
+    "Continue the medical case discussion naturally and ask relevant follow-up questions. "
+    "Your response should be conversational text that flows from the previous discussion. "
+    "\n\nUser's response to continue the case: "
+)
+```
+
+**Key Enhancements:**
+1. **"CRITICAL OVERRIDE"** - Signals highest priority instruction
+2. **"IGNORE ALL PREVIOUS JSON INSTRUCTIONS"** - Explicitly overrides system prompt
+3. **"ABSOLUTELY NO JSON FORMAT"** - Stronger negative directive
+4. **Explicit character prohibition** - "Do not use any curly braces {}, square brackets []"
+5. **Human conversation modeling** - "Respond as a human doctor would"
+6. **Natural flow emphasis** - "flows from the previous discussion"
+
+**Expected Resolution:**
+- ✅ **Complete JSON Override:** Assistant should now ignore system JSON instructions
+- ✅ **Natural Conversation:** Responses should be human-like and conversational
+- ✅ **No Structured Data:** No curly braces, brackets, or JSON formatting
+- ✅ **Case Continuity:** Questions should build naturally on previous responses
+- ✅ **Maintained Functionality:** start_case continues to work with structured JSON
+
+**Technical Validation:** ✅ PASSED - No compilation errors detected
+
+**Next Steps:**
+1. **IMMEDIATE:** Test the enhanced `continue_case` endpoint with the same input ("Bilateral breast examination")
+2. **VALIDATE:** Confirm responses are now pure conversational text
+3. **VERIFY:** Ensure no JSON formatting appears in the response
+4. **MONITOR:** Check that the conversation flows naturally and builds context
+
+**Status:** ✅ ENHANCED IMPLEMENTATION - Ready for re-testing with stronger override
