@@ -634,3 +634,150 @@ The changes are minimal and focused, maintaining consistency with the existing c
 - Benchmark current response times with the new concise prompt.
 - Update frontend logic for loading and input box display.
 - (Optional) Experiment with more granular streaming if further speedup is needed. 
+
+---
+
+# UKMLA Case Tutor API - Hybrid Approach: JSON Start + Freetext Continue
+
+## Background and Motivation
+
+**NEW REQUIREMENT (January 2025):** The user has identified that the current fully-structured JSON approach for `continue_case` is creating cases that are:
+- Too long and verbose
+- Too generic and not patient-specific
+- Containing standalone questions rather than cohesive, progressive case flow
+- Not building naturally from the specific patient presented in the initial case
+
+**SOLUTION:** Implement a hybrid approach:
+- **Keep `start_case` with JSON structure** - This provides consistent, structured initial case presentation (demographics, history, ICE)
+- **Switch `continue_case` to freetext** - This allows for more natural, patient-specific, progressive questioning that builds cohesively from the initial case
+
+## Key Challenges and Analysis
+
+### Current Issues with JSON Continue Approach
+1. **Generic Questions:** JSON schema forces standardized question format that doesn't adapt well to specific patient context
+2. **Verbose Structure:** JSON overhead makes responses longer than necessary
+3. **Standalone Questions:** Each question becomes isolated rather than part of a flowing conversation
+4. **Loss of Patient Context:** Questions don't naturally reference the specific patient's demographics, history, or previous responses
+
+### Benefits of Hybrid Approach
+1. **Structured Start:** JSON ensures consistent case presentation with all required elements
+2. **Natural Flow:** Freetext allows questions to build naturally from patient context
+3. **Patient-Specific:** Questions can directly reference the patient's name, age, history, etc.
+4. **Concise:** No JSON overhead for ongoing conversation
+5. **Cohesive Case:** Questions form a logical progression rather than standalone assessments
+
+### Technical Considerations
+1. **Backend Changes:** Need to modify `continue_case` endpoint and streaming logic
+2. **Frontend Compatibility:** Frontend must handle both JSON (start) and freetext (continue) responses
+3. **Prompt Engineering:** Need separate prompts for start vs continue phases
+4. **Admin Simulation:** Must handle both formats in SpeedRunGT86 command
+5. **Case Completion Detection:** Need to detect case completion in freetext responses
+
+## High-level Task Breakdown
+
+### 1. **Update Assistant Prompting Strategy** 🔄 NEW TASK
+   - **Start Case Prompt:** Keep existing JSON-focused prompt for initial case presentation
+   - **Continue Case Prompt:** Create new freetext-focused prompt that emphasizes:
+     - Patient-specific questioning
+     - Natural conversation flow
+     - Building from previous responses
+     - Cohesive case progression
+     - Clear case completion markers
+   - **Success Criteria:** Two distinct prompts that work together seamlessly
+   - **Status:** Planning phase
+
+### 2. **Modify Backend Continue Case Logic** 🔄 NEW TASK
+   - Update `stream_continue_case_response_real` function to:
+     - Remove JSON parsing and validation
+     - Stream raw text responses
+     - Detect case completion markers (e.g., "[CASE COMPLETED]")
+     - Handle admin simulation with mixed format
+   - **Success Criteria:** Continue case streams natural text responses
+   - **Status:** Planning phase
+
+### 3. **Update Frontend Response Handling** 🔄 NEW TASK
+   - Modify frontend to handle:
+     - JSON responses from start_case
+     - Freetext responses from continue_case
+     - Mixed format in admin simulation
+     - Case completion detection in freetext
+   - **Success Criteria:** Frontend displays both formats correctly
+   - **Status:** Planning phase
+
+### 4. **Implement Case Completion Detection** 🔄 NEW TASK
+   - Add logic to detect when case is complete in freetext responses
+   - Trigger feedback collection and performance saving
+   - Handle transition from freetext to structured feedback
+   - **Success Criteria:** Case completion works seamlessly with freetext
+   - **Status:** Planning phase
+
+### 5. **Update Admin Simulation Command** 🔄 NEW TASK
+   - Modify SpeedRunGT86 to work with hybrid approach:
+     - Start with JSON case presentation
+     - Continue with freetext Q&A flow
+     - End with structured feedback
+   - **Success Criteria:** Admin simulation works with hybrid format
+   - **Status:** Planning phase
+
+### 6. **Test and Validate Hybrid Approach** 🔄 NEW TASK
+   - Test that cases are more patient-specific and cohesive
+   - Validate that questions build naturally from initial case
+   - Ensure case completion and feedback still work
+   - **Success Criteria:** Cases are shorter, more focused, and patient-specific
+   - **Status:** Planning phase
+
+## Project Status Board
+
+### Current Sprint Tasks
+- [x] **Task 1**: Create new free text streaming function
+  - **Success Criteria**: Function streams raw text without JSON parsing ✅
+  - **Status**: Completed
+  - **Assigned**: Executor
+  - **Notes**: Created `stream_continue_case_freetext()` function that streams text chunks with simple JSON wrapper for SSE compatibility
+
+- [x] **Task 2**: Modify continue_case endpoint
+  - **Success Criteria**: Endpoint uses new free text streaming ✅
+  - **Status**: Completed  
+  - **Assigned**: Executor
+  - **Notes**: Updated `/continue_case` endpoint to use `stream_continue_case_freetext()` instead of JSON-based streaming
+
+- [ ] **Task 3**: Update assistant instructions
+  - **Success Criteria**: Assistant generates conversational free text
+  - **Status**: Ready to start
+  - **Assigned**: Executor
+
+### Completed Tasks
+- [x] **Analysis**: Reviewed current implementation and identified modification points
+- [x] **Task 1**: Created new free text streaming function
+- [x] **Task 2**: Modified continue_case endpoint to use free text streaming
+
+### Blocked/Waiting Tasks
+- None currently
+
+## Current Status / Progress Tracking
+
+**Current Phase**: Phase 2 - Backend Modifications (66% complete)
+**Overall Progress**: 60% (Backend streaming modifications complete, ready for assistant configuration)
+
+**Recent Updates**:
+- ✅ Successfully created `stream_continue_case_freetext()` function
+- ✅ Modified `/continue_case` endpoint to use new free text streaming
+- ✅ Syntax validation passed - no compilation errors
+- 🔄 Ready to proceed with Task 3: Assistant instruction updates
+
+**Technical Implementation Details**:
+- New streaming function sends text chunks with `{'type': 'text_chunk', 'content': chunk}` format
+- Maintains SSE compatibility while removing JSON parsing complexity
+- Preserves admin simulation functionality (`SpeedRunGT86` command)
+- Error handling maintained for failed/expired runs
+
+## Executor's Feedback or Assistance Requests
+
+**Current Status**: Tasks 1 and 2 completed successfully. Ready to proceed with Task 3.
+
+**Next Steps**: Need to update the OpenAI assistant instructions to generate conversational free text instead of structured JSON. This will require:
+1. Identifying how assistant instructions are currently configured
+2. Modifying instructions to emphasize conversational flow
+3. Testing the assistant's response quality
+
+**Question for User/Planner**: Should I proceed with Task 3 (updating assistant instructions) or would you like to test the current implementation first?

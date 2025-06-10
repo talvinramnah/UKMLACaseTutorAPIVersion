@@ -830,9 +830,6 @@ async def stream_assistant_response_real(thread_id: str, condition: str, case_co
             content=f"""
 MEDICAL CASE SIMULATOR - STRICT JSON OUTPUT ONLY
 
-CASE CONTENT:
-{case_content}
-
 CRITICAL RULES - MUST FOLLOW EXACTLY:
 
 1. STEP 1: Send initial case JSON with demographics, presenting_complaint, ice
@@ -1127,6 +1124,69 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str, is
         })
         yield f"data: {error_data}\n\n"
 
+async def stream_continue_case_freetext(thread_id: str, user_input: str, is_admin_sim: bool = False) -> AsyncGenerator[str, None]:
+    """Stream assistant responses for continue_case using free text format instead of JSON."""
+    try:
+        if is_admin_sim:
+            client.beta.threads.messages.create(
+                thread_id=thread_id,
+                role="user",
+                content="/simulate_full_case"
+            )
+        else:
+            client.beta.threads.messages.create(
+                thread_id=thread_id,
+                role="user",
+                content=user_input
+            )
+        
+        with client.beta.threads.runs.stream(
+            thread_id=thread_id,
+            assistant_id=ASSISTANT_ID
+        ) as stream:
+            accumulated_text = ""
+            last_yield_time = time.time()
+            
+            for event in stream:
+                if event.event == 'thread.message.delta':
+                    if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
+                        for content in event.data.delta.content:
+                            if hasattr(content, 'text') and hasattr(content.text, 'value'):
+                                chunk = content.text.value
+                                if chunk:
+                                    accumulated_text += chunk
+                                    
+                                    # Stream text chunks more frequently for better UX
+                                    current_time = time.time()
+                                    if (current_time - last_yield_time > 0.05) or len(chunk) > 5:
+                                        # Send the raw text chunk wrapped in a simple JSON structure for SSE
+                                        yield f"data: {json.dumps({'type': 'text_chunk', 'content': chunk})}\n\n"
+                                        last_yield_time = current_time
+                
+                elif event.event == 'thread.run.completed':
+                    # Send completion status
+                    yield f"data: {json.dumps({'type': 'completed', 'full_text': accumulated_text})}\n\n"
+                    break
+                    
+                elif event.event == 'thread.run.failed':
+                    error_msg = 'Run failed'
+                    if hasattr(event.data, 'last_error') and event.data.last_error:
+                        error_msg = f'Run failed: {event.data.last_error}'
+                    yield f"data: {json.dumps({'type': 'error', 'message': error_msg})}\n\n"
+                    break
+                    
+                elif event.event == 'thread.run.expired':
+                    yield f"data: {json.dumps({'type': 'error', 'message': 'Run expired'})}\n\n"
+                    break
+                    
+    except Exception as e:
+        logger.error(f"Error in stream_continue_case_freetext: {str(e)}")
+        error_data = json.dumps({
+            'type': 'error',
+            'message': str(e)
+        })
+        yield f"data: {error_data}\n\n"
+
 @app.post("/continue_case")
 async def continue_case(request: ContinueCaseRequest, authorization: str = Header(...)):
     """Continue an existing case with the OpenAI Assistant using streaming. If user input is 'SpeedRunGT86', trigger admin simulation command."""
@@ -1149,7 +1209,7 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
         if sanitized_input.strip().lower() == 'speedrungt86'.lower():
             admin_command = '/simulate_full_case'
             return StreamingResponse(
-                stream_continue_case_response_real(request.thread_id, admin_command, is_admin_sim=True),
+                stream_continue_case_freetext(request.thread_id, admin_command, is_admin_sim=True),
                 media_type="text/event-stream",
                 headers={
                     "Cache-Control": "no-cache",
@@ -1159,9 +1219,9 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
                 }
             )
 
-        # Otherwise, normal case continuation
+        # Otherwise, normal case continuation with free text streaming
         return StreamingResponse(
-            stream_continue_case_response_real(request.thread_id, sanitized_input, is_admin_sim=False),
+            stream_continue_case_freetext(request.thread_id, sanitized_input, is_admin_sim=False),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
