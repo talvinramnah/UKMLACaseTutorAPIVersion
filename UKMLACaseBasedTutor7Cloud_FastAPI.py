@@ -1655,6 +1655,25 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
             stats["avg_score"] = stats["total_score"] / stats["total_cases"]
             stats["success_rate"] = (stats["successful_cases"] / stats["total_cases"] * 100)
         
+        # 6. Get condition-specific statistics (NEW - required by frontend)
+        condition_stats = {}
+        for case in completed_cases:
+            condition = case["condition"]
+            if condition not in condition_stats:
+                condition_stats[condition] = {
+                    "total_cases": 0,
+                    "total_score": 0
+                }
+            condition_stats[condition]["total_cases"] += 1
+            condition_stats[condition]["total_score"] += case["score"]
+        
+        # Calculate condition averages
+        for condition in condition_stats:
+            stats = condition_stats[condition]
+            stats["avg_score"] = round(stats["total_score"] / stats["total_cases"], 1)
+            # Remove total_score as it's not needed in the response
+            del stats["total_score"]
+        
         return {
             "overall": {
                 "total_cases": total_cases,
@@ -1665,6 +1684,7 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
                 "total_badges": len(badges)
             },
             "ward_stats": ward_stats,
+            "condition_stats": condition_stats,  # NEW: Added condition-level statistics
             "recent_cases": completed_cases[:5],  # Last 5 cases
             "badges": badges
         }

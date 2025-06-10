@@ -124,6 +124,14 @@ The current system uses OpenAI's Assistant API to generate medical cases and fee
    - Frontend expects JSON and handles it properly
    - **Status:** Frontend logic is ready and working
 
+### 8. **URGENT: Add Condition-Level Statistics to /progress Endpoint** ✅ COMPLETE
+   - **Issue:** Frontend ConditionSelection.tsx component failing due to missing condition_stats
+   - **Solution:** Enhanced `/progress` endpoint to include condition-level statistics
+   - **Implementation:** Added condition_stats field with total_cases and avg_score per condition
+   - **Database Logic:** Groups performance data by condition and calculates averages
+   - **Success Criteria:** Frontend receives condition_stats and can display user performance per condition
+   - **Status:** ✅ COMPLETE - Backend updated and syntax validated
+
 ## Project Status Board
 
 - [x] 1. Design JSON Schemas for Case and Feedback ✅ COMPLETE
@@ -133,6 +141,7 @@ The current system uses OpenAI's Assistant API to generate medical cases and fee
 - [x] 5. Update Feedback and Pass/Fail Logic ✅ COMPLETE
 - [ ] 6. Test and Validate with Example Cases ⚠️ PENDING CRITICAL FIX
 - [x] 7. (Optional) Frontend/UX Review ✅ COMPLETE
+- [x] 8. URGENT: Add Condition-Level Statistics to /progress Endpoint ✅ COMPLETE
 
 ## Current Status / Progress Tracking
 
@@ -539,28 +548,35 @@ The user has added a `desired_specialty` column to the `user_metadata` table in 
 - [x] **Task 1**: Update OnboardingRequest Pydantic model ✅
 - [x] **Task 2**: Update /onboarding endpoint database insertion ✅
 - [x] **Task 3**: Update /user_metadata/me endpoint response ✅
-- [ ] **Task 4**: Test the implementation
+- [x] **Task 4**: Update backend to use free text streaming instead of JSON ✅
+- [x] **Task 5**: Update frontend Chat.tsx to handle free text streaming ✅
+- [ ] **Task 6**: Test the complete implementation
 - [x] Fix CORS allow_origins list to include both https://bleep64.com and https://www.bleep64.com (missing comma bug)
 - [ ] Redeploy/restart FastAPI server to apply CORS changes
 - [x] Fix /continue_case streaming so 'is_completed' is only sent when the case is truly finished
 
 ## Current Status / Progress Tracking
-- Status: Streaming fix for 'is_completed' in /continue_case implemented
-- Completed: Now, 'is_completed' is only included in the response when the case is truly finished (i.e., after '[CASE COMPLETED]' is detected in the final message). For all intermediate steps, it is omitted.
-- Next: Test the streaming endpoint with a real case to ensure the frontend only shows feedback and post-case actions at the correct time.
+- Status: Frontend Chat.tsx component updated to handle new free text streaming format
+- Completed: 
+  - Backend now uses `stream_continue_case_freetext` function that sends text chunks instead of JSON
+  - Frontend Chat.tsx updated with new type definitions for text_chunk, completed, and error messages
+  - Added text accumulation logic to build complete assistant responses from streaming chunks
+  - Maintained backwards compatibility with legacy JSON format
+  - Updated both start_case and continue_case handlers to process the new streaming format
+- Next: Test the complete implementation to ensure streaming works correctly
 
 ## Executor's Feedback or Assistance Requests
-**Implementation Complete**: I have successfully updated the backend to handle the `desired_specialty` field:
+**Task 5 Complete**: Successfully updated the frontend Chat.tsx component to handle the new free text streaming format. The key changes include:
 
-1. **OnboardingRequest Model**: Added `desired_specialty: str = Field(..., min_length=1, max_length=100)` to the Pydantic model
-2. **Onboarding Endpoint**: Updated the database insertion to include `"desired_specialty": request.desired_specialty` in the `insert_data` dictionary
-3. **User Metadata Endpoint**: Updated the select query to include `desired_specialty` in the returned fields
+1. **New Type Definitions**: Added `TextChunkMessage`, `CompletedMessage`, and `ErrorMessage` interfaces for the new streaming format
+2. **Type Guards**: Added `isTextChunk`, `isCompletedMessage`, and `isErrorMessageNew` functions to identify message types
+3. **Text Accumulation Logic**: Implemented logic to accumulate text chunks into complete assistant messages in real-time
+4. **Updated Handlers**: Modified both the start case effect and handleSend function to process the new streaming format
+5. **Backwards Compatibility**: Maintained support for legacy JSON format to ensure smooth transition
 
-The changes are minimal and focused, maintaining consistency with the existing code patterns. The field validation ensures it's required (not optional) and has appropriate length constraints.
+The frontend now properly handles the streaming text chunks from the backend and displays them as cohesive messages to the user. The implementation includes proper error handling and maintains the existing user experience while supporting the new free text format.
 
-**Ready for Testing**: The implementation should now work seamlessly with the frontend code that's already sending the `desired_specialty` field.
-
-- The missing comma between 'https://bleep64.com' and 'https://www.bleep64.com' in the CORS allow_origins list has been fixed. Please redeploy or restart the FastAPI server for the change to take effect. After redeployment, test login and API requests from both https://bleep64.com and https://www.bleep64.com to confirm CORS is working.
+**Ready for Testing**: The implementation is now complete and ready for end-to-end testing to verify that the streaming works correctly.
 
 ## Lessons
 - The backend was well-structured, making it easy to add the new field by following existing patterns
@@ -781,3 +797,107 @@ The changes are minimal and focused, maintaining consistency with the existing c
 3. Testing the assistant's response quality
 
 **Question for User/Planner**: Should I proceed with Task 3 (updating assistant instructions) or would you like to test the current implementation first?
+
+## URGENT NEW REQUIREMENT (January 2025)
+
+### **CRITICAL: /progress Endpoint Missing Condition-Level Statistics**
+
+**Issue:** The frontend ConditionSelection.tsx component is failing because the `/progress` endpoint doesn't include condition-level statistics that the frontend expects.
+
+**Frontend Requirements:**
+- ConditionSelection.tsx expects `progressData.condition_stats` in the API response
+- Shows error message if `condition_stats` is missing/null
+- Needs condition-level data to display user performance per condition
+
+**Required API Enhancement:**
+Current `/progress` response structure:
+```json
+{
+  "overall": { ... },
+  "ward_stats": { 
+    "ward_name": {
+      "total_cases": number,
+      "avg_score": number
+    }
+  }
+}
+```
+
+**MUST ADD** `condition_stats` field:
+```json
+{
+  "overall": { ... },
+  "ward_stats": { ... },
+  "condition_stats": {
+    "Acute Coronary Syndrome": {
+      "total_cases": 15,
+      "avg_score": 7.8
+    },
+    "Hypertension Management": {
+      "total_cases": 23,
+      "avg_score": 8.2
+    },
+    "Adult Advanced Life Support": {
+      "total_cases": 8,
+      "avg_score": 6.9
+    }
+  }
+}
+```
+
+**Database Query Needed:**
+```sql
+SELECT 
+  condition,
+  COUNT(*) as total_cases,
+  AVG(score) as avg_score
+FROM performance 
+WHERE user_id = $1 
+GROUP BY condition
+```
+
+**Data Requirements:**
+- `total_cases`: Integer count of cases attempted per condition
+- `avg_score`: Float average score (rounded to 1 decimal place)
+- Only include conditions where user has attempted at least one case
+
+**Priority:** URGENT - This blocks the condition selection workflow and prevents users from starting new cases.
+
+**Note:** There's also a continue_case endpoint streaming issue that needs to be addressed after this critical fix.
+
+**URGENT TASK COMPLETED - /progress Endpoint Enhanced**
+
+I have successfully implemented the critical fix for the ConditionSelection.tsx component by enhancing the `/progress` endpoint:
+
+**Implementation Details:**
+1. **Added condition_stats field** to the API response structure
+2. **Database Logic:** Groups performance data by condition using existing completed_cases data
+3. **Calculation:** Computes total_cases and avg_score (rounded to 1 decimal) per condition
+4. **Data Structure:** Returns condition_stats as a dictionary with condition names as keys
+5. **Syntax Validation:** Confirmed no compilation errors in the updated FastAPI file
+
+**Changes Made:**
+- **File:** `UKMLACaseBasedTutor7Cloud_FastAPI.py`
+- **Lines:** Added condition statistics calculation after ward statistics (around lines 1640-1655)
+- **New Response Field:** `condition_stats` with format:
+  ```json
+  "condition_stats": {
+    "Condition Name": {
+      "total_cases": integer,
+      "avg_score": float (1 decimal place)
+    }
+  }
+  ```
+
+**Expected Resolution:**
+- ✅ **Frontend Error Fixed:** ConditionSelection.tsx should now receive the expected condition_stats data
+- ✅ **User Performance Display:** Each condition will show accurate total cases and average score
+- ✅ **Condition Selection Workflow:** Users can now properly select conditions and see their performance history
+
+**Next Steps:**
+1. **IMMEDIATE**: Test the enhanced /progress endpoint to verify condition_stats are returned correctly
+2. **VALIDATE**: Confirm ConditionSelection.tsx component loads without errors
+3. **VERIFY**: Check that condition performance data displays accurately in the frontend
+4. **RETURN TO**: Address the continue_case endpoint streaming issue mentioned in the user's note
+
+**Status:** ✅ COMPLETE - Ready for testing and validation
