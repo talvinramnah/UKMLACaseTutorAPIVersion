@@ -1352,7 +1352,8 @@ async def get_session_state(authorization: str = Header(...)):
 
         # Calculate basic progress stats
         total_cases = len(recent_cases)
-        avg_score = sum(case.get("score", 0) for case in recent_cases) / total_cases if total_cases > 0 else 0
+        total_score = sum(case.get("score", 0) for case in recent_cases)
+        avg_score = total_score / total_cases if total_cases > 0 else 0
         successful_cases = len([case for case in recent_cases if case.get("score", 0) >= 7])
 
         user_progress = {
@@ -1596,13 +1597,29 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
             ward_stats[ward]["total_score"] += case["score"]
             if case["score"] >= 7:
                 ward_stats[ward]["successful_cases"] += 1
-        
         # Calculate ward averages
         for ward in ward_stats:
             stats = ward_stats[ward]
             stats["avg_score"] = stats["total_score"] / stats["total_cases"]
             stats["success_rate"] = (stats["successful_cases"] / stats["total_cases"] * 100)
-        
+
+        # 6. Get condition-specific statistics
+        condition_stats = {}
+        for case in completed_cases:
+            condition = case["condition"]
+            if condition not in condition_stats:
+                condition_stats[condition] = {
+                    "total_cases": 0,
+                    "total_score": 0
+                }
+            condition_stats[condition]["total_cases"] += 1
+            condition_stats[condition]["total_score"] += case["score"]
+        # Calculate condition averages
+        for condition in condition_stats:
+            stats = condition_stats[condition]
+            stats["avg_score"] = round(stats["total_score"] / stats["total_cases"], 1)
+            del stats["total_score"]  # Remove total_score from output
+
         return {
             "overall": {
                 "total_cases": total_cases,
@@ -1613,6 +1630,7 @@ def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: O
                 "total_badges": len(badges)
             },
             "ward_stats": ward_stats,
+            "condition_stats": condition_stats,
             "recent_cases": completed_cases[:5],  # Last 5 cases
             "badges": badges
         }
