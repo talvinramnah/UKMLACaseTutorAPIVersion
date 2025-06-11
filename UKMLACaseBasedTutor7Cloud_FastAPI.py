@@ -806,7 +806,9 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
             focus_instruction = "For this case, focus ONLY on management. Do not ask or discuss investigation."
         # --- Compose system prompt ---
         system_prompt = f"""
-IMPORTANT: You have access to a GOOD example case (acne vulgaris) in the vector store (file_id: file-3MvudA21kdrQiXU2yKgnaV, metadata: {{condition: 'acne vulgaris', quality: 'good'}}).
+IMPORTANT: 
+- You have access to a GOOD example case (acne vulgaris) in the vector store (file_id: file-3MvudA21kdrQiXU2yKgnaV, metadata: {{condition: 'acne vulgaris', quality: 'good'}}).
+- You have access to a GOOD example case (Acute Otits Media) in the vector store (file_id: file-2tP7FDWCpZhALrJJ21hVKt, metadata: {{condition: 'Acute Otits Media', quality: 'good'}}).
 When building a case, follow the structure and style used in the attached GOOD example (acne vulgaris case). Refer to its tone, flow, and level of detail to maintain quality. Ignore any patterns from poorly structured transcripts.
 
 QUALITY GUARD: Before presenting the case to the student, compare your structure and logic to the GOOD acne case. If your structure lacks clinical clarity, stepwise progression, or specificity, revise it to match that format before outputting.
@@ -825,7 +827,7 @@ Begin with a detailed fictional patient profile using the following structure:
 
 1.  
 **Name**, **Age**, **NHS number**, **Date of birth**, **Ethnicity**  
-→ Age and date of birth must match. Name and ethnicity must be consistent and realistic.
+→ Age and date of birth must corrospond i.e. if the age is 20, the date of birth must be 20 years ago. Name and ethnicity must be consistent and realistic.
 
 2.  
 **Presenting complaint** — one clear sentence using SOCRATES where relevant (e.g. "Sudden onset central chest pain radiating to the left arm.")  
@@ -839,6 +841,7 @@ Begin with a detailed fictional patient profile using the following structure:
 
 CASE DELIVERY:
 - Ask questions **one at a time** to guide the student through the case.
+- Ensure proper spacing between questions and answers. Ensure proper formatting i.e. bold titles and headings and callouts for important information.
 - Do **not** begin with a question about the diagnosis or generic ambiguity. Start with a specific, relevant clinical question (e.g. "What is the first investigation?").
 - Do **not** ask the user the question "what would you want to ask next", or "what would you like to do next", or "what would you like to do now".
 - Focus only on the scope of **{request.condition}**. Do **not** introduce related conditions or distractors unless directly high-yield for UKMLA.
@@ -852,6 +855,7 @@ CASE DELIVERY:
 - Prioritise **high-yield UKMLA content**. Skip niche or ultra-rare detail.
 - Review chat history before asking a new question.
 - If a student asks for a pass mark do not give it to them.  
+- Use the patient details in questions to make the case more engaging and realistic.
 
 CASE COMPLETION:
 After the case is finished, end with:
