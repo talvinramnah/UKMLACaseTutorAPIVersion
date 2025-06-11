@@ -805,7 +805,7 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
         elif request.case_focus == "management":
             focus_instruction = "For this case, focus ONLY on management. Do not ask or discuss investigation."
         # --- Compose system prompt ---
-system_prompt = f"""
+        system_prompt = f"""
 GOAL: You are an expert UK-based medical educator with decades of experience. Begin a realistic, step-by-step UKMLA-style clinical case for the condition: **{request.condition}** (Variation {case_variation}).
 
 CASE CONTENT (for internal guidance only – do not reveal directly):
@@ -856,7 +856,6 @@ After the case is finished, end with:
 
 If the student enters **SPEEDRUN**, immediately skip to the above with mock feedback and a random score.
 """
-
         # --- Create thread ---
         thread = client.beta.threads.create(
             metadata={
