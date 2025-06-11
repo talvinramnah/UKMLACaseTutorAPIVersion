@@ -709,9 +709,9 @@ def get_user_active_threads(user_id: str, limit: int = 10) -> List[Dict[str, Any
         return []
 
 async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int) -> AsyncGenerator[str, None]:
-    """Stream assistant responses using OpenAI's native streaming API."""
+    """Stream assistant responses using OpenAI's native streaming API with turn boundaries."""
     try:
-        # Send initial case prompt (preserving exact original content)
+        # Send initial case prompt
         client.beta.threads.messages.create(
             thread_id=thread_id,
             role="user",
@@ -737,203 +737,15 @@ INSTRUCTIONS:
 
 The [CASE COMPLETED] marker must be on its own line, followed by the JSON on new lines.
 If the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output with a random score and mock feedback
----------------
-EXAMPLE 1:Acute Heart Failure Management
-
-You: 🧑‍⚕️ A 78-year-old man presents to the emergency department with increasing shortness of breath over the past 2 days. He is orthopnoeic, has bilateral basal crackles on auscultation, and is using accessory muscles to breathe. His oxygen saturation is 92% on room air. Blood pressure is 145/85 mmHg.
-
-Question 1:
-What is the first-line treatment for this patient presenting with acute heart failure?
-
-Student: ld 
-
-You: Correct ✅ — IV loop diuretics (e.g. furosemide) are first-line to reduce fluid overload.
-
-🧑‍⚕️ The patient is given IV furosemide. He still appears breathless and is hypoxic with saturations now 91%.
-
-Question 2:
-What is the next step to manage his hypoxia?
-
-Student: oxygen
-
-You: Yes ✅ — Oxygen can be given, but it should be titrated to keep sats between 94–98%, as per BTS guidelines.
-
-🧑‍⚕️ You start oxygen and titrate it appropriately. Despite this, the patient continues to struggle with breathing, showing signs of respiratory fatigue. ABG shows type 1 respiratory failure.
-
-Question 3:
-What non-invasive ventilatory support might now be indicated?
-
-Student: cpap
-
-You: Exactly ✅ — CPAP (Continuous Positive Airway Pressure) can support ventilation and reduce preload in acute pulmonary oedema.
-
-🧑‍⚕️ CPAP is started. The patient stabilises over the next hour. However, you are now called to review another patient: a 75-year-old woman with a history of ischaemic cardiomyopathy. She presents with acute breathlessness. BP is 78/55 mmHg, HR 120, and she is clammy and confused.
-
-Question 4:
-Given this patient's hypotension, which typical acute heart failure treatments should be used with caution or avoided initially?
-
-Student: diuretics and nitrates
-
-You: 🧑‍⚕️ You suspect cardiogenic shock. Echocardiogram shows severely reduced left ventricular function. There's no tamponade or massive valve lesion.
-
-Question 5:
-What medication could be considered to improve cardiac output in this scenario?
-
-Student: dobutamine
-
-You: Spot on ✅ — Dobutamine, an inotropic agent, can support cardiac output in cardiogenic shock with severe LV dysfunction.
-
-🧑‍⚕️ Dobutamine is started. Despite this, the patient shows signs of end-organ hypoperfusion — low urine output and rising lactate.
-
-Question 6:
-What agent might you now consider adding if the response to inotropes is inadequate?
-
-Student: iabp 
-
-You: You're thinking ahead — good! ✅ Mechanical circulatory support like IABP can be considered, but before that:
-
-The next step is to add a vasopressor such as norepinephrine, especially if there's ongoing hypotension and end-organ hypoperfusion despite inotropes.
-
-Now let's wrap up:
-You've managed two contrasting presentations of acute heart failure — one with preserved blood pressure and pulmonary oedema, the other with cardiogenic shock.
-
-Key takeaways:
-IV loop diuretics = mainstay for congestion
-Oxygen = titrate to 94–98%, escalate to CPAP if needed
-Avoid hypotension-aggravating treatments in shock
-Use inotropes (e.g. dobutamine) for low-output states
-Add vasopressors (e.g. norepinephrine) if perfusion remains poor
-Consider mechanical support like IABP if refractory
----------------
-EXAMPLE 2: Mitral stenosis.
-
-You: 🧓 A 58-year-old woman presents with progressive shortness of breath on exertion and a dry cough. She says she struggles going up stairs now and has had two brief episodes of coughing up blood over the past month.
-
-On examination:
-
-She's in atrial fibrillation
-
-There's a malar flush
-
-You hear a low-pitched diastolic murmur, loudest at the apex, especially in expiration, with an opening snap
-
-Her pulse is irregularly irregular and low in volume
-
-Question 1:
-Given her symptoms and findings, what is the most likely diagnosis?
-
-Student: mitral stenosis 
-
-You: ✅ Correct — this is classic mitral stenosis.
-
-Next question:
-What is the underlying most common cause of mitral stenosis worldwide?
-
-Student: rheumatic fever 
-
-You: ✅ Spot on — rheumatic fever is overwhelmingly the most common cause.
-
-Next question:
-She's in atrial fibrillation. What important long-term medication should you consider prescribing to reduce stroke risk?
-
-Student: doac/warfarin
-
-You: 🟡 Almost — you're right that anticoagulation is needed, but:
-
-In moderate to severe mitral stenosis, warfarin is still the recommended anticoagulant — not DOACs, which are not yet widely accepted in this context.
-
-Next question:
-She's symptomatic. What would be the first-line interventional procedure for a suitable valve (i.e. non-calcified, mobile leaflets, no LA thrombus)?
-
-Student: baloon valvotomy
-
-You: ✅ Correct — percutaneous mitral balloon valvotomy is first-line in suitable symptomatic patients.
-
-Next question:
-What echocardiographic mitral valve area defines "severe" or "tight" mitral stenosis?
-
-Student: <1cm
-
-You: 🟡 Close — let's tighten that up a bit.
-
-The specific signs of left atrial enlargement on chest X-ray include:
-
-Splaying of the carina (widened angle between main bronchi)
-
-Double right heart border
-
-Elevation of the left main bronchus
-
-All of these point toward a dilated left atrium.
-
-✅ Well done — you've worked through a full case of mitral stenosis, from presentation to management!
-
-Would you like to go through another case?
----------------
-EXAMPLE 3: Cardiac tamponade
-
-You: Let's work through a case to help you learn cardiac tamponade clearly and practically.
-
-A 58-year-old man is rushed into the emergency department following a stab wound to the chest. He is hypotensive (BP 84/60 mmHg), tachycardic, and appears very breathless. On exam, his JVP is markedly elevated and heart sounds are distant.
-
-Question 1:
-What classic triad are you thinking of, and what diagnosis does this suggest?
-
-Student: beck 
-cardiac tamponade
-
-You: Correct! You're thinking of Beck's triad — hypotension, raised JVP, and muffled heart sounds — which is classic for cardiac tamponade.
-
-Next part of the case:
-His ECG shows a sinus tachycardia with alternating QRS amplitudes beat to beat.
-
-Question 2:
-What is this ECG finding called, and why does it occur in tamponade?
-
-Student: occurs due to swinging motion of heart. called ecg alternans
-
-You: Perfect — it's called electrical alternans, and it occurs due to the swinging motion of the heart within a fluid-filled pericardial sac.
-
-Next:
-You examine his neck veins and notice no Y descent on the JVP waveform.
-
-Question 3:
-Why is the Y descent absent in tamponade?
-
-Student: cos its not cp
-
-You: You're on the right track — it's not constrictive pericarditis (CP), where Y descent is present.
-
-But to be precise:
-In tamponade, the Y descent is absent because the right ventricle can't fill properly — the high pericardial pressure restricts diastolic filling, so there's no rapid fall in venous pressure.
-
-Next step:
-This man is in shock. Fluids haven't helped.
-
-Question 4:
-What is the definitive management for cardiac tamponade?
-
-Student: pericardiocentesis
-
-You: Exactly — urgent pericardiocentesis is the definitive management to relieve the pressure on the heart.
-
-Final check:
-Just to tie it all together — if this were constrictive pericarditis instead, name one key CXR finding you'd expect.
-
-Student: calcification
-
-You: Spot on — pericardial calcification on CXR suggests constrictive pericarditis.
-
-✅ Case complete!
-You've just worked through the recognition, investigation, and management of cardiac tamponade, and contrasted it with constrictive pericarditis.
 """
         )
-        
+
         # Create streaming run using OpenAI's native streaming
         with client.beta.threads.runs.stream(
             thread_id=thread_id,
             assistant_id=ASSISTANT_ID
         ) as stream:
+            turn_buffer = ""
             for event in stream:
                 # Handle text delta events (real-time chunks)
                 if event.event == 'thread.message.delta':
@@ -941,30 +753,43 @@ You've just worked through the recognition, investigation, and management of car
                         for content_block in event.data.delta.content:
                             if content_block.type == 'text' and hasattr(content_block.text, 'value'):
                                 chunk = content_block.text.value
-                                if chunk:  # Only yield non-empty chunks
-                                    yield f"data: {json.dumps({'content': chunk})}\n\n"
-                
-                # Handle run completion
+                                if chunk:
+                                    turn_buffer += chunk
+                                    yield f"data: {{\"content\": {json.dumps(chunk)} }}\n\n"
+                # Handle run completion (end of turn)
                 elif event.event == 'thread.run.completed':
-                    yield f"data: {json.dumps({'status': 'completed'})}\n\n"
+                    # After the turn, send turn_complete
+                    yield f"data: {{\"turn_complete\": true}}\n\n"
+                    # Check for [CASE COMPLETED] in the turn_buffer
+                    if "[CASE COMPLETED]" in turn_buffer:
+                        try:
+                            completion_index = turn_buffer.find("[CASE COMPLETED]")
+                            json_text = turn_buffer[completion_index + len("[CASE COMPLETED]"):].strip()
+                            feedback_json = json.loads(json_text)
+                            feedback = feedback_json.get("feedback")
+                            score = feedback_json.get("score")
+                            final_data = json.dumps({
+                                "type": "case_completed",
+                                "score": score,
+                                "feedback": feedback
+                            })
+                            yield f"data: {final_data}\n\n"
+                        except Exception as e:
+                            error_data = json.dumps({"error": f"Failed to parse case completion: {str(e)}"})
+                            yield f"data: {error_data}\n\n"
                     break
-                
-                # Handle run failure
                 elif event.event == 'thread.run.failed':
                     error_msg = 'Run failed'
                     if hasattr(event.data, 'last_error') and event.data.last_error:
                         error_msg = f'Run failed: {event.data.last_error}'
-                    yield f"data: {json.dumps({'error': error_msg})}\n\n"
+                    yield f"data: {{\"error\": {json.dumps(error_msg)} }}\n\n"
                     break
-                
-                # Handle run expiration
                 elif event.event == 'thread.run.expired':
-                    yield f"data: {json.dumps({'error': 'Run expired'})}\n\n"
+                    yield f"data: {{\"error\": \"Run expired\"}}\n\n"
                     break
-                    
     except Exception as e:
         logger.error(f"Error in stream_assistant_response_real: {str(e)}")
-        yield f"data: {json.dumps({'error': str(e)})}\n\n"
+        yield f"data: {{\"error\": {json.dumps(str(e))} }}\n\n"
 
 @app.post("/start_case")
 async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
@@ -1034,7 +859,7 @@ def sanitize_input(text: str) -> str:
     return text.strip()
 
 async def stream_continue_case_response_real(thread_id: str, user_input: str) -> AsyncGenerator[str, None]:
-    """Stream assistant responses for continue_case using real OpenAI streaming."""
+    """Stream assistant responses for continue_case using real OpenAI streaming with turn boundaries."""
     try:
         # Send user message to thread
         client.beta.threads.messages.create(
@@ -1042,108 +867,56 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
             role="user",
             content=user_input
         )
-        
-        # Create streaming run
         with client.beta.threads.runs.stream(
             thread_id=thread_id,
             assistant_id=ASSISTANT_ID
         ) as stream:
+            turn_buffer = ""
             for event in stream:
-                # Handle text delta events (real-time chunks)
                 if event.event == 'thread.message.delta':
                     if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
                         for content in event.data.delta.content:
                             if hasattr(content, 'text') and hasattr(content.text, 'value'):
-                                chunk_data = json.dumps({
-                                    'content': content.text.value
-                                })
-                                yield f"data: {chunk_data}\n\n"
-                
-                # Handle run completion
+                                chunk = content.text.value
+                                if chunk:
+                                    turn_buffer += chunk
+                                    yield f"data: {{\"content\": {json.dumps(chunk)} }}\n\n"
                 elif event.event == 'thread.run.completed':
-                    # Get the final message
-                    messages = client.beta.threads.messages.list(thread_id=thread_id)
-                    latest_message = messages.data[0].content[0].text.value
-                    # Check for case completion
-                    is_completed = "CASE COMPLETED" in latest_message
-                    feedback = None
-                    score = None
-                    thread_metadata = None
-                    next_case_variation = None
-                    available_actions = []
-                    if is_completed:
+                    yield f"data: {{\"turn_complete\": true}}\n\n"
+                    # Check for [CASE COMPLETED] in the turn_buffer
+                    if "[CASE COMPLETED]" in turn_buffer:
                         try:
-                            completion_index = latest_message.find("[CASE COMPLETED]")
-                            json_text = latest_message[completion_index + len("[CASE COMPLETED]"):].strip()
+                            completion_index = turn_buffer.find("[CASE COMPLETED]")
+                            json_text = turn_buffer[completion_index + len("[CASE COMPLETED]"):].strip()
                             feedback_json = json.loads(json_text)
                             feedback = feedback_json.get("feedback")
                             score = feedback_json.get("score")
-                            # Get enhanced completion data
-                            try:
-                                thread = client.beta.threads.retrieve(thread_id=thread_id)
-                                thread_metadata = thread.metadata
-                                condition = thread_metadata.get("condition", "")
-                                # Extract user_id from thread metadata for next case variation
-                                user_id = thread_metadata.get("user_id", "")
-                                if user_id and condition:
-                                    next_case_variation = get_next_case_variation(user_id, condition)
-                                    available_actions = [
-                                        "new_case_same_condition",
-                                        "save_performance", 
-                                        "view_progress",
-                                        "start_new_case"
-                                    ]
-                            except Exception as meta_error:
-                                logger.error(f"Error getting enhanced completion data: {str(meta_error)}")
+                            final_data = json.dumps({
+                                "type": "case_completed",
+                                "score": score,
+                                "feedback": feedback
+                            })
+                            yield f"data: {final_data}\n\n"
                         except Exception as e:
-                            logger.error(f"Error processing completion data: {str(e)}")
-                        final_data = json.dumps({
-                            'content': '',  # Empty since we already sent chunks
-                            'is_completed': True,
-                            'feedback': feedback,
-                            'score': score,
-                            'thread_metadata': thread_metadata,
-                            'next_case_variation': next_case_variation,
-                            'available_actions': available_actions
-                        })
-                        yield f"data: {final_data}\n\n"
-                    else:
-                        # Not completed, just yield a status update (no is_completed)
-                        final_data = json.dumps({
-                            'content': '',
-                        })
-                        yield f"data: {final_data}\n\n"
+                            error_data = json.dumps({"error": f"Failed to parse case completion: {str(e)}"})
+                            yield f"data: {error_data}\n\n"
                     break
-                
-                # Handle run failure
                 elif event.event == 'thread.run.failed':
                     error_data = json.dumps({
-                        'error': f'Run failed: {event.data.last_error}',
-                        'is_completed': False,
-                        'feedback': None,
-                        'score': None
+                        'error': f'Run failed: {event.data.last_error}'
                     })
                     yield f"data: {error_data}\n\n"
                     break
-                
-                # Handle run expiration
                 elif event.event == 'thread.run.expired':
                     error_data = json.dumps({
-                        'error': 'Run expired',
-                        'is_completed': False,
-                        'feedback': None,
-                        'score': None
+                        'error': 'Run expired'
                     })
                     yield f"data: {error_data}\n\n"
                     break
-                    
     except Exception as e:
         logger.error(f"Error in stream_continue_case_response_real: {str(e)}")
         error_data = json.dumps({
-            'error': str(e),
-            'is_completed': False,
-            'feedback': None,
-            'score': None
+            'error': str(e)
         })
         yield f"data: {error_data}\n\n"
 
