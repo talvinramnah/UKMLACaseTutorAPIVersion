@@ -90,8 +90,8 @@ try:
     client = openai.OpenAI(
         api_key=openai.api_key,
         default_headers={"OpenAI-Beta": "assistants=v2"},
-        timeout=15.0,  # Reduced from 30.0 for faster failures
-        max_retries=2  # Reduced from 3 for faster responses
+        timeout=60.0,  # Increased timeout for streaming runs
+        max_retries=2
     )
     logger.info("OpenAI client initialized successfully with Assistants v2 (optimized timeouts)")
 except Exception as e:
@@ -790,6 +790,8 @@ If the user enters 'SPEEDRUN' I'd like you to do the [CASE COMPLETED] output wit
     except Exception as e:
         logger.error(f"Error in stream_assistant_response_real: {str(e)}")
         yield f"data: {{\"error\": {json.dumps(str(e))} }}\n\n"
+        # Always send turn_complete so frontend can recover
+        yield f"data: {{\"turn_complete\": true}}\n\n"
 
 @app.post("/start_case")
 async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
@@ -919,6 +921,8 @@ async def stream_continue_case_response_real(thread_id: str, user_input: str) ->
             'error': str(e)
         })
         yield f"data: {error_data}\n\n"
+        # Always send turn_complete so frontend can recover
+        yield f"data: {{\"turn_complete\": true}}\n\n"
 
 @app.post("/continue_case")
 async def continue_case(request: ContinueCaseRequest, authorization: str = Header(...)):
