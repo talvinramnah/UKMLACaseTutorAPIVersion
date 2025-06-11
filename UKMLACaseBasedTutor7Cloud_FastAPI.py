@@ -15,7 +15,7 @@ from utils import (
     set_user_state,
     get_user_session_id
 )
-from fastapi import FastAPI, Header, HTTPException, Request, status, Depends, Response
+from fastapi import FastAPI, Header, HTTPException, Request, status, Depends, Response, Query
 from fastapi.responses import JSONResponse, StreamingResponse
 from pydantic import BaseModel, EmailStr, Field, validator
 from typing import Optional, Dict, Any, Callable, AsyncGenerator, List
@@ -537,12 +537,17 @@ async def logout(request: LogoutRequest):
 
 class StartCaseRequest(BaseModel):
     condition: str = Field(..., min_length=1, max_length=100)
+    case_focus: Optional[str] = Field(None, description="Focus of the case: investigation, management, or both")
     
     @validator('condition')
     def validate_condition(cls, v):
-        # Add any specific condition validation rules
         if not v.replace(" ", "").isalnum():
             raise ValueError('Condition must contain only letters, numbers, and spaces')
+        return v
+    @validator('case_focus')
+    def validate_case_focus(cls, v):
+        if v is not None and v not in ("investigation", "management", "both"):
+            raise ValueError('case_focus must be one of: investigation, management, both')
         return v
 
 class ContinueCaseRequest(BaseModel):
@@ -708,49 +713,14 @@ def get_user_active_threads(user_id: str, limit: int = 10) -> List[Dict[str, Any
         logger.error(f"Error getting active threads for user_id={user_id}: {str(e)}")
         return []
 
-async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int) -> AsyncGenerator[str, None]:
+async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int, system_prompt: str) -> AsyncGenerator[str, None]:
     """Stream assistant responses using OpenAI's native streaming API with turn boundaries."""
     try:
         # Send initial case prompt
         client.beta.threads.messages.create(
             thread_id=thread_id,
             role="user",
-            content = f"""
-            GOAL: You are an expert Medical professional with decades of teaching experience. Start a UKMLA-style interactive case based on the condition: **{condition}** (Variation {case_variation}).
-
-            CASE CONTENT (for internal guidance, not to be shown directly):
-            {case_content}
-
-            Please begin the case using this structure:
-
-            1.
-            **Name**, **Age**, **NHS number**, **Date of birth**, **Ethnicity**
-
-            2.
-            **Presenting complaint** (SITE, ONSET, CHARACTER, RADIATION, EXACERBATING/RELIEVING FACTORS, TIMING),
-            **History of presenting complaint**,
-            **Medical history (relevant)**,
-            **Drug history**,
-            **Family history**
-
-            3.
-            **Ideas**, **Concerns**, **Expectations**
-
-            Then begin guiding the student through the case step by step. After each question and answer, reveal the next part of the case or investigation.
-
-            Be concise and clinical. Mark important clinical info in **bold**. Do not reveal diagnosis or management too early.
-
-            Once the case is truly complete, conclude with:
-
-            [CASE COMPLETED]
-            {{
-            "feedback": "Brief feedback on overall performance",
-            "score": number from 1–10
-            }}
-
-            If the student enters 'SPEEDRUN', skip to [CASE COMPLETED] with randomised feedback and score.
-            """
-
+            content=system_prompt
         )
 
         # Create streaming run using OpenAI's native streaming
@@ -808,7 +778,7 @@ async def stream_assistant_response_real(thread_id: str, condition: str, case_co
 
 @app.post("/start_case")
 async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
-    """Start a new case with the OpenAI Assistant using streaming."""
+    """Start a new case with the OpenAI Assistant using streaming. Accepts optional case_focus parameter."""
     try:
         # Validate token and get user ID
         if not authorization or not authorization.startswith("Bearer "):
@@ -816,39 +786,76 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
                 status_code=status.HTTP_401_UNAUTHORIZED,
                 detail="Invalid authorization header"
             )
-        
         token = authorization.split(" ")[1]
         user_id = extract_user_id(token)
-
-        logger.info(f"Starting case for user {user_id} with condition {request.condition}")
-
+        logger.info(f"Starting case for user {user_id} with condition {request.condition} and case_focus {request.case_focus}")
         # Get case file and ward
         case_file = get_case_file(request.condition)
         if not case_file:
             raise HTTPException(status_code=404, detail=f"Case '{request.condition}' not found.")
-        
         ward = get_ward_for_condition(request.condition)
-
         # Determine case variation
         case_variation = get_next_case_variation(user_id, request.condition)
-
         # Read case content using cached file reading
         case_content = read_case_file_cached(case_file)
+        # --- Build case focus instruction ---
+        focus_instruction = ""
+        if request.case_focus == "investigation":
+            focus_instruction = "For this case, focus ONLY on investigation. Do not ask or discuss management."
+        elif request.case_focus == "management":
+            focus_instruction = "For this case, focus ONLY on management. Do not ask or discuss investigation."
+        # --- Compose system prompt ---
+        system_prompt = f"""
+GOAL: You are an expert Medical professional with decades of teaching experience. Start a UKMLA-style interactive case based on the condition: **{request.condition}** (Variation {case_variation}).
 
-        # Create thread
+CASE CONTENT (for internal guidance, not to be shown directly):
+{case_content}
+
+{focus_instruction}
+
+Please begin the case using this structure:
+
+1.
+**Name**, **Age**, **NHS number**, **Date of birth**, **Ethnicity**
+
+2.
+**Presenting complaint** (SITE, ONSET, CHARACTER, RADIATION, EXACERBATING/RELIEVING FACTORS, TIMING),
+**History of presenting complaint**,
+**Medical history (relevant)**,
+**Drug history**,
+**Family history**
+
+3.
+**Ideas**, **Concerns**, **Expectations**
+
+Then begin guiding the student through the case step by step. After each question and answer, reveal the next part of the case or investigation.
+
+Be concise and clinical. Mark important clinical info in **bold**. Do not reveal diagnosis or management too early.
+
+Once the case is truly complete, conclude with:
+
+[CASE COMPLETED]
+{{
+"feedback": "Brief feedback on overall performance",
+"score": number from 1–10
+}}
+
+If the student enters 'SPEEDRUN', skip to [CASE COMPLETED] with randomised feedback and score.
+"""
+        # --- Create thread ---
         thread = client.beta.threads.create(
             metadata={
                 "user_id": user_id,
                 "condition": request.condition,
                 "ward": ward,
                 "start_time": datetime.now(timezone.utc).isoformat(),
-                "case_variation": str(case_variation)
+                "case_variation": str(case_variation),
+                "case_focus": request.case_focus or "both"
             }
         )
-
-        # Return streaming response with real streaming
+        # --- Stream response ---
         return StreamingResponse(
-            stream_assistant_response_real(thread.id, request.condition, case_content, case_variation),
+            stream_assistant_response_real(thread.id, request.condition, case_content, case_variation, system_prompt),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
@@ -858,7 +865,6 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
                 "X-Thread-Id": thread.id  # Add thread ID for frontend
             }
         )
-
     except Exception as e:
         logger.error(f"❌ start_case failed: {str(e)}", exc_info=True)
         raise HTTPException(status_code=500, detail=str(e))
