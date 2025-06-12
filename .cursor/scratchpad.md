@@ -94,4 +94,210 @@ The changes are minimal and focused, maintaining consistency with the existing c
 ## Next Executor Steps
 - [ ] Backend: Implement streaming protocol with `turn_complete` and `case_completed` messages.
 - [ ] Frontend: Update to listen for these messages and manage input/feedback display accordingly.
-- [ ] Return the current recommended system prompt in the chat for manual use. 
+- [ ] Return the current recommended system prompt in the chat for manual use.
+
+# Performance Table Redesign, Reporting, and Leaderboard (Planner Mode)
+
+## Background and Motivation
+- The project needs to modernize the `performance` table and all related backend/frontend logic to:
+  - Store richer, structured feedback and transcripts for each case.
+  - Enable more advanced analytics, reporting, and leaderboard features.
+  - Ensure users get a diverse set of cases and actionable feedback.
+
+## Key Challenges and Analysis
+- **Schema Change:** The `performance` table will be dropped and recreated with a new schema. All code and queries referencing the old structure must be updated.
+- **Data Model:** Feedback and chat transcript fields should be JSONB for flexibility and future-proofing. Arrays (for positives/improvements) are best as JSON arrays.
+- **Leaderboard/Reporting:** Requires efficient queries, likely with indexed columns for filtering and time-based views.
+- **Backward Compatibility:** All endpoints and queries must be updated in one go; no transition period.
+- **Testing:** All changes must be tested to ensure no regressions in user experience or data integrity.
+
+## High-level Task Breakdown
+- [x] 1. Design and create new `performance` table schema in Supabase
+- [x] 2. Update all backend code to use new schema
+- [ ] 3. Update frontend to use new schema (if needed)
+- [ ] 4. Implement progress tab API endpoint
+- [ ] 5. Implement weekly progress report API endpoint
+- [ ] 6. Implement leaderboard API endpoint
+- [ ] 7. Test all functionality (backend and frontend)
+- [ ] 8. Document lessons and migration steps
+
+## Project Status Board
+- [x] 1. Design and create new `performance` table schema in Supabase
+- [x] 2. Update all backend code to use new schema
+- [ ] 3. Update frontend to use new schema (if needed)
+- [ ] 4. Implement progress tab API endpoint
+- [ ] 5. Implement weekly progress report API endpoint
+- [ ] 6. Implement leaderboard API endpoint
+- [ ] 7. Test all functionality (backend and frontend)
+- [ ] 8. Document lessons and migration steps
+
+## Current Status / Progress Tracking
+- Status: All backend endpoints and helper functions have been updated to use the new performance table schema. All references to old fields (score, feedback) have been removed or replaced. The backend is ready for testing and frontend integration.
+- Next: Update frontend to use new schema (if needed) and begin testing.
+
+## Executor's Feedback or Assistance Requests
+- Task 1 complete: The new `performance` table has been created in Supabase with the specified schema. Ready to proceed with backend code updates.
+- Task 2 complete: All backend code now uses the new performance schema. Ready for frontend updates and testing.
+
+# API Documentation for Frontend Integration (Performance, Progress, Leaderboard)
+
+## Overview
+This documentation describes the key API endpoints and data structures for the UKMLA Case Tutor backend, focusing on the new performance schema, progress, and leaderboard features. All endpoints require authentication (Bearer token and X-Refresh-Token headers).
+
+---
+
+## 1. Save Performance
+**POST /save_performance**
+
+Save a completed case's performance, feedback, and chat transcript.
+
+**Request Body:**
+```json
+{
+  "thread_id": "string",                // OpenAI thread ID for the case
+  "result": true,                        // Boolean: true = pass, false = fail
+  "feedback_summary": "string",         // Brief summary feedback
+  "feedback_positives": ["string"],     // Array of positive feedback points
+  "feedback_improvements": ["string"],  // Array of improvement feedback points
+  "chat_transcript": [                   // Array of message objects (see below)
+    { "role": "user", "content": "..." },
+    { "role": "assistant", "content": "..." }
+  ],
+  "token": "string",                    // (optional) Bearer token
+  "refresh_token": "string"              // (optional) Refresh token
+}
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "badge_awarded": "string|null"         // Badge name if newly awarded, else null
+}
+```
+
+---
+
+## 2. Get User Session State
+**GET /user/session_state**
+
+Returns the user's current session state, including active threads, recent cases, and progress stats.
+
+**Response:**
+```json
+{
+  "active_threads": [
+    {
+      "condition": "string",
+      "ward": "string",
+      "last_result": true,
+      "last_completed": "ISO8601 timestamp",
+      "case_variation": 1,
+      "feedback_summary": "string",
+      "feedback_positives": ["string"],
+      "feedback_improvements": ["string"]
+    }
+  ],
+  "recent_cases": [
+    {
+      "condition": "string",
+      "ward": "string",
+      "case_variation": 1,
+      "result": true,
+      "feedback_summary": "string",
+      "feedback_positives": ["string"],
+      "feedback_improvements": ["string"],
+      "chat_transcript": [ { "role": "user", "content": "..." }, ... ],
+      "created_at": "ISO8601 timestamp"
+    }
+  ],
+  "user_progress": {
+    "total_cases": 10,
+    "total_passes": 8,
+    "pass_rate": 80.0
+  }
+}
+```
+
+---
+
+## 3. Get Progress (Stats, Badges, Leaderboard)
+**GET /progress**
+
+Returns overall, ward, and condition stats, recent cases, and badges.
+
+**Response:**
+```json
+{
+  "overall": {
+    "total_cases": 10,
+    "total_passes": 8,
+    "pass_rate": 80.0,
+    "total_badges": 2
+  },
+  "ward_stats": {
+    "General Surgery": { "total_cases": 4, "total_passes": 3, "pass_rate": 75.0 },
+    "Cardiology": { "total_cases": 2, "total_passes": 2, "pass_rate": 100.0 }
+  },
+  "condition_stats": {
+    "Acute Appendicitis": { "total_cases": 2, "total_passes": 1, "pass_rate": 50.0 },
+    "Aortic Dissection": { "total_cases": 1, "total_passes": 1, "pass_rate": 100.0 }
+  },
+  "recent_cases": [
+    {
+      "condition": "string",
+      "ward": "string",
+      "case_variation": 1,
+      "result": true,
+      "feedback_summary": "string",
+      "feedback_positives": ["string"],
+      "feedback_improvements": ["string"],
+      "chat_transcript": [ { "role": "user", "content": "..." }, ... ],
+      "created_at": "ISO8601 timestamp"
+    }
+  ],
+  "badges": [
+    { "ward": "string", "badge_name": "string", "earned_at": "ISO8601 timestamp" }
+  ]
+}
+```
+
+---
+
+## 4. Get Badges
+**GET /badges**
+
+Returns all badges earned by the user.
+
+**Response:**
+```json
+{
+  "badges": [
+    { "ward": "string", "badge_name": "string", "earned_at": "ISO8601 timestamp" }
+  ]
+}
+```
+
+---
+
+## 5. Weekly Progress Report (Planned)
+**GET /progress/weekly_report** *(to be implemented)*
+
+Returns a weekly summary and action plan, including weak points (to be generated via OpenAI API).
+
+**Response:**
+```json
+{
+  "summary": "string",
+  "weak_points": ["string"],
+  "action_plan": "string"
+}
+```
+
+---
+
+## Notes
+- All endpoints require authentication: `Authorization: Bearer <token>` and `X-Refresh-Token: <refresh_token>` headers.
+- All timestamps are ISO8601 strings (e.g., "2025-06-01T12:00:00Z").
+- `chat_transcript` is an array of `{ "role": "user"|"assistant", "content": "string" }` objects.
+- For leaderboard and advanced reporting, additional endpoints will be documented as implemented. 

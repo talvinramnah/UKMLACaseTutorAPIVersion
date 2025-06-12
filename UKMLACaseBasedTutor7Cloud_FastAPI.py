@@ -688,26 +688,24 @@ def get_user_active_threads(user_id: str, limit: int = 10) -> List[Dict[str, Any
             .order("created_at", desc=True) \
             .limit(limit) \
             .execute()
-        
         if not result.data:
             return []
-        
-        # Extract unique thread information
         threads = []
         seen_conditions = set()
-        
         for record in result.data:
             condition = record.get("condition")
             if condition and condition not in seen_conditions:
                 threads.append({
                     "condition": condition,
                     "ward": record.get("ward"),
-                    "last_score": record.get("score"),
+                    "last_result": record.get("result"),
                     "last_completed": record.get("created_at"),
-                    "case_variation": record.get("case_variation")
+                    "case_variation": record.get("case_variation"),
+                    "feedback_summary": record.get("feedback_summary"),
+                    "feedback_positives": record.get("feedback_positives"),
+                    "feedback_improvements": record.get("feedback_improvements")
                 })
                 seen_conditions.add(condition)
-        
         return threads
     except Exception as e:
         logger.error(f"Error getting active threads for user_id={user_id}: {str(e)}")
@@ -1213,19 +1211,21 @@ async def get_session_state(authorization: str = Header(...)):
 
 class SavePerformanceRequest(BaseModel):
     thread_id: str = Field(..., min_length=1)
-    score: int = Field(..., ge=1, le=10)
-    feedback: str = Field(..., min_length=1, max_length=1000)
+    result: bool
+    feedback_summary: str = Field(..., min_length=1, max_length=1000)
+    feedback_positives: List[str] = Field(..., min_items=1)
+    feedback_improvements: List[str] = Field(..., min_items=1)
+    chat_transcript: List[Dict[str, Any]] = Field(..., min_items=1)
     token: Optional[str] = None
     refresh_token: Optional[str] = None
 
 @app.post("/save_performance")
 async def save_performance(request: SavePerformanceRequest, authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
     """Save the user's performance after case completion. Returns success and badge info."""
-    # Get tokens from either request body or headers
     token = request.token if request.token else (authorization.split(" ", 1)[1] if authorization and authorization.startswith("Bearer ") else None)
     refresh_token = request.refresh_token if request.refresh_token else x_refresh_token
 
-    logger.info(f"/save_performance called with: thread_id={request.thread_id}, score={request.score}, feedback={request.feedback}")
+    logger.info(f"/save_performance called with: thread_id={request.thread_id}, result={request.result}, feedback_summary={request.feedback_summary}")
     logger.info(f"Headers: Authorization={authorization}, X-Refresh-Token={x_refresh_token}")
     logger.info(f"Token used: {token}, Refresh token used: {refresh_token}")
 
@@ -1234,18 +1234,14 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
         return JSONResponse(status_code=401, content={"error": "Missing token or refresh token"})
 
     try:
-        # Set the session with both tokens for RLS
         supabase.auth.set_session(token, refresh_token)
         logger.info("Supabase session set successfully")
-        
-        # Get user ID from token
         user_id = extract_user_id(token)
         logger.info(f"Extracted user_id: {user_id}")
         if not user_id:
             logger.error("Invalid token: no user_id")
             return JSONResponse(status_code=401, content={"error": "Invalid token: no user_id"})
 
-        # Get thread metadata to get condition and ward
         thread = client.beta.threads.retrieve(thread_id=request.thread_id)
         metadata = thread.metadata
         condition = metadata.get("condition")
@@ -1260,84 +1256,61 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
                 content={"error": "Missing required metadata in thread"}
             )
 
-        # Validate score and feedback
-        if not 1 <= request.score <= 10:
-            logger.error(f"Invalid score: {request.score}")
-            return JSONResponse(
-                status_code=400,
-                content={"error": "Score must be between 1 and 10"}
-            )
-        if not request.feedback:
-            logger.error("Feedback is required but missing")
-            return JSONResponse(
-                status_code=400,
-                content={"error": "Feedback is required"}
-            )
+        # Insert new performance record
+        performance_data = {
+            "user_id": user_id,
+            "condition": condition,
+            "case_variation": case_variation,
+            "result": request.result,
+            "feedback_summary": request.feedback_summary,
+            "feedback_positives": request.feedback_positives,
+            "feedback_improvements": request.feedback_improvements,
+            "chat_transcript": request.chat_transcript,
+            "created_at": datetime.now(timezone.utc).isoformat(),
+            "ward": ward
+        }
+        logger.info(f"Attempting to insert performance_data: {performance_data}")
+        result = supabase.table("performance").insert(performance_data).execute()
+        logger.info(f"Supabase insert result: {result}")
+        if not result.data:
+            logger.error("Failed to save performance data: No data returned from insert")
+            raise Exception("Failed to save performance data")
 
-        # Retry logic for Supabase operations
-        max_retries = 3
-        for attempt in range(max_retries):
-            try:
-                # Save performance data
-                performance_data = {
+        # Badge logic (unchanged, but now uses result field)
+        badge_awarded = None
+        try:
+            # Count successful cases in this ward (result == True)
+            perf_result = supabase.table("performance") \
+                .select("result") \
+                .eq("user_id", user_id) \
+                .eq("ward", ward) \
+                .eq("result", True) \
+                .execute()
+            success_count = len(perf_result.data) if perf_result.data else 0
+            logger.info(f"Success count for badge eligibility: {success_count}")
+            badge_result = supabase.table("badges") \
+                .select("id") \
+                .eq("user_id", user_id) \
+                .eq("ward", ward) \
+                .execute()
+            has_badge = bool(badge_result.data)
+            logger.info(f"Badge already exists: {has_badge}")
+            if success_count >= 5 and not has_badge:
+                badge_name = f"{ward} Badge"
+                supabase.table("badges").insert({
                     "user_id": user_id,
-                    "condition": condition,
-                    "case_variation": case_variation,
-                    "score": request.score,
-                    "feedback": request.feedback,
-                    "created_at": datetime.now(timezone.utc).isoformat(),
-                    "ward": ward
-                }
-                logger.info(f"Attempting to insert performance_data: {performance_data}")
-                result = supabase.table("performance").insert(performance_data).execute()
-                logger.info(f"Supabase insert result: {result}")
-                if not result.data:
-                    logger.error("Failed to save performance data: No data returned from insert")
-                    raise Exception("Failed to save performance data")
-                
-                # Check for badge eligibility
-                badge_awarded = None
-                try:
-                    # Count successful cases in this ward (score >= 7)
-                    perf_result = supabase.table("performance") \
-                        .select("score") \
-                        .eq("user_id", user_id) \
-                        .eq("ward", ward) \
-                        .gte("score", 7) \
-                        .execute()
-                    success_count = len(perf_result.data) if perf_result.data else 0
-                    logger.info(f"Success count for badge eligibility: {success_count}")
-                    # Check if badge already exists
-                    badge_result = supabase.table("badges") \
-                        .select("id") \
-                        .eq("user_id", user_id) \
-                        .eq("ward", ward) \
-                        .execute()
-                    has_badge = bool(badge_result.data)
-                    logger.info(f"Badge already exists: {has_badge}")
-                    # Grant badge if eligible and not already granted
-                    if success_count >= 5 and not has_badge:
-                        badge_name = f"{ward} Badge"
-                        supabase.table("badges").insert({
-                            "user_id": user_id,
-                            "ward": ward,
-                            "badge_name": badge_name
-                        }).execute()
-                        badge_awarded = badge_name
-                        logger.info(f"Badge awarded: {badge_awarded}")
-                except Exception as e:
-                    logger.error(f"Error checking badge eligibility: {str(e)}")
-                    badge_awarded = None
-                return {
-                    "success": True,
-                    "badge_awarded": badge_awarded
-                }
-            except Exception as e:
-                logger.error(f"Error in Supabase insert attempt {attempt+1}: {str(e)}")
-                if attempt == max_retries - 1:
-                    raise
-                time.sleep(1)  # Wait before retry
-                continue
+                    "ward": ward,
+                    "badge_name": badge_name
+                }).execute()
+                badge_awarded = badge_name
+                logger.info(f"Badge awarded: {badge_awarded}")
+        except Exception as e:
+            logger.error(f"Error checking badge eligibility: {str(e)}")
+            badge_awarded = None
+        return {
+            "success": True,
+            "badge_awarded": badge_awarded
+        }
     except Exception as e:
         logger.error(f"Error in save_performance: {str(e)}")
         logger.error(traceback.format_exc())
