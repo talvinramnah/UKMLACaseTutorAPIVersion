@@ -1348,98 +1348,84 @@ def get_badges(authorization: Optional[str] = Header(None), x_refresh_token: Opt
 
 @app.get("/progress")
 def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
-    """Get the user's progress: completed cases, scores, badges, and statistics."""
-    # 1. Validate token and extract user_id
+    """Get the user's progress: completed cases, passes, badges, and statistics."""
     if not authorization or not authorization.startswith("Bearer "):
         return JSONResponse(status_code=401, content={"error": "Missing or invalid Authorization header."})
     if not x_refresh_token:
         return JSONResponse(status_code=401, content={"error": "Missing refresh token header."})
     token = authorization.split(" ", 1)[1]
-    supabase.auth.set_session(token, x_refresh_token)  # Set session for RLS
+    supabase.auth.set_session(token, x_refresh_token)
     try:
         user_id = extract_user_id(token)
         if not user_id:
             return JSONResponse(status_code=401, content={"error": "Invalid token: no user_id."})
     except Exception as e:
         return JSONResponse(status_code=401, content={"error": f"Invalid token: {str(e)}"})
-
     try:
-        # 2. Get completed cases and scores
+        # Fetch all performance records for this user
         perf_result = supabase.table("performance") \
-            .select("condition, score, feedback, ward, created_at") \
+            .select("*") \
             .eq("user_id", user_id) \
             .order("created_at", desc=True) \
             .execute()
-        
         completed_cases = perf_result.data if perf_result.data else []
-        
-        # 3. Calculate statistics
         total_cases = len(completed_cases)
-        total_score = sum(case["score"] for case in completed_cases)
-        avg_score = total_score / total_cases if total_cases > 0 else 0
-        successful_cases = len([case for case in completed_cases if case["score"] >= 7])
-        success_rate = (successful_cases / total_cases * 100) if total_cases > 0 else 0
-        
-        # 4. Get badges
+        total_passes = len([case for case in completed_cases if case.get("result") is True])
+        pass_rate = (total_passes / total_cases * 100) if total_cases > 0 else 0
+        # Get badges
         badges_result = supabase.table("badges") \
             .select("ward, badge_name, earned_at") \
             .eq("user_id", user_id) \
             .execute()
-        
         badges = badges_result.data if badges_result.data else []
-        
-        # 5. Get ward-specific statistics
+        # Ward-specific stats
         ward_stats = {}
         for case in completed_cases:
             ward = case["ward"]
             if ward not in ward_stats:
                 ward_stats[ward] = {
                     "total_cases": 0,
-                    "total_score": 0,
-                    "successful_cases": 0
+                    "total_passes": 0
                 }
             ward_stats[ward]["total_cases"] += 1
-            ward_stats[ward]["total_score"] += case["score"]
-            if case["score"] >= 7:
-                ward_stats[ward]["successful_cases"] += 1
-        # Calculate ward averages
+            if case.get("result") is True:
+                ward_stats[ward]["total_passes"] += 1
         for ward in ward_stats:
             stats = ward_stats[ward]
-            stats["avg_score"] = stats["total_score"] / stats["total_cases"]
-            stats["success_rate"] = (stats["successful_cases"] / stats["total_cases"] * 100)
-
-        # 6. Get condition-specific statistics
+            stats["pass_rate"] = (stats["total_passes"] / stats["total_cases"] * 100) if stats["total_cases"] > 0 else 0
+        # Condition-specific stats
         condition_stats = {}
         for case in completed_cases:
             condition = case["condition"]
             if condition not in condition_stats:
                 condition_stats[condition] = {
                     "total_cases": 0,
-                    "total_score": 0
+                    "total_passes": 0
                 }
             condition_stats[condition]["total_cases"] += 1
-            condition_stats[condition]["total_score"] += case["score"]
-        # Calculate condition averages
+            if case.get("result") is True:
+                condition_stats[condition]["total_passes"] += 1
         for condition in condition_stats:
             stats = condition_stats[condition]
-            stats["avg_score"] = round(stats["total_score"] / stats["total_cases"], 1)
-            del stats["total_score"]  # Remove total_score from output
-
+            stats["pass_rate"] = (stats["total_passes"] / stats["total_cases"] * 100) if stats["total_cases"] > 0 else 0
+        # Include new feedback fields in recent_cases
+        for case in completed_cases:
+            case["feedback_summary"] = case.get("feedback_summary")
+            case["feedback_positives"] = case.get("feedback_positives")
+            case["feedback_improvements"] = case.get("feedback_improvements")
+            case["chat_transcript"] = case.get("chat_transcript")
         return {
             "overall": {
                 "total_cases": total_cases,
-                "total_score": total_score,
-                "average_score": round(avg_score, 2),
-                "successful_cases": successful_cases,
-                "success_rate": round(success_rate, 2),
+                "total_passes": total_passes,
+                "pass_rate": round(pass_rate, 2),
                 "total_badges": len(badges)
             },
             "ward_stats": ward_stats,
             "condition_stats": condition_stats,
-            "recent_cases": completed_cases[:5],  # Last 5 cases
+            "recent_cases": completed_cases[:5],
             "badges": badges
         }
-        
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": f"Failed to fetch progress: {str(e)}"})
 
