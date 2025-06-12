@@ -300,4 +300,70 @@ Returns a weekly summary and action plan, including weak points (to be generated
 - All endpoints require authentication: `Authorization: Bearer <token>` and `X-Refresh-Token: <refresh_token>` headers.
 - All timestamps are ISO8601 strings (e.g., "2025-06-01T12:00:00Z").
 - `chat_transcript` is an array of `{ "role": "user"|"assistant", "content": "string" }` objects.
-- For leaderboard and advanced reporting, additional endpoints will be documented as implemented. 
+- For leaderboard and advanced reporting, additional endpoints will be documented as implemented.
+
+# Prompt for Frontend Cursor Agent: Update Case Completion & Save Performance
+
+## Context
+The backend API for UKMLA Case Tutor has been updated. The `/save_performance` endpoint and the case completion feedback structure have changed. The frontend must be updated to:
+- Correctly parse the new feedback structure streamed after `[CASE COMPLETED]`
+- Trigger the `/save_performance` API call with the new required fields
+- Update UI to show pass/fail and new feedback fields (not score)
+
+## What Changed
+- The backend no longer returns a `score` or `feedback` field after case completion.
+- Instead, the feedback JSON now includes:
+  - `feedback summary` (string)
+  - `feedback details positive` (array of strings)
+  - `feedback details negative` (array of strings)
+  - `result` (string: "pass" or "fail")
+- The `/save_performance` endpoint expects:
+  - `result` (boolean: true for pass, false for fail)
+  - `feedback_summary` (string)
+  - `feedback_positives` (array of strings)
+  - `feedback_improvements` (array of strings)
+  - `chat_transcript` (array of `{role, content}` objects)
+  - `thread_id`, `token`, `refresh_token`
+
+## What You Need to Do
+1. **Update the case completion handler** to parse the new feedback JSON from the stream.
+2. **Map the fields** as follows:
+   - `feedback_summary` ← `feedback summary`
+   - `feedback_positives` ← `feedback details positive`
+   - `feedback_improvements` ← `feedback details negative`
+   - `result` ← (`result` === "pass")
+3. **Trigger `/save_performance`** with the mapped payload and the full chat transcript.
+4. **Update UI** to show pass/fail and the new feedback fields.
+
+## Example: Parsing and API Call
+```js
+// Assume `feedback` is the parsed JSON object from the [CASE COMPLETED] stream
+const savePayload = {
+  result: feedback.result === "pass",
+  feedback_summary: feedback["feedback summary"],
+  feedback_positives: feedback["feedback details positive"],
+  feedback_improvements: feedback["feedback details negative"],
+  chat_transcript: chatTranscriptArray, // your array of {role, content}
+  thread_id: threadId,
+  token: accessToken,
+  refresh_token: refreshToken
+};
+
+fetch("/save_performance", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "Authorization": `Bearer ${accessToken}`,
+    "X-Refresh-Token": refreshToken
+  },
+  body: JSON.stringify(savePayload)
+});
+```
+
+## Notes
+- Do **not** expect a `score` field; use `result` for pass/fail.
+- The UI should display pass/fail and the feedback arrays, not a numeric score.
+- If you need to update any other logic that depended on `score`, switch to using `result` and the new feedback fields.
+
+---
+**Goal:** After case completion, the frontend should always POST to `/save_performance` with the new structure, and the UI should reflect the new feedback format. 
