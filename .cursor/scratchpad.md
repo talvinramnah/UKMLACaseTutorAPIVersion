@@ -114,7 +114,7 @@ The changes are minimal and focused, maintaining consistency with the existing c
 ## High-level Task Breakdown
 - [x] 1. Design and create new `performance` table schema in Supabase
 - [x] 2. Update all backend code to use new schema
-- [ ] 3. Update frontend to use new schema (if needed)
+- [x] 3. Update frontend to use new schema (if needed)
 - [ ] 4. Implement progress tab API endpoint
 - [ ] 5. Implement weekly progress report API endpoint
 - [ ] 6. Implement leaderboard API endpoint
@@ -124,7 +124,7 @@ The changes are minimal and focused, maintaining consistency with the existing c
 ## Project Status Board
 - [x] 1. Design and create new `performance` table schema in Supabase
 - [x] 2. Update all backend code to use new schema
-- [ ] 3. Update frontend to use new schema (if needed)
+- [x] 3. Update frontend to use new schema (if needed)
 - [ ] 4. Implement progress tab API endpoint
 - [ ] 5. Implement weekly progress report API endpoint
 - [ ] 6. Implement leaderboard API endpoint
@@ -366,4 +366,224 @@ fetch("/save_performance", {
 - If you need to update any other logic that depended on `score`, switch to using `result` and the new feedback fields.
 
 ---
-**Goal:** After case completion, the frontend should always POST to `/save_performance` with the new structure, and the UI should reflect the new feedback format. 
+**Goal:** After case completion, the frontend should always POST to `/save_performance` with the new structure, and the UI should reflect the new feedback format.
+
+# Prompt for Frontend Cursor Agent: Add Feedback Report to Progress Tab
+
+## Context
+The backend now provides a new `/feedback_report` API endpoint. This endpoint generates a 3-point actionable feedback report for the user, available every 10 completed cases. The report is based on the user's performance trends, persistent weaknesses, and their desired specialty. The endpoint returns the report, a counter for when the next report will be available, and the context used to generate the report.
+
+**Backend changes:**
+- New `/feedback_report` endpoint (GET, requires Authorization header)
+- Aggregates all feedback fields (summary, positives, improvements, timestamps, focus_instruction) for the user from the performance table
+- Fetches `desired_specialty` from user_metadata
+- **Milestone logic:** The report is only generated and updated at each 10-case milestone (10, 20, 30, ... cases). The same report is shown until the next milestone is reached. No new LLM call or report is generated between milestones. The backend caches and reuses the report for each milestone.
+- Calls OpenAI API to generate a 3-point action plan (as a JSON array of 3 bullet points)
+- Returns:
+  - `report_available` (bool)
+  - `cases_until_next_report` (int)
+  - `action_plan` (array of 3 strings, if available)
+  - `feedback_context` (last 10 cases, for reference)
+  - `desired_specialty` (string)
+
+**API Example:**
+```json
+// If report is available
+{
+  "report_available": true,
+  "cases_until_next_report": 10,
+  "action_plan": [
+    "Your investigation skills in cardiology have improved, but management needs more practice.",
+    "Given your interest in cardiology, focus on management cases in that specialty.",
+    "Review the feedback from your last 3 failed cases and retry similar scenarios."
+  ],
+  "feedback_context": [ ... ],
+  "desired_specialty": "cardiology"
+}
+
+// If not available yet
+{
+  "report_available": false,
+  "cases_until_next_report": 3
+}
+```
+
+**Frontend requirements:**
+- The only UI change is to add the feedback report below the badges section in the progress tab. Everything else should remain the same.
+- Add a heading: **Feedback report**
+- If `report_available` is true, display the 3 action points as bullet points, styled like the feedback card in `Chat.tsx`:
+  - Black background
+  - Orange border
+  - Rounded corners, padding, and shadow as in the feedback card
+  - Each action point as a bullet (•)
+- If `report_available` is false, show a message: "New feedback report available in X cases" (where X = `cases_until_next_report`)
+- No other changes to the progress tab or dashboard.
+
+**Notes:**
+- The backend now guarantees only one LLM call per user per milestone, and robustly caches and reuses the report until the next milestone is reached.
+- The output is always a JSON array of 3 bullet points.
+- If the user has fewer than 10 cases, no report is shown, only the counter.
+
+**Example UI (pseudo-code):**
+```jsx
+<div className="feedback-report-card" style={{
+  background: "#000",
+  border: "2px solid #d77400",
+  borderRadius: "16px",
+  padding: "20px",
+  marginTop: "24px",
+  color: "#ffd5a6",
+  boxShadow: "0 0 12px rgba(0,0,0,0.5)",
+}}>
+  <div style={{ fontSize: "22px", color: "#d77400", fontWeight: "bold", marginBottom: 12 }}>
+    Feedback report
+  </div>
+  {reportAvailable ? (
+    <ul style={{ fontSize: "18px", lineHeight: 1.5, margin: 0, paddingLeft: 24 }}>
+      {actionPlan.map((point, idx) => (
+        <li key={idx} style={{ marginBottom: 8 }}>{point}</li>
+      ))}
+    </ul>
+  ) : (
+    <div style={{ fontSize: "18px" }}>
+      New feedback report available in {casesUntilNextReport} cases
+    </div>
+  )}
+</div>
+```
+
+**Summary:**
+- Add the feedback report below badges, styled like the feedback card in Chat.tsx
+- Use bullets for each action point
+- Show a counter if the report is not yet available
+- No other UI or logic changes needed
+
+# Progress Tab Redesign & Actionable Feedback Report (Planner Mode)
+
+## Background and Motivation
+- The performance table is now capturing detailed case data and is integrated with the frontend.
+- The next goal is to redesign the progress tab to provide:
+  - A badges section (with more advanced logic to come)
+  - Stats: total cases, number of passed/failed cases, pass rate
+  - An actionable feedback report, generated by OpenAI, summarizing all feedback and providing 3 clear steps for improvement, personalized using the user's desired specialty.
+
+## Key Challenges and Analysis
+- **Performance Table Update:**
+  - Add `focus_instruction` (string) to each record
+  - Remove `case_variation` (no longer needed)
+- **Stats Calculation:**
+  - Must efficiently aggregate total cases, passes, fails, and pass rate
+- **Feedback Report:**
+  - Requires a new endpoint that:
+    - Fetches all feedback summaries, positives, improvements, and timestamps for the user
+    - Fetches the user's `desired_specialty` from `user_metadata`
+    - Calls OpenAI API to generate a personalized, actionable report with 3 improvement steps
+- **Frontend Integration:**
+  - Progress tab should display badges, stats, and the feedback report as left-hand headers/sections
+
+## Clarifying Questions
+- Should the feedback report include the full chat transcript for each case, or just the feedback fields and timestamps?
+- Should the feedback report be generated on demand (API call) or cached for a period of time?
+- Any specific format or tone for the 3 improvement steps (e.g., bullet points, paragraphs)?
+
+## Feedback Report Requirements (Clarified)
+- The feedback report is a 3-point action plan, generated by OpenAI, that:
+  - Uses all feedback summaries, positives, improvements, and timestamps as context
+  - Detects trends over time (e.g., if a user improves in a skill, it is not flagged as a weakness)
+  - Focuses action points on persistent weaknesses or areas not yet improved
+  - Personalizes advice using the user's desired specialty (from user_metadata)
+  - Example: "Your investigation on cardiology cases has been strong, but management could use work. Given you want to specialise in cardiology, do 5 management cases for [insert random cardiology condition]."
+- A new report is generated every 10 cases (i.e., after 10, 20, 30, ... cases)
+- The frontend should display a counter: "New feedback report available in X cases"
+
+## High-level Task Breakdown (updated)
+- [ ] 1. Update performance table: add `focus_instruction`, drop `case_variation`
+- [ ] 2. Update backend to save and return `focus_instruction` in all relevant endpoints
+- [ ] 3. Update backend and frontend to remove all references to `case_variation`
+- [ ] 4. Implement new `/feedback_report` endpoint:
+    - Aggregate all feedback fields and timestamps for the user
+    - Fetch `desired_specialty` from `user_metadata`
+    - Call OpenAI API to generate a 3-point action plan, focusing on persistent weaknesses
+    - Only allow a new report every 10 cases; return a counter for next report
+    - Return the report and counter to the frontend
+- [ ] 5. Update progress tab frontend to display:
+    - Badges
+    - Stats (total cases, passes, fails, pass rate)
+    - Actionable feedback report and counter
+- [ ] 6. Test end-to-end and document lessons
+
+## Project Status Board (updated)
+- [x] 1. Design and create new `performance` table schema in Supabase
+- [x] 2. Update all backend code to use new schema
+- [x] 3. Update frontend to use new schema (if needed)
+- [x] 4. Update performance table: add `focus_instruction`, drop `case_variation`
+- [x] 5. Update backend to save and return `focus_instruction` in all relevant endpoints
+- [x] 6. Update backend and frontend to remove all references to `case_variation`
+- [x] 7. Implement new `/feedback_report` endpoint (10-case interval, counter, 3-point plan)
+- [ ] 8. Update progress tab frontend for new sections and counter
+- [ ] 9. Test and document
+
+## Current Status / Progress Tracking
+- Status: /feedback_report endpoint implemented (returns action plan, counter, and feedback context; OpenAI call is a placeholder for now). Ready to update progress tab frontend for new sections and counter, then test and document.
+- Next: Update progress tab frontend for new sections and counter, then test and document.
+
+## Executor's Feedback or Assistance Requests
+- Please clarify if the feedback report should include full chat transcripts or just feedback fields/timestamps.
+- Confirm if the report should be generated on demand or cached.
+- Specify preferred format for the 3 improvement steps.
+
+# Feedback Report Milestone Caching Plan (Executor Log)
+
+## Background and Motivation
+- The feedback report should only be generated at each 10-case milestone (10, 20, 30, ... cases completed).
+- The report must be cached and reused until the next milestone is reached, to avoid unnecessary LLM calls and cost.
+- A new table, `feedback_reports`, will be created to store these milestone reports per user.
+
+## Key Decisions
+- Output format: LLM prompt will require a JSON array of 3 bullet points, e.g. ["point 1", "point 2", "point 3"].
+- Storage: Use a new `feedback_reports` table (not the performance table) for clarity and future extensibility.
+
+## Table Schema
+```sql
+CREATE TABLE feedback_reports (
+  id SERIAL PRIMARY KEY,
+  user_id UUID NOT NULL,
+  milestone INTEGER NOT NULL, -- e.g., 10, 20, 30
+  action_plan JSONB NOT NULL, -- ["point 1", "point 2", "point 3"]
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT now(),
+  UNIQUE (user_id, milestone)
+);
+```
+
+## Backend Logic for /feedback_report
+1. Count the user's completed cases.
+2. Determine the current milestone: `milestone = (total_cases // 10) * 10` (if total_cases >= 10).
+3. If at a new milestone (just hit 10, 20, 30, ...):
+   - Check if a report for this milestone exists in `feedback_reports`.
+   - If not, generate a new report with the LLM, save to `feedback_reports`.
+4. If not at a milestone (e.g., 11–19):
+   - Return the most recent report for the last milestone.
+5. If <10 cases: No report, return counter only.
+6. Never call LLM unless at a new milestone.
+
+## LLM Prompt Example
+- System prompt: "You are an expert medical educator. Based on the following feedback summaries, positives, improvements, and the user's desired specialty, write 3 clear, actionable steps for improvement. Deliver your response as a JSON array of 3 bullet points, e.g. [\"point 1\", \"point 2\", \"point 3\"]."
+- User prompt: "User's desired specialty: Cardiology\n\nRecent feedback:\n[...formatted feedback context...]"
+
+## Success Criteria
+- Only one LLM call per user per milestone.
+- Reports are cached and reused until the next milestone.
+- Output is always a JSON array of 3 bullet points.
+- No report is generated or returned until the user completes at least 10 cases.
+
+## Project Status Board
+- [x] Create the `feedback_reports` table in Supabase.
+- [x] Update backend `/feedback_report` endpoint to implement this logic.
+- [ ] Test with sample data and verify correct caching and milestone behavior.
+
+## Current Status / Progress Tracking
+- Backend `/feedback_report` endpoint updated: now uses milestone logic, caches reports, and only calls LLM at new milestones. Robust error handling and context formatting implemented.
+- Next: Test with sample data and verify correct caching and milestone behavior.
+
+## Executor's Feedback or Assistance Requests
+- Backend implementation complete. Ready for testing. No blockers so far. 

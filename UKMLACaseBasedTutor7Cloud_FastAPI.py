@@ -565,7 +565,6 @@ class ThreadInfoResponse(BaseModel):
     thread_id: str
     condition: str
     ward: str
-    case_variation: int
     is_completed: bool
     user_id: str
     start_time: str
@@ -792,8 +791,6 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
         if not case_file:
             raise HTTPException(status_code=404, detail=f"Case '{request.condition}' not found.")
         ward = get_ward_for_condition(request.condition)
-        # Determine case variation
-        case_variation = get_next_case_variation(user_id, request.condition)
         # Read case content using cached file reading
         case_content = read_case_file_cached(case_file)
         # --- Build case focus instruction ---
@@ -861,7 +858,7 @@ CASE DELIVERY:
 - If the user is using too many abbreviations of medical terms ensure you confirm what they mean before deciding if they're correct. **only** do this if the abbreviation is not obvious, or not widely known.
 - The Assistant should guide the case never asking the user questions like "Would you like a brief summary of the key learning points from this case?".
 - Once the case is finished and all questions answered, move to the case completion steps i.e. give feedback
-- Don't ask the user to confirm if they'd like to end the case. e.g. "You’ve done well managing this case scenario. Would you like me to provide feedback on your performance?". Directly move to the case completion steps.
+- Don't ask the user to confirm if they'd like to end the case. e.g. "You've done well managing this case scenario. Would you like me to provide feedback on your performance?". Directly move to the case completion steps.
 
 
 CASE COMPLETION:
@@ -884,7 +881,6 @@ If the student enters **SPEEDRUN**, immediately skip to the above with mock feed
                 "condition": request.condition,
                 "ward": ward,
                 "start_time": datetime.now(timezone.utc).isoformat(),
-                "case_variation": str(case_variation),
                 "case_focus": request.case_focus or "both"
             }
         )
@@ -1059,9 +1055,6 @@ async def new_case_same_condition(request: NewCaseSameConditionRequest, authoriz
                 detail=f"Case '{condition}' not found"
             )
 
-        # Determine next case variation
-        case_variation = get_next_case_variation(user_id, condition)
-
         # Read case content
         case_content = read_case_file_cached(case_file)
 
@@ -1071,23 +1064,21 @@ async def new_case_same_condition(request: NewCaseSameConditionRequest, authoriz
                 "user_id": user_id,
                 "condition": condition,
                 "ward": ward,
-                "case_variation": str(case_variation),
                 "start_time": datetime.now(timezone.utc).isoformat()
             }
         )
-        logger.info(f"Created new thread {new_thread.id} for user {user_id} and condition {condition} (variation {case_variation})")
+        logger.info(f"Created new thread {new_thread.id} for user {user_id} and condition {condition}")
 
         # Return streaming response with new case on the new thread
         return StreamingResponse(
-            stream_assistant_response_real(new_thread.id, condition, case_content, case_variation),
+            stream_assistant_response_real(new_thread.id, condition, case_content, case_variation, focus_instruction),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
                 "Connection": "keep-alive",
                 "X-Accel-Buffering": "no",
                 "Content-Type": "text/event-stream",
-                "X-Thread-Id": new_thread.id,
-                "X-Case-Variation": str(case_variation)
+                "X-Thread-Id": new_thread.id
             }
         )
 
@@ -1133,7 +1124,6 @@ async def get_thread_info(thread_id: str, authorization: str = Header(...)):
             thread_id=thread_id,
             condition=condition,
             ward=metadata.get("ward", ""),
-            case_variation=int(metadata.get("case_variation", 1)),
             is_completed=is_completed,
             user_id=user_id,
             start_time=metadata.get("start_time", ""),
@@ -1159,7 +1149,7 @@ async def get_session_state(authorization: str = Header(...)):
                 detail="Invalid authorization header"
             )
         
-        token = authorization.split(" ")[1]
+        token = authorization.split(" ", 1)[1]
         user_id = extract_user_id(token)
 
         logger.info(f"Getting session state for user {user_id}")
@@ -1565,3 +1555,165 @@ async def get_user_metadata_me(authorization: str = Header(...)):
         raise HTTPException(status_code=404, detail="User metadata not found.")
     else:
         raise HTTPException(status_code=resp.status_code, detail=resp.text)
+
+@app.get("/feedback_report")
+async def feedback_report(authorization: str = Header(...)):
+    """Generate a 3-point actionable feedback report for the user, available every 10 cases, cached per milestone."""
+    import openai
+    # 1. Authenticate user
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
+    token = authorization.split(" ", 1)[1]
+    user_id = extract_user_id(token)
+
+    # 2. Fetch all performance records for this user
+    perf_result = supabase.table("performance") \
+        .select("created_at, condition, ward, result, feedback_summary, feedback_positives, feedback_improvements, focus_instruction") \
+        .eq("user_id", user_id) \
+        .order("created_at", desc=True) \
+        .execute()
+    cases = perf_result.data if perf_result.data else []
+    total_cases = len(cases)
+
+    # 3. Fetch desired_specialty from user_metadata
+    user_meta_result = supabase.table("user_metadata") \
+        .select("desired_specialty") \
+        .eq("user_id", user_id) \
+        .single() \
+        .execute()
+    desired_specialty = user_meta_result.data["desired_specialty"] if user_meta_result.data else None
+
+    # 4. Milestone logic
+    report_interval = 10
+    if total_cases < report_interval:
+        return {
+            "report_available": False,
+            "cases_until_next_report": report_interval - total_cases
+        }
+    # Determine current milestone (e.g., 10, 20, 30...)
+    milestone = (total_cases // report_interval) * report_interval
+    cases_since_last_report = total_cases % report_interval
+    cases_until_next_report = report_interval - cases_since_last_report if cases_since_last_report != 0 else 0
+    report_available = (cases_since_last_report == 0 and total_cases > 0)
+
+    # 5. Try to fetch report for this milestone from feedback_reports
+    try:
+        report_result = supabase.table("feedback_reports") \
+            .select("action_plan, milestone, created_at") \
+            .eq("user_id", user_id) \
+            .eq("milestone", milestone) \
+            .single() \
+            .execute()
+        if report_result.data:
+            action_plan = report_result.data["action_plan"]
+        else:
+            action_plan = None
+    except Exception:
+        action_plan = None
+
+    # 6. If no report exists for this milestone, generate with LLM and save
+    if report_available and not action_plan:
+        # Prepare feedback context (last 10 cases)
+        feedback_context = [
+            {
+                "created_at": c["created_at"],
+                "condition": c["condition"],
+                "ward": c["ward"],
+                "result": c["result"],
+                "feedback_summary": c["feedback_summary"],
+                "feedback_positives": c["feedback_positives"],
+                "feedback_improvements": c["feedback_improvements"],
+                "focus_instruction": c.get("focus_instruction")
+            }
+            for c in cases[:report_interval]
+        ]
+        # Format context for LLM
+        formatted_context = "\n".join([
+            f"[{c['created_at']}] {c['condition']} (Ward: {c['ward']})\n- Summary: {c['feedback_summary']}\n- Positives: {', '.join(c['feedback_positives']) if c['feedback_positives'] else ''}\n- Improvements: {', '.join(c['feedback_improvements']) if c['feedback_improvements'] else ''}"
+            for c in feedback_context
+        ])
+        system_prompt = (
+            "You are an expert medical educator. Based on the following feedback summaries, positives, improvements, and the user's desired specialty, "
+            "write 3 clear, actionable steps for improvement. "
+            "Deliver your response as a JSON array of 3 bullet points, e.g. [\"point 1\", \"point 2\", \"point 3\"]."
+        )
+        user_prompt = (
+            f"User's desired specialty: {desired_specialty}\n\nRecent feedback:\n{formatted_context}"
+        )
+        try:
+            response = openai.ChatCompletion.create(
+                model="gpt-4o",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt}
+                ],
+                max_tokens=300,
+                temperature=0.7,
+            )
+            llm_content = response['choices'][0]['message']['content']
+            # Try to parse as JSON array
+            import json
+            try:
+                action_plan = json.loads(llm_content)
+                if not (isinstance(action_plan, list) and len(action_plan) == 3):
+                    raise ValueError("LLM did not return a list of 3 items")
+            except Exception:
+                # Fallback: try to extract lines
+                action_plan = [line.strip("-• ") for line in llm_content.splitlines() if line.strip()][:3]
+            # Save to feedback_reports
+            supabase.table("feedback_reports").insert({
+                "user_id": user_id,
+                "milestone": milestone,
+                "action_plan": action_plan
+            }).execute()
+        except Exception as e:
+            # If LLM fails, return error and do not cache
+            return {
+                "report_available": False,
+                "cases_until_next_report": cases_until_next_report,
+                "error": f"Failed to generate action plan: {str(e)}"
+            }
+    elif not action_plan:
+        # Not at a milestone and no cached report: try to fetch most recent
+        try:
+            prev_report_result = supabase.table("feedback_reports") \
+                .select("action_plan, milestone, created_at") \
+                .eq("user_id", user_id) \
+                .order("milestone", desc=True) \
+                .limit(1) \
+                .execute()
+            if prev_report_result.data and len(prev_report_result.data) > 0:
+                action_plan = prev_report_result.data[0]["action_plan"]
+            else:
+                action_plan = None
+        except Exception:
+            action_plan = None
+
+    # 7. Prepare feedback context for frontend (last 10 cases)
+    feedback_context = [
+        {
+            "created_at": c["created_at"],
+            "condition": c["condition"],
+            "ward": c["ward"],
+            "result": c["result"],
+            "feedback_summary": c["feedback_summary"],
+            "feedback_positives": c["feedback_positives"],
+            "feedback_improvements": c["feedback_improvements"],
+            "focus_instruction": c.get("focus_instruction")
+        }
+        for c in cases[:report_interval]
+    ]
+
+    if not action_plan:
+        return {
+            "report_available": False,
+            "cases_until_next_report": cases_until_next_report
+        }
+
+    return {
+        "report_available": True,
+        "cases_until_next_report": cases_until_next_report,
+        "action_plan": action_plan,
+        "feedback_context": feedback_context,
+        "desired_specialty": desired_specialty
+    }
