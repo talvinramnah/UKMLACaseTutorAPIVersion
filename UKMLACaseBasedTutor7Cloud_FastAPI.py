@@ -1513,3 +1513,69 @@ async def feedback_report(authorization: str = Header(...)):
         "feedback_context": feedback_context,
         "desired_specialty": desired_specialty
     }
+
+async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, focus_instruction: str) -> AsyncGenerator[str, None]:
+    """Stream assistant responses using OpenAI's native streaming API with turn boundaries (for /start_case and /new_case_same_condition)."""
+    try:
+        # Compose the system prompt (should match /start_case logic)
+        # This is just for context, as the actual prompt is sent in the /start_case endpoint
+        # Send initial case prompt
+        client.beta.threads.messages.create(
+            thread_id=thread_id,
+            role="user",
+            content=case_content  # The system prompt is already included in the /start_case logic
+        )
+        # Create streaming run using OpenAI's native streaming
+        with client.beta.threads.runs.stream(
+            thread_id=thread_id,
+            assistant_id=ASSISTANT_ID
+        ) as stream:
+            turn_buffer = ""
+            for event in stream:
+                # Handle text delta events (real-time chunks)
+                if event.event == 'thread.message.delta':
+                    if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
+                        for content in event.data.delta.content:
+                            if content.type == 'text' and hasattr(content.text, 'value'):
+                                chunk = content.text.value
+                                if chunk:
+                                    turn_buffer += chunk
+                                    yield f"data: {{\"content\": {json.dumps(chunk)} }}\n\n"
+                # Handle run completion (end of turn)
+                elif event.event == 'thread.run.completed':
+                    yield f"data: {{\"turn_complete\": true}}\n\n"
+                    # Check for [CASE COMPLETED] in the turn_buffer
+                    if "[CASE COMPLETED]" in turn_buffer:
+                        try:
+                            completion_index = turn_buffer.find("[CASE COMPLETED]")
+                            json_text = turn_buffer[completion_index + len("[CASE COMPLETED]"):].strip()
+                            feedback_json = json.loads(json_text)
+                            feedback = feedback_json.get("feedback")
+                            score = feedback_json.get("score")
+                            final_data = json.dumps({
+                                "type": "case_completed",
+                                "score": score,
+                                "feedback": feedback
+                            })
+                            yield f"data: {final_data}\n\n"
+                        except Exception as e:
+                            error_data = json.dumps({"error": f"Failed to parse case completion: {str(e)}"})
+                            yield f"data: {error_data}\n\n"
+                    break
+                elif event.event == 'thread.run.failed':
+                    error_data = json.dumps({
+                        'error': f'Run failed: {event.data.last_error}'
+                    })
+                    yield f"data: {error_data}\n\n"
+                    break
+                elif event.event == 'thread.run.expired':
+                    error_data = json.dumps({
+                        'error': 'Run expired'
+                    })
+                    yield f"data: {error_data}\n\n"
+                    break
+    except Exception as e:
+        logger.error(f"Error in stream_assistant_response_real: {str(e)}")
+        yield f"data: {{\"error\": {json.dumps(str(e))} }}\n\n"
+        # Always send turn_complete so frontend can recover
+        yield f"data: {{\"turn_complete\": true}}\n\n"
