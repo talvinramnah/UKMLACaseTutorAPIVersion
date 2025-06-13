@@ -568,7 +568,6 @@ class ThreadInfoResponse(BaseModel):
     is_completed: bool
     user_id: str
     start_time: str
-    next_case_variation: int
 
 class SessionStateResponse(BaseModel):
     active_threads: List[Dict[str, Any]]
@@ -602,176 +601,6 @@ def get_wards(authorization: Optional[str] = Header(None)):
                 wards[ward_name] = cases
     logger.info(f"Returning wards structure: {wards}")
     return {"wards": wards}
-
-def get_next_case_variation(user_id: str, condition: str) -> int:
-    """
-    Get the next unused case variation number for this user and condition.
-    Args:
-        user_id (str): The user's unique identifier (UUID).
-        condition (str): The case/condition name.
-    Returns:
-        int: The next unused variation number (starting from 1).
-    """
-    try:
-        # Query completed cases for this user and condition
-        result = supabase.table("performance") \
-            .select("case_variation") \
-            .eq("user_id", user_id) \
-            .eq("condition", condition) \
-            .execute()
-        if not result.data:
-            return 1  # First case
-
-        # Get all used variations (ensure int conversion and skip None)
-        used_variations = set(
-            int(record.get('case_variation', 0))
-            for record in result.data
-            if record.get('case_variation') is not None
-        )
-
-        # Find the next unused variation number
-        variation = 1
-        while variation in used_variations:
-            variation += 1
-
-        return variation
-    except Exception as e:
-        logger.error(f"Error in get_next_case_variation for user_id={user_id}, condition={condition}: {str(e)}")
-        # If there's an error, default to variation 1
-        return 1
-
-# --- UX NAVIGATION HELPER FUNCTIONS ---
-
-def get_thread_metadata(thread_id: str, user_id: str) -> Optional[Dict[str, Any]]:
-    """Retrieve and validate thread metadata for the authenticated user."""
-    try:
-        # Retrieve thread from OpenAI
-        thread = client.beta.threads.retrieve(thread_id=thread_id)
-        metadata = thread.metadata
-        
-        # Verify user owns this thread
-        if metadata.get("user_id") != user_id:
-            logger.warning(f"User {user_id} attempted to access thread {thread_id} owned by {metadata.get('user_id')}")
-            return None
-            
-        return metadata
-    except Exception as e:
-        logger.error(f"Error retrieving thread metadata for thread_id={thread_id}: {str(e)}")
-        return None
-
-def is_case_completed_in_thread(thread_id: str) -> bool:
-    """Check if the current case in the thread is completed by scanning recent messages."""
-    try:
-        # Get recent messages from the thread
-        messages = client.beta.threads.messages.list(thread_id=thread_id, limit=5)
-        
-        # Check if any recent message contains the completion marker
-        for message in messages.data:
-            if message.role == "assistant":
-                content = message.content[0].text.value
-                if "[CASE COMPLETED]" in content:
-                    return True
-        
-        return False
-    except Exception as e:
-        logger.error(f"Error checking case completion for thread_id={thread_id}: {str(e)}")
-        return False
-
-def get_user_active_threads(user_id: str, limit: int = 10) -> List[Dict[str, Any]]:
-    """Get user's recent active threads from performance data."""
-    try:
-        # Get recent performance records to find active threads
-        result = supabase.table("performance") \
-            .select("*") \
-            .eq("user_id", user_id) \
-            .order("created_at", desc=True) \
-            .limit(limit) \
-            .execute()
-        if not result.data:
-            return []
-        threads = []
-        seen_conditions = set()
-        for record in result.data:
-            condition = record.get("condition")
-            if condition and condition not in seen_conditions:
-                threads.append({
-                    "condition": condition,
-                    "ward": record.get("ward"),
-                    "last_result": record.get("result"),
-                    "last_completed": record.get("created_at"),
-                    "case_variation": record.get("case_variation"),
-                    "feedback_summary": record.get("feedback_summary"),
-                    "feedback_positives": record.get("feedback_positives"),
-                    "feedback_improvements": record.get("feedback_improvements")
-                })
-                seen_conditions.add(condition)
-        return threads
-    except Exception as e:
-        logger.error(f"Error getting active threads for user_id={user_id}: {str(e)}")
-        return []
-
-async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, case_variation: int, system_prompt: str) -> AsyncGenerator[str, None]:
-    """Stream assistant responses using OpenAI's native streaming API with turn boundaries."""
-    try:
-        # Send initial case prompt
-        client.beta.threads.messages.create(
-            thread_id=thread_id,
-            role="user",
-            content=system_prompt
-        )
-
-        # Create streaming run using OpenAI's native streaming
-        with client.beta.threads.runs.stream(
-            thread_id=thread_id,
-            assistant_id=ASSISTANT_ID
-        ) as stream:
-            turn_buffer = ""
-            for event in stream:
-                # Handle text delta events (real-time chunks)
-                if event.event == 'thread.message.delta':
-                    if hasattr(event.data, 'delta') and hasattr(event.data.delta, 'content'):
-                        for content_block in event.data.delta.content:
-                            if content_block.type == 'text' and hasattr(content_block.text, 'value'):
-                                chunk = content_block.text.value
-                                if chunk:
-                                    turn_buffer += chunk
-                                    yield f"data: {{\"content\": {json.dumps(chunk)} }}\n\n"
-                # Handle run completion (end of turn)
-                elif event.event == 'thread.run.completed':
-                    # After the turn, send turn_complete
-                    yield f"data: {{\"turn_complete\": true}}\n\n"
-                    # Check for [CASE COMPLETED] in the turn_buffer
-                    if "[CASE COMPLETED]" in turn_buffer:
-                        try:
-                            completion_index = turn_buffer.find("[CASE COMPLETED]")
-                            json_text = turn_buffer[completion_index + len("[CASE COMPLETED]"):].strip()
-                            feedback_json = json.loads(json_text)
-                            feedback = feedback_json.get("feedback")
-                            score = feedback_json.get("score")
-                            final_data = json.dumps({
-                                "type": "case_completed",
-                                "score": score,
-                                "feedback": feedback
-                            })
-                            yield f"data: {final_data}\n\n"
-                        except Exception as e:
-                            error_data = json.dumps({"error": f"Failed to parse case completion: {str(e)}"})
-                            yield f"data: {error_data}\n\n"
-                    break
-                elif event.event == 'thread.run.failed':
-                    error_msg = 'Run failed'
-                    if hasattr(event.data, 'last_error') and event.data.last_error:
-                        error_msg = f'Run failed: {event.data.last_error}'
-                    yield f"data: {{\"error\": {json.dumps(error_msg)} }}\n\n"
-                    break
-                elif event.event == 'thread.run.expired':
-                    yield f"data: {{\"error\": \"Run expired\"}}\n\n"
-                    break
-    except Exception as e:
-        logger.error(f"Error in stream_assistant_response_real: {str(e)}")
-        yield f"data: {{\"error\": {json.dumps(str(e))} }}\n\n"
-        # Always send turn_complete so frontend can recover
-        yield f"data: {{\"turn_complete\": true}}\n\n"
 
 @app.post("/start_case")
 async def start_case(request: StartCaseRequest, authorization: str = Header(...)):
@@ -810,7 +639,7 @@ When building a case, follow the structure and style used in the attached GOOD e
 
 QUALITY GUARD: Before presenting the case to the student, compare your structure and logic to the GOOD acne case. If your structure lacks clinical clarity, stepwise progression, or specificity, revise it to match that format before outputting.
 
-GOAL: You are an expert UK-based medical educator with decades of experience. Begin a realistic, step-by-step UKMLA-style clinical case for the condition: **{request.condition}** (Variation {case_variation}).
+GOAL: You are an expert UK-based medical educator with decades of experience. Begin a realistic, step-by-step UKMLA-style clinical case for the condition: **{request.condition}**.
 
 CASE CONTENT (for internal guidance only – do not reveal directly):
 {case_content}
@@ -886,7 +715,7 @@ If the student enters **SPEEDRUN**, immediately skip to the above with mock feed
         )
         # --- Stream response ---
         return StreamingResponse(
-            stream_assistant_response_real(thread.id, request.condition, case_content, case_variation, system_prompt),
+            stream_assistant_response_real(thread.id, request.condition, case_content, focus_instruction),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
@@ -1018,47 +847,34 @@ async def continue_case(request: ContinueCaseRequest, authorization: str = Heade
 async def new_case_same_condition(request: NewCaseSameConditionRequest, authorization: str = Header(...)):
     """Start a new case variation for the same condition in an existing thread."""
     try:
-        # Validate token and get user ID
         if not authorization or not authorization.startswith("Bearer "):
             raise HTTPException(
                 status_code=status.HTTP_401_UNAUTHORIZED,
                 detail="Invalid authorization header"
             )
-        
-        token = authorization.split(" ")[1]
+        token = authorization.split(" ", 1)[1]
         user_id = extract_user_id(token)
-
-        logger.info(f"Starting new case variation for user {user_id} in thread {request.thread_id}")
-
-        # Get and validate thread metadata
+        logger.info(f"Starting new case for user {user_id} in thread {request.thread_id}")
         metadata = get_thread_metadata(request.thread_id, user_id)
         if not metadata:
             raise HTTPException(
                 status_code=404, 
                 detail="Thread not found or access denied"
             )
-
         condition = metadata.get("condition")
         ward = metadata.get("ward")
-        
         if not condition:
             raise HTTPException(
                 status_code=400,
                 detail="Thread missing condition metadata"
             )
-
-        # Get case file and content
         case_file = get_case_file(condition)
         if not case_file:
             raise HTTPException(
                 status_code=404, 
                 detail=f"Case '{condition}' not found"
             )
-
-        # Read case content
         case_content = read_case_file_cached(case_file)
-
-        # --- FIX: Create a new thread for the new case variation ---
         new_thread = client.beta.threads.create(
             metadata={
                 "user_id": user_id,
@@ -1067,11 +883,8 @@ async def new_case_same_condition(request: NewCaseSameConditionRequest, authoriz
                 "start_time": datetime.now(timezone.utc).isoformat()
             }
         )
-        logger.info(f"Created new thread {new_thread.id} for user {user_id} and condition {condition}")
-
-        # Return streaming response with new case on the new thread
         return StreamingResponse(
-            stream_assistant_response_real(new_thread.id, condition, case_content, case_variation, focus_instruction),
+            stream_assistant_response_real(new_thread.id, condition, case_content, focus_instruction),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
@@ -1081,7 +894,6 @@ async def new_case_same_condition(request: NewCaseSameConditionRequest, authoriz
                 "X-Thread-Id": new_thread.id
             }
         )
-
     except HTTPException:
         raise
     except Exception as e:
@@ -1092,46 +904,31 @@ async def new_case_same_condition(request: NewCaseSameConditionRequest, authoriz
 async def get_thread_info(thread_id: str, authorization: str = Header(...)):
     """Get thread metadata and current state for frontend restoration."""
     try:
-        # Validate token and get user ID
         if not authorization or not authorization.startswith("Bearer "):
             raise HTTPException(
                 status_code=status.HTTP_401_UNAUTHORIZED,
                 detail="Invalid authorization header"
             )
-        
-        token = authorization.split(" ")[1]
+        token = authorization.split(" ", 1)[1]
         user_id = extract_user_id(token)
-
         logger.info(f"Getting thread info for user {user_id}, thread {thread_id}")
-
-        # Get and validate thread metadata
         metadata = get_thread_metadata(thread_id, user_id)
         if not metadata:
             raise HTTPException(
                 status_code=404, 
                 detail="Thread not found or access denied"
             )
-
-        # Check if case is completed
         is_completed = is_case_completed_in_thread(thread_id)
-
-        # Get next case variation
         condition = metadata.get("condition", "")
-        next_case_variation = get_next_case_variation(user_id, condition)
-
-        # Build response
         response = ThreadInfoResponse(
             thread_id=thread_id,
             condition=condition,
             ward=metadata.get("ward", ""),
             is_completed=is_completed,
             user_id=user_id,
-            start_time=metadata.get("start_time", ""),
-            next_case_variation=next_case_variation
+            start_time=metadata.get("start_time", "")
         )
-
         return response
-
     except HTTPException:
         raise
     except Exception as e:
@@ -1236,11 +1033,10 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
         thread = client.beta.threads.retrieve(thread_id=request.thread_id)
         metadata = thread.metadata
         condition = metadata.get("condition")
-        case_variation = metadata.get("case_variation")
         ward = metadata.get("ward")
-        logger.info(f"Thread metadata: condition={condition}, case_variation={case_variation}, ward={ward}")
+        logger.info(f"Thread metadata: condition={condition}, case_variation={metadata.get('case_variation')}, ward={ward}")
 
-        if not all([condition, case_variation, ward]):
+        if not all([condition, ward]):
             logger.error("Missing required metadata in thread")
             return JSONResponse(
                 status_code=400,
@@ -1251,7 +1047,7 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
         performance_data = {
             "user_id": user_id,
             "condition": condition,
-            "case_variation": case_variation,
+            "case_variation": metadata.get('case_variation'),
             "result": request.result,
             "feedback_summary": request.feedback_summary,
             "feedback_positives": request.feedback_positives,
