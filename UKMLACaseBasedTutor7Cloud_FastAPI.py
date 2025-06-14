@@ -1047,7 +1047,6 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
         performance_data = {
             "user_id": user_id,
             "condition": condition,
-            "case_variation": metadata.get('case_variation'),
             "result": request.result,
             "feedback_summary": request.feedback_summary,
             "feedback_positives": request.feedback_positives,
