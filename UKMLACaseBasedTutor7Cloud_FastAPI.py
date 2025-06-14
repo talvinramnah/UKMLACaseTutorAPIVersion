@@ -715,7 +715,7 @@ If the student enters **SPEEDRUN**, immediately skip to the above with mock feed
         )
         # --- Stream response ---
         return StreamingResponse(
-            stream_assistant_response_real(thread.id, request.condition, case_content, focus_instruction),
+            stream_assistant_response_real(thread.id, system_prompt),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
@@ -884,7 +884,7 @@ async def new_case_same_condition(request: NewCaseSameConditionRequest, authoriz
             }
         )
         return StreamingResponse(
-            stream_assistant_response_real(new_thread.id, condition, case_content, focus_instruction),
+            stream_assistant_response_real(new_thread.id, system_prompt),
             media_type="text/event-stream",
             headers={
                 "Cache-Control": "no-cache",
@@ -1513,16 +1513,14 @@ async def feedback_report(authorization: str = Header(...)):
         "desired_specialty": desired_specialty
     }
 
-async def stream_assistant_response_real(thread_id: str, condition: str, case_content: str, focus_instruction: str) -> AsyncGenerator[str, None]:
+async def stream_assistant_response_real(thread_id: str, system_prompt: str) -> AsyncGenerator[str, None]:
     """Stream assistant responses using OpenAI's native streaming API with turn boundaries (for /start_case and /new_case_same_condition)."""
     try:
-        # Compose the system prompt (should match /start_case logic)
-        # This is just for context, as the actual prompt is sent in the /start_case endpoint
-        # Send initial case prompt
+        # Send the full system prompt as the initial user message
         client.beta.threads.messages.create(
             thread_id=thread_id,
             role="user",
-            content=case_content  # The system prompt is already included in the /start_case logic
+            content=system_prompt
         )
         # Create streaming run using OpenAI's native streaming
         with client.beta.threads.runs.stream(
