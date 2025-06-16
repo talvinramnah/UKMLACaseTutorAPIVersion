@@ -1466,11 +1466,19 @@ async def feedback_report(authorization: str = Header(...)):
                 "action_plan": action_plan
             }).execute()
         except Exception as e:
-            # If LLM fails, return error and do not cache
+            import traceback
+            logger.error(f"OpenAI feedback report error: {repr(e)}\n{traceback.format_exc()}")
+            # Try to extract OpenAI error details if present
+            error_detail = str(e)
+            if hasattr(e, 'response') and hasattr(e.response, 'text'):
+                try:
+                    error_detail += f" | OpenAI response: {e.response.text}"
+                except Exception:
+                    pass
             return {
                 "report_available": False,
                 "cases_until_next_report": cases_until_next_report,
-                "error": f"Failed to generate action plan: {str(e)}"
+                "error": f"Failed to generate action plan: {error_detail}"
             }
     elif not action_plan:
         # Not at a milestone and no cached report: try to fetch most recent
