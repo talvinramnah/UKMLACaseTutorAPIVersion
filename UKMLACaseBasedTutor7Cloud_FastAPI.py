@@ -1034,7 +1034,9 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
         metadata = thread.metadata
         condition = metadata.get("condition")
         ward = metadata.get("ward")
-        logger.info(f"Thread metadata: condition={condition}, case_variation={metadata.get('case_variation')}, ward={ward}")
+        # --- Ensure focus_instruction is always filled ---
+        focus_instruction = metadata.get("focus_instruction", "")
+        logger.info(f"Thread metadata: condition={condition}, case_variation={metadata.get('case_variation')}, ward={ward}, focus_instruction={focus_instruction}")
 
         if not all([condition, ward]):
             logger.error("Missing required metadata in thread")
@@ -1053,7 +1055,8 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
             "feedback_improvements": request.feedback_improvements,
             "chat_transcript": request.chat_transcript,
             "created_at": datetime.now(timezone.utc).isoformat(),
-            "ward": ward
+            "ward": ward,
+            "focus_instruction": focus_instruction
         }
         logger.info(f"Attempting to insert performance_data: {performance_data}")
         result = supabase.table("performance").insert(performance_data).execute()

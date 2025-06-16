@@ -75,6 +75,19 @@ UKMLA_API_Deployment_Files/
 - `SUPABASE_URL`: Your Supabase project URL
 - `SUPABASE_KEY`: Your Supabase API key
 
+## Bulk Insert Mock Performance Data (for Testing)
+
+To quickly insert mock performance data for testing feedback reports and milestone logic, use the provided script:
+
+```bash
+export SUPABASE_URL=your_supabase_url
+export SUPABASE_KEY=your_supabase_service_role_key
+python bulk_insert_mock_performance.py
+```
+
+- The script will insert 15 mock cases for the admin/test user (ID: 66fe36bf-ea9e-43c9-9446-d97e0c83e4e0).
+- You can adjust the number of cases, user ID, or mock data in the script as needed.
+
 ## Contributing
 
 1. Fork the repository
