@@ -375,7 +375,7 @@ else:
     logger.warning("Neither data/cases nor data directory found. Defaulting to data/")
     CASE_FILES_DIR = data_dir
 
-c# --- UTILITY: Enumerate all wards and conditions ---
+# --- UTILITY: Enumerate all wards and conditions ---
 def enumerate_wards_and_conditions() -> dict:
     """
     Returns a dictionary of all wards and their conditions from the data directory.
