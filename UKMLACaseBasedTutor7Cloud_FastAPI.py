@@ -1439,7 +1439,8 @@ async def feedback_report(authorization: str = Header(...)):
             f"User's desired specialty: {desired_specialty}\n\nRecent feedback:\n{formatted_context}"
         )
         try:
-            response = openai.ChatCompletion.create(
+            # Use the new OpenAI Python API (openai>=1.0.0)
+            response = client.chat.completions.create(
                 model="gpt-4o",
                 messages=[
                     {"role": "system", "content": system_prompt},
@@ -1448,7 +1449,7 @@ async def feedback_report(authorization: str = Header(...)):
                 max_tokens=300,
                 temperature=0.7,
             )
-            llm_content = response['choices'][0]['message']['content']
+            llm_content = response.choices[0].message.content
             # Try to parse as JSON array
             import json
             try:
