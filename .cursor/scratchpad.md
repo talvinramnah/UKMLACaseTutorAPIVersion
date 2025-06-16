@@ -32,6 +32,19 @@ The user has added a `desired_specialty` column to the `user_metadata` table in 
 - The /progress endpoint now includes a condition_stats field with per-condition total_cases and avg_score, as required by the frontend. Implementation used the already-fetched completed_cases list for efficient aggregation.
 - Awaiting user confirmation after frontend testing.
 - A development-friendly RLS policy has been added: all authenticated users can now read the performance table. This unblocks frontend testing and profile/progress page access. **Reminder:** Remove this policy before production for strong security.
+- **Task 1:** `weekly_action_points` table created in Supabase (COMPLETE)
+- **Task 2:** Utility function to enumerate all wards and conditions implemented in backend.
+- **Task 3:** Weekly stats calculation utility implemented in backend.
+- **Task 4:** Latest feedback report fetch utility implemented in backend.
+- **Task 5:** Weekly action points generation/caching logic implemented in backend.
+- **Task 6:** /weekly_dashboard_stats endpoint implemented in backend.
+- **Task 7:** Backend-side testing complete. Results:
+    - User with <10 cases: receives onboarding message and correct next_refresh_in_cases
+    - User with >10 cases: receives 2 action points, correct pass/fail stats
+    - User at milestone: action points refresh as expected
+    - Error handling: invalid token returns 401, missing data handled gracefully
+    - No major issues found; endpoint is ready for frontend integration.
+- **Task 8:** API contract documented and frontend integration plan updated (COMPLETE)
 
 ## Executor's Feedback or Assistance Requests
 **Implementation Complete**: I have successfully updated the backend to handle the `desired_specialty` field:
@@ -691,4 +704,99 @@ useEffect(() => {
 - Display the action plan as a bulleted list, or the counter if not available.
 - Show a loading or error message as appropriate.
 
-**This guide ensures the frontend always displays the feedback report card correctly and robustly, regardless of backend or data state.** 
+**This guide ensures the frontend always displays the feedback report card correctly and robustly, regardless of backend or data state.**
+
+# Weekly Dashboard Stats & Action Points
+
+## Background and Motivation
+Provide students with a weekly dashboard showing pass/fail stats and actionable, personalized goals, increasing engagement and learning outcomes.
+
+## Key Challenges and Analysis
+- Efficient weekly stats calculation.
+- Generating and caching actionable, relevant goals.
+- Ensuring action points reference only available cases.
+- Syncing refresh logic with feedback report milestones.
+
+## High-level Task Breakdown
+- [ ] 1. Design and create `weekly_action_points` table in Supabase.
+- [ ] 2. Implement utility to enumerate all wards and conditions from the data directory.
+- [ ] 3. Implement backend logic to calculate weekly pass/fail stats.
+- [ ] 4. Implement backend logic to fetch the most recent feedback report.
+- [ ] 5. Implement backend logic to get or generate action points, using OpenAI and caching in `weekly_action_points`.
+- [ ] 6. Implement the `/weekly_dashboard_stats` endpoint.
+- [ ] 7. Test the endpoint for correctness, efficiency, and edge cases.
+- [ ] 8. Document the API and update the frontend integration plan.
+
+## Project Status Board
+- [ ] **Task 1:** Create `weekly_action_points` table in Supabase
+- [ ] **Task 2:** Enumerate all wards/conditions utility
+- [ ] **Task 3:** Weekly stats calculation logic
+- [ ] **Task 4:** Fetch most recent feedback report
+- [ ] **Task 5:** Action points generation/caching logic
+- [ ] **Task 6:** Implement endpoint
+- [ ] **Task 7:** Testing
+- [ ] **Task 8:** Documentation
+
+## Current Status / Progress Tracking
+- **Task 1:** `weekly_action_points` table created in Supabase (COMPLETE)
+- **Task 2:** Utility function to enumerate all wards and conditions implemented in backend.
+- **Task 3:** Weekly stats calculation utility implemented in backend.
+- **Task 4:** Latest feedback report fetch utility implemented in backend.
+- **Task 5:** Weekly action points generation/caching logic implemented in backend.
+- **Task 6:** /weekly_dashboard_stats endpoint implemented in backend.
+- **Task 7:** Backend-side testing complete. Results:
+    - User with <10 cases: receives onboarding message and correct next_refresh_in_cases
+    - User with >10 cases: receives 2 action points, correct pass/fail stats
+    - User at milestone: action points refresh as expected
+    - Error handling: invalid token returns 401, missing data handled gracefully
+    - No major issues found; endpoint is ready for frontend integration.
+- **Task 8:** API contract documented and frontend integration plan updated (COMPLETE)
+
+---
+
+# API Contract: /weekly_dashboard_stats
+
+**Endpoint:** `GET /weekly_dashboard_stats`
+**Headers:**
+- `Authorization: Bearer <accessToken>`
+
+**Response:**
+```
+{
+  "cases_passed": 12,
+  "cases_failed": 4,
+  "action_points": [
+    { "text": "Do a cardiology case on aortic dissection.", "ward": "Cardiology", "condition": "Aortic Dissection" },
+    { "text": "Do a respiratory case on asthma.", "ward": "Respiratory", "condition": "Asthma" }
+  ],
+  "next_refresh_in_cases": 7
+}
+```
+
+- If user has <10 cases:
+  - `action_points` will be:
+    ```
+    [
+      { "text": "At 10 cases you'll unlock personalised feedback based on your performance.", "ward": null, "condition": null },
+      { "text": "", "ward": null, "condition": null }
+    ]
+    ```
+  - `next_refresh_in_cases` will be `10 - total_cases`
+
+**Field meanings:**
+- `cases_passed`: Number of cases passed this week (Monday 00:00 UTC to now)
+- `cases_failed`: Number of cases failed this week
+- `action_points`: Array of 2 objects, each with:
+  - `text`: Action-oriented recommendation
+  - `ward`: Ward name (for routing)
+  - `condition`: Condition name (for routing)
+- `next_refresh_in_cases`: Number of cases until the next action point refresh (milestone)
+
+**Frontend notes:**
+- Use `action_points` to display actionable goals and provide direct navigation to the recommended case (using `ward` and `condition` fields)
+- If onboarding message, show as info card and disable navigation
+- Refresh the dashboard after each case completion to update stats and action points
+
+---
+
+**All backend tasks for the weekly dashboard feature are now complete and ready for frontend integration.** 

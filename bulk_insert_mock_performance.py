@@ -6,35 +6,49 @@ from supabase import create_client
 # --- CONFIGURATION ---
 SUPABASE_URL = "https://wvfjgfqbfagxctyifhxu.supabase.co"
 SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind2ZmpnZnFiZmFneGN0eWlmaHh1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUwNzE2MzAsImV4cCI6MjA2MDY0NzYzMH0.TuPSRD2A-JfQ0cWDaqG28YIJO2ph1QY_1lRAzPHDvE8"
-USER_ID = "66fe36bf-ea9e-43c9-9446-d97e0c83e4e0"  # Admin/test user
+USER_ID = "6b8130fc-3eed-471b-b7bd-93ffc21c5fb0"  # Admin/test user
 N_CASES = 15  # Number of mock cases to insert
 
 # Example wards and conditions for variety
 WARDS = [
-    "Cardiology", "Respiratory", "Ent", "Paediatrics", "Ophthalmology"
+    "Cardiology", "Respiratory", "Ent", "Paediatrics", "Ophthalmology", "Infectious Diseases", "Dermatology"
 ]
 CONDITIONS = [
-    "Acute Myocardial Infarction", "Asthma", "Otitis Media", "Bronchiolitis", "Conjunctivitis"
+    "Acute Myocardial Infarction", "Asthma", "Otitis Media", "Bronchiolitis", "Conjunctivitis", "Pneumonia", "Urinary Tract Infection", "Diabetes", "Hypertension", "Stroke", "Anxiety", "Depression"
 ]
 
 # Example feedback
 FEEDBACK_SUMMARIES = [
-    "Good clinical reasoning, but missed a key investigation.",
-    "Excellent management plan, but history could be more detailed.",
-    "Solid case, but needs to clarify drug allergies.",
-    "Great communication, but missed a red flag symptom."
+    "Good clinical reasoning demonstrated but missed some key investigations that would have helped confirm diagnosis.",
+    "Excellent management plan and treatment choices, but patient history could be more detailed and structured.",
+    "Solid case management overall, but needs to clarify drug allergies and medication history more thoroughly.",
+    "Great communication skills and rapport with patient, but missed some important red flag symptoms to rule out.",
+    "Appropriate initial assessment, but differential diagnosis could have been broader with more systematic approach.",
+    "Strong diagnostic skills shown, however safety netting advice could have been more comprehensive.",
+    "Good recognition of severity, but documentation of vital signs and clinical findings could be more detailed.",
+    "Excellent prioritization of issues, though follow-up plan needs more specific timeframes and triggers."
 ]
+
 POSITIVES = [
-    ["Clear history taking", "Good differential diagnosis"],
-    ["Identified key investigation", "Safe management plan"],
-    ["Excellent communication", "Thorough examination"],
-    ["Recognized urgent findings", "Escalated appropriately"]
+    ["Clear and systematic history taking approach", "Comprehensive differential diagnosis with good clinical reasoning"],
+    ["Identified and ordered all key investigations promptly", "Safe and evidence-based management plan"],
+    ["Excellent communication with clear explanation to patient", "Thorough physical examination with good technique"],
+    ["Recognized urgent clinical findings quickly", "Appropriately escalated with clear SBAR handover"],
+    ["Strong time management and prioritization", "Good documentation of clinical findings and plan"],
+    ["Excellent patient-centered approach", "Appropriate use of clinical guidelines and protocols"],
+    ["Clear safety-netting advice given", "Good recognition of clinical severity and risk"],
+    ["Effective multidisciplinary team communication", "Thorough medication review and reconciliation"]
 ]
+
 IMPROVEMENTS = [
-    ["Missed allergy check", "Could clarify drug doses"],
-    ["History lacked detail", "Missed social context"],
-    ["Did not ask about red flags", "Could improve structure"],
-    ["Missed a key investigation", "Management plan incomplete"]
+    ["Did not complete allergy history check", "Could clarify specific drug doses and frequencies"],
+    ["Patient history lacked important psychosocial context", "Missed key aspects of family history"],
+    ["Did not systematically assess for red flag symptoms", "Clinical examination structure needs improvement"],
+    ["Missed ordering some key baseline investigations", "Management plan missing specific review criteria"],
+    ["Limited exploration of patient's ideas and concerns", "Documentation could be more detailed and structured"],
+    ["Incomplete safety-netting advice given", "Follow-up plan needs clearer timeframes"],
+    ["Did not fully assess treatment response", "Missing important aspects of systems review"],
+    ["Communication with colleagues could be clearer", "Need to document clinical reasoning more explicitly"]
 ]
 FOCUS_INSTRUCTIONS = [
     "For this case, focus ONLY on investigation. Do not ask or discuss management.",

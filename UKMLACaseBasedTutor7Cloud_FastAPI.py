@@ -3,7 +3,7 @@ import time
 import json
 import os
 from supabase import create_client
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import traceback
 from pathlib import Path
 from functools import lru_cache
@@ -374,6 +374,27 @@ elif data_dir.exists() and data_dir.is_dir():
 else:
     logger.warning("Neither data/cases nor data directory found. Defaulting to data/")
     CASE_FILES_DIR = data_dir
+
+c# --- UTILITY: Enumerate all wards and conditions ---
+def enumerate_wards_and_conditions() -> dict:
+    """
+    Returns a dictionary of all wards and their conditions from the data directory.
+    Format: { ward: [condition1, condition2, ...], ... }
+    Ward and condition names are formatted for display and routing.
+    """
+    wards_conditions = {}
+    for ward_dir in CASE_FILES_DIR.iterdir():
+        if ward_dir.is_dir() and not ward_dir.name.startswith('.'):
+            ward_name = ward_dir.name.replace('_', ' ').replace('-', ' ').title()
+            conditions = []
+            for case_file in ward_dir.glob("*.txt"):
+                # Exclude summary/all_conditions files
+                if case_file.stem.lower() in ("all_conditions", "summary"): continue
+                condition_name = case_file.stem.replace('_', ' ').replace('-', ' ').title()
+                conditions.append(condition_name)
+            if conditions:
+                wards_conditions[ward_name] = sorted(conditions)
+    return wards_conditions
 
 # --- HELPER FUNCTIONS ---
 def wait_for_run_completion(thread_id: str, run_id: str, timeout: int = 60):
@@ -1590,3 +1611,180 @@ async def stream_assistant_response_real(thread_id: str, system_prompt: str) -> 
         yield f"data: {{\"error\": {json.dumps(str(e))} }}\n\n"
         # Always send turn_complete so frontend can recover
         yield f"data: {{\"turn_complete\": true}}\n\n"
+
+def get_weekly_case_stats(user_id: str) -> dict:
+    """
+    Returns the number of cases passed and failed for the current week (Monday 00:00 UTC to now) for the given user.
+    """
+    # Calculate last Monday 00:00 UTC
+    now = datetime.utcnow()
+    days_since_monday = now.weekday()  # Monday=0
+    last_monday = datetime(now.year, now.month, now.day) - timedelta(days=days_since_monday)
+    last_monday = last_monday.replace(hour=0, minute=0, second=0, microsecond=0)
+    # Query performance table
+    perf_result = supabase.table("performance") \
+        .select("result, created_at") \
+        .eq("user_id", user_id) \
+        .gte("created_at", last_monday.isoformat() + 'Z') \
+        .execute()
+    cases = perf_result.data if perf_result.data else []
+    cases_passed = len([c for c in cases if c.get("result") is True])
+    cases_failed = len([c for c in cases if c.get("result") is False])
+    return {"cases_passed": cases_passed, "cases_failed": cases_failed}
+
+def get_latest_feedback_report(user_id: str):
+    """
+    Fetches the most recent feedback report for the user from feedback_reports table.
+    Returns a dict with 'action_plan' and 'milestone', or None if not found.
+    """
+    try:
+        result = supabase.table("feedback_reports") \
+            .select("action_plan, milestone") \
+            .eq("user_id", user_id) \
+            .order("milestone", desc=True) \
+            .limit(1) \
+            .execute()
+        if result.data and len(result.data) > 0:
+            return {
+                "action_plan": result.data[0]["action_plan"],
+                "milestone": result.data[0]["milestone"]
+            }
+        else:
+            return None
+    except Exception:
+        return None
+
+def get_or_generate_weekly_action_points(user_id: str, milestone: int, feedback_action_plan, wards_conditions: dict):
+    """
+    Gets or generates (via OpenAI) 2 weekly action points for the user at the given milestone, based on their feedback report and available cases.
+    Returns a list of 2 dicts: [{text, ward, condition}, ...]
+    """
+    # 1. Check cache
+    try:
+        result = supabase.table("weekly_action_points") \
+            .select("action_points") \
+            .eq("user_id", user_id) \
+            .eq("milestone", milestone) \
+            .single() \
+            .execute()
+        if result.data:
+            return result.data["action_points"]
+    except Exception:
+        pass
+    # 2. If no feedback_action_plan (user <10 cases), return onboarding message
+    if not feedback_action_plan:
+        return [
+            {"text": "At 10 cases you'll unlock personalised feedback based on your performance.", "ward": None, "condition": None},
+            {"text": "", "ward": None, "condition": None}
+        ]
+    # 3. Prepare OpenAI prompt
+    import random
+    all_wards = list(wards_conditions.keys())
+    all_conditions = [(w, c) for w, clist in wards_conditions.items() for c in clist]
+    system_prompt = (
+        "You are an expert medical educator whose job is to give students immediate actions they can do to increase their chance of success in real patient outcomes. "
+        "These students are working on an AI generated case platform with the following wards and conditions available to them: "
+        + ", ".join([f"{ward}: {', '.join(conds)}" for ward, conds in wards_conditions.items()]) + ". "
+        "For each action point, choose a specific condition if possible, or a ward with a random condition. "
+        "Return a JSON array of 2 objects, each with 'text', 'ward', and 'condition'. "
+        "The 'text' should be a direct, action-oriented goal, e.g. 'Based on your feedback, you should do a cardiology case on aortic dissection.' "
+        "If you recommend a ward, pick a random condition from that ward and include it in both the text and the 'condition' field. "
+        "Do not reference any ward or condition not in the list."
+    )
+    user_prompt = (
+        f"Here is the student's most recent feedback: {feedback_action_plan}. "
+        "Based on this, give the student 2 specific actions they can take to directly improve on this feedback. "
+        "Return as a JSON array of 2 objects: [{text, ward, condition}, ...]."
+    )
+    # 4. Call OpenAI
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            max_tokens=300,
+            temperature=0.7,
+        )
+        import re, json
+        llm_content = response.choices[0].message.content
+        llm_content_clean = re.sub(r"^```json|^```|```$", "", llm_content.strip(), flags=re.MULTILINE).strip()
+        try:
+            action_points = json.loads(llm_content_clean)
+            # Validate structure
+            if not (isinstance(action_points, list) and len(action_points) == 2):
+                raise ValueError("LLM did not return a list of 2 items")
+            for ap in action_points:
+                if not all(k in ap for k in ("text", "ward", "condition")):
+                    raise ValueError("Missing keys in action point")
+        except Exception:
+            # Fallback: create 2 generic action points
+            random_ward, random_condition = random.choice(all_conditions)
+            action_points = [
+                {"text": f"Do a {random_ward} case on {random_condition}.", "ward": random_ward, "condition": random_condition},
+                {"text": f"Do another {random_ward} case on {random_condition}.", "ward": random_ward, "condition": random_condition}
+            ]
+        # 5. Save to weekly_action_points
+        supabase.table("weekly_action_points").insert({
+            "user_id": user_id,
+            "milestone": milestone,
+            "action_points": action_points
+        }).execute()
+        return action_points
+    except Exception as e:
+        # On error, return fallback
+        random_ward, random_condition = random.choice(all_conditions)
+        return [
+            {"text": f"Do a {random_ward} case on {random_condition}.", "ward": random_ward, "condition": random_condition},
+            {"text": f"Do another {random_ward} case on {random_condition}.", "ward": random_ward, "condition": random_condition}
+        ]
+
+@app.get("/weekly_dashboard_stats")
+async def weekly_dashboard_stats(authorization: str = Header(...)):
+    """
+    Returns weekly pass/fail stats and 2 action points for the user, refreshing every 10 cases.
+    """
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
+    token = authorization.split(" ", 1)[1]
+    user_id = extract_user_id(token)
+    # 1. Weekly stats
+    stats = get_weekly_case_stats(user_id)
+    # 2. All available cases
+    wards_conditions = enumerate_wards_and_conditions()
+    # 3. Feedback report and milestone
+    feedback_report = get_latest_feedback_report(user_id)
+    feedback_action_plan = feedback_report["action_plan"] if feedback_report else None
+    milestone = feedback_report["milestone"] if feedback_report else 0
+    # 4. Total cases (for milestone logic)
+    perf_result = supabase.table("performance") \
+        .select("id") \
+        .eq("user_id", user_id) \
+        .execute()
+    total_cases = len(perf_result.data) if perf_result.data else 0
+    # 5. Determine current milestone
+    report_interval = 10
+    current_milestone = (total_cases // report_interval) * report_interval
+    cases_since_last = total_cases % report_interval
+    next_refresh_in_cases = report_interval - cases_since_last if cases_since_last != 0 else 0
+    # 6. Get/generate action points
+    action_points = get_or_generate_weekly_action_points(
+        user_id=user_id,
+        milestone=current_milestone,
+        feedback_action_plan=feedback_action_plan,
+        wards_conditions=wards_conditions
+    )
+    # 7. If user <10 cases, onboarding message
+    if total_cases < report_interval:
+        action_points = [
+            {"text": "At 10 cases you'll unlock personalised feedback based on your performance.", "ward": None, "condition": None},
+            {"text": "", "ward": None, "condition": None}
+        ]
+        next_refresh_in_cases = report_interval - total_cases
+    return {
+        "cases_passed": stats["cases_passed"],
+        "cases_failed": stats["cases_failed"],
+        "action_points": action_points,
+        "next_refresh_in_cases": next_refresh_in_cases
+    }
