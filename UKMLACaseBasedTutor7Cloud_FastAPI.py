@@ -1450,15 +1450,17 @@ async def feedback_report(authorization: str = Header(...)):
                 temperature=0.7,
             )
             llm_content = response.choices[0].message.content
+            # Remove Markdown code block markers if present
+            llm_content_clean = re.sub(r"^```json|^```|```$", "", llm_content.strip(), flags=re.MULTILINE).strip()
             # Try to parse as JSON array
             import json
             try:
-                action_plan = json.loads(llm_content)
+                action_plan = json.loads(llm_content_clean)
                 if not (isinstance(action_plan, list) and len(action_plan) == 3):
                     raise ValueError("LLM did not return a list of 3 items")
             except Exception:
                 # Fallback: try to extract lines
-                action_plan = [line.strip("-• ") for line in llm_content.splitlines() if line.strip()][:3]
+                action_plan = [line.strip("-• ") for line in llm_content_clean.splitlines() if line.strip()][:3]
             # Save to feedback_reports
             supabase.table("feedback_reports").insert({
                 "user_id": user_id,
