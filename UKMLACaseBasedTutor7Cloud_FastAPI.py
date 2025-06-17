@@ -1615,26 +1615,32 @@ async def stream_assistant_response_real(thread_id: str, system_prompt: str) -> 
 def get_weekly_case_stats(user_id: str) -> dict:
     """
     Returns the number of cases passed and failed for the current week (Monday 00:00 UTC to now) for the given user.
-    Adds debug logging for troubleshooting.
+    Fetches all records and filters in Python for reliability.
     """
-    # Calculate last Monday 00:00 UTC
     now = datetime.now(timezone.utc)
     days_since_monday = now.weekday()  # Monday=0
     last_monday = (now - timedelta(days=days_since_monday)).replace(hour=0, minute=0, second=0, microsecond=0)
     logger.info(f"[WEEKLY_STATS] Now (UTC): {now.isoformat()}")
     logger.info(f"[WEEKLY_STATS] Last Monday (UTC): {last_monday.isoformat()}")
-    # Query performance table
+    # Fetch all performance records for this user
     perf_result = supabase.table("performance") \
         .select("result, created_at") \
         .eq("user_id", user_id) \
-        .gte("created_at", last_monday.isoformat()) \
+        .order("created_at", desc=True) \
         .execute()
     cases = perf_result.data if perf_result.data else []
-    logger.info(f"[WEEKLY_STATS] Found {len(cases)} cases for user {user_id} since {last_monday.isoformat()}")
-    for c in cases:
+    # Filter for cases in this week (created_at >= last_monday)
+    def parse_dt(dt):
+        try:
+            return datetime.fromisoformat(dt.replace('Z', '+00:00'))
+        except Exception:
+            return None
+    weekly_cases = [c for c in cases if (parse_dt(c.get("created_at")) and parse_dt(c.get("created_at")) >= last_monday)]
+    logger.info(f"[WEEKLY_STATS] Found {len(weekly_cases)} cases for user {user_id} since {last_monday.isoformat()}")
+    for c in weekly_cases:
         logger.info(f"[WEEKLY_STATS] Case: created_at={c.get('created_at')}, result={c.get('result')}")
-    cases_passed = len([c for c in cases if c.get("result") is True])
-    cases_failed = len([c for c in cases if c.get("result") is False])
+    cases_passed = len([c for c in weekly_cases if c.get("result") is True])
+    cases_failed = len([c for c in weekly_cases if c.get("result") is False])
     logger.info(f"[WEEKLY_STATS] Passed: {cases_passed}, Failed: {cases_failed}")
     return {"cases_passed": cases_passed, "cases_failed": cases_failed}
 
