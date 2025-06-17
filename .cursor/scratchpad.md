@@ -835,13 +835,13 @@ Provide students with a weekly dashboard showing pass/fail stats and actionable,
 - [ ] **Task 13:** Document API and UI usage
 
 ## Project Status Board
-- [ ] **Task 1:** Design API contract
-- [ ] **Task 2:** Backend aggregation logic
-- [ ] **Task 3:** Sorting/filtering by user_metadata
+- [x] **Task 1:** Design API contract
+- [x] **Task 2:** Backend aggregation logic
+- [x] **Task 3:** Sorting/filtering by user_metadata
 - [ ] **Task 4:** Ward-specific view
 - [ ] **Task 5:** Aggregate school view (normalized)
 - [ ] **Task 6:** Time-based filtering
-- [ ] **Task 7:** API endpoint(s) and security
+- [x] **Task 7:** API endpoint(s) and security (user leaderboard)
 - [ ] **Task 8:** Frontend UI (table, toggles)
 - [ ] **Task 9:** Frontend ward/school toggles
 - [ ] **Task 10:** Frontend time filter controls
@@ -850,10 +850,12 @@ Provide students with a weekly dashboard showing pass/fail stats and actionable,
 - [ ] **Task 13:** Documentation
 
 ## Current Status / Progress Tracking
-- Planner mode: Initial requirements and breakdown logged. All clarifications received (2024-06-09). Ready to proceed with Task 1 (API contract design).
+- User leaderboard endpoint is live, tested, and returns correct data for real users.
+- Sorting, filtering, and pagination are functional.
+- Next: Implement the /leaderboard/schools endpoint for the aggregate/normalized medical school leaderboard as per the plan.
 
 ## Executor's Feedback or Assistance Requests
-- None yet. Awaiting planner/user confirmation to proceed with Task 1 (API contract design).
+- User leaderboard endpoint is complete and tested. Proceeding to implement the aggregate school leaderboard endpoint next.
 
 ## Lessons
 - Leaderboards require careful design to balance engagement, fairness, and privacy.

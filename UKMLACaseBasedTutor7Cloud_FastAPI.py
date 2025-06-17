@@ -1964,5 +1964,149 @@ async def leaderboard_users(
 
 # Placeholder for /leaderboard/schools (to be implemented next)
 @app.get("/leaderboard/schools")
-async def leaderboard_schools():
-    return {"detail": "Not implemented yet"}
+async def leaderboard_schools(
+    authorization: str = Header(...),
+    x_refresh_token: str = Header(...),
+    sort_by: str = Query("cases_passed", regex="^(cases_passed|total_cases|pass_rate)$"),
+    sort_order: str = Query("desc", regex="^(asc|desc)$"),
+    page: int = Query(1, ge=1),
+    page_size: int = Query(25, ge=1, le=100),
+    time_period: str = Query("all", regex="^(all|day|week|month|season)$"),
+    season: Optional[str] = Query(None)
+):
+    """Leaderboard of medical schools (aggregate, normalized, outlier exclusion)."""
+    # 1. Auth
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
+    if not x_refresh_token:
+        raise HTTPException(status_code=401, detail="Missing refresh token header.")
+    token = authorization.split(" ", 1)[1]
+    supabase.auth.set_session(token, x_refresh_token)
+    try:
+        user_id = extract_user_id(token)
+        if not user_id:
+            raise HTTPException(status_code=401, detail="Invalid token: no user_id.")
+    except Exception as e:
+        raise HTTPException(status_code=401, detail=f"Invalid token: {str(e)}")
+
+    # 2. Time filter
+    now = datetime.now(timezone.utc)
+    start_time = None
+    if time_period == "day":
+        start_time = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    elif time_period == "week":
+        days_since_monday = now.weekday()
+        start_time = (now - timedelta(days=days_since_monday)).replace(hour=0, minute=0, second=0, microsecond=0)
+    elif time_period == "month":
+        start_time = now.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+    elif time_period == "season":
+        if not season:
+            raise HTTPException(status_code=400, detail="Season required if time_period=season")
+        y = now.year
+        if season == "winter":
+            if now.month in [12, 1, 2]:
+                if now.month == 12:
+                    start_time = datetime(y, 12, 1, tzinfo=timezone.utc)
+                else:
+                    start_time = datetime(y, 12, 1, tzinfo=timezone.utc) - relativedelta(years=1)
+            else:
+                start_time = datetime(y, 12, 1, tzinfo=timezone.utc) - relativedelta(years=1)
+        elif season == "spring":
+            start_time = datetime(y, 3, 1, tzinfo=timezone.utc)
+        elif season == "summer":
+            start_time = datetime(y, 6, 1, tzinfo=timezone.utc)
+        elif season == "autumn":
+            start_time = datetime(y, 9, 1, tzinfo=timezone.utc)
+        else:
+            raise HTTPException(status_code=400, detail="Invalid season")
+    # 3. Fetch all users and aggregate stats
+    user_meta_result = supabase.table("user_metadata").select("user_id, med_school").execute()
+    user_meta = {u["user_id"]: u for u in (user_meta_result.data or [])}
+    # Fetch all performance records (optionally filter by time)
+    perf_query = supabase.table("performance").select("user_id, result, created_at").order("created_at", desc=True)
+    if start_time:
+        perf_query = perf_query.gte("created_at", start_time.isoformat())
+    perf_result = perf_query.execute()
+    perf_data = perf_result.data or []
+    # Aggregate per user
+    user_stats = {}
+    for row in perf_data:
+        uid = row["user_id"]
+        if uid not in user_meta:
+            continue
+        med_school = user_meta[uid]["med_school"]
+        if not med_school:
+            continue
+        if uid not in user_stats:
+            user_stats[uid] = {
+                "med_school": med_school,
+                "cases_passed": 0,
+                "total_cases": 0,
+            }
+        user_stats[uid]["total_cases"] += 1
+        if row["result"] is True:
+            user_stats[uid]["cases_passed"] += 1
+    # Exclude outlier users (less than 3 cases or extreme pass rates)
+    filtered_user_stats = {uid: stats for uid, stats in user_stats.items() if stats["total_cases"] >= 3}
+    # Aggregate per school
+    school_stats = {}
+    school_user_counts = {}
+    for uid, stats in filtered_user_stats.items():
+        med_school = stats["med_school"]
+        if med_school not in school_stats:
+            school_stats[med_school] = {
+                "cases_passed": 0,
+                "total_cases": 0,
+                "num_users": 0,
+                "users": []
+            }
+        school_stats[med_school]["cases_passed"] += stats["cases_passed"]
+        school_stats[med_school]["total_cases"] += stats["total_cases"]
+        school_stats[med_school]["num_users"] += 1
+        school_stats[med_school]["users"].append(stats)
+    # Only include schools with at least 10 users
+    school_stats = {k: v for k, v in school_stats.items() if v["num_users"] >= 10}
+    # Compute pass rate
+    for s in school_stats.values():
+        s["pass_rate"] = round((s["cases_passed"] / s["total_cases"] * 100), 2) if s["total_cases"] > 0 else 0.0
+    # Convert to list and sort
+    schools_list = []
+    for school, stats in school_stats.items():
+        schools_list.append({
+            "medical_school": school,
+            "num_users": stats["num_users"],
+            "cases_passed": stats["cases_passed"],
+            "total_cases": stats["total_cases"],
+            "pass_rate": stats["pass_rate"]
+        })
+    reverse = sort_order == "desc"
+    if sort_by == "cases_passed":
+        schools_list.sort(key=lambda x: x["cases_passed"], reverse=reverse)
+    elif sort_by == "total_cases":
+        schools_list.sort(key=lambda x: x["total_cases"], reverse=reverse)
+    elif sort_by == "pass_rate":
+        schools_list.sort(key=lambda x: x["pass_rate"], reverse=reverse)
+    # Assign ranks
+    for idx, stats in enumerate(schools_list):
+        stats["rank"] = idx + 1
+    # Pagination
+    total_schools = len(schools_list)
+    start_idx = (page - 1) * page_size
+    end_idx = start_idx + page_size
+    paged_schools = schools_list[start_idx:end_idx]
+    # Find requesting user's school
+    user_school = None
+    # Find user's med_school (even if not in top N)
+    user_med_school = user_meta.get(user_id, {}).get("med_school")
+    user_school_row = None
+    for stats in schools_list:
+        if stats["medical_school"] == user_med_school:
+            user_school_row = stats
+            break
+    return {
+        "results": paged_schools,
+        "total_schools": total_schools,
+        "page": page,
+        "page_size": page_size,
+        "user_school_row": user_school_row
+    }
