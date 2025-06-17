@@ -1615,21 +1615,27 @@ async def stream_assistant_response_real(thread_id: str, system_prompt: str) -> 
 def get_weekly_case_stats(user_id: str) -> dict:
     """
     Returns the number of cases passed and failed for the current week (Monday 00:00 UTC to now) for the given user.
+    Adds debug logging for troubleshooting.
     """
     # Calculate last Monday 00:00 UTC
-    now = datetime.utcnow()
+    now = datetime.now(timezone.utc)
     days_since_monday = now.weekday()  # Monday=0
-    last_monday = datetime(now.year, now.month, now.day) - timedelta(days=days_since_monday)
-    last_monday = last_monday.replace(hour=0, minute=0, second=0, microsecond=0)
+    last_monday = (now - timedelta(days=days_since_monday)).replace(hour=0, minute=0, second=0, microsecond=0)
+    logger.info(f"[WEEKLY_STATS] Now (UTC): {now.isoformat()}")
+    logger.info(f"[WEEKLY_STATS] Last Monday (UTC): {last_monday.isoformat()}")
     # Query performance table
     perf_result = supabase.table("performance") \
         .select("result, created_at") \
         .eq("user_id", user_id) \
-        .gte("created_at", last_monday.isoformat() + 'Z') \
+        .gte("created_at", last_monday.isoformat()) \
         .execute()
     cases = perf_result.data if perf_result.data else []
+    logger.info(f"[WEEKLY_STATS] Found {len(cases)} cases for user {user_id} since {last_monday.isoformat()}")
+    for c in cases:
+        logger.info(f"[WEEKLY_STATS] Case: created_at={c.get('created_at')}, result={c.get('result')}")
     cases_passed = len([c for c in cases if c.get("result") is True])
     cases_failed = len([c for c in cases if c.get("result") is False])
+    logger.info(f"[WEEKLY_STATS] Passed: {cases_passed}, Failed: {cases_failed}")
     return {"cases_passed": cases_passed, "cases_failed": cases_failed}
 
 def get_latest_feedback_report(user_id: str):
