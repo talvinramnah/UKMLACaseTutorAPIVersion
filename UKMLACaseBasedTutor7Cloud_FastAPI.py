@@ -39,6 +39,7 @@ from random_username.generate import generate_username
 import requests
 import asyncio
 import hashlib
+from dateutil.relativedelta import relativedelta
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -1808,3 +1809,160 @@ async def weekly_dashboard_stats(authorization: str = Header(...)):
         "action_points": action_points,
         "next_refresh_in_cases": next_refresh_in_cases
     }
+
+# --- LEADERBOARD ENDPOINTS ---
+@app.get("/leaderboard/users")
+async def leaderboard_users(
+    authorization: str = Header(...),
+    x_refresh_token: str = Header(...),
+    sort_by: str = Query("cases_passed", regex="^(cases_passed|total_cases|pass_rate|rank)$"),
+    sort_order: str = Query("desc", regex="^(asc|desc)$"),
+    page: int = Query(1, ge=1),
+    page_size: int = Query(25, ge=1, le=100),
+    medical_school: Optional[str] = Query(None),
+    year_group: Optional[str] = Query(None),
+    ward: Optional[str] = Query(None),
+    time_period: str = Query("all", regex="^(all|day|week|month|season)$"),
+    season: Optional[str] = Query(None)
+):
+    """Leaderboard of users (anon usernames only), sortable/filterable/paginated."""
+    # 1. Auth
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
+    if not x_refresh_token:
+        raise HTTPException(status_code=401, detail="Missing refresh token header.")
+    token = authorization.split(" ", 1)[1]
+    supabase.auth.set_session(token, x_refresh_token)
+    try:
+        user_id = extract_user_id(token)
+        if not user_id:
+            raise HTTPException(status_code=401, detail="Invalid token: no user_id.")
+    except Exception as e:
+        raise HTTPException(status_code=401, detail=f"Invalid token: {str(e)}")
+
+    # 2. Time filter
+    now = datetime.now(timezone.utc)
+    start_time = None
+    if time_period == "day":
+        start_time = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    elif time_period == "week":
+        days_since_monday = now.weekday()
+        start_time = (now - timedelta(days=days_since_monday)).replace(hour=0, minute=0, second=0, microsecond=0)
+    elif time_period == "month":
+        start_time = now.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+    elif time_period == "season":
+        # Meteorological seasons: winter (Dec-Feb), spring (Mar-May), summer (Jun-Aug), autumn (Sep-Nov)
+        if not season:
+            raise HTTPException(status_code=400, detail="Season required if time_period=season")
+        y = now.year
+        if season == "winter":
+            # Dec (prev year), Jan, Feb
+            if now.month in [12, 1, 2]:
+                if now.month == 12:
+                    start_time = datetime(y, 12, 1, tzinfo=timezone.utc)
+                else:
+                    start_time = datetime(y, 12, 1, tzinfo=timezone.utc) - relativedelta(years=1)
+            else:
+                start_time = datetime(y, 12, 1, tzinfo=timezone.utc) - relativedelta(years=1)
+        elif season == "spring":
+            start_time = datetime(y, 3, 1, tzinfo=timezone.utc)
+        elif season == "summer":
+            start_time = datetime(y, 6, 1, tzinfo=timezone.utc)
+        elif season == "autumn":
+            start_time = datetime(y, 9, 1, tzinfo=timezone.utc)
+        else:
+            raise HTTPException(status_code=400, detail="Invalid season")
+    # 3. Fetch all users and aggregate stats
+    # (For now, fetch all and filter in Python; optimize with SQL/edge functions if needed)
+    # Join user_metadata for anon_username, medical_school, year_group
+    user_meta_result = supabase.table("user_metadata").select("user_id, anon_username, medical_school, year_group").execute()
+    user_meta = {u["user_id"]: u for u in (user_meta_result.data or [])}
+    # Fetch all performance records (optionally filter by time)
+    perf_query = supabase.table("performance").select("user_id, ward, result, created_at").order("created_at", desc=True)
+    if start_time:
+        perf_query = perf_query.gte("created_at", start_time.isoformat())
+    perf_result = perf_query.execute()
+    perf_data = perf_result.data or []
+    # Aggregate per user
+    user_stats = {}
+    for row in perf_data:
+        uid = row["user_id"]
+        if uid not in user_meta:
+            continue  # skip users with no metadata
+        if medical_school and user_meta[uid]["medical_school"] != medical_school:
+            continue
+        if year_group and user_meta[uid]["year_group"] != year_group:
+            continue
+        if ward and row["ward"] != ward:
+            continue  # only count cases in this ward
+        if uid not in user_stats:
+            user_stats[uid] = {
+                "username": user_meta[uid]["anon_username"],
+                "medical_school": user_meta[uid]["medical_school"],
+                "year_group": user_meta[uid]["year_group"],
+                "cases_passed": 0,
+                "total_cases": 0,
+                "wards": set(),
+            }
+        user_stats[uid]["total_cases"] += 1
+        if row["result"] is True:
+            user_stats[uid]["cases_passed"] += 1
+        user_stats[uid]["wards"].add(row["ward"])
+    # Only include users who have at least one case in the selected ward (if ward filter)
+    if ward:
+        user_stats = {uid: stats for uid, stats in user_stats.items() if ward in stats["wards"]}
+    # Compute pass rate
+    for stats in user_stats.values():
+        stats["pass_rate"] = round((stats["cases_passed"] / stats["total_cases"] * 100), 2) if stats["total_cases"] > 0 else 0.0
+    # Convert to list and sort
+    users_list = list(user_stats.values())
+    # Add user_id for later lookup
+    for uid, stats in user_stats.items():
+        stats["user_id"] = uid
+    # Sorting
+    reverse = sort_order == "desc"
+    if sort_by == "cases_passed":
+        users_list.sort(key=lambda x: x["cases_passed"], reverse=reverse)
+    elif sort_by == "total_cases":
+        users_list.sort(key=lambda x: x["total_cases"], reverse=reverse)
+    elif sort_by == "pass_rate":
+        users_list.sort(key=lambda x: x["pass_rate"], reverse=reverse)
+    elif sort_by == "rank":
+        users_list.sort(key=lambda x: x["cases_passed"], reverse=True)  # default rank by cases_passed desc
+    # Assign ranks
+    for idx, stats in enumerate(users_list):
+        stats["rank"] = idx + 1
+    # Pagination
+    total_users = len(users_list)
+    start_idx = (page - 1) * page_size
+    end_idx = start_idx + page_size
+    paged_users = users_list[start_idx:end_idx]
+    # Prepare response (only necessary fields)
+    def user_row_dict(stats):
+        return {
+            "rank": stats["rank"],
+            "username": stats["username"],
+            "medical_school": stats["medical_school"],
+            "year_group": stats["year_group"],
+            "cases_passed": stats["cases_passed"],
+            "total_cases": stats["total_cases"],
+            "pass_rate": stats["pass_rate"]
+        }
+    # Find requesting user's row
+    user_row = None
+    for stats in users_list:
+        if stats["user_id"] == user_id:
+            user_row = user_row_dict(stats)
+            break
+    return {
+        "results": [user_row_dict(s) for s in paged_users],
+        "total_users": total_users,
+        "page": page,
+        "page_size": page_size,
+        "user_row": user_row
+    }
+
+# Placeholder for /leaderboard/schools (to be implemented next)
+@app.get("/leaderboard/schools")
+async def leaderboard_schools():
+    return {"detail": "Not implemented yet"}

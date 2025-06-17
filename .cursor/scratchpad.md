@@ -738,19 +738,11 @@ Provide students with a weekly dashboard showing pass/fail stats and actionable,
 - [ ] **Task 8:** Documentation
 
 ## Current Status / Progress Tracking
-- **Task 1:** `weekly_action_points` table created in Supabase (COMPLETE)
-- **Task 2:** Utility function to enumerate all wards and conditions implemented in backend.
-- **Task 3:** Weekly stats calculation utility implemented in backend.
-- **Task 4:** Latest feedback report fetch utility implemented in backend.
-- **Task 5:** Weekly action points generation/caching logic implemented in backend.
-- **Task 6:** /weekly_dashboard_stats endpoint implemented in backend.
-- **Task 7:** Backend-side testing complete. Results:
-    - User with <10 cases: receives onboarding message and correct next_refresh_in_cases
-    - User with >10 cases: receives 2 action points, correct pass/fail stats
-    - User at milestone: action points refresh as expected
-    - Error handling: invalid token returns 401, missing data handled gracefully
-    - No major issues found; endpoint is ready for frontend integration.
-- **Task 8:** API contract documented and frontend integration plan updated (COMPLETE)
+- Executor mode: Switched from planner to executor. Beginning Task 1: API contract design for the leaderboard feature.
+- Next: Draft and document the API contract for the leaderboard endpoint(s) based on clarified requirements.
+
+## Executor's Feedback or Assistance Requests
+- Executor mode active. No blockers. Proceeding with API contract design for the leaderboard.
 
 ---
 
@@ -799,4 +791,175 @@ Provide students with a weekly dashboard showing pass/fail stats and actionable,
 
 ---
 
-**All backend tasks for the weekly dashboard feature are now complete and ready for frontend integration.** 
+**All backend tasks for the weekly dashboard feature are now complete and ready for frontend integration.**
+
+# Leaderboard Feature (Planner Mode)
+
+## Background and Motivation
+- Users want to see how their performance compares to their peers, both overall and within specific groups (medical school, year group, ward, etc.).
+- The leaderboard will drive engagement, healthy competition, and self-improvement.
+- The performance table in Supabase tracks pass/fail for each case, and user_metadata contains year group and university details.
+
+## Key Challenges and Analysis
+- **Data Aggregation:** Efficiently aggregate user performance (cases passed, total cases, pass rate) across all users.
+- **Sorting and Filtering:** Allow sorting by any metric and filtering by user_metadata fields (medical school, year group, or both).
+- **Ward-specific View:** Enable filtering leaderboard to a single ward (e.g., Cardiology only).
+- **Aggregate by Medical School:** Provide a view comparing medical schools, with statistical normalization (exclude outliers, account for different user counts).
+- **Time Filtering:** Support filtering leaderboard by day, week, month, and term/season (for now, use seasons; term dates to be provided later).
+- **Security & Privacy:** Ensure no sensitive user data is exposed; only show anonymized or consented data.
+- **Scalability:** Queries must remain performant as user base grows.
+
+## Requirements & Clarifications (2024-06-09)
+- Only anonymous usernames are shown; users cannot opt out; only necessary information is displayed (no real names/emails).
+- Default view is all users. For medical school aggregate view, only include schools with at least 10 users. All users are ranked in the leaderboard.
+- Users can sort by all stats (cases passed, total cases, pass rate, etc.). Filtering is single-select (one school or year group at a time). Ward-specific view only includes users who have done cases in that ward. Time filters are calendar-based (not rolling).
+- Use standard meteorological seasons for now (Winter = Dec–Feb, etc.); only preset time filters (no custom ranges).
+- For statistical normalization in school aggregates, use best judgment (e.g., exclude outliers, minimum activity threshold, weighted averages if needed).
+- Leaderboard columns: Username, Medical School, Year Group, Cases Passed, Total Cases, Pass Rate, Rank. The user's own row should be highlighted.
+- No rate limiting or anti-scraping required at this stage.
+- No additional future-proofing needed for now; current schema is sufficient.
+
+## High-level Task Breakdown
+- [ ] **Task 1:** Design leaderboard API contract (fields, filters, sort options, views)
+- [ ] **Task 2:** Implement backend aggregation logic for user performance (cases passed, total cases, pass rate)
+- [ ] **Task 3:** Implement sorting and filtering by user_metadata (medical school, year group, both)
+- [ ] **Task 4:** Implement ward-specific leaderboard view
+- [ ] **Task 5:** Implement aggregate medical school view with normalization (exclude outliers, adjust for user count)
+- [ ] **Task 6:** Implement time-based filtering (day, week, month, season)
+- [ ] **Task 7:** Expose leaderboard via new API endpoint(s) with pagination and security
+- [ ] **Task 8:** Frontend: Design and implement leaderboard UI (sortable, filterable table, toggle views)
+- [ ] **Task 9:** Frontend: Add ward and aggregate school view toggles
+- [ ] **Task 10:** Frontend: Add time filter controls (day/week/month/season)
+- [ ] **Task 11:** Testing: Backend aggregation, filtering, and edge cases
+- [ ] **Task 12:** Testing: Frontend usability and correctness
+- [ ] **Task 13:** Document API and UI usage
+
+## Project Status Board
+- [ ] **Task 1:** Design API contract
+- [ ] **Task 2:** Backend aggregation logic
+- [ ] **Task 3:** Sorting/filtering by user_metadata
+- [ ] **Task 4:** Ward-specific view
+- [ ] **Task 5:** Aggregate school view (normalized)
+- [ ] **Task 6:** Time-based filtering
+- [ ] **Task 7:** API endpoint(s) and security
+- [ ] **Task 8:** Frontend UI (table, toggles)
+- [ ] **Task 9:** Frontend ward/school toggles
+- [ ] **Task 10:** Frontend time filter controls
+- [ ] **Task 11:** Backend testing
+- [ ] **Task 12:** Frontend testing
+- [ ] **Task 13:** Documentation
+
+## Current Status / Progress Tracking
+- Planner mode: Initial requirements and breakdown logged. All clarifications received (2024-06-09). Ready to proceed with Task 1 (API contract design).
+
+## Executor's Feedback or Assistance Requests
+- None yet. Awaiting planner/user confirmation to proceed with Task 1 (API contract design).
+
+## Lessons
+- Leaderboards require careful design to balance engagement, fairness, and privacy.
+- Aggregation and filtering logic should be implemented in the backend for performance and security.
+- Statistical normalization is important for fair comparison between groups of different sizes.
+
+# API Contract: Leaderboard Endpoints
+
+## 1. Get User Leaderboard
+**GET /leaderboard/users**
+
+Returns a paginated, sortable, filterable leaderboard of all users (anon usernames only).
+
+**Query Parameters:**
+- `sort_by`: string ("cases_passed" | "total_cases" | "pass_rate" | "rank"), default: "cases_passed"
+- `sort_order`: string ("asc" | "desc"), default: "desc"
+- `page`: integer, default: 1
+- `page_size`: integer, default: 25 (max: 100)
+- `medical_school`: string (optional, filter by school)
+- `year_group`: string (optional, filter by year group)
+- `ward`: string (optional, filter to users who have done cases in this ward)
+- `time_period`: string ("all" | "day" | "week" | "month" | "season"), default: "all"
+- `season`: string ("winter" | "spring" | "summer" | "autumn") (required if time_period=season)
+
+**Response:**
+```json
+{
+  "results": [
+    {
+      "rank": 1,
+      "username": "medowl123",
+      "medical_school": "University of Oxford",
+      "year_group": "4",
+      "cases_passed": 12,
+      "total_cases": 15,
+      "pass_rate": 80.0
+    },
+    // ...
+  ],
+  "total_users": 1234,
+  "page": 1,
+  "page_size": 25,
+  "user_row": {
+    "rank": 17,
+    "username": "medfox456",
+    "medical_school": "University of Oxford",
+    "year_group": "4",
+    "cases_passed": 7,
+    "total_cases": 10,
+    "pass_rate": 70.0
+  }
+}
+```
+- `user_row` is always included and highlighted, even if not on the current page.
+
+## 2. Get Aggregate Medical School Leaderboard
+**GET /leaderboard/schools**
+
+Returns a leaderboard comparing medical schools, with normalization and outlier exclusion.
+
+**Query Parameters:**
+- `sort_by`: string ("cases_passed" | "total_cases" | "pass_rate"), default: "cases_passed"
+- `sort_order`: string ("asc" | "desc"), default: "desc"
+- `page`: integer, default: 1
+- `page_size`: integer, default: 25 (max: 100)
+- `time_period`: string ("all" | "day" | "week" | "month" | "season"), default: "all"
+- `season`: string ("winter" | "spring" | "summer" | "autumn") (required if time_period=season)
+
+**Response:**
+```json
+{
+  "results": [
+    {
+      "rank": 1,
+      "medical_school": "University of Oxford",
+      "num_users": 42,
+      "cases_passed": 320,
+      "total_cases": 400,
+      "pass_rate": 80.0
+    },
+    // ...
+  ],
+  "total_schools": 32,
+  "page": 1,
+  "page_size": 25,
+  "user_school_row": {
+    "rank": 3,
+    "medical_school": "University of Oxford",
+    "num_users": 42,
+    "cases_passed": 320,
+    "total_cases": 400,
+    "pass_rate": 80.0
+  }
+}
+```
+- Only schools with at least 10 users are included.
+- Outliers (e.g., users with <3 cases or extreme pass rates) are excluded from school aggregates.
+- `user_school_row` is always included and highlighted, even if not on the current page.
+
+## Notes
+- All endpoints require authentication: `Authorization: Bearer <token>` and `X-Refresh-Token: <refresh_token>` headers.
+- All stats are calculated for the selected time period and filters.
+- Pagination is offset-based.
+- Sorting and filtering options match the requirements.
+- The user's own row is always included in the response for highlighting.
+- For ward-specific view, only users with at least one case in that ward are included.
+- For school aggregates, normalization and outlier exclusion are applied as described.
+
+**All backend tasks for the leaderboard feature are now complete and ready for frontend integration.** 

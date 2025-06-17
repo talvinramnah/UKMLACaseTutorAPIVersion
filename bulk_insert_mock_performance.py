@@ -6,7 +6,7 @@ from supabase import create_client
 # --- CONFIGURATION ---
 SUPABASE_URL = "https://wvfjgfqbfagxctyifhxu.supabase.co"
 SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind2ZmpnZnFiZmFneGN0eWlmaHh1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUwNzE2MzAsImV4cCI6MjA2MDY0NzYzMH0.TuPSRD2A-JfQ0cWDaqG28YIJO2ph1QY_1lRAzPHDvE8"
-USER_ID = "6b8130fc-3eed-471b-b7bd-93ffc21c5fb0"  # Admin/test user
+USER_ID = "66fe36bf-ea9e-43c9-9446-d97e0c83e4e0"  # Admin/test user
 N_CASES = 5  # Number of mock cases to insert
 
 # Example wards and conditions for variety
