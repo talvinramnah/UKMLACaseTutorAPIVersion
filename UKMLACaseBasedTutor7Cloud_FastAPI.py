@@ -1632,7 +1632,14 @@ def get_weekly_case_stats(user_id: str) -> dict:
     # Filter for cases in this week (created_at >= last_monday)
     def parse_dt(dt):
         try:
-            return datetime.fromisoformat(dt.replace('Z', '+00:00'))
+            if dt.endswith('Z'):
+                return datetime.fromisoformat(dt.replace('Z', '+00:00'))
+            else:
+                # If no timezone, assume UTC
+                parsed = datetime.fromisoformat(dt)
+                if parsed.tzinfo is None:
+                    return parsed.replace(tzinfo=timezone.utc)
+                return parsed
         except Exception:
             return None
     weekly_cases = [c for c in cases if (parse_dt(c.get("created_at")) and parse_dt(c.get("created_at")) >= last_monday)]
@@ -1702,6 +1709,7 @@ def get_or_generate_weekly_action_points(user_id: str, milestone: int, feedback_
         "The 'text' should be a direct, action-oriented goal, e.g. 'Based on your feedback, you should do a cardiology case on aortic dissection.' "
         "If you recommend a ward, pick a random condition from that ward and include it in both the text and the 'condition' field. "
         "Do not reference any ward or condition not in the list."
+        "Always end action points with try now"
     )
     user_prompt = (
         f"Here is the student's most recent feedback: {feedback_action_plan}. "
