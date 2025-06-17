@@ -1875,7 +1875,7 @@ async def leaderboard_users(
     # 3. Fetch all users and aggregate stats
     # (For now, fetch all and filter in Python; optimize with SQL/edge functions if needed)
     # Join user_metadata for anon_username, medical_school, year_group
-    user_meta_result = supabase.table("user_metadata").select("user_id, anon_username, medical_school, year_group").execute()
+    user_meta_result = supabase.table("user_metadata").select("user_id, anon_username, med_school, year_group").execute()
     user_meta = {u["user_id"]: u for u in (user_meta_result.data or [])}
     # Fetch all performance records (optionally filter by time)
     perf_query = supabase.table("performance").select("user_id, ward, result, created_at").order("created_at", desc=True)
@@ -1889,7 +1889,7 @@ async def leaderboard_users(
         uid = row["user_id"]
         if uid not in user_meta:
             continue  # skip users with no metadata
-        if medical_school and user_meta[uid]["medical_school"] != medical_school:
+        if medical_school and user_meta[uid]["med_school"] != medical_school:
             continue
         if year_group and user_meta[uid]["year_group"] != year_group:
             continue
@@ -1898,7 +1898,7 @@ async def leaderboard_users(
         if uid not in user_stats:
             user_stats[uid] = {
                 "username": user_meta[uid]["anon_username"],
-                "medical_school": user_meta[uid]["medical_school"],
+                "med_school": user_meta[uid]["med_school"],
                 "year_group": user_meta[uid]["year_group"],
                 "cases_passed": 0,
                 "total_cases": 0,
@@ -1942,7 +1942,7 @@ async def leaderboard_users(
         return {
             "rank": stats["rank"],
             "username": stats["username"],
-            "medical_school": stats["medical_school"],
+            "med_school": stats["med_school"],
             "year_group": stats["year_group"],
             "cases_passed": stats["cases_passed"],
             "total_cases": stats["total_cases"],
