@@ -465,8 +465,9 @@ class RefreshRequest(BaseModel):
 class LogoutRequest(BaseModel):
     token: str = Field(..., min_length=1)
 
+# NOTE: Rate limit relaxed for bulk user creation/testing. Restore to '3/minute' after testing.
 @app.post("/signup", response_model=dict)
-@limiter.limit("3/minute")
+@limiter.limit("1000/minute")  # TEMPORARY: allow bulk inserts for testing
 async def signup(signup_data: SignupRequest, request: Request):
     """Register a new user account."""
     try:

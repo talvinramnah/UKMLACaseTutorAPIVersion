@@ -1,23 +1,30 @@
 import os
 import random
+import uuid
+import time
 from datetime import datetime, timedelta, timezone
 from supabase import create_client
 
 # --- CONFIGURATION ---
 SUPABASE_URL = "https://wvfjgfqbfagxctyifhxu.supabase.co"
 SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind2ZmpnZnFiZmFneGN0eWlmaHh1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUwNzE2MzAsImV4cCI6MjA2MDY0NzYzMH0.TuPSRD2A-JfQ0cWDaqG28YIJO2ph1QY_1lRAzPHDvE8"
-USER_ID = "66fe36bf-ea9e-43c9-9446-d97e0c83e4e0"  # Admin/test user
-N_CASES = 5  # Number of mock cases to insert
+N_USERS_PER_SCHOOL = 12  # Ensure >=10 for leaderboard
+N_SCHOOLS = 3
+N_CASES_PER_USER = 8
 
-# Example wards and conditions for variety
-WARDS = [
-    "Cardiology", "Respiratory", "Ent", "Paediatrics", "Ophthalmology", "Infectious Diseases", "Dermatology"
+SCHOOLS = [
+    "University of Bristol Medical School",
+    "University of Oxford Medical School",
+    "University of Cambridge Medical School"
 ]
+YEAR_GROUPS = ["1st year", "2nd year", "3rd year", "4th year", "5th year"]
+
 CONDITIONS = [
     "Acute Myocardial Infarction", "Asthma", "Otitis Media", "Bronchiolitis", "Conjunctivitis", "Pneumonia", "Urinary Tract Infection", "Diabetes", "Hypertension", "Stroke", "Anxiety", "Depression"
 ]
-
-# Example feedback
+WARDS = [
+    "Cardiology", "Respiratory", "Ent", "Paediatrics", "Ophthalmology", "Infectious Diseases", "Dermatology"
+]
 FEEDBACK_SUMMARIES = [
     "Good clinical reasoning demonstrated but missed some key investigations that would have helped confirm diagnosis.",
     "Excellent management plan and treatment choices, but patient history could be more detailed and structured.",
@@ -28,7 +35,6 @@ FEEDBACK_SUMMARIES = [
     "Good recognition of severity, but documentation of vital signs and clinical findings could be more detailed.",
     "Excellent prioritization of issues, though follow-up plan needs more specific timeframes and triggers."
 ]
-
 POSITIVES = [
     ["Clear and systematic history taking approach", "Comprehensive differential diagnosis with good clinical reasoning"],
     ["Identified and ordered all key investigations promptly", "Safe and evidence-based management plan"],
@@ -39,7 +45,6 @@ POSITIVES = [
     ["Clear safety-netting advice given", "Good recognition of clinical severity and risk"],
     ["Effective multidisciplinary team communication", "Thorough medication review and reconciliation"]
 ]
-
 IMPROVEMENTS = [
     ["Did not complete allergy history check", "Could clarify specific drug doses and frequencies"],
     ["Patient history lacked important psychosocial context", "Missed key aspects of family history"],
@@ -58,43 +63,80 @@ FOCUS_INSTRUCTIONS = [
 
 # --- MAIN SCRIPT ---
 def main():
-    if not SUPABASE_URL or not SUPABASE_KEY:
-        print("Missing SUPABASE_URL or SUPABASE_KEY environment variables.")
-        return
     supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
     now = datetime.now(timezone.utc)
-    for i in range(N_CASES):
-        ward = random.choice(WARDS)
-        condition = random.choice(CONDITIONS)
-        feedback_summary = random.choice(FEEDBACK_SUMMARIES)
-        feedback_positives = random.choice(POSITIVES)
-        feedback_improvements = random.choice(IMPROVEMENTS)
-        focus_instruction = random.choice(FOCUS_INSTRUCTIONS)
-        result = random.choice([True, False])
-        chat_transcript = [
-            {"role": "user", "content": "Initial presentation."},
-            {"role": "assistant", "content": "What is your next step?"},
-            {"role": "user", "content": "Order ECG."},
-            {"role": "assistant", "content": "Good, ECG shows ST elevation."}
-        ]
-        created_at = (now - timedelta(days=N_CASES - i)).isoformat()
-        performance_data = {
-            "user_id": USER_ID,
-            "condition": condition,
-            "result": result,
-            "feedback_summary": feedback_summary,
-            "feedback_positives": feedback_positives,
-            "feedback_improvements": feedback_improvements,
-            "chat_transcript": chat_transcript,
-            "created_at": created_at,
-            "ward": ward,
-            "focus_instruction": focus_instruction
-        }
-        try:
-            supabase.table("performance").insert(performance_data).execute()
-            print(f"Inserted mock case {i+1}/{N_CASES}: {condition} ({ward})")
-        except Exception as e:
-            print(f"Failed to insert case {i+1}: {e}")
+    user_ids = []
+    for school_idx, school in enumerate(SCHOOLS[:N_SCHOOLS]):
+        for i in range(N_USERS_PER_SCHOOL):
+            anon_username = f"medmock{school_idx}{i}"
+            email = f"{anon_username}@mock.com"
+            year_group = random.choice(YEAR_GROUPS)
+            # Try to sign up user (idempotent)
+            try:
+                result = supabase.auth.sign_up({
+                    "email": email,
+                    "password": "TestPassword123!"
+                })
+                user_id = result.user.id
+                print(f"Signed up user: {anon_username} ({email})")
+                time.sleep(0.2)  # Avoid rate limits
+            except Exception as e:
+                # If user already exists, fetch user_id
+                print(f"User {anon_username} already exists or signup failed: {e}")
+                # Try to get user_id from user_metadata
+                exists = supabase.table("user_metadata").select("user_id").eq("anon_username", anon_username).execute()
+                if exists.data:
+                    user_id = exists.data[0]["user_id"]
+                else:
+                    print(f"Could not get user_id for {anon_username}, skipping.")
+                    continue
+            # Insert user_metadata (idempotent)
+            exists = supabase.table("user_metadata").select("user_id").eq("anon_username", anon_username).execute()
+            if exists.data:
+                print(f"User_metadata for {anon_username} already exists, skipping user_metadata insert.")
+            else:
+                supabase.table("user_metadata").insert({
+                    "user_id": user_id,
+                    "anon_username": anon_username,
+                    "med_school": school,
+                    "year_group": year_group,
+                    "name": f"Mock Name {anon_username}"
+                }).execute()
+                print(f"Inserted user_metadata: {anon_username} ({school}, {year_group})")
+            user_ids.append((user_id, anon_username, school))
+            # Insert performance cases
+            for j in range(N_CASES_PER_USER):
+                ward = random.choice(WARDS)
+                condition = random.choice(CONDITIONS)
+                feedback_summary = random.choice(FEEDBACK_SUMMARIES)
+                feedback_positives = random.choice(POSITIVES)
+                feedback_improvements = random.choice(IMPROVEMENTS)
+                focus_instruction = random.choice(FOCUS_INSTRUCTIONS)
+                result_case = random.choice([True, False])
+                chat_transcript = [
+                    {"role": "user", "content": "Initial presentation."},
+                    {"role": "assistant", "content": "What is your next step?"},
+                    {"role": "user", "content": "Order ECG."},
+                    {"role": "assistant", "content": "Good, ECG shows ST elevation."}
+                ]
+                created_at = (now - timedelta(days=N_CASES_PER_USER - j)).isoformat()
+                performance_data = {
+                    "user_id": user_id,
+                    "condition": condition,
+                    "result": result_case,
+                    "feedback_summary": feedback_summary,
+                    "feedback_positives": feedback_positives,
+                    "feedback_improvements": feedback_improvements,
+                    "chat_transcript": chat_transcript,
+                    "created_at": created_at,
+                    "ward": ward,
+                    "focus_instruction": focus_instruction
+                }
+                try:
+                    supabase.table("performance").insert(performance_data).execute()
+                    print(f"Inserted case for {anon_username}: {condition} ({ward})")
+                except Exception as e:
+                    print(f"Failed to insert case for {anon_username}: {e}")
 
 if __name__ == "__main__":
     main() 
