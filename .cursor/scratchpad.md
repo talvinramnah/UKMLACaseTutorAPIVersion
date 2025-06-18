@@ -839,23 +839,23 @@ Provide students with a weekly dashboard showing pass/fail stats and actionable,
 - [x] **Task 2:** Backend aggregation logic
 - [x] **Task 3:** Sorting/filtering by user_metadata
 - [ ] **Task 4:** Ward-specific view
-- [ ] **Task 5:** Aggregate school view (normalized)
-- [ ] **Task 6:** Time-based filtering
+- [x] **Task 5:** Aggregate school view (normalized)
+- [x] **Task 6:** Time-based filtering
 - [x] **Task 7:** API endpoint(s) and security (user leaderboard)
 - [ ] **Task 8:** Frontend UI (table, toggles)
 - [ ] **Task 9:** Frontend ward/school toggles
 - [ ] **Task 10:** Frontend time filter controls
-- [ ] **Task 11:** Backend testing
+- [x] **Task 11:** Backend testing
 - [ ] **Task 12:** Frontend testing
 - [ ] **Task 13:** Documentation
 
 ## Current Status / Progress Tracking
-- User leaderboard endpoint is live, tested, and returns correct data for real users.
-- Sorting, filtering, and pagination are functional.
-- Next: Implement the /leaderboard/schools endpoint for the aggregate/normalized medical school leaderboard as per the plan.
+- Both /leaderboard/users and /leaderboard/schools endpoints are live, tested, and return correct data with bulk-inserted mock users and cases.
+- Sorting, filtering, pagination, and time-based filtering are functional.
+- Next: Proceed to frontend integration, UI/UX, and documentation.
 
 ## Executor's Feedback or Assistance Requests
-- User leaderboard endpoint is complete and tested. Proceeding to implement the aggregate school leaderboard endpoint next.
+- Backend leaderboard implementation and testing are complete. Ready for frontend integration and documentation.
 
 ## Lessons
 - Leaderboards require careful design to balance engagement, fairness, and privacy.
@@ -964,4 +964,182 @@ Returns a leaderboard comparing medical schools, with normalization and outlier 
 - For ward-specific view, only users with at least one case in that ward are included.
 - For school aggregates, normalization and outlier exclusion are applied as described.
 
-**All backend tasks for the leaderboard feature are now complete and ready for frontend integration.** 
+**All backend tasks for the leaderboard feature are now complete and ready for frontend integration.**
+
+# Prompt for Frontend Cursor Agent: Leaderboard UI, Toggles, and Filters
+
+## Context
+The backend exposes two leaderboard endpoints for the UKMLA Case Tutor platform:
+- `/leaderboard/users`: User-level leaderboard (sortable, filterable, paginated, ward-specific)
+- `/leaderboard/schools`: Aggregate leaderboard by medical school (sortable, filterable, paginated, no ward filter)
+
+The goal is to build a frontend leaderboard UI that allows users to:
+- View and sort the leaderboard by cases passed, total cases, pass rate, or rank
+- Filter by medical school, year group, and (for users) ward
+- Toggle between user and school (aggregate) views
+- Filter by time period (day, week, month, season)
+- See their own row highlighted, even if not on the current page
+- Paginate through results
+
+---
+
+## API Documentation
+
+### 1. User Leaderboard
+**GET `/leaderboard/users`**
+
+**Query Parameters:**
+- `sort_by`: "cases_passed" | "total_cases" | "pass_rate" | "rank" (default: "cases_passed")
+- `sort_order`: "asc" | "desc" (default: "desc")
+- `page`: integer (default: 1)
+- `page_size`: integer (default: 25, max: 100)
+- `medical_school`: string (optional, filter by school)
+- `year_group`: string (optional, filter by year group)
+- `ward`: string (optional, filter to users who have done cases in this ward)
+- `time_period`: "all" | "day" | "week" | "month" | "season" (default: "all")
+- `season`: "winter" | "spring" | "summer" | "autumn" (required if `time_period=season`)
+
+**Headers:**
+- `Authorization: Bearer <accessToken>`
+- `X-Refresh-Token: <refreshToken>`
+
+**Response:**
+```json
+{
+  "results": [
+    {
+      "rank": 1,
+      "username": "medowl123",
+      "med_school": "University of Oxford",
+      "year_group": "4",
+      "cases_passed": 12,
+      "total_cases": 15,
+      "pass_rate": 80.0
+    },
+    // ...
+  ],
+  "total_users": 1234,
+  "page": 1,
+  "page_size": 25,
+  "user_row": {
+    "rank": 17,
+    "username": "medfox456",
+    "med_school": "University of Oxford",
+    "year_group": "4",
+    "cases_passed": 7,
+    "total_cases": 10,
+    "pass_rate": 70.0
+  }
+}
+```
+- `user_row` is always included and should be highlighted in the UI, even if not on the current page.
+
+---
+
+### 2. Aggregate Medical School Leaderboard
+**GET `/leaderboard/schools`**
+
+**Query Parameters:**
+- `sort_by`: "cases_passed" | "total_cases" | "pass_rate" (default: "cases_passed")
+- `sort_order`: "asc" | "desc" (default: "desc")
+- `page`: integer (default: 1)
+- `page_size`: integer (default: 25, max: 100)
+- `time_period`: "all" | "day" | "week" | "month" | "season" (default: "all")
+- `season`: "winter" | "spring" | "summer" | "autumn" (required if `time_period=season`)
+
+**Headers:**
+- `Authorization: Bearer <accessToken>`
+- `X-Refresh-Token: <refreshToken>`
+
+**Response:**
+```json
+{
+  "results": [
+    {
+      "rank": 1,
+      "medical_school": "University of Oxford",
+      "num_users": 42,
+      "cases_passed": 320,
+      "total_cases": 400,
+      "pass_rate": 80.0
+    },
+    // ...
+  ],
+  "total_schools": 32,
+  "page": 1,
+  "page_size": 25,
+  "user_school_row": {
+    "rank": 3,
+    "medical_school": "University of Oxford",
+    "num_users": 42,
+    "cases_passed": 320,
+    "total_cases": 400,
+    "pass_rate": 80.0
+  }
+}
+```
+- `user_school_row` is always included and should be highlighted in the UI, even if not on the current page.
+
+---
+
+## UI Requirements
+
+### Table Structure
+- Display leaderboard as a table with columns:
+  - **User view:** Rank, Username, Medical School, Year Group, Cases Passed, Total Cases, Pass Rate
+  - **School view:** Rank, Medical School, Number of Users, Cases Passed, Total Cases, Pass Rate
+- Highlight the user's own row (from `user_row` or `user_school_row`), even if not on the current page (e.g., show at the top or as a sticky row)
+- Support pagination (show current page, total pages, next/prev controls)
+
+### Sorting & Filtering
+- Allow sorting by any column (single-select)
+- Allow filtering by:
+  - Medical school (dropdown, populated from available schools in data)
+  - Year group (dropdown, populated from available year groups in data)
+  - Ward (users view only; dropdown, populated from available wards)
+- Allow filtering by time period (radio buttons or dropdown): all, day, week, month, season
+  - If season is selected, show a dropdown for winter/spring/summer/autumn
+
+### View Toggles
+- Toggle between user leaderboard and school leaderboard (tabs or buttons)
+- When switching views, preserve current filters where possible
+
+### Error Handling
+- Show a loading spinner while fetching data
+- Show a user-friendly error message if the API call fails
+- If no results, show "No users/schools found for the selected filters."
+
+### Example API Calls
+```js
+// User leaderboard, filtered by ward and sorted by pass rate
+fetch('/leaderboard/users?ward=Cardiology&sort_by=pass_rate&sort_order=desc&page=1&page_size=25', {
+  headers: {
+    Authorization: `Bearer ${accessToken}`,
+    'X-Refresh-Token': refreshToken
+  }
+})
+
+// School leaderboard, filtered by season
+fetch('/leaderboard/schools?sort_by=pass_rate&sort_order=desc&time_period=season&season=winter&page=1&page_size=25', {
+  headers: {
+    Authorization: `Bearer ${accessToken}`,
+    'X-Refresh-Token': refreshToken
+  }
+})
+```
+
+---
+
+## Additional Notes
+- Always include the user's own row in the table, even if not on the current page (e.g., as a sticky or floating row)
+- Use the API's pagination fields to manage page navigation
+- For dropdowns (medical school, year group, ward), fetch options from the backend or cache them from previous responses
+- All stats are calculated for the selected time period and filters
+- For school leaderboard, only schools with at least 10 users are included
+- For user leaderboard, only users who have done at least one case in the selected ward are included when ward filter is applied
+- All endpoints require both `Authorization` and `X-Refresh-Token` headers
+
+---
+
+**Goal:**
+- Implement a robust, user-friendly leaderboard UI with sorting, filtering, view toggles, and time controls, using the documented API endpoints and response structures. 
