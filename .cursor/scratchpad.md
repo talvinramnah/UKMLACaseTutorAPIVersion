@@ -1142,4 +1142,180 @@ fetch('/leaderboard/schools?sort_by=pass_rate&sort_order=desc&time_period=season
 ---
 
 **Goal:**
-- Implement a robust, user-friendly leaderboard UI with sorting, filtering, view toggles, and time controls, using the documented API endpoints and response structures. 
+- Implement a robust, user-friendly leaderboard UI with sorting, filtering, view toggles, and time controls, using the documented API endpoints and response structures.
+
+# Implementation Status Update
+
+## Completed Backend Changes
+
+### 1. Authentication Updates
+✅ Simplified password validation
+- Only requirement now is minimum length of 8 characters
+- All other password requirements removed
+- Rate limiting restored to production values (3/minute for signup)
+
+### 2. Username Generation
+✅ New username format implemented
+- Changed from 'medXXX123' to 3 random capitalized words
+- Maximum length of 20 characters
+- No numbers or prefixes
+- Uses English word dictionary for generation
+- Ensures uniqueness during creation
+
+### 3. Ward/Condition Organization
+✅ Alphabetical sorting implemented
+- Modified `/wards` endpoint to return alphabetically sorted wards
+- Conditions within each ward are also sorted alphabetically
+- No configuration needed; sorting is automatic
+
+### 4. Ward Progress Tracking
+✅ New database and endpoints implemented
+- Created `ward_progress` table with:
+  - RLS policies for security
+  - User-ward unique constraint
+  - Automatic timestamp management
+- New endpoints:
+  - POST `/ward_progress` - Update ward completion status
+  - GET `/ward_progress` - Retrieve all ward progress for user
+
+## Required Frontend Changes
+
+### 1. Ward Display Updates
+- Update ward card grid to use the sorted data (should be automatic)
+- Verify the display order matches the backend sorting
+
+### 2. Ward Progress Tracking UI
+1. Add Checkbox Component:
+```typescript
+interface WardProgressCheckbox {
+  wardName: string;
+  isCompleted: boolean;
+  onToggle: (completed: boolean) => Promise<void>;
+}
+```
+
+2. Add Progress State Management:
+```typescript
+interface WardProgress {
+  [wardName: string]: {
+    is_completed: boolean;
+    updated_at: string;
+  }
+}
+
+// On page load
+const response = await fetch('/ward_progress', {
+  headers: {
+    'Authorization': `Bearer ${token}`
+  }
+});
+const data = await response.json();
+const wardProgress: WardProgress = data.ward_progress;
+```
+
+3. Implement Progress Toggle:
+```typescript
+async function toggleWardProgress(wardName: string, isCompleted: boolean) {
+  try {
+    // Optimistic update
+    setWardProgress(prev => ({
+      ...prev,
+      [wardName]: { is_completed: isCompleted, updated_at: new Date().toISOString() }
+    }));
+
+    // API call
+    const response = await fetch('/ward_progress', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        ward_name: wardName,
+        is_completed: isCompleted
+      })
+    });
+
+    if (!response.ok) {
+      // Revert on error
+      setWardProgress(prev => ({
+        ...prev,
+        [wardName]: { is_completed: !isCompleted, updated_at: new Date().toISOString() }
+      }));
+      throw new Error('Failed to update progress');
+    }
+  } catch (error) {
+    console.error('Error updating ward progress:', error);
+    // Show error toast/notification
+  }
+}
+```
+
+4. Add Visual Feedback:
+```css
+.ward-card {
+  /* ... existing styles ... */
+  border: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.ward-card.completed {
+  border-color: #39FF14; /* Neon green */
+}
+```
+
+5. Update Ward Card Component:
+```typescript
+interface WardCardProps {
+  wardName: string;
+  conditions: string[];
+  isCompleted: boolean;
+  onProgressToggle: (completed: boolean) => Promise<void>;
+}
+
+function WardCard({ wardName, conditions, isCompleted, onProgressToggle }: WardCardProps) {
+  return (
+    <div className={`ward-card ${isCompleted ? 'completed' : ''}`}>
+      <h3>{wardName}</h3>
+      <div className="conditions-list">
+        {conditions.map(condition => (
+          <div key={condition}>{condition}</div>
+        ))}
+      </div>
+      <div className="progress-section">
+        <label className="checkbox-label">
+          <input
+            type="checkbox"
+            checked={isCompleted}
+            onChange={(e) => onProgressToggle(e.target.checked)}
+          />
+          When you feel confident with all conditions in this ward check this box to log your progress
+        </label>
+      </div>
+    </div>
+  );
+}
+```
+
+## Testing Checklist
+
+### Backend (✅ Completed)
+- [x] Password validation only checks length
+- [x] Username generation produces 3 capitalized words
+- [x] Wards and conditions are alphabetically sorted
+- [x] Ward progress can be saved and retrieved
+- [x] RLS policies prevent unauthorized access
+
+### Frontend (🔄 To Be Completed)
+- [ ] Verify ward/condition alphabetical sorting display
+- [ ] Implement ward progress checkbox UI
+- [ ] Add neon green border for completed wards
+- [ ] Test progress persistence across page reloads
+- [ ] Verify optimistic updates and error handling
+- [ ] Test mobile responsiveness of new UI elements
+
+## Next Steps
+1. Frontend team to implement the UI changes following the provided specifications
+2. Test the integration between frontend and backend
+3. Verify the user experience flows smoothly
+4. Deploy changes to staging for final testing 

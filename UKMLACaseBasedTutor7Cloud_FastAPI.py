@@ -34,8 +34,9 @@ import html
 import re
 from fastapi.routing import APIRoute
 import random
-import random_username
-from random_username.generate import generate_username
+import random
+import string
+from english_words import get_english_words_set
 import requests
 import asyncio
 import hashlib
@@ -443,17 +444,7 @@ def send_to_assistant(input_text, thread_id):
 
 class SignupRequest(BaseModel):
     email: EmailStr
-    password: str = Field(..., min_length=8, max_length=100)
-    
-    @validator('password')
-    def password_strength(cls, v):
-        if not any(c.isupper() for c in v):
-            raise ValueError('Password must contain at least one uppercase letter')
-        if not any(c.islower() for c in v):
-            raise ValueError('Password must contain at least one lowercase letter')
-        if not any(c.isdigit() for c in v):
-            raise ValueError('Password must contain at least one number')
-        return v
+    password: str = Field(..., min_length=8, max_length=100)  # Only length validation
 
 class LoginRequest(BaseModel):
     email: EmailStr
@@ -467,7 +458,7 @@ class LogoutRequest(BaseModel):
 
 # NOTE: Rate limit relaxed for bulk user creation/testing. Restore to '3/minute' after testing.
 @app.post("/signup", response_model=dict)
-@limiter.limit("1000/minute")  # TEMPORARY: allow bulk inserts for testing
+@limiter.limit("3/minute")  # Standard rate limit for signup
 async def signup(signup_data: SignupRequest, request: Request):
     """Register a new user account."""
     try:
@@ -608,8 +599,8 @@ def get_wards(authorization: Optional[str] = Header(None)):
     # Log which directory is being used
     logger.info(f"Reading wards from {CASE_FILES_DIR}")
     
-    # Iterate through each ward directory
-    for ward_dir in CASE_FILES_DIR.iterdir():
+    # Iterate through each ward directory (sorted alphabetically)
+    for ward_dir in sorted(CASE_FILES_DIR.iterdir()):
         if ward_dir.is_dir() and not ward_dir.name.startswith('.'):
             ward_name = ward_dir.name.title()  # Normalize ward name for display
             cases = []
@@ -621,7 +612,8 @@ def get_wards(authorization: Optional[str] = Header(None)):
                 cases.append(case_name)
                 logger.debug(f"Added case: {case_name} to ward: {ward_name}")
             if cases:
-                wards[ward_name] = cases
+                # Sort cases alphabetically
+                wards[ward_name] = sorted(cases)
     logger.info(f"Returning wards structure: {wards}")
     return {"wards": wards}
 
@@ -648,9 +640,9 @@ async def start_case(request: StartCaseRequest, authorization: str = Header(...)
         # --- Build case focus instruction ---
         focus_instruction = ""
         if request.case_focus == "investigation":
-            focus_instruction = "For this case, focus ONLY on investigation. Do not ask or discuss management."
+            focus_instruction = "For this case, focus ONLY on investigation. Do not ask or discuss management. Once the investigation is complete do not ask any questions about management. Move to the case completion steps immediately after the investigation is complete."
         elif request.case_focus == "management":
-            focus_instruction = "For this case, focus ONLY on management. Do not ask or discuss investigation."
+            focus_instruction = "For this case, focus ONLY on management. Do not ask or discuss investigation. All relevant investigations for this specific patient should have occured previously. And hence results should be given to user in questions"
         # --- Compose system prompt ---
         system_prompt = f"""
 IMPORTANT: 
@@ -672,7 +664,7 @@ CASE CONTENT (for internal guidance only – do not reveal directly):
 INSTRUCTIONS:
 
 PATIENT INTRODUCTION:
-Begin with a detailed fictional patient profile using the following structure:
+Begin with a detailed randomised fictional patient profile using the following structure:
 
 1.  
 **Name**, **Age**, **NHS number**, **Date of birth**, **Ethnicity**  
@@ -711,7 +703,8 @@ CASE DELIVERY:
 - The Assistant should guide the case never asking the user questions like "Would you like a brief summary of the key learning points from this case?".
 - Once the case is finished and all questions answered, move to the case completion steps i.e. give feedback
 - Don't ask the user to confirm if they'd like to end the case. e.g. "You've done well managing this case scenario. Would you like me to provide feedback on your performance?". Directly move to the case completion steps.
-
+- Don't ask multiple questions in on question e.g. 'Good start! To be more specific: For neurological examination, what 3 key components would you look for in this context?, For meningism, which signs would you examine for?,Regarding vital signs, which 2 measurements are particularly important to assess in this patient?'
+- 
 
 CASE COMPLETION:
 After the case is finished, end with:
@@ -1310,9 +1303,7 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
     max_retries = 5
     anon_username = None
     for _ in range(max_retries):
-        base_username = generate_username(1)[0]
-        suffix = str(random.randint(100, 999))
-        candidate = f"med{base_username.lower()}{suffix}"
+        candidate = generate_random_username(max_length=20)
         check = requests.get(
             f"{SUPABASE_URL}/rest/v1/user_metadata?anon_username=eq.{candidate}",
             headers=headers
@@ -2111,3 +2102,89 @@ async def leaderboard_schools(
         "page_size": page_size,
         "user_school_row": user_school_row
     }
+
+def generate_random_username(max_length: int = 20) -> str:
+    """Generate a unique username from 3 random capitalized words, max 20 chars."""
+    # Get a set of English words
+    word_set = get_english_words_set(['web2'], lower=True)
+    # Filter for words between 3-7 chars to ensure reasonable length
+    word_list = [word for word in word_set if 3 <= len(word) <= 7]
+    
+    def make_attempt():
+        # Get 3 random words and capitalize them
+        words = random.sample(word_list, 3)
+        capitalized = [word.capitalize() for word in words]
+        return "".join(capitalized)
+    
+    # Try to generate a username that fits the length requirement
+    for _ in range(10):  # Try up to 10 times
+        username = make_attempt()
+        if len(username) <= max_length:
+            return username
+    
+    # If we couldn't get a short enough combination, truncate the last attempt
+    return username[:max_length]
+
+class WardProgressRequest(BaseModel):
+    ward_name: str = Field(..., min_length=1)
+    is_completed: bool
+
+@app.post("/ward_progress", response_model=dict)
+async def update_ward_progress(request: WardProgressRequest, authorization: str = Header(...)):
+    """Update progress for a ward (mark as complete or incomplete)."""
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
+    token = authorization.split(" ", 1)[1]
+    user_id = extract_user_id(token)
+
+    try:
+        # Check if ward exists
+        ward_exists = False
+        wards_data = await get_wards(authorization)
+        for ward in wards_data["wards"].keys():
+            if ward.lower() == request.ward_name.lower():
+                ward_exists = True
+                break
+        if not ward_exists:
+            raise HTTPException(status_code=404, detail="Ward not found")
+
+        # Upsert ward progress
+        result = supabase.table("ward_progress").upsert({
+            "user_id": user_id,
+            "ward_name": request.ward_name,
+            "is_completed": request.is_completed,
+            "updated_at": datetime.now(timezone.utc).isoformat()
+        }).execute()
+
+        return {"success": True, "message": "Ward progress updated"}
+    except Exception as e:
+        logger.error(f"Error updating ward progress: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/ward_progress", response_model=dict)
+async def get_ward_progress(authorization: str = Header(...)):
+    """Get progress for all wards for the current user."""
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Missing or invalid Authorization header.")
+    token = authorization.split(" ", 1)[1]
+    user_id = extract_user_id(token)
+
+    try:
+        result = supabase.table("ward_progress") \
+            .select("ward_name, is_completed, updated_at") \
+            .eq("user_id", user_id) \
+            .execute()
+        
+        # Convert to dictionary for easier frontend use
+        progress = {
+            item["ward_name"]: {
+                "is_completed": item["is_completed"],
+                "updated_at": item["updated_at"]
+            }
+            for item in (result.data or [])
+        }
+        
+        return {"ward_progress": progress}
+    except Exception as e:
+        logger.error(f"Error getting ward progress: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
