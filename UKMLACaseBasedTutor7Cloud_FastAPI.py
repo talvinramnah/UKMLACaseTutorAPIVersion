@@ -1396,7 +1396,7 @@ async def feedback_report(authorization: str = Header(...)):
     desired_specialty = user_meta_result.data["desired_specialty"] if user_meta_result.data else None
 
     # 4. Milestone logic
-    report_interval = 3
+    report_interval = 10
     if total_cases < report_interval:
         return {
             "report_available": False,
@@ -1777,7 +1777,7 @@ async def weekly_dashboard_stats(authorization: str = Header(...)):
         .execute()
     total_cases = len(perf_result.data) if perf_result.data else 0
     # 5. Determine current milestone
-    report_interval = 3
+    report_interval = 10
     current_milestone = (total_cases // report_interval) * report_interval
     cases_since_last = total_cases % report_interval
     next_refresh_in_cases = report_interval - cases_since_last if cases_since_last != 0 else 0
