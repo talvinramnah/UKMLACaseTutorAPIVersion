@@ -36,7 +36,7 @@ from fastapi.routing import APIRoute
 import random
 import random
 import string
-from english_words import get_english_words_set
+from english_words import english_words_set
 import requests
 import asyncio
 import hashlib
@@ -2106,9 +2106,7 @@ async def leaderboard_schools(
 def generate_random_username(max_length: int = 20) -> str:
     """Generate a unique username from 3 random capitalized words, max 20 chars."""
     # Get a set of English words
-    word_set = get_english_words_set(['web2'], lower=True)
-    # Filter for words between 3-7 chars to ensure reasonable length
-    word_list = [word for word in word_set if 3 <= len(word) <= 7]
+    word_list = [word for word in english_words_set if 3 <= len(word) <= 7]
     
     def make_attempt():
         # Get 3 random words and capitalize them
