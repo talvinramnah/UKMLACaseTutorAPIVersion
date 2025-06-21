@@ -94,8 +94,7 @@ try:
         api_key=openai.api_key,
         default_headers={"OpenAI-Beta": "assistants=v2"},
         timeout=30.0,
-        max_retries=3,
-        http2=True
+        max_retries=3
     )
     logger.info("OpenAI client initialized successfully with Assistants v2 (optimized timeouts)")
 except Exception as e:
