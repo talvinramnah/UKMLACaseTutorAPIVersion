@@ -1,3 +1,83 @@
+# Scaling Plan for 500-1000 Concurrent Users
+
+## Background and Motivation
+The platform is preparing for a launch on Reddit and Discord, expecting a significant influx of 500-1000 users. Initial testing with just two users revealed that API responses are processed sequentially rather than in parallel, indicating a critical performance bottleneck. The goal is to identify and resolve these bottlenecks to ensure a smooth, responsive user experience at scale. This plan will focus on low-risk, high-impact changes that can be implemented quickly and safely.
+
+## Key Challenges and Analysis
+1.  **Sequential Request Processing:** The primary issue is that the application cannot handle multiple requests concurrently. This is likely due to synchronous, blocking operations within async endpoints, which freezes the entire server process. The use of decorators like `@rate_limit(1)` on core functions is a likely culprit.
+2.  **In-Memory State Management:** The application uses global Python dictionaries (`user_sessions`, `RESPONSE_CACHE`, `FILE_CACHE`) to manage user state and cache. This approach is not scalable because:
+    *   Each worker process in a production environment will have its own separate memory space, making the in-memory state inconsistent and unreliable.
+    *   Memory usage will grow unsustainably with hundreds of users, leading to server crashes.
+    *   All state is lost upon server restart or crash.
+3.  **Synchronous I/O:** Several endpoints use synchronous libraries like `requests` for external API calls (`/onboarding`, `/user_metadata/me`). These calls block the server's event loop, preventing it from handling other requests until the call completes.
+4.  **Deployment Configuration:** The current Render deployment is likely running with a single worker process. A single process cannot leverage multiple CPU cores and will quickly become overwhelmed by a high volume of requests.
+
+## High-level Task Breakdown
+
+### Phase 1: Low-Risk / High-Impact Changes (Immediate Actions)
+
+These changes address the most critical bottlenecks and are unlikely to introduce new bugs.
+
+-   [ ] **Task 1: Optimize Deployment Configuration for Concurrency**
+    *   **Action:** Create a `render.yaml` file to configure the web service.
+    *   **Details:** Set the `startCommand` to run `uvicorn` with multiple worker processes (e.g., `--workers 4`). This is the standard, safest way to enable parallel request handling.
+    *   **Success Criteria:** The application runs on Render using at least 4 worker processes.
+
+-   [ ] **Task 2: Convert Synchronous Endpoints to Asynchronous**
+    *   **Action:** Identify and convert all synchronous `def` endpoints to `async def`.
+    *   **Details:** Functions like `get_wards` and `get_badges` are defined synchronously. While FastAPI handles them in a thread pool, converting them to `async def` makes their behavior explicit and is better practice.
+    *   **Success Criteria:** All endpoint functions are defined with `async def`.
+
+-   [ ] **Task 3: Replace Synchronous HTTP Client**
+    *   **Action:** Replace the `requests` library with an asynchronous alternative like `httpx`.
+    *   **Details:** The `/onboarding` and `/user_metadata/me` endpoints use `requests.get` and `requests.post`, which are blocking. This must be replaced with `httpx.AsyncClient`.
+    *   **Success Criteria:** All external HTTP calls are made asynchronously without blocking the event loop.
+
+-   [ ] **Task 4: Optimize OpenAI Client Configuration**
+    *   **Action:** Enhance the OpenAI client initialization for better performance under load.
+    *   **Details:** Enable HTTP/2, adjust timeouts, and increase max retries.
+    *   **Success Criteria:** The `openai.OpenAI` client is initialized with `http2=True`, a `timeout` of `30.0`, and `max_retries` of `3`.
+
+### Phase 2: Medium-Risk / Higher-Effort Changes (Future-Proofing)
+
+These changes introduce new dependencies but are essential for true scalability and reliability.
+
+-   [ ] **Task 5: Externalize Caching and Session Management**
+    *   **Action:** Replace all in-memory dictionaries (`RESPONSE_CACHE`, `FILE_CACHE`, `user_sessions`) with an external Redis instance.
+    *   **Details:** This requires adding `redis` and `aioredis` to `requirements.txt`. All utility functions that interact with these dictionaries must be rewritten to perform async operations against Redis. This is critical for state consistency across multiple workers.
+    *   **Success Criteria:** The application no longer uses global dictionaries for state. All session and cache data is stored and retrieved from Redis.
+
+-   [ ] **Task 6: Remove Per-User Rate Limiting**
+    *   **Action:** Remove the custom `@rate_limit` decorator from `utils.py`.
+    *   **Details:** The global rate limiter (`slowapi`) is sufficient for protecting against abuse. The per-user, in-memory rate limit will not work correctly with multiple workers and is a source of confusion. The decorator on `send_to_assistant` was already identified as a major bottleneck.
+    *   **Success Criteria:** The `rate_limit` decorator and its related functions are removed from the codebase.
+
+## Project Status Board
+- [ ] **Phase 1**
+    - [x] Task 1: Optimize Deployment (render.yaml)
+    - [x] Task 2: Convert Endpoints to Async
+    - [x] Task 3: Replace `requests` with `httpx`
+    - [x] Task 4: Optimize OpenAI Client
+- [ ] **Phase 2**
+    - [ ] Task 5: Externalize State to Redis
+    - [ ] Task 6: Remove Custom Rate Limiter
+
+## Executor's Feedback or Assistance Requests
+Phase 1 implementation is complete. I have:
+1.  Created `render.yaml` to enable running the application with 4 concurrent workers.
+2.  Added `httpx` to `requirements.txt`.
+3.  Converted synchronous endpoints (`get_wards`, `get_badges`, `get_progress`) to `async def`.
+4.  Replaced blocking `requests` calls with non-blocking `httpx` calls in the `onboarding` and `user_metadata` endpoints.
+5.  Optimized the OpenAI client initialization for better performance and resilience.
+
+These changes directly address the most critical performance bottlenecks and should significantly improve the application's ability to handle concurrent users. The application is now ready for redeployment and testing.
+
+## Lessons
+*To be filled in as tasks are completed.*
+
+---
+*Existing Scratchpad Content Below*
+
 # UKMLA Case Tutor API - Add Desired Specialty Field
 
 ## Background and Motivation

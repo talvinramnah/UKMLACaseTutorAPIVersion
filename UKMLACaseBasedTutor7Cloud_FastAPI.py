@@ -41,6 +41,7 @@ import requests
 import asyncio
 import hashlib
 from dateutil.relativedelta import relativedelta
+import httpx
 
 # --- Logging Configuration ---
 logging.basicConfig(
@@ -92,8 +93,9 @@ try:
     client = openai.OpenAI(
         api_key=openai.api_key,
         default_headers={"OpenAI-Beta": "assistants=v2"},
-        timeout=60.0,  # Increased timeout for streaming runs
-        max_retries=2
+        timeout=30.0,
+        max_retries=3,
+        http2=True
     )
     logger.info("OpenAI client initialized successfully with Assistants v2 (optimized timeouts)")
 except Exception as e:
@@ -589,7 +591,7 @@ class SessionStateResponse(BaseModel):
     user_progress: Dict[str, Any]
 
 @app.get("/wards")
-def get_wards(authorization: Optional[str] = Header(None)):
+async def get_wards(authorization: Optional[str] = Header(None)):
     """Return a nested structure of wards and their cases from the data directory."""
     wards = {}
     
@@ -704,7 +706,8 @@ CASE DELIVERY:
 - Once the case is finished and all questions answered, move to the case completion steps i.e. give feedback
 - Don't ask the user to confirm if they'd like to end the case. e.g. "You've done well managing this case scenario. Would you like me to provide feedback on your performance?". Directly move to the case completion steps.
 - Don't ask multiple questions in on question e.g. 'Good start! To be more specific: For neurological examination, what 3 key components would you look for in this context?, For meningism, which signs would you examine for?,Regarding vital signs, which 2 measurements are particularly important to assess in this patient?'
-- 
+- When discussing management steps, ensure that recommendations or contraindications or any other advice regarding next steps are specific to a patient's presentation and condition, as well as past medical history.
+
 
 CASE COMPLETION:
 After the case is finished, end with:
@@ -1125,7 +1128,7 @@ async def save_performance(request: SavePerformanceRequest, authorization: Optio
         )
 
 @app.get("/badges")
-def get_badges(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
+async def get_badges(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
     """Get all badges for the authenticated user."""
     # 1. Validate token and extract user_id
     if not authorization or not authorization.startswith("Bearer "):
@@ -1139,7 +1142,7 @@ def get_badges(authorization: Optional[str] = Header(None), x_refresh_token: Opt
         if not user_id:
             return JSONResponse(status_code=401, content={"error": "Invalid token: no user_id."})
     except Exception as e:
-        return JSONResponse(status_code=401, content={"error": f"Invalid token: {str(e)}"})
+        return JSONResponse(status_code=500, content={"error": f"Failed to fetch badges: {str(e)}"})
 
     # 2. Query badges table for this user
     try:
@@ -1152,7 +1155,7 @@ def get_badges(authorization: Optional[str] = Header(None), x_refresh_token: Opt
 # --- USER PROGRESS ENDPOINT (OPTIONAL) ---
 
 @app.get("/progress")
-def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
+async def get_progress(authorization: Optional[str] = Header(None), x_refresh_token: Optional[str] = Header(None)):
     """Get the user's progress: completed cases, passes, badges, and statistics."""
     if not authorization or not authorization.startswith("Bearer "):
         return JSONResponse(status_code=401, content={"error": "Missing or invalid Authorization header."})
@@ -1290,44 +1293,46 @@ async def onboarding(request: OnboardingRequest, authorization: str = Header(...
         "apikey": SUPABASE_KEY,
         "Content-Type": "application/json"
     }
-    check_resp = requests.get(
-        f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}",
-        headers=headers
-    )
-    if check_resp.status_code == 200 and check_resp.json():
-        raise HTTPException(status_code=409, detail="User already onboarded.")
-    elif check_resp.status_code not in (200, 206):
-        raise HTTPException(status_code=check_resp.status_code, detail=check_resp.text)
 
-    # 3. Generate anon username
-    max_retries = 5
-    anon_username = None
-    for _ in range(max_retries):
-        candidate = generate_random_username(max_length=20)
-        check = requests.get(
-            f"{SUPABASE_URL}/rest/v1/user_metadata?anon_username=eq.{candidate}",
+    async with httpx.AsyncClient() as client:
+        check_resp = await client.get(
+            f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}",
             headers=headers
         )
-        if check.status_code == 200 and not check.json():
-            anon_username = candidate
-            break
-    if not anon_username:
-        raise HTTPException(status_code=500, detail="Failed to generate unique anonymous username.")
+        if check_resp.status_code == 200 and check_resp.json():
+            raise HTTPException(status_code=409, detail="User already onboarded.")
+        elif check_resp.status_code not in (200, 206):
+            raise HTTPException(status_code=check_resp.status_code, detail=check_resp.text)
 
-    # 4. Insert record (using Supabase REST API)
-    insert_data = {
-        "user_id": user_id,
-        "name": request.name,
-        "med_school": request.med_school,
-        "year_group": request.year_group,
-        "desired_specialty": request.desired_specialty,
-        "anon_username": anon_username
-    }
-    resp = requests.post(
-        f"{SUPABASE_URL}/rest/v1/user_metadata",
-        headers=headers,
-        json=insert_data
-    )
+        # 3. Generate anon username
+        max_retries = 5
+        anon_username = None
+        for _ in range(max_retries):
+            candidate = generate_random_username(max_length=20)
+            check = await client.get(
+                f"{SUPABASE_URL}/rest/v1/user_metadata?anon_username=eq.{candidate}",
+                headers=headers
+            )
+            if check.status_code == 200 and not check.json():
+                anon_username = candidate
+                break
+        if not anon_username:
+            raise HTTPException(status_code=500, detail="Failed to generate unique anonymous username.")
+
+        # 4. Insert record (using Supabase REST API)
+        insert_data = {
+            "user_id": user_id,
+            "name": request.name,
+            "med_school": request.med_school,
+            "year_group": request.year_group,
+            "desired_specialty": request.desired_specialty,
+            "anon_username": anon_username
+        }
+        resp = await client.post(
+            f"{SUPABASE_URL}/rest/v1/user_metadata",
+            headers=headers,
+            json=insert_data
+        )
     if resp.status_code not in (200, 201):
         raise HTTPException(status_code=resp.status_code, detail=resp.text)
     return {"anon_username": anon_username}
@@ -1355,10 +1360,11 @@ async def get_user_metadata_me(authorization: str = Header(...)):
         "Accept": "application/vnd.pgrst.object+json"
     }
 
-    resp = requests.get(
-        f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}&select=name,med_school,year_group,desired_specialty,anon_username",
-        headers=headers
-    )
+    async with httpx.AsyncClient() as client:
+        resp = await client.get(
+            f"{SUPABASE_URL}/rest/v1/user_metadata?user_id=eq.{user_id}&select=name,med_school,year_group,desired_specialty,anon_username",
+            headers=headers
+        )
 
     if resp.status_code == 200:
         return resp.json()
